@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Security Brief: TA450 Uses Embedded Links in PDF Attachments in Latest Campaign
+| UUID: 6265f228-1b56-46ef-9bd7-dbd3d02048ef
+| Date: 2024-03-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-03-22,External analysis,link,https://www.proofpoint.com/us/blog/threat-insight/security-brief-ta450-uses-embedded-links-pdf-attachments-latest-campaign,
+2024-03-22,Payload delivery,sha256,dee6494e69c6e7289cf3f332e2867662958fa82f819615597e88c16c967a25a9,PDF
+2024-03-22,Network activity,url,http://ws.onehub.com/files/[alphanumericidentifier],Example malicious URL 
+2024-03-22,Network activity,url,https://salary.egnyte.com/[alphanumericidentifier],Example malicious URL 
+2024-03-22,Network activity,url,https://ln5.sync.com/[alphanumericidentifier],Example malicious URL 
+2024-03-22,Network activity,url,https://terabox.com/s/[alphanumericidentifier],Example malicious URL 
+2024-03-22,Payload delivery,sha256,cc4cc20b558096855c5d492f7a79b160a809355798be2b824525c98964450492,salary.zip
+2024-03-22,Payload delivery,sha256,e89f48a7351c01cbf2f8e31c65a67f76a5ead689bb11e9d4918090a165d4425f,salary.msi

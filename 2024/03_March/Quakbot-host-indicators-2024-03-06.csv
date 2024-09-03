@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Quakbot host indicators [2024-03-06]
+| UUID: 323054ee-bbe4-4c47-ac81-295112e16cc4
+| Date: 2024-03-06
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-03-07,Payload installation,filename,PERSPICIATISM.iso,Source: MalwareBazaar
+2024-03-07,Payload installation,md5,75ea2aa8c2a3503ed39fd807de9fe0a3,Source: MalwareBazaar
+2024-03-07,Payload installation,sha1,09554bdd6197cb848ce2bb69cd353c1d34bafc2c,Source: MalwareBazaar
+2024-03-07,Payload installation,sha256,c2071407cf960fa166ac47d86f4a92b64873cd8c37a4ea416e80488c5f327c8f,Source: MalwareBazaar

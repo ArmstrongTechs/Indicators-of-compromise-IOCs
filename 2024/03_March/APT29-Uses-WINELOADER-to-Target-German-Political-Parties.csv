@@ -1,0 +1,141 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: APT29 Uses WINELOADER to Target German Political Parties
+| UUID: cc498a46-ea03-4bb4-8212-e92402b7aaf3
+| Date: 2024-03-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-03-23,External analysis,link,https://www.mandiant.com/resources/blog/apt29-wineloader-german-political-parties,
+2024-03-23,Network activity,url,https://waterforvoiceless.org/invite.php,actor-controlled compromised website
+2024-03-23,Network activity,ip-src,162.241.169.194,waterforvoiceless.org: Enriched via the dns module
+2024-03-23,External analysis,link,https://urlscan.io/result/1df7e6f6-0cbc-4764-9e30-4c9f709c4fc1/,"URLscan.io - Submission: On March 05 via manual (March 5th 2024, 10:47:39 am UTC) from DE  — Scanned from DE"
+2024-03-23,Network activity,url,https://waterforvoiceless.org/util.php,
+2024-03-23,Payload delivery,filename,%WINDIR%\Tasks\invite.txt,ROOTSAW
+2024-03-23,Payload delivery,filename,%WINDIR%\Tasks\invite.zip,ROOTSAW
+2024-03-23,Network activity,url,https://siestakeying.com/auth.php,
+2024-03-23,Payload installation,yara,"rule M_APT_Dropper_Rootsaw_Obfuscated
+
+{
+
+    meta:
+
+        author = ""Mandiant""
+
+        disclaimer = ""This rule is meant for hunting and is not tested to run in a production environment.""
+
+        description = ""Detects obfuscated ROOTSAW payloads""
+
+ 
+
+    strings:
+
+        $ = ""function _""
+
+        $ = ""new XMLHttpRequest();""
+
+        $ = ""'\\x2e\\x7a\\x69\\x70'""
+
+        $ = ""'\\x4f\\x70\\x65\\x6e'""
+
+        $ = ""\\x43\\x3a\\x5c\\x57""
+
+ 
+
+    condition: 
+
+        all of them
+
+}",
+2024-03-23,Payload installation,yara,"rule M_APT_Downloader_WINELOADER_1
+
+{
+
+    meta:
+
+        author = ""Mandiant""
+
+        disclaimer = ""This rule is meant for hunting and is not tested to run in a production environment.""
+
+        description = ""Detects rc4 decryption logic in WINELOADER samples""
+
+ 
+
+    strings:
+
+        $ = {B9 00 01 00 00 99 F7 F9 8B 44 24 [50-200] 0F B6 00 3D FF 00 00 00} // Key initialization
+
+        $ = {0F B6 00 3D FF 00 00 00} // Key size
+
+ 
+
+    condition:
+
+        all of them
+
+ 
+
+}",
+2024-03-23,Payload installation,yara,"rule M_APT_Downloader_WINELOADER_2
+
+{
+
+    meta:
+
+        author = ""Mandiant""
+
+        disclaimer = ""This rule is meant for hunting and is not tested to run in a production environment.""
+
+        description = ""Detects payload invocation stub in WINELOADER""
+
+ 
+
+    strings:
+
+        // 48 8D 0D ?? ?? 00 00  lea rcx, module_start (Pointer to encrypted resource)
+
+        // 48 C7 C2 ?? ?? 00 00  mov rdx, ???? (size of encrypted source)
+
+        // E8 [4]  call decryption
+
+        // 48 8D 05 [4]  lea rcx, ??
+
+        // 48 8D 0D [4]  lea rax, module_start (decrypted resource)
+
+        // 48 89 05 [4]  mov ptr_mod, rax
+
+        //
+
+        $ = {48 8D 0D ?? ?? 00 00 48 C7 C2 ?? ?? 00 00 E8 [4] 48 8d 0D [4] 48 8D 05 [4] 48 89 05 }
+
+ 
+
+    condition:
+
+        all of them
+
+}",
+2024-03-23,Network activity,url,https://waterforvoiceless.org/invite.php,
+2024-03-23,Other,text,]org,
+2024-03-23,Other,text,/invite.php,
+2024-03-23,Network activity,hostname,waterforvoiceless.org,
+2024-03-23,Other,text,waterforvoiceless[,
+2024-03-23,Network activity,domain,waterforvoiceless.org,
+2024-03-23,Payload delivery,md5,fb6323c19d3399ba94ecd391f7e35a9c,
+2024-03-23,Payload delivery,filename,Invite.pdf,
+2024-03-23,Payload delivery,md5,7a465344a58a6c67d5a733a815ef4cb7,
+2024-03-23,Payload delivery,filename,invite.php,
+2024-03-23,Payload delivery,md5,44ce4b785d1795b71cee9f77db6ffe1b,
+2024-03-23,Payload delivery,filename,invite.txt,
+2024-03-23,Payload delivery,md5,efafcd00b9157b4146506bd381326f39,
+2024-03-23,Payload delivery,filename,invite.hta,
+2024-03-23,Payload delivery,md5,5928907c41368d6e87dc3e4e4be30e42,
+2024-03-23,Payload delivery,filename,invite.zip,
+2024-03-23,Payload delivery,md5,f32c04ad97fa25752f9488781853f0ea,
+2024-03-23,Payload delivery,filename,sqldumper.exe,
+2024-03-23,Payload delivery,filename,Vcruntime140.dll,
+2024-03-23,Payload delivery,md5,e017bfc36e387e8c3e7a338782805dde,
+2024-03-23,Payload delivery,md5,8bd528d2b828c9289d9063eba2dc6aa0,
+2024-03-23,Payload delivery,filename,vcruntime140.dll,

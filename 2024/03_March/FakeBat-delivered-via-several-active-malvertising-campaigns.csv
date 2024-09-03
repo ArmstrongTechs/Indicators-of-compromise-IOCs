@@ -1,0 +1,34 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FakeBat delivered via several active malvertising campaigns
+| UUID: c36977b6-fb28-4a34-b625-7b7d02d609cb
+| Date: 2024-03-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-03-13,External analysis,link,https://www.malwarebytes.com/blog/threat-intelligence/2024/03/fakebat-delivered-via-several-active-malvertising-campaigns,
+2024-03-13,Network activity,hostname,cecar.com.ar,Hacked sites
+2024-03-13,Network activity,hostname,estiloplus.tur.ar,Hacked sites
+2024-03-13,Network activity,domain,obs-software.cc,Decoy sites
+2024-03-13,Network activity,domain,bandi-cam.cc,Decoy sites
+2024-03-13,Network activity,domain,breavas.app,Decoy sites
+2024-03-13,Network activity,domain,open-project.org,Decoy sites
+2024-03-13,Network activity,domain,onenote-download.com,Decoy sites
+2024-03-13,Network activity,domain,epicgames-store.org,Decoy sites
+2024-03-13,Network activity,domain,blcnder.org,Decoy sites
+2024-03-13,Network activity,url,bezynet.com/OBS-Studio-30.0.2-Full-Installer-x64.msix,Download URLs
+2024-03-13,Network activity,url,bezynet.com/Bandicam_7.21_win64.msix,Download URLs
+2024-03-13,Network activity,url,church-notes.com/Braavos-Wallet.msix,Download URLs
+2024-03-13,Network activity,url,church-notes.com/Epic-Games_Setup.msix,Download URLs
+2024-03-13,Network activity,url,church-notes.com/Onenote_setup.msix,Download URLs
+2024-03-13,Payload delivery,sha256,07b0c5e7d77629d050d256fa270d21a152b6ef8409f08ecc47899253aff78029,File hashes
+2024-03-13,Payload delivery,sha256,0d906e43ddf453fd55c56ccd6132363ef4d66e809d5d8a38edea7622482c1a7a,File hashes
+2024-03-13,Payload delivery,sha256,15ce7b4e6decad4b78fe6727d97692a8f5fd13d808da18cb9d4ce51801498ad8,File hashes
+2024-03-13,Payload delivery,sha256,40c9b735d720eeb83c85aae8afe0cc136dd4a4ce770022a221f85164a5ff14e5,File hashes
+2024-03-13,Payload delivery,sha256,f7fbf33708b385d27469d925ca1b6c93b2c2ef680bc4096657a1f9a30e4b5d18,File hashes
+2024-03-13,Network activity,domain,ads-pill.xyz,Command and control servers
+2024-03-13,Network activity,domain,ads-pill.top,Command and control servers
+2024-03-13,Network activity,domain,ads-tooth.top,Command and control servers
+2024-03-13,Network activity,domain,ads-analyze.top,Command and control servers

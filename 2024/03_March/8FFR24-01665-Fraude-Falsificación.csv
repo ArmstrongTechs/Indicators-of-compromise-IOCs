@@ -1,0 +1,16 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: 8FFR24-01665 [Fraude] [Falsificación]
+| UUID: 1d01326e-bf44-408a-a2fb-f404c0e29db2
+| Date: 2024-04-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-19,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática del Gobierno de Chile (CSIRT de Gobierno) ha identificado la activación de una página fraudulenta que suplanta un producto o servicio conocido.
+
+Encontramos una página fraudulenta que suplanta al Servicio de Impuestos Internos. Esta podría servir para robar credenciales o datos bancarios de usuarios.",Resumen
+2024-04-19,Network activity,ip-src,94.199.206.206,IP del sitio falso
+2024-04-19,Payload delivery,url,https://www-tarjetacencosud-cl.gulcecevre.com/,URL del sitio falso
+2024-04-19,External analysis,attachment,2024-03-20_10h07_57.png,Captura de pantalla del sitio falso

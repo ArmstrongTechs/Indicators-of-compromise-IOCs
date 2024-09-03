@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-03-05]
+| UUID: 2bde24b8-f150-4aa1-80fb-9404eca1ad0f
+| Date: 2024-03-05
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-03-05,Payload installation,filename,PUSD9212304_pdf.exe,Source: MalwareBazaar
+2024-03-05,Payload installation,md5,4e6d5263bd97cca12e0b97d89d835d88,Source: MalwareBazaar
+2024-03-05,Payload installation,sha1,a17e6d89373f2955aa3c9b0f8f362f1c0605abd8,Source: MalwareBazaar
+2024-03-05,Payload installation,sha256,61d2d93c84dfd913dbb976c21fdd3d87dd3100e9035e4dd04b3c5f4c3c705085,Source: MalwareBazaar
+2024-03-05,Payload installation,filename,Arrival Notice BL.exe,Source: MalwareBazaar
+2024-03-05,Payload installation,md5,8d5a82f3ecea4be57cb78ba78727facb,Source: MalwareBazaar
+2024-03-05,Payload installation,sha1,34d7173be356aa20ac834742b768818a01afdf04,Source: MalwareBazaar
+2024-03-05,Payload installation,sha256,dcb8e3ecffceaa12ee269bdf1f0b9e25dd7ba0f774a58f6a200c18896dbde848,Source: MalwareBazaar
+2024-03-06,Payload installation,filename,ReciboDePago.exe,Source: MalwareBazaar
+2024-03-06,Payload installation,md5,7733da960ee126b39752a737301c0f86,Source: MalwareBazaar
+2024-03-06,Payload installation,sha1,414d654545da349c21e58f0ae28021fe48a6f02b,Source: MalwareBazaar
+2024-03-06,Payload installation,sha256,3791b65b31a3b12f458e042509119c60c2b3abd4f40f4da81f7404b6fb7db268,Source: MalwareBazaar
+2024-03-06,Payload installation,filename,PT2402004...0-03pdf.exe,Source: MalwareBazaar
+2024-03-06,Payload installation,md5,2993b43ab067e38dbcdfca13cc96d1b8,Source: MalwareBazaar
+2024-03-06,Payload installation,sha1,1e7af85daa548f03710414f3f1eaec53b03b42ce,Source: MalwareBazaar
+2024-03-06,Payload installation,sha256,a533e98a86c878c9eeb075acf501ff5f27641b9677ea1a2b11ef65823cbaf1b5,Source: MalwareBazaar

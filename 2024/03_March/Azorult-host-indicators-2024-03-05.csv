@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Azorult host indicators [2024-03-05]
+| UUID: 0b06a25d-3134-40ee-9688-3aff8ac61720
+| Date: 2024-03-05
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-03-05,Payload installation,filename,WESAL SOLICITUD DE COTIZACIÓN-2024_ 5874DFRS.exe,Source: MalwareBazaar
+2024-03-05,Payload installation,md5,90559c1f9ac3d674ef0f89530f40e561,Source: MalwareBazaar
+2024-03-05,Payload installation,sha1,dfc760de338a70ed58250c08976eb79e64612e8d,Source: MalwareBazaar
+2024-03-05,Payload installation,sha256,51b655d0853dfede83ea8fc3eb2c63b5fefc4bd852d50591a5a78cb8bc9ce9d7,Source: MalwareBazaar
+2024-03-05,Payload installation,filename,rvVD.exe,Source: MalwareBazaar
+2024-03-05,Payload installation,md5,caa506ab6ff455591cb65c24c22a42bb,Source: MalwareBazaar
+2024-03-05,Payload installation,sha1,e4fdb346270ed3a7fec1b9f3bc0f5cf9f60e91a9,Source: MalwareBazaar
+2024-03-05,Payload installation,sha256,262888a7cb03705b0314506f9b149b3ec3aafd3c3923681435e7286b9d754ae4,Source: MalwareBazaar

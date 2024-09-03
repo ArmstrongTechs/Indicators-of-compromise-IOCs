@@ -1,0 +1,16 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: 8FFR24-01673 [Fraude] [Falsificación]
+| UUID: cbe3019c-1d7b-4b3e-8b05-dd70751268a1
+| Date: 2024-04-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-19,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática del Gobierno de Chile (CSIRT de Gobierno) ha identificado la activación de una página fraudulenta que suplanta un producto o servicio conocido.
+
+Identificamos la activación de una página fraudulenta que suplanta a Cencosud Scotiabank, la que podría servir para robar credenciales de usuario o datos bancarios.Lo anterior constituye una falsificación de la marca institucional que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2024-04-19,Network activity,ip-src,94.199.206.206,Sitio falso
+2024-04-19,Payload delivery,url,https://mii-tarjetacencosud-cl.gulcecevre.com/,Sitio falso
+2024-04-19,External analysis,attachment,tg_image_179113305.jpeg,Captura de pantalla del sitio falso

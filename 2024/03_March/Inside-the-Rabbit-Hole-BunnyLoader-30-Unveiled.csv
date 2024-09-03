@@ -1,0 +1,67 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Inside the Rabbit Hole: BunnyLoader 3.0 Unveiled
+| UUID: 11ce94d4-6b47-4cc8-bade-531769bbf9d7
+| Date: 2024-03-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-03-22,External analysis,link,https://unit42.paloaltonetworks.com/analysis-of-bunnyloader-malware/,
+2024-03-22,Network activity,ip-dst,37.139.129.145,BunnyLoader 1.0 C2
+2024-03-22,Network activity,ip-dst,195.10.205.23,C2
+2024-03-22,Network activity,ip-dst,172.105.124.34,C2
+2024-03-22,Network activity,ip-dst,134.122.197.80,C2
+2024-03-22,Network activity,ip-dst,91.92.254.31,C2
+2024-03-22,Network activity,ip-dst,91.92.247.212,BunnyLoader 3.0 C2
+2024-03-22,Network activity,url,http://ads.hostloads.xyz/BAGUvIxJu32I0/gate.php,C2
+2024-03-22,Payload delivery,sha256,3a64f44275b6ff41912654ae1a4af1d9c629f94b8062be441902aeff2d38af3e,UPX-packed EXE
+2024-03-22,Payload delivery,sha256,0f425950ceaed6578b2ad22b7baea7d5fe4fd550a97af501bca87d9eb551b825,UPX-packed EXE
+2024-03-22,Payload delivery,sha256,82a3c2fd57ceab60f2944b6fea352c2aab62b79fb34e3ddc804ae2dbc2464eef,Themida-packed EXE
+2024-03-22,Payload delivery,sha256,2ab21d859f1c3c21a69216c176499c79591da63e1907b0d155f45bb9c6aed4eb,PureCrypter EXE
+2024-03-22,Payload delivery,sha256,c006f2f58784671504a1f2e7df8da495759227e64f58657f23efee4f9eb58216,PureCrypter EXE
+2024-03-22,Payload delivery,sha256,52b7cdf5402f77f11ffebc2988fc8cdcd727f51a2f87ce3b88a41fd0fb06a124,PureCrypter EXE
+2024-03-22,Payload delivery,sha256,5f09411395c8803f2a735b71822ad15aa454f47e96fd10acc98da4862524813a,PureCrypter EXE
+2024-03-22,Payload delivery,sha256,cc2acf344677e4742b22725ff310492919499e357a95b609e80eaddc2b155b4b,PureCrypter EXE
+2024-03-22,Payload delivery,sha256,ebc17dbf5970acb38c35e08560ae7b38c7394f503f227575cd56ba1a4c87c8a4,PureCrypter EXE
+2024-03-22,Payload delivery,sha256,2d39bedba2a6fb48bf56633cc6943edc6fbc86aa15a06c03776f9971a9d2c550,PureCrypter EXE
+2024-03-22,Payload delivery,sha256,2e9d6fb42990126155b8e781f4ba941d54bcc346bcf85b30e3348dde75fbeca1,PureCrypter EXE
+2024-03-22,Payload delivery,sha256,74c56662da67972bf4554ff9b23afc5bdab477ba8d4929e1d7dbc608bdc96994,PureCrypter EXE
+2024-03-22,Payload delivery,sha256,fffdf51cdb54f707db617b29e2178bb54b67f527c866289887a7ada4d26b7563,PureCrypter EXE
+2024-03-22,Payload delivery,sha256,62f041b12b8b4e0debd6e7e4556b4c6ae7066fa17e67900dcbc991dbd6a8443f,PureCrypter EXE
+2024-03-22,Payload delivery,sha256,1a5ad9ae7b0dcdc2edb7e93556f2c59c84f113879df380d95835fb8ea3914ed8,.cmd script
+2024-03-22,Payload delivery,sha256,c80a63350ec791a16d84b759da72e043891b739a04c7c1709af83da00f7fdc3a,EXE payload from .cmd script
+2024-03-22,Network activity,ip-dst,185.241.208.83,C2
+2024-03-22,Network activity,ip-dst,185.241.208.104,C2
+2024-03-22,Payload installation,yara,"rule u42_crime_win_bunnyloader_%WINDIR%\memory
+{
+ meta:
+  author = ""Unit 42 Threat Intelligence""
+  date = ""2024-02-28""
+  description = ""Detects Bunnyloader 3.0, a loader with additional capabilities including keylogger, stealer, clipper, and DoS modules.""
+  hash1 = ""c80a63350ec791a16d84b759da72e043891b739a04c7c1709af83da00f7fdc3a""
+  malware_family = ""bunnyloader""
+
+
+ strings:
+  $x1 = ""Windows Defender"" fullword ascii
+  $x2 = ""ONLINE"" fullword ascii
+  $x3 = ""Blacklisted"" fullword ascii
+  $x4 = ""ESET NOD32"" fullword ascii
+  $x5 = ""McAffee"" fullword ascii
+  $x6 = ""SecurityCenter2 path AntiVirusProduct get displayName"" fullword ascii
+  $cc1 = ""&va_enc_key="" fullword ascii
+  $cc2 = ""&value="" fullword ascii
+  $cc3 = ""&arch="" fullword ascii
+  $cc4 = ""&system="" fullword ascii
+  $cc5 = ""&hostname"" fullword ascii
+  $cc6 = ""&DBID_enc_key="" fullword ascii
+  $cc7 = ""/gate.php?DBID="" fullword ascii
+  $cc8 = ""/gate.php?DCID="" fullword ascii
+  $cc9 = ""(ID|Layer|Windows_Argument)"" ascii
+
+
+ condition:
+  all of them
+}",

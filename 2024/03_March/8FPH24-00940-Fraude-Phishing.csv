@@ -1,0 +1,21 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: 8FPH24-00940 [Fraude] [Phishing]
+| UUID: 5d518c6a-1165-4695-917b-b4237f8f2849
+| Date: 2024-04-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-19,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática (CSIRT de Gobierno) ha identificado una nueva campaña de phishing.
+
+Esta campaña de phishing vía correo electrónico suplanta a CorreosChile, y en ella, los delincuentes indican falsamente a la víctima lo siguiente:“envió no entregado Por favor actualice su información de dirección dentro de 24 horas o perderemos su artículo: Confirma tu paquete su paquete no pudo ser entregado a tiempo. Siga las instrucciones para completar la entrega.”El correo electrónico incluye un enlace a un formulario para capturar credenciales de usuarios.",Resumen
+2024-04-19,Network activity,ip-src,104.21.4.92,Sitio falso
+2024-04-19,Network activity,ip-src,159.65.196.200,SMTP
+2024-04-19,Payload delivery,email-subject,Envió no entregado Por favor actualice su información de dirección,Asunto
+2024-04-19,Payload delivery,url,https://correos-cl-seguimiento.correos-cl.sbs/seguimiento/seguimiento/seguimiento.html,Sitio falso
+2024-04-19,Payload delivery,url,https://del-norte.autos/correos?https://www.correos.cl/documents/20123/33943275/,Redirección
+2024-04-19,Payload delivery,email-src,noresponder@correos.cl,Salida
+2024-04-19,External analysis,attachment,tg_image_3706799267.jpeg,Captura de pantalla del correo electrónico
+2024-04-19,External analysis,attachment,tg_image_1978579832.jpeg,Captura de pantalla del sitio fraudulento

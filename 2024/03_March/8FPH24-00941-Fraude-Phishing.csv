@@ -1,0 +1,20 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: 8FPH24-00941 [Fraude] [Phishing]
+| UUID: 3260e2e8-d652-4755-af0b-5f27707856b7
+| Date: 2024-04-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-19,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática (CSIRT de Gobierno) ha identificado una nueva campaña de phishing.
+
+Hemos identificado una nueva campaña de phishing vía correo electrónico, que suplanta a un servicio genérico de gestión de cuentas de correo, pero enfocada en cuentas del Servicio de Salud Metropolitano Oriente.En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente:“La contraseña de su casilla de correo electrónico caduca en 2 días. Para guardar su contraseña. (HAGA CLIC AQUÍ) para actualizar y enviar inmediatamente.”El correo electrónico incluye un enlace a un formulario para capturar credenciales de usuarios.",Resumen
+2024-04-19,Network activity,ip-src,104.18.176.125,Sitio falso
+2024-04-19,Network activity,ip-src,164.151.196.2,Servidor SMTP
+2024-04-19,Payload delivery,url,https://share.hsforms.com/1Ju6hrp76Rcu_DAz1E5bN1gr3lwd,Sitio falso
+2024-04-19,Payload delivery,email-subject,RE,Asunto
+2024-04-19,Payload delivery,email-src,surika.sewgoolam@kznhealth.gov.za,Correo de salida
+2024-04-19,External analysis,attachment,tg_image_3413063749.jpeg,Captura de pantalla del correo electrónico falso
+2024-04-19,External analysis,attachment,tg_image_2009090641.jpeg,Captura de pantalla sitio falso
