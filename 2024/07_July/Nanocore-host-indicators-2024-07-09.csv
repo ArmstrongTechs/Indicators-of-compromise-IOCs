@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Nanocore host indicators [2024-07-09]
+| UUID: dcf6e383-2ba5-4187-8397-002b84c5494b
+| Date: 2024-07-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-09,Payload installation,filename,CSXER09OOPMND--3098376TDGH.exe,Source: MalwareBazaar
+2024-07-09,Payload installation,md5,b5cb2e972a0d15d113133d55d8fa9494,Source: MalwareBazaar
+2024-07-09,Payload installation,sha1,cc307c7ccb5fc8ddb4aabfff18527804aeb1c077,Source: MalwareBazaar
+2024-07-09,Payload installation,sha256,f746d18424c35a1c52b119dc13aa42b613301fa45fddd94a084707384a41fabd,Source: MalwareBazaar
+2024-07-09,Payload installation,filename,P1-635487.exe,Source: MalwareBazaar
+2024-07-09,Payload installation,md5,540df7784dd16658486dc2caf73ca2a5,Source: MalwareBazaar
+2024-07-09,Payload installation,sha1,e203fbc4c4fc05def6784953933dc15c7495f96d,Source: MalwareBazaar
+2024-07-09,Payload installation,sha256,1b5a9c840d8932be77aa43135038742007e1e1ca5d9b8954966ddedb703a0ee4,Source: MalwareBazaar
+2024-07-09,Payload installation,filename,Order.exe,Source: MalwareBazaar
+2024-07-09,Payload installation,md5,5474cd7ac3c1177904da5a67e636b2dd,Source: MalwareBazaar
+2024-07-09,Payload installation,sha1,c86c722522a0fa6b9b7f2a98f59ca04110de0d11,Source: MalwareBazaar
+2024-07-09,Payload installation,sha256,93ef803a0a6d30205faaee49199b47907fa378e2350016cc63088eeb9514931d,Source: MalwareBazaar
+2024-07-10,Payload installation,filename,1e1afc422bdba3c73ad37db86fc86d1c,Source: MalwareBazaar
+2024-07-10,Payload installation,md5,1e1afc422bdba3c73ad37db86fc86d1c,Source: MalwareBazaar
+2024-07-10,Payload installation,sha1,7d8fa74ccf56e88aa3a59310a49cc660e7e8c1fc,Source: MalwareBazaar
+2024-07-10,Payload installation,sha256,535a76b11d8e55c1b67db48a5e19521233c2a877f83b65fb6e7edca3257e4a55,Source: MalwareBazaar

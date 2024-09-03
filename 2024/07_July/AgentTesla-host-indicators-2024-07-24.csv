@@ -1,0 +1,50 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-07-24]
+| UUID: 1cbc09b7-0058-4277-b75f-c096905fa9d4
+| Date: 2024-07-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-24,Payload installation,filename,Invoice Copy.exe,Source: MalwareBazaar
+2024-07-24,Payload installation,md5,4dfb4bd0e6c0bc8e4ce13b00ca882ab0,Source: MalwareBazaar
+2024-07-24,Payload installation,sha1,64025c38795661c4486166f1f0c000f2a767162d,Source: MalwareBazaar
+2024-07-24,Payload installation,sha256,ba84ff47581d052e6fefe8f380126d6f770b6307b7d512388907225b576749d2,Source: MalwareBazaar
+2024-07-24,Payload installation,filename,231210-01-AgentTesla-2eba02.exe,Source: MalwareBazaar
+2024-07-24,Payload installation,md5,7911215edc491695bf598dbff6f1d0c1,Source: MalwareBazaar
+2024-07-24,Payload installation,sha1,2eba02407a65333a3675b0bafda8ddd3f2f7fc99,Source: MalwareBazaar
+2024-07-24,Payload installation,sha256,bc419893a2948f85aa53af290eca67dc626ab1467b72a45419385d0fe709fd58,Source: MalwareBazaar
+2024-07-24,Payload installation,filename,231210-02-AgentTesla-18717f.exe,Source: MalwareBazaar
+2024-07-24,Payload installation,md5,b05a3c0a48fa716f97561a004fcc3179,Source: MalwareBazaar
+2024-07-24,Payload installation,sha1,18717fe05e1990f47d4d542f32e7e92f761c3b8a,Source: MalwareBazaar
+2024-07-24,Payload installation,sha256,6c7b513593aff542f34098e594f1ca0af29901f96ed94b58f37a32a4a961fd99,Source: MalwareBazaar
+2024-07-24,Payload installation,filename,231210-04-AgentTesla-38a0d6.exe,Source: MalwareBazaar
+2024-07-24,Payload installation,md5,7a809b6be1bf8997f5f8a668b7b93ebb,Source: MalwareBazaar
+2024-07-24,Payload installation,sha1,38a0d60ab20a60d3cc1568efe8750443676ed8c1,Source: MalwareBazaar
+2024-07-24,Payload installation,sha256,ea0380f3b4237048920d83da6f284f34bbb2a4d9c8e023fbe5d301a6bd3909aa,Source: MalwareBazaar
+2024-07-24,Payload installation,filename,231210-03-AgentTesla-f42533.exe,Source: MalwareBazaar
+2024-07-24,Payload installation,md5,cc8685cd09b9df0a973e80c1428d228f,Source: MalwareBazaar
+2024-07-24,Payload installation,sha1,f42533d0f15f0ec71b842e6c96c72db60477e1cd,Source: MalwareBazaar
+2024-07-24,Payload installation,sha256,2c2e9d772aec9f6700b9a83f7b9386bc0fd1b48d0b1131dd49c46aa859cdffb1,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,LisectAVT_2403002A_257.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,3914d1fe5113895ff467bcd01994037c,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,f2f0e0e2bf57589a3880cfaf109d149ea27673a9,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,b2060f6a5e17d27bb2413bc95ec71fb942151dd2984917831d64c6aa7120efc2,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,LisectAVT_2403002A_2.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,e099ad7e57b0011262cc822808972e10,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,f2d3a518ebe54091351ced1d068db43f4dc09056,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,449b2930259030577c8ac1061e4fd12e815b06597f8a55becf318efd44eac323,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,LisectAVT_2403002A_19.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,afb12495b0c9be1ad8acc1709ff5eb1e,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,425cdd67c93562d960e4f86d9dab43b735bf84e8,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,8c385cb00ccafc20b0e9112948b85590cc3979c489f3902918f978acd6aa508b,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,LisectAVT_2403002A_16.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,2c10cb6c2e23b7712ebf4042d669cd09,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,f86adb59bd065afd9195b9375271096f341842dc,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,546569a42f00553d7fda79e6961779afadd95ea8e6a8738ef344275f2b642244,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,LisectAVT_2403002A_17.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,7da2715df53b7fab8721d2cc64ecc107,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,f89169299505bce3ced9f2ff9c08c834d190f880,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,b4e45752a48284433993aa93868665cfb18a95f7a219ece195781ca4d012069e,Source: MalwareBazaar

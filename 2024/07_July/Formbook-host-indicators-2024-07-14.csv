@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-07-14]
+| UUID: 66adb645-9118-4210-89b6-4ead9ae91d19
+| Date: 2024-07-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-14,Payload installation,filename,DHL_AWB#6078538091.exe,Source: MalwareBazaar
+2024-07-14,Payload installation,md5,c0a07115634ef47ae073a29705e4742a,Source: MalwareBazaar
+2024-07-14,Payload installation,sha1,0a84cfc94f9a6f2bd53106a4a79db7c118f211ed,Source: MalwareBazaar
+2024-07-14,Payload installation,sha256,1ecb61a86170cb27dc9d2b85b79e8ae5c21664396a1bf6dd4d2b44a38183245e,Source: MalwareBazaar
+2024-07-14,Payload installation,filename,DHL_APC2_240708172813545.pdf.exe,Source: MalwareBazaar
+2024-07-14,Payload installation,md5,ef21d03f6847389f89c057fd2dee4ba0,Source: MalwareBazaar
+2024-07-14,Payload installation,sha1,ab5de0026cb731e285d937a70bb1b16f5a2bb811,Source: MalwareBazaar
+2024-07-14,Payload installation,sha256,d16d34e4b1d1ef563842f3a0e691642da9f814bf240827e704caa57dc3106db0,Source: MalwareBazaar
+2024-07-14,Payload installation,filename,FedEx Invoice_7447707012.exe,Source: MalwareBazaar
+2024-07-14,Payload installation,md5,e8b684a181e745c7e80acaa0dfa96193,Source: MalwareBazaar
+2024-07-14,Payload installation,sha1,cf5c3059ac345cb5fd3d943e3a5a27642ad2da0f,Source: MalwareBazaar
+2024-07-14,Payload installation,sha256,412f36cadb0568c43f0738c6a832f9096fa5692c8271b1e322b570152084dc31,Source: MalwareBazaar

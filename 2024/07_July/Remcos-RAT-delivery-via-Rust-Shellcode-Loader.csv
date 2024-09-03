@@ -1,0 +1,42 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos RAT delivery via Rust Shellcode Loader
+| UUID: 661c3fb1-cb39-4e46-bcbd-5134794b409e
+| Date: 2024-07-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-23,Payload delivery,filename|md5,myDOCFiles.zip|f7e3f38bf923a4b2d60766dd5ee76354,Malspam attachment; mime: application/zip
+2024-07-23,Payload delivery,filename|sha1,myDOCFiles.zip|a42ecc8fb3618666733ecbed7b50ce78ed63ac94,Malspam attachment; mime: application/zip
+2024-07-23,Payload delivery,filename|sha256,myDOCFiles.zip|f397c04996303506ddf0bc5356c19084935d4a834c0c176004db17bb7c2c9cba,Malspam attachment; mime: application/zip
+2024-07-23,Payload delivery,filename|sha512,myDOCFiles.zip|431de139884735ad7166d0c27d87f7f632662ac38bd13779099c34c70f3ea50d6a17bc11c324eb7c2a8cdeb66419388a8a717ef9e72e965ffe66585030ce847c,Malspam attachment; mime: application/zip
+2024-07-23,Payload delivery,filename|ssdeep,myDOCFiles.zip|24576:k17YL0sWlfRN17Jx4/Waacbah4PKKHIaNOFqEwYtV1vyiP+D9Q73N8+BhM:oE0v/tkcJh4PKKHIaNIqMTyi643i,Malspam attachment; mime: application/zip
+2024-07-23,Payload delivery,filename|md5,MLD.pdf|c680bf3ef7c086c42f6f3a6ce6e957d7,Unzipped from myDOCFiles.zip; mime: application/pdf
+2024-07-23,Payload delivery,filename|sha1,MLD.pdf|30a5a66451049e4ba84e63ae8253be6ffb9d16b8,Unzipped from myDOCFiles.zip; mime: application/pdf
+2024-07-23,Payload delivery,filename|sha256,MLD.pdf|92fbfa17b4dd1c0353ef4d7bfb5649c3a916c4e2e58303538f83db65cc709b82,Unzipped from myDOCFiles.zip; mime: application/pdf
+2024-07-23,Payload delivery,filename|sha512,MLD.pdf|c5b35a9672fbbcfc5e2905635b4541fe0f4ce51647fbdf0e9274616de2d69bee625a84bda48b451cc546adf70add01afd696c2a449c9e58c581c57f6a66979f8,Unzipped from myDOCFiles.zip; mime: application/pdf
+2024-07-23,Payload delivery,filename|ssdeep,MLD.pdf|12288:hVxC0WBfGHl+hcnGuOLL6r3u3Db9Ayk1s8AX3wqSkj368sSw3p7FFznkIwgx1eBV:onfi+cnGTU47k1AnwqSssvznkIwgxkBV,Unzipped from myDOCFiles.zip; mime: application/pdf
+2024-07-23,Payload delivery,filename|md5,data.bin|7521180adfb3092fffcec8aa52124194,Unzipped from myDOCFiles.zip; mime: application/octet-stream
+2024-07-23,Payload delivery,filename|sha1,data.bin|22d84fa9fe0fed70cc095e44fa50d3138173c66b,Unzipped from myDOCFiles.zip; mime: application/octet-stream
+2024-07-23,Payload delivery,filename|sha256,data.bin|e8e73adc7ba9f04cc0e1e0f403730ff790a7ff463cda8aaca5cbb6305bb7878e,Unzipped from myDOCFiles.zip; mime: application/octet-stream
+2024-07-23,Payload delivery,filename|sha512,data.bin|a8b7b13c99b40e2bc937f014f4148ecdc35b95a3c98eab94f5bfbc42f13e5af32b06c3602fded22d78a9f399d65ff54dbc4f5f2fca2de343d49bab49ff6b14dc,Unzipped from myDOCFiles.zip; mime: application/octet-stream
+2024-07-23,Payload delivery,filename|ssdeep,data.bin|12288:zVuA5TlF/51bteLEuIjtbkUEPFTQTFpu+EtR4jsw0fxB:zV1lgE9j13IMTa+NYxB,Unzipped from myDOCFiles.zip; mime: application/octet-stream
+2024-07-23,Payload delivery,filename|imphash,g2m.dll|f86ae2df15d743de85c724c15b1dad25,Unzipped from myDOCFiles.zip; mime: application/x-dosexec
+2024-07-23,Payload delivery,filename|md5,g2m.dll|326683813b145cc5469dff1f77c701e3,Unzipped from myDOCFiles.zip; mime: application/x-dosexec
+2024-07-23,Payload delivery,filename|sha1,g2m.dll|b31eb0e91c6e70719a15dd61e7e374ce2b7782c1,Unzipped from myDOCFiles.zip; mime: application/x-dosexec
+2024-07-23,Payload delivery,filename|sha256,g2m.dll|93439fe9b45d7b6e9fcdc5e68fd47677ea17025e4eabb6f1468cb9ae98ee8a5b,Unzipped from myDOCFiles.zip; mime: application/x-dosexec
+2024-07-23,Payload delivery,filename|sha512,g2m.dll|981bf18aa03259a557eed4fc336d27f3f55b3a0421e70b6b59c5ef9753be885b537d5e55f2d58753621b57aa6079708d35732edddd4d97d4891b79600e631fc3,Unzipped from myDOCFiles.zip; mime: application/x-dosexec
+2024-07-23,Payload delivery,filename|ssdeep,g2m.dll|6144:u9rSWpovUahUzo+NY7+c2wkYUL8NuS3ZCXfrUNfu:u9TpofojwjUL8IJ8,Unzipped from myDOCFiles.zip; mime: application/x-dosexec
+2024-07-23,Payload delivery,filename|md5,myrecentfiles.lnk|f76cb7bb3dcc0fa8dfeb0d8b23f47e61,Unzipped from myDOCFiles.zip; mime: application/octet-stream
+2024-07-23,Payload delivery,filename|sha1,myrecentfiles.lnk|5ecaf84cc9742518bd27d29b8e3d401ca9f0af4b,Unzipped from myDOCFiles.zip; mime: application/octet-stream
+2024-07-23,Payload delivery,filename|sha256,myrecentfiles.lnk|8e7eb07f9e6ff4d5e7db3dcf8bcbf909693cce12693a43c1ddd8b221cdf3a9e8,Unzipped from myDOCFiles.zip; mime: application/octet-stream
+2024-07-23,Payload delivery,filename|sha512,myrecentfiles.lnk|b018e2b989935f1ecb35eb41855027791aee5900e679a5bf5836eaef8a6456946b9289b6b37f8c92af3a95008109633583d55f13f8c3a0df3a76b13c0a835bbb,Unzipped from myDOCFiles.zip; mime: application/octet-stream
+2024-07-23,Payload delivery,filename|ssdeep,myrecentfiles.lnk|24:8ug+JmXivRDvJwRK/9WRlXWD+/CW3byRkei5qddqV9MXuHYfpK6+/CUrC9of6J2s:8yJmyxczBGRkeiEd0YXuHQBWC9toq4,Unzipped from myDOCFiles.zip; mime: application/octet-stream
+2024-07-25,Payload delivery,filename|imphash,winsys.odt|6eb9cccf95968b8becec4c870f1101db,Unzipped from myDOCFiles.zip; mime: application/x-dosexec
+2024-07-25,Payload delivery,filename|md5,winsys.odt|f1b14f71252de9ac763dbfbfbfc8c2dc,Unzipped from myDOCFiles.zip; mime: application/x-dosexec
+2024-07-25,Payload delivery,filename|sha1,winsys.odt|dcc2dcb26c1649887f1d5ae557a000b5fe34bb98,Unzipped from myDOCFiles.zip; mime: application/x-dosexec
+2024-07-25,Payload delivery,filename|sha256,winsys.odt|796ea1d27ed5825e300c3c9505a87b2445886623235f3e41258de90ba1604cd5,Unzipped from myDOCFiles.zip; mime: application/x-dosexec
+2024-07-25,Payload delivery,filename|sha512,winsys.odt|636a32fb8a88a542783aa57fe047b6bca47b2bd23b41b3902671c4e9036c6dbb97576be27fd2395a988653e6b63714277873e077519b4a06cdc5f63d3c4224e0,Unzipped from myDOCFiles.zip; mime: application/x-dosexec
+2024-07-25,Payload delivery,filename|ssdeep,winsys.odt|768:YRQnUhG5bZDOTpkdD82YbQkRFokFWIILPUh:FWObZDOTpk5T6zqAh,Unzipped from myDOCFiles.zip; mime: application/x-dosexec

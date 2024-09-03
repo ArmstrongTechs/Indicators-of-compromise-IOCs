@@ -1,0 +1,15 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: emails masquerading as Pfizer relating to requests for quotations
+| UUID: 49afff5f-6006-474b-8401-dafdbc0fa428
+| Date: 2024-07-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-16,Payload delivery,email-subject,Request for Pfizer Tender Quotation!,"""subject line"""
+2024-07-16,Payload delivery,email-subject,Request For Quotation,"""subject line"""
+2024-07-16,Payload delivery,email-src,order@pfizer-supplies.com,
+2024-07-16,Payload delivery,email-src,quotes@pfizer-supplies.com,
+2024-07-16,Network activity,domain,pfizer-supplies.com,"""Email domain """

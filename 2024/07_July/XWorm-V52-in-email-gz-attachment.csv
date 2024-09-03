@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: XWorm V5.2 in email (gz) attachment
+| UUID: 23844e60-326e-4663-9d98-2fc5a0e79629
+| Date: 2024-07-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-23,Artifacts dropped,filename,%APPDATA%\XClient.exe,
+2024-07-24,Network activity,ip-dst|port,38.170.237.12|7000,C2
+2024-07-23,Artifacts dropped,filename,%APPDATA%\nVUUZjPqsQbdz.exe,ADS
+2024-07-24,Persistence mechanism,other,"/Create /TN ""Updates\nVUUZjPqsQbdz"" /XML ""%TEMP%\tmp84A3.tmp""",Task Scheduler
+2024-07-24,Network activity,user-agent,Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0,
+2024-07-24,Network activity,user-agent,"Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1",
+2024-07-24,Network activity,user-agent,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36",
+2024-07-24,Persistence mechanism,other,%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\XClient.lnk,StartUp
+2024-07-23,Payload delivery,malware-sample,PO#987.pdf.gz|7f4d05bd8c78aa5c9febd293e2c276ce,
+2024-07-23,Payload delivery,filename,PO#987.pdf.gz,
+2024-07-23,Payload delivery,md5,7f4d05bd8c78aa5c9febd293e2c276ce,
+2024-07-23,Payload delivery,sha1,fe2e11a0ed8f7958502475e667e0b9b19f7a474d,
+2024-07-23,Payload delivery,sha256,94cbd2a4078453a5e47b577ad148585f04b64c43867a4e7477636c8f36fb1eaf,
+2024-07-23,Other,size-in-bytes,379456,
+2024-07-23,Payload delivery,malware-sample,PO-MJK#0097558879978.exe|ca1b52ba6e0049da9fe157f1619727e5,
+2024-07-23,Payload delivery,filename,PO-MJK#0097558879978.exe,
+2024-07-23,Payload delivery,md5,ca1b52ba6e0049da9fe157f1619727e5,
+2024-07-23,Payload delivery,sha1,7006e56b64c254980fa10fc9cc3935710a7caa82,
+2024-07-23,Payload delivery,sha256,2a8b7b09ae2bcc3bdb460cacbec0c09c3dde191cc45208d938efec70a5685c7f,
+2024-07-23,Other,size-in-bytes,399360,

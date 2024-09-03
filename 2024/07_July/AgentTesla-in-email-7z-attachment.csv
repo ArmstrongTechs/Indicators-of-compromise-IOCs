@@ -1,0 +1,25 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla in email (7z) attachment
+| UUID: 79f8bd87-3edb-4708-944d-e098e9360424
+| Date: 2024-07-05
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-05,Network activity,email,payments@floormelody.com.sg,
+2024-07-05,Network activity,email,accounts@electronex.com.sg,
+2024-07-05,Network activity,domain,mail.floormelody.com.sg,
+2024-07-05,Payload delivery,malware-sample,INVOICE.7z|73d037f4aa3a9fd524b076122a584003,
+2024-07-05,Payload delivery,filename,INVOICE.7z,
+2024-07-05,Payload delivery,md5,73d037f4aa3a9fd524b076122a584003,
+2024-07-05,Payload delivery,sha1,1a3b16e39c3af4e7240981b41e96588bfa0765ce,
+2024-07-05,Payload delivery,sha256,08e698eb046a020c96014477ae6912742eb59004ce021af887786d4db7eca89b,
+2024-07-05,Other,size-in-bytes,666907,
+2024-07-05,Payload delivery,malware-sample,INVOICE.exe|cf1f668d245913d183ec9d11465be65f,
+2024-07-05,Payload delivery,filename,INVOICE.exe,
+2024-07-05,Payload delivery,md5,cf1f668d245913d183ec9d11465be65f,
+2024-07-05,Payload delivery,sha1,c684699e9040d67dd6441b692be4bd5e1f4f0a48,
+2024-07-05,Payload delivery,sha256,57ae74fa64d4a55b67e54f0a07d4fe67e73189213c7e3de18e0d03abe397c088,
+2024-07-05,Other,size-in-bytes,692224,

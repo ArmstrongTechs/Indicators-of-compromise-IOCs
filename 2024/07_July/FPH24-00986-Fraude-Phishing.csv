@@ -1,0 +1,20 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00986 [Fraude] [Phishing]
+| UUID: 50183248-f6cf-40a9-8e81-6486f442e6ef
+| Date: 2024-07-15
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-15,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+Se trata de una nueva campaña de phishing a través de email, que suplanta a Netflix.En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente:&quot;Lamentamos informarle que su suscripción ha sido cancelada. Su última factura está esperando ser pagada. Te pedimos que resuelvas la situación para que puedas seguir disfrutando de los beneficios de Netflix.&quot;El correo electrónico fraudulento incluye un enlace a un formulario malicioso, usado para capturar credenciales de los usuarios.",Resumen
+2024-07-15,Network activity,ip-src,45.139.104.76,IP sitio falso
+2024-07-15,Network activity,ip-src,54.240.48.111,IP SMTP
+2024-07-15,Payload delivery,url,http://mx-nut.com/,URL redirección
+2024-07-15,Payload delivery,url,https://account-help-center.com/home/index.php,URL sitio falso
+2024-07-15,Payload delivery,email-subject,Problemas de facturación,Asunto email
+2024-07-15,External analysis,attachment,2024-07-15_10h20_55.png,
+2024-07-15,External analysis,attachment,2024-07-15_10h21_38.png,

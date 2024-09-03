@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-07-01]
+| UUID: 518a903c-8836-491c-8a38-2ef47bbf68d2
+| Date: 2024-07-01
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-01,Payload installation,filename,SeAH RFP_24-0676·pdf.exe,Source: MalwareBazaar
+2024-07-01,Payload installation,md5,8951c491b26675b308464af7a29567bd,Source: MalwareBazaar
+2024-07-01,Payload installation,sha1,883bd6d014e3baf9141b304519fc34eef20eb41f,Source: MalwareBazaar
+2024-07-01,Payload installation,sha256,3fc5e4d002e04269f2f674e6a2e98935df133ffe0f1fd54c817662d864c2f1b8,Source: MalwareBazaar
+2024-07-02,Payload installation,filename,Scan_Hsbc_Payment_advice.xls,Source: MalwareBazaar
+2024-07-02,Payload installation,md5,97926e93c2dff92877d1d5fd031a5c75,Source: MalwareBazaar
+2024-07-02,Payload installation,sha1,9819949a217717bdae5019e2f3022a4fe9f6328e,Source: MalwareBazaar
+2024-07-02,Payload installation,sha256,12bada61c4a1dbffe2725b96e7124648b47135fefa35218e5553dc035a8488e2,Source: MalwareBazaar
+2024-07-02,Payload installation,filename,bb1b8864e1d82735205d07d202c5d864,Source: MalwareBazaar
+2024-07-02,Payload installation,md5,bb1b8864e1d82735205d07d202c5d864,Source: MalwareBazaar
+2024-07-02,Payload installation,sha1,a80fa1fa6dfff8bf98216e47af0beacf125714ab,Source: MalwareBazaar
+2024-07-02,Payload installation,sha256,0464da926fb18f221087c3d88c51b18b81d5776e559fbf9b76d8e1301c95a8b9,Source: MalwareBazaar

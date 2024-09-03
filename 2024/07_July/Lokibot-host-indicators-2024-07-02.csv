@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-07-02]
+| UUID: 9580a89a-a71f-4d4f-b58b-d7fbbcaac2e1
+| Date: 2024-07-02
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-02,Payload installation,filename,Purchase Order 02.07.2024.PDF.cmd.exe,Source: MalwareBazaar
+2024-07-02,Payload installation,md5,f17d5a8b9a853e6f1647cfe74dfa8db8,Source: MalwareBazaar
+2024-07-02,Payload installation,sha1,86cf4eefa5867518636070d71ef8448d8901c880,Source: MalwareBazaar
+2024-07-02,Payload installation,sha256,64665200a953a20b6f2a51b1071469a1d4984432da6384b76cc2bd81bd66f85a,Source: MalwareBazaar
+2024-07-02,Payload installation,filename,Obavestenje o deviznom prilivu.Pdf.cmd.exe,Source: MalwareBazaar
+2024-07-02,Payload installation,md5,9e563eff473f135bb745d111006aa96b,Source: MalwareBazaar
+2024-07-02,Payload installation,sha1,18b34df821644267e39f7bec4f71c11f72703dad,Source: MalwareBazaar
+2024-07-02,Payload installation,sha256,b2059d6bde8d6af8476a968a13f14486edf3c905495a36cd963dc9765c40863a,Source: MalwareBazaar

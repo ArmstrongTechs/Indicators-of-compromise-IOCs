@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-07-16]
+| UUID: 9f753209-d759-4c3a-90f3-270cb92ad1b6
+| Date: 2024-07-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-16,Payload installation,filename,SecuriteInfo.com.TrojanLoader.MSIL.DaVinci.Heur.5540.23659,Source: MalwareBazaar
+2024-07-16,Payload installation,md5,48a2dfb8bd26c063ba24cbbfc0422a35,Source: MalwareBazaar
+2024-07-16,Payload installation,sha1,05dab7d32c03873e57e61e0d09272441bba37b77,Source: MalwareBazaar
+2024-07-16,Payload installation,sha256,fb20f2515799981b9b526e6326f5fb1b3e54b200119ee1d02141d0513aa34fc3,Source: MalwareBazaar
+2024-07-16,Payload installation,filename,x.rar,Source: MalwareBazaar
+2024-07-16,Payload installation,md5,49383645776559480b457e97bb441b7c,Source: MalwareBazaar
+2024-07-16,Payload installation,sha1,c4d171e64ae15635a1fdc045477d361babb607ba,Source: MalwareBazaar
+2024-07-16,Payload installation,sha256,9cbbaafb4a2779355438a57c72a94e6d6e2720c0ff456d355102cb04758afad8,Source: MalwareBazaar
+2024-07-16,Payload installation,filename,SecuriteInfo.com.Trojan-Downloader.Autoit.gen.3453.31793,Source: MalwareBazaar
+2024-07-16,Payload installation,md5,13c0e83573fffeb4e951929815daf4e1,Source: MalwareBazaar
+2024-07-16,Payload installation,sha1,9e1302aaabccb29247948ded46c92fca6d1fa2a0,Source: MalwareBazaar
+2024-07-16,Payload installation,sha256,d37fe4f855049ecab456f1badc8f52afecf4d6ee3d7d43de84b7e0940dbb7399,Source: MalwareBazaar
+2024-07-16,Payload installation,filename,z3NOVOPEDIDODECOMPRA.exe,Source: MalwareBazaar
+2024-07-16,Payload installation,md5,7287e41cfb376388b55cee149649dc13,Source: MalwareBazaar
+2024-07-16,Payload installation,sha1,aa0adb1fbb53c641b496576510325cb472b7a1b8,Source: MalwareBazaar
+2024-07-16,Payload installation,sha256,b77792487c03ffa2343cc4406834d7b3246608635d70b9bbcb43bfd6d48abb3e,Source: MalwareBazaar

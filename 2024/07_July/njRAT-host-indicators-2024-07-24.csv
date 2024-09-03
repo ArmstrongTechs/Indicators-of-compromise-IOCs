@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2024-07-24]
+| UUID: e39b88a6-3d8e-4b19-ab2f-af2e58646eba
+| Date: 2024-07-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-25,Payload installation,filename,CobianRAT v1.0.40.7.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,b630a573dd3c0b9c2ce01a23423b898a,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,881a7d2bdb469a5ac6a8f672b4940b47df2f5412,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,868185056c179ebc0b0173ea2d51b8df984d8a8dd91e814dfc6acd0a2d6f06bc,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,LisectAVT_2403002A_181.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,1b6b607a20583eb49b30170cbb3ad4e4,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,13658447a8b8b464d404c5e325ebe4baee9c6927,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,73cd433c001e465c08ee01a13865057345fd9c917386bb37fdd5624b9fef4743,Source: MalwareBazaar

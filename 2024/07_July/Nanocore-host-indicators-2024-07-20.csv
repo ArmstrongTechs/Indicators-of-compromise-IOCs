@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Nanocore host indicators [2024-07-20]
+| UUID: 7040f988-0313-4f1e-8c24-be18665050cc
+| Date: 2024-07-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-20,Payload installation,filename,Mille raisons de venir.scr.exe,Source: MalwareBazaar
+2024-07-20,Payload installation,md5,ebb76f0ad42d838df23137b3321d79ff,Source: MalwareBazaar
+2024-07-20,Payload installation,sha1,946ea76180d53a3049ea7a3b07403ee628b9fac2,Source: MalwareBazaar
+2024-07-20,Payload installation,sha256,79f7fa86d8dba1349208fa8c36663deb9d6c91a2be54b43d2fc6b7cb78039023,Source: MalwareBazaar

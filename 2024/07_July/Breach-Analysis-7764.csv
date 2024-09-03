@@ -1,0 +1,29 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Breach Analysis #7764
+| UUID: ff292021-ab43-4e6d-9201-52b7b18b5d9a
+| Date: 2024-07-01
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-01,Network activity,url,https://shevtsovy.com/xmlrpc.php,C2 used by the deployed payload
+2024-07-01,Network activity,url,https://www.chania-crete.com/xmlrpc.php,C2 used by the deployed payload
+2024-07-01,Network activity,url,https://terranovaconstrucoes.com.br/xmlrpc.php,C2 used by the deployed payload
+2024-07-01,Network activity,url,https://sparo1.se/xmlrpc.php,C2 used by the deployed payload
+2024-07-01,Network activity,url,https://wct-witcom.nl/xmlrpc.php,C2 used by the deployed payload
+2024-07-01,Network activity,url,https://4dgamers.com/manual.php,Domain found in the PowerShell commands started by “Analytical Support.js” script
+2024-07-01,Network activity,url,https://www.kobietybiznesu.eu/,Domain found in the PowerShell commands started by “Analytical Support.js” script
+2024-07-01,Network activity,url,https://carrowaycrochet.com/,Domain found in the PowerShell commands started by “Analytical Support.js” script
+2024-07-01,Network activity,url,https://selmacopenhagen.dk/,Domain found in the PowerShell commands started by “Analytical Support.js” script
+2024-07-01,Network activity,url,https://sheilalandrydesigns.com/,Domain found in the PowerShell commands started by “Analytical Support.js” script
+2024-07-01,Network activity,url,https://motocom.co/,Domain found in the PowerShell commands started by “Analytical Support.js” script
+2024-07-01,Network activity,url,https://avanupvc.com/,Domain found in the PowerShell commands started by “Analytical Support.js” script
+2024-07-01,Network activity,url,https://visi.news/,Domain found in the PowerShell commands started by “Analytical Support.js” script
+2024-07-01,Network activity,url,https://www.nilsfuncke.se/,Domain found in the PowerShell commands started by “Analytical Support.js” script
+2024-07-01,Network activity,url,https://news24.city/,Domain found in the PowerShell commands started by “Analytical Support.js” script
+2024-07-01,Network activity,url,https://marytv.tv/,Domain found in the PowerShell commands started by “Analytical Support.js” script
+2024-07-01,Payload delivery,sha1,1d62d330188faf76f4155f3d16a6366678b4256c,C:\Users\0316.bdg\AppData\Local\Temp\7b5a3225-c8dc-47e1-81a5-66c11651ac2d_Difference_between_hague_rules_and_hague-visby_rules_6695.zip.c2d\difference between hague rules and hague-visby rules 55248.js
+2024-07-01,Payload delivery,sha1,6dab9917651cd04f9be5a8e470c80c7a07827832,C:\Users\0316.bdg\Downloads\Difference_between_hague_rules_and_hague-visby_rules_6695.zip
+2024-07-01,Payload delivery,sha1,8e2422cdcb245f14bff595771daaeecc76ef263c,C:\Users\0316.bdg\AppData\Roaming\Adobe\Analytical Support.js

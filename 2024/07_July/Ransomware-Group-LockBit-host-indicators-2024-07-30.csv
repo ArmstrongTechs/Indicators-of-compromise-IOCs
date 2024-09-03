@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Ransomware Group LockBit host indicators [2024-07-30]
+| UUID: 4eac59b5-ab54-4cbc-b43f-8c5454dfd9f1
+| Date: 2024-07-30
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-31,Payload installation,filename,LB3.exe,Source: MalwareBazaar
+2024-07-31,Payload installation,md5,11c051782c327c662507801124f0b95b,Source: MalwareBazaar
+2024-07-31,Payload installation,sha1,5dd92a1ab1cfc5b73b5dcdb3edd6ea6d498339df,Source: MalwareBazaar
+2024-07-31,Payload installation,sha256,3c13ae9a53b29849fd3bb75d3259a23658cd687441f8bdd610487007c51d2eac,Source: MalwareBazaar

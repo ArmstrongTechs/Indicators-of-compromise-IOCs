@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-07-31]
+| UUID: 71a73f6f-d507-4365-b01c-1daabc179217
+| Date: 2024-07-31
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-31,Payload installation,filename,swift copy.exe,Source: MalwareBazaar
+2024-07-31,Payload installation,md5,98175cc5f920d27d0b1b2c4cd710f2ce,Source: MalwareBazaar
+2024-07-31,Payload installation,sha1,f9e158c7ce275adc75933f6e07b0e3df9452bc5f,Source: MalwareBazaar
+2024-07-31,Payload installation,sha256,a71a0892d0395334223e908bb419cbc80bd6e36f5165d6557bf118d0ce9aea46,Source: MalwareBazaar

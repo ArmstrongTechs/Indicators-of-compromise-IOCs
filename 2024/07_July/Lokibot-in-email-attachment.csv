@@ -1,0 +1,29 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot in email attachment
+| UUID: e5a2233a-10c4-4e4e-afb0-e562527c14c9
+| Date: 2024-07-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-18,Network activity,url,http://104.248.205.66/modify.php?,C2
+2024-07-18,Payload delivery,malware-sample,Potrditev.tar|506a971a52434763692e208e9151d2d2,
+2024-07-18,Payload delivery,filename,Potrditev.tar,
+2024-07-18,Payload delivery,md5,506a971a52434763692e208e9151d2d2,
+2024-07-18,Payload delivery,sha1,2c0c2d61c278b6295a468ee08cfc30516cb8752d,
+2024-07-18,Payload delivery,sha256,b286678c773829fb7f5c08ef4eea139a252224e855ed51040d39bdb4da0c67e6,
+2024-07-18,Other,size-in-bytes,782476,
+2024-07-18,Payload delivery,malware-sample,Potrditev.cmd|306e6e3743666b8f5fedb0127b041883,
+2024-07-18,Payload delivery,filename,Potrditev.cmd,
+2024-07-18,Payload delivery,md5,306e6e3743666b8f5fedb0127b041883,
+2024-07-18,Payload delivery,sha1,53ac1756ee69296be5f5c99ee18b1d1cb70369d4,
+2024-07-18,Payload delivery,sha256,20a156c7ad57c2c78a63e7f8d318d2bbba7e0d94186f92ef469aed643e1bf5cc,
+2024-07-18,Other,size-in-bytes,2904044,
+2024-07-18,Payload delivery,malware-sample,Potrditev.exe|aa4820620a6d753208dbd180c8ddc87a,
+2024-07-18,Payload delivery,filename,Potrditev.exe,
+2024-07-18,Payload delivery,md5,aa4820620a6d753208dbd180c8ddc87a,
+2024-07-18,Payload delivery,sha1,d687b79b4eb4359d7c310681e978c1be1ff46109,
+2024-07-18,Payload delivery,sha256,ae5740d23ffac06e5bda5dd0acfa6023df3c7951ca0c97bd3dc4b1dd22a34525,
+2024-07-18,Other,size-in-bytes,980480,

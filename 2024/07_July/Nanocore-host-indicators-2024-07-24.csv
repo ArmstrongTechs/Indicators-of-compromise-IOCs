@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Nanocore host indicators [2024-07-24]
+| UUID: 1a689df5-5cdf-4f5c-b6ba-6ad5001967ef
+| Date: 2024-07-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-25,Payload installation,filename,LisectAVT_2403002A_60.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,6bd4c51e4031c7c52f317c7f0ce6fe82,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,8fcea7b4943f220bae3abf2bd6f2e743e4c8ce22,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,19692cac2951c941e251f500f458a5b14d064784539924479ea4b2ec8c2de0f0,Source: MalwareBazaar

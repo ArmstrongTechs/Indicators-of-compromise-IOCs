@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Azorult host indicators [2024-07-05]
+| UUID: 6ed185e6-92b3-408d-a5ad-0ad6d42361af
+| Date: 2024-07-05
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-05,Payload installation,filename,MT110563270605DOC.exe,Source: MalwareBazaar
+2024-07-05,Payload installation,md5,ed80e2f07ae9c6534c1fed9a00b60682,Source: MalwareBazaar
+2024-07-05,Payload installation,sha1,63533fa8e25c1d7950eb33cfabf95bf460a83375,Source: MalwareBazaar
+2024-07-05,Payload installation,sha256,40f13891225b6d4bcee5e2c613d4b77e241cc67ffda4ffcaff5b4d1c0b00688d,Source: MalwareBazaar

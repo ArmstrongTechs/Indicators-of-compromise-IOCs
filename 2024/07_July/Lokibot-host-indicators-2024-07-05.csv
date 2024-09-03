@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-07-05]
+| UUID: 176fa8d1-ab6f-499f-9785-b15af756d725
+| Date: 2024-07-05
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-05,Payload installation,filename,pago-087.exe,Source: MalwareBazaar
+2024-07-05,Payload installation,md5,e9b1be2e63fc218bd1207838612575ca,Source: MalwareBazaar
+2024-07-05,Payload installation,sha1,9bdea32b60dbd1166072774d75a3019417690b1c,Source: MalwareBazaar
+2024-07-05,Payload installation,sha256,9bc70a2e37123deefafa303ca59ea0dd304b17e2f0288b3b6730104da0e0f6f1,Source: MalwareBazaar

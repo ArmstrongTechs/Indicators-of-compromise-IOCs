@@ -1,0 +1,52 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot downloader malspam - email attachment
+| UUID: 9cfccf07-694f-49ca-9061-1f37e0b05779
+| Date: 2024-07-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-18,Artifacts dropped,filename,%PUBLIC%\Libraries\CLEAN.COM,
+2024-07-18,Network activity,url,https://mbsngradnja.com/255_Zdrjgrahmei,Payload URL
+2024-07-18,Network activity,url,https://aquadream.rs/255_Zdrjgrahmei,Payload URL
+2024-07-18,Network activity,domain,mbsngradnja.com,
+2024-07-18,Network activity,domain,aquadream.rs,
+2024-07-18,Artifacts dropped,filename,%PUBLIC%\Zdrjgrah.url,
+2024-07-18,Artifacts dropped,filename,%PUBLIC%\Libraries\PNO,
+2024-07-18,Artifacts dropped,filename,%PUBLIC%\Libraries\Zdrjgrah,
+2024-07-18,Artifacts dropped,filename,%PUBLIC%\Libraries\Zdrjgrah.PIF,
+2024-07-18,Persistence mechanism,regkey,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\Zdrjgrah,
+2024-07-18,Network activity,url,http://104.248.205.66/index.php/modify.php?edit=1,LokiBot C2
+2024-07-18,Network activity,ip-dst|port,104.248.205.66|80,
+2024-07-18,Payload delivery,malware-sample,Potrditev.cmd|306e6e3743666b8f5fedb0127b041883,
+2024-07-18,Payload delivery,filename,Potrditev.cmd,
+2024-07-18,Payload delivery,md5,306e6e3743666b8f5fedb0127b041883,
+2024-07-18,Payload delivery,sha1,53ac1756ee69296be5f5c99ee18b1d1cb70369d4,
+2024-07-18,Payload delivery,sha256,20a156c7ad57c2c78a63e7f8d318d2bbba7e0d94186f92ef469aed643e1bf5cc,
+2024-07-18,Other,size-in-bytes,2904044,
+2024-07-18,Payload delivery,malware-sample,Potrditev.tar|506a971a52434763692e208e9151d2d2,
+2024-07-18,Payload delivery,filename,Potrditev.tar,
+2024-07-18,Payload delivery,md5,506a971a52434763692e208e9151d2d2,
+2024-07-18,Payload delivery,sha1,2c0c2d61c278b6295a468ee08cfc30516cb8752d,
+2024-07-18,Payload delivery,sha256,b286678c773829fb7f5c08ef4eea139a252224e855ed51040d39bdb4da0c67e6,
+2024-07-18,Other,size-in-bytes,782476,
+2024-07-18,Payload delivery,malware-sample,CLEAN.COM|aa4820620a6d753208dbd180c8ddc87a,
+2024-07-18,Payload delivery,filename,CLEAN.COM,
+2024-07-18,Payload delivery,md5,aa4820620a6d753208dbd180c8ddc87a,
+2024-07-18,Payload delivery,sha1,d687b79b4eb4359d7c310681e978c1be1ff46109,
+2024-07-18,Payload delivery,sha256,ae5740d23ffac06e5bda5dd0acfa6023df3c7951ca0c97bd3dc4b1dd22a34525,
+2024-07-18,Other,size-in-bytes,980480,
+2024-07-18,Payload delivery,malware-sample,payload.bin|6b290ff56d23a18a97313fb7cd50805f,
+2024-07-18,Payload delivery,filename,payload.bin,
+2024-07-18,Payload delivery,md5,6b290ff56d23a18a97313fb7cd50805f,
+2024-07-18,Payload delivery,sha1,d3e60ba4e59669ec054860d7e5397505c9b85f0f,
+2024-07-18,Payload delivery,sha256,db360bb17f1c2d0d1df5c99b1b120336df5ce024fb57cda8d743acfb2f6581f1,
+2024-07-18,Other,size-in-bytes,548660,
+2024-07-18,Payload delivery,malware-sample,F3C4B0E0-lokibot.exe|d195d9b266df9f1fb4b6e5b28f39f840,
+2024-07-18,Payload delivery,filename,F3C4B0E0-lokibot.exe,
+2024-07-18,Payload delivery,md5,d195d9b266df9f1fb4b6e5b28f39f840,
+2024-07-18,Payload delivery,sha1,813d036fbd42074f8ce8c8e5b2f09a1b84900b71,
+2024-07-18,Payload delivery,sha256,fa36ec7029a4145902e1ca5fb9eb358d217450503f01ef10c4cce3f17067b4da,
+2024-07-18,Other,size-in-bytes,106496,

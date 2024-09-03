@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Azorult host indicators [2024-07-17]
+| UUID: e1b4cd76-8ed4-469c-b549-1bb526c1425b
+| Date: 2024-07-17
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-17,Payload installation,filename,SC-91048-docs.exe,Source: MalwareBazaar
+2024-07-17,Payload installation,md5,6b67c037861d71932f9971faade3c695,Source: MalwareBazaar
+2024-07-17,Payload installation,sha1,03313a12f94a0923bd456a058bb974e43f3c8562,Source: MalwareBazaar
+2024-07-17,Payload installation,sha256,94d77da6e9ba6786e66b3864a9092a028d4e076774a5003b50eea0b5b04be074,Source: MalwareBazaar

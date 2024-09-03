@@ -1,0 +1,37 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lumma Stealer (LummaC2) Open Dir
+| UUID: 46f7eccb-eb7e-4f21-8ea2-df916bb36ea1
+| Date: 2024-07-30
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-30,Network activity,url,http://45.61.136.185/modules,
+2024-07-30,Network activity,url,http://45.61.136.185/modules/,
+2024-07-30,Network activity,url,http://45.61.136.185/modules/999.exe,
+2024-07-30,Network activity,url,http://45.61.136.185/modules/exe.exe,
+2024-07-30,Network activity,url,http://45.61.136.185/modules/explorer.exe/,
+2024-07-30,Network activity,url,http://45.61.136.185/modules/explorer.eze,
+2024-07-30,Network activity,url,http://45.61.136.185/modules/files.exe,
+2024-07-30,Network activity,url,http://45.61.136.185/modules/proof.exe,
+2024-07-30,Network activity,url,http://45.61.136.185/modules/qe53.exe,
+2024-07-30,Network activity,url,http://45.61.136.185/modules/qhq64.exe,
+2024-07-30,Network activity,url,http://45.61.136.185/modules/qq2.exe/,
+2024-07-30,Network activity,url,http://45.61.136.185/modules/qqg335.exe,
+2024-07-30,Network activity,url,http://45.61.136.185/modules/qqgeqg.exe,
+2024-07-30,Network activity,url,http://45.61.136.185/modules/qqgeqg.exe/,
+2024-07-30,Network activity,url,http://45.61.136.185/modules/qqgeqg.exeP,
+2024-07-30,Network activity,url,http://45.61.136.185/modules/qqq1,
+2024-07-30,Network activity,url,http://45.61.136.185/modules/qqq133.exe,
+2024-07-30,Network activity,url,http://45.61.136.185/modules/qqqq.exe,
+2024-07-30,Network activity,url,http://45.61.136.185/modules/tester.exe,
+2024-07-30,Payload delivery,sha256,d6ed2b6a36a4df6ca45c6a3843adb8f096e889541cbdf13c842ea6807ff49149,
+2024-07-30,Payload delivery,sha256,0f701ed8416c47393dee28072395046f1a05f6871e736a09ba41d7836a107cdb,
+2024-07-30,Payload delivery,sha256,dea677961aed1c5722845681df01b89d6f939f88f660a3eadcebbf4196ccc068,
+2024-07-30,Payload delivery,sha256,8277d19c9a6a045a7b1fdf73ad4efacde8acf1492f94a1e78e47a4f42e0339c7,
+2024-07-30,Payload delivery,sha256,d83cf5c81093f77e3dbd3cceae703f968422d77709fdf49cd1c73d597eda5c9b,
+2024-07-30,Payload delivery,sha256,e021f7185c57f66bb08f40e3f490faa19428f0aaed5b69ab7237837b7d981482,
+2024-07-30,Payload delivery,sha256,068e03599b7f71f00c5ee9ee6b8d574cb722fa9b9302ef094cb8b99e94ea8ca1,
+2024-07-30,Payload delivery,sha256,925a2e2a526766ee617aaf32249ffec7561762060da9c1e1b4c352e2cfebdf09,

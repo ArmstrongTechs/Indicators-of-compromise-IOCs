@@ -1,0 +1,21 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00990 [Fraude] [Phishing]
+| UUID: 97ff1eca-6317-4829-9d0a-ecda1ef6834a
+| Date: 2024-07-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-24,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+En esta campaña, los delincuentes envían un email falso que alerta una supuesta actualizacion anual de credenciales de Outlook. ¡No hagas clic!",Resumen
+2024-07-24,Network activity,ip-src,151.101.130.188,IP sitio falso
+2024-07-24,Network activity,ip-src,179.27.50.236,IP SMTP
+2024-07-24,Payload delivery,email-subject,Actualización importante de la mesa de servicio de TI,Asunto correo
+2024-07-24,Payload delivery,email-src,csevero@bse.com.uy,Correo de salida
+2024-07-24,Payload delivery,url,https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Foutlook-web-access-c2d47d.webflow.io%2F&data=05%7C02%7C{Correo electronico}%7Ca404924d61d0468cf64908dcaa51a118%7C77ecda755864422aa5356ea67154029c%7C0%7C0%7C638572514812512565%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=qD2uwbK76IRwtFIAMkDDzJxyerOzL8aZzWN4LaADJbc%3D&reserved=0,URL redirección
+2024-07-24,Payload delivery,url,https://outlook-web-access-c2d47d.webflow.io/,URL sitio falso
+2024-07-24,External analysis,attachment,2024-07-22_18h01_24.png,
+2024-07-24,External analysis,attachment,2024-07-22_18h02_08.png,

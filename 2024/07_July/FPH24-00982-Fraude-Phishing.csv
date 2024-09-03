@@ -1,0 +1,20 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00982 [Fraude] [Phishing]
+| UUID: 87fab090-7ab0-4af8-a6c8-92152b87f321
+| Date: 2024-07-11
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-11,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+Se trata de una nueva campaña de phishing a través de email, que suplanta a SharePoint de Microsoft.En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente:&quot;Por favor, abra el documento de acceso más abajo &quot;Nómina del personal para junio de 2024&quot;.&quot;El correo electrónico fraudulento incluye un enlace a un formulario malicioso usado para capturar credenciales de los usuarios.",Resumen
+2024-07-11,Network activity,ip-src,216.219.94.131,IP SMTP
+2024-07-11,Network activity,ip-src,31.31.198.55,IP sitio falso
+2024-07-11,Payload delivery,url,https://dinstars.com/?email={Correo Electronico},URL redirección
+2024-07-11,Payload delivery,url,https://dinstars.com/gp?l31dmzbc-mr72-46z9-0sw3-kf51zlw20ahs_m5q37kpx9ovzstngwhf8il0612ejuycdr4abth9wv6xeifa4knmgr3ljzd2bpq805ys7c1ouva7lc02pys8x4wnbtr61uh3jmd5okqiegz9f&signin=mnb14pafq8uch2r9d6tw7ov-2hta-tumb-seln-u0hlfozi2ma45jwbk1c_6enavyrfx2di3lk57mhw9t0upbcg1jzs48oqdipsygrchjx3ak4ob6ve125nlzfm0quw7t89haxn1bvc7ui58etgko9lr64z3q2jsf0dwymp&string=iz1v56ye3jt78w0xncugh4k&data=klfoqag7-wxyj-72dk-qw5h-nohs6cqt2k8y_nes5pbozjidg17k2qru4xla68vw930hctyfmvxs16i47k32gwor8udmef0zja9ybcpntlh5q4nhoquybzljsarim79gx6e35v28pfwkdc01t&email=Y29udGFjdG9Ac3NiaW9iaW8uY2w=,URL sitio falso
+2024-07-11,Payload delivery,email-src,noreply@zf-com.one,Correo de salida
+2024-07-11,External analysis,attachment,2024-07-11_10h06_45.png,
+2024-07-11,External analysis,attachment,2024-07-11_10h07_42.png,

@@ -1,0 +1,33 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Downloaders Grabbed From Honeypot Logs (Week 30/2024)
+| UUID: 265bae7b-3f74-40c0-aee2-ccb090dbfaf4
+| Date: 2024-07-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-05,Payload delivery,url,tftp://119.199.214.121/.i,
+2024-07-05,Network activity,ip-dst,119.199.214.121,
+2024-07-05,Payload delivery,url,http://59.178.38.92:21085/.i,
+2024-07-05,Network activity,ip-dst,59.178.38.92,
+2024-07-10,Payload delivery,url,http://185.208.158.252/bins.sh,
+2024-07-10,Payload delivery,url,ftp://anonymous:anonymous@46.23.108.142/sora1.sh,
+2024-07-10,Payload delivery,url,http://46.23.108.142/sora.sh,
+2024-07-10,Payload delivery,url,http://223.18.128.87:56819/.i,
+2024-07-10,Network activity,ip-dst,46.23.108.142,
+2024-07-10,Network activity,ip-dst,223.18.128.87,
+2024-07-11,Payload delivery,url,http://185.208.158.252/fuckjewishpeople.sh,
+2024-07-12,Payload delivery,url,http://185.208.158.252/shell,
+2024-07-15,Payload delivery,url,ftp://anonymous:anonymous@proxy.jsjiuah.life/0.sh,
+2024-07-15,Payload delivery,url,https://proxy.jsjiuah.life/123/0.sh,
+2024-07-15,Network activity,hostname,proxy.jsjiuah.life,
+2024-07-16,Payload delivery,url,http://37.156.29.141/hidakibest.sh,
+2024-07-16,Network activity,ip-dst,37.156.29.141,
+2024-07-19,Payload delivery,url,tftp://42.86.170.75/.i,
+2024-07-19,Payload delivery,url,http://39.46.171.165:53338/.i,
+2024-07-19,Network activity,ip-dst,42.86.170.75,
+2024-07-19,Network activity,ip-dst,39.46.171.165,
+2024-07-20,Payload delivery,url,http://50.4.82.186:11532/.i,
+2024-07-20,Network activity,ip-dst,50.4.82.186,

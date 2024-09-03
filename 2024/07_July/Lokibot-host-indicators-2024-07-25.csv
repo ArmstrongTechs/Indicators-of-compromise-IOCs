@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-07-25]
+| UUID: 76774a72-2d24-456d-9de3-b91c0fd711c1
+| Date: 2024-07-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-25,Payload installation,filename,megerosites.cmd,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,a7ecf2d80475a31c10bfdddd8c060548,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,f2b81ba9aa32b39fa41558f67d2627ab3da72f29,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,6a3e2eecb7f7f464c57a7159570d2d55c6893839be852af898089550265f5dfc,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,SWIFT.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,45e1f17158de78fe84e61450678236c1,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,81a8064a79805cdb9e47658cc5944ad04f7de100,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,4508478f72d7aadcdaa5a076cee956fcf96eff8987bc77063bee1c7a8d0f8390,Source: MalwareBazaar
+2024-07-26,Payload installation,filename,RFP5.exe,Source: MalwareBazaar
+2024-07-26,Payload installation,md5,e44f18c0c7c0ef5103adb70ea9797794,Source: MalwareBazaar
+2024-07-26,Payload installation,sha1,e96882549e5ca1bc3cbedf276a3b0dc2e74b7c1c,Source: MalwareBazaar
+2024-07-26,Payload installation,sha256,ce03ff47b601e4154e103927e9b8e9f9f54f18653fe4bebf0a25f6458009dc0d,Source: MalwareBazaar

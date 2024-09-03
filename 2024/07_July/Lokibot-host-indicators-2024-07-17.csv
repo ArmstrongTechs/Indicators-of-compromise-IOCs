@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-07-17]
+| UUID: 676186f4-16ef-42e0-86e0-288cd13e2b0a
+| Date: 2024-07-17
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-17,Payload installation,filename,Richiesta Preventivo (ISGB) 7788EU - 0605ITA·pdf.exe,Source: MalwareBazaar
+2024-07-17,Payload installation,md5,a2a727c5efacf8ab6028c4524e21bef9,Source: MalwareBazaar
+2024-07-17,Payload installation,sha1,d3ea7079959667ad786a7142371f536feb537802,Source: MalwareBazaar
+2024-07-17,Payload installation,sha256,c293bf33914dcab819681869283b39b23b45fb608d42fa3a26562d301eab3746,Source: MalwareBazaar

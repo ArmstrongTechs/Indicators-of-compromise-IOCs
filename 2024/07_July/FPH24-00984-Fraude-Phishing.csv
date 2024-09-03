@@ -1,0 +1,21 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00984 [Fraude] [Phishing]
+| UUID: 115a323b-e8b9-4bc6-85c5-734c1a028fc3
+| Date: 2024-07-12
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-12,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+En esta campaña, los delincuentes envían un email falso que alerta una supuesta expiración de la contraseña de una cuenta de correo electrónico. ¡No hagas clic!",Resumen
+2024-07-12,Network activity,ip-src,193.43.104.243,IP SMTP
+2024-07-12,Network activity,ip-src,209.94.90.1,IP sitio falso
+2024-07-12,Payload delivery,email-subject,Aviso importante: 24 horas La cuenta será bloqueada Administración,Asunto correo
+2024-07-12,Payload delivery,url,https://cloudflare-ipfs.com/ipfs/bafkreiclofnocybvcuwgoj2yrrggywsanz24oi6ohhr7inuhux72fme3wq#{Correo electronico},URL redirección
+2024-07-12,Payload delivery,url,https://ipfs.io/ipfs/bafkreiclofnocybvcuwgoj2yrrggywsanz24oi6ohhr7inuhux72fme3wq#{Correo electronico},URL sitio falso
+2024-07-12,Payload delivery,email-src,qig@mailsnq.com,Correo de salida
+2024-07-12,External analysis,attachment,2024-07-12_09h39_53.png,
+2024-07-12,External analysis,attachment,2024-07-12_09h40_30.png,

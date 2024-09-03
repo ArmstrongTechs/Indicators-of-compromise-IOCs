@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-07-06]
+| UUID: f19d1980-cb26-46c9-95ea-3909725b693d
+| Date: 2024-07-06
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-07,Payload installation,filename,SecuriteInfo.com.Trojan.AutoIt.1410.29515.31530,Source: MalwareBazaar
+2024-07-07,Payload installation,md5,d90a72256615ac3ba74c924012fea42c,Source: MalwareBazaar
+2024-07-07,Payload installation,sha1,b9590a8777fac1b545be42ab89ca14f5facd163b,Source: MalwareBazaar
+2024-07-07,Payload installation,sha256,887199f41d24aa708148968e98abb902ba2d4e3d346420bdc602b77cdcbc2c2f,Source: MalwareBazaar

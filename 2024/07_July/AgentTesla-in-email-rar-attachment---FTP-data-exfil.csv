@@ -1,0 +1,24 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla in email (.rar) attachment - FTP data exfil
+| UUID: e3d81fe4-3e4d-4bfb-bd0b-facad17ba63b
+| Date: 2024-07-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-14,Network activity,email,zativax1@libreriagandhi.cl,
+2024-07-14,Network activity,domain,ftp.libreriagandhi.cl,
+2024-07-13,Payload delivery,malware-sample,Bank swift1228003875.rar|7a093223c62d6c09e58b09301a14ad9d,
+2024-07-13,Payload delivery,filename,Bank swift1228003875.rar,
+2024-07-13,Payload delivery,md5,7a093223c62d6c09e58b09301a14ad9d,
+2024-07-13,Payload delivery,sha1,c041faf5362cfde02cd70deb2d2d9fe8ffee3ea9,
+2024-07-13,Payload delivery,sha256,ff30f443ef9d883c14dfc678e8262d8f84fc86b20be360567bb65d4cba43db14,
+2024-07-13,Other,size-in-bytes,674013,
+2024-07-13,Payload delivery,malware-sample,Bank swift1228003875.exe|d62ea37c57458056cbdf0c284f5615ef,
+2024-07-13,Payload delivery,filename,Bank swift1228003875.exe,
+2024-07-13,Payload delivery,md5,d62ea37c57458056cbdf0c284f5615ef,
+2024-07-13,Payload delivery,sha1,79f2294dad7b307e0cb112fd5607ba7d85d3edd0,
+2024-07-13,Payload delivery,sha256,8ad71b7a8eb6f40cf8cdf864f22a425c7ad92987b7b232af9f78dc16473238a9,
+2024-07-13,Other,size-in-bytes,1175552,

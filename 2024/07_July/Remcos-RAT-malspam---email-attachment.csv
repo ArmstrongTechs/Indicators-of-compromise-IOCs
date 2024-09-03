@@ -1,0 +1,32 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos RAT malspam - email attachment
+| UUID: b86f3377-c8de-4b5b-a0d9-bee8b89d2213
+| Date: 2024-07-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-18,Artifacts dropped,regkey,HKCU\Rmc-WYBPPO\exepath,
+2024-07-18,Artifacts dropped,regkey,HKCU\Rmc-WYBPPO\licence,
+2024-07-18,Artifacts dropped,regkey,HKCU\Rmc-WYBPPO\time,
+2024-07-18,Network activity,ip-dst|port,212.162.149.42|7118,Remcos C2
+2024-07-18,Payload delivery,malware-sample,NLB_Obvestilo o plačilu _Položnica.pdf.iso|5417c0845219e2a59067e741d0424a94,
+2024-07-18,Payload delivery,filename,NLB_Obvestilo o plačilu _Položnica.pdf.iso,
+2024-07-18,Payload delivery,md5,5417c0845219e2a59067e741d0424a94,
+2024-07-18,Payload delivery,sha1,ec76699fb0c2a9f8b92117027bf5dd8aaf80e2b0,
+2024-07-18,Payload delivery,sha256,3a020f2df08692c0d1ac43e3988a60cbd1b7708fcbbb1f85cdf4ce31f52ad7ea,
+2024-07-18,Other,size-in-bytes,1900544,
+2024-07-18,Payload delivery,malware-sample,NLB_Obvestilo_o_placilu _Poloznica.pdf.bat|0ee79204964954bf4c79063db2893c06,
+2024-07-18,Payload delivery,filename,NLB_Obvestilo_o_placilu _Poloznica.pdf.bat,
+2024-07-18,Payload delivery,md5,0ee79204964954bf4c79063db2893c06,
+2024-07-18,Payload delivery,sha1,78f71d4efb9bbb1d1e989f47464e07ec4a306906,
+2024-07-18,Payload delivery,sha256,c68fabd10b1635f0a856092d90eeb505edca7c553dc7c27c272b2249dc4e1d0d,
+2024-07-18,Other,size-in-bytes,1317384,
+2024-07-18,Payload delivery,malware-sample,F63CA079-remcos.exe|2b05821fc8218777b39b59329e9da282,
+2024-07-18,Payload delivery,filename,F63CA079-remcos.exe,
+2024-07-18,Payload delivery,md5,2b05821fc8218777b39b59329e9da282,
+2024-07-18,Payload delivery,sha1,a02822c783cedcf4b183766f44ffe6a6c25404ba,
+2024-07-18,Payload delivery,sha256,230763e5035c2f42d9eefcbe525b5d70f688bca4d279ffee4a94d37a3253747f,
+2024-07-18,Other,size-in-bytes,480768,

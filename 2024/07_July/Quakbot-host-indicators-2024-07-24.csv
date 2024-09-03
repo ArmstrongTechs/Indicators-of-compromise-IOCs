@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Quakbot host indicators [2024-07-24]
+| UUID: 5d71e0c0-12b4-4c8f-957b-97eb86f7ba7f
+| Date: 2024-07-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-25,Payload installation,filename,LisectAVT_2403002C_48.dll,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,59a965662088f01d6f4db88c2ed2622a,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,e0858f41bc2ac452ee071eb9e097a40b185db0a0,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,d891201433c0dd4df1a83be629f03d8c30b5ff1d88710e6f41b7056c27d48fe2,Source: MalwareBazaar

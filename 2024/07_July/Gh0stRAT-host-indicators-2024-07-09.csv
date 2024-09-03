@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Gh0stRAT host indicators [2024-07-09]
+| UUID: 1a5cf90e-a212-4d0f-842d-277850c1c312
+| Date: 2024-07-09
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-09,Payload installation,filename,WindowsProgram.msi,Source: MalwareBazaar
+2024-07-09,Payload installation,md5,b55e540355b03f0e97d763b07a856be4,Source: MalwareBazaar
+2024-07-09,Payload installation,sha1,3691b5b77c0a01ef27e6305da5143a5509f2d047,Source: MalwareBazaar
+2024-07-09,Payload installation,sha256,419e88d366b9a9c3ff4e0eca691fbad58919db0079b40e4e9c1711604bd5281d,Source: MalwareBazaar
+2024-07-09,Payload installation,filename,3b9f1b1595e338660a80ed49c10b5b06.exe,Source: MalwareBazaar
+2024-07-09,Payload installation,md5,3b9f1b1595e338660a80ed49c10b5b06,Source: MalwareBazaar
+2024-07-09,Payload installation,sha1,fe9a5af3733d06b2f3e7a3c09509de809ed97107,Source: MalwareBazaar
+2024-07-09,Payload installation,sha256,959e8ae25fd28104490b690ca844c44613537f501f5bf49af493650778dddb60,Source: MalwareBazaar

@@ -1,0 +1,50 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Monthly financial reporting for July close - From: accounting.[REDACTED]@capitaltokyo.com"" Campaign"
+| UUID: 5e620e5d-eb4d-4c57-95eb-b47058a3fe6d
+| Date: 2024-07-31
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-31,Payload delivery,email-src,accounting.[redacted]@capitaltokyo.com,Source email: from accounting.[REDACTED]@capitaltokyo.com - subject: Monthly financial reporting for July close
+2024-07-31,Payload delivery,email-src-display-name,Accounting@masterlease.pl,Source email: from accounting.[REDACTED]@capitaltokyo.com - subject: Monthly financial reporting for July close
+2024-07-31,Payload delivery,email-body,"Hello [REDACTED],
+
+I have attached the following for July Close for your reference, Please check it.
+
+P&L mo & YTM. – w Classes!! -x
+
+Balance Sheet with Previous Yr -x
+
+General Ledger mo & YTM & csv -x
+
+Trial Balance & csv -x
+
+Fixed Assets -x
+
+Accounts Receivables -x
+
+Accounts Payable -x
+
+Intercompany Reconciliation - Exchange Rate – x
+
+Detailed Sales - Detail of Lab Support – Internal Tab -x
+
+Month Cash Flow – System & Spreadsheet -x
+
+These have also been uploaded to SharePoint.
+
+Best regards 
+masterlease.pl Accounting Department
+
+Monday, July 29, 2024
+[REDACTED]www.masterlease.pl",Source email: from accounting.[REDACTED]@capitaltokyo.com - subject: Monthly financial reporting for July close
+2024-07-31,Payload delivery,email-subject,Monthly financial reporting for July close,Source: from accounting.[REDACTED]@capitaltokyo.com - subject: Monthly financial reporting for July close
+2024-07-31,Payload delivery,filename|sha256,Month Cash Flow – System&Spreadsheet_masterlease.pl_ Financial_Report_July 2024.xlsx.htm|c0a8f9a0f74419260314414bf35eb699d66e86dd13f8bc973a04ecf3f4dae842,Malspam attachment - source: from accounting.[REDACTED]@capitaltokyo.com - subject: Monthly financial reporting for July close mime: text/html
+2024-07-31,Payload delivery,filename|ssdeep,Month Cash Flow – System&Spreadsheet_masterlease.pl_ Financial_Report_July 2024.xlsx.htm|96:937NeNiVLQFlqqBA8mWm5AnnaJLbE8JLI6eLeRjXAkLTw0qknqNqitQ2COz:93VLQFlqqBA8tRnnaJL7JLBeLqjXAkL6,Malspam attachment - source: from accounting.[REDACTED]@capitaltokyo.com - subject: Monthly financial reporting for July close mime: text/html
+2024-07-31,Payload delivery,filename|sha1,Month Cash Flow – System&Spreadsheet_masterlease.pl_ Financial_Report_July 2024.xlsx.htm|e8a4d68999a8b5f40be57922aa9c4e830a0ef6eb,Malspam attachment - source: from accounting.[REDACTED]@capitaltokyo.com - subject: Monthly financial reporting for July close mime: text/html
+2024-07-31,Payload delivery,filename|sha512,Month Cash Flow – System&Spreadsheet_masterlease.pl_ Financial_Report_July 2024.xlsx.htm|f0240bce4fa3ceab61290066d8445ad93349f91f123c33f85385f953be65515a95574a61a2fde907dca399fb27d3e088d2c25ea571d0c322d62a76f797406400,Malspam attachment - source: from accounting.[REDACTED]@capitaltokyo.com - subject: Monthly financial reporting for July close mime: text/html
+2024-07-31,Payload delivery,filename|md5,Month Cash Flow – System&Spreadsheet_masterlease.pl_ Financial_Report_July 2024.xlsx.htm|c824df8e7af156601f4725145544a563,Malspam attachment - source: from accounting.[REDACTED]@capitaltokyo.com - subject: Monthly financial reporting for July close mime: text/html
+2024-07-31,Payload delivery,url,https://submit-form.com/JAKF1rqGG,URL source: POST method from Month Cash Flow – System&Spreadsheet_masterlease.pl_ Financial_Report_July 2024.xlsx.htm

@@ -1,0 +1,24 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: TR-87 - CrowdStrike Agent causing BSOD loop on Windows - Faulty Update on Falcon Sensor
+| UUID: 10a54888-bba3-4af5-bc5b-fcda933ac0e2
+| Date: 2024-07-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-19,Payload delivery,filename,ad492bc8b884f9c9a5ce0c96087e722a2732cdb31612e092cdbf4a9555b44362,
+2024-07-19,Other,size-in-bytes,41004,
+2024-07-19,Other,float,4.5534410358575,
+2024-07-19,Payload delivery,md5,1618cd13c5263720ec958c3b24b9d1c8,
+2024-07-19,Payload delivery,sha1,cb8a27c7347d19bc0b23093a99816dfd8240dbc5,
+2024-07-19,Payload delivery,sha256,ad492bc8b884f9c9a5ce0c96087e722a2732cdb31612e092cdbf4a9555b44362,
+2024-07-19,Payload delivery,sha512,2702ddd24a4160ba8f65287f71876afed1999f074d1885284ccc610bf412d99d00ae1bbe67bf1789a24a88e798d05c1e91090ae8d9d8c3df4d88cb2e7aa40cd6,
+2024-07-19,Payload delivery,malware-sample,ad492bc8b884f9c9a5ce0c96087e722a2732cdb31612e092cdbf4a9555b44362|1618cd13c5263720ec958c3b24b9d1c8,
+2024-07-19,Artifacts dropped,mime-type,application/octet-stream,
+2024-07-19,Payload delivery,ssdeep,384:bIy44Wo45c59r/qQqu1QhSn88MyU64guxkP5O84VLv8xB0+Cn:9495c59rSQBG8CJxfexBl0,
+2024-07-19,Other,text,Trusted,
+2024-07-19,External analysis,link,https://www.circl.lu/pub/tr-87/,
+2024-07-19,Other,text,TR-87 - CrowdStrike Agent causing BSOD loop on Windows - Faulty Update on Falcon Sensor,
+2024-07-19,Other,text,Report,

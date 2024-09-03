@@ -1,0 +1,530 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: DDoSia - NoName057(16) - Configuration : 2024-07-19_09-45-04
+| UUID: 8e114b72-2936-4121-a687-5ee7147d6328
+| Date: 2024-07-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415ab2a52e79ebd4a7610f,
+2024-07-19,Other,text,64415ab2a52e79ebd4a76110,
+2024-07-19,Network activity,hostname,gdanskshipyard.pl,
+2024-07-19,Network activity,ip-dst,128.204.218.154,
+2024-07-19,Other,text,http,
+2024-07-19,Other,text,POST,
+2024-07-19,Network activity,port,443,
+2024-07-19,Other,text,1,
+2024-07-19,Other,text,/wp-json/contact-form-7/v1/contact-forms/264/feedback,
+2024-07-19,Other,text,"------WebKitFormBoundarynVSpaHSoS6zATshj
+Content-Disposition: form-data; name=""""_wpcf7""""
+
+264
+------WebKitFormBoundarynVSpaHSoS6zATshj
+Content-Disposition: form-data; name=""""_wpcf7_version""""
+
+5.1.4
+------WebKitFormBoundarynVSpaHSoS6zATshj
+Content-Disposition: form-data; name=""""_wpcf7_locale""""
+
+pl_PL
+------WebKitFormBoundarynVSpaHSoS6zATshj
+Content-Disposition: form-data; name=""""_wpcf7_unit_tag""""
+
+wpcf7-f264-o1
+------WebKitFormBoundarynVSpaHSoS6zATshj
+Content-Disposition: form-data; name=""""_wpcf7_container_post""""
+
+0
+------WebKitFormBoundarynVSpaHSoS6zATshj
+Content-Disposition: form-data; name=""""text-784""""
+
+$_1
+------WebKitFormBoundarynVSpaHSoS6zATshj
+Content-Disposition: form-data; name=""""tel-825""""
+
++4856634556
+------WebKitFormBoundarynVSpaHSoS6zATshj
+Content-Disposition: form-data; name=""""email-418""""
+
+$_1@gmail.com
+------WebKitFormBoundarynVSpaHSoS6zATshj
+Content-Disposition: form-data; name=""""radio-594""""
+
+TEST
+------WebKitFormBoundarynVSpaHSoS6zATshj
+Content-Disposition: form-data; name=""""file-863""""; filename=""""""""
+Content-Type: application/octet-stream
+
+
+------WebKitFormBoundarynVSpaHSoS6zATshj
+Content-Disposition: form-data; name=""""acceptance-403""""
+
+1
+------WebKitFormBoundarynVSpaHSoS6zATshj--",
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415ab2a52e79ebd4a7610f,
+2024-07-19,Other,text,64415ab2a52e79ebd4a76111,
+2024-07-19,Network activity,hostname,gdanskshipyard.pl,
+2024-07-19,Network activity,ip-dst,128.204.218.154,
+2024-07-19,Other,text,http,
+2024-07-19,Other,text,GET,
+2024-07-19,Network activity,port,443,
+2024-07-19,Other,text,1,
+2024-07-19,Other,text,/xmlrpc.php,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415ab2a52e79ebd4a7610f,
+2024-07-19,Other,text,64415ab2a52e79ebd4a76112,
+2024-07-19,Network activity,hostname,gdanskshipyard.pl,
+2024-07-19,Network activity,ip-dst,128.204.218.154,
+2024-07-19,Other,text,http,
+2024-07-19,Other,text,POST,
+2024-07-19,Network activity,port,443,
+2024-07-19,Other,text,1,
+2024-07-19,Other,text,/wp-json/contact-form-7/v1/contact-forms/258/feedback,
+2024-07-19,Other,text,"------WebKitFormBoundaryVTNQCIpQvXYU111S
+Content-Disposition: form-data; name=""""_wpcf7""""
+
+258
+------WebKitFormBoundaryVTNQCIpQvXYU111S
+Content-Disposition: form-data; name=""""_wpcf7_version""""
+
+5.1.4
+------WebKitFormBoundaryVTNQCIpQvXYU111S
+Content-Disposition: form-data; name=""""_wpcf7_locale""""
+
+pl_PL
+------WebKitFormBoundaryVTNQCIpQvXYU111S
+Content-Disposition: form-data; name=""""_wpcf7_unit_tag""""
+
+wpcf7-f258-p188-o1
+------WebKitFormBoundaryVTNQCIpQvXYU111S
+Content-Disposition: form-data; name=""""_wpcf7_container_post""""
+
+188
+------WebKitFormBoundaryVTNQCIpQvXYU111S
+Content-Disposition: form-data; name=""""text-758""""
+
+$_1 $_1
+------WebKitFormBoundaryVTNQCIpQvXYU111S
+Content-Disposition: form-data; name=""""tel-369""""
+
++48 999 555 666
+------WebKitFormBoundaryVTNQCIpQvXYU111S
+Content-Disposition: form-data; name=""""email-624""""
+
+$_1@gmail.com
+------WebKitFormBoundaryVTNQCIpQvXYU111S
+Content-Disposition: form-data; name=""""textarea-522""""
+
+$_1 $_1
+------WebKitFormBoundaryVTNQCIpQvXYU111S
+Content-Disposition: form-data; name=""""acceptance-432""""
+
+1
+------WebKitFormBoundaryVTNQCIpQvXYU111S--",
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415ab2a52e79ebd4a7610f,
+2024-07-19,Other,text,64415ab2a52e79ebd4a76113,
+2024-07-19,Network activity,hostname,gdanskshipyard.pl,
+2024-07-19,Network activity,ip-dst,128.204.218.154,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,syn,
+2024-07-19,Network activity,port,443,
+2024-07-19,Other,text,1,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415ab2a52e79ebd4a7610f,
+2024-07-19,Other,text,64415ab2a52e79ebd4a76114,
+2024-07-19,Network activity,hostname,gdanskshipyard.pl,
+2024-07-19,Network activity,ip-dst,128.204.218.154,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,syn,
+2024-07-19,Network activity,port,80,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415ab2a52e79ebd4a7610f,
+2024-07-19,Other,text,64415ab2a52e79ebd4a76115,
+2024-07-19,Network activity,hostname,gdanskshipyard.pl,
+2024-07-19,Network activity,ip-dst,128.204.218.154,
+2024-07-19,Other,text,nginx_loris,
+2024-07-19,Other,text,GET,
+2024-07-19,Network activity,port,443,
+2024-07-19,Other,text,1,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76138,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76139,
+2024-07-19,Network activity,hostname,marineprojects.pl,
+2024-07-19,Network activity,ip-dst,109.95.159.39,
+2024-07-19,Other,text,http,
+2024-07-19,Other,text,POST,
+2024-07-19,Network activity,port,443,
+2024-07-19,Other,text,1,
+2024-07-19,Other,text,/ajax/sendemail.php,
+2024-07-19,Other,text,cname=$_1&cphone=$_0&cemail=$_1%40gmail.com&cmessage=$_1&sendmessage=true,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76138,
+2024-07-19,Other,text,64415c1ba52e79ebd4a7613a,
+2024-07-19,Network activity,hostname,marineprojects.pl,
+2024-07-19,Network activity,ip-dst,109.95.159.39,
+2024-07-19,Other,text,http,
+2024-07-19,Other,text,GET,
+2024-07-19,Network activity,port,443,
+2024-07-19,Other,text,1,
+2024-07-19,Other,text,/xmlrpc.php,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76138,
+2024-07-19,Other,text,64415c1ba52e79ebd4a7613b,
+2024-07-19,Network activity,hostname,marineprojects.pl,
+2024-07-19,Network activity,ip-dst,109.95.159.39,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,syn,
+2024-07-19,Network activity,port,443,
+2024-07-19,Other,text,1,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76138,
+2024-07-19,Other,text,64415c1ba52e79ebd4a7613c,
+2024-07-19,Network activity,hostname,marineprojects.pl,
+2024-07-19,Network activity,ip-dst,109.95.159.39,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,syn,
+2024-07-19,Network activity,port,80,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76138,
+2024-07-19,Other,text,64415c1ba52e79ebd4a7613d,
+2024-07-19,Network activity,hostname,marineprojects.pl,
+2024-07-19,Network activity,ip-dst,109.95.159.39,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,syn,
+2024-07-19,Network activity,port,21,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76138,
+2024-07-19,Other,text,64415c1ba52e79ebd4a7613f,
+2024-07-19,Network activity,hostname,marineprojects.pl,
+2024-07-19,Network activity,ip-dst,109.95.159.39,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,PING,
+2024-07-19,Network activity,port,443,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76138,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76140,
+2024-07-19,Network activity,hostname,marineprojects.pl,
+2024-07-19,Network activity,ip-dst,194.181.32.3,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,syn,
+2024-07-19,Network activity,port,3306,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76138,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76141,
+2024-07-19,Network activity,hostname,marineprojects.pl,
+2024-07-19,Network activity,ip-dst,194.181.32.3,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,syn,
+2024-07-19,Network activity,port,8080,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76138,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76142,
+2024-07-19,Network activity,hostname,marineprojects.pl,
+2024-07-19,Network activity,ip-dst,194.181.32.3,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,syn,
+2024-07-19,Network activity,port,53,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76138,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76143,
+2024-07-19,Network activity,hostname,marineprojects.pl,
+2024-07-19,Network activity,ip-dst,194.181.32.3,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,syn,
+2024-07-19,Network activity,port,995,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76138,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76144,
+2024-07-19,Network activity,hostname,marineprojects.pl,
+2024-07-19,Network activity,ip-dst,194.181.32.3,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,syn,
+2024-07-19,Network activity,port,110,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76138,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76145,
+2024-07-19,Network activity,hostname,marineprojects.pl,
+2024-07-19,Network activity,ip-dst,194.181.32.3,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,syn,
+2024-07-19,Network activity,port,111,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76138,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76146,
+2024-07-19,Network activity,hostname,marineprojects.pl,
+2024-07-19,Network activity,ip-dst,194.181.32.3,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,syn,
+2024-07-19,Network activity,port,993,
+2024-07-19,Other,text,1,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76138,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76147,
+2024-07-19,Network activity,hostname,marineprojects.pl,
+2024-07-19,Network activity,ip-dst,194.181.32.3,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,syn,
+2024-07-19,Network activity,port,25,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76138,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76148,
+2024-07-19,Network activity,hostname,marineprojects.pl,
+2024-07-19,Network activity,ip-dst,194.181.32.3,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,syn,
+2024-07-19,Network activity,port,465,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76138,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76149,
+2024-07-19,Network activity,hostname,marineprojects.pl,
+2024-07-19,Network activity,ip-dst,194.181.32.3,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,syn,
+2024-07-19,Network activity,port,9998,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76138,
+2024-07-19,Other,text,64415c1ba52e79ebd4a7614a,
+2024-07-19,Network activity,hostname,marineprojects.pl,
+2024-07-19,Network activity,ip-dst,194.181.32.3,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,syn,
+2024-07-19,Network activity,port,8081,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76138,
+2024-07-19,Other,text,64415c1ba52e79ebd4a7614b,
+2024-07-19,Network activity,hostname,marineprojects.pl,
+2024-07-19,Network activity,ip-dst,194.181.32.3,
+2024-07-19,Other,text,nginx_loris,
+2024-07-19,Other,text,GET,
+2024-07-19,Network activity,port,443,
+2024-07-19,Other,text,1,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76138,
+2024-07-19,Other,text,669989f2bce9a728d6da2153,
+2024-07-19,Network activity,hostname,marineprojects.pl,
+2024-07-19,Network activity,ip-dst,109.95.159.39,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,ack,
+2024-07-19,Network activity,port,443,
+2024-07-19,Other,text,1,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76138,
+2024-07-19,Other,text,669989f8bce9a728d6da2154,
+2024-07-19,Network activity,hostname,marineprojects.pl,
+2024-07-19,Network activity,ip-dst,109.95.159.39,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,syn_ack,
+2024-07-19,Network activity,port,443,
+2024-07-19,Other,text,1,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76138,
+2024-07-19,Other,text,669989ffbce9a728d6da2155,
+2024-07-19,Network activity,hostname,marineprojects.pl,
+2024-07-19,Network activity,ip-dst,109.95.159.39,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,PING,
+2024-07-19,Network activity,port,443,
+2024-07-19,Other,text,1,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415c1ba52e79ebd4a76138,
+2024-07-19,Other,text,66998a04bce9a728d6da2157,
+2024-07-19,Network activity,hostname,marineprojects.pl,
+2024-07-19,Network activity,ip-dst,109.95.159.39,
+2024-07-19,Other,text,nginx_loris,
+2024-07-19,Network activity,port,443,
+2024-07-19,Other,text,1,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415f5ca52e79ebd4a76198,
+2024-07-19,Other,text,64415f5da52e79ebd4a76199,
+2024-07-19,Network activity,hostname,remontowa-rsb.pl,
+2024-07-19,Network activity,ip-dst,86.111.240.161,
+2024-07-19,Other,text,http,
+2024-07-19,Other,text,GET,
+2024-07-19,Network activity,port,443,
+2024-07-19,Other,text,1,
+2024-07-19,Other,text,/en/?s=$_1,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415f5ca52e79ebd4a76198,
+2024-07-19,Other,text,64415f5da52e79ebd4a7619a,
+2024-07-19,Network activity,hostname,remontowa-rsb.pl,
+2024-07-19,Network activity,ip-dst,86.111.240.161,
+2024-07-19,Other,text,http,
+2024-07-19,Other,text,GET,
+2024-07-19,Network activity,port,443,
+2024-07-19,Other,text,1,
+2024-07-19,Other,text,/xmlrpc.php,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415f5ca52e79ebd4a76198,
+2024-07-19,Other,text,64415f5da52e79ebd4a7619b,
+2024-07-19,Network activity,hostname,remontowa-rsb.pl,
+2024-07-19,Network activity,ip-dst,86.111.240.161,
+2024-07-19,Other,text,http,
+2024-07-19,Other,text,POST,
+2024-07-19,Network activity,port,443,
+2024-07-19,Other,text,1,
+2024-07-19,Other,text,/wp-json/contact-form-7/v1/contact-forms/1151/feedback,
+2024-07-19,Other,text,"------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""_wpcf7""""
+
+1151
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""_wpcf7_version""""
+
+5.6
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""_wpcf7_locale""""
+
+pl_PL
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""_wpcf7_unit_tag""""
+
+wpcf7-f1151-p1147-o1
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""_wpcf7_container_post""""
+
+1147
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""_wpcf7_posted_data_hash""""
+
+
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""nazwa-firmy""""
+
+$_1
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""ulica""""
+
+$_1
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""kraj""""
+
+$_1
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""kod-pocztowy""""
+
+344
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""numer-telefonu""""
+
+$_0
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""nip""""
+
+6587649887569
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""rok-zalozenia""""
+
+1999
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""klasyfikacja-branzowa""""
+
+$_1 $_1
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""zakres-produktow""""
+
+$_1
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""zakres-produktow-pliki""""; filename=""""123.png.jpg""""
+Content-Type: image/jpeg
+
+
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""kontakt-zarzad""""
+
+
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""kontakt-sprzedaz""""
+
+$_1
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""kontakt-techniczny""""
+
+
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""kontakt-reklamacje""""
+
+
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""kontakt-odbiory""""
+
+
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""warunki-relacji""""; filename=""""""""
+Content-Type: application/octet-stream
+
+
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv
+Content-Disposition: form-data; name=""""warunki-platnosci""""
+
+$_1
+------WebKitFormBoundaryMi8BAdFFnhwuxAqv--",
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415f5ca52e79ebd4a76198,
+2024-07-19,Other,text,64415f5da52e79ebd4a7619c,
+2024-07-19,Network activity,hostname,remontowa-rsb.pl,
+2024-07-19,Network activity,ip-dst,86.111.240.161,
+2024-07-19,Other,text,http,
+2024-07-19,Other,text,GET,
+2024-07-19,Network activity,port,443,
+2024-07-19,Other,text,1,
+2024-07-19,Other,text,/en/aktualnosci/page/$_2/,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415f5ca52e79ebd4a76198,
+2024-07-19,Other,text,64415f5da52e79ebd4a7619d,
+2024-07-19,Network activity,hostname,remontowa-rsb.pl,
+2024-07-19,Network activity,ip-dst,86.111.240.161,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,syn,
+2024-07-19,Network activity,port,443,
+2024-07-19,Other,text,1,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415f5ca52e79ebd4a76198,
+2024-07-19,Other,text,64415f5da52e79ebd4a7619e,
+2024-07-19,Network activity,hostname,remontowa-rsb.pl,
+2024-07-19,Network activity,ip-dst,86.111.240.161,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,syn,
+2024-07-19,Network activity,port,80,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415f5ca52e79ebd4a76198,
+2024-07-19,Other,text,64415f5da52e79ebd4a7619f,
+2024-07-19,Network activity,hostname,remontowa-rsb.pl,
+2024-07-19,Network activity,ip-dst,86.111.240.161,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,syn,
+2024-07-19,Network activity,port,21,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415f5ca52e79ebd4a76198,
+2024-07-19,Other,text,64415f5da52e79ebd4a761a0,
+2024-07-19,Network activity,hostname,remontowa-rsb.pl,
+2024-07-19,Network activity,ip-dst,86.111.240.161,
+2024-07-19,Other,text,tcp,
+2024-07-19,Other,text,syn,
+2024-07-19,Network activity,port,222,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,64415f5ca52e79ebd4a76198,
+2024-07-19,Other,text,64415f5da52e79ebd4a761a1,
+2024-07-19,Network activity,hostname,remontowa-rsb.pl,
+2024-07-19,Network activity,ip-dst,86.111.240.161,
+2024-07-19,Other,text,nginx_loris,
+2024-07-19,Other,text,GET,
+2024-07-19,Network activity,port,443,
+2024-07-19,Other,text,1,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,647e0a9ab9cf72aa31cfe91e,
+2024-07-19,Other,text,647e0a9ab9cf72aa31cfe91f,
+2024-07-19,Network activity,hostname,www.portgdansk.pl,
+2024-07-19,Network activity,ip-dst,178.33.48.172,
+2024-07-19,Other,text,http2,
+2024-07-19,Other,text,GET,
+2024-07-19,Network activity,port,443,
+2024-07-19,Other,text,1,
+2024-07-19,Other,text,/?s=$_1,
+2024-07-19,Other,text,DDoSia-go,
+2024-07-19,Other,text,647e0a9ab9cf72aa31cfe91e,
+2024-07-19,Other,text,647e0a9ab9cf72aa31cfe921,

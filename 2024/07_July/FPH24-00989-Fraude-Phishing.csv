@@ -1,0 +1,21 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00989 [Fraude] [Phishing]
+| UUID: 32127b8c-8f9c-4b9b-b221-43a6ef8f1e58
+| Date: 2024-07-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-23,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+Esta es una campaña de phishing vía correo electrónico que suplanta a CorreosChile. En ella, los delincuentes indican falsamente a la víctima lo siguiente:“Estimado Cliente,Lamentamos informarle que nuestro conductor no pudo entregar su paquete debido a una dirección inválida. Como resultado, el paquete ha sido devuelto al depósito.Para asegurar una entrega exitosa y rápida, por favor actualice su dirección y reprograma la entrega haciendo clic en el botón de abajo. Tenga en cuenta que se aplicará una tarifa de reprogramación de $2.99.”El correo electrónico malicioso incluye un enlace a un formulario para capturar credenciales de usuarios.",Resumen
+2024-07-23,Network activity,ip-src,104.21.40.118,IP sitio falso
+2024-07-23,Network activity,ip-src,195.98.247.91,IP SMTP
+2024-07-23,Payload delivery,email-src,guillaume.lancelot@ac-creteil.fr,Correo de salida
+2024-07-23,Payload delivery,url,https://cl.spiceocean.co.uk/?STATUS=cd25b5ea5c05ad25088abe8dc0b67166484cf7a6f8d915142268741e3fc03b41,URL sitio falso
+2024-07-23,Payload delivery,url,https://spicevillage.uk/chile,URL redirección
+2024-07-23,Payload delivery,email-subject,Su número de paquete 47324732883 está en espera !,Asunto correo
+2024-07-23,External analysis,attachment,2024-07-22_14h49_38.png,
+2024-07-23,External analysis,attachment,2024-07-22_14h51_26.png,

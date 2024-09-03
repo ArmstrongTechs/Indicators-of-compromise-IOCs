@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-07-12]
+| UUID: 6d5f6518-fe72-4ef0-9608-15f6d416533c
+| Date: 2024-07-12
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-12,Payload installation,filename,mscorsvc.dll,Source: MalwareBazaar
+2024-07-12,Payload installation,md5,2a139396635ccbef9561b2252739416c,Source: MalwareBazaar
+2024-07-12,Payload installation,sha1,4691004cbb994eddf15c88f999786f2ebccedac1,Source: MalwareBazaar
+2024-07-12,Payload installation,sha256,d2e7dd07a011d12b618306c8e85a325ab6f399280cc3d9addf571a110da07338,Source: MalwareBazaar
+2024-07-12,Payload installation,filename,87fe2b0745cee80984847fafe4a38f1b,Source: MalwareBazaar
+2024-07-12,Payload installation,md5,87fe2b0745cee80984847fafe4a38f1b,Source: MalwareBazaar
+2024-07-12,Payload installation,sha1,b00cfef272bdf0a9b0c1a31ef5cb6a470e940f89,Source: MalwareBazaar
+2024-07-12,Payload installation,sha256,2c778d65ff3ddb44732faf2be85ca0205667be3d87ac14acc48675dca9439e97,Source: MalwareBazaar

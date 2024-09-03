@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-07-05]
+| UUID: 988ea154-599c-453e-99c4-2f82365eb315
+| Date: 2024-07-05
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-05,Payload installation,filename,swift_payment_pdf.gz,Source: MalwareBazaar
+2024-07-05,Payload installation,md5,cc001a6032c0a21110f648902588c7ec,Source: MalwareBazaar
+2024-07-05,Payload installation,sha1,290f1d361bb2c50ed363f71fb78e044260cdb6a5,Source: MalwareBazaar
+2024-07-05,Payload installation,sha256,6924f403a387ba96d118aeea9969ecb6e3265776a78029553dd4adbd93fe567c,Source: MalwareBazaar
+2024-07-05,Payload installation,filename,z18ORDENDECOMPRAURGENTE___f__d__p___.exe,Source: MalwareBazaar
+2024-07-05,Payload installation,md5,fea126096e142649211027c6edbb9832,Source: MalwareBazaar
+2024-07-05,Payload installation,sha1,e5e259235d3d77065918b3c4c369f9d74f1868d7,Source: MalwareBazaar
+2024-07-05,Payload installation,sha256,950a5c5455b3d7a4ee27ff5bc7cea2ade2d507770a3cc15106018bfedae9ca52,Source: MalwareBazaar

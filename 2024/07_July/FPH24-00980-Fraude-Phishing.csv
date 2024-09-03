@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00980 [Fraude] [Phishing]
+| UUID: c21b217a-4eff-4786-803e-dd05e3a54574
+| Date: 2024-07-03
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-03,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+Se trata de una nueva campaña de phishing a través de email, que suplanta a Microsoft OneDrive.En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente:&quot;Inicie sesion con su correo electrónico údel trabajo para ver el archivóo seguro.&quot;El correo electrónico fraudulento incluye un enlace a un formulario malicioso usado para capturar credenciales de los usuarios.",Resumen
+2024-07-03,Network activity,ip-src,101.99.93.148,IP sitio redirección
+2024-07-03,Network activity,ip-src,40.107.220.138,IP SMTP
+2024-07-03,Network activity,ip-src,52.95.148.46,IP sitio falso
+2024-07-03,Payload delivery,email-src,cpoblete@quimatic.cl,Correo de salida
+2024-07-03,Payload delivery,url,https://0nline.bp-la.online/?WMWKX=QFe2&username={Email},URL redirección
+2024-07-03,Payload delivery,url,https://webordendecompra.s3.eu-west-2.amazonaws.com/Darth+Vader.html#bWF0aWFzLmNhbGRlcm9uQGl2aXJtYS5jb20=,URL sitio falso
+2024-07-03,External analysis,attachment,2024-07-03_11h35_13.png,
+2024-07-03,External analysis,attachment,2024-07-03_11h37_23.png,
+2024-07-03,External analysis,attachment,2024-07-03_11h38_21.png,

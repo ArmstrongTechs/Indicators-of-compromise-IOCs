@@ -1,0 +1,21 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00985 [Fraude] [Phishing]
+| UUID: 484cbcc5-ba7e-487c-882d-c0841297d6df
+| Date: 2024-07-12
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-12,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+Esta campaña de phishing vía correo electrónico suplanta a CorreosChile, y en ella, los delincuentes indican falsamente a la víctima lo siguiente:“Hola Envió no entregado Por favor actualice su información de direccion dentro de 24 horas o perderemos su articulo: Confirma tu paquete su paquete no pudo ser entregado a tiempo. Siga las instrucciones para completar la entrega.”El correo electrónico incluye un enlace a un formulario para capturar credenciales de usuarios.",Resumen
+2024-07-12,Network activity,ip-src,104.21.4.92,IP sitio falso
+2024-07-12,Network activity,ip-src,112.175.79.23,IP SMTP
+2024-07-12,Payload delivery,email-src,apache@localhost.localdomain,Correo de salida
+2024-07-12,Payload delivery,url,https://correos-cl-seguimiento.correos-cl.sbs/seguimiento/seguimiento/datos.html,URL sitio falso
+2024-07-12,Payload delivery,url,https://paquete-retenedido-seguimiento.promosbancachile.sbs/correos?https://www.correos.cl/documents/20123/33943275/,URL redirección
+2024-07-12,Payload delivery,email-subject,paquete retenido,Asunto correo
+2024-07-12,External analysis,attachment,2024-07-12_10h17_50.png,
+2024-07-12,External analysis,attachment,2024-07-12_10h18_43.png,

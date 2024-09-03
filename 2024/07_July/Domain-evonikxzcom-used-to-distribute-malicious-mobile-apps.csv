@@ -1,0 +1,115 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Domain evonikxz.com used to distribute malicious mobile apps
+| UUID: bf6822e2-8b29-4bd6-b982-5e8129d1358c
+| Date: 2024-08-01
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-01,Attribution,whois-registrant-email,10fde08d73025836s@qq.com,Mail address used in for domain registrations
+2024-07-30,Network activity,domain,evonikxz.com,
+2024-07-30,Network activity,ip-dst,47.239.42.51,
+2024-07-30,Attribution,whois-registrant-email,10fde08d73025836s@qq.com,
+2024-07-30,Other,text,"Admin City: changshou
+Admin Country: CN
+Admin Email: 10fde08d73025836s@qq.com
+Admin Postal Code: 511111
+Admin State/Province: zhongqing
+Creation Date: 2024-07-28T12:00:26Z
+DNSSEC: Unsigned
+DNSSEC: unsigned
+Domain Name: EVONIKXZ.COM
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: HENGHOST.EARTH.ORDERBOX-DNS.COM
+Name Server: HENGHOST.MARS.ORDERBOX-DNS.COM
+Name Server: HENGHOST.MERCURY.ORDERBOX-DNS.COM
+Name Server: HENGHOST.VENUS.ORDERBOX-DNS.COM
+Name Server: henghost.earth.orderbox-dns.com
+Name Server: henghost.mars.orderbox-dns.com
+Name Server: henghost.mercury.orderbox-dns.com
+Name Server: henghost.venus.orderbox-dns.com
+Registrant City: 2c730b76595226ef
+Registrant Country: CN
+Registrant Email: 10fde08d73025836s@qq.com
+Registrant Fax Ext: 3432650ec337c945
+Registrant Fax: 3432650ec337c945
+Registrant Name: 3462d5a67530b797
+Registrant Organization: 3432650ec337c945
+Registrant Phone Ext: 3432650ec337c945
+Registrant Phone: 00b5ffbb5c013567
+Registrant Postal Code: 00f0ad8e50dae676
+Registrant State/Province: 38ae06fc023b2cbe
+Registrant Street: 7f0f4d2360a6af39
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+Registrar IANA ID: 303
+Registrar Registration Expiration Date: 2025-07-28T12:00:26Z
+Registrar URL: http://www.publicdomainregistry.com
+Registrar URL: www.publicdomainregistry.com
+Registrar WHOIS Server: whois.PublicDomainRegistry.com
+Registrar WHOIS Server: whois.publicdomainregistry.com
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registry Admin ID: Not Available From Registry
+Registry Domain ID: 2903142799_DOMAIN_COM-VRSN
+Registry Expiry Date: 2025-07-28T12:00:26Z
+Registry Registrant ID: Not Available From Registry
+Registry Tech ID: Not Available From Registry
+Tech City: changshou
+Tech Country: CN
+Tech Email: 10fde08d73025836s@qq.com
+Tech Postal Code: 511111
+Tech State/Province: zhongqing
+Updated Date: 2024-07-28T12:00:26Z
+Updated Date: 2024-07-28T12:00:27Z",
+2024-08-01,Network activity,domain,evonikxz.com,
+2024-07-30,Payload delivery,filename,o_1i3tu34hb1uls1jjhgil23o1e9ua.apk,
+2024-07-30,Payload delivery,sha256,4cc8982503ee3782fedbe1c6a6a7510f4de00ed0046ae6aa822a4702a2c27ea8,
+2024-07-30,Payload delivery,sha256,b42439b48463ed7c84e68b45f4664e85826ff296c4ae7112d52c1d110decc462,
+2024-07-30,Payload delivery,filename,o_1i3tu3od9tp815hv10pl18t4130aa.apk,
+2024-07-30,Payload delivery,sha256,85d8ef09251589cdc1bc0204ad6d36d666e3b5bbaece4bc6e5061818cc2fda31,
+2024-07-30,Payload delivery,filename,o_1i3tua7sacem1v4r16je16vqhiea.apk,
+2024-07-30,Payload delivery,url,https://hh.ppx6.com/p25prw?t=1722333369,Android app download
+2024-07-30,Payload delivery,domain,hh.ppx6.com,
+2024-07-30,Payload delivery,url,https://uu.ppx6.com/nntgb3?t=1722334335,Android app download
+2024-07-30,Payload delivery,domain,uu.ppx6.com,
+2024-07-30,Payload delivery,url,https://apps.xiafenfa.cn/zm3taw?t=1722334396,Android app download - recognized as malicious by Google Safe Browsing
+2024-07-30,Payload delivery,domain,apps.xiafenfa.cn,
+2024-07-30,Payload delivery,url,https://qn.cdnfenfa.cn/o_1i3tua7sacem1v4r16je16vqhiea.apk?sign=7d0d94ca78643c4b7b8d2de830e68f57&t=66a8c464,App download location
+2024-07-30,Payload delivery,domain,qn.cdnfenfa.cn,
+2024-07-30,Payload delivery,url,https://qn.cdnfenfa.cn/o_1i3tu3od9tp815hv10pl18t4130aa.apk?sign=af54ff772427a329a248597c0cfd1272&t=66a8c39a,App download location
+2024-07-30,Payload delivery,domain,qn.cdnfenfa.cn,
+2024-07-30,Payload delivery,url,https://qn.cdnfenfa.cn/o_1i3tu34hb1uls1jjhgil23o1e9ua.apk?sign=e83352586ca383ae9af418f11005502e&t=66a8c0af,App download location
+2024-07-30,Payload delivery,domain,qn.cdnfenfa.cn,
+2024-07-30,Payload delivery,url,https://d13dyr42dmgw4h.cloudfront.net/4vm2eidyf9zcsx,iOS app download page
+2024-07-30,Payload delivery,domain,d13dyr42dmgw4h.cloudfront.net,
+2024-07-30,Payload delivery,url,https://fce9be.bxdjk.com/4vm2eidyf9zcsx,iOS app download page
+2024-07-30,Payload delivery,domain,fce9be.bxdjk.com,
+2024-07-30,Payload delivery,url,https://qntdonv.gxhpnm.com/ability/34vm2eidyf9zcsx,iOS app download page
+2024-07-30,Payload delivery,domain,qntdonv.gxhpnm.com,
+2024-07-30,Payload delivery,url,https://2b7202.bxdjk.com/4vm2eidyf9zcsx,iOS app download page
+2024-07-30,Payload delivery,domain,2b7202.bxdjk.com,
+2024-08-01,Network activity,domain,ycevonik.com,
+2024-08-01,Network activity,ip-dst,154.23.215.105,
+2024-08-01,Attribution,whois-registrant-email,10fde08d73025836s@qq.com,
+2024-08-01,Other,text,"Administrative state: zhongqing
+Create date: 2024-07-29 00:00:00
+Domain name: ycevonik.com
+Domain registrar id: 303
+Domain registrar url: www.publicdomainregistry.com
+Expiry date: 2025-07-29 00:00:00
+Query time: 2024-07-30 10:26:19
+Registrant city: 2c730b76595226ef
+Registrant country: China
+Registrant email: 10fde08d73025836s@qq.com
+Registrant name: 3462d5a67530b797
+Registrant phone: 367d027a0c1afdff
+Registrant state: 38ae06fc023b2cbe
+Registrant zip: 00f0ad8e50dae676
+Technical city: changshou
+Technical country: China
+Technical email: 10fde08d73025836s@qq.com
+Technical state: zhongqing
+Update date: 2024-07-29 00:00:00",
+2024-08-01,Network activity,domain,ycevonik.com,

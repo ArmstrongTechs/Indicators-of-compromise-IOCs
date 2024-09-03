@@ -1,0 +1,34 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Smoke Loader host indicators [2024-07-03]
+| UUID: 5b1268e1-b219-4abc-91d3-4ad4171a6cec
+| Date: 2024-07-03
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-03,Payload installation,filename,0c653f386efe0b014ffc681b49120706.exe,Source: MalwareBazaar
+2024-07-03,Payload installation,md5,0c653f386efe0b014ffc681b49120706,Source: MalwareBazaar
+2024-07-03,Payload installation,sha1,dd7ddec0bae7270469fa6cfb9d3d0b7f0c170b54,Source: MalwareBazaar
+2024-07-03,Payload installation,sha256,a6c2a7ffb68b797967ad979e51a1330e9f16223e4f5dc8500b0a58741176f83c,Source: MalwareBazaar
+2024-07-03,Payload installation,filename,7904c33d58c3e399bf5bc6e9c1d67bcb.exe,Source: MalwareBazaar
+2024-07-03,Payload installation,md5,7904c33d58c3e399bf5bc6e9c1d67bcb,Source: MalwareBazaar
+2024-07-03,Payload installation,sha1,90beefb222c7aeb95d521c0c323c4aea823101aa,Source: MalwareBazaar
+2024-07-03,Payload installation,sha256,d6d251f8dc5e403b7b00d5de2831e411e91dccf2a1ebdec794a9ca6210f90487,Source: MalwareBazaar
+2024-07-03,Payload installation,filename,811a28d373d02ae481e4858dfb8b1d15.exe,Source: MalwareBazaar
+2024-07-03,Payload installation,md5,811a28d373d02ae481e4858dfb8b1d15,Source: MalwareBazaar
+2024-07-03,Payload installation,sha1,74ca1efcd4d1f41691f0cd005662cc56537b04a8,Source: MalwareBazaar
+2024-07-03,Payload installation,sha256,7e92a078f6f875b189bc4b2bca87f4f737eb2048356a51a1962f359b645d1b0f,Source: MalwareBazaar
+2024-07-03,Payload installation,filename,27fdfbc4a5388e3c43fb79d75ee2b048.exe,Source: MalwareBazaar
+2024-07-03,Payload installation,md5,27fdfbc4a5388e3c43fb79d75ee2b048,Source: MalwareBazaar
+2024-07-03,Payload installation,sha1,8e3bbf0f0a899b8bb2eac42830081aff222a87a8,Source: MalwareBazaar
+2024-07-03,Payload installation,sha256,2bf758ec68ee38fb0e7bc577e3f8f0e3be2da66e73ccfb1328b8da6a496840c9,Source: MalwareBazaar
+2024-07-03,Payload installation,filename,SecuriteInfo.com.W32.Trojan.FWF.gen.Eldorado.15788.4670,Source: MalwareBazaar
+2024-07-03,Payload installation,md5,ac7fd6661ae787ba13c4599c8aef8807,Source: MalwareBazaar
+2024-07-03,Payload installation,sha1,bf28bf1d44e190e4cea10ddad1992fd3671ed13a,Source: MalwareBazaar
+2024-07-03,Payload installation,sha256,487d893f6d85731ec5e27e65c863163de9cb7bf8c2f0f18118caa6449c96c922,Source: MalwareBazaar
+2024-07-03,Payload installation,filename,7fc4847438a3867ab9380525626d0cece5f31bd4d148864e4168616c182f7b6e,Source: MalwareBazaar
+2024-07-03,Payload installation,md5,5f93b2e5faf3721c176353fd8ab82f9d,Source: MalwareBazaar
+2024-07-03,Payload installation,sha1,85b6c685a5a88e8e25385a73330defa2a3c9f373,Source: MalwareBazaar
+2024-07-03,Payload installation,sha256,7fc4847438a3867ab9380525626d0cece5f31bd4d148864e4168616c182f7b6e,Source: MalwareBazaar

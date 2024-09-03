@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: CrimsonRAT host indicators [2024-07-29]
+| UUID: 7743edfa-b678-45bd-b6f8-dafd9e0ddf1e
+| Date: 2024-07-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-29,Payload installation,filename,26ef4caf641a3ee628539d915b7ff78b.exe,Source: MalwareBazaar
+2024-07-29,Payload installation,md5,26ef4caf641a3ee628539d915b7ff78b,Source: MalwareBazaar
+2024-07-29,Payload installation,sha1,88232a0000cd94294a46b0deea398532d163754e,Source: MalwareBazaar
+2024-07-29,Payload installation,sha256,59c2e5e0f67781a6339796a931a0b76a07bb665794b2163648f96facff75e503,Source: MalwareBazaar

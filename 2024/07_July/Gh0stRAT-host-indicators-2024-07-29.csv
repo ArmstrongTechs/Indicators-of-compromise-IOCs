@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Gh0stRAT host indicators [2024-07-29]
+| UUID: 3704a032-70d7-4255-826c-471599158150
+| Date: 2024-07-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-29,Payload installation,filename,安装察看.msi,Source: MalwareBazaar
+2024-07-29,Payload installation,md5,54733d7adc07fecd991321b387e8d0f8,Source: MalwareBazaar
+2024-07-29,Payload installation,sha1,87739696da42c283d165fdc5e0b248ecce27a04f,Source: MalwareBazaar
+2024-07-29,Payload installation,sha256,9f1a298fe1bb726da72ff996bd96119ac67349136d247abc5c1b3f447f214e72,Source: MalwareBazaar

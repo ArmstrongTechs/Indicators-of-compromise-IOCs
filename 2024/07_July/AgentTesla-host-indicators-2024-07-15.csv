@@ -1,0 +1,42 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-07-15]
+| UUID: e3fb06c4-fb93-46a6-9b6e-3cfcbeb93222
+| Date: 2024-07-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-15,Payload installation,filename,Payment Advice.exe,Source: MalwareBazaar
+2024-07-15,Payload installation,md5,631e3c5465349fdfd6fc2fbe9c15cf65,Source: MalwareBazaar
+2024-07-15,Payload installation,sha1,af9e5b3d8ca4b6c64b69876b9cad6a18476f0168,Source: MalwareBazaar
+2024-07-15,Payload installation,sha256,25898c73a877d87ba289bb4ab9585eb36eba9d27d47af678a86befdbf9aa938f,Source: MalwareBazaar
+2024-07-15,Payload installation,filename,04.exe,Source: MalwareBazaar
+2024-07-15,Payload installation,md5,eee18f9c54e204779f58707a3af6f6d8,Source: MalwareBazaar
+2024-07-15,Payload installation,sha1,af5cfc00b6a9bb72c37629fb5aeb46dfe788344a,Source: MalwareBazaar
+2024-07-15,Payload installation,sha256,daa69f6b826aee3b3949e40f993f10a5f30faf0834985039cbfa21d20029f0a1,Source: MalwareBazaar
+2024-07-15,Payload installation,filename,ss.exe,Source: MalwareBazaar
+2024-07-15,Payload installation,md5,b21f492bb760c34ba26a70a9a2950eb0,Source: MalwareBazaar
+2024-07-15,Payload installation,sha1,a4f3143b16bffe33e23f788a8e385ef9bc4bd819,Source: MalwareBazaar
+2024-07-15,Payload installation,sha256,7ca9c170757e7f0f9092fcbef7d2830c2393373bdd00648e76e3437ca5a2169f,Source: MalwareBazaar
+2024-07-15,Payload installation,filename,Great Lake - Quote#474701.zip,Source: MalwareBazaar
+2024-07-15,Payload installation,md5,5aef711274de06f683f537e9c7838db1,Source: MalwareBazaar
+2024-07-15,Payload installation,sha1,1b06f51e8d89cc18961ec43622e9e1ce3c2608e5,Source: MalwareBazaar
+2024-07-15,Payload installation,sha256,a3636b8f5e8da9b9275cd6cc01b91058fbb21c6a4b627970cef5fa7ca6560d80,Source: MalwareBazaar
+2024-07-15,Payload installation,filename,Great Lake - Quote#474701.exe,Source: MalwareBazaar
+2024-07-15,Payload installation,md5,c229261d7e8c8524dd25f7bc58edddf8,Source: MalwareBazaar
+2024-07-15,Payload installation,sha1,781d106f3aa60c392f039968ae45c53f78890871,Source: MalwareBazaar
+2024-07-15,Payload installation,sha256,0178b79bd084c2597b2de4e62e61a88bb8359e4fcac2fe672bb887e0e52e5dbd,Source: MalwareBazaar
+2024-07-15,Payload installation,filename,SecuriteInfo.com.Trojan.Autoit.F.32414.4022,Source: MalwareBazaar
+2024-07-15,Payload installation,md5,301324809e0d9854216940b277da749b,Source: MalwareBazaar
+2024-07-15,Payload installation,sha1,54efbbc486d95d09ddba75fdeb0e326f73be5c54,Source: MalwareBazaar
+2024-07-15,Payload installation,sha256,d513b971096773c2a3e8ae0c7fdb81dc7d3957949b0ff83ef2d0baf15493a98e,Source: MalwareBazaar
+2024-07-15,Payload installation,filename,rPago.exe,Source: MalwareBazaar
+2024-07-15,Payload installation,md5,3221538184f97ba27744f40b2b884bd7,Source: MalwareBazaar
+2024-07-15,Payload installation,sha1,3b3095ad02b23bf93fc7ca78b5131c299a465752,Source: MalwareBazaar
+2024-07-15,Payload installation,sha256,1899fd3e17f6dfa447200d2269b8be73b663b0ab49b3cfa13594b1588f515ad9,Source: MalwareBazaar
+2024-07-16,Payload installation,filename,TÜBİTAK SAGE FİYAT TEKLİFİ İSTEĞİ  20243054_xlsx.exe,Source: MalwareBazaar
+2024-07-16,Payload installation,md5,6e830d0f213f8b0949abab5be5745c43,Source: MalwareBazaar
+2024-07-16,Payload installation,sha1,1a7b713b9935b21bf09833ba4126a0bb34490b2e,Source: MalwareBazaar
+2024-07-16,Payload installation,sha256,a1196b72da0c4aa058e75591a3ec45fbea679e88ffbaef8eb7201fbc94f14595,Source: MalwareBazaar

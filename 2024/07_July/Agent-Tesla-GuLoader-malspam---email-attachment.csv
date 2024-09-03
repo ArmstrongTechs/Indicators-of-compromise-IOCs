@@ -1,0 +1,46 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Agent Tesla GuLoader malspam - email attachment
+| UUID: 5f3a77d2-5b36-4d00-ac36-b4a53f2b3edd
+| Date: 2024-07-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-16,Artifacts dropped,filename,%LOCALAPPDATA%\Microsoft\Windows\INetCache\antimilitarismens\rektoratssekretrs\Cutization216\indringning.unr,
+2024-07-16,Artifacts dropped,filename,%LOCALAPPDATA%\Microsoft\Windows\INetCache\antimilitarismens\rektoratssekretrs\Cutization216\Jantu.und,
+2024-07-16,Artifacts dropped,filename,%LOCALAPPDATA%\Microsoft\Windows\INetCache\antimilitarismens\rektoratssekretrs\Cutization216\Kloakledninger70.Ger,
+2024-07-16,Artifacts dropped,filename,%LOCALAPPDATA%\Microsoft\Windows\INetCache\antimilitarismens\rektoratssekretrs\Cutization216\straalepletterne.bar,
+2024-07-16,Artifacts dropped,filename,%LOCALAPPDATA%\Microsoft\Windows\INetCache\antimilitarismens\rektoratssekretrs\Cutization216\writation.mon,
+2024-07-16,Artifacts dropped,regkey,HKLM\konsumering\Done\Smittefare179\preinduction,
+2024-07-16,Artifacts dropped,regkey,HKCU\galvanisren\revaccinationens\tillidsreprsentant\cyklistvenlig,
+2024-07-16,Artifacts dropped,regkey,HKCU\refrain\Uninstall\dronningers\depolymerization\underslbenes,
+2024-07-16,Network activity,url,https://www.partas.hr/jBxJdhahGbdfIvznisLF224.bin,GuLoader payload URL
+2024-07-16,Network activity,hostname,mail.mosir.ehost.pl,Agent Tesla data exfiltration host (SMTP)
+2024-07-16,Network activity,email-src,it@mosir.ehost.pl,
+2024-07-16,Network activity,email-dst,data@mosir.ehost.pl,
+2024-07-16,Payload delivery,malware-sample,doc20240716-00014.bat|5ab5d26f90eda61014a308d3f4259be2,
+2024-07-16,Payload delivery,filename,doc20240716-00014.bat,
+2024-07-16,Payload delivery,md5,5ab5d26f90eda61014a308d3f4259be2,
+2024-07-16,Payload delivery,sha1,878d31cf02876e4dbe0c769d46fc87a11337f9ee,
+2024-07-16,Payload delivery,sha256,5826bb4a6c4ffbaea530a09212c6219b58f31ed778db06ee04824f63dc49e673,
+2024-07-16,Other,size-in-bytes,975151,
+2024-07-16,Payload delivery,malware-sample,doc20240716-00014.img|53b3c4e7a801fef851eacc60851b7008,
+2024-07-16,Payload delivery,filename,doc20240716-00014.img,
+2024-07-16,Payload delivery,md5,53b3c4e7a801fef851eacc60851b7008,
+2024-07-16,Payload delivery,sha1,0efa633c7b76ad621b82ac220a68563772453405,
+2024-07-16,Payload delivery,sha256,ae8364c895175c6c9a8227465242ce72443581b3258e4cea0f1e1520c2afa227,
+2024-07-16,Other,size-in-bytes,1572864,
+2024-07-16,Payload delivery,malware-sample,payload.bin|818c2640f6f264ecdaeb6f881eede97e,
+2024-07-16,Payload delivery,filename,payload.bin,
+2024-07-16,Payload delivery,md5,818c2640f6f264ecdaeb6f881eede97e,
+2024-07-16,Payload delivery,sha1,9a16c9d8a1d750f1ef7d778e179c85592269bcc8,
+2024-07-16,Payload delivery,sha256,ae7570e7c963c40d043000920cdfd78863bd256f9536645ab171bb72b31a08c9,
+2024-07-16,Other,size-in-bytes,246336,
+2024-07-16,Payload delivery,malware-sample,a3aff1d0-d8a4-4bfe-8a77-fa36a10cd999.exe|416b5c2695b633747a92520ae78141dd,
+2024-07-16,Payload delivery,filename,a3aff1d0-d8a4-4bfe-8a77-fa36a10cd999.exe,
+2024-07-16,Payload delivery,md5,416b5c2695b633747a92520ae78141dd,
+2024-07-16,Payload delivery,sha1,93bab5668e1ac20f5a30751f975dc8a192640cf9,
+2024-07-16,Payload delivery,sha256,e6ce59cd3494dcf6b7cfcd0be77b9e1486e19bf84d1f2118485f84cee697eeb0,
+2024-07-16,Other,size-in-bytes,246272,

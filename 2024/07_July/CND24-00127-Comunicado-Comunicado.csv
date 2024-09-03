@@ -1,0 +1,51 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: CND24-00127 [Comunicado] [Comunicado]
+| UUID: d7ffbd6e-3b55-4f0a-8d46-0010a6e740b0
+| Date: 2024-07-04
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-04,External analysis,text,"Desde el CSIRT de Gobierno te informamos lo siguiente:
+
+Hemos apreciado la activación de una nueva campaña de phishing con el malware conocido como Grandoreiro. Hemos recibido numerosos reportes, en los últimos días, de correos electrónicos fraudulentos que contienen este malware, enviados con la intención de comprometer la seguridad de nuestras cuentas y sistemas.Este malware bancario brasileño se presenta en muchas variedades. En la mayoría de las muestras analizadas, está escrito en Delphi como código fuente, un código reutilizado y modificado a lo largo del tiempo, dando lugar a muchas variedades de malware brasileño, como Mekotio, Grandoreiro, Javali y Casabeniero. Algunas cepas de Grandoreiro continúan en desarrollo activo.¿Qué es Grandoreiro?Grandoreiro es un malware de tipo troyano bancario, brasileño, y cuyo objetivo principal es robar información financiera y credenciales de acceso a través de campañas de phishing. Este troyano bancario suele distribuirse mediante correos electrónicos falsos que parecen provenir de instituciones financieras o servicios legítimos. Una vez que el usuario abre el correo y ejecuta el archivo adjunto o hace clic en un enlace malicioso, el malware se instala en el dispositivo, permitiendo a los atacantes acceder a información sensible y realizar transacciones fraudulentas.Características de Grandoreiro:Origen: Brasil.Tamaño: No más de 16 MB en algunos casos.Método de Distribución: Correos electrónicos de phishing.Contenido: Archivos adjuntos maliciosos y enlaces que dirigen a sitios web fraudulentos.Actor de Amenaza: Asociado a cibercriminales que operan principalmente en América Latina.Objetivo: Robo de información financiera y credenciales de acceso.Instrucciones de seguridad:No abrir correos sospechosos: Eviten abrir emails de remitentes desconocidos o que contengan mensajes inusuales, como aquellos de alerta u oportunidad, que llaman a actuar rápidamente sin pensar (premios o multas impagas, por ejemplo).No hacer clic en enlaces: No hagan clic en links o descarguen archivos adjuntos de correos sospechosos.Verificar la legitimidad: Si reciben un correo sospechoso que parece ser de una fuente legítima, verifiquen directamente con el remitente antes de tomar cualquier acción.Actualizar software de seguridad: Asegúrense de que el software antivirus y otras medidas de seguridad estén actualizadas en todos sus dispositivos.Informar inmediatamente: Reporten cualquier correo sospechoso al departamento de TI de su institución, para que puedan tomar las medidas necesarias. También pueden reportarnos la recepción de emails sospechosos en el siguiente enlace: https://csirt.gob.cl/reportar.Estamos trabajando arduamente para proteger nuestros sistemas y mitigar cualquier riesgo asociado con esta campaña. Agradecemos su colaboración y atención a estas instrucciones para mantener nuestra seguridad colectiva.",Resumen
+2024-07-04,Payload delivery,url,https://83.57.205.92.host.secureserver.net/pagarfactura?finanzas.busqueda?q=Secretar%C3%ADa+de+Administraci%C3%B3n+y+Finanzas?30337974_3097_705331937556-157889157889770732479410588494105884,URL redirección
+2024-07-04,Payload delivery,url,https://86.245.72.148.host.secureserver.net/archivos/?servicio?security/portal/SECURITY_KASPERSKY_NAVIGATOR?Portal=543891312-jsessionid=000shskGrMo_ix2izyg,URL de descarga
+2024-07-04,Payload delivery,url,https://86.245.72.148.host.secureserver.net/archivos?servicio?security/portal/SECURITY_KASPERSKY_NAVIGATOR?Portal=543891312-jsessionid=000shskGrMo_ix2izyg,URL redirección
+2024-07-04,Payload delivery,url,https://www.dropbox.com/scl/fi/7jgrrwvhg22puvhx8tg0m/ADOBEyaot-ENDOC-PAKNYLMGLHZI.zip?rlkey=lrx5j1g62v9nl5tx6ros8yrqz&st=e3ka17c0&dl=1,URL contenedora
+2024-07-04,Payload delivery,url,https://www.dropbox.com/scl/fi/i6owss9y95bt9iph8dpo5/ADOBEpynb-ENDOC-SXVNEKNSUUTJ.zip?rlkey=tvsprcz66xmmmr7sg3e09nc33&st=72qh32xz&dl=1,URL contenedora
+2024-07-04,External analysis,attachment,2024-07-04_11h43_42.png,
+2024-07-04,External analysis,attachment,2024-07-04_11h44_57.png,
+2024-07-04,External analysis,attachment,2024-07-04_11h47_33.png,
+2024-07-04,Payload delivery,filename,TYJRDedallesIKOGFactXYBMMABUCuentaQZGY.exe,
+2024-07-04,Payload delivery,sha256,112a684aa70a73d7dbd478de856ef4d6c9b1bf5b242ec832af30891579de6191,
+2024-07-04,Payload delivery,filename,BCMODedallesHQEKSDOPBUYMENDOCqbmr.exe,
+2024-07-04,Payload delivery,sha256,29a4d646d2f201acf9f5918043b2abb81667f6d5c34e3815c9aad2e7b89c81e2,
+2024-07-04,Payload delivery,filename,SHDZDedallesTPSRXAEHQTPGENDOCvtsr.exe,
+2024-07-04,Payload delivery,sha256,4b2bcf6961647eaed8ffa5cabe95dacebfff429bbe471be74f2a7dab601a41ff,
+2024-07-04,Payload delivery,filename,_____________________________________________________FMQBBUMCDGPTENMJ.xml,
+2024-07-04,Payload delivery,sha256,4f21a077f3bf918c1e0efe33cc5288bb4c6b3d0ee36be045fba9f9d5691cd6d2,
+2024-07-04,Payload delivery,filename,_____________________________________________________VBKVQFSJPFJSJIDR.xml,
+2024-07-04,Payload delivery,sha256,4f21a077f3bf918c1e0efe33cc5288bb4c6b3d0ee36be045fba9f9d5691cd6d2,
+2024-07-04,Payload delivery,filename,ADOBEyaot#ENDOC#PAKNYLMGLHZI.zip,
+2024-07-04,Payload delivery,sha256,793eceb372f381cc280fd088fef75bb7a8c88bac5c14d149d0db070c4f2b7ac1,
+2024-07-04,Payload delivery,filename,JUVDFC#IDHCOXtpiiOXEPqlrb.zip,
+2024-07-04,Payload delivery,sha256,7bfe6c80aa221b4ad774fda68a6fc0f434875261619fa118a4128256896e6182,
+2024-07-04,Payload delivery,filename,YSDCFC#IDJZRHniaeLBUVlryr.zip,
+2024-07-04,Payload delivery,sha256,891e2784f37c46ef15c4141edbcf8f271ec6ec1c9375f96c65ec4ea63823fe9d,
+2024-07-04,Payload delivery,filename,ADOBEpynb#ENDOC#SXVNEKNSUUTJ.zip,
+2024-07-04,Payload delivery,sha256,a16504f6477fb539363875d48a1625377eeb51b5cf5b41937152ebda2a0f6184,
+2024-07-04,Payload delivery,filename,DROMDedallescncmTOYOFCEENDOJGLYLCB.exe,
+2024-07-04,Payload delivery,sha256,b233a135ccd91308794825ca54e455b90d19669559f00533d6026a27b4214a91,
+2024-07-04,Payload delivery,filename,_____________________________________________________LDZDTUCSMYVXJRCC.xml,
+2024-07-04,Payload delivery,sha256,f2d850025dd7b65c44d979ec74a3f5a77e1c15b4070812be5656887cee95dc59,
+2024-07-04,Payload delivery,filename,_____________________________________________________YURKKFRQHELAXOPG.xml,
+2024-07-04,Payload delivery,sha256,f2d850025dd7b65c44d979ec74a3f5a77e1c15b4070812be5656887cee95dc59,
+2024-07-04,Payload delivery,filename,_____________________________________________________EDRRNVIXZZHDHLLV.xml,
+2024-07-04,Payload delivery,sha256,f2d850025dd7b65c44d979ec74a3f5a77e1c15b4070812be5656887cee95dc59,
+2024-07-04,Payload delivery,filename,ADOBExtjc#ENDOC#BVGZODULEKVG.zip,
+2024-07-04,Payload delivery,sha256,f43275f26d9ea0b7224ddb7bdd7df6073129ec13a4ee77ad21def42d0f94c5f6,
+2024-07-04,Payload delivery,filename,OYXVDedallesOFAATXYEFARMENDOCvaua.exe,
+2024-07-04,Payload delivery,sha256,f67e11a3dfe21f081c125b8078b57b3998372a7c79e28c34959220d15ac20b2b,

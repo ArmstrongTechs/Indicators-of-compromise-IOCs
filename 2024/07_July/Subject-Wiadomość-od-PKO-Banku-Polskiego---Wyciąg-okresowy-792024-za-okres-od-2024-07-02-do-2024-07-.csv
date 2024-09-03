@@ -1,0 +1,66 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Wiadomość od PKO Banku Polskiego - Wyciąg okresowy 79/2024 za okres od 2024-07-02 do 2024-07-02 - From: [REDACTED]@pkobp.pl"" Campaign"
+| UUID: 19d82ee5-3815-469b-ba54-e6df9e891b37
+| Date: 2024-07-05
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-05,Payload delivery,email-src,[redacted]@pkobp.pl,Source email: from [REDACTED]@pkobp.pl - subject: Wiadomość od PKO Banku Polskiego - Wyciąg okresowy 79/2024 za okres od 2024-07-02 do 2024-07-02; Spoofing
+2024-07-05,Payload delivery,email-src-display-name,PKO Bank Polski,Source email: from [REDACTED]@pkobp.pl - subject: Wiadomość od PKO Banku Polskiego - Wyciąg okresowy 79/2024 za okres od 2024-07-02 do 2024-07-02
+2024-07-05,Payload delivery,email-body,"Dokument elektroniczny
+
+  Dzień dobry,
+
+w załączeniu przesyłamy dokument: Wyciąg okresowy 79/2024 za okres od 
+2024-07-02 do 2024-07-02
+
+Z pozdrowieniami
+PKO Bank Polski
+
+E-mail został wygenerowany automatycznie, prosimy na niego nie 
+odpowiadać.
+
+Masz pytania? Skontaktuj się z naszą infolinią czynną całą dobę, 7 dni w 
+tygodniu pod numerem telefonu 800 302 302 (bez opłat dla numerów 
+krajowych w Polsce, w pozostałych przypadkach opłata zgodna ze stawką 
+operatora) lub +48 81 535 60 60 (opłata zgodna ze stawką operatora) albo 
+odwiedź dowolny oddział PKO Banku Polskiego.
+
+Powszechna Kasa Oszczędności Bank Polski Spółka Akcyjna z siedzibą w 
+Warszawie przy ul. Puławskiej 15, 02-515 Warszawa, zarejestrowana w 
+Sądzie Rejonowym dla m.st [1]. Warszawy w Warszawie, XIII Wydział 
+Gospodarczy Krajowego Rejestru Sądowego pod nr KRS 0000026438; NIP: 
+525-000-77-38; REGON: 016298263; kapitał zakładowy (kapitał wpłacony) 1 
+250 000 000 zł
+
+  		PKO Bank Polski
+
+
+
+Links:
+------
+[1] http://m.st",Source email: from [REDACTED]@pkobp.pl - subject: Wiadomość od PKO Banku Polskiego - Wyciąg okresowy 79/2024 za okres od 2024-07-02 do 2024-07-02
+2024-07-05,Payload delivery,email-subject,Wiadomość od PKO Banku Polskiego - Wyciąg okresowy 79/2024 za okres od 2024-07-02 do 2024-07-02,Source: from [REDACTED]@pkobp.pl - subject: Wiadomość od PKO Banku Polskiego - Wyciąg okresowy 79/2024 za okres od 2024-07-02 do 2024-07-02
+2024-07-05,Payload delivery,filename|md5,Wyciag_79_61102025280000080200145136.rar|0f60c05a4005d8e9adc2649028b24b7c,Malspam attachment - source: from [REDACTED]@pkobp.pl - subject: Wiadomość od PKO Banku Polskiego - Wyciąg okresowy 79/2024 za okres od 2024-07-02 do 2024-07-02 mime: application/x-rar
+2024-07-05,Payload delivery,filename|sha1,Wyciag_79_61102025280000080200145136.rar|44de14980a2167b4e3a718e62c20cc4fec38729c,Malspam attachment - source: from [REDACTED]@pkobp.pl - subject: Wiadomość od PKO Banku Polskiego - Wyciąg okresowy 79/2024 za okres od 2024-07-02 do 2024-07-02 mime: application/x-rar
+2024-07-05,Payload delivery,filename|sha256,Wyciag_79_61102025280000080200145136.rar|7351d0a0d19a6efb2230bfa6f588b85c0d54a221adde9d74009114fae4e6f1a8,Malspam attachment - source: from [REDACTED]@pkobp.pl - subject: Wiadomość od PKO Banku Polskiego - Wyciąg okresowy 79/2024 za okres od 2024-07-02 do 2024-07-02 mime: application/x-rar
+2024-07-05,Payload delivery,filename|sha512,Wyciag_79_61102025280000080200145136.rar|26e8d72861e46f06d9a132816516c08d37692bbe0452a9fa1aa99f3a4e6c55a5b39de7cabac629c1f611f9fbdf5b665f2ff7f00f1f10df988e3a349a141694fa,Malspam attachment - source: from [REDACTED]@pkobp.pl - subject: Wiadomość od PKO Banku Polskiego - Wyciąg okresowy 79/2024 za okres od 2024-07-02 do 2024-07-02 mime: application/x-rar
+2024-07-05,Payload delivery,filename|ssdeep,Wyciag_79_61102025280000080200145136.rar|24576:mB0oZJrs+jfrouGIH5xxYk5dkYxdet8NeR2NO9/ogQpUZo/4hD+D:mB3hnjfzH5zYk5Dit8NeR2NpgtZO45+D,Malspam attachment - source: from [REDACTED]@pkobp.pl - subject: Wiadomość od PKO Banku Polskiego - Wyciąg okresowy 79/2024 za okres od 2024-07-02 do 2024-07-02 mime: application/x-rar
+2024-07-05,Payload delivery,filename|imphash,CHARLES.exe|948cc502fe9226992dce9417f952fce3,Extracted from Wyciag_79_61102025280000080200145136.rar; mime: application/x-dosexec
+2024-07-05,Payload delivery,filename|md5,CHARLES.exe|bb1b2455f59fa0a25524b7ec9baff097,Extracted from Wyciag_79_61102025280000080200145136.rar; mime: application/x-dosexec
+2024-07-05,Payload delivery,filename|sha1,CHARLES.exe|9fadc578c339425ee59b46b9aae2c1c1472f076c,Extracted from Wyciag_79_61102025280000080200145136.rar; mime: application/x-dosexec
+2024-07-05,Payload delivery,filename|sha256,CHARLES.exe|a649c2453c27bdf09b5b92207e2bc8041bcfec24819ed7879959361096d7200f,Extracted from Wyciag_79_61102025280000080200145136.rar; mime: application/x-dosexec
+2024-07-05,Payload delivery,filename|sha512,CHARLES.exe|f17aa003e42920e7e5897280369d78e9a91a7cf51ff92eadf00565bd52931d20131d909835d585bbd7812e40f7389b5df4a8029c124c8d5d5f3b318fa207cffe,Extracted from Wyciag_79_61102025280000080200145136.rar; mime: application/x-dosexec
+2024-07-05,Payload delivery,filename|ssdeep,CHARLES.exe|49152:NTvC/MTQYxsWR7adX0KD/HqQhPFuWrf1:hjTQYxsWR63iQtFuWrf1,Extracted from Wyciag_79_61102025280000080200145136.rar; mime: application/x-dosexec
+2024-07-05,Payload delivery,filename|imphash,lfwhUWZlmFnGhDYPudAJ.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Unpacked from CHARLES.exe; mime: application/x-dosexec
+2024-07-05,Payload delivery,filename|md5,lfwhUWZlmFnGhDYPudAJ.exe|40275f6f0efd12c47aea19a25e028bba,Unpacked from CHARLES.exe; mime: application/x-dosexec
+2024-07-05,Payload delivery,filename|sha1,lfwhUWZlmFnGhDYPudAJ.exe|8f12d9c95c65c8dd6f8a02ab324951f27f9ac21a,Unpacked from CHARLES.exe; mime: application/x-dosexec
+2024-07-05,Payload delivery,filename|sha256,lfwhUWZlmFnGhDYPudAJ.exe|f8b2c1e65d4cb2af7c8c3c6b8911f25d774c326f52c67771d5e70c98da853a54,Unpacked from CHARLES.exe; mime: application/x-dosexec
+2024-07-05,Payload delivery,filename|sha512,lfwhUWZlmFnGhDYPudAJ.exe|1d04e31b3cb556b060dcb194fe09a808bb301d507968c5aef4b2f8155917dae524da5428f4cf1102f4da9d2fd3e98475ccf3fb0167364857c183810058e4fe92,Unpacked from CHARLES.exe; mime: application/x-dosexec
+2024-07-05,Payload delivery,filename|ssdeep,lfwhUWZlmFnGhDYPudAJ.exe|3072:ccp4SWwkWbSEUIzau+or2b3OcmqgYjba+MsknsY4wv8dBPgbY:kSWwjbSESmqgYjbQskEBob,Unpacked from CHARLES.exe; mime: application/x-dosexec
+2024-07-05,Payload delivery,domain,mail.maskottchenpet.com,Source: Static config of lfwhUWZlmFnGhDYPudAJ.exe; For data exfiltration via SMTP
+2024-07-05,Network activity,email-dst,refaccionaria@maskottchenpet.com,Source: Static config of lfwhUWZlmFnGhDYPudAJ.exe; For data exfiltration via SMTP
+2024-07-05,Network activity,email-dst,charlesworthjames93@gmail.com,Source: Static config of lfwhUWZlmFnGhDYPudAJ.exe; For data exfiltration via SMTP

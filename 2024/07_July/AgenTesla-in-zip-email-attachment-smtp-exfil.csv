@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgenTesla in .zip email attachment (smtp exfil)
+| UUID: bc3d12e2-b155-42bf-bbc2-cee363c6c11b
+| Date: 2024-07-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-30,Payload delivery,hostname,cp5ua.hyperhost.ua,
+2024-07-30,Payload delivery,domain,hyperhost.ua,
+2024-07-30,Network activity,email-src,projectlog@aflacltd.top,
+2024-07-30,Network activity,email-dst,project@aflacltd.top,
+2024-07-30,Payload delivery,malware-sample,RFQ-ITB 4422-Hail and Ghasha fields Project-Work_Rev.zip|2ad7ef128c3b045058745d857ab21871,
+2024-07-30,Payload delivery,filename,RFQ-ITB 4422-Hail and Ghasha fields Project-Work_Rev.zip,
+2024-07-30,Payload delivery,md5,2ad7ef128c3b045058745d857ab21871,
+2024-07-30,Payload delivery,sha1,e29b3e50100b24b91836b6c2e0962122a608e2c9,
+2024-07-30,Payload delivery,sha256,e23734a5e53bcec94281e9b6e5ff6bd1546ea2a27cbe19b6bf043d69f2e11d74,
+2024-07-30,Other,size-in-bytes,633852,
+2024-07-30,Payload delivery,malware-sample,RFQ-ITB 4422-Hail and Ghasha fields Project-Work_Rev.scr|c95cec7030456af0f7395d022d1c235e,
+2024-07-30,Payload delivery,filename,RFQ-ITB 4422-Hail and Ghasha fields Project-Work_Rev.scr,
+2024-07-30,Payload delivery,md5,c95cec7030456af0f7395d022d1c235e,
+2024-07-30,Payload delivery,sha1,f2eaa0a11af308a11e875476dfe3f2330cd9c5a1,
+2024-07-30,Payload delivery,sha256,3b08f443e9b1999e957fecbe5a3b9b51b666b78b4286350f23e7c618e44e0abd,
+2024-07-30,Other,size-in-bytes,683016,

@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-07-25]
+| UUID: c24007a7-fd34-4e22-a4a6-7a6d9cf71cd1
+| Date: 2024-07-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-25,Payload installation,filename,Lisect_AVT_24003_G1B_42.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,71a3766f6bd9757c10e6aead15ccc08a,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,3aa1cbf608300d96fcb42d5a9d838fb3d40556b3,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,3661575ad4a227bc52a9fcdb9a56ea19e0f882105300b938e9c0b634fe46d892,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,Shipping Documents 7003829465.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,21ff4cd902c6695abca7f6bfaa605ce3,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,f82fc492fee45356d0ccf32d6b3e262e20ef54c3,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,e57cec2b7f54b405b1618129b9328fb7b6ec4dfd4a62c9dc90f8eb3c7d83b898,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,DEBIT NOTE.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,526951b8056a2710c76cf0a533525dac,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,65293f6a7d9e556403fdf1404913c0c57bb363e1,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,eb89a7b195591d21c6f902d02560d4b2d1d1837fd94d404c3211e9f4ae12444d,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,SWIFT COPY.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,a0f74c405b615828045a96d6eb464f77,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,f2acdcf38ad5293435576cd3b5827d53cd5baeed,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,cc9372baeb26eb7513415fd8da130f514a1add9d50f8f8e02f893b23c6a1a1f3,Source: MalwareBazaar

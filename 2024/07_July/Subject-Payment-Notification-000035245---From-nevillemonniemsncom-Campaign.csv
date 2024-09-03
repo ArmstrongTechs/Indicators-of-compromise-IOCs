@@ -1,0 +1,41 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Payment Notification 00003524/5 - From: nevillemonnie@msn.com"" Campaign"
+| UUID: 303c944d-3e0e-436c-b1f0-82f50835b9ae
+| Date: 2024-07-30
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-30,Payload delivery,email-src,nevillemonnie@msn.com,Source email: from nevillemonnie@msn.com - subject: Payment Notification 00003524/5
+2024-07-30,Payload delivery,email-src-display-name,Accounts Payable(Nivid Corp),Source email: from nevillemonnie@msn.com - subject: Payment Notification 00003524/5
+2024-07-30,Payload delivery,email-body,"Hi,
+
+Here's your remittance advice for payment of 13480.00.
+
+If you have any questions, please let us know.
+
+--
+Thank you & Regards,
+
+Accounts 
+
+Payable 
+
+https://www.facebook.com/nividit/
+
+https://twitter.com/nividtech
+
+https://in.linkedin.com/company/nividtechnologies
+
+Notice of Confidentiality:
+
+The information contained herein is intended only for the confidential use of the recipient and is the property of Nivid and its affiliates and subsidiary companies. If the reader of this message is neither the intended recipient, nor the person responsible for delivering it to the intended recipient, you are hereby notified that you have received this communication in error and that any review, dissemination, distribution, or copying of this communication is strictly prohibited. If you receive this in error, please notify the sender immediately and destroy this e-mail message.",Source email: from nevillemonnie@msn.com - subject: Payment Notification 00003524/5
+2024-07-30,Payload delivery,email-subject,Payment Notification 00003524/5,Source: from nevillemonnie@msn.com - subject: Payment Notification 00003524/5
+2024-07-30,Payload delivery,filename|sha256,Bill Payment_00003710_5.htm|5a2070b054e12b6603ddd219408babc4c37dd2e152965fea6854b8d99234b88d,Malspam attachment - source: from nevillemonnie@msn.com - subject: Payment Notification 00003524/5 mime: text/html
+2024-07-30,Payload delivery,filename|ssdeep,Bill Payment_00003710_5.htm|96:Swl1dbUXhFsASKw+DafLZD1M0XuF/bvlH8Yrry4wvpy0mEJUrUmzm:FHd4gAPw+Dyly/RbvlzNwjzUrUCm,Malspam attachment - source: from nevillemonnie@msn.com - subject: Payment Notification 00003524/5 mime: text/html
+2024-07-30,Payload delivery,filename|sha1,Bill Payment_00003710_5.htm|d36785e40d6b776e9a328f4e9969a9424d296345,Malspam attachment - source: from nevillemonnie@msn.com - subject: Payment Notification 00003524/5 mime: text/html
+2024-07-30,Payload delivery,filename|sha512,Bill Payment_00003710_5.htm|da4d5c4ae871fff05e3b68f858aa441a3a29404b651bf1c1889417b43eba645f9b8cb9e9ff24f334acc2ee7da11b3a9341a2dfc80e3321a63f9c7970324da937,Malspam attachment - source: from nevillemonnie@msn.com - subject: Payment Notification 00003524/5 mime: text/html
+2024-07-30,Payload delivery,filename|md5,Bill Payment_00003710_5.htm|01e4f4cbef2c5f9982da0c32927660b0,Malspam attachment - source: from nevillemonnie@msn.com - subject: Payment Notification 00003524/5 mime: text/html
+2024-07-30,Payload delivery,url,https://meevint.com/wp-admin/pp.php,URL source POST method from: Bill Payment_00003710_5.htm

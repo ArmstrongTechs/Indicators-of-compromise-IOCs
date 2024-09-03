@@ -1,0 +1,34 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: SnakeKeylogger in email attachment
+| UUID: 75ef5452-0f29-481f-b10e-582ff613cb8c
+| Date: 2024-07-04
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-05,Payload delivery,url,https://riell.top/obb.doc,
+2024-07-05,Payload delivery,domain,riell.top,
+2024-07-05,Payload delivery,url,https://riell.top/obb.scr,
+2024-07-05,Network activity,email,reservation@artefes.com,
+2024-07-05,Network activity,domain,mail.artefes.com,
+2024-07-05,Network activity,url,https://reallyfreegeoip.org/,
+2024-07-05,Payload delivery,malware-sample,OVER DUE INVOICE PAYMENT.docx|9f3fd4e8aa2ad81966d0c2a036d1e901,
+2024-07-05,Payload delivery,filename,OVER DUE INVOICE PAYMENT.docx,
+2024-07-05,Payload delivery,md5,9f3fd4e8aa2ad81966d0c2a036d1e901,
+2024-07-05,Payload delivery,sha1,80a58393acb58fcc666e56b514994d98ba3f4716,
+2024-07-05,Payload delivery,sha256,cd9cf022180c8c6f6c4fb0d76476bf2e9382128d28a4686114c50448934e5381,
+2024-07-05,Other,size-in-bytes,16418,
+2024-07-05,Payload delivery,malware-sample,obb.doc|3f9a089317afa13a17b61d5e0f95b75e,
+2024-07-05,Payload delivery,filename,obb.doc,
+2024-07-05,Payload delivery,md5,3f9a089317afa13a17b61d5e0f95b75e,
+2024-07-05,Payload delivery,sha1,f5129818d643fba59bf77bc2785eef2af34db679,
+2024-07-05,Payload delivery,sha256,09cc281d7242aeddd2de25d63ef16e9b8d190bd06d31928410fdaef1e5a5c351,
+2024-07-05,Other,size-in-bytes,549151,
+2024-07-05,Payload delivery,malware-sample,obb.scr|f7bdadaff67e573f145d2e8e32e32cd8,
+2024-07-05,Payload delivery,filename,obb.scr,
+2024-07-05,Payload delivery,md5,f7bdadaff67e573f145d2e8e32e32cd8,
+2024-07-05,Payload delivery,sha1,cfd1377d49e09ecfa842760dd9cc78cc17a34628,
+2024-07-05,Payload delivery,sha256,fe80eeade269ce2b6688e039296fc9e9743e24f881341adad24e220967312316,
+2024-07-05,Other,size-in-bytes,520704,

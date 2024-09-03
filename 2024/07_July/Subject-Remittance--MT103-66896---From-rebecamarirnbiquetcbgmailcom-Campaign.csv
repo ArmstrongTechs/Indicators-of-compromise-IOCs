@@ -1,0 +1,37 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Remittance / MT103 :#66896 - From: rebecamarirnbique.tcb@gmail.com"" Campaign"
+| UUID: a856f029-8ee1-4bc7-84d7-0373e8c19af7
+| Date: 2024-07-12
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-12,Payload delivery,email-src,rebecamarirnbique.tcb@gmail.com,Source email: from rebecamarirnbique.tcb@gmail.com - subject: Remittance / MT103 :#66896
+2024-07-12,Payload delivery,email-src-display-name,Automated | ACMTS,Source email: from rebecamarirnbique.tcb@gmail.com - subject: Remittance / MT103 :#66896
+2024-07-12,Payload delivery,email-subject,Remittance / MT103 :#66896,Source: from rebecamarirnbique.tcb@gmail.com - subject: Remittance / MT103 :#66896
+2024-07-12,Payload delivery,filename|md5,MT103_SCAN_7345675_pdf_3A0659FC69FBA7E5_doc.html|ddc46f45ef5bdef6d1adebda2cc3eafe,Malspam attachment - source: from rebecamarirnbique.tcb@gmail.com - subject: Remittance / MT103 :#66896 mime: text/html
+2024-07-12,Payload delivery,filename|sha1,MT103_SCAN_7345675_pdf_3A0659FC69FBA7E5_doc.html|7fef731c9d3b0019208a107159421f8bda20aadd,Malspam attachment - source: from rebecamarirnbique.tcb@gmail.com - subject: Remittance / MT103 :#66896 mime: text/html
+2024-07-12,Payload delivery,filename|sha256,MT103_SCAN_7345675_pdf_3A0659FC69FBA7E5_doc.html|7125829e2a51b3ab9dee0fd7572bb4ad9248ca834a77cddb0822898feea4de83,Malspam attachment - source: from rebecamarirnbique.tcb@gmail.com - subject: Remittance / MT103 :#66896 mime: text/html
+2024-07-12,Payload delivery,filename|sha512,MT103_SCAN_7345675_pdf_3A0659FC69FBA7E5_doc.html|887c490d8081450014a1a55d52707b466ccdb00883bddaf02e4f70f0758f8164d70b051269b816285de229332030e46fc428a94eb4edcecda6a4385e425fc7d8,Malspam attachment - source: from rebecamarirnbique.tcb@gmail.com - subject: Remittance / MT103 :#66896 mime: text/html
+2024-07-12,Payload delivery,filename|ssdeep,MT103_SCAN_7345675_pdf_3A0659FC69FBA7E5_doc.html|768:ChUCFlTKhUCFl8hUCFld1hUCFlT3LDe88wXJBHSLi0AbDoK2:ChU6TKhU68hU6d1hU6T7De88YJBIi0Aq,Malspam attachment - source: from rebecamarirnbique.tcb@gmail.com - subject: Remittance / MT103 :#66896 mime: text/html
+2024-07-12,Payload delivery,filename|md5,d39.php|c1f28f69ff1e3160240f52c266394ef0,Downloaded from https://ccdbaab4dffce023758aa12ddcef.5uelypomzy.ru/pdf/d39.php; Loads as window.URL.createObjectURL; mime: text/plain
+2024-07-12,Payload delivery,filename|sha1,d39.php|76d0a5810dcee735c487cedcce563aebf3ff5101,Downloaded from https://ccdbaab4dffce023758aa12ddcef.5uelypomzy.ru/pdf/d39.php; Loads as window.URL.createObjectURL; mime: text/plain
+2024-07-12,Payload delivery,filename|sha256,d39.php|1a2f13dbc705c21a270d986380007195b69d5e6506fa1519b06e39be77abf122,Downloaded from https://ccdbaab4dffce023758aa12ddcef.5uelypomzy.ru/pdf/d39.php; Loads as window.URL.createObjectURL; mime: text/plain
+2024-07-12,Payload delivery,filename|sha512,d39.php|0cb44ad4c3db7b4924c2e1bef666fc5d65d3622382e541f93942d0e171b6ba0c8adeae988e3fb94891b50adfca124a311fcb75d3ff055d556137b0bcd0a862c5,Downloaded from https://ccdbaab4dffce023758aa12ddcef.5uelypomzy.ru/pdf/d39.php; Loads as window.URL.createObjectURL; mime: text/plain
+2024-07-12,Payload delivery,filename|ssdeep,d39.php|3072:qBJHBaFMLxkN9vEX9CkHQ4WJuH/ALxDboGzDDr5AlfeSIW0RRceb+kca3QFUUbX1:vMiPEoZhz5ihRRFBhNjPTya+Py,Downloaded from https://ccdbaab4dffce023758aa12ddcef.5uelypomzy.ru/pdf/d39.php; Loads as window.URL.createObjectURL; mime: text/plain
+2024-07-12,Network activity,url,https://api.telegram.org/bot7072329670:AAFEd6wRoWGCT_5JnkMsU_BeNrNtwWTSpcs/sendMessage,Source: Network activity from i40_js_output.html; Data exfiltration;
+2024-07-12,Network activity,url,https://ccdbaab4dffce023758aa12ddcef.5uelypomzy.ru/pdf/d39.php,Source: Network activity from i40_js_output.html;
+2024-07-12,Network activity,url,https://ccdbaab4dffce023758aa12ddcef.5uelypomzy.ru/pdf/i40.js,Source: Network activity from MT103_SCAN_7345675_pdf_3A0659FC69FBA7E5_doc.html
+2024-07-12,Network activity,url,https://ccdbaab4dffce023758aa12ddcef.5uelypomzy.ru/pdf/v38.php,Source: Network activity from i40_js_output.html; POST method;
+2024-07-12,Payload delivery,filename|md5,i40.js|dbc2897bfc83942452dbd9dccf082922,Downloaded from https://ccdbaab4dffce023758aa12ddcef.5uelypomzy.ru/pdf/i40.js; mime: text/plain
+2024-07-12,Payload delivery,filename|sha1,i40.js|1f469ee7379c90f346c06da0d1e066d6438daa23,Downloaded from https://ccdbaab4dffce023758aa12ddcef.5uelypomzy.ru/pdf/i40.js; mime: text/plain
+2024-07-12,Payload delivery,filename|sha256,i40.js|3f27870b82b15bf2eeeeab5eb04ed182920f4fb13564dd0e588d4d68bf7b3abb,Downloaded from https://ccdbaab4dffce023758aa12ddcef.5uelypomzy.ru/pdf/i40.js; mime: text/plain
+2024-07-12,Payload delivery,filename|sha512,i40.js|7774062f8b4ec95707337a3312e16301aebbd747ffb83c19c69bbf757b1b7f6f8b8de39f16e7cf76b523bcdf41f92ba1503362ea18d18a3b78e0f0b41d4063e5,Downloaded from https://ccdbaab4dffce023758aa12ddcef.5uelypomzy.ru/pdf/i40.js; mime: text/plain
+2024-07-12,Payload delivery,filename|ssdeep,i40.js|768:VhNCq7FY4cK929Nj2FvDHjvSCH5XdEOqGpZubXJtJCX3shkQ5iCajL/XgaukOpYD:XNnY4ANj2zLJGWHXniaukSYD,Downloaded from https://ccdbaab4dffce023758aa12ddcef.5uelypomzy.ru/pdf/i40.js; mime: text/plain
+2024-07-12,Payload delivery,filename|md5,i40_js_output.html|3ae7d75e36f48fd1d10d8912b0939ad3,Extracted from i40.js; mime: text/html
+2024-07-12,Payload delivery,filename|sha1,i40_js_output.html|81065b61ee667eccb2ffa47c060cdd07a31f5e39,Extracted from i40.js; mime: text/html
+2024-07-12,Payload delivery,filename|sha256,i40_js_output.html|7020595dbb9ae4df246fc51419ced527993e8bea834a40d40f23dc5f69a1e99c,Extracted from i40.js; mime: text/html
+2024-07-12,Payload delivery,filename|sha512,i40_js_output.html|de6288eafa4775458648902fa4956f343c630f838616a43b4e0a3e49493c00d104c42c3ea91775a7ab6aef4cee33704cc47561465fee687ea26a74c5dfcaf159,Extracted from i40.js; mime: text/html
+2024-07-12,Payload delivery,filename|ssdeep,i40_js_output.html|192:yK30z8rl2DHN/liuCjyTFp0CLOH453VHnrPSvafl91QV39X6Rk9igcPaA:brmt/T8SFpLO+rPSYKT+aA,Extracted from i40.js; mime: text/html

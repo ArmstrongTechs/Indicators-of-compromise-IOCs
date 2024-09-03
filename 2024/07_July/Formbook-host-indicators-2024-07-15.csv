@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-07-15]
+| UUID: 502d8176-5485-4d91-ba30-3e63cefbf51a
+| Date: 2024-07-15
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-15,Payload installation,filename,SwiftO#PNH310059_pdf.rar,Source: MalwareBazaar
+2024-07-15,Payload installation,md5,bdd41225c3653605911c1d1fd197f922,Source: MalwareBazaar
+2024-07-15,Payload installation,sha1,74fc2b152c43eabe965123e2108bba870945414b,Source: MalwareBazaar
+2024-07-15,Payload installation,sha256,76028dbf2f7c0b891344be032944d3ad50418aa5354cf5b2bec25025dbd70024,Source: MalwareBazaar
+2024-07-15,Payload installation,filename,afn6Od8oV1sUzD6.exe,Source: MalwareBazaar
+2024-07-15,Payload installation,md5,a7d3bd55656bdc04c270315d083b59c1,Source: MalwareBazaar
+2024-07-15,Payload installation,sha1,a76453791867e4aaf4cd0551b70e52ced80b3fab,Source: MalwareBazaar
+2024-07-15,Payload installation,sha256,5297372fe85eea3ecc0d271b5567f2c7ee75bd3a04e745debddb04c9b05dae33,Source: MalwareBazaar
+2024-07-15,Payload installation,filename,OaHosly9lyzkZ0G.exe,Source: MalwareBazaar
+2024-07-15,Payload installation,md5,44d3d6e5dd3b6919f7761f129930e61c,Source: MalwareBazaar
+2024-07-15,Payload installation,sha1,c2bb07d1a2364fb9b635ce3a933b9764de8370b6,Source: MalwareBazaar
+2024-07-15,Payload installation,sha256,c817017095f39e4b56e21bf67ee4f1dc9daa062cfd9f6baa2b6e7bd49b06a5eb,Source: MalwareBazaar
+2024-07-16,Payload installation,filename,MIDYEAR PROPOSED ORDER DETAILS..exe,Source: MalwareBazaar
+2024-07-16,Payload installation,md5,866cdcebde86d231cd43f444660fbe85,Source: MalwareBazaar
+2024-07-16,Payload installation,sha1,972ded4ab3bc359bf28414ab799089efea9a7916,Source: MalwareBazaar
+2024-07-16,Payload installation,sha256,cb33e0ca459992181558d42ed14c41439ec525941ce40beff1a2c43bc95faee5,Source: MalwareBazaar

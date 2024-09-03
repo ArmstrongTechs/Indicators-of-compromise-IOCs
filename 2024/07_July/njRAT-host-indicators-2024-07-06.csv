@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2024-07-06]
+| UUID: 49e928c6-ae7d-4656-952c-7a627aa3b167
+| Date: 2024-07-07
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-07,Payload installation,filename,bbbfdsa.exe,Source: MalwareBazaar
+2024-07-07,Payload installation,md5,b77955e3f8953aa784cd049e8907a1a8,Source: MalwareBazaar
+2024-07-07,Payload installation,sha1,542ad26cd4dcd26263369a692dfd5a1b47d57e59,Source: MalwareBazaar
+2024-07-07,Payload installation,sha256,7d11cd9571cefd04bc8870d1fbd086ffbb3e88801ff8ed108a05b6a9802f2747,Source: MalwareBazaar

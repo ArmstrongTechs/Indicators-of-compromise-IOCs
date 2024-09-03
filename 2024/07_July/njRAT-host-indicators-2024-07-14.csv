@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2024-07-14]
+| UUID: c33f7680-e89a-4449-b355-81c992ca40d2
+| Date: 2024-07-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-14,Payload installation,filename,install.exe,Source: MalwareBazaar
+2024-07-14,Payload installation,md5,f91d1697f43205fb4089a1adf6f78b11,Source: MalwareBazaar
+2024-07-14,Payload installation,sha1,22b6cad064b9cdc34d189c82a510414965128714,Source: MalwareBazaar
+2024-07-14,Payload installation,sha256,e0f0bcee6859834eae88ed8615c97f8a7f7538fc9ee03cacf53dbfde45cb64ee,Source: MalwareBazaar
+2024-07-14,Payload installation,filename,Server.exe,Source: MalwareBazaar
+2024-07-14,Payload installation,md5,f8bbb07b572b4f6764a920057f33a698,Source: MalwareBazaar
+2024-07-14,Payload installation,sha1,4617c211b0cf6066ec257319a96c7b06673bd624,Source: MalwareBazaar
+2024-07-14,Payload installation,sha256,6bdd45cc12be24d4b59d84925b035bac59bc1dcfc8aa17b28cf0018cd15443a8,Source: MalwareBazaar
+2024-07-14,Payload installation,filename,hack fivem.exe,Source: MalwareBazaar
+2024-07-14,Payload installation,md5,58e099a32014ba38348deed177f9cbdf,Source: MalwareBazaar
+2024-07-14,Payload installation,sha1,5a95a11aba67025e33c6bc1ecb794fabeb9b8f4f,Source: MalwareBazaar
+2024-07-14,Payload installation,sha256,13a790de9c0e773a1a4c5f4b01658ef0403cd9195dcfff172d6a351e51d0cb6f,Source: MalwareBazaar

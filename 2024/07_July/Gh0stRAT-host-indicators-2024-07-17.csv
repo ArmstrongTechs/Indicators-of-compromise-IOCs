@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Gh0stRAT host indicators [2024-07-17]
+| UUID: 515f7e1b-58ac-47bb-a973-97c374d66d97
+| Date: 2024-07-17
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-18,Payload installation,filename,2C94841EAACA4BE3937EDDE463DC3C4A.exe,Source: MalwareBazaar
+2024-07-18,Payload installation,md5,2c94841eaaca4be3937edde463dc3c4a,Source: MalwareBazaar
+2024-07-18,Payload installation,sha1,98150de7fbd9350b9c12f0683efe925e199a7e08,Source: MalwareBazaar
+2024-07-18,Payload installation,sha256,564901461dc3362925de8e6e6f2c09dfae2883be6af5756799287c8f64bad64d,Source: MalwareBazaar
+2024-07-18,Payload installation,filename,adcance.exe,Source: MalwareBazaar
+2024-07-18,Payload installation,md5,f32a369d91ed10e43917f77c198ff684,Source: MalwareBazaar
+2024-07-18,Payload installation,sha1,b5511b0ea383eb7a836faeaeb42677dd0661a499,Source: MalwareBazaar
+2024-07-18,Payload installation,sha256,38d506ff86e4fa113a7cfce2d8834be9769e5c6ec1c68bdc29428a052058cc69,Source: MalwareBazaar

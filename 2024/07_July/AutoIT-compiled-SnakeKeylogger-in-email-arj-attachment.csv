@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AutoIT compiled SnakeKeylogger in email (arj) attachment
+| UUID: 8364e99f-707e-4f57-985b-8f56bd2b1f90
+| Date: 2024-07-30
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-31,Network activity,url,https://api.telegram.org/bot/sendMessage?chat_id=&text=%20%0D%0A%0D%0APC%20Name:ACCOUNT_NAME%0D%0ADate%20and%20Time:%207/29/2024%20/%206:50:22%20AM%0D%0ACountry%20Name:%20%0D%0A%5B%20ACCOUNT_NAME%20Clicked%20on%20the%20File%20If%20you%20see%20nothing%20this's%20mean%20the%20system%20storage's%20empty.%20%5D,
+2024-07-31,Network activity,domain,mail.tahaqoq.com,
+2024-07-31,Network activity,email,info@tahaqoq.com,
+2024-08-01,Network activity,domain,checkip.dyndns.org,
+2024-07-31,Payload delivery,malware-sample,RFQ 76960.arj|3cee2f2b3fcd9a471b8066a5095caab0,
+2024-07-31,Payload delivery,filename,RFQ 76960.arj,
+2024-07-31,Payload delivery,md5,3cee2f2b3fcd9a471b8066a5095caab0,
+2024-07-31,Payload delivery,sha1,85449b5e220d160da5a0ca4c7e0e1efa58a9537a,
+2024-07-31,Payload delivery,sha256,3b2e49230c797a142eb81c7f721517e34c22a1283e2c103c1b0a1f9b63ebd96e,
+2024-07-31,Other,size-in-bytes,543816,
+2024-07-31,Payload delivery,malware-sample,RFQ 76960.exe|7d1a8163d85c372ecdc145d17a7bb2a1,
+2024-07-31,Payload delivery,filename,RFQ 76960.exe,
+2024-07-31,Payload delivery,md5,7d1a8163d85c372ecdc145d17a7bb2a1,
+2024-07-31,Payload delivery,sha1,e6e8d97f137ba9bc6dc5360f4e658360a3bfbbb9,
+2024-07-31,Payload delivery,sha256,f363353b8f4c450f374c0ce1a10d7fbb38031b5d86c44dcadeea6dd2f35bfd93,
+2024-07-31,Other,size-in-bytes,1073152,

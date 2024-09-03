@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-07-15]
+| UUID: 999e4fe2-c9c6-4519-9c83-826cc34e8238
+| Date: 2024-07-15
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-15,Payload installation,filename,dukas.scr,Source: MalwareBazaar
+2024-07-15,Payload installation,md5,8842ebb96a902d9dc28296d45abbbf53,Source: MalwareBazaar
+2024-07-15,Payload installation,sha1,4a1a850f093f2f97a7afabe0a8bdb33fed886fc8,Source: MalwareBazaar
+2024-07-15,Payload installation,sha256,c19b70dbb4f6b4c1d33175598d82df4fd0798955a6c26a3d5f787cfc5566734c,Source: MalwareBazaar

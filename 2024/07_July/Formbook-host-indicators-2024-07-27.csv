@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-07-27]
+| UUID: 453abeb7-3a2f-4583-960c-eac3b2518f68
+| Date: 2024-07-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-28,Payload installation,filename,Nursultan Alpha Client.exe,Source: MalwareBazaar
+2024-07-28,Payload installation,md5,97feddcf4ed5c42bfaba5761597b8a00,Source: MalwareBazaar
+2024-07-28,Payload installation,sha1,72ee0bd71ecfbf76103efd8f0bc32d386d91fdaf,Source: MalwareBazaar
+2024-07-28,Payload installation,sha256,ba61b838a6b159d1d8f6fbbd1c80016fe7277225d1847de9ae50d0d83b29f9f1,Source: MalwareBazaar
