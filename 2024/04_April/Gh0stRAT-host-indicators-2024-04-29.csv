@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Gh0stRAT host indicators [2024-04-29]
+| UUID: d8bd2324-8c7f-4533-aae4-34e2af183982
+| Date: 2024-04-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-30,Payload installation,filename,SecuriteInfo.com.Win32.BackdoorX-gen.1863.15704,Source: MalwareBazaar
+2024-04-30,Payload installation,md5,29283ae3dd45c6d9c2583af6b2ab2306,Source: MalwareBazaar
+2024-04-30,Payload installation,sha1,a2d2abdf38bb3d7842f5cfc57cc52925273ab8e7,Source: MalwareBazaar
+2024-04-30,Payload installation,sha256,4ca08e430b4097e27efae34df40cea8baae271a486a4e475103855ed37b4746e,Source: MalwareBazaar

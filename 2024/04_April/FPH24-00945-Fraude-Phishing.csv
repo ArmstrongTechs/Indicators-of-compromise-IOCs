@@ -1,0 +1,20 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00945 [Fraude] [Phishing]
+| UUID: ba23d297-3752-4c02-b8a0-eb15a4f1c33c
+| Date: 2024-04-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-19,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática (CSIRT de Gobierno) ha identificado una nueva campaña de phishing.
+
+En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente, a través de correo electrónico que simula contener una factura electrónica:“Por la presente le informamos, que el emisor del recibo electrónico le ha emitido los siguientes documentos de envíoTipo de documento: Factura de ventaFecha de asunto: 4/2/2024Para consultar el BL Original y otros documentos puede Descargar archivos adjuntos&quot;El correo electrónico incluye un enlace a un formulario para capturar credenciales de usuarios.",Resumen
+2024-04-19,Network activity,ip-src|port,191.100.30.152|19690,IP SMTP
+2024-04-19,Payload delivery,email-subject,BL + certificado de origen y documentos de exportacion,Asunto Correo
+2024-04-19,Payload delivery,email-src,leonardo.tenezaca@saludzona6.gob.ec,Correo de Salida
+2024-04-19,External analysis,attachment,2024-04-02_16h55_57.png,
+2024-04-19,External analysis,attachment,2024-04-02_17h07_52.png,
+2024-04-19,Payload delivery,filename,EXPORTAR DOC_pdf.shtml,
+2024-04-19,Payload delivery,sha256,019cca9d504304394b1aa5ec7b64e3079efefc94a44b5b20a40dd3380fc52d60,

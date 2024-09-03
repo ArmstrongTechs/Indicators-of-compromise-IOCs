@@ -1,0 +1,24 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Agent Tesla - .NET unpacker (FTP)
+| UUID: 67bdfede-eeff-4b95-a70d-7009371204c3
+| Date: 2024-04-15
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-15,Network activity,url,ftp://ftp.indra-precision.co.th,FTP exfil
+2024-04-15,Payload delivery,email,logsbin@indra-precision.co.th,FTP exfil
+2024-04-15,Other,size-in-bytes,1245184,
+2024-04-15,Payload delivery,sha256,b5dfdebd75b35c154e1d16f75dfdff48ea6811bc464736f978c8c9545e1a51b2,
+2024-04-15,Payload delivery,sha1,2eea6e25a9816c7ab0d968a68674c6908186231c,
+2024-04-15,Payload delivery,md5,0c9ca17fcfe827de981521dbca8082bc,
+2024-04-15,Payload delivery,filename,και τραπεζικά στοιχεία.img,
+2024-04-15,Payload delivery,malware-sample,και τραπεζικά στοιχεία.img|0c9ca17fcfe827de981521dbca8082bc,
+2024-04-15,Other,size-in-bytes,667136,
+2024-04-15,Payload delivery,sha256,8ae053d9300b897c0009559407842f893ca81461f707172cc42a324436839a56,
+2024-04-15,Payload delivery,sha1,b8f4f61172e131d19da66a3dc5583df007bba1d5,
+2024-04-15,Payload delivery,md5,16e70fcf3f5dd42787eeb19de11a149f,
+2024-04-15,Payload delivery,filename,και τραπεζικά στοιχεία.exe,
+2024-04-15,Payload delivery,malware-sample,και τραπεζικά στοιχεία.exe|16e70fcf3f5dd42787eeb19de11a149f,

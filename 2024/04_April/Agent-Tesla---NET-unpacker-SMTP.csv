@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Agent Tesla - .NET unpacker (SMTP)
+| UUID: 88e5aee5-1ca1-4f28-8e1f-8faa9f21e744
+| Date: 2024-04-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-22,Network activity,url,http://ecogasoline.com.pk/00.944.53/PO.exe,download from attached PDF
+2024-04-22,Network activity,hostname,mail.hyguiq.com,SMTP exfil
+2024-04-22,Payload delivery,email-src,goodlogs@hyguiq.com,SMTP exfil
+2024-04-22,Payload delivery,email-dst,goodluck2024@gmx.com,SMTP exfil
+2024-04-22,Payload delivery,malware-sample,PO-NSQQLD.pdf|c22a97c36020cb7d91d1cfd0b78efbd0,
+2024-04-22,Payload delivery,filename,PO-NSQQLD.pdf,
+2024-04-22,Payload delivery,md5,c22a97c36020cb7d91d1cfd0b78efbd0,
+2024-04-22,Payload delivery,sha1,bcf9bab91d3db28f09872b03dacdd0c7cd8f31e0,
+2024-04-22,Payload delivery,sha256,d9457c41697ab3cb344ee6a3c4da33145ce0718e107350d83595538d55b50779,
+2024-04-22,Other,size-in-bytes,27506,
+2024-04-22,Payload delivery,malware-sample,PO.exe|bef3c408148ed6f1cceac0b1cce5216f,
+2024-04-22,Payload delivery,filename,PO.exe,
+2024-04-22,Payload delivery,md5,bef3c408148ed6f1cceac0b1cce5216f,
+2024-04-22,Payload delivery,sha1,62b2666ffda639a2aa901fafbc218943a921101f,
+2024-04-22,Payload delivery,sha256,b872a1fd84b4883bca0d89a4cfaba81fc079c7d1a059570b3effb5dc490c6f70,
+2024-04-22,Other,size-in-bytes,627472,

@@ -1,0 +1,15 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Threat email attachment: Document.zip
+| UUID: 6d138462-eabe-46fe-af1d-eb079cf1a1af
+| Date: 2024-04-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-29,Payload delivery,sha256,1c5fd7bf511885054464124142f793501ab2c6e987b203c1a5f4b3bdcccb1fa1,Attachment Document.zip
+2024-04-29,Payload delivery,email-subject,Your Document,Email subject
+2024-04-29,Payload delivery,email-attachment,Document.zip,Email attachment
+2024-04-29,Payload delivery,ip-src,103.216.160.37,Email sender IP address
+2024-04-29,Payload delivery,ip-src,103.216.160.33,Email sender IP address

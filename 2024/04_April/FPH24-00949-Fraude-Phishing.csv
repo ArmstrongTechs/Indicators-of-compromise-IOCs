@@ -1,0 +1,48 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00949 [Fraude] [Phishing]
+| UUID: 2d5f45bb-ab00-43ca-843b-e21748abf7c7
+| Date: 2024-04-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-19,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática (CSIRT de Gobierno) ha identificado una nueva campaña de phishing.
+
+En esta ocasión se trata de una campaña en que, a través de correo electrónico que suplanta a la telefónica Claro, delincuentes indican falsamente a la víctima lo siguiente:“Factura impagada, actuar pronto 10/04/2024TUS DATOS:Número de cuenta:76500447551Vencimiento:05/04/2024”El correo electrónico incluye un enlace a un sitio de descarga para un programa malicioso y así poder capturar credenciales de usuarios.",Resumen
+2024-04-19,Network activity,ip-src,135.125.205.93,IP SMTP
+2024-04-19,Network activity,ip-src,162.19.152.203,IP SMTP
+2024-04-19,Network activity,ip-src,162.19.152.84,IP SMTP
+2024-04-19,Network activity,ip-src,162.19.153.42,IP SMTP
+2024-04-19,Network activity,ip-src,162.19.248.48,IP SMTP
+2024-04-19,Network activity,ip-src,162.19.249.45,IP SMTP
+2024-04-19,Network activity,ip-src,51.195.44.121,IP SMTP
+2024-04-19,Network activity,ip-src,51.195.44.175,IP SMTP
+2024-04-19,Network activity,ip-src,51.195.44.183,IP SMTP
+2024-04-19,Network activity,ip-src,51.195.46.3,IP SMTP
+2024-04-19,Network activity,ip-src,51.195.47.138,IP SMTP
+2024-04-19,Network activity,ip-src,51.195.47.194,IP SMTP
+2024-04-19,Payload delivery,email-subject,"Factura impagada, actuar pronto",Asunto correo
+2024-04-19,Payload delivery,url,https://cluprfacturagitalcionroma.norwayeast.cloudapp.azure.com/?facdigital-web/ConsultaClaro.aspx?nroFactura=9203-22988292&tokenValue=3233d6e527ebc123acf78373d3f0edb4135e3992,Descarga de fichero
+2024-04-19,Payload delivery,email-src,root@vps-019b8e8d.vps.ovh.net,Correo de salida
+2024-04-19,Payload delivery,email-src,root@vps-0bc5893f.vps.ovh.net,Correo de salida
+2024-04-19,Payload delivery,email-src,root@vps-11ee3f03.vps.ovh.net,Correo de salida
+2024-04-19,Payload delivery,email-src,root@vps-1b6060a8.vps.ovh.net,Correo de salida
+2024-04-19,Payload delivery,email-src,root@vps-21f3152c.vps.ovh.net,Correo de salida
+2024-04-19,Payload delivery,email-src,root@vps-2511e4bb.vps.ovh.net,Correo de salida
+2024-04-19,Payload delivery,email-src,root@vps-332abfad.vps.ovh.net,Correo de salida
+2024-04-19,Payload delivery,email-src,root@vps-35c7e3aa.vps.ovh.net,Correo de salida
+2024-04-19,Payload delivery,email-src,root@vps-3836ec22.vps.ovh.net,Correo de salida
+2024-04-19,Payload delivery,email-src,root@vps-38e7723d.vps.ovh.net,Correo de salida
+2024-04-19,Payload delivery,email-src,root@vps-4b975d3b.vps.ovh.net,Correo de salida
+2024-04-19,Payload delivery,email-src,root@vps-54ad4c72.vps.ovh.net,Correo de salida
+2024-04-19,Payload delivery,email-src,root@vps-5f4a1113.vps.ovh.net,Correo de salida
+2024-04-19,Payload delivery,email-src,root@vps-6d3bd7f0.vps.ovh.net,Correo de salida
+2024-04-19,Payload delivery,email-src,root@vps-7bb6712b.vps.ovh.net,Correo de salida
+2024-04-19,Payload delivery,email-src,root@vps-a27cf2b6.vps.ovh.net,Correo de salida
+2024-04-19,Payload delivery,email-src,root@vps-d3b19bbf.vps.ovh.net,Correo de salida
+2024-04-19,Payload delivery,email-src,root@vps-de3cb674.vps.ovh.net,Correo de salida
+2024-04-19,Payload delivery,email-src,root@vps-ed069c76.vps.ovh.net,Correo de salida
+2024-04-19,Payload delivery,email-src,root@vps-fd35fa7c.vps.ovh.net,Correo de salida
+2024-04-19,External analysis,attachment,2024-04-10_16h20_24.png,

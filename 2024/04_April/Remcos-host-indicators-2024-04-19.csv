@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-04-19]
+| UUID: 3e433816-7d1e-40c9-8701-f1681ac73c5c
+| Date: 2024-04-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-19,Payload installation,filename,SecuriteInfo.com.Trojan.Siggen28.27399.23329.29047,Source: MalwareBazaar
+2024-04-19,Payload installation,md5,111687a32c1b81bc69e1c1f1a8542a73,Source: MalwareBazaar
+2024-04-19,Payload installation,sha1,640c5bab4aac4f0f8d8538747af91144696739f2,Source: MalwareBazaar
+2024-04-19,Payload installation,sha256,b6ffebdb6981216fcb12a69a18424032169d89e9d8712a64a2f7cb5aa27733b7,Source: MalwareBazaar

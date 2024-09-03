@@ -1,0 +1,20 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00948 [Fraude] [Phishing]
+| UUID: ea9b77d0-7283-4d38-84f6-f66f52dec428
+| Date: 2024-04-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-19,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática (CSIRT de Gobierno) ha identificado una nueva campaña de phishing.
+
+En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente, a través de correo electrónico:“Debido a nuevas actualizaciones de seguridad en nuestro servidor su Email: {Correo electronico} dejará de enviar y recibir correos electrónicos si no se verifica dentro de 48hrsSi desea seguir utilizando su correo electrónico, por favor verifíquelo a continuación.”El correo electrónico incluye un enlace a un formulario para capturar credenciales de usuarios",Resumen
+2024-04-19,Network activity,ip-src,104.21.18.139,IP sitio falso
+2024-04-19,Network activity,ip-src,31.192.234.63,IP SMTP
+2024-04-19,Payload delivery,url,https://online.evaluater.rest/international.html?mode={Email},URL sitio falso
+2024-04-19,Payload delivery,email-src,info@sunnimpex.biz,Correo de salida
+2024-04-19,Payload delivery,email-subject,Your Email: vguenulg@interior.gob.cl will be blocked,Asunto del correo
+2024-04-19,External analysis,attachment,2024-04-05_16h38_52.png,
+2024-04-19,External analysis,attachment,2024-04-05_16h39_26.png,

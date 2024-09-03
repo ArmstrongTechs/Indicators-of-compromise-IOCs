@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Quakbot host indicators [2024-04-24]
+| UUID: f9e3ee71-b33b-4c1f-b2e0-1d9b03485281
+| Date: 2024-04-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-24,Payload installation,filename,qakbot.sc.3.dll,Source: MalwareBazaar
+2024-04-24,Payload installation,md5,362978ed1c1eec5ff19b744601e082a2,Source: MalwareBazaar
+2024-04-24,Payload installation,sha1,9c9e834e1c38a50fc6cb3ceef4963a4a0026d5af,Source: MalwareBazaar
+2024-04-24,Payload installation,sha256,af6a9b7e7aefeb903c76417ed2b8399b73657440ad5f8b48a25cfe5e97ff868f,Source: MalwareBazaar

@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Nanocore host indicators [2024-04-25]
+| UUID: 1b85bc60-668d-48d9-9c66-136f146a0c8b
+| Date: 2024-04-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-25,Payload installation,filename,PROOF OF PAYMENT.scr.exe,Source: MalwareBazaar
+2024-04-25,Payload installation,md5,11b19b59f657910f0af49721a77bc2dd,Source: MalwareBazaar
+2024-04-25,Payload installation,sha1,3078779d892bd96e5dfddb76d491f52eefd39a2d,Source: MalwareBazaar
+2024-04-25,Payload installation,sha256,c03858657307a20f2da776ba010c76495276e80306c19b70f44342c8bcaece85,Source: MalwareBazaar
+2024-04-25,Payload installation,filename,POP.exe,Source: MalwareBazaar
+2024-04-25,Payload installation,md5,46d06b32a50fd0c1a1981695e6504aa5,Source: MalwareBazaar
+2024-04-25,Payload installation,sha1,562f1b0f554ab339d851e7c031059d20a1c88af6,Source: MalwareBazaar
+2024-04-25,Payload installation,sha256,3796fdf35ca6c4557746dc1de61e477fe9972bc44a2fb23503e302c27fab4335,Source: MalwareBazaar

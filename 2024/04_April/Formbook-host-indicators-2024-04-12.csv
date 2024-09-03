@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-04-12]
+| UUID: c1ec699e-6c9b-44d8-a18c-7a0587fb0d19
+| Date: 2024-04-12
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-12,Payload installation,filename,SecuriteInfo.com.Win32.TrojanX-gen.19751.7678,Source: MalwareBazaar
+2024-04-12,Payload installation,md5,1a7abd0b5865f91ad24487e98f0f46e0,Source: MalwareBazaar
+2024-04-12,Payload installation,sha1,cfa4513b8536f1653812ab06f4e18cacf75ccfda,Source: MalwareBazaar
+2024-04-12,Payload installation,sha256,d3664b1a15f1e037188acd5e5b01c6ce160a1322d40f48593917632dc4404455,Source: MalwareBazaar
+2024-04-12,Payload installation,filename,SecuriteInfo.com.Win32.TrojanX-gen.8353.13897,Source: MalwareBazaar
+2024-04-12,Payload installation,md5,a4092bb94a165935a7690022c88f5a4d,Source: MalwareBazaar
+2024-04-12,Payload installation,sha1,c438f1f84fa5416d5ec8962813ba98f7ed6c2651,Source: MalwareBazaar
+2024-04-12,Payload installation,sha256,5087e1fc9eae1748862d5cd3075b13eebb5a8983d637695e4e28835fef0c5f23,Source: MalwareBazaar

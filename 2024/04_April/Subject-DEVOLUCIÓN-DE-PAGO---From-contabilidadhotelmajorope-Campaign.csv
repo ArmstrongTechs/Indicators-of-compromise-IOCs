@@ -1,0 +1,37 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: DEVOLUCIÓN DE PAGO - From: contabilidad@hotelmajoro.pe"" Campaign"
+| UUID: dcb8b153-0289-4bc7-b00e-bfe9440cf46a
+| Date: 2024-04-26
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-26,Payload delivery,email-src,contabilidad@hotelmajoro.pe,Source email: from contabilidad@hotelmajoro.pe - subject: DEVOLUCIÓN DE PAGO
+2024-04-26,Payload delivery,email-src-display-name,contabilidad,Source email: from contabilidad@hotelmajoro.pe - subject: DEVOLUCIÓN DE PAGO
+2024-04-26,Payload delivery,email-body,"Buenos día 
+
+El pago de la factura que realizamos ayer en su cuenta ha sido rechazado
+y enviado de nuevo a nuestra cuenta esta mañana.
+Verifique el informe bancario adjunto y confirme que todos los detalles
+sean correctos y por qué se nos devolvió el pago.
+Espero tu pronta confirmación
+
+Atentamente",Source email: from contabilidad@hotelmajoro.pe - subject: DEVOLUCIÓN DE PAGO
+2024-04-26,Payload delivery,email-subject,DEVOLUCIÓN DE PAGO,Source: from contabilidad@hotelmajoro.pe - subject: DEVOLUCIÓN DE PAGO
+2024-04-26,Payload delivery,filename|sha256,00_datos de la transacción rechazada y número de cuenta incorrecto.uue|37079da7d994a454399f24c6db0fd6c5a61697a24ce4a01f433313ee97b4c84d,Malspam attachment - source: from contabilidad@hotelmajoro.pe - subject: DEVOLUCIÓN DE PAGO mime: application/x-rar
+2024-04-26,Payload delivery,filename|ssdeep,00_datos de la transacción rechazada y número de cuenta incorrecto.uue|12288:RivB5sa/2QiPmDKxGHOiGJQMsKjk87ZqWC1qq0tff:Ro92QeAH/GOMseBPC1qq0tX,Malspam attachment - source: from contabilidad@hotelmajoro.pe - subject: DEVOLUCIÓN DE PAGO mime: application/x-rar
+2024-04-26,Payload delivery,filename|sha1,00_datos de la transacción rechazada y número de cuenta incorrecto.uue|8a621ebdf5677d96f6175ea696df3d939d003ea7,Malspam attachment - source: from contabilidad@hotelmajoro.pe - subject: DEVOLUCIÓN DE PAGO mime: application/x-rar
+2024-04-26,Payload delivery,filename|sha512,00_datos de la transacción rechazada y número de cuenta incorrecto.uue|7a727361e84a64a48619897f9e37f8382e2f1365aeb2de4d618470bb6159491235547c958d5c78a0dca224b5d8e2371ff6236550fb97066c21a4371796809759,Malspam attachment - source: from contabilidad@hotelmajoro.pe - subject: DEVOLUCIÓN DE PAGO mime: application/x-rar
+2024-04-26,Payload delivery,filename|md5,00_datos de la transacción rechazada y número de cuenta incorrecto.uue|295fec88c4eaa1baa76103fed3170e9c,Malspam attachment - source: from contabilidad@hotelmajoro.pe - subject: DEVOLUCIÓN DE PAGO mime: application/x-rar
+2024-04-26,Payload delivery,filename|sha1,00_datos de la transacción rechazada y número de cuenta incorrecto.exe|0b7dbdba0710fd38fe2c827593041c20cd08978c,Archive contents - source: 00_datos de la transacción rechazada y número de cuenta incorrecto.uue mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|imphash,00_datos de la transacción rechazada y número de cuenta incorrecto.exe|afcdf79be1557326c854b6e20cb900a7,Archive contents - source: 00_datos de la transacción rechazada y número de cuenta incorrecto.uue mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|ssdeep,00_datos de la transacción rechazada y número de cuenta incorrecto.exe|24576:nAHnh+eWsN3skA4RV1Hom2KXMmHaeoLmwxFFn+OX5:ah+ZkldoPK8YaeCxFgy,Archive contents - source: 00_datos de la transacción rechazada y número de cuenta incorrecto.uue mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|sha256,00_datos de la transacción rechazada y número de cuenta incorrecto.exe|69f7e43903e73cc212beb10d6d7715b9c329235aa252cd497e3faa2da654cc0e,Archive contents - source: 00_datos de la transacción rechazada y número de cuenta incorrecto.uue mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|sha512,00_datos de la transacción rechazada y número de cuenta incorrecto.exe|35237363351704dff474243c4efe2554474c622806f49d39d3d68d249b34c7d713c84d740871f26b4079385d9f6147b19a7129490e2c85e61a558ec6cbaa8884,Archive contents - source: 00_datos de la transacción rechazada y número de cuenta incorrecto.uue mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|md5,00_datos de la transacción rechazada y número de cuenta incorrecto.exe|8f6dea6c0a0a41b20578703ffe59c27e,Archive contents - source: 00_datos de la transacción rechazada y número de cuenta incorrecto.uue mime: application/x-dosexec
+2024-04-26,Network activity,email-dst,forgmxxxxxdroid@fosna.net,Source: Extracted from static config of 00_datos de la transacción rechazada y número de cuenta incorrecto.exe; data exfiltration via SMTP
+2024-04-26,Network activity,url,http://ip-api.com/line/?fields=hosting,Source: Network activity from 00_datos de la transacción rechazada y número de cuenta incorrecto.exe
+2024-04-26,Network activity,domain,mail.fosna.net,Source: Extracted from static config of 00_datos de la transacción rechazada y número de cuenta incorrecto.exe; data exfiltration via SMTP
+2024-04-26,Network activity,email-dst,rezultboxdroid@fosna.net,Source: Extracted from static config of 00_datos de la transacción rechazada y número de cuenta incorrecto.exe; data exfiltration via SMTP

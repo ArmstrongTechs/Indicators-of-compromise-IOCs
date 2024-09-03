@@ -1,0 +1,105 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Przegląd informacji o płatnościach - From: e-bankowosc@pkobp.pl"" Campaign"
+| UUID: 1a8d1735-8e00-49ab-81e6-09ad53c8c04e
+| Date: 2024-04-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-10,Payload delivery,email-src,e-bankowosc@pkobp.pl,Source email: from e-bankowosc@pkobp.pl - subject: Przegląd informacji o płatnościach;Spoofing
+2024-04-10,Payload delivery,email-src-display-name,PKO WEB BANKINGTransakcje,Source email: from e-bankowosc@pkobp.pl - subject: Przegląd informacji o płatnościach
+2024-04-10,Payload delivery,email-body,"Dzień dobry 
+
+Prosimy o ponowne potwierdzenie danych bankowych. 
+
+Wszystkie płatności w imieniu naszego klienta zostaną zrealizowane
+dzisiaj. 
+
+Z wyrazami szacunku, 
+[REDACTED]
+
+************************************************** ***************
+*
+
+Przesyłanie tej wiadomości e-mail, w tym wszelkich
+informacje lub materiały lub załączniki do nich (jeśli istnieją),
+jest przeznaczony wyłącznie dla osoby lub podmiotu, do którego jest
+przeznaczony
+adresowane i mogą zawierać klauzulę poufności i/lub przywilejów.
+Wszelkie przeglądanie, retransmisja, rozpowszechnianie lub inne
+wykorzystanie lub
+podjęcia jakichkolwiek działań w oparciu o te informacje lub
+materiału lub załącznika (jeśli istnieje) zawartego lub włączonego do
+tego
+wiadomości e-mail przez osoby lub podmioty inne niż zamierzone
+odbiorca, jak zaadresowano powyżej
+zabronione i nie podlegają żadnej odpowiedzialności nadawcy
+i/lub PKO Bank Polski
+Spółka z ograniczoną. Jeśli otrzymałeś tę wiadomość e-mail w
+błąd z jakichkolwiek powodów,
+prosimy o kontakt i poinformowanie nadawcy oraz usunięcie tej wiadomości
+e-mail
+wiadomość, w tym wszelkie informacje lub
+materiałów lub załączników do nich (jeśli istnieją) z Twojego systemu
+poczty elektronicznej
+i/lub którykolwiek z
+Twoje urządzenie komputerowe.
+(c) 2024 PKO Bank Polski
+
+IBAN Kod BIC (Swift): BPKOPLPW
+************************************************** ***************",Source email: from e-bankowosc@pkobp.pl - subject: Przegląd informacji o płatnościach
+2024-04-10,Payload delivery,email-subject,Przegląd informacji o płatnościach,Source: from e-bankowosc@pkobp.pl - subject: Przegląd informacji o płatnościach
+2024-04-10,Payload delivery,filename|sha256,Przegląd informacji o płatności kontraktowej___ Pdf.gz|f1b9258493317c074f24a4111f847654f81b3dc00d1606eaf626f8edcdefe2c4,Malspam attachment - source: from e-bankowosc@pkobp.pl - subject: Przegląd informacji o płatnościach mime: application/gzip
+2024-04-10,Payload delivery,filename|ssdeep,Przegląd informacji o płatności kontraktowej___ Pdf.gz|12288:VSZr6VxwSwI6CKsT1C1gBisvAcjjt+1r+8THWHfkQO3Yf4gsdyOz53DmpLv8Qe:G8wJIxKsvzL+1a8T2HfkpIsTwvs,Malspam attachment - source: from e-bankowosc@pkobp.pl - subject: Przegląd informacji o płatnościach mime: application/gzip
+2024-04-10,Payload delivery,filename|sha1,Przegląd informacji o płatności kontraktowej___ Pdf.gz|258d26215ff4e041b8ffcca53705d03e0b41de7f,Malspam attachment - source: from e-bankowosc@pkobp.pl - subject: Przegląd informacji o płatnościach mime: application/gzip
+2024-04-10,Payload delivery,filename|sha512,Przegląd informacji o płatności kontraktowej___ Pdf.gz|4ea96d094cb181e94e950aa835d3e0aff5ce0604f6cd2f0f5225f54b4f7485ceb22e13e75d4b224d9f4f266b1c02342326aee153e63d06d9da88b7f5da20178e,Malspam attachment - source: from e-bankowosc@pkobp.pl - subject: Przegląd informacji o płatnościach mime: application/gzip
+2024-04-10,Payload delivery,filename|md5,Przegląd informacji o płatności kontraktowej___ Pdf.gz|8a7693a4307207a64527f0b837d4e5ec,Malspam attachment - source: from e-bankowosc@pkobp.pl - subject: Przegląd informacji o płatnościach mime: application/gzip
+2024-04-10,Payload delivery,filename|md5,1ae5ee514b7d71a3b8d5fe7182c901b0529acbc013fa4e25dcfccfeff75732f6|6c46476fb561195ddf67ae3c0861cb27,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|sha1,1ae5ee514b7d71a3b8d5fe7182c901b0529acbc013fa4e25dcfccfeff75732f6|280e9938a135fcb522e181ffb1211f73c28d871d,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|sha256,1ae5ee514b7d71a3b8d5fe7182c901b0529acbc013fa4e25dcfccfeff75732f6|1ae5ee514b7d71a3b8d5fe7182c901b0529acbc013fa4e25dcfccfeff75732f6,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|sha512,1ae5ee514b7d71a3b8d5fe7182c901b0529acbc013fa4e25dcfccfeff75732f6|8a4698f6273edfe47cd78cc0d832e8c0d11f0f595cbcb63c093aeea8c565f4d2b00f0e028262540cc83feea4c9a603560b535dad5a973ea161309fc3bb5423b1,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|ssdeep,1ae5ee514b7d71a3b8d5fe7182c901b0529acbc013fa4e25dcfccfeff75732f6|6144:2scqTCk8ZJstaBo19QMdGoI4r8XHcQGcW+dy7wK3Y2:CkKstvQXoI4r8jpvt9,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|imphash,3D7D5HAsY93ZkPk.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Extracted fromPrzegląd informacji o płatności kontraktowej___ Pdf.gz; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|md5,3D7D5HAsY93ZkPk.exe|5f09b4c7de4698de645c0ab58e05115f,Przegląd informacji o płatności kontraktowej___ Pdf.gz; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|sha1,3D7D5HAsY93ZkPk.exe|e61119772d773b939ba640df62da7c2310b8432b,Przegląd informacji o płatności kontraktowej___ Pdf.gz; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|sha256,3D7D5HAsY93ZkPk.exe|6b4f88390d6c654390f1900656dc552b5e152edfa250a3fc52d5ef2dddb71371,Przegląd informacji o płatności kontraktowej___ Pdf.gz; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|sha512,3D7D5HAsY93ZkPk.exe|4aaf5386738f243bede38909ccb47f7bc4a160db75668f17993415d9c30b9462387c6187cdbd96fb30c86a4533aae76f5aefa5397987f201ce41e6e732c2ee3f,Przegląd informacji o płatności kontraktowej___ Pdf.gz; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|ssdeep,3D7D5HAsY93ZkPk.exe|12288:EMdyjyUZ0saCmmx1Y1OVisBAcD/pcLj+C2Ylu8fk6eNNEgLAh12H1usi/kR:e0sRmmzlXcLiCBY8fk6qPLZH9ia,Przegląd informacji o płatności kontraktowej___ Pdf.gz; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|imphash,9ab47fbda035c91bb267f39a7861a542d9079243c4853ef60fa622f40069a5e4|dae02f32a21e03ce65412f6e56942daa,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|md5,9ab47fbda035c91bb267f39a7861a542d9079243c4853ef60fa622f40069a5e4|d99a6c12be38ccdd3ad549334563b46c,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|sha1,9ab47fbda035c91bb267f39a7861a542d9079243c4853ef60fa622f40069a5e4|0313807dcad283ed0df9a02ed9fb471001bdd940,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|sha256,9ab47fbda035c91bb267f39a7861a542d9079243c4853ef60fa622f40069a5e4|9ab47fbda035c91bb267f39a7861a542d9079243c4853ef60fa622f40069a5e4,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|sha512,9ab47fbda035c91bb267f39a7861a542d9079243c4853ef60fa622f40069a5e4|75586d52f744b4aadf892c321a1bf4c749da9ae0a7e89c3c641b45e1016fa2be07f78418d8ec015d6cc16d420073e5bb77dc14b05def3faeec32aebe268844e1,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|ssdeep,9ab47fbda035c91bb267f39a7861a542d9079243c4853ef60fa622f40069a5e4|1536:t2Has18Ij+j2iv4u0to8BczHLddX8LA+L6AJDfk:EaHIj+j2iv4u0O8BcD5dX8LAy6AJDfk,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|imphash,Tyrone.dll|dae02f32a21e03ce65412f6e56942daa,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|md5,Tyrone.dll|0e504e6244a45abf9692497d8c30bc3d,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|sha1,Tyrone.dll|2d1e3a654ac3cbd01da8e282c62d0c7d629d44bc,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|sha256,Tyrone.dll|70d6844f1235cb5acad1550b7c836a8ae97f74a0be1e0d68cf9701c56cc8d72d,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|sha512,Tyrone.dll|0f3b97b1004671dd33eb155f7a6e1b436796237e315551dfb689f7df1d071ac08c9c5f9809d7fa940d76f9d8b8dd4f3a08994e392b028350b6f7127dd5fe5f6b,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|ssdeep,Tyrone.dll|12288:GorHk3zlqMa6dPvmH8mihf+yKUWDcou9siZjwLfWv:GuQTfmih+yK3DcN3Of,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|md5,a59378ca16dc6ffbc07d8716889f4cb3a8d769068a9e58fd288f99afb9e66552|059c1b7332fc4ff2f21a2ef20fa093f1,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|sha1,a59378ca16dc6ffbc07d8716889f4cb3a8d769068a9e58fd288f99afb9e66552|a41f80e695241d25971b7f26b7cd90e3f9d983ea,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|sha256,a59378ca16dc6ffbc07d8716889f4cb3a8d769068a9e58fd288f99afb9e66552|a59378ca16dc6ffbc07d8716889f4cb3a8d769068a9e58fd288f99afb9e66552,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|sha512,a59378ca16dc6ffbc07d8716889f4cb3a8d769068a9e58fd288f99afb9e66552|5f934861f6220f17b8e8b109b6123b332149b39c9a8b1caf04aae6d8bebcf18688f5d3ed25691bdff17aeafbdca3e1a701d1b6abfa68f5a7a9b56205ed07ad53,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|ssdeep,a59378ca16dc6ffbc07d8716889f4cb3a8d769068a9e58fd288f99afb9e66552|6144:qJ9vShJ/nCQCW9cW3Nhot7UJcBZAU6/b4vRyEIc9swM/:qJ9zxcNJJcBKqyEIc9s,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|imphash,e3902aefcbf651b2ca4d7a9aa1689fee1729fc6cdce0d45e75ae5572c5a1e703|dae02f32a21e03ce65412f6e56942daa,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|md5,e3902aefcbf651b2ca4d7a9aa1689fee1729fc6cdce0d45e75ae5572c5a1e703|7dae6b96e27ec2bb707b0aab34022d7d,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|sha1,e3902aefcbf651b2ca4d7a9aa1689fee1729fc6cdce0d45e75ae5572c5a1e703|5498799e82d023c0403c492db416643f7883e634,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|sha256,e3902aefcbf651b2ca4d7a9aa1689fee1729fc6cdce0d45e75ae5572c5a1e703|e3902aefcbf651b2ca4d7a9aa1689fee1729fc6cdce0d45e75ae5572c5a1e703,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|sha512,e3902aefcbf651b2ca4d7a9aa1689fee1729fc6cdce0d45e75ae5572c5a1e703|a7fd716db0ca9136ca68a6d3199039ad5ec1bf50b96c0dd644084c22e97f9098a0dbd7fcec066e4573653e4712d82fd4afe465d98c92c44faed25cd0d75ee73f,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Payload delivery,filename|ssdeep,e3902aefcbf651b2ca4d7a9aa1689fee1729fc6cdce0d45e75ae5572c5a1e703|384:avw9NYpS3mlWD1+kuZR0/tjCVox6NrcnOh24XQkX:3mf++FZ4RCjhbQk,Extracted from 3D7D5HAsY93ZkPk.exe; mime: application/x-dosexec
+2024-04-10,Network activity,url,http://www.eh28mf3cdv.xyz/rrei/,Source: Network activity from 3D7D5HAsY93ZkPk.exe
+2024-04-10,Network activity,url,http://www.sqlite.org/2022/sqlite-dll-win32-x86-3390000.zip,Source: Network activity from 3D7D5HAsY93ZkPk.exe
+2024-04-10,Network activity,url,http://www.trcrb8e8m.sbs/rrei/,Source: Network activity from 3D7D5HAsY93ZkPk.exe
+2024-04-10,Network activity,url,http://www.trcrb8e8m.sbs/rrei/?Ci=ckvUUrFTThn+eVyG6WIrR5+Gz20u/i6T4d75c36uXKEJq3UOE9QDHkV7ugiIID1w5th5+Cun971T6q7STpyBc9Qnv7cWuG1kcQjWdj3r8Ac+oXFjAw==&89mBn=qizS2ylCR93BNBws,Source: Network activity from 3D7D5HAsY93ZkPk.exe
+2024-04-10,Payload delivery,filename|md5,sqlite-dll-win32-x86-3390000.zip|d113a47c6ac162a76d78c817aeb57755,Downloaded from http://www.sqlite.org/2022/sqlite-dll-win32-x86-3390000.zip; mime: application/zip
+2024-04-10,Payload delivery,filename|sha1,sqlite-dll-win32-x86-3390000.zip|f301cea25c2032dd67ffbd21242b209f0ee70ee2,Downloaded from http://www.sqlite.org/2022/sqlite-dll-win32-x86-3390000.zip; mime: application/zip
+2024-04-10,Payload delivery,filename|sha256,sqlite-dll-win32-x86-3390000.zip|bae32df8fa24a3e55bcc1591e09918259173f870090e2ae775509edb8b893eb4,Downloaded from http://www.sqlite.org/2022/sqlite-dll-win32-x86-3390000.zip; mime: application/zip
+2024-04-10,Payload delivery,filename|sha512,sqlite-dll-win32-x86-3390000.zip|ba64e248ee75fa43cae60c1e0815c512f89eabc140b35aa696d428a3f5d328db04981c0f500b78211bbfd9087ba678328c8ad63ac51249062900693a1d399178,Downloaded from http://www.sqlite.org/2022/sqlite-dll-win32-x86-3390000.zip; mime: application/zip
+2024-04-10,Payload delivery,filename|ssdeep,sqlite-dll-win32-x86-3390000.zip|12288:DVMWgzNoeuQ/aJltXT8cLv0vK1i1WlX14Cr1pnJQb+5Qj73x+WPMMyC:JMWkN5WlT8cLcoLlX14Cr/JMfJxR,Downloaded from http://www.sqlite.org/2022/sqlite-dll-win32-x86-3390000.zip; mime: application/zip
+2024-04-10,Network activity,domain,www.baskaro.com,Source: Network activity from 3D7D5HAsY93ZkPk.exe;Decoy domain
+2024-04-10,Network activity,domain,www.quickstart.design,Source: Network activity from 3D7D5HAsY93ZkPk.exe;Decoy domain
+2024-04-10,Network activity,domain,www.trcrb8e8m.sbs,Source: Network activity from 3D7D5HAsY93ZkPk.exe
+2024-04-10,Network activity,domain,xiaoyue.zhuangkou.com,Source: Network activity from 3D7D5HAsY93ZkPk.exe; CNAME of www.trcrb8e8m.sbs;

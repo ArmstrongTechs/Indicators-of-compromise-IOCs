@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00954 [Fraude] [Phishing]
+| UUID: ecf56aaf-c142-4bde-8169-eff1362e5c02
+| Date: 2024-04-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-23,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática (CSIRT de Gobierno) ha identificado una nueva campaña de phishing.
+
+En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente:“Solicitud Cuenta Cliente :Tiene un Bono Digital pendiente de activación ,beneficio para Clientes personas y Comercios=/span&amp;gt; aliados con abono automático en Línea por valor de:! $120.000 !”El correo electrónico incluye un enlace a un formulario malicioso usado para capturar credenciales de usuarios.",Resumen
+2024-04-23,Network activity,ip-src,172.66.47.116,IP sitio falso
+2024-04-23,Network activity,ip-src|port,208.68.187.2|46481,IP SMTP
+2024-04-23,Payload delivery,email-subject,"BanEstado - Active Bono Hábitat y Crédito Consumo pre aprobado con abono a su Cuenta Rut, Chequera Electrónica o Corriente | Para ayuda Familiar en Banca en Linea",Asunto del correo electrónico
+2024-04-23,Payload delivery,url,http://159.65.156.91/dc8a63028568ce934158852be92c13c9/db44ec749ab06ea44c53S/5ead2be--f8a12a42bb492/?k=KERT,URL sitio redirección
+2024-04-23,Payload delivery,url,https://bit.ly/4cBQnRD,URL sitio redirección
+2024-04-23,Payload delivery,url,https://portal-digitalbonobancooestado.pages.dev/?cvid=rja&CNhFD5ilyYGk6vBMtfgSpweUq8bQ3EXHoPLIaJcAZzV1sxTWrO9740ujmdKRn2,URL sitio falso
+2024-04-23,Payload delivery,email-src,mevans@alink.com,Correo de salida
+2024-04-23,External analysis,attachment,2024-04-23_10h23_28.png,
+2024-04-23,External analysis,attachment,2024-04-23_10h24_12.png,

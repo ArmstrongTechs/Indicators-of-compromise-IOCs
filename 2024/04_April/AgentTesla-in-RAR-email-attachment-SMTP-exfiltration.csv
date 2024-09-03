@@ -1,0 +1,25 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla in RAR email attachment (SMTP exfiltration)
+| UUID: 5cb14ace-7b38-4bd3-bb70-e73fbe750fcc
+| Date: 2024-04-09
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-09,Network activity,domain,cp8nl.hyperhost.ua,SMTP data exfiltration channel
+2024-04-09,Network activity,email-dst,royal@fibraunollc.top,SMTP data exfiltration channel
+2024-04-09,Network activity,email-src,royallog@fibraunollc.top,SMTP data exfiltration channel
+2024-04-09,Payload delivery,malware-sample,PURCHASE ORDER FROM LAM TRADING SERVICE IMPORT EXPORT CO LTD_xlsx.z|09b9fb19f88cc9574e36bb55dca8fe2a,
+2024-04-09,Payload delivery,filename,PURCHASE ORDER FROM LAM TRADING SERVICE IMPORT EXPORT CO LTD_xlsx.z,
+2024-04-09,Payload delivery,md5,09b9fb19f88cc9574e36bb55dca8fe2a,
+2024-04-09,Payload delivery,sha1,721b1c41ee5a0a205fb6bdf4c7b1485091ad56bd,
+2024-04-09,Payload delivery,sha256,7577052fd6d34eba90fb89e4bfa24834601ca38e282a1795deae06637bbcac5f,
+2024-04-09,Other,size-in-bytes,693109,
+2024-04-09,Payload delivery,malware-sample,PURCHASE ORDER FROM LAM TRADING SERVICE IMPORT EXPORT CO LTD_xlsx.bat|dd32094c35e76c8f7ab25b6bd5c5be72,
+2024-04-09,Payload delivery,filename,PURCHASE ORDER FROM LAM TRADING SERVICE IMPORT EXPORT CO LTD_xlsx.bat,
+2024-04-09,Payload delivery,md5,dd32094c35e76c8f7ab25b6bd5c5be72,
+2024-04-09,Payload delivery,sha1,b540992c63732bdeeeceb1c7d93d6635f6946c17,
+2024-04-09,Payload delivery,sha256,5cdace10a173770df77d0d508a7003c971569033f0c65ee95b9cd38c6b267e4f,
+2024-04-09,Other,size-in-bytes,728064,

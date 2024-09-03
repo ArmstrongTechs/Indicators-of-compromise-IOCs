@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos network indicators [2024-04-29]
+| UUID: d44c4c01-0b71-46bf-be54-4f1ab2debaf1
+| Date: 2024-04-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-29,Network activity,url,http://172.245.33.153/310/ENG.txt,Source: urlhaus
+2024-04-29,Network activity,url,https://pasteio.com/raw/x6iIksiqNqad,Source: urlhaus
+2024-04-29,Network activity,url,https://pasteio.com/raw/xBH758AmfLGX,Source: urlhaus
+2024-04-30,Network activity,url,https://pasteio.com/raw/xD6WLcrxAnep,Source: urlhaus

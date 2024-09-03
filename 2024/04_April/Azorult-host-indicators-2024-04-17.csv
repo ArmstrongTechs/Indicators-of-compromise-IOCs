@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Azorult host indicators [2024-04-17]
+| UUID: 734cf419-a147-4540-82bf-4d6117640bc8
+| Date: 2024-04-17
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-17,Payload installation,filename,PO#KOG21-PILOT18-WLM20 and PO#MIC06-M IN F 06.exe,Source: MalwareBazaar
+2024-04-17,Payload installation,md5,ab92ac92a5660397fd2bb0bf54e405e7,Source: MalwareBazaar
+2024-04-17,Payload installation,sha1,71696c57e08d2611547820602f466088d7999119,Source: MalwareBazaar
+2024-04-17,Payload installation,sha256,1d04af45a5f23bbffbe5fa0af2683234c2f70c234baf75cdf53f232523490b2b,Source: MalwareBazaar

@@ -1,0 +1,16 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FFR24-01680 [Fraude] [Falsificación]
+| UUID: 8ea76263-6498-4be2-8eb2-b9f2f9dc5e5e
+| Date: 2024-04-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-23,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática del Gobierno de Chile (CSIRT de Gobierno) ha identificado la activación de una página fraudulenta que suplanta un producto o servicio conocido.
+
+Lo anterior constituye una falsificación de la marca Blue Express que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2024-04-23,Network activity,ip-src,162.62.53.33,IP sitio falso
+2024-04-23,Payload delivery,url,https://blueexpress.superman-url.buzz/slot,URL sitio falso
+2024-04-23,External analysis,attachment,2024-04-23_09h54_50.png,

@@ -1,0 +1,33 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: RemcosRAT in email (rar) attachment
+| UUID: 5fb17e28-ca64-43e5-a826-7c5911a7c75b
+| Date: 2024-04-30
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-30,Payload delivery,url,https://drive.google.com/uc?export=download&id=1QPmWfIQAvN0RTyExf-cL5mRczu1wrjtZ,
+2024-04-30,Network activity,ip-dst|port,216.58.209.46|443,
+2024-04-30,Network activity,ip-dst|port,216.58.204.129|443,
+2024-04-30,Network activity,domain,waw02s05-in-f46.1e100.net,
+2024-04-30,Network activity,domain,par21s05-in-f1.1e100.net,
+2024-04-30,Payload delivery,malware-sample,INQUIRY REPORT Maersk Beaufort 2Q9-24-0115.rar|f95b2fc1a1f6f77356cd071b1b57059a,
+2024-04-30,Payload delivery,filename,INQUIRY REPORT Maersk Beaufort 2Q9-24-0115.rar,
+2024-04-30,Payload delivery,md5,f95b2fc1a1f6f77356cd071b1b57059a,
+2024-04-30,Payload delivery,sha1,072e871e065412a0b47969c951b432e1e80cf698,
+2024-04-30,Payload delivery,sha256,cff25d1e1a46de48a8524d7e954952c6a88050e071bf42b93258378af04ec6c0,
+2024-04-30,Other,size-in-bytes,924152,
+2024-04-30,Payload delivery,malware-sample,INQUIRY REPORT Maersk Beaufort 2Q9-24-0115.bat|b438929f127c2bf498dd1596d12bc97e,
+2024-04-30,Payload delivery,filename,INQUIRY REPORT Maersk Beaufort 2Q9-24-0115.bat,
+2024-04-30,Payload delivery,md5,b438929f127c2bf498dd1596d12bc97e,
+2024-04-30,Payload delivery,sha1,5b7b9cc5169dca6d468a5b54c7dffddf7683ee0b,
+2024-04-30,Payload delivery,sha256,4573e3e8ab2e0418a9c1394802d07539f28cdf2909e6555930a325c95dd95188,
+2024-04-30,Other,size-in-bytes,2965994,
+2024-04-30,Payload delivery,malware-sample,cL5mRczu1wrjtZ|cffc02d0cb86f3a00137da82f468b24d,
+2024-04-30,Payload delivery,filename,cL5mRczu1wrjtZ,
+2024-04-30,Payload delivery,md5,cffc02d0cb86f3a00137da82f468b24d,
+2024-04-30,Payload delivery,sha1,88e7a680f6dfe5836d8c8dd46b2509f3228371b8,
+2024-04-30,Payload delivery,sha256,06f9e1c84f43ae7ca67be9cf89609e5157965313e93fd996a158b483c4b666dd,
+2024-04-30,Other,size-in-bytes,1118420,

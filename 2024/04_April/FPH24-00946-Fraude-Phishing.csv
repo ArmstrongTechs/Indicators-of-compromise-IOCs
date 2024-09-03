@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00946 [Fraude] [Phishing]
+| UUID: 8e365091-5923-41c2-a110-45074efa4f55
+| Date: 2024-04-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-19,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática (CSIRT de Gobierno) ha identificado una nueva campaña de phishing.
+
+En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente, a través de email:&quot;Estamos teniendo algunos problemas con su información de facturación actual. Lo intentaremos de nuevo, pero mientras tanto es posible que desees actualizar tus datos de pago.&quot;El correo electrónico incluye un enlace a un formulario para capturar credenciales de usuarios.",Resumen
+2024-04-19,Network activity,ip-src,199.189.224.25,IP SMTP
+2024-04-19,Network activity,ip-src,76.76.21.93,IP Sitio falso
+2024-04-19,Payload delivery,url,https://jemi.so/nitwatchflex-24,URL Sitio falso
+2024-04-19,Payload delivery,url,https://yekx619z.dreamwp.com/wp-admin/css/colors/blue/daz/update/pay-method.php,URL Sitio de pago
+2024-04-19,Payload delivery,email-subject,NETFLIX,Asunto del correo electronico
+2024-04-19,Payload delivery,email-src,postmaster@032b20ffab.nxcli.io,Correo de salida
+2024-04-19,External analysis,attachment,2024-04-05_10h29_15.png,
+2024-04-19,External analysis,attachment,2024-04-05_10h29_40.png,
+2024-04-19,External analysis,attachment,2024-04-05_10h30_05.png,

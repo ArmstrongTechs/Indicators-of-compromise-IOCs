@@ -1,0 +1,31 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Request: Inv-#90071894/202300415 - From: bernedette.blm@gmail.com"" Campaign"
+| UUID: 9c0533f1-cf9a-45ac-bf7f-7f0cc8890437
+| Date: 2024-04-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-16,Payload delivery,email-src,bernedette.blm@gmail.com,Source email: from bernedette.blm@gmail.com - subject: Request: Inv-#90071894/202300415
+2024-04-16,Payload delivery,email-src-display-name,info,Source email: from bernedette.blm@gmail.com - subject: Request: Inv-#90071894/202300415
+2024-04-16,Payload delivery,email-body,"<!DOCTYPE HTML>
+
+<html><head><title></title>
+<meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+</head>
+<body style=""margin: 0.4em;"">
+<p><span style=""font-family: Arial;""><span style=""font-family: Arial;""><span style=""font-size: 10pt;"">FYI</span></span></span><br><span style=""font-family: Arial;""><span style=""font-family: Arial;""><span style=""font-size: 10pt;"">Find the attached.</span></span></span><br><br><span style=""font-family: Arial;""><span style=""font-size: 10pt;"">Thank you.<br></span></span><br><em><span style=""font-family: Arial; font-size: 10pt;"">Sent from iPhone</span></em></p>
+
+
+</body></html>",Source email: from bernedette.blm@gmail.com - subject: Request: Inv-#90071894/202300415
+2024-04-16,Payload delivery,email-subject,Request: Inv-#90071894/202300415,Source: from bernedette.blm@gmail.com - subject: Request: Inv-#90071894/202300415
+2024-04-16,Payload delivery,filename|sha256,CS TSA Inv-#90071894202300415 jpg.jar|ba164db62a7b9c2ac27ed6a3913805afe1f72ad2c63dd25524e99d23dab9c007,Malspam attachment - source: from bernedette.blm@gmail.com - subject: Request: Inv-#90071894/202300415 mime: application/zip
+2024-04-16,Payload delivery,filename|ssdeep,CS TSA Inv-#90071894202300415 jpg.jar|12288:bxKaeyL6XZIswSL6d/soKMFhyngUYiTcEkVG6a:bvtWqDSL6d3KMagO6a,Malspam attachment - source: from bernedette.blm@gmail.com - subject: Request: Inv-#90071894/202300415 mime: application/zip
+2024-04-16,Payload delivery,filename|sha1,CS TSA Inv-#90071894202300415 jpg.jar|a20c973823a60f2c5d64cef8d5a359be2e3a8173,Malspam attachment - source: from bernedette.blm@gmail.com - subject: Request: Inv-#90071894/202300415 mime: application/zip
+2024-04-16,Payload delivery,filename|sha512,CS TSA Inv-#90071894202300415 jpg.jar|838f9a12c69455e10310147c1b9b5145d91f1bee02a51d52a9f6cd2d3f22f66957200dfc9825c5eddd69c85eec7136d55512329d0e0d3b927798583998220420,Malspam attachment - source: from bernedette.blm@gmail.com - subject: Request: Inv-#90071894/202300415 mime: application/zip
+2024-04-16,Payload delivery,filename|md5,CS TSA Inv-#90071894202300415 jpg.jar|e90c707d25633173dc5a0983d9dc932c,Malspam attachment - source: from bernedette.blm@gmail.com - subject: Request: Inv-#90071894/202300415 mime: application/zip
+2024-04-16,Payload delivery,email-subject,Confirmation: Inv-#90071894/202300415,Source: from bernedette.blm@gmail.com - subject: Confirmation: Inv-#90071894/202300415
+2024-04-16,Network activity,url,http://jbfrost.live/strigoi/server/?hwid=1&lid=m&ht=5,Source: Network activity from CS TSA Inv-#90071894202300415 jpg.jar
+2024-04-16,Network activity,url,sandshoe.myfirewall.org:586,Source: Network activity from CS TSA Inv-#90071894202300415 jpg.jar; C2

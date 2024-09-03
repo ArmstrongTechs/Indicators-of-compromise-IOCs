@@ -1,0 +1,24 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Brokewell - Android banking trojan
+| UUID: 7f6d3cf5-eca0-4d7e-a8d3-2ece9e3930dd
+| Date: 2024-04-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-30,Other,text,"Família de malware para dispositivos Android que um conjunto extenso de possibilidades para executar um ataque de Device Takeover, onde o dispositivo infectado fica sob controle do atacante.
+Ela representa uma ameaça significativa para o setor bancário, fornecendo aos invasores acesso remoto a todos os ativos disponíveis por meio de serviços bancários móveis. O trojan parece estar em desenvolvimento ativo, com novos comandos adicionados quase diariamente.",
+2024-04-30,Network activity,url,https://www.makingitorut.com/Chrome/Chrome.apk,
+2024-04-30,Network activity,url,https://www.makingitorut.com/Chrome/Klarna.apk,
+2024-04-30,Network activity,url,http://makingitorut.com/Chrome/Klarna.apk,
+2024-04-30,Network activity,url,http://makingitorut.com/Chrome/Chrome.apk,
+2024-04-30,Other,text,jcwAz.EpLIq.vcAZiUGZpK,
+2024-04-30,Payload delivery,sha256,d807070973bde0d85f260950dc764e46a0ba486f62da3e62f3b229ca3ea322f1,
+2024-04-30,Other,text,zRFxj.ieubP.lWZzwlluca,
+2024-04-30,Payload delivery,sha256,99f263fa87f13c7e6829dff73cc9c018d5f8165a5a7af3af8bc5ca6d52762ea9,
+2024-04-30,Payload delivery,sha256,2ac038c44f1be53a1b652cafa4eba23af29831c7ebb75aaa00743b11c33665ea,
+2024-04-30,Payload delivery,sha256,00d35cf5af2431179b24002b3a4c7fb115380ebda496d78849bf3d10055d8a88,
+2024-04-30,Other,text,com.brkwl.upstracking,
+2024-04-30,Payload delivery,sha256,5ebb9e5cfe091ee8e00aa67c50a4aff2da90ce9eb6aa2b703a6e0bb3364359ce,

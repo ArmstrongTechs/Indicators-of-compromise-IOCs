@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Threat email attachment: PI89454  007PT865.IMG
+| UUID: 8f96a2b5-abad-4df8-9123-3f2f0205d629
+| Date: 2024-04-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-24,Payload delivery,sha256,3cabe86fa83fb6c4c2b4e5e8ad53b94a8ff2e4e4069476d05466b5c4ad0b0429,Attachment PI89454  007PT865.IMG
+2024-04-24,Payload delivery,email-subject,Računi PI89454 / 007PT865,Email subject
+2024-04-24,Payload delivery,email-attachment,PI89454  007PT865.IMG,Email attachment

@@ -1,0 +1,17 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: 8FFR24-01675 [Fraude] [Falsificación]
+| UUID: f677c3b6-307d-4ced-9f24-7ba04e319874
+| Date: 2024-04-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-19,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática del Gobierno de Chile (CSIRT de Gobierno) ha identificado la activación de una página fraudulenta que suplanta un producto o servicio conocido.
+
+Identificamos la activación de una página fraudulenta que suplanta a Banco Falabella, la que podría servir para robar credenciales de usuario o datos bancarios.Lo anterior constituye una falsificación de marca que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2024-04-19,Network activity,ip-src,185.27.134.144,Host
+2024-04-19,Payload delivery,url,http://flabel3772.zya.me/?i=1,URLs del sitio falso
+2024-04-19,Payload delivery,url,https://cancelar-compra-4falabella.weebly.com/,URL de redirección
+2024-04-19,External analysis,attachment,2024-04-01_09h50_11.png,

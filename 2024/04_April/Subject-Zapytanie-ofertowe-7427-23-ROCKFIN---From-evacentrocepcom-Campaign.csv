@@ -1,0 +1,104 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Zapytanie ofertowe (7427-23 ROCKFIN) - From: eva@centrocep.com"" Campaign"
+| UUID: 8880f5c4-48a1-4441-9f0b-3fc89ed3b5f2
+| Date: 2024-04-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-24,Payload delivery,email-src,eva@centrocep.com,Source email: from eva@centrocep.com - subject: Zapytanie ofertowe (7427-23 ROCKFIN);Spoofing
+2024-04-24,Payload delivery,email-src-display-name,Agnieszka Maruńczak,Source email: from eva@centrocep.com - subject: Zapytanie ofertowe (7427-23 ROCKFIN)
+2024-04-24,Payload delivery,email-body,"Dzień dobry,
+
+W załączeniu przesyłamy zamówienie do naszych oddziałów. Prosimy o 
+przesłanie nam cennych dowodów dostawy.
+
+Prosimy o przesłanie potwierdzenia odbioru oraz podanie numeru 
+zamówienia na dowodzie dostawy i fakturze.
+
+Pozdrowienia! / Z poważaniem!
+
+[REDACTED]
+
+Manager Sprzedaży
+
+TOYA S.A. | Poland
+
+ul. Sołtysowicka 13-15
+
+51-168 Wrocław
+
+Phone: +48 71 324 62 08
+
+Mobile: +48 695 100 398
+
+e-mail: [REDACTED]
+web: www.yatogastro.pl [1]
+
+TOYA S.A. we Wrocławiu, ul. Sołtysowicka 13-15, 51-168 Wrocław, wpisana 
+do Rejestru Przedsiębiorców KRS,
+prowadzonego przez VI Wydział Gospodarczy Sądu Rejonowego dla Wrocławia 
+- Fabryczna pod nr KRS 0000066712,
+kapitał zakładowy w pełni opłacony: 7 504 222,60 zł; nr NIP: 
+895-16-86-107; numer Regon: 932093253.
+
+Niniejsza wiadomość jest własnością TOYA S.A. i może zawierać informacje 
+poufne i/lub prawnie chronione.
+Jeśli nie są Państwo właściwym adresatem (lub otrzymali Państwo tę 
+wiadomość na skutek pomyłki),
+prosimy o tym fakcie niezwłocznie poinformować nadawcę i usunąć 
+otrzymaną wiadomość.
+Każde nieautoryzowane kopiowanie, ujawnianie lub rozpowszechnianie 
+załączonej informacji jest zabronione.
+
+This e-mail is a property of TOYA S.A. and may contain confidential 
+and/or privileged information.
+If you are not the intended recipient (or have received this e-mail by 
+mistake) please notify the sender immediately and destroy this e-mail.
+Any unauthorized copying, disclosure or distribution of the material in 
+this e-mail is strictly forbidden.
+
+Links:
+------
+[1] http://www.yatogastro.pl/",Source email: from eva@centrocep.com - subject: Zapytanie ofertowe (7427-23 ROCKFIN)
+2024-04-24,Payload delivery,email-subject,Zapytanie ofertowe (7427-23 ROCKFIN),Source: from eva@centrocep.com - subject: Zapytanie ofertowe (7427-23 ROCKFIN)
+2024-04-24,Payload delivery,filename|sha256,Zapytanie ofertowe (7427-23 ROCKFIN).tar|8110556eaceff8843b83ede7d06e5d747de5830ce13e94b33aa706cabd1cbf0b,Malspam attachment - source: from eva@centrocep.com - subject: Zapytanie ofertowe (7427-23 ROCKFIN) mime: application/x-rar
+2024-04-24,Payload delivery,filename|ssdeep,Zapytanie ofertowe (7427-23 ROCKFIN).tar|12288:n6DZguVGzzK0Jv/AnRhTY7oN2GnPmLGyAh+G:6DZ1VGzzKev/Ang+lmLGvP,Malspam attachment - source: from eva@centrocep.com - subject: Zapytanie ofertowe (7427-23 ROCKFIN) mime: application/x-rar
+2024-04-24,Payload delivery,filename|sha1,Zapytanie ofertowe (7427-23 ROCKFIN).tar|2e3a33ca9ca64a7496be83b41f4e208fd9dc6d13,Malspam attachment - source: from eva@centrocep.com - subject: Zapytanie ofertowe (7427-23 ROCKFIN) mime: application/x-rar
+2024-04-24,Payload delivery,filename|sha512,Zapytanie ofertowe (7427-23 ROCKFIN).tar|3d2181c327ce74f82391f71fe1ac25b2792f2ce2bd3e723ad5e2fc5d08da729b8eef68628b7dd2c2482fb10363489d3f7fa6690f60176133b2a77ccbd4b0f394,Malspam attachment - source: from eva@centrocep.com - subject: Zapytanie ofertowe (7427-23 ROCKFIN) mime: application/x-rar
+2024-04-24,Payload delivery,filename|md5,Zapytanie ofertowe (7427-23 ROCKFIN).tar|553e2051e2a5dfc60b036f85b7d01968,Malspam attachment - source: from eva@centrocep.com - subject: Zapytanie ofertowe (7427-23 ROCKFIN) mime: application/x-rar
+2024-04-24,Payload delivery,filename|sha1,Zapytanie ofertowe (7427-23 ROCKFIN).exe|2d4ceebda0adb10e21c71257e182d64b9b5052f9,Archive contents - source: Zapytanie ofertowe (7427-23 ROCKFIN).tar mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|imphash,Zapytanie ofertowe (7427-23 ROCKFIN).exe|f34d5f2d4577ed6d9ceec516c1f5a744,Archive contents - source: Zapytanie ofertowe (7427-23 ROCKFIN).tar mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|ssdeep,Zapytanie ofertowe (7427-23 ROCKFIN).exe|24576:WkGwllpmB3XZnMZ48rY06T2oj4R2Jzf8B:cBZV8rY06hzf,Archive contents - source: Zapytanie ofertowe (7427-23 ROCKFIN).tar mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|sha256,Zapytanie ofertowe (7427-23 ROCKFIN).exe|6d3a245b3487cd9eadb81df7f9e84370977c0f2a7c6b9ebb534d9cc1ba3cb9dc,Archive contents - source: Zapytanie ofertowe (7427-23 ROCKFIN).tar mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|sha512,Zapytanie ofertowe (7427-23 ROCKFIN).exe|0e48d17f06940ad5f91156c92b8dd9eeb48ca2dd35aac5d9577abfb81f0430a31b1dd0247470ea40f3aac3d9f5548f2c3bd2bd0f48a689a8cdd42992c8d9e3ef,Archive contents - source: Zapytanie ofertowe (7427-23 ROCKFIN).tar mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|md5,Zapytanie ofertowe (7427-23 ROCKFIN).exe|fcb31a17d41517e40453426fb2ec0acc,Archive contents - source: Zapytanie ofertowe (7427-23 ROCKFIN).tar mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|imphash,56aaa2b9e53d69dd75c8d1247220d8ea97b1b7705796b2e2ddff34c7eea8adee|f34d5f2d4577ed6d9ceec516c1f5a744,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|md5,56aaa2b9e53d69dd75c8d1247220d8ea97b1b7705796b2e2ddff34c7eea8adee|50f28d178452b2db4e1f466904e55c78,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|sha1,56aaa2b9e53d69dd75c8d1247220d8ea97b1b7705796b2e2ddff34c7eea8adee|d9a3246a570715d756a6c653b6818afb99ae39ec,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|sha256,56aaa2b9e53d69dd75c8d1247220d8ea97b1b7705796b2e2ddff34c7eea8adee|56aaa2b9e53d69dd75c8d1247220d8ea97b1b7705796b2e2ddff34c7eea8adee,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|sha512,56aaa2b9e53d69dd75c8d1247220d8ea97b1b7705796b2e2ddff34c7eea8adee|f4951a378b28b3f1561d7752b80650595e37abc8fd64096692df20e1a66af79733f38cd010fcbfd785bc14cbeb89e09f623aad942d70133d4bc1141fdc7fb085,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|ssdeep,56aaa2b9e53d69dd75c8d1247220d8ea97b1b7705796b2e2ddff34c7eea8adee|12:etGSGQ8K2lj8EkPHy2DLI4MWoR6/4hSb/HXxFcjgNjPt9yqzs7qzsOFDncT:etGS4Dh8BHE41NPxHYqzEqztc,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|imphash,MiPro.dll|dae02f32a21e03ce65412f6e56942daa,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|md5,MiPro.dll|27dea42a70bd7e948f1171ce873878a1,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|sha1,MiPro.dll|b87051d51479c093cdf3e721acea4fd8b940b1e5,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|sha256,MiPro.dll|2db82e9b91b1ccb1957b4e06ec49bfb0096e973213fc1786de1bbe3162f5df5a,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|sha512,MiPro.dll|e4b5acdc42687a9b6bdbeec0a8386d9a19a4d39e4ba0fd7cd6040131708e160c6febe1e7051b1419c61a5a0db58d1659eb1446035d97b31ad25879afbb6f6f15,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|ssdeep,MiPro.dll|3072:M8tvENJpooPdv7qWYK+xI8lMvAhPDvmFUsF7TPmNzijs+hZWpNZbIL7YvLf:w6oPdvvNAhtuPmJYsUZgZbR,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|imphash,RP8SH.dll|476f92c8f9ddbcb805cdc5c61fbc5635,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|md5,RP8SH.dll|2c064163cda2f093cf6d20302481dff7,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|sha1,RP8SH.dll|cf948b10d999c369ef51972f86278a4f536d400d,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|sha256,RP8SH.dll|0781f74db6c9ff7aa0c1e76dd0ebc4a9575fba6caca9aac9fb0131c5a73c84be,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|sha512,RP8SH.dll|17934802f7e89474da7931620d02393eb4c3bbc9689b1213bc0457890b3615eb60a619a408aeca67f0579d9bca9fd2515b9f4019bd8040a813a744f37e96a2a8,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|ssdeep,RP8SH.dll|1536:Y2Ofo9STpX1nsZBl0yYFP1Esqar/QgFWZkQf/fswBGhz2oI41tOV2:2X1nsZT0vE1ZvsvI414Y,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|imphash,e61d2547-8804-449b-8bf2-dab23c564e04.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|md5,e61d2547-8804-449b-8bf2-dab23c564e04.exe|af35a52633ed5dad2f16e8e2f8aa563e,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|sha1,e61d2547-8804-449b-8bf2-dab23c564e04.exe|a932a5f7709e0da1683122d3d62a4372217dd6f4,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|sha256,e61d2547-8804-449b-8bf2-dab23c564e04.exe|3740965388452523b7f878cf020bc91a6e5fdfdcd9c50f9de550b05dca5531c4,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|sha512,e61d2547-8804-449b-8bf2-dab23c564e04.exe|fb1809bb03dbcc25d24963ed69fbb160aa34048d0f104510692c5c751d153be05f7446dc85d640361e4c7d497808e2c0d740ec427918239d0517055c7e028708,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Payload delivery,filename|ssdeep,e61d2547-8804-449b-8bf2-dab23c564e04.exe|3072:7rA1JlxVuEFchbUf1IkFDiFIyYUBU51Z4ve+:7rA1JlxVuEFchbUf1IkFDxUB64G,Extracted from Zapytanie ofertowe (7427-23 ROCKFIN).exe; mime: application/x-dosexec
+2024-04-24,Network activity,email-dst,amorim.miki@yandex.com,Source: Extracted from static config of e61d2547-8804-449b-8bf2-dab23c564e04.exe; data exfiltration via SMTP
+2024-04-24,Network activity,hostname,smtp.ionos.es,Source: Extracted from static config of e61d2547-8804-449b-8bf2-dab23c564e04.exe; data exfiltration via SMTP
+2024-04-24,Network activity,email-dst,eurospring@eurospring.es,Source: Extracted from static config of e61d2547-8804-449b-8bf2-dab23c564e04.exe; data exfiltration via SMTP

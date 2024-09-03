@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-04-11]
+| UUID: e9489e2d-6966-4291-98cb-6bfcf8187d7f
+| Date: 2024-04-11
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-11,Payload installation,filename,Payment Invoice.exe,Source: MalwareBazaar
+2024-04-11,Payload installation,md5,783addabb1e7dcb48130649faaf852c7,Source: MalwareBazaar
+2024-04-11,Payload installation,sha1,c87553da7df62530e9262b35930d6a15aff4949a,Source: MalwareBazaar
+2024-04-11,Payload installation,sha256,b162074bf62543007615d08db1dffa75022858944a0ecc5de5ed8d3be561e3da,Source: MalwareBazaar

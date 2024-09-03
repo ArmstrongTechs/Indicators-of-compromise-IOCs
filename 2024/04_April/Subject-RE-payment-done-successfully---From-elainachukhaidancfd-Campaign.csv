@@ -1,0 +1,68 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: RE: payment done successfully - From: elaina@chukhaidan.cfd"" Campaign"
+| UUID: 787e2a78-d01a-434c-94d9-1f4ac1881912
+| Date: 2024-04-26
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-26,Payload delivery,email-src,elaina@chukhaidan.cfd,Source email: from elaina@chukhaidan.cfd - subject: RE: payment done successfully
+2024-04-26,Payload delivery,email-src-display-name,Umberto Elaina,Source email: from elaina@chukhaidan.cfd - subject: RE: payment done successfully
+2024-04-26,Payload delivery,email-body,"<HTML><HEAD>
+<META name=GENERATOR content=""MSHTML 11.00.9600.19463""></HEAD>
+<BODY>
+<P>Hi good morning,</P>
+<P>After reviewing your invoice, we can confirm that each page has been signed correctly.<BR>Therefore, we have initiated the bank transfer today as per the attached document.</P>
+<P>Please find the payment receipt of &#8364;63,280 attached and confirm it as soon as possible<BR><BR>Ms.&nbsp;Umberto Elaina<BR>Tel (817)924-2900<BR>C S Industries, S.r.l.<BR><BR><IMG style=""HEIGHT: 50px; WIDTH: 129px"" alt=""Cs Industries"" src=""https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqN5_Xiopb9d9k_x-u4_ExgLN76UslufKk4wIPK2ErlQ&amp;s"" width=263 height=188><BR>Zona A.S.I. Valle Ufita, 83040, <BR>Flumeri (Avellino), Italia<BR></P></BODY></HTML>",Source email: from elaina@chukhaidan.cfd - subject: RE: payment done successfully
+2024-04-26,Payload delivery,email-subject,RE: payment done successfully,Source: from elaina@chukhaidan.cfd - subject: RE: payment done successfully
+2024-04-26,Payload delivery,filename|sha256,new.xls|7ae95a8a8acbb5edb84c2972ac93b61f525c74d9731d2d72af88e53a40faf01e,Malspam attachment - source: from elaina@chukhaidan.cfd - subject: RE: payment done successfully mime: application/vnd.ms-excel
+2024-04-26,Payload delivery,filename|ssdeep,new.xls|3072:AXkJAg15J68xcYy/iCkku4+CyX4l9WGodWRtFxNP8l4eXa0H1G:AXunJ1cYy/ElCwW9zodWtF0l4en,Malspam attachment - source: from elaina@chukhaidan.cfd - subject: RE: payment done successfully mime: application/vnd.ms-excel
+2024-04-26,Payload delivery,filename|sha1,new.xls|09de9cf6875a005f44bed96ed5ef95903b1c79ef,Malspam attachment - source: from elaina@chukhaidan.cfd - subject: RE: payment done successfully mime: application/vnd.ms-excel
+2024-04-26,Payload delivery,filename|sha512,new.xls|c7c4fad2497ed78611a557d93460b3069fe53e79fbb7da03e5b7468dc607e2a9fa608a1e380e0ad5e0794094daef4df00114d85a0485a17d9cda0f27535bd9f3,Malspam attachment - source: from elaina@chukhaidan.cfd - subject: RE: payment done successfully mime: application/vnd.ms-excel
+2024-04-26,Payload delivery,filename|md5,new.xls|3656be2ecdf6e61566462ef1488090ad,Malspam attachment - source: from elaina@chukhaidan.cfd - subject: RE: payment done successfully mime: application/vnd.ms-excel
+2024-04-26,Payload delivery,filename|md5,GMN.txt|f41c3683bb5c7560e00d3a36c2209fb7,Downloaded from http://192.3.95.218/5455/GMN.txt; mime: text/plain
+2024-04-26,Payload delivery,filename|sha1,GMN.txt|eccf7531cb257d7f05b13d5638c467771c6f3670,Downloaded from http://192.3.95.218/5455/GMN.txt; mime: text/plain
+2024-04-26,Payload delivery,filename|sha256,GMN.txt|121128fc689f92bed3d76de8a0170e7d69ae243386b8c68bf411853ddcb2e022,Downloaded from http://192.3.95.218/5455/GMN.txt; mime: text/plain
+2024-04-26,Payload delivery,filename|sha512,GMN.txt|762554e122b98e22115dd9f8a7e9fa8f517d22d3375ff06cad9c8965af028830954ccb35a9c1fee634c11f66a425dd574d3f7787ad3e4df6eb687e6f9483ab28,Downloaded from http://192.3.95.218/5455/GMN.txt; mime: text/plain
+2024-04-26,Payload delivery,filename|ssdeep,GMN.txt|12288:adfULWw+8Uizqo36P+F9QFojBXC2slenIFHrg+j3VSi:S0lRzqoKP3ojBXC2ienIFLNjlx,Downloaded from http://192.3.95.218/5455/GMN.txt; mime: text/plain
+2024-04-26,Payload delivery,filename|md5,OSHhe|3118bed78fa76df3868d182bc90858f9,Extracted from https://paste.ee/d/OSHhe; mime: text/plain
+2024-04-26,Payload delivery,filename|sha1,OSHhe|be65dad3021a483fb71575f77d0ae793008a433e,Extracted from https://paste.ee/d/OSHhe; mime: text/plain
+2024-04-26,Payload delivery,filename|sha256,OSHhe|6f0a88c875a6c6638705637f794a85ed9ef3e96ef37ea08252932bad45cde4d1,Extracted from https://paste.ee/d/OSHhe; mime: text/plain
+2024-04-26,Payload delivery,filename|sha512,OSHhe|96d3e301458e7e44ae022ed32e59496761beeb14efd598e93d1323f768dd3cead6d5f1e23f52a3531441fe1c809e70d6c4939a6ba299c2c00897816bb1551495,Extracted from https://paste.ee/d/OSHhe; mime: text/plain
+2024-04-26,Payload delivery,filename|ssdeep,OSHhe|384:4p1/ARVQDbtG/Z+Zm+QxlfghVdd+mUMuvdHi6uHZzAQuQA+V2tbBzYzksR8ZTUAm:RVabtoUPQxl+VdgCuvdP1XQL2Im+h,Extracted from https://paste.ee/d/OSHhe; mime: text/plain
+2024-04-26,Payload delivery,filename|imphash,System.Management.Automation.dll|dae02f32a21e03ce65412f6e56942daa,Extracted from new_image_vbs.jpg?1712588500; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|md5,System.Management.Automation.dll|8bae771d41d8713a3583d24005c9039b,Extracted from new_image_vbs.jpg?1712588500; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|sha1,System.Management.Automation.dll|6895ea61ce4600e6129353b0c5ae58f16bf26a78,Extracted from new_image_vbs.jpg?1712588500; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|sha256,System.Management.Automation.dll|bbd3b070c7a7185603cdbfb576e7bcc9c01cd5c8263666b3a3ee5de5e3a427ab,Extracted from new_image_vbs.jpg?1712588500; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|sha512,System.Management.Automation.dll|a85381d8ba68b670e4bd7c9e78ed0f3f1bb898a17f6a0f7ecaf64ec5a2ac35e60b3d8aec7961d3e3c3b4ad43915bfd225edbf115dc758e7b657836349dc170bd,Extracted from new_image_vbs.jpg?1712588500; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|ssdeep,System.Management.Automation.dll|49152:WPWAhBEBuL4qTIwxlV0/Eveq03xg/pOX5ai:W5hBEBuL4m3lUE,Extracted from new_image_vbs.jpg?1712588500; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|md5,exampleofkissinglovers.vbs|e2dc751c9e0ba813649506c05af995c9,Downloaded from http://192.3.95.218/5455/Examplofpixelimage.jpeg; mime: text/plain
+2024-04-26,Payload delivery,filename|sha1,exampleofkissinglovers.vbs|a5bb9b9df1eac4160e846e86da778c9801218f20,Downloaded from http://192.3.95.218/5455/Examplofpixelimage.jpeg; mime: text/plain
+2024-04-26,Payload delivery,filename|sha256,exampleofkissinglovers.vbs|171f8fb9e2aa1884d7626973fb7a1e317e2d14f23dcb8734383ae103ddad30b6,Downloaded from http://192.3.95.218/5455/Examplofpixelimage.jpeg; mime: text/plain
+2024-04-26,Payload delivery,filename|sha512,exampleofkissinglovers.vbs|41778882b5353c18b361a5bab49b88375b4b880424aebf59f3b7c8d8b8cd935a274785e4e76722825b461b25c6d6a6911050d4b7e8f7e6c8971d193ce1a8ad3d,Downloaded from http://192.3.95.218/5455/Examplofpixelimage.jpeg; mime: text/plain
+2024-04-26,Payload delivery,filename|ssdeep,exampleofkissinglovers.vbs|3072:oLft/bA1/fzLffz4U1DHFUGmgURDFBe0tKl9CP4:X,Downloaded from http://192.3.95.218/5455/Examplofpixelimage.jpeg; mime: text/plain
+2024-04-26,Network activity,url,http://192.3.95.218/5455/Examplofpixelimage.jpeg,Source: Network activity from needfreshlovequotestotakeyouininterestedkisserloverwhohavesuchamemorytoloveherkisshertrulyfor__sheisbeautifulgirl.doc
+2024-04-26,Network activity,url,http://192.3.95.218/5455/GMN.txt,Source: Network activity from OSHhe
+2024-04-26,Network activity,url,http://192.3.95.218/5455/gmn/needfreshlovequotestotakeyouininterestedkisserloverwhohavesuchamemorytoloveherkisshertrulyfor__sheisbeautifulgirl.doc,Source: Network activity from http://lnkz.at/FUebi
+2024-04-26,Network activity,url,http://lnkz.at/FUebi,Source: Network activity from new.xls
+2024-04-26,Network activity,url,https://paste.ee/d/OSHhe,Source: Network activity from exampleofkissinglovers.vbs
+2024-04-26,Network activity,url,https://uploaddeimagens.com.br/images/004/766/979/original/new_image_vbs.jpg?1712588500,Source: Network activity from OSHhe
+2024-04-26,Payload delivery,filename|md5,needfreshlovequotestotakeyouininterestedkisserloverwhohavesuchamemorytoloveherkisshertrulyfor__sheisbeautifulgirl.doc|c7d0967e4b8c8a0a1309e97d549b828d,Downloaded from http://192.3.95.218/5455/gmn/needfreshlovequotestotakeyouininterestedkisserloverwhohavesuchamemorytoloveherkisshertrulyfor__sheisbeautifulgirl.doc; mime: text/rtf
+2024-04-26,Payload delivery,filename|sha1,needfreshlovequotestotakeyouininterestedkisserloverwhohavesuchamemorytoloveherkisshertrulyfor__sheisbeautifulgirl.doc|61cd7eb2ee3b0e0664b5efd753a342c5a2ceb7fd,Downloaded from http://192.3.95.218/5455/gmn/needfreshlovequotestotakeyouininterestedkisserloverwhohavesuchamemorytoloveherkisshertrulyfor__sheisbeautifulgirl.doc; mime: text/rtf
+2024-04-26,Payload delivery,filename|sha256,needfreshlovequotestotakeyouininterestedkisserloverwhohavesuchamemorytoloveherkisshertrulyfor__sheisbeautifulgirl.doc|3d9744bfdd9d8e6dc31dd3f8b6485a0acb76d96dc0dd121248e29a3d975b600f,Downloaded from http://192.3.95.218/5455/gmn/needfreshlovequotestotakeyouininterestedkisserloverwhohavesuchamemorytoloveherkisshertrulyfor__sheisbeautifulgirl.doc; mime: text/rtf
+2024-04-26,Payload delivery,filename|sha512,needfreshlovequotestotakeyouininterestedkisserloverwhohavesuchamemorytoloveherkisshertrulyfor__sheisbeautifulgirl.doc|82eedbf550f28b70a3c6b59c3bdaa7f7d70e6d52acb361a98512e10db230cd16b507b72545210daba2843c8105b921c02cd9919be8534529884b62233684e1b5,Downloaded from http://192.3.95.218/5455/gmn/needfreshlovequotestotakeyouininterestedkisserloverwhohavesuchamemorytoloveherkisshertrulyfor__sheisbeautifulgirl.doc; mime: text/rtf
+2024-04-26,Payload delivery,filename|ssdeep,needfreshlovequotestotakeyouininterestedkisserloverwhohavesuchamemorytoloveherkisshertrulyfor__sheisbeautifulgirl.doc|1536:DIPFRGUXgszsu7AfpTlOttmtDVvhCXlnYfSEdsmV0Dwfhq5e15C3f:Dgnwszsu02tt4TWlqDdYDwfE5e15C3f,Downloaded from http://192.3.95.218/5455/gmn/needfreshlovequotestotakeyouininterestedkisserloverwhohavesuchamemorytoloveherkisshertrulyfor__sheisbeautifulgirl.doc; mime: text/rtf
+2024-04-26,Payload delivery,filename|md5,new_image_vbs.jpg?1712588500|63d7161e549f4ae373e2ec328cc10bcc,Extracted from https://uploaddeimagens.com.br/images/004/766/979/original/new_image_vbs.jpg?1712588500; mime: image/jpeg
+2024-04-26,Payload delivery,filename|sha1,new_image_vbs.jpg?1712588500|e074e84f245766b5693bb85a3be48ce65196a79b,Extracted from https://uploaddeimagens.com.br/images/004/766/979/original/new_image_vbs.jpg?1712588500; mime: image/jpeg
+2024-04-26,Payload delivery,filename|sha256,new_image_vbs.jpg?1712588500|8b337abd81fe0fa0cfb773bc185da8ebcca425adb14f81c61e7c060e7d81aea1,Extracted from https://uploaddeimagens.com.br/images/004/766/979/original/new_image_vbs.jpg?1712588500; mime: image/jpeg
+2024-04-26,Payload delivery,filename|sha512,new_image_vbs.jpg?1712588500|1a070d36f84f7032dcaf236020895e794f5e92cb0c96a1e9948bdab0b8d9007cd2259b6e7f08a654a76145e3dc082b4318234bde7dafa988edd22fc3ea099880,Extracted from https://uploaddeimagens.com.br/images/004/766/979/original/new_image_vbs.jpg?1712588500; mime: image/jpeg
+2024-04-26,Payload delivery,filename|ssdeep,new_image_vbs.jpg?1712588500|24576:hTYZHfhgDsQwixEdhro/Nai4tRXInoBwMWSLQKlHiEoFAyzgNexud0KBBIn+q+3h:uZHfhgKX0arpBcb2,Extracted from https://uploaddeimagens.com.br/images/004/766/979/original/new_image_vbs.jpg?1712588500; mime: image/jpeg
+2024-04-26,Payload delivery,filename|imphash,remcos.exe|8d5087ff5de35c3fbb9f212b47d63cad,Extracted from GMN.txt; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|md5,remcos.exe|168ea6eca48cf9f2612488934e1e2da7,Extracted from GMN.txt; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|sha1,remcos.exe|a23ad3e47bf3b7a4e8ac7852b9359b9c8907590a,Extracted from GMN.txt; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|sha256,remcos.exe|b8376836fa29f66836689fa0edc6e456c17b4294d5090432ef888c2a74f624dc,Extracted from GMN.txt; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|sha512,remcos.exe|0af8c1a5b7d3550aee6f5a424150192db70abaa565bbb11f13eb27fd4e231303b2d46816175697347ea310ba7bee2fb79ee84aeeb95582f5755cca6b73dfd6ad,Extracted from GMN.txt; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|ssdeep,remcos.exe|6144:aXIktXfM8Lv86r9uVWAa2je4Z5zl4hgDHQQs4NTQjoHFsAOZZDAXYcN/5Gv:aX7tPMK8ctGe4Dzl4h2QnuPs/ZDWcv,Extracted from GMN.txt; mime: application/x-dosexec
+2024-04-26,Network activity,hostname|port,rmcnewlistening.duckdns.org|14645,Source: Network activity from remcos.exe; C2

@@ -1,0 +1,79 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: New order - 24900242 OP - From: adrian.hydro@beep.pl"" Campaign"
+| UUID: b748fa08-99ea-4824-b73f-18cc3afd5b35
+| Date: 2024-04-26
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-26,Payload delivery,email-src,adrian.hydro@beep.pl,Source email: from adrian.hydro@beep.pl - subject: New order - 24900242 OP
+2024-04-26,Payload delivery,email-src-display-name,ICT Poland Sp. z o.o-Szuminski Lukasz,Source email: from adrian.hydro@beep.pl - subject: New order - 24900242 OP
+2024-04-26,Payload delivery,email-body,"Hello,
+
+Please be so kind as to send us your order confirmation.
+
+I'll update prices on Monday.
+
+Best regards,
+
+[REDACTED]
+_Purchasing Specialist_
+
+ICT Poland Sp. z o. o
+  . street Włoska 3
+66-470 Kostrzyn nad Odrą, Poland
+
+T: +48 95 7336 800
+F: +48 95 7336 801
+W:    www.ictgroup.net [1]
+  W:    www.foxy.eu [2]
+
+-------------------------
+
+This email was scanned by Bitdefender Please read the information clause 
+of ICT Poland sp. z oo [3] regarding Personal Data Protection. This 
+message may contain confidential information that is intended only for 
+the recipients of this message. Any disclosure, use or distribution of 
+the transmitted document is strictly prohibited. If you have received 
+this message in error, please delete it permanently and notify us 
+immediately. Thank you ----------------------------------------- Please 
+look at our Information clause [4] about Privacy Policy in ICT Poland 
+Sp. z o. o. The information contained in the present communication is 
+confidential and intended solely for the use of the intended addressees. 
+Any disclosure, distribution and/or copying of the document transmitted 
+by a not-intended recipient is strictly prohibited. If you have received 
+this communication in error please delete it from your system and notify 
+us immediately. Thank you
+
+
+
+Links:
+------
+[1] https://www.ictgroup.net/
+[2] https://www.foxy.eu/
+[3] http://crld.ictpoland.pl/informacja.html
+[4] http://crld.ictpoland.pl/informacja_en.html",Source email: from adrian.hydro@beep.pl - subject: New order - 24900242 OP
+2024-04-26,Payload delivery,email-subject,New order - 24900242 OP,Source: from adrian.hydro@beep.pl - subject: New order - 24900242 OP
+2024-04-26,Payload delivery,filename|sha256,OC 1025 - POLAND 242_pdf                                                .img|9a98398b0d84ef14a8d80f180fa3c2df7b472112686b9cc2b37eb6fdf444e9c5,Malspam attachment - source: from adrian.hydro@beep.pl - subject: New order - 24900242 OP mime: application/x-iso9660-image
+2024-04-26,Payload delivery,filename|ssdeep,OC 1025 - POLAND 242_pdf                                                .img|3072:1HHOXu7MnfUCSuxZlK2eW+zusbQfjkwqqXU9GUi/k0qUcdiCzoeH+h6iNX3WsO:lOXuonfUQZlKOdf499li/BdCzdsbXt,Malspam attachment - source: from adrian.hydro@beep.pl - subject: New order - 24900242 OP mime: application/x-iso9660-image
+2024-04-26,Payload delivery,filename|sha1,OC 1025 - POLAND 242_pdf                                                .img|d43499d83d9211e6f6bde0de52b823abb26b8400,Malspam attachment - source: from adrian.hydro@beep.pl - subject: New order - 24900242 OP mime: application/x-iso9660-image
+2024-04-26,Payload delivery,filename|sha512,OC 1025 - POLAND 242_pdf                                                .img|19c15212a27a271e1a9650c6dffa433e0cf06b6e036c2f0dca5cf588d4f7326e5e297ac665e14a867b8b844bc1f8f4dddf8d4cea0331540695ec5f504f3a73c4,Malspam attachment - source: from adrian.hydro@beep.pl - subject: New order - 24900242 OP mime: application/x-iso9660-image
+2024-04-26,Payload delivery,filename|md5,OC 1025 - POLAND 242_pdf                                                .img|2ab91729c3439413339e8bbb4de12761,Malspam attachment - source: from adrian.hydro@beep.pl - subject: New order - 24900242 OP mime: application/x-iso9660-image
+2024-04-26,Payload delivery,filename|imphash,OC 1025 - POLAND 242_pdf                                                .exe|f34d5f2d4577ed6d9ceec516c1f5a744,Extracted from OC 1025 - POLAND 242_pdf                                                .img; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|md5,OC 1025 - POLAND 242_pdf                                                .exe|9ec363ab6a3eca9e2c5ff602acc3ff45,Extracted from OC 1025 - POLAND 242_pdf                                                .img; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|sha1,OC 1025 - POLAND 242_pdf                                                .exe|d7ef6a91d8f4262b42156024256d1070286edce9,Extracted from OC 1025 - POLAND 242_pdf                                                .img; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|sha256,OC 1025 - POLAND 242_pdf                                                .exe|fe490885b402224f20947f66cce0b3e6c727e229f333cf07410814a397ac6a8e,Extracted from OC 1025 - POLAND 242_pdf                                                .img; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|sha512,OC 1025 - POLAND 242_pdf                                                .exe|001926418ad1366998d2e86736903f50aaf4ab5124c22acb8632e24ac25501c0f20588fb8231a9289a656ba4277fb78755357d6bc77aa043b29e3920118a7219,Extracted from OC 1025 - POLAND 242_pdf                                                .img; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|ssdeep,OC 1025 - POLAND 242_pdf                                                .exe|3072:KHHOXu7MnfUCSuxZlK2eW+zusbQfjkwqqXU9GUi/k0qUcdiCzoeH+h6iNX3WsO:COXuonfUQZlKOdf499li/BdCzdsbXt,Extracted from OC 1025 - POLAND 242_pdf                                                .img; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|md5,Pxptvuqf.pdf|e3b8244eaadff06da51f2278263fd8f0,Extracted from http://103.74.105.78/GRANADA/Pxptvuqf.pdf; mime: application/octet-stream
+2024-04-26,Payload delivery,filename|sha1,Pxptvuqf.pdf|7d159113049a086c06b70793dbda1033866c98d6,Extracted from http://103.74.105.78/GRANADA/Pxptvuqf.pdf; mime: application/octet-stream
+2024-04-26,Payload delivery,filename|sha256,Pxptvuqf.pdf|35ebad3a2938dd9b449026771d0d5e98ab1a2cd5fa819bead542695c5ee56661,Extracted from http://103.74.105.78/GRANADA/Pxptvuqf.pdf; mime: application/octet-stream
+2024-04-26,Payload delivery,filename|sha512,Pxptvuqf.pdf|948f8a82a830b2d282cdec22b54eab92dee9369155e027212568ae3fd8edf568f2600cf6bc2289f77d470950df669eb41aea7a6d52c7609bade2f871794e895d,Extracted from http://103.74.105.78/GRANADA/Pxptvuqf.pdf; mime: application/octet-stream
+2024-04-26,Payload delivery,filename|ssdeep,Pxptvuqf.pdf|49152:ugA6gOCPGDIAmb/BEV8ZcfAfVEswX6LRM9yGnMAoJCWfRHqQV:ugTKam/BAxofV86L29yGMlIWT,Extracted from http://103.74.105.78/GRANADA/Pxptvuqf.pdf; mime: application/octet-stream
+2024-04-26,Network activity,email-dst,angelsauerwein@gmail.com,Source: Network activity from Pxptvuqf.pdf; data exfiltration via SMTP
+2024-04-26,Network activity,url,http://103.74.105.78/GRANADA/Pxptvuqf.pdf,Source: Network activity from OC 1025 - POLAND 242_pdf                                                .exe
+2024-04-26,Network activity,url,https://api.ipify.org/,Source: Network activity from OC 1025 - POLAND 242_pdf                                                .exe
+2024-04-26,Network activity,email-dst,info@creolupatoto.it,Source: Network activity from Pxptvuqf.pdf; data exfiltration via SMTP
+2024-04-26,Network activity,domain,smtp.creolupatoto.it,Source: Network activity from Pxptvuqf.pdf; data exfiltration via SMTP

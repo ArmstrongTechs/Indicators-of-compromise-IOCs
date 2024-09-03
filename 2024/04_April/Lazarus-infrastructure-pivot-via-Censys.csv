@@ -1,0 +1,112 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lazarus infrastructure (pivot via Censys)
+| UUID: 251a72a3-6229-4b4d-85a6-ba6d080dc1af
+| Date: 2024-04-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-24,Network activity,ip-dst|port,147.124.212.89|1244,On port 1244
+2024-04-24,Network activity,ip-dst|port,147.124.214.129|1244,On port 1244
+2024-04-24,Network activity,ip-dst|port,147.124.214.131|1244,On port 1244
+2024-04-24,Network activity,ip-dst|port,147.124.214.237|1244,On port 1244
+2024-04-24,Network activity,ip-dst|port,67.203.7.171|1244,On port 1244
+2024-04-24,Network activity,ip-dst|port,67.203.7.245|1244,On port 1244
+2024-04-24,Other,text,Cyberteam008,
+2024-04-24,Other,text,censys,
+2024-04-24,Other,text,"services.http.response.body_hashes=""sha256:e74dc1314bdb5dee30e2882734167dbdb82667346a54d38170212c953787b08c""",
+2024-04-24,Network activity,ip-dst,147.124.214.129,
+2024-04-24,Network activity,ip-dst,147.124.214.131,
+2024-04-24,Network activity,ip-dst,147.124.214.237,
+2024-04-24,Network activity,ip-dst,67.203.7.171,
+2024-04-24,Network activity,ip-dst,67.203.7.245,
+2024-04-24,Network activity,ip-dst,147.124.212.89,
+2024-04-24,Network activity,port,1244,
+2024-04-24,Other,text,"#Censys Query for #Lazarus #APT
+
+services.http.response.body_hashes=""sha256:e74dc1314bdb5dee30e2882734167dbdb82667346a54d38170212c953787b08c""
+
+Infra:
+147.124.212[.]89
+147.124.214[.]129
+147.124.214[.]131
+147.124.214[.]237
+67.203.7[.]171
+67.203.7[.]245
+
+@500mk500
+ #Malware #ioc #CTI",
+2024-04-24,External analysis,link,https://twitter.com/Cyberteam008/status/1782983614701162993,
+2024-04-24,Other,text,Cyberteam008,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/ip_address/147.124.214.129,
+2024-04-24,Other,text,1/90,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/url/b5a001a02bd72cd7d636ab972c3f94c752b699469497cb07bdc83f6a94c16263,
+2024-04-24,Other,text,1/92,
+2024-04-24,Network activity,url,https://147.124.214.129/,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/url/7653aa05dcd8d6877ed0e81e40c77767ae20a6ce617886e5867457293232a4d1,
+2024-04-24,Other,text,0/92,
+2024-04-24,Network activity,url,http://147.124.214.129/,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/url/2d6fdf38f306cbfd5e4ca5c143a1a86f21e8c8dfc5931b4c666a9c21184768dc,
+2024-04-24,Other,text,0/93,
+2024-04-24,Network activity,url,http://147.124.214.129:1244/payload/unVzOQ8,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/ip_address/147.124.214.237,
+2024-04-24,Other,text,1/90,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/url/5b3c3e2db032e8bd94ddd49f02def60cb357e620d3e28d240e4bc35c2a94dd8c,
+2024-04-24,Other,text,0/92,
+2024-04-24,Network activity,url,http://147.124.214.237:1244/brow,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/url/d61ed447badff5db96eeec028b74aa79c02b9e56f604a4f1ec496d8f0286ee6e,
+2024-04-24,Other,text,0/92,
+2024-04-24,Network activity,url,http://147.124.214.237:1244/pdown,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/url/c01fbe5731f89e487be2ed9e9efeac95586ec1e0367118dba6e38f9f39cd68da,
+2024-04-24,Other,text,0/92,
+2024-04-24,Network activity,url,http://147.124.214.237:1244/payload%20C966DB7F818B24170E373FAB10580D88,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/url/254709110cd9407cb1bcd2bda82c5fc63145779a2f326a876f06a344173ccf33,
+2024-04-24,Other,text,0/92,
+2024-04-24,Network activity,url,http://147.124.214.237:1244/adc,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/url/5a8711914d6c9de4a459501d2a161dc780803be7685ff479adc90988b91bed48,
+2024-04-24,Other,text,0/92,
+2024-04-24,Network activity,url,https://147.124.214.237:1244/,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/ip_address/147.124.212.89,
+2024-04-24,Other,text,2/90,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/url/c85c0cfe5e9f940881d451dadc465a72e10315fd8fae5ce11131a5eb6db9aef9,
+2024-04-24,Other,text,2/92,
+2024-04-24,Network activity,url,https://147.124.212.89/,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/url/bdae7860e68019ec150666e3dfd7a2fac153f59a237632ace42e09d92dd19973,
+2024-04-24,Other,text,2/92,
+2024-04-24,Network activity,url,http://147.124.212.89/,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/url/af04a334c9895c01ca73163345c8510bae4087df412046cfc42eba81124acace,
+2024-04-24,Other,text,0/90,
+2024-04-24,Network activity,url,http://147.124.212.89:1224/,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/url/9be7fa7ec41794190c7125d8457411a757422e754f8d3b15b55587e51096b3fe,
+2024-04-24,Other,text,0/90,
+2024-04-24,Network activity,url,http://147.124.212.89:1244/,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/url/a37f36b92a3ac0bc8afe4f4787f99073e10640e7d1ce355f1b898c4ad1f6398f,
+2024-04-24,Other,text,0/90,
+2024-04-24,Network activity,url,http://147.124.212.89:1244/node/18.18,
+2024-04-24,Network activity,ip-dst,147.124.212.89,
+2024-04-24,Network activity,domain,www.tracksmobiles.com,
+2024-04-24,Network activity,domain,tracksmobiles.com,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/ip_address/67.203.7.171,
+2024-04-24,Other,text,1/90,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/url/1e660e42711d2b6a08c50ef095647906c918f7f4c0d21220a4f8fdb8767f47f1,
+2024-04-24,Other,text,1/92,
+2024-04-24,Network activity,url,https://67.203.7.171/,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/url/a77237b06a5e164f05731f954ff8f3f8ccff2e3588d7807b79981a7510b041ca,
+2024-04-24,Other,text,0/92,
+2024-04-24,Network activity,url,http://67.203.7.171:1244/keys,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/url/3ecc56fdf81ae926693d85ed7dac3c988570adbc6e5cb3d72436c65123bb0bc8,
+2024-04-24,Other,text,0/93,
+2024-04-24,Network activity,url,http://67.203.7.171/,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/url/2c7956ea5db66e46d794d6f4e0100f844189959e297d931e53b6ca33fb50e338,
+2024-04-24,Other,text,0/92,
+2024-04-24,Network activity,url,http://67.203.7.171:1244/pdown,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/ip_address/67.203.7.245,
+2024-04-24,Other,text,1/90,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/url/00d3fda989f4aed38c3aac2f62f2554cf50e06e91fc95eef532e95e906afe240,
+2024-04-24,Other,text,1/92,
+2024-04-24,Network activity,url,https://67.203.7.245/,
+2024-04-24,External analysis,link,https://www.virustotal.com/gui/url/cb7cfbc3ad3983126d8ad2bf7d55c8bd42a02a44ae5e91bf74f1931ce248c860,
+2024-04-24,Other,text,0/92,
+2024-04-24,Network activity,url,http://67.203.7.245/,

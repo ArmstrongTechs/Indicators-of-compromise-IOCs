@@ -1,0 +1,17 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Campaña de Phishing Afecta a América Latina-167
+| UUID: 60c2f95f-5909-41b6-807b-bb944fd4c400
+| Date: 2024-04-11
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-12,External analysis,attachment,BOLETÍN 167.pdf,Phishing
+2024-04-12,Payload delivery,ip-src,86.38.217.167,
+2024-04-12,Network activity,url,https://facturasmex.cloud,
+2024-04-12,Network activity,url,https://facturas.co.in/index.php?va,
+2024-04-12,Network activity,url,http://ad2.gotdns.ch/22/22,
+2024-04-12,Network activity,url,http://86.38.217.167/ps/index.php,
+2024-04-12,Network activity,url,https://www.dropbox.com/scl/fi/k6hxua7lwt1qcgmqou6q3/m.zip?rlkey=7wu6x4pfvbt64atx11uqpk34l&dl=1,

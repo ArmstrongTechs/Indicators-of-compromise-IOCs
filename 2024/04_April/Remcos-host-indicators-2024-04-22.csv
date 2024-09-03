@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-04-22]
+| UUID: cd454a0c-6f91-4bd4-b346-9ef34adeba8f
+| Date: 2024-04-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-22,Payload installation,filename,Purchase order.exe,Source: MalwareBazaar
+2024-04-22,Payload installation,md5,705d73d4166016b0f796cebcfeaaf193,Source: MalwareBazaar
+2024-04-22,Payload installation,sha1,64ee8d2ebf84a3930c5d91c87c3908ac27fbb44e,Source: MalwareBazaar
+2024-04-22,Payload installation,sha256,53701f94519023a803a81a34fc0ef08176dbd91f3ab45c889e1ce38d5588ca57,Source: MalwareBazaar
+2024-04-22,Payload installation,filename,Quotation 20242204.exe,Source: MalwareBazaar
+2024-04-22,Payload installation,md5,603c7916d424615645d6ee0fffa00011,Source: MalwareBazaar
+2024-04-22,Payload installation,sha1,6f464f23eb81606067f93036dc5cdc61f7bb855b,Source: MalwareBazaar
+2024-04-22,Payload installation,sha256,25adcfe6b38aead70b4b0020ecba72d0343b6f3d3bb406100593b7f1349e0300,Source: MalwareBazaar
+2024-04-22,Payload installation,filename,1353d2318463be28ebcffe36398b90b873ee21e2bde3d03f929103729c4b95ea,Source: MalwareBazaar
+2024-04-22,Payload installation,md5,ef53493176b714d7c8c972a756cfd806,Source: MalwareBazaar
+2024-04-22,Payload installation,sha1,c7c08850f9dd1706a2a2a5b456f5de2b25eb200c,Source: MalwareBazaar
+2024-04-22,Payload installation,sha256,1353d2318463be28ebcffe36398b90b873ee21e2bde3d03f929103729c4b95ea,Source: MalwareBazaar
+2024-04-22,Payload installation,filename,SecuriteInfo.com.Win32.RATX-gen.9491.24773,Source: MalwareBazaar
+2024-04-22,Payload installation,md5,b9fc527ee5dc9f450fa3963cc759271a,Source: MalwareBazaar
+2024-04-22,Payload installation,sha1,20f8abdaeb996ff68376d324aff3274771e4e089,Source: MalwareBazaar
+2024-04-22,Payload installation,sha256,cf10c660707993307c44880f02405f59c2970b4de12bfb3d53a593d002c01908,Source: MalwareBazaar
+2024-04-23,Payload installation,filename,z1PROOFOFPAYMENT.exe,Source: MalwareBazaar
+2024-04-23,Payload installation,md5,3b8dd99d65b19a84a276a05804005790,Source: MalwareBazaar
+2024-04-23,Payload installation,sha1,c300f31e8e67b4bd92504b94d5d2294b0f8ef5cb,Source: MalwareBazaar
+2024-04-23,Payload installation,sha256,efbde8c3fc0f8f18b6b2c93fae4c7aaaa137f866a9d112ebdc534b8477485261,Source: MalwareBazaar

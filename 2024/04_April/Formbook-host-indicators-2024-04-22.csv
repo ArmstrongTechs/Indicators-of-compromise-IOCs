@@ -1,0 +1,42 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-04-22]
+| UUID: 140a5179-5d0f-4186-948b-f47afa140109
+| Date: 2024-04-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-22,Payload installation,filename,Bank Details.pdf.r00,Source: MalwareBazaar
+2024-04-22,Payload installation,md5,a4f56daa5924b54370930a94c2047d36,Source: MalwareBazaar
+2024-04-22,Payload installation,sha1,fd8d5b13ca8f3180e3d9f32c9b3f78f96adabb47,Source: MalwareBazaar
+2024-04-22,Payload installation,sha256,938db96ba8d7805216d1159da38fab4bdd45cf95c33190962ab3337e7ad6ccec,Source: MalwareBazaar
+2024-04-22,Payload installation,filename,e-dekont.exe,Source: MalwareBazaar
+2024-04-22,Payload installation,md5,58db43a9087d3af17522ac42343acbe1,Source: MalwareBazaar
+2024-04-22,Payload installation,sha1,2d97c695aec999efa7fa8581d694043aca69b19f,Source: MalwareBazaar
+2024-04-22,Payload installation,sha256,bdadf851c69beb16aad5e8b8a69c665a27d74038edb1d7dc8633a361792ab73d,Source: MalwareBazaar
+2024-04-22,Payload installation,filename,PO-095325.scr,Source: MalwareBazaar
+2024-04-22,Payload installation,md5,8a2db6ab856ae6a0afc7f26dad7b5c03,Source: MalwareBazaar
+2024-04-22,Payload installation,sha1,b18d616925dbb434dbc93e5ba69f15c1c0f09a81,Source: MalwareBazaar
+2024-04-22,Payload installation,sha256,38e5e3e1fc431520dbf8944828ad847ea054ea8ffda2f579e2c29bc53a84f94a,Source: MalwareBazaar
+2024-04-22,Payload installation,filename,REMITTANCE ADVICE IF01200022823418 Match 2024.exe,Source: MalwareBazaar
+2024-04-22,Payload installation,md5,61a51c6847dc4788e0eaf38800489e75,Source: MalwareBazaar
+2024-04-22,Payload installation,sha1,fd5564578d59e4baa4ac6736a21b43bb9f7a1578,Source: MalwareBazaar
+2024-04-22,Payload installation,sha256,3646566b30dd4fcaebe585cdeb623eb715a0f295f74e057d7119ba82b1e88377,Source: MalwareBazaar
+2024-04-22,Payload installation,filename,doc.exe,Source: MalwareBazaar
+2024-04-22,Payload installation,md5,9baff5d7de2b4d78b3111af26793d416,Source: MalwareBazaar
+2024-04-22,Payload installation,sha1,6c8c89284c9ba87975be7ec69269d3df7617493d,Source: MalwareBazaar
+2024-04-22,Payload installation,sha256,12c735086c6b7f4d3d160b4a98d901d264ccdaa6fd1b2117483e9d84abdbb15a,Source: MalwareBazaar
+2024-04-23,Payload installation,filename,INQ No.KP-50-000-PS-IN-INQ-0027.exe,Source: MalwareBazaar
+2024-04-23,Payload installation,md5,bbff23df16433c89c140a0f6c5d3541e,Source: MalwareBazaar
+2024-04-23,Payload installation,sha1,b9a11d2d4fdf5310ff692942ed7d7856574af83b,Source: MalwareBazaar
+2024-04-23,Payload installation,sha256,28e94d28c0ef766cff0b765f103a336c4d7657460cb1e811b1a16e12c645401d,Source: MalwareBazaar
+2024-04-23,Payload installation,filename,rPayment_AdviceJ001222042024.bat,Source: MalwareBazaar
+2024-04-23,Payload installation,md5,3fad02c17d0c2aa3d844751dca796a73,Source: MalwareBazaar
+2024-04-23,Payload installation,sha1,abcd5c5a24ff25a82ad7bb066c395d7e342db4da,Source: MalwareBazaar
+2024-04-23,Payload installation,sha256,aed7c4e379f2143449f6fda74b700945492d4653bf164f1b7b1906eb294477c3,Source: MalwareBazaar
+2024-04-23,Payload installation,filename,Unpaid Orders.exe,Source: MalwareBazaar
+2024-04-23,Payload installation,md5,a8840ab3795a9da734322e577d8562ea,Source: MalwareBazaar
+2024-04-23,Payload installation,sha1,479416944428b322eb81421535f457803088404c,Source: MalwareBazaar
+2024-04-23,Payload installation,sha256,dd64934df95a8678e303aaef7b1b8b58caa68a039e3f50788c7c88f408e93432,Source: MalwareBazaar

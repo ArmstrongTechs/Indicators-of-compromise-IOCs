@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Emotet host indicators [2024-04-17]
+| UUID: 60ad8ebc-72a2-4b45-9614-2967fa814b06
+| Date: 2024-04-17
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-17,Payload installation,filename,Doc_m42_81h118103-88o62135w8623-1999q9.js,Source: MalwareBazaar
+2024-04-17,Payload installation,md5,d174e68fe3458262e53dee5036eeb15e,Source: MalwareBazaar
+2024-04-17,Payload installation,sha1,9629e313a6299e600ff2c6086a24e3ad6ff6ba59,Source: MalwareBazaar
+2024-04-17,Payload installation,sha256,092962bc268390debf17cd148d03147cdf919e442e61c92de01eac3bdb34b1c1,Source: MalwareBazaar
+2024-04-17,Payload installation,filename,forcedelctl.dll,Source: MalwareBazaar
+2024-04-17,Payload installation,md5,b28a478eb5b99efcdc7caf428bffb89a,Source: MalwareBazaar
+2024-04-17,Payload installation,sha1,d394c7b8fe15753bfbff79fb4f648f6f8bae70f9,Source: MalwareBazaar
+2024-04-17,Payload installation,sha256,3bca1dcaef4430272b9029c9a4bc8be0d45ecff66e8de8679ed30d8afab00f6f,Source: MalwareBazaar
+2024-04-18,Payload installation,filename,payload.js,Source: MalwareBazaar
+2024-04-18,Payload installation,md5,f9798babee04ced0b65d4e7249aa0ce3,Source: MalwareBazaar
+2024-04-18,Payload installation,sha1,fa8a2f69f4b84ddd241dd7288a01c768404ffedf,Source: MalwareBazaar
+2024-04-18,Payload installation,sha256,6d953223090c61bd00ba9a174559e57ce39b794c6fe88880a97487a32b09855a,Source: MalwareBazaar
+2024-04-18,Payload installation,filename,deobfuscated.js,Source: MalwareBazaar
+2024-04-18,Payload installation,md5,972c9ea0e66cc32de5538d06a254982c,Source: MalwareBazaar
+2024-04-18,Payload installation,sha1,b75f48301203517c0bd400601fd79144c82b9f5d,Source: MalwareBazaar
+2024-04-18,Payload installation,sha256,ea13d6516f8495adb58f5aabe1961be79833696c6172f71d02885e36b8b01a68,Source: MalwareBazaar

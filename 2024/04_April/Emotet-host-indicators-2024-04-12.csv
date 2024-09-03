@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Emotet host indicators [2024-04-12]
+| UUID: 13e63122-ff35-4285-a02c-304cb6394822
+| Date: 2024-04-12
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-13,Payload installation,filename,DPO_SEC23-1_OMA_P-3_18-ENG.pdf.cmd,Source: MalwareBazaar
+2024-04-13,Payload installation,md5,ba1859659089253621e5a65181ea94cd,Source: MalwareBazaar
+2024-04-13,Payload installation,sha1,724f4cfcb3a8701328b4bbef43dd94a404fe71c9,Source: MalwareBazaar
+2024-04-13,Payload installation,sha256,8f8abfa6717ad2043a295d16b5aeeac3e7084b7994f6eec8351e18a9a3c59997,Source: MalwareBazaar

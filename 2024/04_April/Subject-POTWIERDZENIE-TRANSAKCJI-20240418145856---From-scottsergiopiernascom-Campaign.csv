@@ -1,0 +1,140 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: POTWIERDZENIE TRANSAKCJI 20240418145856 - From: scott@sergiopiernas.com"" Campaign"
+| UUID: 377a9fe4-cb9c-4037-ac9e-debc6e70ccdb
+| Date: 2024-04-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-19,Payload delivery,email-src,scott@sergiopiernas.com,Source email: from scott@sergiopiernas.com - subject: POTWIERDZENIE TRANSAKCJI 20240418145856
+2024-04-19,Payload delivery,email-src-display-name,AgnieszkaFrańczak,Source email: from scott@sergiopiernas.com - subject: POTWIERDZENIE TRANSAKCJI 20240418145856
+2024-04-19,Payload delivery,email-body,"Dobry dzień 
+
+
+
+Pani Monika w załączeniu przesyłam potwierdzenie płatności. 
+
+
+
+
+Pozdrawiam, 
+
+mgr inż. Agnieszka Frańczak 
+
+Site Engineer 
+
+
+
+e-mail: [ [REDACTED]| [REDACTED]] 
+
+tel.: 724 234 534",Source email: from scott@sergiopiernas.com - subject: POTWIERDZENIE TRANSAKCJI 20240418145856
+2024-04-19,Payload delivery,email-subject,POTWIERDZENIE TRANSAKCJI 20240418145856,Source: from scott@sergiopiernas.com - subject: POTWIERDZENIE TRANSAKCJI 20240418145856
+2024-04-19,Payload delivery,filename|sha256,POTWIERDZENIE_TRANSAKCJI_20240418145856.7z|b74d9ca1c10f8f6a35c16493a7db5fd3836b2054f1742d382b3c8f9a1911d302,Malspam attachment - source: from scott@sergiopiernas.com - subject: POTWIERDZENIE TRANSAKCJI 20240418145856 mime: application/x-7z-compressed
+2024-04-19,Payload delivery,filename|ssdeep,POTWIERDZENIE_TRANSAKCJI_20240418145856.7z|24576:fbJRhTzdb4oA1oR6/98GfYBtE4XxP6jpUNwilLz9aigmJhlf8fviI+bpHf:lTJk1owqIYB24N6jpUGAhPQf0pHf,Malspam attachment - source: from scott@sergiopiernas.com - subject: POTWIERDZENIE TRANSAKCJI 20240418145856 mime: application/x-7z-compressed
+2024-04-19,Payload delivery,filename|sha1,POTWIERDZENIE_TRANSAKCJI_20240418145856.7z|dfb792d0d6f7b36fc6ecf135a5d19f3b7552e93a,Malspam attachment - source: from scott@sergiopiernas.com - subject: POTWIERDZENIE TRANSAKCJI 20240418145856 mime: application/x-7z-compressed
+2024-04-19,Payload delivery,filename|sha512,POTWIERDZENIE_TRANSAKCJI_20240418145856.7z|527fc78c6d5410b4cd515be3d03591dd45d6b915de335249c0ca9914283181445eb7be2a9ef5363dadf557b5f421377b4883201812dcea72c31f0c61a903cea4,Malspam attachment - source: from scott@sergiopiernas.com - subject: POTWIERDZENIE TRANSAKCJI 20240418145856 mime: application/x-7z-compressed
+2024-04-19,Payload delivery,filename|md5,POTWIERDZENIE_TRANSAKCJI_20240418145856.7z|5529b165d5c66d04fe28e4c2934bafe6,Malspam attachment - source: from scott@sergiopiernas.com - subject: POTWIERDZENIE TRANSAKCJI 20240418145856 mime: application/x-7z-compressed
+2024-04-19,Payload delivery,filename|sha1,POTWIERDZENIE_TRANSAKCJI_20240418145856.exe|e9ef032f011a0db8c2ed5d0573800b8abc06fc32,Archive contents - source: POTWIERDZENIE_TRANSAKCJI_20240418145856.7z mime: application/x-dosexec
+2024-04-19,Payload delivery,filename|imphash,POTWIERDZENIE_TRANSAKCJI_20240418145856.exe|e2a592076b17ef8bfb48b7e03965a3fc,Archive contents - source: POTWIERDZENIE_TRANSAKCJI_20240418145856.7z mime: application/x-dosexec
+2024-04-19,Payload delivery,filename|ssdeep,POTWIERDZENIE_TRANSAKCJI_20240418145856.exe|24576:fnSOQYR6LyVdgf1A9oi6QW8GpYIuEMnxP4jptmKulwhosdgrJhmfnf+kMLbp:/VRnt9oiNAYIdM94jptJbnE+fwp,Archive contents - source: POTWIERDZENIE_TRANSAKCJI_20240418145856.7z mime: application/x-dosexec
+2024-04-19,Payload delivery,filename|sha256,POTWIERDZENIE_TRANSAKCJI_20240418145856.exe|ea310af953089060b7bc1d94409996ec463a7bf0c6bb874ae984365b6f536c49,Archive contents - source: POTWIERDZENIE_TRANSAKCJI_20240418145856.7z mime: application/x-dosexec
+2024-04-19,Payload delivery,filename|sha512,POTWIERDZENIE_TRANSAKCJI_20240418145856.exe|f64f20526e5fb6346774e8edaf9578d55aa9f0d579daeb4bce62bc78981a150ad767764576a89a98366a38a9c1bf879a49ed57773e7383fdf677f1ed8b5a4d1e,Archive contents - source: POTWIERDZENIE_TRANSAKCJI_20240418145856.7z mime: application/x-dosexec
+2024-04-19,Payload delivery,filename|md5,POTWIERDZENIE_TRANSAKCJI_20240418145856.exe|c158865f5b408afda4774cfa56600795,Archive contents - source: POTWIERDZENIE_TRANSAKCJI_20240418145856.7z mime: application/x-dosexec
+2024-04-19,Payload delivery,filename|imphash,nsExec.dll|0b75f1007d3cc8e457970ae3e3fd53c3,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/x-dosexec
+2024-04-19,Payload delivery,filename|md5,nsExec.dll|c5b9fe538654a5a259cf64c2455c5426,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/x-dosexec
+2024-04-19,Payload delivery,filename|sha1,nsExec.dll|db45505fa041af025de53a0580758f3694b9444a,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/x-dosexec
+2024-04-19,Payload delivery,filename|sha256,nsExec.dll|7b51372117960e84d6f5eb3a26810cc044ff02283b3d656a0a456b0ab5cb8ea7,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/x-dosexec
+2024-04-19,Payload delivery,filename|sha512,nsExec.dll|f0f8a5570c01b16e54f47502e867ffbaf162b44a847c0ffc8062d20e9492114229de5d9d2a836da256fd3f9fb493536bdbf148d5308695b16c0e98d20d8926aa,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/x-dosexec
+2024-04-19,Payload delivery,filename|ssdeep,nsExec.dll|96:xr7fhfKaGgchPzxK6bq+pKX6D8ZLidGgmkNL38:xxbGgGPzxeX6D8ZyGgmkN,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/x-dosexec
+2024-04-19,Payload delivery,filename|md5,Archdruid.Cha|83ba828d6568bdc7fb953f7c4293ffa9,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha1,Archdruid.Cha|c206c56664b2753b4793a503a9f51faff7a9e404,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha256,Archdruid.Cha|9f854a224a787b15c7fca51a1eb994a9cdd008d27d5840cac43ab69ff75d0c2a,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha512,Archdruid.Cha|f701f8f651df6bce96c6006baa9ea0243392bc1ce06b6fe5ab9c56d6934f77a33fb585f9dde826d0fe998a6bc5ba54fec15999163cb1516eca950e8fed337dbc,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|ssdeep,Archdruid.Cha|6144:ZwFkWMTSkVp7pfNiqWoGv/JQjnYYLN8yz6sV3sJgOYM/qxicrjc9CfwzA:eaWMRp7jdCCjYYLxz6qcJgOBfck9Cfw0,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|md5,trampdampers.dep|ad0cf2befff1e7e3bfb8aaa9fee296cd,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha1,trampdampers.dep|869ca39d25ccf7f444cdc43dae0ea43d422a04ba,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha256,trampdampers.dep|7105b0cbcbae3f66149226fbb69aba9c962b57baf4d73d8deff17641b6e74122,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha512,trampdampers.dep|3d6fc1e8bfaf0d950724f44c280789d7a4d0f30086a04b819fab012a89e8e29134a5d67a58d1d314021d9dde6132db80b7dabccd72605f2c972c5ae0544080e2,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|ssdeep,trampdampers.dep|768:6gB9tQr69VzVkyyVJryZdWa5nr5VDE9uMFXRSL9cPa8doPfhMs2XdID136s8HGvy:6iyVsl8aC0enniJMubneJ,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|md5,chally.dol|2533e167523de4d1713180559fd84fa4,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha1,chally.dol|013e6d9f9ea65f0099e8b5fc84857398402b02a6,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha256,chally.dol|3763b932902b37eb73414ef5fb11f22acbaf58fa660647f241acc34898415a90,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha512,chally.dol|d168de0e2cd7844f8b05c5668476d8ed401d2e32e55725c4672746df978fa3609291c92e7fb521144435a7c415f1e2a4f67a7ed6cc7b3c9631d38ab9787ae005,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|ssdeep,chally.dol|1536:1XPgC58aYEXr66yLkBStzkKYtvajWrLhvs4zNbzO5f2yi4N/ZhK:RPnCE7oQAcvayr9tzNbKd2yiwhhK,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|md5,indsttelse.sag|1cb0e6e25a657106f7a457a8a785ce92,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha1,indsttelse.sag|276be88e092289008938c06e6c490ccd7e1b1efd,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha256,indsttelse.sag|7da701edcd07376b4f6950f4cc2c2f6663041870880ec422fb887b89faa065f1,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha512,indsttelse.sag|0d25015a0a4632ce6bfa45b438e3bd34ef9e43fa816f7f76ca46cf68662b8dd81c8b8f2b8e4ca53e624c3e2517edc45b29f0bc9c34884fd0c1faecc7fdd5fdda,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|ssdeep,indsttelse.sag|768:kyH59d8nTgRIV6oXNtEI2STmEgUdwoawjwTgz95d1xql+OWlGm3Pxi8xpzj3lEY3:P8/2gr6m3DZbgJ1hmi/DkZ,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|md5,innocuously.trk|b9f18ca02dd6f6da68eb41d5c4e15331,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha1,innocuously.trk|cb89c081d43c2bd1c75e66a2b3de62dc74b8292a,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha256,innocuously.trk|44e7928cc47cc9b612a0e9ab0ee035370f186b71e9c1be55dcf05558fa2685c7,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha512,innocuously.trk|1ad63a9c22ed6927aa13cb44689dc5460250d9628279d77dd6e8f8d41386e9daf304373695ffe86e8dcc8ad802d3fdf33fbfeef3b7980f8af285889f4f75fafc,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|ssdeep,innocuously.trk|768:VKDEO79lNs/YXfzv63rDSbMO32wdM5zV/0NvS3PZnvMHLvVP8eyb9Fgc8xi74N5a:kjU5wGj/MVcFnUr,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|md5,rebatement.has|ff6f0386265431d577499b8c7d008314,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha1,rebatement.has|44ce37a270f23bfd46e2b6680d7d53ae883961da,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha256,rebatement.has|b264923463f48f53a68acb7d53fd2ce5bc9d1874728e48c78bac3c7b84663455,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha512,rebatement.has|478a89f53174642261a34fa00927709f8b493e6e3261331ef7c610d54fc40969240507c690c50b2cc396974dcb749861477de5bf006371dff292680b27644163,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|ssdeep,rebatement.has|1536:kfEjpv7Pl6H4SbqDb47cbMEyhSbUAO3LzwD7Z:kUpv3WqDk57hSb,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|md5,sandaler.txt|fc5898de1bd6e5fe091ffa1e754982e9,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: text/plain
+2024-04-19,Payload delivery,filename|sha1,sandaler.txt|bcf74b774a82da3e3cac7af4c29556447c0c5a0e,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: text/plain
+2024-04-19,Payload delivery,filename|sha256,sandaler.txt|7e257111ea2dbdaab70b3cdae427a2c733d70f1c98e2a32bc5a77c63be3d4025,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: text/plain
+2024-04-19,Payload delivery,filename|sha512,sandaler.txt|807086e0a5883af9dad54807477d0c2ba35f4cb139447270f92fce2b85a80b34ccb5a77507c4f026273a4352e6d47eac019b8e6aa5ab047b1b15954abc812b15,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: text/plain
+2024-04-19,Payload delivery,filename|ssdeep,sandaler.txt|6:CxIRmuJjXW5AX9dbuzkpIVHtm4iiACDAOLqLiGyfdJDMrbVW0n:OIRLWAtdWk8HiPCD8Llyf8M0n,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: text/plain
+2024-04-19,Payload delivery,filename|md5,Assizing.cel|0fab06bb6a4bb067a0974df27fe29533,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha1,Assizing.cel|617419f6c83ef466a1f626677c00b79842eca5f9,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha256,Assizing.cel|5c1221518fb188c0f354fe975670f8635c934fd9eedf2b8cf341f07f7a056354,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha512,Assizing.cel|972e437ec5c7fc6f4970d204ee75ae07da49d0cded3a9ac9c8e16d07622eaadd39d47d23e8dc4ee9054d70d29f059bf70062f889a896d913065bcbc6d5e365da,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|ssdeep,Assizing.cel|1536:NifXMZDHypRmHh5vGO1XaqA08IRZSyfYVxSZTeSrBF:s8ZDSpuPsI0XYrB,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|md5,Deklameringens193.mon|68a14f53152aeff133c3ee5da148f7a5,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha1,Deklameringens193.mon|442f7c79a9c6f7e9815c8ff44eee4d8eca93a66b,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha256,Deklameringens193.mon|9107d9152a1d4c6da6c6c08d2dd9c3dade1cd82aae6537062b7e31bac7b0d5a9,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha512,Deklameringens193.mon|1376614c887560b7aa6ba96c83e441525f927a98533be1ddcd41b55d3b488fe7422f55174ad0bab1d4322db70deecf6b9c341f8c6c44c4fe1cf726dbaa834ab5,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|ssdeep,Deklameringens193.mon|1536:o3A/sa+ACCWLLYcxpS6s0As6jngM54Mhq:eIFCCwscxQHAqgM54f,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|md5,Swingletail.Afs|c6975a8788b6f2b3aba7386c0fe0a8e1,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: text/plain
+2024-04-19,Payload delivery,filename|sha1,Swingletail.Afs|cc7127f4dd95a50b54c4649141b0daf852862d65,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: text/plain
+2024-04-19,Payload delivery,filename|sha256,Swingletail.Afs|853c24bafd0a2190b3cc9ff48fe4977bdd6a862d4ea64f300c59301bfdf2bc47,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: text/plain
+2024-04-19,Payload delivery,filename|sha512,Swingletail.Afs|e8924fcdec50fd385d7602e658b9195aa9560d614e7f717198c2f38e4cbe006d42d3c9c75100223bf0f1a66a4017d698f685b2788929507423de3dc10570d7ca,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: text/plain
+2024-04-19,Payload delivery,filename|ssdeep,Swingletail.Afs|1536:1fa9YXM+9Aul1+rlc773PZmZfOk5mgwHyTN/KWtpaS6VM1bKR:U9mP1Yc7FLkzVKqpaS66KR,Extracted from POTWIERDZENIE_TRANSAKCJI_20240418145856.exe; mime: text/plain
+2024-04-19,Network activity,domain,aneiina.top,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,domain,avolci.com,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Payload delivery,filename|md5,dcSqNFyRrLQboB215.bin|6ccde34b612cc6ec70faf25b9910aaf4,Downloaded from https://kraljevikonaci.rs/dcSqNFyRrLQboB215.bin; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha1,dcSqNFyRrLQboB215.bin|8c4f73658d77953cbc1b7f5fd960e93ab10fff19,Downloaded from https://kraljevikonaci.rs/dcSqNFyRrLQboB215.bin; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha256,dcSqNFyRrLQboB215.bin|d684ecb11aa94858a5eacd74f94d1e0624486d572ee23045fd2dee6a39c84353,Downloaded from https://kraljevikonaci.rs/dcSqNFyRrLQboB215.bin; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|sha512,dcSqNFyRrLQboB215.bin|19a997fbe55e29059f1859c51c46b479effb814961077f085687254bf06552ff529f7f31a2da7ea32359d080bc9c93b4adaf53b548b1ed19b80b30b814d1560d,Downloaded from https://kraljevikonaci.rs/dcSqNFyRrLQboB215.bin; mime: application/octet-stream
+2024-04-19,Payload delivery,filename|ssdeep,dcSqNFyRrLQboB215.bin|6144:7qsdAsFjpErBCeL+Dk11rSkoTKiPxJwBwCcZPuN+54TEhvuA3:7hA4pErBZL+A11rSkCKOrwwVpuw5lhvj,Downloaded from https://kraljevikonaci.rs/dcSqNFyRrLQboB215.bin; mime: application/octet-stream
+2024-04-19,Network activity,domain,electra-airways.info,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,domain,eternalsunrise.xyz,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,domain,fraternize.org,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,url,http://www.aneiina.top/9pdo/,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,url,http://www.avolci.com/9pdo/,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,url,http://www.electra-airways.info/9pdo/,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,url,http://www.eternalsunrise.xyz/9pdo/,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,url,http://www.fraternize.org/9pdo/,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,url,http://www.huatihui2.com/9pdo/,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,url,http://www.info1search.online/9pdo/,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,url,http://www.jt-berger.store/9pdo/,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,url,http://www.klingerlumberltd.com/9pdo/,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,url,http://www.maaltijdkado.com/9pdo/,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,url,http://www.n-benriya002.com/9pdo/,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,url,http://www.realestateselfie.com/9pdo/,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,url,http://www.roundhaygardenscene.com/9pdo/,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,url,http://www.scwspark.com/9pdo/,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,url,http://www.stevethatcher.com/9pdo/,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,url,http://www.thegochettway.com/9pdo/,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,url,http://www.zwetststuren.cfd/9pdo/,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,url,https://kraljevikonaci.rs/dcSqNFyRrLQboB215.bin,Source: Network activity from Archdruid.Cha
+2024-04-19,Network activity,domain,huatihui2.com,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,domain,info1search.online,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,domain,jt-berger.store,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,domain,klingerlumberltd.com,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,domain,maaltijdkado.com,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,domain,n-benriya002.com,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,domain,realestateselfie.com,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,domain,roundhaygardenscene.com,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,domain,scwspark.com,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,domain,stevethatcher.com,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,domain,thegochettway.com,Source: Network activity from dcSqNFyRrLQboB215.bin
+2024-04-19,Network activity,domain,zwetststuren.cfd,Source: Network activity from dcSqNFyRrLQboB215.bin

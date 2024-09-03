@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: RaccoonStealer host indicators [2024-04-12]
+| UUID: b091300e-dff0-41e0-81b2-a36d4cad6534
+| Date: 2024-04-12
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-12,Payload installation,filename,SecuriteInfo.com.Variant.Lazy.509335.4668.31067,Source: MalwareBazaar
+2024-04-12,Payload installation,md5,d0fa79fc637c5916da8d7c2f07948933,Source: MalwareBazaar
+2024-04-12,Payload installation,sha1,d4fb639fe811739c4adf2e62b5df1f8c9ab35c75,Source: MalwareBazaar
+2024-04-12,Payload installation,sha256,1dc9190028637257765735e9e8956d0a2ef2710055fdfc873240c7f09098b7e9,Source: MalwareBazaar

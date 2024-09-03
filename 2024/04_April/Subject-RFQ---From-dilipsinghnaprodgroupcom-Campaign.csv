@@ -1,0 +1,40 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: RFQ - From: dilip.singh@naprodgroup.com"" Campaign"
+| UUID: e5bd46e7-b799-4ae5-80f0-34ca5456fce7
+| Date: 2024-04-26
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-26,Payload delivery,email-src,dilip.singh@naprodgroup.com,Source email: from dilip.singh@naprodgroup.com - subject: RFQ
+2024-04-26,Payload delivery,email-src-display-name,Aditi Parikh,Source email: from dilip.singh@naprodgroup.com - subject: RFQ
+2024-04-26,Payload delivery,email-body,"<!DOCTYPE HTML>
+
+<html><head><title></title>
+<meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+</head>
+<body style=""margin: 0.4em;""><font color=""#0b5394"">Dear [REDACTED] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br>Please find attached Quotation for items needed and confirm the same with a Quote.<br>Kindly acknowledge the receipt.<br><br>Thanks &amp; Regards,<br><br><br>Purchase Officer<br><br>Warm regards,<br>Aditi Parikh<br>Kroma Industries<br>OFFICE :-<br>421, New Sonal Link Industrial Estate,<br>New link road, Malad west,<br>Mumbai- 400064<br>FACTORY :-<br>1404/05, Phase III, G.I.D.C.,<br>
+Vapi - 396 195, Gujarat, India<br>TEL : &nbsp;91-70439 00666<br>9820023801</font></body></html>",Source email: from dilip.singh@naprodgroup.com - subject: RFQ
+2024-04-26,Payload delivery,email-subject,RFQ,Source: from dilip.singh@naprodgroup.com - subject: RFQ
+2024-04-26,Payload delivery,filename|sha256,Quotation.xls|c16e3601ae94a322a49a626b699eb0d71521a38922e35fd3f688f86196886da6,Malspam attachment - source: from dilip.singh@naprodgroup.com - subject: RFQ mime: application/vnd.ms-excel
+2024-04-26,Payload delivery,filename|ssdeep,Quotation.xls|6144:4uunJA7Y35qAOJl/YrLYz+WrNhZF+E+fgL+0dD8ivSbVuIMI8Y3suVRka1EA+PIN:4vJAG3bVuIMI8Y3xyA+PITW2N,Malspam attachment - source: from dilip.singh@naprodgroup.com - subject: RFQ mime: application/vnd.ms-excel
+2024-04-26,Payload delivery,filename|sha1,Quotation.xls|ce23ef82ec5e5e6b3198313e7cbdbbea0330c8fc,Malspam attachment - source: from dilip.singh@naprodgroup.com - subject: RFQ mime: application/vnd.ms-excel
+2024-04-26,Payload delivery,filename|sha512,Quotation.xls|8e49b8b67062b583994743e5919adefa8807c73c68dccc83a27976ae474deaae08d2f2d71da3fc173f5733db0c687dd8d2342dad8adac27800a0c64c70a7edc3,Malspam attachment - source: from dilip.singh@naprodgroup.com - subject: RFQ mime: application/vnd.ms-excel
+2024-04-26,Payload delivery,filename|md5,Quotation.xls|71f0113376a753bd003196b3a06a1cdf,Malspam attachment - source: from dilip.singh@naprodgroup.com - subject: RFQ mime: application/vnd.ms-excel
+2024-04-26,Network activity,hostname|port,bossnacarpet.com|30902,Source: Network activity from wininit.exe; C2
+2024-04-26,Network activity,url,http://192.3.95.135/M1504T/wininit.exe,Source: Network activity from iwanttosxwithudeeolybecauseitrulylovesxwithoumygirlireallymissingu__nowiwantsxwithou.doc
+2024-04-26,Network activity,url,http://192.3.95.135/xampp/wed/iwanttosxwithudeeolybecauseitrulylovesxwithoumygirlireallymissingu__nowiwantsxwithou.doc,Source: Network activity; Effective URL from https://lnkz.at/iOxIm
+2024-04-26,Network activity,url,https://lnkz.at/iOxIm,Source: Network activity from Quotation.xls
+2024-04-26,Payload delivery,filename|md5,iwanttosxwithudeeolybecauseitrulylovesxwithoumygirlireallymissingu__nowiwantsxwithou.doc|1626a8bd20e14d78a9eed883017016ec,Downloaded from http://192.3.95.135/xampp/wed/iwanttosxwithudeeolybecauseitrulylovesxwithoumygirlireallymissingu__nowiwantsxwithou.doc; mime: text/rtf
+2024-04-26,Payload delivery,filename|sha1,iwanttosxwithudeeolybecauseitrulylovesxwithoumygirlireallymissingu__nowiwantsxwithou.doc|c9f2e59dc6f1117a0b863d966d11a1c0eebb539a,Downloaded from http://192.3.95.135/xampp/wed/iwanttosxwithudeeolybecauseitrulylovesxwithoumygirlireallymissingu__nowiwantsxwithou.doc; mime: text/rtf
+2024-04-26,Payload delivery,filename|sha256,iwanttosxwithudeeolybecauseitrulylovesxwithoumygirlireallymissingu__nowiwantsxwithou.doc|1bc1da839fe7f12dec13b124707d8d98d8703a631a469f1c83e821cf664a9d9b,Downloaded from http://192.3.95.135/xampp/wed/iwanttosxwithudeeolybecauseitrulylovesxwithoumygirlireallymissingu__nowiwantsxwithou.doc; mime: text/rtf
+2024-04-26,Payload delivery,filename|sha512,iwanttosxwithudeeolybecauseitrulylovesxwithoumygirlireallymissingu__nowiwantsxwithou.doc|6619bade468c95c112671d18eb4d2637e3762fa816749a53b1450a09a09c076f0a3ff012f7d66c8d294d350564fe5ef6016996af5af4cd205fa70b51b82ed4e8,Downloaded from http://192.3.95.135/xampp/wed/iwanttosxwithudeeolybecauseitrulylovesxwithoumygirlireallymissingu__nowiwantsxwithou.doc; mime: text/rtf
+2024-04-26,Payload delivery,filename|ssdeep,iwanttosxwithudeeolybecauseitrulylovesxwithoumygirlireallymissingu__nowiwantsxwithou.doc|1536:MzClGeDt8xwauyDmyttrnJ3YbT1AuWpWyEhJBwFCLSEPK+fBYebZiuher6WYWXZG:oClGeDt8xwauyDminJ3YbT1AuWpW7xwE,Downloaded from http://192.3.95.135/xampp/wed/iwanttosxwithudeeolybecauseitrulylovesxwithoumygirlireallymissingu__nowiwantsxwithou.doc; mime: text/rtf
+2024-04-26,Payload delivery,filename|imphash,wininit.exe|afcdf79be1557326c854b6e20cb900a7,Extracted from http://192.3.95.135/M1504T/wininit.exe; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|md5,wininit.exe|ee0f619c36e219d029614aaaa9699200,Extracted from http://192.3.95.135/M1504T/wininit.exe; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|sha1,wininit.exe|8eaace9d066b1d33e17ac896008832c8a9ca66be,Extracted from http://192.3.95.135/M1504T/wininit.exe; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|sha256,wininit.exe|8e92afa2cb2358fd64c3e23016c726536072fb3c4d0fcd76f55b5970cf3be704,Extracted from http://192.3.95.135/M1504T/wininit.exe; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|sha512,wininit.exe|42ae4ecc8ff261533b3327b0a06edda7ee8163f3a3088ea587909c08073fd93798a1c3a5751102485eb17467c9460c1cbd880b15f6b39bab3b33a559ca533bb0,Extracted from http://192.3.95.135/M1504T/wininit.exe; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|ssdeep,wininit.exe|24576:mAHnh+eWsN3skA4RV1Hom2KXMmHa7ozVYFNVETk0mCLXnR/wqTWf5:Bh+ZkldoPK8Ya7ozyUmCzBbC,Extracted from http://192.3.95.135/M1504T/wininit.exe; mime: application/x-dosexec

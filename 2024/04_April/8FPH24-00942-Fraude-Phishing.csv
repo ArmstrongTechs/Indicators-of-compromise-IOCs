@@ -1,0 +1,21 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: 8FPH24-00942 [Fraude] [Phishing]
+| UUID: 49d4a5e9-7764-4985-b55e-41ff3bb4eac0
+| Date: 2024-04-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-19,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática (CSIRT de Gobierno) ha identificado una nueva campaña de phishing.
+
+En esta campaña por correo electrónico, los delincuentes indican falsamente a la víctima lo siguiente:“BancoEstado su clave de internet a vencido, su cuenta se encuentra SUSPENDIDA hasta la correcta validación de sus datos.Realizada la validación su cuenta sera activada obteniendo los beneficios de banca por internet.Recuerde que solo tiene 48 horas después de la fecha de vencimiento para realizar este proceso mediante el enlace que se le proporciona nuestra Banca por internet, de lo contrario su cuenta sera inhabilitada y tendrá que acercarse a la sucursal mas cercana para su verificación respectiva.Evite el bloqueo desde aquí.”El correo electrónico malicioso incluye un enlace a un formulario para capturar credenciales de usuarios.",Resumen
+2024-04-19,Network activity,ip-src,122.201.66.57,IP sitio falso
+2024-04-19,Network activity,ip-src,37.60.251.98,IP SMTP
+2024-04-19,Payload delivery,email-src,apache@vmi1641603.contaboserver.net,Correo de salida
+2024-04-19,Payload delivery,email-subject,CUENTA SUSPENDIDA,Asunto correo
+2024-04-19,Payload delivery,url,https://fogape.larissakovalchuk.com/1711977674/imagenes/_personas/home/default.asp,URL sitio Falso
+2024-04-19,Payload delivery,url,https://maximocontaval.com/activacion/cuenta-kaoi/,URL de redirección
+2024-04-19,External analysis,attachment,2024-04-01_10h25_37.png,
+2024-04-19,External analysis,attachment,2024-04-01_10h27_23.png,

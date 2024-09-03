@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-04-23]
+| UUID: 63ca66c8-d5e1-429f-b898-1866fad1b06b
+| Date: 2024-04-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-23,Payload installation,filename,4d8cb64db6b9ae4663bb23229a6e9d16,Source: MalwareBazaar
+2024-04-23,Payload installation,md5,4d8cb64db6b9ae4663bb23229a6e9d16,Source: MalwareBazaar
+2024-04-23,Payload installation,sha1,f53197017572e0f288183e7cb4a3d4a0d9a86066,Source: MalwareBazaar
+2024-04-23,Payload installation,sha256,7c5b92ed56a0a571be9ebe0e12e887b1a0b545ed615268e9b783558fd06dc098,Source: MalwareBazaar
+2024-04-24,Payload installation,filename,SecuriteInfo.com.Win64.TrojanX-gen.5091.20328,Source: MalwareBazaar
+2024-04-24,Payload installation,md5,af1082c667a09a0f1f6adb041ca37d34,Source: MalwareBazaar
+2024-04-24,Payload installation,sha1,ccb770b00596a1d2fa0d9d7d3dbe9451734a30f9,Source: MalwareBazaar
+2024-04-24,Payload installation,sha256,28b7e5568fcbab776e1bbb1be485a4299a760240fe4b1c60cb3ce68a0e0c4ba6,Source: MalwareBazaar
+2024-04-24,Payload installation,filename,eb0beafcb365cd20eb00ff9e19b73232,Source: MalwareBazaar
+2024-04-24,Payload installation,md5,eb0beafcb365cd20eb00ff9e19b73232,Source: MalwareBazaar
+2024-04-24,Payload installation,sha1,1a4470109418e1110588d52851e320ecefcba7de,Source: MalwareBazaar
+2024-04-24,Payload installation,sha256,31b494be325fc9c97031135886454b1370e5e3608c757f74784c6b6fb2fb5c99,Source: MalwareBazaar

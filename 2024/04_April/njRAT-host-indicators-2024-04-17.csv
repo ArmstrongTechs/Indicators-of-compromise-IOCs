@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2024-04-17]
+| UUID: ffcc0ddc-8e8b-4863-b459-bababfca96c3
+| Date: 2024-04-17
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-18,Payload installation,filename,bUBD.exe,Source: MalwareBazaar
+2024-04-18,Payload installation,md5,b0eb1186dec29582d7c86d211e2addf8,Source: MalwareBazaar
+2024-04-18,Payload installation,sha1,f8edefa10e35a0434bcb56ba45fcc265b4da6c52,Source: MalwareBazaar
+2024-04-18,Payload installation,sha256,d88a3e728153a059a398e01b451767e0fccf2eba9dcfeb6a5fe014363984a1c0,Source: MalwareBazaar

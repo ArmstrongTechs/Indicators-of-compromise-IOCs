@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: TA547 Targets German Organizations with Rhadamanthys Stealer
+| UUID: ddf7efba-eafd-445c-93b2-861b24257424
+| Date: 2024-04-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-11,External analysis,link,https://www.proofpoint.com/us/blog/threat-insight/security-brief-ta547-targets-german-organizations-rhadamanthys-stealer,
+2024-04-11,Network activity,url,https://bolibachan.com/g.txt,PowerShell Payload
+2024-04-11,Network activity,domain,indscpm.xyz,C2
+2024-04-11,Network activity,ip-dst|port,94.131.104.223|443,On port 443 : C2

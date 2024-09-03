@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-04-25]
+| UUID: 9bc4e9ff-d571-4449-816d-e6032c3ce78c
+| Date: 2024-04-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-25,Payload installation,filename,FTG_PD_04024024001.vbs,Source: MalwareBazaar
+2024-04-25,Payload installation,md5,0d167ef616c14b868472f78d1195fdf3,Source: MalwareBazaar
+2024-04-25,Payload installation,sha1,d203ebbb35564dd406590d84b4c73cf310104634,Source: MalwareBazaar
+2024-04-25,Payload installation,sha256,6c4ed597f8ac1bf79f88afe6704c467c3629247824efb12ab35a72fd52176e84,Source: MalwareBazaar

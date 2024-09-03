@@ -1,0 +1,16 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FFR24-01676 [Fraude] [Falsificación]
+| UUID: 6c8e011f-88be-4b25-8e2c-71db19b7a509
+| Date: 2024-04-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-19,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática del Gobierno de Chile (CSIRT de Gobierno) ha identificado la activación de una página fraudulenta que suplanta un producto o servicio conocido.
+
+El sitio fraudulento en cuestión simula corresponder a Cencosud Scotiabank, para permitir a los ciberdelincuentes responsables de su activación el robar credenciales de usuario o datos bancarios.Lo anterior constituye una falsificación de marca que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2024-04-19,Network activity,ip-src,172.67.142.101,IP sitio falso
+2024-04-19,Payload delivery,url,https://mitarjetacencosud-cl-login-mitarjetacencosud-login-cl.personaschile.sbs/1712341150/login/index.html,URL sitio falso
+2024-04-19,External analysis,attachment,2024-04-05_15h24_50.png,

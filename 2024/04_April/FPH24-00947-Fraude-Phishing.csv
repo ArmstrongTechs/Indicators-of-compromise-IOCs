@@ -1,0 +1,21 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00947 [Fraude] [Phishing]
+| UUID: 43f1a806-01a9-4e3d-80e5-6dd0f20219bd
+| Date: 2024-04-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-19,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática (CSIRT de Gobierno) ha identificado una nueva campaña de phishing.
+
+En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente, a través de correo electrónico:“BancoEstado su clave de internet a vencido Su cuenta se encuentra SUSPENDIDA hasta la correcta validacion de sus datos.realizada la validacion su cuenta sera activada obteniendo los beneficios de banca por internet.Recuerde que solo tiene 48 horas despues de la fecha de vencimiento para realizar este proceso mediante el enlace que se le proporciona nuestra Banca por internet, de lo contrario su cuenta sera inhabilitada y tendra que acercarse a la sucursal mas cercana para su verificacion respectiva.”El correo electrónico incluye un enlace a un formulario para capturar credenciales de usuarios",Resumen
+2024-04-19,Network activity,ip-src,173.236.223.58,IP SMTP
+2024-04-19,Network activity,ip-src,198.27.78.113,IP del sitio falso
+2024-04-19,Payload delivery,email-subject,Aviso Cuenta Suspendida!,Asunto del correo
+2024-04-19,Payload delivery,url,https://invitad0smnhomstado.com/1712345279/imagenes/_personas/home/default.asp,URL del sitio falso
+2024-04-19,Payload delivery,url,https://solucionesregistrs.com/activacion/cuenta-bwln/,URL de redirección
+2024-04-19,Payload delivery,email-src,soundsunlimited@vps32448.dreamhostps.com,Correo de salida
+2024-04-19,External analysis,attachment,2024-04-05_16h32_35.png,
+2024-04-19,External analysis,attachment,2024-04-05_16h33_10.png,

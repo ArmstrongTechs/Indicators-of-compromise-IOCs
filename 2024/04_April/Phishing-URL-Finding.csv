@@ -1,0 +1,33 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Phishing URL Finding
+| UUID: 70725a5f-eb48-423b-999b-298e7f2f18d9
+| Date: 2024-04-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-17,Network activity,hostname,molekdsfs321.xyz,Host name or IP address of the phishing attack
+2024-04-17,External analysis,attachment,TR-GOV.jpg,Screenshot of the phishing attack
+2024-04-17,Network activity,url,http://molekdsfs321.xyz,Source URL
+2024-04-17,Other,text,TR-GOV,Target of the attack
+2024-04-17,Other,text,Yes,
+2024-04-17,Other,text,United States,
+2024-04-17,Other,text,US,
+2024-04-17,Other,float,38,
+2024-04-17,Other,float,-97,
+2024-04-17,Other,text,db_source: GeoOpen-Country-ASN. build_db: 2023-11-20 15:49:14. Latitude and longitude are country average.,
+2024-04-17,Other,text,13335,
+2024-04-17,Other,text,ASNOrganization: CLOUDFLARENET. db_source: GeoOpen-Country-ASN. build_db: 2023-11-20 15:49:14.,
+2024-04-17,Network activity,domain,molekdsfs321.xyz,
+2024-04-17,Attribution,whois-registrar,"Sav.com, LLC",
+2024-04-17,Other,text,609,
+2024-04-17,Other,text,xyz,
+2024-04-17,Other,text,Xyz,
+2024-04-17,Network activity,hostname,davina.ns.cloudflare.com,
+2024-04-17,Network activity,hostname,norm.ns.cloudflare.com,
+2024-04-17,Attribution,whois-creation-date,2024-04-16 17:18:40,
+2024-04-17,Other,datetime,2024-04-16T17:19:39.000000+0000,
+2024-04-17,Other,datetime,2025-04-16T23:59:59.000000+0000,
+2024-04-17,Other,datetime,2024-04-16T21:38:22.000000+0000,

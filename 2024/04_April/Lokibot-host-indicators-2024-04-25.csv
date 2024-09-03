@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-04-25]
+| UUID: 00332e3c-fab8-4e39-ab57-aac8df013483
+| Date: 2024-04-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-25,Payload installation,filename,SCB99440721399.exe,Source: MalwareBazaar
+2024-04-25,Payload installation,md5,0323dc105421401d34155403f091ecbe,Source: MalwareBazaar
+2024-04-25,Payload installation,sha1,f71675f7d669437852c55c308cbf3f25e0e923df,Source: MalwareBazaar
+2024-04-25,Payload installation,sha256,a3ebc58cb7aebd21137225e16f6686642708e665fceb1f77e54c2413f6c0e706,Source: MalwareBazaar
+2024-04-25,Payload installation,filename,Awb# 1294440291; 2 ki?n; G.W 3.30 KG.exe,Source: MalwareBazaar
+2024-04-25,Payload installation,md5,34730f3da822589c3b36ec7197ede429,Source: MalwareBazaar
+2024-04-25,Payload installation,sha1,666691e4d03bb9d885184e80d5ec5639ef56a886,Source: MalwareBazaar
+2024-04-25,Payload installation,sha256,deb91032be610ab0761ed5e1076877458b9adbbbf79ae250672fc1c2f5fc8d0a,Source: MalwareBazaar

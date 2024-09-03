@@ -1,0 +1,73 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: ArcaneDoor - New espionage-focused campaign found targeting perimeter network devices
+| UUID: 54cfe842-09c0-4257-8fcc-3c1498bbd9f2
+| Date: 2024-04-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-25,External analysis,link,https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/,
+2024-04-25,External analysis,vulnerability,CVE-2024-20353,
+2024-04-25,External analysis,vulnerability,CVE-2024-20359,
+2024-04-25,Network activity,ip-dst,192.36.57.181,Likely Actor-Controlled Infrastructure
+2024-04-25,Network activity,ip-dst,185.167.60.85,Likely Actor-Controlled Infrastructure
+2024-04-25,Network activity,ip-dst,185.227.111.17,Likely Actor-Controlled Infrastructure
+2024-04-25,Network activity,ip-dst,176.31.18.153,Likely Actor-Controlled Infrastructure
+2024-04-25,Network activity,ip-dst,172.105.90.154,Likely Actor-Controlled Infrastructure
+2024-04-25,Network activity,ip-dst,185.244.210.120,Likely Actor-Controlled Infrastructure
+2024-04-25,Network activity,ip-dst,45.86.163.224,Likely Actor-Controlled Infrastructure
+2024-04-25,Network activity,ip-dst,172.105.94.93,Likely Actor-Controlled Infrastructure
+2024-04-25,Network activity,ip-dst,213.156.138.77,Likely Actor-Controlled Infrastructure
+2024-04-25,Network activity,ip-dst,89.44.198.189,Likely Actor-Controlled Infrastructure
+2024-04-25,Network activity,ip-dst,45.77.52.253,Likely Actor-Controlled Infrastructure
+2024-04-25,Network activity,ip-dst,103.114.200.230,Likely Actor-Controlled Infrastructure
+2024-04-25,Network activity,ip-dst,212.193.2.48,Likely Actor-Controlled Infrastructure
+2024-04-25,Network activity,ip-dst,51.15.145.37,Likely Actor-Controlled Infrastructure
+2024-04-25,Network activity,ip-dst,89.44.198.196,Likely Actor-Controlled Infrastructure
+2024-04-25,Network activity,ip-dst,131.196.252.148,Likely Actor-Controlled Infrastructure
+2024-04-25,Network activity,ip-dst,213.156.138.78,Likely Actor-Controlled Infrastructure
+2024-04-25,Network activity,ip-dst,121.227.168.69,Likely Actor-Controlled Infrastructure
+2024-04-25,Network activity,ip-dst,213.156.138.68,Likely Actor-Controlled Infrastructure
+2024-04-25,Network activity,ip-dst,194.4.49.6,Likely Actor-Controlled Infrastructure
+2024-04-25,Network activity,ip-dst,185.244.210.65,Likely Actor-Controlled Infrastructure
+2024-04-25,Network activity,ip-dst,216.238.75.155,Likely Actor-Controlled Infrastructure
+2024-04-25,Network activity,ip-dst,5.183.95.95,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,45.63.119.131,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,45.76.118.87,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,45.77.54.14,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,45.86.163.244,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,45.128.134.189,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,89.44.198.16,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,96.44.159.46,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,103.20.222.218,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,103.27.132.69,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,103.51.140.101,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,103.119.3.230,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,103.125.218.198,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,104.156.232.22,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,107.148.19.88,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,107.172.16.208,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,107.173.140.111,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,121.37.174.139,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,139.162.135.12,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,149.28.166.244,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,152.70.83.47,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,154.22.235.13,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,154.22.235.17,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,154.39.142.47,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,172.233.245.241,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,185.123.101.250,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,192.210.137.35,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,194.32.78.183,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,205.234.232.196,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,207.148.74.250,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,216.155.157.136,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,216.238.66.251,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,216.238.71.49,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,216.238.72.201,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,216.238.74.95,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,216.238.81.149,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,216.238.85.220,Multi-Tenant Infrastructure
+2024-04-25,Network activity,ip-dst,216.238.86.24,Multi-Tenant Infrastructure

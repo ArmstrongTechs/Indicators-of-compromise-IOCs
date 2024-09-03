@@ -1,0 +1,70 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-04-23]
+| UUID: b4ebfb7b-0c2e-4a9f-93a2-c919068e6856
+| Date: 2024-04-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-23,Payload installation,filename,TRANSPORT_INSTRUCTION_MR.vbs,Source: MalwareBazaar
+2024-04-23,Payload installation,md5,1afdbe303941cc8155f48c9b61bd3df4,Source: MalwareBazaar
+2024-04-23,Payload installation,sha1,d141b2f53f5679299bcd802791697bc831dd0a98,Source: MalwareBazaar
+2024-04-23,Payload installation,sha256,4667d2988c844cd2bfc3e983f1106c37cd196376a43d4fddcc278fab87ea8e0c,Source: MalwareBazaar
+2024-04-23,Payload installation,filename,PO0423023.exe,Source: MalwareBazaar
+2024-04-23,Payload installation,md5,c7bebfd0af94c40da20ce3639251c688,Source: MalwareBazaar
+2024-04-23,Payload installation,sha1,bbe1339a4a15e7c7c9c0e68d2f3b8655c7c0780c,Source: MalwareBazaar
+2024-04-23,Payload installation,sha256,cc4eb6b1d8a54f9ad9c8483ba7ac4a141db452a40299719090ff7b1878047063,Source: MalwareBazaar
+2024-04-23,Payload installation,filename,94f2ae1b5174532d81d5ea169b7f7726,Source: MalwareBazaar
+2024-04-23,Payload installation,md5,94f2ae1b5174532d81d5ea169b7f7726,Source: MalwareBazaar
+2024-04-23,Payload installation,sha1,a6f144862293920e5376e5b53a1723502c9de2fb,Source: MalwareBazaar
+2024-04-23,Payload installation,sha256,d1b0b9a6b80f54be2a14ff19f3bd682185848d92443fa555a08cb07fa630a230,Source: MalwareBazaar
+2024-04-23,Payload installation,filename,dekont.pdf.exe,Source: MalwareBazaar
+2024-04-23,Payload installation,md5,32e7521b7de64add08ce2f452617ad65,Source: MalwareBazaar
+2024-04-23,Payload installation,sha1,1c87b16f46d00c73eb940d7fcc6fa5bc4a11dc8a,Source: MalwareBazaar
+2024-04-23,Payload installation,sha256,438880c0c81de087ba1fc1192002342f4aa8ee080af2c85e83a548ef774990d6,Source: MalwareBazaar
+2024-04-23,Payload installation,filename,DHL delivery doc04212024 pdf.exe,Source: MalwareBazaar
+2024-04-23,Payload installation,md5,b07a042091f03840dfa3ef301652d584,Source: MalwareBazaar
+2024-04-23,Payload installation,sha1,33ff758f73cb42a5f2e5648ce3551a5ec6b2c895,Source: MalwareBazaar
+2024-04-23,Payload installation,sha256,ea7ce7b027037dcdf996ccc19ae94a98c1eca5acc4845590b7f907e99431ccb3,Source: MalwareBazaar
+2024-04-23,Payload installation,filename,dekont.pdf.exe,Source: MalwareBazaar
+2024-04-23,Payload installation,md5,48a61fb2d7953e4983597b9c62368022,Source: MalwareBazaar
+2024-04-23,Payload installation,sha1,ff930355abfdbe906b0ab1f15045608e8a18ea96,Source: MalwareBazaar
+2024-04-23,Payload installation,sha256,ecc9bbdafb2ba01909619fcb94b8cd7ea04eed985362af023e18f90f7e989a96,Source: MalwareBazaar
+2024-04-23,Payload installation,filename,Ordem de Compra.pdf.exe,Source: MalwareBazaar
+2024-04-23,Payload installation,md5,e33e654b7742621da8fa8a8a318569cc,Source: MalwareBazaar
+2024-04-23,Payload installation,sha1,e8be0aaa58c1a05b825ab72bf971cd2a7cd59d8a,Source: MalwareBazaar
+2024-04-23,Payload installation,sha256,3fce144519b73bde4b30740ced6678a0aebcfcf00c7ff2ed6f78034cd5900f56,Source: MalwareBazaar
+2024-04-23,Payload installation,filename,Dhl service doc04202422 pdf.exe,Source: MalwareBazaar
+2024-04-23,Payload installation,md5,15fa4a0f55a3be51bfffb2fb1a4e16a0,Source: MalwareBazaar
+2024-04-23,Payload installation,sha1,e0fb3ef81d13283f4b806249896bb21213906d71,Source: MalwareBazaar
+2024-04-23,Payload installation,sha256,cebfc262ed776fc235c66ac28d9d508049fa15cfac213a6fc15bb339ff2010a8,Source: MalwareBazaar
+2024-04-23,Payload installation,filename,PO0423024.exe,Source: MalwareBazaar
+2024-04-23,Payload installation,md5,2adb08aa2d1edefe67ab0d44e1e68218,Source: MalwareBazaar
+2024-04-23,Payload installation,sha1,30d7f46687cdb8e122ba61f01bfe00fad146ae18,Source: MalwareBazaar
+2024-04-23,Payload installation,sha256,635d1ea9728310e492a728ff14145c39a5c7594ebd75b9c70e4d44d45f9bd85b,Source: MalwareBazaar
+2024-04-23,Payload installation,filename,RFQ 0400-ENPI-RQMA.exe,Source: MalwareBazaar
+2024-04-23,Payload installation,md5,73b6e5a11aff9e7bd681b55136c5fbcf,Source: MalwareBazaar
+2024-04-23,Payload installation,sha1,d8113fa2bd2b2fa43f3920b93f9a5217b9cb69a2,Source: MalwareBazaar
+2024-04-23,Payload installation,sha256,3ca71ea7d01b1f1e3613781fcd68b47c09a159af5876c134065bef4d912917a6,Source: MalwareBazaar
+2024-04-23,Payload installation,filename,Pago pendiente.exe,Source: MalwareBazaar
+2024-04-23,Payload installation,md5,9a308e1ea62b7ede8876e433178957d1,Source: MalwareBazaar
+2024-04-23,Payload installation,sha1,dac00f0068f3f97a71faf15577ce0c7d855ff691,Source: MalwareBazaar
+2024-04-23,Payload installation,sha256,ae300b28b2240d11d01e9066a26a88349258d4016c41460604c9ff5bb64c9b6d,Source: MalwareBazaar
+2024-04-23,Payload installation,filename,order 4502657678.exe,Source: MalwareBazaar
+2024-04-23,Payload installation,md5,82df9d1ee9b303d453a7ea91d5f574e2,Source: MalwareBazaar
+2024-04-23,Payload installation,sha1,4b121f046e002ac5e2fbeec21079f6fd4c55d370,Source: MalwareBazaar
+2024-04-23,Payload installation,sha256,61e2a9db8f357380b18ba1017f2ae52d656d2c5f4de8851e244566b8c986d88a,Source: MalwareBazaar
+2024-04-23,Payload installation,filename,SOA.pdf.exe,Source: MalwareBazaar
+2024-04-23,Payload installation,md5,2417cdb09f72141abfa45cb64e699d91,Source: MalwareBazaar
+2024-04-23,Payload installation,sha1,1ddc6b218dd520915ba8933e8214f307387b0e13,Source: MalwareBazaar
+2024-04-23,Payload installation,sha256,331ca91b3a643aab796547bdd69ecd624ab13ac224ea80f88ca4a8987c0625e3,Source: MalwareBazaar
+2024-04-24,Payload installation,filename,Statement Of Account.exe,Source: MalwareBazaar
+2024-04-24,Payload installation,md5,da68e8ff4e0c0d00c613fa9301cf4a37,Source: MalwareBazaar
+2024-04-24,Payload installation,sha1,7456cf2540dce6403407b532c502ce5abb07e9ec,Source: MalwareBazaar
+2024-04-24,Payload installation,sha256,b7def3af905789a4ecedcc226d91592d8bc758ce8c5458d62ef435707de8670f,Source: MalwareBazaar
+2024-04-24,Payload installation,filename,55HUe105hhh123333.exe,Source: MalwareBazaar
+2024-04-24,Payload installation,md5,d165540c81717a55a387fb95522f4c70,Source: MalwareBazaar
+2024-04-24,Payload installation,sha1,9f24e1b70ed6d06601659c5887cfbec3574fc7ac,Source: MalwareBazaar
+2024-04-24,Payload installation,sha256,e1302a180a4b617dbec5f4ab8c7e58492fc32af989f32fb8cdb4db5d9fe62e4e,Source: MalwareBazaar

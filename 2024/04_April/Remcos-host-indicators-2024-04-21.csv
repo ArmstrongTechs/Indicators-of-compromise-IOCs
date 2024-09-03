@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-04-21]
+| UUID: 557869f7-e039-4131-ab2b-fd0b1675f987
+| Date: 2024-04-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-21,Payload installation,filename,SecuriteInfo.com.Win64.PWSX-gen.30087.11508,Source: MalwareBazaar
+2024-04-21,Payload installation,md5,18fba1571b2ef85ee29d7629b0360f8b,Source: MalwareBazaar
+2024-04-21,Payload installation,sha1,160a5e70d376d45de6f8ca69cf00bdfe0530ce72,Source: MalwareBazaar
+2024-04-21,Payload installation,sha256,20f140b6b03ab5318a5c9ce920528c982184ea1fa5e4e51dd3925eedf36ea924,Source: MalwareBazaar
+2024-04-21,Payload installation,filename,DHL Express Courier Pickup Confirmation CBJ551025122755.exe,Source: MalwareBazaar
+2024-04-21,Payload installation,md5,c3191e226fa56eaf0f574ec73c328469,Source: MalwareBazaar
+2024-04-21,Payload installation,sha1,64ee9eb2f3953cb62b0b98b13c375fbee1892d93,Source: MalwareBazaar
+2024-04-21,Payload installation,sha256,0fead1eec703dc70cd1eea9e557876b3525d9292ff97b46edfe0720e6856fc41,Source: MalwareBazaar

@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-04-09]
+| UUID: e73efa44-ed60-4b6f-bcd0-fd8745b78364
+| Date: 2024-04-09
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-09,Payload installation,filename,c228f16074d1919a6bf30642a6e6541e,Source: MalwareBazaar
+2024-04-09,Payload installation,md5,c228f16074d1919a6bf30642a6e6541e,Source: MalwareBazaar
+2024-04-09,Payload installation,sha1,9857bac629403dad58ec15bb426bf5e6f5a006d7,Source: MalwareBazaar
+2024-04-09,Payload installation,sha256,c51d5d9f26091b859c64a0da81fd56382af4edf3137b4683763105f9b8d56cea,Source: MalwareBazaar
+2024-04-10,Payload installation,filename,xRmat80DlHcR.exe,Source: MalwareBazaar
+2024-04-10,Payload installation,md5,32f3cadcabd40f0b821adba034ac8fb1,Source: MalwareBazaar
+2024-04-10,Payload installation,sha1,75ec24a7b088756120b9c380c6a13d88dbab5bd6,Source: MalwareBazaar
+2024-04-10,Payload installation,sha256,a681774e83e773eff9e6c4070a78b7fdb2839301ce1955cade51bd95af25abd3,Source: MalwareBazaar

@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-04-16]
+| UUID: d5c6af26-c483-4e28-abed-ed3a23c4044f
+| Date: 2024-04-17
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-16,Payload installation,filename,DHL_Awb# 12944422091.exe,Source: MalwareBazaar
+2024-04-16,Payload installation,md5,e472e9d21b095e482f4c593dc8620bac,Source: MalwareBazaar
+2024-04-16,Payload installation,sha1,b29a8d05d42f3e290b66745a56410a929317cd6d,Source: MalwareBazaar
+2024-04-16,Payload installation,sha256,d774bf2b69e92180e790142a000f8c2b883336e68fa52d79edc5af7278f03f9f,Source: MalwareBazaar
+2024-04-16,Payload installation,filename,FedEx_AWB#53023114643.exe,Source: MalwareBazaar
+2024-04-16,Payload installation,md5,748f2d7afc9aab8fbd553c5b07c0ec5f,Source: MalwareBazaar
+2024-04-16,Payload installation,sha1,f92418c15a463d6201b32821ee9ef653db4a8600,Source: MalwareBazaar
+2024-04-16,Payload installation,sha256,99f0f330f7fafcc28267cc425f1d62ebf2a1604cd1843adec3a63e6631044d14,Source: MalwareBazaar
+2024-04-16,Payload installation,filename,RFQ_2414976·pdf.vbs,Source: MalwareBazaar
+2024-04-16,Payload installation,md5,a8bbe905610f17161af68ea8aab57592,Source: MalwareBazaar
+2024-04-16,Payload installation,sha1,6a85ada10ba962b10c07955b2f73700842b4932b,Source: MalwareBazaar
+2024-04-16,Payload installation,sha256,03a24fb6fcf36d76df6ed2eb9fbf249b71c0b33bac9a723aa6337ff19bdcebf9,Source: MalwareBazaar
+2024-04-17,Payload installation,filename,SCTR11670000pdf.exe,Source: MalwareBazaar
+2024-04-17,Payload installation,md5,abcbfb3d531d8efece1fbe4a775ddc42,Source: MalwareBazaar
+2024-04-17,Payload installation,sha1,6bd0e9ba6e9cb5940a746a798aa382d1ac4ad781,Source: MalwareBazaar
+2024-04-17,Payload installation,sha256,8eb0fdf0ff3b38ae84311b29effb0030a3b9a38430f7b8ee7918d2eb1301b12e,Source: MalwareBazaar
+2024-04-17,Payload installation,filename,gunzipped.exe,Source: MalwareBazaar
+2024-04-17,Payload installation,md5,8864b52d242037414b7c4a230c390ab8,Source: MalwareBazaar
+2024-04-17,Payload installation,sha1,47680d0f0d286097f7cdda37947aaaacd7226ee3,Source: MalwareBazaar
+2024-04-17,Payload installation,sha256,d405284f75cde4b8c45e3d5c3b41c7bbd6db2c75788cb6d0b1deec5ea60559a4,Source: MalwareBazaar

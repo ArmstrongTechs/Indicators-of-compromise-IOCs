@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-04-19]
+| UUID: d5e00648-1cca-4e07-bf87-34ad8835c7ff
+| Date: 2024-04-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-20,Payload installation,filename,rMayNewPurchase.exe,Source: MalwareBazaar
+2024-04-20,Payload installation,md5,39de89b92af6d8c21852323f776cd7da,Source: MalwareBazaar
+2024-04-20,Payload installation,sha1,24f39d969bdef3bdcf536646aa07b9550a898857,Source: MalwareBazaar
+2024-04-20,Payload installation,sha256,e0427dc12a719012705709e6b8740fae1097fc3760d4c1ad980adcdbc8c36354,Source: MalwareBazaar
+2024-04-20,Payload installation,filename,PO_PDF24172024.scr,Source: MalwareBazaar
+2024-04-20,Payload installation,md5,71d7dc1accfa50e3d2c503cf5631317c,Source: MalwareBazaar
+2024-04-20,Payload installation,sha1,d48fb5aa8101bbfe6bdd56cfab45a17d043ae4d9,Source: MalwareBazaar
+2024-04-20,Payload installation,sha256,a50f455780f130bedb6826eea1c26dec45da4909491f4db63330f97d07ef3caa,Source: MalwareBazaar

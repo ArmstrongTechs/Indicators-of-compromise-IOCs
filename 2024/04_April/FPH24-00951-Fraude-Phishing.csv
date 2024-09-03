@@ -1,0 +1,19 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00951 [Fraude] [Phishing]
+| UUID: 50fd0d45-1604-4bd8-82e9-12c91b1cefc8
+| Date: 2024-04-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-19,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática (CSIRT de Gobierno) ha identificado una nueva campaña de phishing.
+
+En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente:“Su Contraseña de interior.gob.cl ha caducado y debe ser validada, ya que desea continuar con la Contraseña actual.”El correo electrónico incluye un enlace a un formulario malicioso destinado a robar credenciales de usuarios.",Resumen
+2024-04-19,Network activity,ip-src,104.17.96.13,IP sitio falso
+2024-04-19,Network activity,ip-src,45.137.22.168,IP SMTP
+2024-04-19,Payload delivery,url,https://cloudflare-ipfs.com/ipfs/bafybeidihzirgfqlcmm3hlceu4wshnbxk5m7cjrraps73rzwwam2rtphom/login-update %281%29.html#{Correo electronico},URL sitio falso
+2024-04-19,Payload delivery,email-src,mailer-daemon@host2.i4dots.com,Correo de salida
+2024-04-19,External analysis,attachment,2024-04-15_11h02_55.png,
+2024-04-19,External analysis,attachment,2024-04-15_11h03_30.png,

@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2024-04-24]
+| UUID: a40d7483-f355-4497-bba3-1db782a81901
+| Date: 2024-04-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-24,Payload installation,filename,xkzdRi6nGpg3.exe,Source: MalwareBazaar
+2024-04-24,Payload installation,md5,12d3e11ae0227e8182db020a1f875b67,Source: MalwareBazaar
+2024-04-24,Payload installation,sha1,ec4525cf7bd7b85e9fbd3101faf7dafaeb83424e,Source: MalwareBazaar
+2024-04-24,Payload installation,sha256,ba1c1884ec9bc5326e183aa6a6f31a7f0f3a78f0ae04a5d13aba1eba1ac3448e,Source: MalwareBazaar
+2024-04-24,Payload installation,filename,bUHF.exe,Source: MalwareBazaar
+2024-04-24,Payload installation,md5,b47307545c821c03b617776a41df1741,Source: MalwareBazaar
+2024-04-24,Payload installation,sha1,086f735fcd95e8d3608e22494ae3cadd4d9d7acb,Source: MalwareBazaar
+2024-04-24,Payload installation,sha256,0f2be1e974ae7ee9be5354fbef333e105cce5c25473648e66a67269d560220f4,Source: MalwareBazaar
+2024-04-25,Payload installation,filename,b1048f879fa97d356045037bddc4add3.exe,Source: MalwareBazaar
+2024-04-25,Payload installation,md5,b1048f879fa97d356045037bddc4add3,Source: MalwareBazaar
+2024-04-25,Payload installation,sha1,5e4a581b9756c930af7f0f07020fa668e1ec7143,Source: MalwareBazaar
+2024-04-25,Payload installation,sha256,3708d1bd614bd0a96c34dc96c7ef75bb6386b401b6e81b019293a8964447c90a,Source: MalwareBazaar

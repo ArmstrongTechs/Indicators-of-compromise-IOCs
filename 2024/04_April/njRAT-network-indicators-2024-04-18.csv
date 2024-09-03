@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT network indicators [2024-04-18]
+| UUID: bdf95ef4-c248-4300-b83d-5504bdb628e1
+| Date: 2024-04-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-18,Network activity,url,http://bishopberrian.com/1.exe,Source: urlhaus
+2024-04-18,Network activity,url,https://pasteio.com/raw/xOsL4tr8v5CV,Source: urlhaus
+2024-04-19,Network activity,url,https://pasteio.com/raw/xjvkPdr0BkzL,Source: urlhaus
+2024-04-19,Network activity,url,https://bishopberrian.com/1.exe,Source: urlhaus

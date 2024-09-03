@@ -1,0 +1,131 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Securonix Threat Research Security Advisory: Analysis of Ongoing FROZEN#SHADOW Attack Campaign Leveraging SSLoad Malware and RMM Software for Domain Takeover
+| UUID: 88fc5757-d527-45b0-8666-0f7e3140408b
+| Date: 2024-04-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-25,External analysis,link,https://www.securonix.com/blog/securonix-threat-research-security-advisory-frozenshadow-attack-campaign/,
+2024-04-25,Network activity,ip-dst,85.239.54.190,C2
+2024-04-25,Network activity,ip-dst,23.159.160.88,C2
+2024-04-25,Network activity,ip-dst,23.95.209.148,C2
+2024-04-25,Network activity,ip-dst,45.95.11.134,C2
+2024-04-25,Network activity,hostname,bjsdg0.pintaexoticfashion.co.in,C2
+2024-04-25,Network activity,hostname,l1-03.winupdate.us.to,C2
+2024-04-25,Network activity,hostname,23-95-209-148-host.colocrossing.com,C2
+2024-04-25,Network activity,domain,mmtixmm.org,C2
+2024-04-25,Network activity,domain,wireoneinternet.info,C2
+2024-04-25,Network activity,domain,skinnyjeanso.com,C2
+2024-04-25,Network activity,domain,titnovacrion.top,C2
+2024-04-25,Network activity,domain,simplyfitphilly.com,C2
+2024-04-25,Network activity,domain,kasnackamarch.info,C2
+2024-04-25,Network activity,domain,sokingscrosshotel.com,C2
+2024-04-25,Network activity,domain,danteshpk.com,C2
+2024-04-25,Network activity,domain,stratimasesstr.com,C2
+2024-04-25,Network activity,domain,winarkamaps.com,C2
+2024-04-25,Network activity,domain,globalsolutionunlimitedltd.com,C2
+2024-04-25,Network activity,domain,maramaravilha.com,C2
+2024-04-25,Network activity,domain,krd6.com,C2
+2024-04-25,Network activity,url,https://t0talwar.screenconnect.com,C2
+2024-04-25,Payload delivery,sha256,db265ea1732935f61e8d0f7a20a8adc54e20af71b3cf4a737714cd3377c838f6,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,out_bdrts.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,fad25892e5179a346cdbdbba1e40f53bd6366806d32b57fa4d7946ebe9ae8621,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_c89_00c568610-93e92634a4425-2643w5.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,f8fc9b40b946b742d6044f291914439727e1a7f53ea87562446f682b26cce65a,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_p64_18t678677-53r17785m9284-51810.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,e8979741f0355a47dae575ead8c829df47f282b4533ec1be4d63086515f9c449,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_h85_79o750478-05f74851h3126-2101c9.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,08e82f1c0a033ab295b4d342c53970e4528e20933c614bda3bbc5d57bab20651,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_e97_58z949277-25h33503u6712-8630h9.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,4f52b4a2a781f366ed534d8c4b2fafef48a7848c4c20b4229b98747ca8ab06d3,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_n95_52a858194-29r719420963-6497k0.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,68e1caf530366b1890993185157c01161b3d625063d75a41c88d2d1bb8edfe02,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_n54_61h288642-67072023a7462-0068w3.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,6d7a94b7551f15732e193a07357375b98b463f0dce6b1fed871a42fcbdde9f48,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_w54_49a010638-34d3814907559-826708.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,2b026343214c3d2c10fdfa9b04b7694e57ee8d3605fbf9a2e127fe6fa9a58309,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_a51_80q687203-83q18993e4985-2463m8.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,96212917b7b0dc881332db7ece0bacfe21d9ac713af1abe078f6d3e74baacd01,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_k40_07w820587-40d85841n3311-9847w6.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,ba3fa920708db856737a66f70e2c7e86bba73c73836f7f30c2ce42cd70d0c5bd,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_w45_72u406742-64b48323u0125-6834a8.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,7dbebb7c76511fc063b5ace0a9359b655f66a55a494200b8fd11905c78b5fb90,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_c41_84a683017-72b44707a1598-464809.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,6e892aa13cbd4b71a1c476207abddb1ef830be04999809b4ef569488a37e47e0,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_d94_87w030300-54q44583y8818-2571b1.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,7dff08656413a737483ecee2a50e412338ebfee3d36a1a5c04e74b25949b2306,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_n42_88u446059-37f35802c4925-3726c4.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,75db4709428310c76656bf76f5de267ab490e43284312b374baf7582108300a9,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_q50_63b944998-11n0283407179-6803z4.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,c172abd808cc6216b309bc307fe69b821c7eaed35f874fd4684ab33b4291f95a,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_u79_20w517865-65u0451500340-7186n6.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,5fb093a9348fcf4a81befda978c948796a8319fcabe7899c2cf5ba1419ec9d35,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Doc_k33_80c092144-18b83503a0451-2328f3.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,9fc48724cb9f70f774f7ed9e809e49979bd089dfd641896d8d5e3026f049b0af,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Doc_d43_77n194090-93d18260r9745-8376n8.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,c122596e25a4dad1d46d4ab983f4ef15bfa7b65582b7c311f404036766498105,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Doc_i93_65b929565-14q83944h2246-4336m9.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,e8e76b851fc78d87fe58ad7d29bc6356a8965236d1b96c5f572334dd695d5de9,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Doc_f98_58y658432-41b75184w6866-3921d1.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,791c28d4201e8b9ea5162fbee3908feb34793b1c51f5aaedc43916e86068248d,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Doc_q80_66b246938-8806024o9126-5008b9.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,caf8295570e8a8244c7099a8eabfd1bd55ea50f026b4461e9f0f5425d54703e8,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Doc_m42_81h118103-88o62135w8623-1999q9.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,092962bc268390debf17cd148d03147cdf919e442e61c92de01eac3bdb34b1c1,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Doc_q35_64r067638-76a88713i3606-7493z7.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,24cb279eebcd49e1327905ab2bd19b9b2e09efa3e0a5e1875f3989c398a5da81,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_a53_97o318845-76f99823h9630-6740o2.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,8f7a90b540f38712c9c1a5359c6333bbe1091102d6f621b22321e08352c84cfc,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_e79_76r514120-22p50913h4206-6851k8.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,0737fa0b403fab17331c9835497a4f3b2955543e2fac85009dcc66df41a015f8,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_h21_36b948317-03a99748y3026-8660b8.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,2118c5b95d5d57492b2e8b8c0403e23b21acc4ff50282f8b6007ba89adfaa992,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_d19_97q517001-52z26072a2831-7463c5.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,a557f891f4d50e458d745c7eaf7d0be3eceea36f0398097e977cd3f6ec463875,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_t47_39u197519-27b72941k6563-0250a2.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,4d9274cfe7a2bd9a125352271d1634708e1f9b1d70b056d1c1950cb98b8f91ff,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_z27_59o257127-14z25707d6443-0555c6.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,3584ca9c1e7e0a38e47f59bb16c21203a60833d0f826294d535a98e7ca76d9c1,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_b42_17m561933-22h44391r3880-8554u2.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,63283e012f067a3ffb27ed4fe6803f740c80f6f65213fe5507f0cd1ee0019b96,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_t48_42a243569-81n19660f9965-6999u0.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,828ef3e4ca064891836913015c48ac9807ecd43b32f6e7e4bff29b9fd2e218c9,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Letter_o40_58g357086-56q83656a4371-9752z1.js,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,780b970dad15835d138546be9b615fc1b4124c1060a8efd91b9c52f9c3160d5b,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,09e7f7428e6ecc68ef036c0751f53985882f6760cf3892f1d26af44f3b9730de,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,msedgeview.msi,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,232f8f8dc9e5b9723c43c78cb942cc810ef56e305e4bd650110a484334f568a8,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,950b84.msi,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,f5bf914415faf7587958bbdc3312536fd9abea647f1541d44d2e757f0e683650,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,6838aa.msi,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,08075e8a6dcc6a5fca089348edbd5fc07b2b0b26a26a46e0dd401121fdaa88d3,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,4178fc.msi,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,ff5e40fc794e56fd78feb6eb6b30794970f7cdb4a767c4095e2d20a90bb0efe8,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,slack.msi,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,b9dbe9649c761b0eee38419ac39dcd7e90486ee34cd0eb56adde6b2f645f2960,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,qual.msi,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,ee1e5b80a1d3d47c7703ea2b6b64ee96283ab3628ee4fa1fef6d35d1d9051e9f,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,avp.msi,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,dcae57ec4b69236146f744c143c42cc8bdac9da6e991904e6dbf67ec1179286a,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,msedge.dll,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,7018c43ee38190eae122797869865fd808817f31d766575b43b118ae176c0c68,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Update_c7e5e126.dll,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,fc21a125287c3539e11408587bcaa6f3b54784d9d458facbc54994f05d7ef1b0,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Update_2ffaca76.dll,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,65da6d9f781ff5fc2865b8850cfa64993b36f00151387fdce25859781c1eb711,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Update_8d74674.dll,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,805b59e48af90504024f70124d850870a69b822b8e34d1ee551353c42a338bf7,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,Update_17a3b1e7.dll,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,7206eafc475f246e7c9c258afdaaa64b5193c1c7427d927be417e53dec890078,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,mbae-api-na.dll,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,9856b816a9d14d3b7db32f30b07624e4bcda7f1e265a7bb7a3e3476bfd54a759,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,0ede3cbe821e4f083fc119274f069c77e64a6a7e8a2c16530317b826a0939979,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,17ddc339b14845bc9d67c5c3cd9a0e617387cc0569131ff3641035d82043effa,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,18d60c9c807da021bc2c31e3ba7ec2737865a8c96060134caa3cf033e43e26fe,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,ae610eb8f8622653b9be9692a7d2a680b0c2154022704ca58af0eaeed0066d03,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,7f97adff1d298ccf1f3c7991fcb01008dda22722ebbc11af48fcbf2adb58afb4,Analyzed files/hashes
+2024-04-25,Payload delivery,filename,forcedelctl.dll,Analyzed files/hashes
+2024-04-25,Payload delivery,sha256,3bca1dcaef4430272b9029c9a4bc8be0d45ecff66e8de8679ed30d8afab00f6f,Analyzed files/hashes

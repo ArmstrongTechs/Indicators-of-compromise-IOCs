@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2024-04-22]
+| UUID: a4ef5977-28cb-42a5-9843-0007403019d6
+| Date: 2024-04-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-22,Payload installation,filename,84056F0DDC342942D07C8A50214F2AB493E74ADEA8C9C.exe,Source: MalwareBazaar
+2024-04-22,Payload installation,md5,d0189cdd22cfaa374b55017aa04d9399,Source: MalwareBazaar
+2024-04-22,Payload installation,sha1,6661f132b1e119f5c93357b0320651ea88fcda18,Source: MalwareBazaar
+2024-04-22,Payload installation,sha256,84056f0ddc342942d07c8a50214f2ab493e74adea8c9ce125de4d7ee35bc6efe,Source: MalwareBazaar
+2024-04-23,Payload installation,filename,xuI8pQHlxExL.exe,Source: MalwareBazaar
+2024-04-23,Payload installation,md5,ed064734a0bf02c905e63d64a495364b,Source: MalwareBazaar
+2024-04-23,Payload installation,sha1,b5c8e93ccd6aa3457f9727ed319384ba97c9ac71,Source: MalwareBazaar
+2024-04-23,Payload installation,sha256,544a4d7177ed4b85a9c9807fa396e07e3243e2e6c4ce2b0fe0f908d6ee37bdc9,Source: MalwareBazaar
+2024-04-23,Payload installation,filename,xyyDAUDPeYEH.exe,Source: MalwareBazaar
+2024-04-23,Payload installation,md5,8d153b783c87021dcfbea00799e18337,Source: MalwareBazaar
+2024-04-23,Payload installation,sha1,e38881fd2848bcfad84e81eba5695db628f9e985,Source: MalwareBazaar
+2024-04-23,Payload installation,sha256,83c7ff1ebde9eea24cb5a82b436fa076dc18296fd4933ae220596716cab27601,Source: MalwareBazaar
+2024-04-23,Payload installation,filename,xVcsGL5R1Nbh.exe,Source: MalwareBazaar
+2024-04-23,Payload installation,md5,cbe87d6abf69bdd3877821f493e6f6b1,Source: MalwareBazaar
+2024-04-23,Payload installation,sha1,4099bc3848634a8d5ca58cd8c0fe029748b368e9,Source: MalwareBazaar
+2024-04-23,Payload installation,sha256,76bd193c0535e6109143d35950e045e03fb25c4ab8419ca6fa69c4fbea4cd085,Source: MalwareBazaar

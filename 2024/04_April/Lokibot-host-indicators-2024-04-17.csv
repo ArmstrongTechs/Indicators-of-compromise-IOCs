@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-04-17]
+| UUID: e31077a2-29c2-42a5-b3e4-de1957b07e8e
+| Date: 2024-04-17
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-17,Payload installation,filename,Payment Advice16007618765.exe,Source: MalwareBazaar
+2024-04-17,Payload installation,md5,742b63d93401a9af88183725ee503df3,Source: MalwareBazaar
+2024-04-17,Payload installation,sha1,ecfb96a3f57aee691a1c80a750518f39a8cbc474,Source: MalwareBazaar
+2024-04-17,Payload installation,sha256,5ffa345944786c7b505a3b1b3392560b1b987529c49e11893642c8be816aa313,Source: MalwareBazaar
+2024-04-17,Payload installation,filename,SCTR116509006.exe,Source: MalwareBazaar
+2024-04-17,Payload installation,md5,2a4a3291479ab3c056533198f88d7a2c,Source: MalwareBazaar
+2024-04-17,Payload installation,sha1,eb46327c7c987aa2676690e74bacd0190b3e855a,Source: MalwareBazaar
+2024-04-17,Payload installation,sha256,6f3336aba5c3090b559dcdeb912fb17adcbdc8faa76c2f01379e3bc890b8c74e,Source: MalwareBazaar
+2024-04-17,Payload installation,filename,SCTR116709000.exe,Source: MalwareBazaar
+2024-04-17,Payload installation,md5,678b937e3e7e02e6b27158a8ecc573ab,Source: MalwareBazaar
+2024-04-17,Payload installation,sha1,e01f386b972ff55da1edb53ccda0bfd56e637477,Source: MalwareBazaar
+2024-04-17,Payload installation,sha256,64b47fde027cfd04023331dcd19612933dc9b9d77731b487844c129d0d354b20,Source: MalwareBazaar
+2024-04-17,Payload installation,filename,Payment Advice1600761165.exe,Source: MalwareBazaar
+2024-04-17,Payload installation,md5,3d56d9ae070f55c37fb785f7091c97d4,Source: MalwareBazaar
+2024-04-17,Payload installation,sha1,73fec7c52fdc153d11b27f3635e321165dbf23a6,Source: MalwareBazaar
+2024-04-17,Payload installation,sha256,9513ea80cc5dabab23c0069ed1b8caaff8d2d10ae9e842bda19a69eb5140a497,Source: MalwareBazaar
+2024-04-17,Payload installation,filename,SCTR11670000pdf.exe,Source: MalwareBazaar
+2024-04-17,Payload installation,md5,a9d25742936345bea8b04ccea8d734a6,Source: MalwareBazaar
+2024-04-17,Payload installation,sha1,3095759333963b09c097ba18832cdc1485518964,Source: MalwareBazaar
+2024-04-17,Payload installation,sha256,79879e8ec6748d39187201ab487066c6376fb1470acb7fc549cef32e4bf87415,Source: MalwareBazaar

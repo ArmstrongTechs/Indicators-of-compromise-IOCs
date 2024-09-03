@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Azorult host indicators [2024-04-16]
+| UUID: c5035999-6c73-4fbb-bdc5-fc96bc5235d6
+| Date: 2024-04-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-16,Payload installation,filename,SecuriteInfo.com.Win32.TrojanX-gen.23930.29642,Source: MalwareBazaar
+2024-04-16,Payload installation,md5,69b4504419872fee9bc3bc996b88eb4b,Source: MalwareBazaar
+2024-04-16,Payload installation,sha1,f87cd6cc91070bb3331fe6c6e25ac84b840f0c50,Source: MalwareBazaar
+2024-04-16,Payload installation,sha256,0a06c8a177765ec2e723da7b9d406eb68c43541a6740ffa395a7297ed94e0d73,Source: MalwareBazaar

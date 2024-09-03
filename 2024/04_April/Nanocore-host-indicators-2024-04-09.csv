@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Nanocore host indicators [2024-04-09]
+| UUID: d54dae84-34aa-4559-922a-e9ef53a24cdc
+| Date: 2024-04-09
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-09,Payload installation,filename,82CDD037293FBB616B3BA2B7AB0077B3.exe,Source: MalwareBazaar
+2024-04-09,Payload installation,md5,82cdd037293fbb616b3ba2b7ab0077b3,Source: MalwareBazaar
+2024-04-09,Payload installation,sha1,dbbf596a74cb397662385267d2b15ca6b703cc85,Source: MalwareBazaar
+2024-04-09,Payload installation,sha256,c39791b8b7ee23adde3bafbf1e5c6acf5c08f94137e2ef8b59a04b6d8760c79d,Source: MalwareBazaar

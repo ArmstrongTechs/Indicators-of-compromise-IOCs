@@ -1,0 +1,93 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: Campaign ""Zapytanie ofertowe (7427-23 / ROCKFIN)"" 23.04.2024"
+| UUID: ff23194f-e22d-4e78-a57a-b65799bc5b61
+| Date: 2024-04-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-24,Payload delivery,sha1,acc6f42bd4518801ec8da47f882e3cac5a8fc861,
+2024-04-24,Payload delivery,md5,6bd804dbcd9e2fd2ced9b605b8352c09,
+2024-04-24,Payload delivery,sha256,3462f4e5d7785e8924f11ac40d9812c21c0301b5b6e0d222cb73e0edbdee06e3,
+2024-04-24,Other,float,7.999393160374924,
+2024-04-24,Payload delivery,filename,Zapytanie ofertowe (7427-23 ROCKFIN).tar,
+2024-04-24,Payload delivery,tlsh,t11ca423481e3e5e0f21525167631d0bd6bd5a04bb7ae2539ea58d0b8fff8ed249808cb4,
+2024-04-24,Payload delivery,ssdeep,12288:0jmTzv1jXHAj+TWahKAS1da5qbZmYN43SLA:rT7BXHa7Qqr4l,
+2024-04-24,Other,size-in-bytes,461736,
+2024-04-24,Artifacts dropped,mime-type,application/x-rar,
+2024-04-24,Payload delivery,sha1,55704be9332dcb79a7a9e1042a02255edb1005e2,
+2024-04-24,Payload delivery,md5,c224cae5fc90191fbedcc9bbdc54f8c1,
+2024-04-24,Payload delivery,sha256,c14fe4f707ed7f422178693a9f71fa8bbf9b2de67b3fd6ead158f63f9e0e0ea2,
+2024-04-24,Other,float,6.3110756479728,
+2024-04-24,Payload delivery,filename,Zapytanie ofertowe (7427-23 ROCKFIN).exe,
+2024-04-24,Payload delivery,tlsh,t12d157ceb07a6f905fabf27b54b66d290977458c33e81d548408383856b3f2c2be945e3,
+2024-04-24,Payload delivery,ssdeep,12288:+Xc87X+bXPXST4Fof1XUhgPj7RxUV47Ca3xsOEx2ka8BQvewEaD27:+XcH/X4ycDUV479my8BsMaD27,
+2024-04-24,Other,size-in-bytes,882176,
+2024-04-24,Artifacts dropped,mime-type,application/x-dosexec,
+2024-04-24,Payload delivery,vhash,285036651514308112880071,
+2024-04-24,Payload delivery,email-src,eva@centrocep.com,
+2024-04-24,Payload delivery,email-dst-display-name,CAFyUqmsoGYLk5TorQBdnT4K=7aFWYySg4QOz5D+OtB3pPaOz9A@mail.gmail.com,
+2024-04-24,Payload delivery,email-subject,Zapytanie ofertowe (7427-23 / ROCKFIN),
+2024-04-24,Payload delivery,email-dst,piecuchm@rockfinn.pl,
+2024-04-24,Other,datetime,2024-04-22T14:02:59.000000+0200,
+2024-04-24,Other,text,Roundcube Webmail/1.4.8,
+2024-04-24,Payload delivery,email-mime-boundary,=_2fc7d850dad748ab41fdcac7b2b93330,
+2024-04-24,Payload delivery,email-message-id,<84b18b495016662a690ae3094d498287@rockfinn.pl>,
+2024-04-24,Network activity,ip-src,87.98.227.50,
+2024-04-24,Payload delivery,email-header,"X-MailControl-Globvar-Relay: ns51mail1.zitelia.com
+X-MailControl-Globvar-EnvSender: DATA
+Received: from ns51mail1.zitelia.com (ns51mail1.zitelia.com [87.98.227.50])
+	by [REDACTED]
+	for [REDACTED]; Mon, 22 Apr 2024 14:02:59 +0200 (CEST)
+Received: from webmail.centrocep.com (localhost.localdomain [127.0.0.1])
+	by serv51.zitelia.com (Postfix) with ESMTPSA id ADBBF2661C79;
+	Mon, 22 Apr 2024 14:02:33 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=centrocep.com;
+	s=default; t=1713787373;
+	bh=r9qxv0sPRDyzauK4sUzzwRkiJo98MlQbg0CUDWXleRA=; h=To:Subject:From;
+	b=ZdMubROHK+y7JJe29Pg7gMfsOgrdJPmKUVjVkIp7EapzxzSGjJo4L2DtXwsiBvgt1
+	 pOmxEeTHw8HY9aorxFfTQvWodv0RumY2Nlcu0RPzVJ5DMduIT4S2Q2qO4Q9/+3I1jl
+	 hQZqlCnnvqutXRf12JTOfoVovo2wCWaUr0t7Go3M=
+Authentication-Results: serv51.zitelia.com;
+	spf=pass (sender IP is 127.0.0.1) smtp.mailfrom=piecuchm@rockfinn.pl smtp.helo=webmail.centrocep.com
+Received-SPF: pass (serv51.zitelia.com: connection is authenticated)
+MIME-Version: 1.0
+Date: Mon, 22 Apr 2024 05:02:33 -0700
+To: piecuchm@rockfinn.pl
+Subject: Zapytanie ofertowe (7427-23 / ROCKFIN)
+In-Reply-To: <CAFyUqmsoGYLk5TorQBdnT4K=7aFWYySg4QOz5D+OtB3pPaOz9A@mail.gmail.com>
+References: <1145017605.8691789.1709729838383.JavaMail.zimbra@rockfin.pl>
+	<1220094729.8719744.1709730235911.JavaMail.zimbra@rockfin.pl>
+	<1826617368.8723626.1709730292922.JavaMail.zimbra@rockfin.pl>
+	<740554361.8725986.1709730334348.JavaMail.zimbra@rockfin.pl>
+	<CAFjSBqf7pGNChXUAV15OAZ3iu7fbTmkgMfTg8hs_oMh2oh4cDQ@mail.gmail.com>
+	<CAEAGLnOoydtW9AGkfkOfpN-24ivU8T-B=+t5Lvo2Rj3fN7biQg@mail.gmail.com>
+	<CAFyUqmsoGYLk5TorQBdnT4K=7aFWYySg4QOz5D+OtB3pPaOz9A@mail.gmail.com>
+User-Agent: Roundcube Webmail/1.4.8
+Message-ID: <84b18b495016662a690ae3094d498287@rockfinn.pl>
+X-Sender: piecuchm@rockfinn.pl
+Content-Type: multipart/mixed;
+ boundary=""=_2fc7d850dad748ab41fdcac7b2b93330""
+X-PPP-Message-ID: <20240422120234.26305.83353@serv51.zitelia.com>
+From: Maciej Piecuch <eva@centrocep.com>
+X-PPP-Vhost: centrocep.com",
+2024-04-24,Payload delivery,email-body,"Dzień Dobry,
+
+W załączeniu zamówienie do przesłania do naszych placówek. Prosimy o przesłanie nam wartościowych dowodów dostawy.
+
+Prosimy o przesłanie nam potwierdzenia odbioru oraz podanie numeru zamówienia na dowodzie dostawy i fakturze.
+
+Pozdrawiam! / Best Regards!
+ 
+Maciej Piecuch
+Koordynator Projektu / Project Coordinator
+M: +48 728 335 376  E: piecuchm@rockfin.pl 
+  
+www.rockfin.pl
+Production facility: Fryderyka Chopina 54, 38-300 Gorlice, Poland 
+Headquarters Rockfin Sp. z o.o., ul. Pałacowa 9, Małkowo, 83-330 Żukowo, Poland
+Rockfin Sp. z o.o. with the registered office in Małkowo, 83-330 Żukowo, Pałacowa 9, registered at the Gdańsk-Północ, VIII Commercial Division of the National Court Register under KRS No. 0000065856, Tax Identification No. (NIP) 585 020 56 07, REGON No. 003005759, share capital (paid up) PLN 635 500. 
+This message may contain a confidential and priv-ileged communication between our Company and our Client. If you are not the intended recipient, you are hereby notified that you have received this message in error and that any use, dissemination, forwarding, or copying of this e-mail is prohibited. If you receive this message in error, please notify the sender immediately and delete the original. 
+Think about environment before printing this e-mail.",

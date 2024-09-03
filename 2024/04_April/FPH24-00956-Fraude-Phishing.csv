@@ -1,0 +1,19 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00956 [Fraude] [Phishing]
+| UUID: 96e319c8-e589-46e3-8156-8b8852f29bdc
+| Date: 2024-04-30
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-30,External analysis,text,"En el CSIRT de Gobierno encontramos una nueva campaña de phishing. Los siguientes son los detalles.
+
+En el email malicioso, los delincuentes indican falsamente a la víctima lo siguiente:“Información importante del servicio de seguridad ZimbraA partir de hoy, lunes 30 de abril de 2024 (EDT), la página de inicio de sesión de su cliente web Zimbra cambiará. Nos estamos preparando para una actualización por correo electrónico. Sin embargo, para evitar ser desactivado y evitar perder el acceso a su cuenta de correo electrónico, haga clic en el enlace a continuación.”El correo electrónico incluye un enlace a un formulario para capturar credenciales de usuarios",Resumen
+2024-04-30,Network activity,ip-src,209.94.90.1,IP sitio falso
+2024-04-30,Network activity,ip-src,45.33.11.242,IP SMTP
+2024-04-30,Payload delivery,email-src,csanchez@mlagranja.cl,Correo de salida
+2024-04-30,Payload delivery,url,https://ipfs.io/ipfs/bafybeih4wwljr3lg6fxunpfgmjpqlwhihybtxvvbn5wesic6ii6wdjizfm/eso.com.mk.htm,URL sitio falso
+2024-04-30,External analysis,attachment,2024-04-30_11h52_19.png,
+2024-04-30,External analysis,attachment,2024-04-30_11h53_45.png,

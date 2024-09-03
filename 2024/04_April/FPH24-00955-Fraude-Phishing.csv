@@ -1,0 +1,20 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00955 [Fraude] [Phishing]
+| UUID: a74b8edc-c66f-42fa-804c-93f20ec1fe21
+| Date: 2024-04-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-26,External analysis,text,"En el CSIRT encontramos una nueva campaña de phishing. Los siguientes son los detalles.
+
+En esta nueva campaña de phishing, difundida a través de un email fraudulento que suplanta a Zimbra, los delincuentes indican falsamente a la víctima lo siguiente:“ID de cuenta:Verifique la cuenta de correo electrónico ahora.Nuestro registro muestra que la cuenta anterior se desactivará pronto en las próximas 72 horas.Debido a que la cuenta está desactualizada y necesita actualizarse ahora”El correo electrónico incluye un enlace a un formulario malicioso usado para capturar credenciales de usuarios.",Resumen
+2024-04-26,Network activity,ip-src,131.108.210.21,IP SMTP
+2024-04-26,Network activity,ip-src,209.94.90.1,IP sitio falso
+2024-04-26,Payload delivery,url,https://ipfs.io/ipfs/bafybeih4wwljr3lg6fxunpfgmjpqlwhihybtxvvbn5wesic6ii6wdjizfm/eso.com.mk.htm,URL sitio falso
+2024-04-26,Payload delivery,email-src,karla.mella@saludquillota.cl,Correo de salida
+2024-04-26,Payload delivery,email-subject,SPAM: ATENCIÓN,Asunto correo electronico
+2024-04-26,External analysis,attachment,2024-04-25_14h15_35.png,
+2024-04-26,External analysis,attachment,2024-04-25_14h16_00.png,

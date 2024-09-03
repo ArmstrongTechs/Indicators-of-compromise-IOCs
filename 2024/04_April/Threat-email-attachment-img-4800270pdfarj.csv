@@ -1,0 +1,16 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Threat email attachment: img 4800270.pdf.arj
+| UUID: 9d058a6c-fec1-4674-b3d6-b408ae00e9a4
+| Date: 2024-04-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-29,Payload delivery,sha256,373125c33bea2c659ba180490238ae2f6398c8ebdc0bf0cbf6c5ede52601f927,Attachment img 4800270.pdf.arj
+2024-04-29,Payload delivery,email-src,info@jmfresh.sg,Email sender
+2024-04-29,Payload delivery,email-subject,Payment copy,Email subject
+2024-04-29,Payload delivery,email-attachment,img 4800270.pdf.arj,Email attachment
+2024-04-29,Payload delivery,ip-src,103.160.107.73,Email sender IP address
+2024-04-29,Payload delivery,ip-src,69.174.100.74,Email sender IP address

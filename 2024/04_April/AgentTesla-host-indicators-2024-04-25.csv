@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-04-25]
+| UUID: f6202071-aeec-4f24-b772-30ab484f29a5
+| Date: 2024-04-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-25,Payload installation,filename,SecuriteInfo.com.Win32.PWSX-gen.25877.26069,Source: MalwareBazaar
+2024-04-25,Payload installation,md5,946a0735432aca25fa370970e97a3dbb,Source: MalwareBazaar
+2024-04-25,Payload installation,sha1,9ffac6be378c7379a8ea11a5a439445a46f6bb5c,Source: MalwareBazaar
+2024-04-25,Payload installation,sha256,7628ace4f2627bc65377a8123ce9e05849e4e4b3fd5b862e03ffcee42274ccfb,Source: MalwareBazaar
+2024-04-25,Payload installation,filename,SecuriteInfo.com.Win32.PWSX-gen.12561.19906,Source: MalwareBazaar
+2024-04-25,Payload installation,md5,0cddb3e724f9bb0314bf8c50db240cf0,Source: MalwareBazaar
+2024-04-25,Payload installation,sha1,8018274d23411ab33bf16168036de21e2790aa0b,Source: MalwareBazaar
+2024-04-25,Payload installation,sha256,3ebacca195af8a57792fa7fa13c371bc68078d8c33f0d16220c6b65df1271d3e,Source: MalwareBazaar
+2024-04-25,Payload installation,filename,SWIFT.exe,Source: MalwareBazaar
+2024-04-25,Payload installation,md5,c3783358a70c67db7ba565a68872b2d6,Source: MalwareBazaar
+2024-04-25,Payload installation,sha1,e0c97fdd090069d6fb47589643fad0d8365b537a,Source: MalwareBazaar
+2024-04-25,Payload installation,sha256,2e546d749c2e13895babd1d2bca41978605c1ba3967ca0b21709646120704760,Source: MalwareBazaar
+2024-04-25,Payload installation,filename,SecuriteInfo.com.Win32.PWSX-gen.18376.4403,Source: MalwareBazaar
+2024-04-25,Payload installation,md5,0213307d4a5c33c73fc8763498a054e5,Source: MalwareBazaar
+2024-04-25,Payload installation,sha1,2c6978c737ad7b1a9547ed3365fef15996d98137,Source: MalwareBazaar
+2024-04-25,Payload installation,sha256,6266398586cea7e8cc4154202bb9f5541b1a6b6b5640f0efdd2f2ef9e82c7ae6,Source: MalwareBazaar
+2024-04-25,Payload installation,filename,RFQ-HL51L05.exe,Source: MalwareBazaar
+2024-04-25,Payload installation,md5,254d0303fffb227dde317b5e2bb664ae,Source: MalwareBazaar
+2024-04-25,Payload installation,sha1,f538ce2f5b72eaf0ecfb4a0b4a8af43436c0fb46,Source: MalwareBazaar
+2024-04-25,Payload installation,sha256,78fad406a45c2723861ac043560f4fcbe8ff4df4c5e49e702833944af1220e53,Source: MalwareBazaar

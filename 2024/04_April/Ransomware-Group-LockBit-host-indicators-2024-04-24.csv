@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Ransomware Group LockBit host indicators [2024-04-24]
+| UUID: bbbf6096-5cd8-4f65-968d-fad6aa7028d0
+| Date: 2024-04-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-24,Payload installation,filename,Document.doc.scr,Source: MalwareBazaar
+2024-04-24,Payload installation,md5,ae811bd6440b425e6777f0ca001a9743,Source: MalwareBazaar
+2024-04-24,Payload installation,sha1,70902540ead269971e149eaff568fb17d04156af,Source: MalwareBazaar
+2024-04-24,Payload installation,sha256,86e17aa882c690ede284f3e445439dfe589d8f36e31cbc09d102305499d5c498,Source: MalwareBazaar
+2024-04-24,Payload installation,filename,Document.zip,Source: MalwareBazaar
+2024-04-24,Payload installation,md5,bf87f364563b7c38275e0e474d2e5e13,Source: MalwareBazaar
+2024-04-24,Payload installation,sha1,57177ef2b81dc89dd766c0dd0de967f6303006a6,Source: MalwareBazaar
+2024-04-24,Payload installation,sha256,13916d6b1fddb42f3146b641d37f3a69b491f183146e310aa972dd469e3417bf,Source: MalwareBazaar

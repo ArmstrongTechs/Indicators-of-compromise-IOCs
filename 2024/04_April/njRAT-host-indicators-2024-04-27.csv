@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2024-04-27]
+| UUID: c6b1cddb-41dc-4892-83f0-41bf07d11052
+| Date: 2024-04-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-27,Payload installation,filename,59bc430c7e94eda88ba59fc1fa3d2c0c.exe,Source: MalwareBazaar
+2024-04-27,Payload installation,md5,59bc430c7e94eda88ba59fc1fa3d2c0c,Source: MalwareBazaar
+2024-04-27,Payload installation,sha1,7af6f4bd5d7c38ad87432785344f3016e873b151,Source: MalwareBazaar
+2024-04-27,Payload installation,sha256,3477c51b4db8004874eeb950fced5e89d636b4ad123595ca403f8fca5c430498,Source: MalwareBazaar
+2024-04-27,Payload installation,filename,UtfPLaHG.exe,Source: MalwareBazaar
+2024-04-27,Payload installation,md5,6a44a61f22c1f94581fe84ce077c8bc3,Source: MalwareBazaar
+2024-04-27,Payload installation,sha1,0af9823081a8ac7dab63fdbc1c4360508f5ed074,Source: MalwareBazaar
+2024-04-27,Payload installation,sha256,5ef1ff8185f56af614f482d00c32b2112483b0e7900b282fb28200dbe8b0cb87,Source: MalwareBazaar

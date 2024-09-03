@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AveMariaRAT host indicators [2024-04-30]
+| UUID: 6093c2d2-df39-46fb-845f-8363de686264
+| Date: 2024-04-30
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-30,Payload installation,filename,HAN HII PAYMENT-USD.doc,Source: MalwareBazaar
+2024-04-30,Payload installation,md5,1812b0ee6924f6188269c65494e580e8,Source: MalwareBazaar
+2024-04-30,Payload installation,sha1,fc83f1d3acb53009cbaa7b9df57676274fc561a1,Source: MalwareBazaar
+2024-04-30,Payload installation,sha256,7fb4306a36b61be977dfc6f56443542c9d70273bb97b55d5049cd86608aa0f68,Source: MalwareBazaar
+2024-04-30,Payload installation,filename,TT PYMENT COPY.zip,Source: MalwareBazaar
+2024-04-30,Payload installation,md5,6c3e20f16bb359fb22557004478366f9,Source: MalwareBazaar
+2024-04-30,Payload installation,sha1,2a429da20afbc5dc6e21b681fd4d89384caa310b,Source: MalwareBazaar
+2024-04-30,Payload installation,sha256,67dda85b8fcccfa131d203c066116de63e431fd9d2b2cb4651260f426a0d24de,Source: MalwareBazaar
+2024-04-30,Payload installation,filename,MT103.zip,Source: MalwareBazaar
+2024-04-30,Payload installation,md5,f1541cbcd1d6df06db65675e9ca02f61,Source: MalwareBazaar
+2024-04-30,Payload installation,sha1,12c0385a9d665588f27c150cc09d49620804aafd,Source: MalwareBazaar
+2024-04-30,Payload installation,sha256,00c2ea777ae669c8dce549f42c01050413906e1fd33169aa383b169dce0c7996,Source: MalwareBazaar

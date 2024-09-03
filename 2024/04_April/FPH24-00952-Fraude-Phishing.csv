@@ -1,0 +1,21 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00952 [Fraude] [Phishing]
+| UUID: 1be73d25-93ab-40c6-b1ad-0f76c1d2e909
+| Date: 2024-04-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-19,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática (CSIRT de Gobierno) ha identificado una nueva campaña de phishing.
+
+En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente:“Recientemente realizo una solicitud en 16/Apr/2024, para desactivar. Esta solicitud esta en proceso y se completara en breve. Si no realizo esta solicitud, cancele la solicitud ahora.”El correo electrónico incluye un enlace a un formulario malicioso usado para capturar credenciales de usuarios.",Resumen
+2024-04-19,Network activity,ip-src,104.17.96.13,IP sitio falso
+2024-04-19,Network activity,ip-src,38.43.155.5,IP SMTP
+2024-04-19,Payload delivery,url,https://cloudflare-ipfs.com/ipfs/QmfCzd6H3fmoowa2wiURc3W2nttyE6A4pzKDLL1kFfnyqL/#{Correo electronico},URL sitio falso
+2024-04-19,Payload delivery,url,https://royaltattoo.in/css/{correo electronico},URL redirección
+2024-04-19,Payload delivery,email-src,mriquelme@fap.mil.pe,Correo de salida
+2024-04-19,Payload delivery,email-subject,Su solicitud para desactivar cbecerra@interior.gov.cl esta en proceso,Asunto del correo
+2024-04-19,External analysis,attachment,2024-04-16_10h14_16.png,
+2024-04-19,External analysis,attachment,2024-04-16_10h13_36.original_1.png,

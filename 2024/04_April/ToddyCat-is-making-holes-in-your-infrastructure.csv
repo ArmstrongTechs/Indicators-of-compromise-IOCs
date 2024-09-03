@@ -1,0 +1,32 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: ToddyCat is making holes in your infrastructure
+| UUID: a16a2219-5b91-42e7-8128-60153a203554
+| Date: 2024-04-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-25,Payload delivery,md5,1d2b32910b500368ef0933cdc43fde0b,Files
+2024-04-25,Payload delivery,md5,5c2870f18e64a14a64abf9a56f5b6e6b,Files
+2024-04-25,Payload delivery,md5,afea0827779025c92cab86f685d6429a,Files
+2024-04-25,Payload delivery,md5,c7d8266c63f8aeca8d5f5bdcd433e72a,Files
+2024-04-25,Payload delivery,md5,750ef49afb88ddd52f6b0c500be9b717,Files
+2024-04-25,Payload delivery,md5,853a75364d76e9726474335bcd17e225,Files
+2024-04-25,Payload delivery,md5,ba3ef3d0947031fb9ffbc2401ba82d79,Files
+2024-04-25,Payload delivery,md5,4a79a8b1f6978862ecfa71b55066aadd,legitimate tools
+2024-04-25,Payload delivery,md5,1f514121162865a9e664c919e71a6f62,legitimate tools
+2024-04-25,Payload delivery,filename,vpnserver_x64.exe,legitimate tools
+2024-04-25,Payload delivery,md5,6f32d6cfaad3a956aacea4c5a5c4fbfe,legitimate tools
+2024-04-25,Payload delivery,md5,9dc7237ac63d552270c5ca27960168c3,legitimate tools
+2024-04-25,Payload delivery,filename,ngrok.exe,legitimate tools
+2024-04-25,Payload delivery,md5,34985fae5fa8e9ebaa872de8d0105005,legitimate tools
+2024-04-25,Network activity,ip-dst,118.193.40.42,Server from SoftEther VPN
+2024-04-25,Network activity,hostname,ha.bbmouseme.com,Server from SoftEther VPN
+2024-04-25,Network activity,ip-dst,103.27.202.85,SSH server
+2024-04-25,Network activity,url,http://www.netportal.or.kr/common/css/main.js,
+2024-04-25,Network activity,url,http://www.netportal.or.kr/common/css/ham.js,
+2024-04-25,Network activity,url,http://23.106.122.5/hamcore.se2,
+2024-04-25,Network activity,url,https://etracking.nso.go.th/UserFiles/File/111/tasklist.exe,
+2024-04-25,Network activity,url,https://etracking.nso.go.th/UserFiles/File/111/hamcore.se2,

@@ -1,0 +1,54 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-04-24]
+| UUID: 1176b96d-29cc-4c87-84bd-ad7fc646783a
+| Date: 2024-04-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-24,Payload installation,filename,Dhl Express Shipping Docs .pdf.exe,Source: MalwareBazaar
+2024-04-24,Payload installation,md5,e7d52516ca8bcf4e8bcaf71a36a88300,Source: MalwareBazaar
+2024-04-24,Payload installation,sha1,d5a7eaad95ab6d4e492b128db0cf550c34170c90,Source: MalwareBazaar
+2024-04-24,Payload installation,sha256,8df5ecbc8ea978c98c9c3a0918fe9ee233f169ee9e3d38855b7da8fc96aad8dc,Source: MalwareBazaar
+2024-04-24,Payload installation,filename,Zapytanie ofertowe (7427-23 ROCKFIN).vbs,Source: MalwareBazaar
+2024-04-24,Payload installation,md5,3a6ac16d9bc107b14e4caa9b7ad08756,Source: MalwareBazaar
+2024-04-24,Payload installation,sha1,d6c6f6d4843ef83e2c4e3344060aca80b032eb43,Source: MalwareBazaar
+2024-04-24,Payload installation,sha256,02b7361eeb75b842d6b7ade09f042879d501e50bc07a8d4edcfc04b7d728b0e7,Source: MalwareBazaar
+2024-04-24,Payload installation,filename,G4-TODOS.vbs,Source: MalwareBazaar
+2024-04-24,Payload installation,md5,0894754b81c21bfa79481c3940d134d5,Source: MalwareBazaar
+2024-04-24,Payload installation,sha1,381352cd7b6551606bfb8c07cd77d7c50ffe41cc,Source: MalwareBazaar
+2024-04-24,Payload installation,sha256,0d456eedf9663741ffc712deadd8f8960e711b68de8b198ec1aec9dc4e3279d4,Source: MalwareBazaar
+2024-04-24,Payload installation,filename,DAIKIN AC SPAIN 2024.vbs,Source: MalwareBazaar
+2024-04-24,Payload installation,md5,edf7ea5f8de604b0caabc49fd06365b5,Source: MalwareBazaar
+2024-04-24,Payload installation,sha1,1f6a6566a718b05572ddd239fb4aae1a629c2046,Source: MalwareBazaar
+2024-04-24,Payload installation,sha256,a1541e8095205c49f9943fa5bb38fb3601ea04e2bcaa2386b9d8850c677f924a,Source: MalwareBazaar
+2024-04-24,Payload installation,filename,shipping document.exe,Source: MalwareBazaar
+2024-04-24,Payload installation,md5,180165361384e56db00389733f0c54f5,Source: MalwareBazaar
+2024-04-24,Payload installation,sha1,1d48e601e3ba392fafde82b4a7fc0a39fba0a382,Source: MalwareBazaar
+2024-04-24,Payload installation,sha256,48ca70c01e870434304ccd508ef88d824b8d3c9588c990402dae450a5e56f73c,Source: MalwareBazaar
+2024-04-24,Payload installation,filename,Umulighed.vbs,Source: MalwareBazaar
+2024-04-24,Payload installation,md5,7a879857b435057c4825e33b280baa15,Source: MalwareBazaar
+2024-04-24,Payload installation,sha1,d79ea735b0440d929bb6b046974e03915cb8bfd8,Source: MalwareBazaar
+2024-04-24,Payload installation,sha256,d15c94ea77716eb5071b879c630b22509e0cee099bb7f9d3f823b8fb57f77d6d,Source: MalwareBazaar
+2024-04-24,Payload installation,filename,BM-FM_NR.24040718PDF.exe,Source: MalwareBazaar
+2024-04-24,Payload installation,md5,7206084219e20fe7575aec63a3422a5c,Source: MalwareBazaar
+2024-04-24,Payload installation,sha1,930508090c6ec226838189c1d6ca32035c2ac0ed,Source: MalwareBazaar
+2024-04-24,Payload installation,sha256,3fb935f3b274dddf25a926967ceb573ad0f990bff966583157849545c60c42e4,Source: MalwareBazaar
+2024-04-24,Payload installation,filename,BM-FM_NR.24040718PDF.IMG,Source: MalwareBazaar
+2024-04-24,Payload installation,md5,c5bb58d3a933efcf209835b4b9b6fd2b,Source: MalwareBazaar
+2024-04-24,Payload installation,sha1,f0bb265004175f739405b492d4bb064bee8974d7,Source: MalwareBazaar
+2024-04-24,Payload installation,sha256,22865e205895558e912210efc445d55036056ef2f9a867ff4b9107cbdfab017c,Source: MalwareBazaar
+2024-04-24,Payload installation,filename,RFQ TSL23-5453 24 April2024.exe,Source: MalwareBazaar
+2024-04-24,Payload installation,md5,091a4086a4393d7450f36fb66fb92d31,Source: MalwareBazaar
+2024-04-24,Payload installation,sha1,b75d2ed9f8bdec6d84ce427185ad6d8037eac12e,Source: MalwareBazaar
+2024-04-24,Payload installation,sha256,0f4185aed646dcc354f61968b69d25e06fdb3fe3e6bab9b52e2ecce1395f667f,Source: MalwareBazaar
+2024-04-24,Payload installation,filename,Agreement ATC  02443 .pdf.r00,Source: MalwareBazaar
+2024-04-24,Payload installation,md5,0d0f7a5c2dea296565178464e05ec488,Source: MalwareBazaar
+2024-04-24,Payload installation,sha1,6a0248965acfca6545de4d326fa2426d643f20e0,Source: MalwareBazaar
+2024-04-24,Payload installation,sha256,be262b4a9cbad86462792c7a786b4041ee6b0123f884244693ede9d3174ee906,Source: MalwareBazaar
+2024-04-24,Payload installation,filename,Swift Payment.bat,Source: MalwareBazaar
+2024-04-24,Payload installation,md5,da503f6a9d9306ac4645857e575e7d3d,Source: MalwareBazaar
+2024-04-24,Payload installation,sha1,3241d9a60b626a1afa12bdc037066f094d644488,Source: MalwareBazaar
+2024-04-24,Payload installation,sha256,f661588bdec3197564fa50c785121022bf91774eab1ff79108ecf9404eb0aecc,Source: MalwareBazaar

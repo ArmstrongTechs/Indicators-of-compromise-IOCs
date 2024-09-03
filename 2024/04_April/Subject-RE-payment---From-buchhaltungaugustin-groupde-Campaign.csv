@@ -1,0 +1,75 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: RE: payment - From: buchhaltung@augustin-group.de"" Campaign"
+| UUID: db2d9dbe-0942-4e87-a08b-020d274b5864
+| Date: 2024-04-26
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-26,Payload delivery,url,https://docsend.dropbox.com/view/mc2hidr292szr9m8,URL source: from buchhaltung@augustin-group.de - subject: RE: payment
+2024-04-26,Payload delivery,email-src,buchhaltung@augustin-group.de,Source email: from buchhaltung@augustin-group.de - subject: RE: payment; Spoofing
+2024-04-26,Payload delivery,email-body,"Hello,
+ 
+Thank you for your call and prompt answer to our questions. As discussed attached are my documents and also the fee payment receipt as you asked. 
+ 
+Please make the invoice and send it to me so i can make the payment right away. 
+ 
+Im looking forward to hear from you soon.
+ 
+Greetings
+ 
+https://docsend.dropbox.com/view/mc2hidr292szr9m8
+ 
+ <https://docsend.dropbox.com/view/mc2hidr292szr9m8> 
+
+ <https://docsend.dropbox.com/view/mc2hidr292szr9m8> 
+
+ 
+
+Best regards
+
+Mandy Matthiesen
+Retourenmanagement
+Returns Management",Source email: from buchhaltung@augustin-group.de - subject: RE: payment
+2024-04-26,Payload delivery,email-subject,RE: payment,Source: from buchhaltung@augustin-group.de - subject: RE: payment
+2024-04-26,Network activity,ip-dst|port,91.92.252.234|3232,Source: extracted from static config of hy.ps1; C2
+2024-04-26,Payload delivery,filename|md5,PassID.d001993002432.zip|85bcaa1b50fdef2272f6b15ccbec5f2e,Downloaded from https://docsend.dropbox.com/view/mc2hidr292szr9m8; mime: application/zip
+2024-04-26,Payload delivery,filename|sha1,PassID.d001993002432.zip|7ba2943aad56b58bca8ed628c7976e220126b108,Downloaded from https://docsend.dropbox.com/view/mc2hidr292szr9m8; mime: application/zip
+2024-04-26,Payload delivery,filename|sha256,PassID.d001993002432.zip|44594b36ed5500809c885728d54155e12263baf39ae12c75e8fd309510d170f9,Downloaded from https://docsend.dropbox.com/view/mc2hidr292szr9m8; mime: application/zip
+2024-04-26,Payload delivery,filename|sha512,PassID.d001993002432.zip|5f145e258c0af2f7893de59fc199b698b7429efc0b229d4ccdce6ade78b75c8139e317065fbf27c59ef83b3722b7b0fb1150749c0715b32590b8d44033739899,Downloaded from https://docsend.dropbox.com/view/mc2hidr292szr9m8; mime: application/zip
+2024-04-26,Payload delivery,filename|ssdeep,PassID.d001993002432.zip|12:5QscPv9MZprMsZZVdsTgHgQemSrkR9YMepPv9MZ0aIRoqGX:XrMsZRsTgHgjC7ZORoJX,Downloaded from https://docsend.dropbox.com/view/mc2hidr292szr9m8; mime: application/zip
+2024-04-26,Payload delivery,filename|imphash,ScrubBypass.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Extracted from a.cmd; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|md5,ScrubBypass.exe|9ec9948c02e69907839fad6931d75ca5,Extracted from a.cmd; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|sha1,ScrubBypass.exe|04b5c35a250d7df69f8ae14fdc79bdf6b71ace2c,Extracted from a.cmd; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|sha256,ScrubBypass.exe|a9f561bf0717a2e090468fa0f61e8e34d307c371670ca61dd63e553495c72c3c,Extracted from a.cmd; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|sha512,ScrubBypass.exe|e058ec2f340ba7c15ad265d527fffd8f296b15f8043148a3a4b54c36c418e91e4f80df87eee6d407f9ffe3d10d81a44a7b119ef9022a4c969d88870e6e24770e,Extracted from a.cmd; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|ssdeep,ScrubBypass.exe|768:QxxTqjSoelNgBABLS3iwmxnW+iEdfFqsmyY2q:Qv8YlOywmxW+iEdfFDRYv,Extracted from a.cmd; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|md5,a.cmd|0b72d9b98a14810527f555cad408e756,Downloaded from http://hq-breach-alt-acknowledged.trycloudflare.com@SSL/DavWWWRoot/a.cmd; mime: text/plain
+2024-04-26,Payload delivery,filename|sha1,a.cmd|e24969bea50bebde5905068c993324fae2470ac6,Downloaded from http://hq-breach-alt-acknowledged.trycloudflare.com@SSL/DavWWWRoot/a.cmd; mime: text/plain
+2024-04-26,Payload delivery,filename|sha256,a.cmd|fc1c119af2b10c067771cf36170a8b4ac28db714d14cde45a96b4807d654ded5,Downloaded from http://hq-breach-alt-acknowledged.trycloudflare.com@SSL/DavWWWRoot/a.cmd; mime: text/plain
+2024-04-26,Payload delivery,filename|sha512,a.cmd|acb4399d53b0b29a23ef04cfae67069a03a115a3da5af22587ba1c47193bc6bad892cdfc90818421658749c68cb90a7dd9436bc507e150dd4db835d7bccf81ce,Downloaded from http://hq-breach-alt-acknowledged.trycloudflare.com@SSL/DavWWWRoot/a.cmd; mime: text/plain
+2024-04-26,Payload delivery,filename|ssdeep,a.cmd|1536:oGr7JprjygfWS26G0KbG/9CHHJxPFg2Ta9bt3nliqnOh991geWFY4dAvGyMryXAV:oy77jwS2X0mG/9upxtg2A3nYt1vHGPTV,Downloaded from http://hq-breach-alt-acknowledged.trycloudflare.com@SSL/DavWWWRoot/a.cmd; mime: text/plain
+2024-04-26,Payload delivery,filename|imphash,a.cmd_extracted.bin|f34d5f2d4577ed6d9ceec516c1f5a744,Extracted from a.cmd; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|md5,a.cmd_extracted.bin|efb8224289d2c28d192e476aac57f4f0,Extracted from a.cmd; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|sha1,a.cmd_extracted.bin|f9ae7d89f4f0f3623d96c0342f9e4af1a6a481af,Extracted from a.cmd; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|sha256,a.cmd_extracted.bin|66f520822d4fd4daf1ffe5cfd3382ff84c68679408ad16f0dbd68cd89106b78b,Extracted from a.cmd; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|sha512,a.cmd_extracted.bin|c1a636450f26a5b184522e82c040a464c0893bf79ee29e8f299b7ef9b5c3b3b8bf58684feb751cca9c798f1672d75c27ad592d9bffa9b4ea32a62b42004f1044,Extracted from a.cmd; mime: application/x-dosexec
+2024-04-26,Payload delivery,filename|ssdeep,a.cmd_extracted.bin|768:4qai2KKaYzgplJLN/5kO6Jw6d43oWuJGvGdGWxIb6HHHHHHHHHs2et9hZbU:IiByYV5kTJ9d20FdGW6T2KjZbU,Extracted from a.cmd; mime: application/x-dosexec
+2024-04-26,Network activity,domain,api.mylnikov.org,Source: Network activity from a.cmd
+2024-04-26,Payload delivery,filename|md5,d.bat|ff72478478ffdc769b1e68ebcae78ce7,Downloaded from file://hq-breach-alt-acknowledged.trycloudflare.com@SSL/DavWWWRoot/Invoice.lnk; mime: text/x-msdos-batch
+2024-04-26,Payload delivery,filename|sha1,d.bat|de0dcdc73c62b379b197f85665d0f79ffd503e8c,Downloaded from file://hq-breach-alt-acknowledged.trycloudflare.com@SSL/DavWWWRoot/Invoice.lnk; mime: text/x-msdos-batch
+2024-04-26,Payload delivery,filename|sha256,d.bat|37078a400954db8edd7717afb95f22d7fe119efedc4691bff4e7ca2470ece1c8,Downloaded from file://hq-breach-alt-acknowledged.trycloudflare.com@SSL/DavWWWRoot/Invoice.lnk; mime: text/x-msdos-batch
+2024-04-26,Payload delivery,filename|sha512,d.bat|ca5cb63cbc5661189d3c5191ce1d4b28f29496839a9a7cf31948141cec7e34e0aa7054e94c409fb8dfc900531516b9946f17c3764cb4224c5e4bce0616f368ff,Downloaded from file://hq-breach-alt-acknowledged.trycloudflare.com@SSL/DavWWWRoot/Invoice.lnk; mime: text/x-msdos-batch
+2024-04-26,Payload delivery,filename|ssdeep,d.bat|24:wh280zOMKuVMVxRbzrpQJkqgqy5eiQr9K5Hk0hSMXgGaOM+1wcTxnIdK9/ZDjeFv:k28qNKu6dpQJkq31jhK558TGeslxnIdr,Downloaded from file://hq-breach-alt-acknowledged.trycloudflare.com@SSL/DavWWWRoot/Invoice.lnk; mime: text/x-msdos-batch
+2024-04-26,Network activity,url,file://hq-breach-alt-acknowledged.trycloudflare.com@SSL/DavWWWRoot/Invoice.lnk,Source: Network activity from scanned files.docx.url
+2024-04-26,Network activity,url,http://hq-breach-alt-acknowledged.trycloudflare.com@SSL/DavWWWRoot/a.cmd,Source: Network activity from d.bat
+2024-04-26,Network activity,url,http://hq-breach-alt-acknowledged.trycloudflare.com@SSL/DavWWWRoot/hy.ps1,Source: Network activity from d.bat
+2024-04-26,Network activity,url,http://hq-breach-alt-acknowledged.trycloudflare.com@SSL/DavWWWRoot/ib.ps1,Source: Network activity from d.bat
+2024-04-26,Network activity,url,http://hq-breach-alt-acknowledged.trycloudflare.com@SSL/DavWWWRoot/new.bat,Source: Network activity from d.bat
+2024-04-26,Network activity,url,https://www.irs.gov/pub/irs-pdf/f1040.pdf,Source: Network activity from d.bat
+2024-04-26,Payload delivery,filename|md5,hy.ps1|c867dbeca2907417d58f0bfb4de699d6,Downloaded from http://hq-breach-alt-acknowledged.trycloudflare.com@SSL/DavWWWRoot/hy.ps1; mime: text/plain
+2024-04-26,Payload delivery,filename|sha1,hy.ps1|fa942ea34e59c938d9c307a9c5054118b21fa699,Downloaded from http://hq-breach-alt-acknowledged.trycloudflare.com@SSL/DavWWWRoot/hy.ps1; mime: text/plain
+2024-04-26,Payload delivery,filename|sha256,hy.ps1|19317da5733e40de48774b836f81b6edd83a60976ef180b6e796928399cee1c3,Downloaded from http://hq-breach-alt-acknowledged.trycloudflare.com@SSL/DavWWWRoot/hy.ps1; mime: text/plain
+2024-04-26,Payload delivery,filename|sha512,hy.ps1|2658decfca16f085932c43ee6397cb449ab7ecf041d2c46630a5fdb3075c21eb9e5836ddb2e9018f4aac99f68ba9a1c3e19973da5c9ca58fc9bb2f7278b557e5,Downloaded from http://hq-breach-alt-acknowledged.trycloudflare.com@SSL/DavWWWRoot/hy.ps1; mime: text/plain

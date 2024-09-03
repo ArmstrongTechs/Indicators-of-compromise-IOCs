@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2024-04-11]
+| UUID: a17e8d9d-b40d-4016-899c-8d5d483037ac
+| Date: 2024-04-11
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-04-11,Payload installation,filename,SecuriteInfo.com.Variant.Zusy.541608.3032.24880,Source: MalwareBazaar
+2024-04-11,Payload installation,md5,5981df3a0f1f9a9faeb3917edaaef21b,Source: MalwareBazaar
+2024-04-11,Payload installation,sha1,4362b6d276011d9e1505b50208e98dd8b766649e,Source: MalwareBazaar
+2024-04-11,Payload installation,sha256,0f33ba6917d58b432d43274c7b6d4c5138b0cb58cb5db4ca01f26f79eb83b92c,Source: MalwareBazaar
+2024-04-11,Payload installation,filename,xVAHkaX9AHh8.exe,Source: MalwareBazaar
+2024-04-11,Payload installation,md5,87393efdc2ec2f56f7b0121e2b221a64,Source: MalwareBazaar
+2024-04-11,Payload installation,sha1,fcff8b2c1c56ac14ea94e3a9124d778e6e68113a,Source: MalwareBazaar
+2024-04-11,Payload installation,sha256,3e627caf802513a17c4cfb2fe30d0799f8b4f3d7570283a2b0ee45719cb5b531,Source: MalwareBazaar
+2024-04-11,Payload installation,filename,x1h52dJdta0O.exe,Source: MalwareBazaar
+2024-04-11,Payload installation,md5,88698eb5003a61735300b16b636245e7,Source: MalwareBazaar
+2024-04-11,Payload installation,sha1,eedc6c64352be318f05a9d1769669b66d5850800,Source: MalwareBazaar
+2024-04-11,Payload installation,sha256,41cbd49ef7c4e1953eb61e5d4b01f59c01d86a40028360fe7e83cabace5323a8,Source: MalwareBazaar
+2024-04-12,Payload installation,filename,x6Xw7vcuD9zM.exe,Source: MalwareBazaar
+2024-04-12,Payload installation,md5,8e79333bcd0ffce3c70a91eaeca78fbb,Source: MalwareBazaar
+2024-04-12,Payload installation,sha1,8ed9647ec41f18e07c73dec1e1341f5694ad4083,Source: MalwareBazaar
+2024-04-12,Payload installation,sha256,6cd120ca11ebe09c75358cb33c95d503e5be127ce725c2a28e9b3bb925de4292,Source: MalwareBazaar
