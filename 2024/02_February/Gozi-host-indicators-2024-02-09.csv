@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Gozi host indicators [2024-02-09]
+| UUID: 4d16989b-3c7f-4ee0-810b-ceaa9c1f95fd
+| Date: 2024-02-09
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-09,Payload installation,filename,main.php.00_0006ea00.dll,Source: MalwareBazaar
+2024-02-09,Payload installation,md5,c661c4659c4ecc91fda3c192226878bf,Source: MalwareBazaar
+2024-02-09,Payload installation,sha1,3f120537b9bd8fa0365ae8459d7394502a5ff511,Source: MalwareBazaar
+2024-02-09,Payload installation,sha256,730e35f847304e4d4e5a7aec86b1b39c41aecf29d445034439484689e1abff4f,Source: MalwareBazaar
+2024-02-09,Payload installation,filename,eb5218ce153db41158bdf7700ae8a51e415a418bb63896b3a7138ad49b520598.8cd6_9a00.dll,Source: MalwareBazaar
+2024-02-09,Payload installation,md5,7bb8b5974a947f223ae2b9517a5641d0,Source: MalwareBazaar
+2024-02-09,Payload installation,sha1,3dd551351bb7a15a9bb3b3b09611b4b9704e4e91,Source: MalwareBazaar
+2024-02-09,Payload installation,sha256,8bf69fe9bf7e1da499c6b18681b836b3dbf31c1ceb304009354217e95bf11999,Source: MalwareBazaar

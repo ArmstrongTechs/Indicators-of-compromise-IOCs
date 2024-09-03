@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-02-09]
+| UUID: a2d26100-901e-4dfe-ac5f-41b98c83938a
+| Date: 2024-02-09
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-09,Payload installation,filename,C9B284.exe,Source: MalwareBazaar
+2024-02-09,Payload installation,md5,c3e4af8772b7cfc52af6a1fa2f7598f3,Source: MalwareBazaar
+2024-02-09,Payload installation,sha1,bfaad19d9067b0595f7d798aa344d218bbac527c,Source: MalwareBazaar
+2024-02-09,Payload installation,sha256,0cae14234a421c5fa50da5945027c7d75167ae1c6517d7ce8733b4eb91b4c221,Source: MalwareBazaar
+2024-02-09,Payload installation,filename,10026+sparespdf.exe,Source: MalwareBazaar
+2024-02-09,Payload installation,md5,02c357ece4ba299dada28f0d6e3b7a53,Source: MalwareBazaar
+2024-02-09,Payload installation,sha1,86a975a3da3421cb7a7bde85e15998292a13a471,Source: MalwareBazaar
+2024-02-09,Payload installation,sha256,4603736b5846316729db29c6335b177210b8eb9c487624a1d1381a99db690203,Source: MalwareBazaar
+2024-02-09,Payload installation,filename,17074938086a37925e51090cde88bb9b9cab9c2809900b2e7c2a2e6b8d9f8e8d3d3ee8799e367.dat-decoded,Source: MalwareBazaar
+2024-02-09,Payload installation,md5,f4dc132f682d87e3e51674095c033324,Source: MalwareBazaar
+2024-02-09,Payload installation,sha1,107d1fec542472c41c6946ea7655d652fec503ce,Source: MalwareBazaar
+2024-02-09,Payload installation,sha256,b55d4a15baef37956d07e013f7a797858fd6eafef0a9ede36d7ddda43ffe4097,Source: MalwareBazaar

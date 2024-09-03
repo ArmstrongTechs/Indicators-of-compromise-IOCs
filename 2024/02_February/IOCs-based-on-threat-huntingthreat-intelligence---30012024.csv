@@ -1,0 +1,108 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: IOCs based on threat hunting/threat intelligence - 30.01.2024
+| UUID: 74e9fafc-d6c9-4565-8cca-036cda138287
+| Date: 2024-02-08
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-08,Payload delivery,filename|md5,app.exe|5e58319a867cfde2f61a5282427c077c,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha1,app.exe|c42a13d6b3096ea9032f26dd40bf36744b078cce,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha256,app.exe|59311e8e9a0a8fa14bc043613a4d38f8febdeb4f633fb3f36d812e9bfa236181,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha512,app.exe|33dbed2249906da800abd940cbb2bfee9b913dd8f28a98d88d94080b1b9c827fc4094b4c64082aae5989c13b3593ef3e59bb007084050a191afeda153cb0a0ca,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|ssdeep,app.exe|393216:VDw9QvyBAsNAfDCMUP/UwlADdFfXP1y1jRPcMjeqwUX:5yisJjP8nDdFVyTcMyqDX,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|imphash,app.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Network activity,domain,doonwload.fun,Source: Network activity from app.exe
+2024-02-08,Network activity,domain,inosthome.fun,Source: Network activity from app.exe
+2024-02-08,Network activity,url,http://doonwload.fun/,Source: Network activity from app.exe; C2
+2024-02-08,Payload delivery,filename|md5,Booking_5527_10.exe|7d4dc99b0ad90aecfc3278686361f1c5,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha1,Booking_5527_10.exe|8cf1664b173fb64dc6a30099617051240842d2a7,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha256,Booking_5527_10.exe|2ef3ecd1fa1f4f0bf04bf2b98727fc2b7e36bce45b799a30b38e57c7b89ae824,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha512,Booking_5527_10.exe|408fdd73ab59326d44ca810e80051bef6b3ae0925e4740d16833df80ec84aa8f7caf54244b2cceb674cd3d32dccaa34a9a1e531ce8f24a5b88865e22af486c5b,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|ssdeep,Booking_5527_10.exe|393216:Mj9DRMExSPyw25oTodMI2a8mkglaB0Uk7g5x0Y5tFmAy40FG0lOOMO:Mxq3PZbMdM7mkgiywR5tovi,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|imphash,Booking_5527_10.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|md5,Stealer.exe|fbf5a12df87b92a297463f28f215fd34,Source: Extracted from Booking_5527_10.exe; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha1,Stealer.exe|691f1806bb3054d4f2b785d8d6f5269d302043ca,Source: Extracted from Booking_5527_10.exe; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha256,Stealer.exe|548dfcfbd056ec14de630a2fc3632f5aaddcf78792d02d5a3f96436dc5e5c382,Source: Extracted from Booking_5527_10.exe; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha512,Stealer.exe|ead342adfd1f57cf83a0ff489ebf3c61a5f8da22e0a1eb9c9f13228d6b3d3eac4c070e0aa558ebddb37768dfd8400e3fe0f6da6cc60acf4f3bab801e4c6001c4,Source: Extracted from Booking_5527_10.exe; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|ssdeep,Stealer.exe|1536:VI6ux4T/p9a+yjjyrWCvYWCxzZ+D7nieNlZ6t4DR4I6ZHoa0oKkV2yoU+hqH:e6uxUp9aivOt6eI6R902PoDhqH,Source: Extracted from Booking_5527_10.exe; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|imphash,Stealer.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Source: Extracted from Booking_5527_10.exe; mime: application/x-ms-dos-executable
+2024-02-08,Network activity,url,http://109.234.35.82/collector.php,Source: Network activity from Stealer.exe
+2024-02-08,Network activity,url,https://icanhazip.com/,Source: Network activity from Stealer.exe
+2024-02-08,Payload delivery,filename|md5,booking.exe|dca8cceaf9527048e33a1ae7b08151d7,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha1,booking.exe|429f0ebf5675dfc2c47d16494fc4b25384cd3665,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha256,booking.exe|026d1018ff9caa454e8fa4c2b1efcbb3dd8745f1bf2ef47c940ea44dbc4c51a1,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha512,booking.exe|f04c26de5d66bba55fd2f19125942692c02ef4731d7308533f48a58162036c5165d53aec1c80cc7f049cd14573a4404950617b70681b4b445ba3adee1fa42eaa,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|ssdeep,booking.exe|393216:8Qi5d/MH9yyw9IcQt0Mgrli/2ZOJthl4agjNK:8Qij/M9ud7i/2atf8,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|imphash,booking.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Network activity,url,http://116.203.180.34/,Source: Network activity from booking.exe
+2024-02-08,Network activity,url,http://116.203.180.34/2a94f8268c41a597.php,Source: Network activity from booking.exe
+2024-02-08,Payload delivery,filename|md5,Bumble.exe|c925f16bbf87e187a1687772fc06d126,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha1,Bumble.exe|545a107dcdb9f063e7d6ec57345e82b5bc8b0acf,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha256,Bumble.exe|a4ad4a633bc912b7c80b37be15a18b5ea4d451694eb277dd867a9fc1b31825fd,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha512,Bumble.exe|7c0204c5a425630c68a6f5fd240c6cd4557294c509ca6b19b2df42671c40a77cc34ea96ab8981e77f9d40846ca26bbeb8101d8abc2425532686ebc998bbb25d8,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|ssdeep,Bumble.exe|393216:sjsKCVsNROxARxeTxfT3b1nCinULNFF+DG/Vhkr2z:sAKEsNgxo0xfDJVSvj+r2z,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|imphash,Bumble.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Network activity,url,https://steamcommunity.com/profiles/76561199564671869,Source: Network activity from Bumble.exe
+2024-02-08,Network activity,url,https://t.me/scubytale,Source: Network activity from Bumble.exe
+2024-02-08,Payload delivery,filename|md5,document_chappo.exe|6e62e68e7f2fa96e2cf9e973baa21505,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha1,document_chappo.exe|94a4e181ed4f49daa1edcf6bfde8a24e6e73d7fb,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha256,document_chappo.exe|70df64d620fadd65a765aa364a9717436638a7b343f5ac42a90ae4ea8503c9ba,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha512,document_chappo.exe|7c7d92fa1955f6534772e38b5db289941c2663f5a55941a9e0b3b48f6543b266e444420d61c97c9878c02e45d67578ea1d3ee95080e10e7d06d338485fe5be75,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|ssdeep,document_chappo.exe|196608:I7gNuvWzH44bw5cD0o/fSrm0h/caLPD9tfKHCeOYllgF:kzvWLbesAxBcYnfQJ,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|imphash,document_chappo.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Network activity,url,http://193.42.32.99/,Source: Network activity from document_chappo.exe
+2024-02-08,Network activity,url,http://193.42.32.99/14baef17b6d04c23.php,Source: Network activity from document_chappo.exe
+2024-02-08,Payload delivery,filename|md5,information.exe|b28d81f43e552872ca5bb72b95a40e70,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha1,information.exe|6b6e787385f33fd9f8a27cb85d77ff5f5f075016,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha256,information.exe|fd31c8cd7252b5af2160123e699d8e2f20aea6c07e8f39b241ec0b092581e329,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha512,information.exe|5814b8d6b1991c87204bfbdb667b183022ef1c6fd6f7402eeb23b07c236b25d4dc65bf3314bf455b7fbde5a10ecb2df845565c1607b81afb06e94b2843a6da89,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|ssdeep,information.exe|12288:yUs9rDJBnYwPzIFb4Hkslb58JJToePbRpz+QSHOipEy/XURJ66CPoMl/DKZDjz:Ls9rN9YwPzIFbDslb50xVXipZ/U76Ho/,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|imphash,information.exe|7d5c9bc3b53760a6f75e85d654cb2b75,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Network activity,url,http://5.75.177.20/,Source: Network activity from information.exe
+2024-02-08,Network activity,url,http://5.75.177.20/2a94f8268c41a597.php,Source: Network activity from information.exe
+2024-02-08,Payload delivery,filename|md5,jpg.exe|0b5c5dc081a7e01b760181c5b1ae3547,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha1,jpg.exe|54621ef8e008778cb9cd71558ee4c5352c1a18f6,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha256,jpg.exe|de01413f03f6d36b4869bf9fc14276d1fb50de291d3ca22f5922696bc57e9f47,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha512,jpg.exe|45240b65e27bc151aaa53e8d6d708a350d05090cd42b061d463a05ca2c82204f56bb4c8a2e7e753c8b863d2275de282e74e8ca556f3d4df8512d69303aa4775a,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|ssdeep,jpg.exe|393216:IthzQ0/bbd5zOAiIpXT1vQylqq9eWTwFLPqQ7Rc3gE9sdMC:u7/bbd5CgpXTtTVeL7RBa,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|imphash,jpg.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Network activity,url,http://91.212.166.95/,Source: Network activity from jpg.exe and pdf.exe
+2024-02-08,Network activity,url,http://91.212.166.95/08f7c1a754119dda.php,Source: Network activity from jpg.exe and pdf.exe
+2024-02-08,Payload delivery,filename|md5,lmncr2rs.exe|37953df0a83805f9a66369e1d8931773,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha1,lmncr2rs.exe|636a3b958e885c773b484e9dc26bf52d2f3349f0,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha256,lmncr2rs.exe|cc47d0324b09a84924c41bf62b955e73688483645489ae8638164feac38192d3,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha512,lmncr2rs.exe|62ec2ebe9d3797fb0705fb7a6373dff418c73590bdc988e5a03f29c34b21932acf2615b4f101a993c101af254ec9cc5504149822151548e6dd133b83f2817d61,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|ssdeep,lmncr2rs.exe|196608:eck02LlZyk/wYoG6+94CSeG4ZMb8smD2u3aC1O7hi3XgoXCx6aawfgHbiHWqVy:pk02JlZ4C44w8smKu3aCH3dXCMaawyTF,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|imphash,lmncr2rs.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Network activity,url,https://crisisestimatehealtwh.site/,Source: Network activity from lmncr2rs.exe; C2
+2024-02-08,Payload delivery,filename|md5,Meow.exe|0b01ec2c4b4faac5d7591c9b17d75d2d,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha1,Meow.exe|a28a8431348d751709887d1293c80237782ab6b6,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha256,Meow.exe|e2342e90d6baeda675e92025124c05266e4b99f251d967ff6a49ac65fa385060,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha512,Meow.exe|b1e8ce594be3b14968899c3be2c8bf8e583645beb3e3ec383821fcac0b8c8bbd4ff72c32bd11fed4194fd2e0b00cc53652d16fbfec516655ec8a0472ea93b17e,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|ssdeep,Meow.exe|98304:PKMBJC+aOomVZs3/H+ub898uncF7IsMZJ7ANoQbz5MYverP6JU+B59yO4SO:Ph++zg3/Hbb8GunsmJgMijJUnO,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|imphash,Meow.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Network activity,ip-dst|port,69.46.15.167|2220,Source: Network activity from Meow.exe; C2
+2024-02-08,Payload delivery,filename|md5,order.exe|b8289d5a1008a2df190dbc0645473bc2,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha1,order.exe|5d37893d6decce47e1682dabdd3776de1b6450a2,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha256,order.exe|340937ee90623de189051243e5f2e3a065b8a22d7ee8e36c0162506d15c0eccf,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha512,order.exe|99b4c6a9ef47322ec97984abfb58eaaf40bb0d0a63e34da6892e2d3ee251feba0e610a1ee075e735a154245926f0439e7a9b4e97dd65a3a42e451f365620c67b,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|ssdeep,order.exe|393216:l/1xVe9FPIZ6Z39PPmGhu2iD6bRs+RMfsFFdA:zwFPIZ29Ppu2iDMayRFPA,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|imphash,order.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Network activity,url,https://steamcommunity.com/profiles/76561199563297648,Source: Network activity from order.exe
+2024-02-08,Network activity,url,https://t.me/twowheelfun,Source: Network activity from order.exe
+2024-02-08,Payload delivery,filename|md5,Payment-schedule-Alphaplast-GMBG.exe|46b84c27dc9cb003f2de87fa041894c9,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha1,Payment-schedule-Alphaplast-GMBG.exe|f774ea66673ad2f3a5d8ce6d9e7b9467085fe141,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha256,Payment-schedule-Alphaplast-GMBG.exe|ccf11983ca3937cc907007b9fd6cbe9eab518c4bdc49eaa754186a7e9960839e,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha512,Payment-schedule-Alphaplast-GMBG.exe|94d11aabf44bf3a892879b2d8035636434b2c69ce4428aabe6ff106f0c453e78d575697c51cc146ebfd47beafa83c3d5ec28d6631212b57b2c983bd5889e94b6,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|ssdeep,Payment-schedule-Alphaplast-GMBG.exe|49152:m5n0Jt7HeMXgrb/TDvO90d7HjmAFd4A64nsfJaFpF00000hnxQxJ9F4vZtlje1pF:mOHyzK0IEp3wm4E87AuVG,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|imphash,Payment-schedule-Alphaplast-GMBG.exe|85cddd6092e65c1a58dd1e6e9ab9fc63,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Network activity,ip-dst|port,46.149.79.55|24264,Source: Network activity from Payment-schedule-Alphaplast-GMBG.exe; C2
+2024-02-08,Payload delivery,filename|md5,pdf.exe|dbc632e27c8baa772232c14bf91be588,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha1,pdf.exe|77e812358a403af579c022c68efd54917845ae3d,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha256,pdf.exe|2b0e4f111a18a60a848031d5126169d3b75b9bd1e66d0d0e2bd8493795554d4c,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|sha512,pdf.exe|dbf0a93067f8e0fbcda8ed64e8cfffaca1ed9c884007887d2e530a4acc3c6e0a83b9d96c2222e50378049631ad5a2328ccfe24aa3d2593dea4fc9b80340e93eb,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|ssdeep,pdf.exe|393216:dIuWaacRRSq3UA3AI5M0Uc6LgDcpnnu5/J67:vacRcqkrIy0U7pnk/c7,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable
+2024-02-08,Payload delivery,filename|imphash,pdf.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Source: Downloaded from SMB share on //89.23.98.22/UR/; mime: application/x-ms-dos-executable

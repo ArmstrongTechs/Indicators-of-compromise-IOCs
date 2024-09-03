@@ -1,0 +1,37 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Copy of Final Invoice - From: noreply@kuehne-nagel.com"" Campaign"
+| UUID: 8d90c46b-8649-41ec-a093-8ea47b4d801e
+| Date: 2024-02-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-13,Payload delivery,email-src,noreply@kuehne-nagel.com,Source email: from noreply@kuehne-nagel.com - subject: Copy of Final Invoice
+2024-02-13,Payload delivery,email-body,"<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body style=""font-size: 11pt; font-family: Arial;"">
+<p><span style=""font-family: Arial; font-size: 11pt;"">Good Morning,</span></p>
+<p><span style=""font-family: 'Arial', serif; font-size: 11pt;""> <br /></span></p>
+<p><span style=""font-family: 'Arial', serif; font-size: 11pt;"">Here with attached pre-alert documents..</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""font-family: 'Arial', serif; font-size: 11pt;"">Best regards,</span></p>
+<p>&nbsp;</p>
+<p>Sales</p>
+<p><strong>Kuehne + Nagel</strong><br />Exchange Place 10<br />07302 Jersey City <br />+1-201-413-5500<br>+1-201-413-5777</p>
+<p></p>
+<p><a href=""http://www.kuehne-nagel.com"">www.kuehne-nagel.com</a></p>
+</body>
+</html>",Source email: from noreply@kuehne-nagel.com - subject: Copy of Final Invoice
+2024-02-13,Payload delivery,email-subject,Copy of Final Invoice,Source: from noreply@kuehne-nagel.com - subject: Copy of Final Invoice
+2024-02-13,Payload delivery,filename|sha256,US0000527575.pdf|d859f4ca59bee60d3c8bea67e4035b973a17014b57aee57ad1a372934d9739b3,Malspam attachment - source: from noreply@kuehne-nagel.com - subject: Copy of Final Invoice mime: application/pdf
+2024-02-13,Payload delivery,filename|ssdeep,US0000527575.pdf|1536:Hi6W/VcR5tLzY0PrgvK57unbFVoRX5XeYqXFlo+:Hi6W9S5RznP+ScbFVoRX5jwFC+,Malspam attachment - source: from noreply@kuehne-nagel.com - subject: Copy of Final Invoice mime: application/pdf
+2024-02-13,Payload delivery,filename|sha1,US0000527575.pdf|c6a29bcf2e5ba1b3048635d105ecc70ae730c8fb,Malspam attachment - source: from noreply@kuehne-nagel.com - subject: Copy of Final Invoice mime: application/pdf
+2024-02-13,Payload delivery,filename|sha512,US0000527575.pdf|0808e8892c1504440469e00db2a605f3f38953cf0305ba4e3013c2003c434943cc5ef70b411e9c126510dbe2f01b1e2a2ef887baf118371592f41f8b024e6fce,Malspam attachment - source: from noreply@kuehne-nagel.com - subject: Copy of Final Invoice mime: application/pdf
+2024-02-13,Payload delivery,filename|md5,US0000527575.pdf|e90fe554706fcf4e1878b93461777db9,Malspam attachment - source: from noreply@kuehne-nagel.com - subject: Copy of Final Invoice mime: application/pdf
+2024-02-13,Network activity,url,https://kontaktlines.com/,Source: Network activity from US0000527575.pdf
+2024-02-13,Network activity,url,https://kontaktlines.com/us.kuehne-nagel.com,Source: Network activity from US0000527575.pdf

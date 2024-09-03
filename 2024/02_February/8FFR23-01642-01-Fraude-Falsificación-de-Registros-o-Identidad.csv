@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: 8FFR23-01642-01 [Fraude] [Falsificación de Registros o Identidad]
+| UUID: ffa5eb7d-2dfd-4521-a397-897e51ed6da1
+| Date: 2024-02-08
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-09,Network activity,ip-src,23.227.38.36,Host
+2024-02-09,Payload delivery,url,https://outdoorcolumbia.com,URLs
+2024-02-09,External analysis,attachment,8FFR24-01642-01.docx,Informe CSIRT
+2024-02-09,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática del Gobierno de Chile (CSIRT de Gobierno) ha identificado la activación de una página fraudulenta que suplanta a Columbia, la que podría servir para robar credenciales de usuario o datos bancarios.
+
+Lo anterior constituye una falsificación de marca que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2024-02-09,External analysis,attachment,8FFR24-01642-01.pdf,Informe CSIRT PDF
+2024-02-09,External analysis,attachment,imagen_sitio.png,Captura de Pantalla

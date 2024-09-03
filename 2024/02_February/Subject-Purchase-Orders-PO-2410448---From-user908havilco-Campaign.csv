@@ -1,0 +1,43 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Purchase Order(s) #PO-2410448 - From: user908@havil.co"" Campaign"
+| UUID: b92059f6-7ad0-4461-8ab7-e50c0c4fdd45
+| Date: 2024-02-08
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-08,Payload delivery,email-src,user908@havil.co,Source email: from user908@havil.co - subject: Purchase Order(s) #PO-2410448
+2024-02-08,Payload delivery,email-src-display-name,Amélie Grassineau,Source email: from user908@havil.co - subject: Purchase Order(s) #PO-2410448
+2024-02-08,Payload delivery,email-body,"Hello sir 
+
+Please find attached our purchase enquire. Please kindly offer us your discounted price, so we will proceed with the  purchasing of the order.
+
+
+ <hXXps://apexrugcleaningsydney.com[.]au/purchase%20enquire.exe> 
+
+
+
+
+
+Your prompt response will be highly appreciated.
+
+Thank you,
+Best 
+Amlie Grassineau
+Achats Mode / 01.42.77.00.33
+Shop : 111, Bd Beaumarchais 75003 Paris
+Office : 84, rue Amelot 75011 Paris
+EMAIL: [REDACTED][REDACTED]website: www.mcsc.com <http://www.mcsc.com>",Source email: from user908@havil.co - subject: Purchase Order(s) #PO-2410448
+2024-02-08,Payload delivery,email-subject,Purchase Order(s) #PO-2410448,Source: from user908@havil.co - subject: Purchase Order(s) #PO-2410448
+2024-02-08,Network activity,domain,cbrlandscapers.com.au,Source: Extracted from static config of purchase enquire.exe; data exfiltration via SMTP
+2024-02-08,Network activity,url,http://ip-api.com/line/?fields=hosting,Source: Network activity from purchase enquire.exe
+2024-02-08,Network activity,url,https://apexrugcleaningsydney.com.au/purchase%20enquire.exe,Source: Network activity from URL source: from user908@havil.co - subject: Purchase Order(s) #PO-2410448
+2024-02-08,Payload delivery,filename|imphash,purchase enquire.exe|d3bf8a7746a8d1ee8f6e5960c3f69378,Extracted from https://apexrugcleaningsydney.com.au/purchase%20enquire.exe; mime: application/x-dosexec
+2024-02-08,Payload delivery,filename|md5,purchase enquire.exe|559c90514b7b7b295b601a12d2aa0313,Extracted from https://apexrugcleaningsydney.com.au/purchase%20enquire.exe; mime: application/x-dosexec
+2024-02-08,Payload delivery,filename|sha1,purchase enquire.exe|e62f606887e919514cb4dd8699abfcb104b65933,Extracted from https://apexrugcleaningsydney.com.au/purchase%20enquire.exe; mime: application/x-dosexec
+2024-02-08,Payload delivery,filename|sha256,purchase enquire.exe|deeaaafa840e747d58e077c7bf4b81fd32599bb00c48ecbe9a416c0bdbece6c5,Extracted from https://apexrugcleaningsydney.com.au/purchase%20enquire.exe; mime: application/x-dosexec
+2024-02-08,Payload delivery,filename|sha512,purchase enquire.exe|9733d623cb780c0f08089a32552ae3bf0f6a1a7223dced702e9c3c10a713ba6428b6bec7629d69857886cbce5e9a861aa808bf45b2b15baabd76c794c5ace21a,Extracted from https://apexrugcleaningsydney.com.au/purchase%20enquire.exe; mime: application/x-dosexec
+2024-02-08,Payload delivery,filename|ssdeep,purchase enquire.exe|24576:+RmJkcoQricOIQxiZY1iamSbzTN4gTrVM7FoKj:rJZoQrbTFZY1iaBbzTN4w2Vj,Extracted from https://apexrugcleaningsydney.com.au/purchase%20enquire.exe; mime: application/x-dosexec
+2024-02-08,Network activity,email-dst,sales@cbrlandscapers.com.au,Source: Extracted from static config of purchase enquire.exe; data exfiltration via SMTP

@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: 8FFR24-01643-01 [Fraude] [Falsificación de Registros o Identidad]
+| UUID: b7d19d2b-dac2-48d8-8dc3-85cda2a6b86f
+| Date: 2024-02-08
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-09,Network activity,ip-src,190.107.176.64,Host
+2024-02-09,Payload delivery,url,https://eventosllacolen.cl/today/zimbra,URLs
+2024-02-09,External analysis,attachment,8FFR24-01643-01.docx,Informe CSIRT
+2024-02-09,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática del Gobierno de Chile (CSIRT de Gobierno) ha identificado la activación de una página fraudulenta que suplanta a Zimbra, la que podría servir para robar credenciales de usuario o datos bancarios.
+
+Lo anterior constituye una falsificación de la marca institucional que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2024-02-09,External analysis,attachment,8FFR24-01643-01.pdf,Informe CSIRT PDF
+2024-02-09,External analysis,attachment,imagen_sitio.png,Captura de Pantalla

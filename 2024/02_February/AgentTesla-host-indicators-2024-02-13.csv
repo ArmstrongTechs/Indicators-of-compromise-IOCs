@@ -1,0 +1,170 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-02-13]
+| UUID: f6abe3da-cf5d-45a6-9e84-5d76e4117f35
+| Date: 2024-02-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-13,Payload installation,filename,ODC#POX4500628950098574654323567875765674463.xla,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,5050f5b1923706a5a344f0cea983833c,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,6f2035353d09059e5a41b94d5d3b0c14fa02b145,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,79177daeb1fffbdf5b85d9428f67d69615594d2364fed1e9cb3fe420e372f2c7,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,SecuriteInfo.com.Win32.PWSX-gen.9989.30951,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,583f87e5b4d1929aef456998dc8b06ec,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,b0e38ea98c9d2bb24556be8246eef8eda752dd20,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,0ab9258ba53195ed9a0ee5473db7c1458f094e206371f31640750ba2e26f1f5e,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,"DAP Proforma Invoice,.exe",Source: MalwareBazaar
+2024-02-13,Payload installation,md5,ab5564715ecfc15a5393068707af9b95,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,e67ff8e1a3a1a7ab77a0ce7d1f656ad93f442855,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,8f7dd09ebad68587a1b57495d7a1568bb23951e51f366e27fe8a1712da55ba31,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,"DAP Proforma Invoice,.zip",Source: MalwareBazaar
+2024-02-13,Payload installation,md5,0caa7fbda0b16120501a986382178037,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,f779a60091ac9773db547fed0abd95b8affec30e,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,801d2fb4630f6eddc58ad47e4462cfb388faf47624430bbfc31459ec320e160d,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,Scan Copy-PI 001EXP23-24_pdf.rar,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,bdeb7d2dfeb8516ea5703c3716da184a,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,ecc5c389ab3071ed7444e138a47ca32468b8c238,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,c7e140758571cb238668d9ff04180979fe9568fb19c5c021605d91d5eebe9847,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,SecuriteInfo.com.Win32.PWSX-gen.29803.2297,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,1a2c080398d008170ab233e72f78c533,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,30248c19af188a1f9ea8c2ad79ad93f7fb555e8a,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,77b71576856185e15daeb6b0ad20b0745c744a8f14dad72c98f479f2802bf545,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,SecuriteInfo.com.Win32.PWSX-gen.18629.26158,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,650f93286fb53bb2b58b839ff6dd0677,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,1a1e7577c33d9c89aed52964fcbd09d7e9b76d2b,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,974bc563cc88df7e7133c1cdc06fce86f550ba2ef72ed6702d99d368c2675cc6,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,IGLIR00138528-pdf.exe,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,9a5e56507b3b4545859163eceee54695,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,d5bcf06f74a05a2d05933fcc062d096ab349119e,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,a726650fc075e0a724d011c40ea68c1ff530e492f1146c512cd76625ecf9dab2,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,Fiyat teklifi Istegi 23070 PER 1000 Adet …scanneed 00101.pdf.bat,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,a468f7ccf386cf53ce958c287d35db32,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,b63eb69231606298ecfdf0664b744254d9a37537,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,4e3966d7930bad5fe06070c32506ec910ca8c79386a91384b21ef9b89ef6bc9b,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,Booking05052.vbs,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,3de3e5c6854e6afc45844868f2fc6e41,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,02db6a26c171aaa17e347382329b077972c91bc6,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,736188643a77c5ba10cc3bbfa853f8c28c72cab78d1e774a12c7647347aca98d,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,Uni_Project0012.vbs,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,6fec200ae50301d9e7d4016d8c5bed1c,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,056b1e615dab98aeecdc9adaa477d7b7a3d986d6,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,0dd16a7ff7018085b6018965f2b714918716ac6cdcd29a9edde6d2a177b9abe8,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,PRICE INQUIRY.exe,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,cb4cdbc2d0069921204f532b43bae8d3,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,45e4439df5ef14e719ad14feec7622dc489146bd,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,bbbea2ab5d8c908df9c8446f86f5bdda283f4f4d01fff24f3f49cebb494f44da,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,Sketch Itinerary_Bhutan 2024.exe,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,aca76b492b23f9a27522411e3224b9e8,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,efd55db02b6af44ecb530741e97711b3ea0cac98,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,73dd393cb946ecaf77f70f7287b6a4a9a9a29c64645dfb8c9eb5586566af6869,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,MKi988.exe,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,2460bf25545d144cffe7bc8f3c57a164,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,39588b5a8b481181e8ab11c5860573b1cd92197e,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,3a6431acda94d042416bcab37257d49217114ea3f3050b72e8df66b49b0545a3,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,DEKONT-13-02-2024-98766789098765456789876567898765678.exe,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,27e7d59134beb9db7c5da7f1f2e2832a,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,bc6a8acc550632a6c888abb6225ed1bb06b51ffe,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,64b63793d096661c6c406b8944c179baac0ac3481941ed233132b1e69c8afec3,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,dekont_html.exe,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,c78dee9da500ba35f98f4c51fb32e424,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,bc17070701bf74d8b418c4e74513be6e3ef8ad6e,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,18df826503335194846ee7331de2fdabaec55d193e96ac07e3be7c79c64da882,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,Ödeme kopyası_pdf.exe,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,df98460b110f63c2efc2bdab2fa77bb3,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,d3aad723fe410f540e34772abcffa4c6fa1a8cb4,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,c22d6f263c5535692a549467a51263672fd18400f17b7fb394acca3fe8059a37,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,Abu __Dhabi Uni_project_334568.vbs,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,72b8133399ebdae8266961478edd25fa,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,561431572e0eb86ffe0ad43a7e495634ac3bd527,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,b069fe3fd37875db549eb1bd1dce6474f64900f6b5f224e519e1741952401c8c,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,IMG00078901PDF.vbs,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,b619a9e9431f7bb3c05e6a5d0ae8c472,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,c61ac7e455d1f14a5e6a6dff57e3def6e988148a,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,70bc33351e6b685f6816fb4f50671181deb9eecd9563c4f1c37526dc9aeb359c,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,ORDER #4059212650 - 2.13.2024.jar,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,c617b0acb3f63c9d8180750f623bcff2,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,9e0f47fa68e0f457de8c14e7016c422bf2f3c9f6,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,562bef2313b86351d0c3f5e13976dda8e49aa355b8690ea80181b59a205b7fd7,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,NEW PURCHASE ORDER #024.jar,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,da206931e8fb13c135bef0609234209c,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,992c579700b909336f131165ae322a9cad5aa8bb,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,200b60fcc0ebe4080aa6c9ce6aa417dd3e860329f0f6637b5fb86bc4dd8d043f,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,comprobante0089.xla,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,2110f2eca19cdd6bccf186799fb09f90,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,77e2ab2c414b3fcb414fe953b7afe3b5d85dffa2,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,f44324b10d18d0dab0d8ef44a4ae1248d47d5fbf22708b0a392e288c39912edf,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,Mlfqslack.exe,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,1ed0157519eed05a82f4fa9e4b216e9b,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,4f72cefac1c749247d42aed5eeaac8d6769b1548,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,760ce8c50b699024ce487ce6ecbfed434637b263088d56fdae65eeeeb3e3cba4,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,ESH.exe,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,0a9b775e4fdcd85d445104341efa3f2a,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,d8455755fe95f39d95d3239a73796c043707555e,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,bdfa1e10a23595bbddaaf73a1c45bd6e7f9be2b94020ba251d06ec5467858b92,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,Orden de compra.xlam.exe,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,048649e019a0730e919cc8c1f0b4e332,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,6ea4cd287004e57c703841a64f2ce5ed853954fb,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,c8634453c065450c28be1e99497aea78c294693e0c05e63a6d6fb83cc621f190,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,Factura comercial #00371.pdf.exe,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,1876923794a71144fdf9fddfda74b52a,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,e8860650b90c337f93adea5be4a6a11b537472dd,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,8c1566a413229aaae51d1bfb7626ff778614be13e1ec13d4e36ce8f4d0a85205,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,BL-#0248-7110.pdf.exe,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,dc93057f618b485536c1be36589d98ef,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,d5ccf86021a2c5e95a5fc9d87b68a10a21e9ef84,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,da40689154fc12d96ac9859396fc1820973cec02182de34982f84735a29e9e64,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,Facturas comerciales-3711.pdf.exe,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,e467e7b1ddeacce55c1fb15777deb595,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,0d97abfe648554ef641eff8b8276e0d62140e062,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,36fc887a49c7e4cb95161f870bff4157c1864f00a3466cde4571733bf3663c96,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,Al Adrak-RFQ-FEB-2024_PDF.scr,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,0401dc9af6a7c257f2e392b246f3e514,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,81240214bd185479eefbc1f55d61439b3e5f0486,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,299b6a2c1ea140d514d858008cbc42425f7e580d203942d742f21ee6d307d90e,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,Q98vYfmue01dl6d.exe,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,820946bccbcf8ad2dfb84bd12019f62d,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,59e798bb22b62e3ddf778462f2d527749f43a19b,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,1ec2472b6b24cd2f1f7616b2e9af810b6be16aef8c1001f929ba1db728c85209,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,M-Source_Quote 6086167-0.pdf.exe,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,cd4f5e4f8cdc94b77f0fd40c572a1a6f,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,c737dfd486756a3a3c0add79b770e1321de4713c,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,ac494597c0a472d234bb689f28f9dfb65383048cc275fc7b3249bd0b77c8a896,Source: MalwareBazaar
+2024-02-13,Payload installation,filename,SecuriteInfo.com.Win32.PWSX-gen.7792.31953,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,eb15ccfe78832d0a13986ea9506adc5b,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,9b6d1fde739b1ac5275060669ee8fa931f0d6c42,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,5d19d49dc5225e447f080b6d6e1ed941955ae51e0ad072c39238155cdd4fd239,Source: MalwareBazaar
+2024-02-14,Payload installation,filename,FVN001-230824.pdf.exe,Source: MalwareBazaar
+2024-02-14,Payload installation,md5,10b20add9944bbb31d7e345d2f51bdd0,Source: MalwareBazaar
+2024-02-14,Payload installation,sha1,18bd8335860b6480b1ac4054aaa3e37968175bde,Source: MalwareBazaar
+2024-02-14,Payload installation,sha256,5fdb3de171431980fb56572dd438f76f0b2d255797c2f1ee9ff55462be22eea0,Source: MalwareBazaar
+2024-02-14,Payload installation,filename,LnbZIhcSsmBZxan.exe,Source: MalwareBazaar
+2024-02-14,Payload installation,md5,3179b0ea0da744b38e17270f76426c24,Source: MalwareBazaar
+2024-02-14,Payload installation,sha1,15c826d0eaacd8a8be3f8c0a5a79f1f526f1bda6,Source: MalwareBazaar
+2024-02-14,Payload installation,sha256,1752f69c7e605937454b674b5ac2bc259b31d78abc331dd7c240dc00720cc759,Source: MalwareBazaar
+2024-02-14,Payload installation,filename,SecuriteInfo.com.Trojan.PackedNET.2679.26900.24886,Source: MalwareBazaar
+2024-02-14,Payload installation,md5,a8506bf1a11d304139c48334964fefce,Source: MalwareBazaar
+2024-02-14,Payload installation,sha1,57d5b782a33dd88964da211bb9b2856c71e1cde7,Source: MalwareBazaar
+2024-02-14,Payload installation,sha256,43ba52dbbb5b429c68cdf2c4af2f304be871646c633d72099e9c9b9ceb8fef93,Source: MalwareBazaar
+2024-02-14,Payload installation,filename,SecuriteInfo.com.Trojan.PackedNET.2679.18461.20562,Source: MalwareBazaar
+2024-02-14,Payload installation,md5,59b7ac7f307d5e3b35838f2e006e8279,Source: MalwareBazaar
+2024-02-14,Payload installation,sha1,1b227d1bd324051d66871ac8633c3ec68e24b635,Source: MalwareBazaar
+2024-02-14,Payload installation,sha256,3d38040b15c1ec1b47b63b58e32d4484707979fa2a7eb43cf25414fa04299414,Source: MalwareBazaar
+2024-02-14,Payload installation,filename,DHL-Bill of laden-packing-list-shipment documents.exe,Source: MalwareBazaar
+2024-02-14,Payload installation,md5,a5f11abae71070b66cafddf30347ded9,Source: MalwareBazaar
+2024-02-14,Payload installation,sha1,39aed3fdcecfdcd5b590a4cae48033d20bc1dc05,Source: MalwareBazaar
+2024-02-14,Payload installation,sha256,acc3af1d99c5b30de20a7c6c669401990ea4a9e15c101eb73b3efe86815d9c14,Source: MalwareBazaar
+2024-02-14,Payload installation,filename,RFQ202402 PDF.bat,Source: MalwareBazaar
+2024-02-14,Payload installation,md5,fce16dc5af4c5068354464e754cb9a75,Source: MalwareBazaar
+2024-02-14,Payload installation,sha1,93d7ae9a7e2e359c04f46c4d5f73f0e997967985,Source: MalwareBazaar
+2024-02-14,Payload installation,sha256,099846444a8e28d999b69fefc28857282996958f286b969508a6f39b892699f7,Source: MalwareBazaar
+2024-02-14,Payload installation,filename,"IMG_Scan-New PO #PSB-17398902, PSB-18384789.exe",Source: MalwareBazaar
+2024-02-14,Payload installation,md5,82277fef18809d9e5d74ed020a6fcde2,Source: MalwareBazaar
+2024-02-14,Payload installation,sha1,e6e3b6d56ee0ee4d2d85bf3f65932f9968904421,Source: MalwareBazaar
+2024-02-14,Payload installation,sha256,66d9239944d23d3680e32ff7044a29b44ac945379cdca227ba5b51f75d252a53,Source: MalwareBazaar
+2024-02-14,Payload installation,filename,ORA_1588453_2024_1_122_8022024_pdf                                                .img,Source: MalwareBazaar
+2024-02-14,Payload installation,md5,cca2c4f7847f3a31b4c9fd2631a1574c,Source: MalwareBazaar
+2024-02-14,Payload installation,sha1,25cfc56858d7c2f947bb2fefc0d62871a528499b,Source: MalwareBazaar
+2024-02-14,Payload installation,sha256,874c55082539da1029b7ee6316ccf5b21b8ee93787c3ccdc11ea3cf6e6604706,Source: MalwareBazaar

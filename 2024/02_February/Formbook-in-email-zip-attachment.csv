@@ -1,0 +1,40 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook in email (.zip) attachment
+| UUID: bfa8e45b-4159-4e0d-bf06-e1e97a73debf
+| Date: 2024-02-12
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-12,Persistence mechanism,filename,%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\skype\skype.exe,
+2024-02-12,Persistence mechanism,filename,%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\skype.lnk,
+2024-02-12,Network activity,domain,www.colbere.uk,
+2024-02-12,Network activity,domain,www.78669vip.com,
+2024-02-12,Network activity,domain,www.abttt.win,
+2024-02-12,Network activity,domain,www.adelaidesociety.com,
+2024-02-12,Network activity,domain,www.adenium1000rose.store,
+2024-02-12,Network activity,domain,www.barabell.com,
+2024-02-12,Network activity,domain,www.bodypopsshop.com,
+2024-02-12,Network activity,domain,www.canlicerrahi.xyz,
+2024-02-12,Network activity,domain,www.christmatoy.com,
+2024-02-12,Network activity,domain,www.forumhtc.com,
+2024-02-12,Network activity,domain,www.gadpuch.website,
+2024-02-12,Network activity,domain,www.gtalc.asia,
+2024-02-12,Network activity,domain,www.insightcherry.online,
+2024-02-12,Network activity,domain,www.justfeelgood.org,
+2024-02-12,Network activity,domain,www.themesterofsuepnse.rest,
+2024-02-12,Network activity,domain,www.visawe.online,
+2024-02-12,Payload delivery,malware-sample,Uplatnica.zip|1a6ce95c8ccec397e1e29905455a7715,
+2024-02-12,Payload delivery,filename,Uplatnica.zip,
+2024-02-12,Payload delivery,md5,1a6ce95c8ccec397e1e29905455a7715,
+2024-02-12,Payload delivery,sha1,85089daf28e207a96f138ad8a62731f6c7e2bf11,
+2024-02-12,Payload delivery,sha256,1a51959c958f560f6790f2414f0ed512b401c1f6ae4d263b16a316a99ad5d2f1,
+2024-02-12,Other,size-in-bytes,581771,
+2024-02-12,Payload delivery,malware-sample,Uplatnica.exe|3bed2d7843c7c9984f64c810df51753d,
+2024-02-12,Payload delivery,filename,Uplatnica.exe,
+2024-02-12,Payload delivery,md5,3bed2d7843c7c9984f64c810df51753d,
+2024-02-12,Payload delivery,sha1,fa7abb2f7f55d4b00c48eef9de58c663422a70f1,
+2024-02-12,Payload delivery,sha256,e2033f803a763455d1064f0223f7dfd79cf1c0a6c65cf3d0cf5e80576af4233e,
+2024-02-12,Other,size-in-bytes,834048,

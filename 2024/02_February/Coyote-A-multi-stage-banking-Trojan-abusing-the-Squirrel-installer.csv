@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Coyote: A multi-stage banking Trojan abusing the Squirrel installer
+| UUID: 9912f2b3-3a2b-4b33-a3df-a3ed0ccdbc69
+| Date: 2024-03-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-03-13,External analysis,link,https://securelist.com/coyote-multi-stage-banking-trojan/111846/,
+2024-03-13,Payload delivery,md5,071b6efd6d3ace1ad23ee0d6d3eead76,
+2024-03-13,Payload delivery,md5,276f14d432601003b6bf0caa8cd82fec,
+2024-03-13,Payload delivery,md5,5134e6925ff1397fdda0f3b48afec87b,
+2024-03-13,Payload delivery,md5,bf9c9cc94056bcdae6e579e724e8dbbd,
+2024-03-13,Network activity,domain,atendesolucao.com,C2
+2024-03-13,Network activity,domain,servicoasso.com,C2
+2024-03-13,Network activity,domain,dowfinanceiro.com,C2
+2024-03-13,Network activity,domain,centralsolucao.com,C2
+2024-03-13,Network activity,domain,traktinves.com,C2
+2024-03-13,Network activity,domain,diadaacaodegraca.com,C2
+2024-03-13,Network activity,domain,segurancasys.com,C2

@@ -1,0 +1,40 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Explotación Activa de Vulnerabilidades en Ivanti VPN y Secure Devices-056
+| UUID: f142ba60-ae6b-4bef-b712-f8996e41bd44
+| Date: 2024-02-02
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-03,External analysis,attachment,BOLETÍN 056.pdf,vulnerabilidades
+2024-02-03,Network activity,ip-src,146.0.228.66,
+2024-02-03,Network activity,ip-src,159.65.130.146,
+2024-02-03,Network activity,ip-src,8.137.112.245,
+2024-02-03,Network activity,ip-src,91.92.254.14,
+2024-02-03,Network activity,ip-src,186.179.39.235,
+2024-02-03,Network activity,ip-src,50.215.39.49,
+2024-02-03,Network activity,ip-src,45.61.136.14,
+2024-02-03,Network activity,ip-src,173.220.106.166,
+2024-02-03,Network activity,domain,symantke.com,
+2024-02-03,Network activity,domain,miltonhouse.nl,
+2024-02-03,Network activity,domain,entraide-internationale.fr,
+2024-02-03,Network activity,domain,api.d-n-s.name,
+2024-02-03,Network activity,domain,cpanel.netbar.org,
+2024-02-03,Network activity,domain,clickcom.click,
+2024-02-03,Network activity,domain,clicko.click,
+2024-02-03,Network activity,domain,duorhytm.fun,
+2024-02-03,Network activity,domain,line-api.com,
+2024-02-03,Network activity,domain,areekaweb.com,
+2024-02-03,Network activity,domain,ehangmun.com,
+2024-02-03,Network activity,domain,secure-cama.com,
+2024-02-03,Payload delivery,md5,3045f5b3d355a9ab26ab6f44cc831a83,
+2024-02-03,Payload delivery,md5,3d97f55a03ceb4f71671aa2ecf5b24e9,
+2024-02-03,Payload delivery,md5,2ec505088b942c234f39a37188e80d7a,
+2024-02-03,Payload delivery,md5,8eb042da6ba683ef1bae460af103cc44,
+2024-02-03,Payload delivery,md5,a739bd4c2b9f3679f43579711448786f,
+2024-02-03,Payload delivery,md5,a81813f70151a022ea1065b7f4d6b5ab,
+2024-02-03,Payload delivery,md5,d0c7a334a4d9dcd3c6335ae13bee59ea,
+2024-02-03,Payload delivery,md5,e8489983d73ed30a4240a14b1f161254,
+2024-02-03,Payload delivery,md5,465600cece80861497e8c1c86a07a23e,

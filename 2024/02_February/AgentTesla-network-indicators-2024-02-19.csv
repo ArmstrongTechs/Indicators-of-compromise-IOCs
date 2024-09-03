@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla network indicators [2024-02-19]
+| UUID: e8c71658-d642-4171-8cfe-5287dd6dcc8f
+| Date: 2024-02-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-20,Network activity,url,https://mail.isellemails.com/MediaLight/uploads/4ab4d276e4bdee338.exe,Source: urlhaus
+2024-02-20,Network activity,url,https://mail.isellemails.com/MediaLight/uploads/a300b665543b8909c.exe,Source: urlhaus
+2024-02-20,Network activity,url,https://antuofermo.it/G12.txt,Source: urlhaus

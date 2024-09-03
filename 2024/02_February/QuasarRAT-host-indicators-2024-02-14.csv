@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-02-14]
+| UUID: 65187311-1db7-41e0-8e66-f6178b302fae
+| Date: 2024-02-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-14,Payload installation,filename,Microsoft Gaming Helper.exe,Source: MalwareBazaar
+2024-02-14,Payload installation,md5,1f4df8c89189221420cd89ea0bdcf753,Source: MalwareBazaar
+2024-02-14,Payload installation,sha1,30d7c89bd5d28870a5f6c25749ef2bb7b797de72,Source: MalwareBazaar
+2024-02-14,Payload installation,sha256,b3573e1e395f30ce38648d8c9d5714ad35b0bcb93dbeabb1954e14b0199ca4d7,Source: MalwareBazaar

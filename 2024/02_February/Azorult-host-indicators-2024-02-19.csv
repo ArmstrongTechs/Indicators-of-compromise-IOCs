@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Azorult host indicators [2024-02-19]
+| UUID: ec0aaba2-1d78-46cc-a4cc-810810367720
+| Date: 2024-02-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-20,Payload installation,filename,AIR-WAY BILL AWB#6209011980.exe,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,ef25ff0d23d8da1b5250fd896896f53e,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,390d474c015306ebd252978d7dba78720238543b,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,7406da890d87374ab8f524683aef1c11f201068b95095aa20ac3712daaa0c5b3,Source: MalwareBazaar

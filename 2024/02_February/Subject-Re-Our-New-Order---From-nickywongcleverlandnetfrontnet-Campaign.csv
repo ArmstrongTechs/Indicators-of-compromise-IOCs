@@ -1,0 +1,43 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Re: Our New Order - From: nickywong@cleverland.netfront.net"" Campaign"
+| UUID: ae244574-485c-4354-8f8f-ce2bb4a4fc11
+| Date: 2024-02-08
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-08,Payload delivery,email-src,nickywong@cleverland.netfront.net,Source email: from nickywong@cleverland.netfront.net - subject: Re: Our New Order
+2024-02-08,Payload delivery,email-body,"Hello Dear
+
+Please check the Attached if you can make the samples according to our 
+requirements.
+
+Best regards,
+
+Tom Plante
+
+Sr. Director, Product Development
+
+RAVE  (A Division of Escalade )
+
+o 651.255.4805  I c 612.804.0528
+
+RAVE Material I 985 Aldrin Drive # 301, Eagan, MN 55121",Source email: from nickywong@cleverland.netfront.net - subject: Re: Our New Order
+2024-02-08,Payload delivery,email-subject,Re: Our New Order,Source: from nickywong@cleverland.netfront.net - subject: Re: Our New Order
+2024-02-08,Payload delivery,filename|sha256,QUOTATION_JANQTRFA00541.z|463e09bda848a9e99fa2846f3046c8ae389be8bcc2f6798b7b7ee6b5ffa51a07,Malspam attachment - source: from nickywong@cleverland.netfront.net - subject: Re: Our New Order mime: application/x-rar
+2024-02-08,Payload delivery,filename|ssdeep,QUOTATION_JANQTRFA00541.z|24576:nUbqDSp8du8UNoI/2Xnymx9lNuPYR9tf9z:nkeNue3yWLNbR5z,Malspam attachment - source: from nickywong@cleverland.netfront.net - subject: Re: Our New Order mime: application/x-rar
+2024-02-08,Payload delivery,filename|sha1,QUOTATION_JANQTRFA00541.z|44c85a6d6278eb954e36299f00705b812bd909e7,Malspam attachment - source: from nickywong@cleverland.netfront.net - subject: Re: Our New Order mime: application/x-rar
+2024-02-08,Payload delivery,filename|sha512,QUOTATION_JANQTRFA00541.z|3b58f9b80a1d87ffe828cbdba0b69992b4c4144ea7927f69752ba546b30b9f1204b96a65c41912dab496167629be487a59f5c5fc1185742462fd84a15d2f263e,Malspam attachment - source: from nickywong@cleverland.netfront.net - subject: Re: Our New Order mime: application/x-rar
+2024-02-08,Payload delivery,filename|md5,QUOTATION_JANQTRFA00541.z|37f7237d1e7d143672c6327a44e79e77,Malspam attachment - source: from nickywong@cleverland.netfront.net - subject: Re: Our New Order mime: application/x-rar
+2024-02-08,Payload delivery,filename|sha1,QUOTATION_JANQTRFA00541·PDF.scr|3e845daeba4ca04654e52a9f78a02cc13bf57cb7,Archive contents - source: QUOTATION_JANQTRFA00541.z mime: application/x-dosexec
+2024-02-08,Payload delivery,filename|imphash,QUOTATION_JANQTRFA00541·PDF.scr|f34d5f2d4577ed6d9ceec516c1f5a744,Archive contents - source: QUOTATION_JANQTRFA00541.z mime: application/x-dosexec
+2024-02-08,Payload delivery,filename|ssdeep,QUOTATION_JANQTRFA00541·PDF.scr|24576:XdqiuwXiqi4LABHCwRzHzHweR2DmdABfNaANPv:gKeC6zHweR2X/v,Archive contents - source: QUOTATION_JANQTRFA00541.z mime: application/x-dosexec
+2024-02-08,Payload delivery,filename|sha256,QUOTATION_JANQTRFA00541·PDF.scr|a71c315d1dd6cf7d9826158681ac4448d0c3f61af2ccfaee1e667879ae55df0b,Archive contents - source: QUOTATION_JANQTRFA00541.z mime: application/x-dosexec
+2024-02-08,Payload delivery,filename|sha512,QUOTATION_JANQTRFA00541·PDF.scr|8f59feb5d3779f1d31975136688a2d44db182ca7586f661f0c212d5678b56d7df8633c3534d011fd44e724320f9a12f0ea8436d6b6e6e919f453df257620e66f,Archive contents - source: QUOTATION_JANQTRFA00541.z mime: application/x-dosexec
+2024-02-08,Payload delivery,filename|md5,QUOTATION_JANQTRFA00541·PDF.scr|e32404105fea9d89895989d44f82021d,Archive contents - source: QUOTATION_JANQTRFA00541.z mime: application/x-dosexec
+2024-02-08,Network activity,domain,gator3220.hostgator.com,Source: Extracted from static config of QUOTATION_JANQTRFA00541·PDF.scr; data exfiltration via SMTP
+2024-02-08,Network activity,url,http://ip-api.com/line/?fields=hosting,Source: Network activity from QUOTATION_JANQTRFA00541·PDF.scr
+2024-02-08,Network activity,email-dst,rep3get@aoqiinflatables.com,Source: Extracted from static config of QUOTATION_JANQTRFA00541·PDF.scr; data exfiltration via SMTP
+2024-02-08,Network activity,email-dst,rep3send@aoqiinflatables.com,Source: Extracted from static config of QUOTATION_JANQTRFA00541·PDF.scr; data exfiltration via SMTP

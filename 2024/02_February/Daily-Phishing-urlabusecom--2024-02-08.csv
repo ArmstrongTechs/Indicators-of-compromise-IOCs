@@ -1,0 +1,1333 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Daily Phishing urlabuse.com | 2024-02-08
+| UUID: c81fbc0f-7fc2-47e7-9975-fe94f8c63b63
+| Date: 2024-02-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-10,Payload delivery,url,http://42.232.215.223:58826/Mozi.m,#ELF32MIPS
+2024-02-10,Payload delivery,url,http://222.138.73.64:53052/Mozi.m,#ELF32MIPS
+2024-02-10,Payload delivery,url,http://182.180.96.254:38598/Mozi.m,#ELF32MIPS
+2024-02-10,Payload delivery,url,http://117.248.25.199:35074/bin.sh,#ELF32MIPS
+2024-02-10,Payload delivery,url,http://188.251.225.180:40982/.i,#ELF32ARM_EABI5
+2024-02-10,Payload delivery,url,http://120.211.71.81:53596/i,#ELF32MIPS
+2024-02-10,Payload delivery,url,https://sinopbisikletkiralama.com/admin/BeeHlVaWwr67.bin,#DATA
+2024-02-10,Payload delivery,url,http://219.157.65.139:37168/Mozi.m,#ELF32MIPS
+2024-02-10,Payload delivery,url,http://123.10.213.255:60284/Mozi.m,#ELF32MIPS
+2024-02-10,Payload delivery,url,http://112.248.110.18:58863/Mozi.m,#ELF32MIPS
+2024-02-10,Payload delivery,url,http://27.206.80.166:40391/Mozi.m,#ELF32MIPS
+2024-02-10,Payload delivery,url,http://182.126.83.160:38508/Mozi.m,#ELF32MIPS
+2024-02-10,Payload delivery,url,http://123.9.199.78:56073/Mozi.m,#ELF32MIPS
+2024-02-10,Payload delivery,url,http://120.211.137.183:60579/bin.sh,#ELF32MIPS
+2024-02-10,Payload delivery,url,http://61.133.88.236:42709/Mozi.m,#ELF32MIPS
+2024-02-10,Payload delivery,url,http://195.20.16.46/ext/searchfz.jpeg,#CHROME_EXT
+2024-02-10,Payload delivery,url,http://195.20.16.46/ext/ksearches.jpeg,#CHROME_EXT
+2024-02-10,Payload delivery,url,http://195.20.16.46/ext/horizontimez.jpeg,#CHROME_EXT
+2024-02-10,Payload delivery,url,http://195.20.16.46/ext/askusdaily.jpeg,#CHROME_EXT
+2024-02-10,Payload delivery,url,http://193.233.132.167/cost/ladas.exe,#PE32INTEL_GUI
+2024-02-10,Payload delivery,url,http://193.187.174.182/f79abd6a472c7e1d/vcruntime140.dll,#PE32DLL_CMD
+2024-02-10,Payload delivery,url,http://193.187.174.182/f79abd6a472c7e1d/sqlite3.dll,#PE32DLL_CMD
+2024-02-10,Payload delivery,url,http://193.187.174.182/f79abd6a472c7e1d/msvcp140.dll,#PE32DLL_CMD
+2024-02-10,Payload delivery,url,http://123.10.213.255:60284/,#ELF32MIPS
+2024-02-10,Payload delivery,url,http://115.54.154.69:47823/bin.sh,#ELF32MIPS
+2024-02-10,Payload delivery,url,http://15.204.245.61/rebirth.spc,#ELF32SPARC
+2024-02-10,Payload delivery,url,http://15.204.245.61/rebirth.sh4,#ELF32SH
+2024-02-10,Payload delivery,url,http://15.204.245.61/rebirth.ppc,#ELF32CISCO
+2024-02-10,Payload delivery,url,http://15.204.245.61/rebirth.mpsl,#ELF32_MIPSv1
+2024-02-10,Payload delivery,url,http://15.204.245.61/rebirth.mips,#ELF32MIPS
+2024-02-10,Payload delivery,url,http://15.204.245.61/rebirth.m68,#ELF32MOTOROLA
+2024-02-10,Payload delivery,url,http://15.204.245.61/rebirth.arm5,#ELF32ARM_EABI4
+2024-02-10,Payload delivery,url,http://15.204.245.61/rebirth.arm4,#ELF32ARM_v1
+2024-02-10,Payload delivery,url,http://117.217.38.170:32906/Mozi.m,#ELF32MIPS
+2024-02-10,Payload delivery,url,http://109.107.182.3/mine/plaza.exe,#PE32INTEL_GUI
+2024-02-10,Payload delivery,url,http://asx.sunaviat.com/data/pdf/may.exe,#PE32INTEL_GUI
+2024-02-10,Payload delivery,url,http://61.54.232.35:36493/bin.sh,#ELF32MIPS
+2024-02-10,Payload delivery,url,http://61.2.111.163:52464/Mozi.m,#ELF32MIPS
+2024-02-10,Payload delivery,url,http://117.254.179.122:38184/Mozi.m,#ELF32MIPS
+2024-02-10,Network activity,hostname,att-yahoo-mail-100646.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://att-yahoo-mail-100646.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,coinz-baseprologin.godaddysites.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://coinz-baseprologin.godaddysites.com,Source URL
+2024-02-10,Other,text,Crypto,Target of the attack
+2024-02-10,Network activity,hostname,att-mail-103794.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://att-mail-103794.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,adrianabilea.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://adrianabilea.com/choiys/ryosan.co.kr/efax,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,zfile.akvsdk.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://zfile.akvsdk.workers.dev,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,kdaxpub-fixdapps.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://kdaxpub-fixdapps.pages.dev,Source URL
+2024-02-10,Other,text,Crypto,Target of the attack
+2024-02-10,Network activity,hostname,18yearoldgirlsexgroup.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://18yearoldgirlsexgroup.pages.dev,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,alisonsexygirl.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://alisonsexygirl.pages.dev,Source URL
+2024-02-10,Other,text,Whatsapp,Target of the attack
+2024-02-10,Network activity,hostname,od.iri.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://od.iri.workers.dev,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,jointhesinglegirlgroupontelegram.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://jointhesinglegirlgroupontelegram.pages.dev,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,meet-me-here.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://meet-me-here.pages.dev,Source URL
+2024-02-10,Other,text,Whatsapp,Target of the attack
+2024-02-10,Network activity,hostname,new-group-whatsappxxx.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://new-group-whatsappxxx.pages.dev,Source URL
+2024-02-10,Other,text,Whatsapp,Target of the attack
+2024-02-10,Network activity,hostname,ffwlervermgrdeoruderuwlervermgrdeoruderuyteysduiweyu.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://ffwlervermgrdeoruderuwlervermgrdeoruderuyteysduiweyu.pages.dev,Source URL
+2024-02-10,Other,text,Generic Email,Target of the attack
+2024-02-10,Network activity,hostname,rimson-point-9008.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://rimson-point-9008.pages.dev,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,dubproduction.org,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://dubproduction.org,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,diepostpay.net,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://diepostpay.net/card,Source URL
+2024-02-10,Other,text,Crypto,Target of the attack
+2024-02-10,Network activity,hostname,passsa.duckdns.org,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://passsa.duckdns.org,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,dhlllposteiweight.selfip.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://dhlllposteiweight.selfip.com/dh/,Source URL
+2024-02-10,Other,text,DHL,Target of the attack
+2024-02-10,Network activity,hostname,mail.tcbmtrhazineidgov209.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://mail.tcbmtrhazineidgov209.com,Source URL
+2024-02-10,Other,text,TR-GOV,Target of the attack
+2024-02-10,Network activity,hostname,thedomianname.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://thedomianname.pages.dev,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,login.cpssvcs.us,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://login.cpssvcs.us/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638430110473148018.ZmQzNGI0OTEtYzY1YS00YzI1LTg2OGYtOGY1M2MyNzZmMmZmMzg4NmYwMDYtMjQ2MC00NjhkLWEwMjItMmQwMGI4MDJmYWM2&ui_locales=en-US&mkt=en-US&client-request-id=6cb3dc69-7ce8-4a62-83e7-59eb6b9ffccc&state=Z3k-h3UbHX0bI8_RVyJvriMWUqgY36eOwhol2qVs5WEMTvbCOtFsIwKbZIyrZjxKIzxLScUEDRUOuipx0uSge_hEIfBonBGSttNv2-8iHURhhS48sEFBO1lZ_NvcnFbHJQGbMqaU2sXud_X2ue-Bi8InNusMADUyvLOZlXbuvlTrWcCvFDEFUpE9O29uUj28VAYF4iu7q8J9Asxc3SfllwCzvlnV80cucml5cNAJMGrpkPhoCVLwnGWPC5hQGb6FGlaGwIxQhe6q52x6mxSHkw&x-client-SKU=ID_NET6_0&x-client-ver=6.34.0.0,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,login.cpssvcs.us,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://login.cpssvcs.us/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638430110471795885.OTNlMWNhYWMtOGQxMy00MDM1LTg2YzgtNWZjYzUyNmUyMTkxMGEzNTliZjYtNTQ1Ni00ZGY0LTg0MzgtMTQ5YzVhNTc4YjNj&ui_locales=en-US&mkt=en-US&client-request-id=f5a71c5f-6d71-4d0c-946a-697b4fe8c462&state=i68OVGLfxUnEv6ERlqAQ8yTBUF-8OxwFHShmEmu8ZbSonOoBmQt7M8j3C8MWUMVHLEZQtYflfzPO6wUAVg4Lp_WHZ_MkHEGQYfoZExW8BAnjTuBQgoG2iwSnZP4M8YOzW2RarsGIuZIormekiMUERB8prX6zm39GPRKQnHmWLZ-bLHFA2NSToZ2pPWI0ztrBCdtRC-m-BUuBzt5OoF61DH99-wyvomXbSv3VONTYSHKG9jFXXAo8db8aaavwsLsRAauI4bo1BT2NpRRehyWPxQ&x-client-SKU=ID_NET6_0&x-client-ver=6.34.0.0,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,e718458b49256186a48df49ce0a15aeb.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://e718458b49256186a48df49ce0a15aeb.pages.dev,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,blank-template-6-43044.getresponsesite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://blank-template-6-43044.getresponsesite.com/,Source URL
+2024-02-10,Other,text,Generic Email,Target of the attack
+2024-02-10,Network activity,hostname,brco.myds.me,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://brco.myds.me/!dom2/!test18/sfr-imagepicker/index.html,Source URL
+2024-02-10,Other,text,SFR,Target of the attack
+2024-02-10,Network activity,hostname,jhukirofuck.lol,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://jhukirofuck.lol/a6Sg0,Source URL
+2024-02-10,Other,text,Orange,Target of the attack
+2024-02-10,Network activity,hostname,ljrtrucking.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://www.ljrtrucking.com/Configs/PostFinance/,Source URL
+2024-02-10,Other,text,PostFinance,Target of the attack
+2024-02-14,Network activity,hostname,cloudflare-ipfs.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cloudflare-ipfs.com/ipfs/bafkreib2lpxeelrl536rnuvx3cqahydsafq4rhx2l4nrbo633pzzqnxufa/,Source URL
+2024-02-10,Other,text,Generic Email,Target of the attack
+2024-02-10,Network activity,hostname,monribotclement.wixsite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://monribotclement.wixsite.com/voipmesagsjz-1,Source URL
+2024-02-10,Other,text,Orange,Target of the attack
+2024-02-14,Network activity,hostname,docs.google.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://docs.google.com/presentation/d/e/2PACX-1vRyClavteaq9oWkeDGwfrq7ioVt1ocYC4YAZrbctqOc2Ctd3SE7hqIbAkrlPwRbUKGN27yZmyf4J4qV/pub?start=false,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,llr.rwz.mybluehost.me,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://llr.rwz.mybluehost.me/passinc/,Source URL
+2024-02-10,Other,text,SwissPass,Target of the attack
+2024-02-14,Network activity,hostname,docs.google.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://docs.google.com/presentation/d/e/2PACX-1vTYzjyH0AfhXuDyuaF_3H3XNp2F6-vG2bTMcZnctSzB9l9nzCcYu5n1lZTJbw9B-HmzhiRZooPdik-D/pub?start=false,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-14,Network activity,hostname,docs.google.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://docs.google.com/presentation/d/e/2PACX-1vQT8ZQSd6TIRO2iTdqEWr_c7LdKWjURjwkuxQdi5BkQGwpSfiXrDWwXg9mCA-qYPcI6n56ijo5-qnxf/pub?start=false&loop=false&delayms=3000&slide=id.p,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-14,Network activity,hostname,tinyurl.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://tinyurl.com/yc44bzdx,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-14,Network activity,hostname,docs.google.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://docs.google.com/presentation/d/e/2PACX-1vSQIQZMW-h9gj16ZdIs60hSXZnWLY6WmxAmaicaDaK9mXqQIBTVUvjVLGmvEG38SdOGs2fXh6IAdEnH/pub?start=false,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,previewpdfoffice.dyynamic-360.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://previewpdfoffice.dyynamic-360.workers.dev/,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,scancodehub.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://scancodehub.com/HIUYDAHJKDSIUDANBMDAJHYIDAUJHADSM/dcfo/,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,poczta.pkp.pl,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://poczta.pkp.pl/,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,o4rakvvd6luqt-1324239560.cos.sa-saopaulo.myqcloud.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://o4rakvvd6luqt-1324239560.cos.sa-saopaulo.myqcloud.com/o4rakvvd6luqt.html,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,c23qvxnkktc95-1324239560.cos.eu-frankfurt.myqcloud.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://c23qvxnkktc95-1324239560.cos.eu-frankfurt.myqcloud.com/c23qvxnkktc95.html?e=,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,9771166x79hdp-1324239560.cos.ap-mumbai.myqcloud.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://9771166x79hdp-1324239560.cos.ap-mumbai.myqcloud.com/9771166x79hdp.html?e=,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,z14wj2b2n84v4-1324239560.cos.na-ashburn.myqcloud.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://z14wj2b2n84v4-1324239560.cos.na-ashburn.myqcloud.com/z14wj2b2n84v4.html,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,csnhr27hzgzif-1324239560.cos.ap-singapore.myqcloud.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://csnhr27hzgzif-1324239560.cos.ap-singapore.myqcloud.com/csnhr27hzgzif.html,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,officenced.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://www.officenced.com/nam/6c4b3346-5ad4-4991-b51e-bb35a33065b0/e3ea655b-ad9d-4195-8fc6-8ad66e15291f/c8f71fc7-1e96-4568-a92c-4a3e79729910/login?id=cElKbnV1L2d1aWQ0c3FITUpnRlFJRS9vNGRBMW16ZThHWE9pc0JDS0MvcS8zcTNTVEM0TE5XeGp2aU93NkkxZHdCTFEvUnF3WGhic05TekVDQncwSDlxSkpZeUYwSVI1VFhUM3Y5d0dpU2pUTURKSmQvYmlrbEpDTVp0UG5MTWVQeEhwSGhsaWJXTVZ6Z2FOUTNwYkFLWGtWQTVKSVE5Qnp0OFVrcWZaWkJJbW40ZHAvcmNXc3orV1BaYVhwSDdjUTd6cndBUi9UOFVpazRBcWc0QzNHZ0xFUUc0emhPRTI1NlRIcG8wVXNiNnhwemZJS1lTUnNhUmw0U2NJUlNjeVkxRDRSQlZzaUJXQlEybjhGQjNMeW52ZEkrME15MnU5eG5aRGlLS2kvbENXT0RTeGFuWW8yeFlJSnFLYS9ESUs0MnVmeFlzYlNjT3p2YVJHdWMzZlNRUEVzTHNpeWM5RWRiQjE5Yisxc0NIVm1qS3I1bXlhdXVtUThURzZvdDhNVk1ZZFVxREF0T3J5VXhYR0hjalB0QT09,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,pxcg1xv5fautw-1324239560.cos.ap-mumbai.myqcloud.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://pxcg1xv5fautw-1324239560.cos.ap-mumbai.myqcloud.com/pxcg1xv5fautw.html,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,officenced.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://www.officenced.com/nam/6c4b3346-5ad4-4991-b51e-bb35a33065b0/e3ea655b-ad9d-4195-8fc6-8ad66e15291f/376d03ee-c73c-44b5-8d43-4f617d8c8dc7/login?id=bmRmUVdGQnBkUGNXQkJXMER1U21tOG9CRW5KcDhJalByaENXVFgyb2pxSngxZGtjaXdjNFRIaG9BT255MkZHUWFXc0l3Y3ZhOFdxeWREcGpPWlFISjJGeFN0eHZwU3VTdG50b21WVE50SGZtVkVRK0Nwc1hIc2ZpV3FFSXpzKzFkekhzaGNwRS95OVJwKyttNy9PTGkycmhsMExjVHp5UWZtelFSbndSRGVHV0h5UmtqWHoyQ3ZzRVhpUjNQVFZFeU9JQTBVQmphZjRNVmdXcEozRm9TekY1ZW9Mb2hIZ0RFZ2dHYTUzMXRqTzJkbTdudVMrTXhRUXorQk1QMGlkOUNmWGdlMTFDUEhLMzRUektMT2U1OHE3MmVZVEl6SXNJaGl3Y3VRbFpHUGNLWUYzUmtJWjRwTkNRSEtUR2Q5ZXg5dG1RdXVJSkFDeFRPK0ZNSXFNamxrazh6TXdZMXJtUkhTNjM4RXI2U1ZsYzlMak9Xcm0zU3dTNmJWV1NldVhY,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cikguu-viral.bino-private-free.my.id,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cikguu-viral.bino-private-free.my.id/,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,debixuserincservice.sviluppo.host,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://debixuserincservice.sviluppo.host/app/debiX/,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,divsly.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://divsly.com/ScrRN,Source URL
+2024-02-10,Other,text,orange,Target of the attack
+2024-02-14,Network activity,hostname,sites.google.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://sites.google.com/view/messagerie-box/accueil?authuser=7,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,mostbet-slot.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://mostbet-slot.com/dpllo/login/ologin.php,Source URL
+2024-02-10,Other,text,Orange,Target of the attack
+2024-02-10,Network activity,hostname,boitevoicerange00.wixsite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://boitevoicerange00.wixsite.com/boitevoicerange00,Source URL
+2024-02-10,Other,text,Orange,Target of the attack
+2024-02-10,Network activity,hostname,grimnor69x.quest,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://grimnor69x.quest/cT5og,Source URL
+2024-02-10,Other,text,Orange,Target of the attack
+2024-02-10,Network activity,hostname,phn1zw.webwave.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://phn1zw.webwave.dev,Source URL
+2024-02-10,Other,text,Orange,Target of the attack
+2024-02-10,Network activity,hostname,yassistande.shop,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://yassistande.shop/otac,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,lnkz.at,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://lnkz.at/kD6e8,Source URL
+2024-02-10,Other,text,Orange,Target of the attack
+2024-02-10,Network activity,hostname,dev-cntactservicesorangeclubinf24.pantheonsite.io,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://dev-cntactservicesorangeclubinf24.pantheonsite.io/wp-content/Or0/orange/index.php?pwd=Elouafi&cheking=pass&id=57194551&access=,Source URL
+2024-02-10,Other,text,Orange,Target of the attack
+2024-02-14,Network activity,hostname,sites.google.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://sites.google.com/view/ccorbl1,Source URL
+2024-02-10,Other,text,Orange,Target of the attack
+2024-02-10,Network activity,hostname,page-personnel.hubside.fr,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://page-personnel.hubside.fr/,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,babatundes12.wixstudio.io,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://babatundes12.wixstudio.io/bt-update,Source URL
+2024-02-10,Other,text,BT,Target of the attack
+2024-02-10,Network activity,hostname,fstoppers.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://fstoppers.com/s3/files/styles/xlarge/s3/photos/427265/02/08/ae0d357fc3c6e0994061d71be5d0b97a.png?itok=btdF4o9b,Source URL
+2024-02-10,Other,text,POST EXPRESS,Target of the attack
+2024-02-10,Network activity,hostname,espaceclientorange8.wixsite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://espaceclientorange8.wixsite.com/espaceclientorange00,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,bujli69kon.lol,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://bujli69kon.lol/WJY0O,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,bvbdfh.hubside.fr,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://bvbdfh.hubside.fr/,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-15,Network activity,hostname,idm.in,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://idm.in/GnrvPHC,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,tokenpocket-tpmuo.org,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://tokenpocket-tpmuo.org,Source URL
+2024-02-10,Other,text,Token Pocket,Target of the attack
+2024-02-10,Network activity,hostname,donani.fr,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://donani.fr/maxi.html,Source URL
+2024-02-10,Other,text,Orange,Target of the attack
+2024-02-10,Network activity,hostname,new-interface-a53cec.zapier.app,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://new-interface-a53cec.zapier.app/,Source URL
+2024-02-10,Other,text,BT,Target of the attack
+2024-02-10,Network activity,hostname,bcrowle45.wixsite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://bcrowle45.wixsite.com/my-site,Source URL
+2024-02-10,Other,text,BT,Target of the attack
+2024-02-15,Network activity,hostname,resume.io,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://resume.io/r/Ew1NhW9kz,Source URL
+2024-02-10,Other,text,BT,Target of the attack
+2024-02-10,Network activity,hostname,smzjx.mjt.lu,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://smzjx.mjt.lu/nl3/Mn0PaRzbAXcDmAsXvVva7A?hl=fr,Source URL
+2024-02-10,Other,text,CIC,Target of the attack
+2024-02-10,Network activity,hostname,www-orang.hubside.fr,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://www-orang.hubside.fr/,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,s1.conseptbolo.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://s1.conseptbolo.com/,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,espace-client-authentification.hubside.be,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://espace-client-authentification.hubside.be/,Source URL
+2024-02-10,Other,text,Orange,Target of the attack
+2024-02-10,Network activity,hostname,schoolutions.africa,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://schoolutions.africa/modules/post/z0n51,Source URL
+2024-02-10,Other,text,Orange,Target of the attack
+2024-02-10,Network activity,hostname,partyrentalltd.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://partyrentalltd.pages.dev,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,weslinshoserihaecutetzinspon03.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://weslinshoserihaecutetzinspon03.pages.dev,Source URL
+2024-02-10,Other,text,Generic Email,Target of the attack
+2024-02-10,Network activity,hostname,man896.abk.ch,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://man896.abk.ch/cgi-bin/or.mail/,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,qrco.de,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://qrco.de/bemEZE,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,worldtrekimmigration.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://worldtrekimmigration.com/office/sup-msge23exo/Dir/Connexion.html,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,lyndseydesjardins.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://lyndseydesjardins.com/XASDFCookies2fa0990/dssoppesv/sup-mai/sup-mai/Dir/Connexion.html?utm_campaign=camfree,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,rd-dataservices.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://rd-dataservices.com/,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,dbfjdffnnfd.weebly.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://dbfjdffnnfd.weebly.com/,Source URL
+2024-02-10,Other,text,AT&T,Target of the attack
+2024-02-10,Network activity,hostname,home-100120.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://home-100120.weeblysite.com/,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,uspsp-ostal.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://uspsp-ostal.com,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,seeview.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://seeview.pages.dev,Source URL
+2024-02-10,Other,text,Generic Email,Target of the attack
+2024-02-10,Network activity,hostname,lkl3.icu,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://lkl3.icu,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,yhgh.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://yhgh.pages.dev/%5C%5C%5C%22https:%5C/%5C/t.myvisualiq.net%5C/impression_pixel,Source URL
+2024-02-10,Other,text,Yahoo!,Target of the attack
+2024-02-10,Network activity,hostname,ymail-102329.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://ymail-102329.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,wxf.sandiu505.xyz,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://wxf.sandiu505.xyz,Source URL
+2024-02-10,Other,text,Bet365,Target of the attack
+2024-02-10,Network activity,hostname,telegrrml.work,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://www.telegrrml.work,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,www-what-worlhn.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://www-what-worlhn.com,Source URL
+2024-02-10,Other,text,Whatsapp,Target of the attack
+2024-02-10,Network activity,hostname,lyndseydesjardins.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://www.lyndseydesjardins.com/XASDFCookies2fa0990/dssoppesv/sup-mai/sup-mai/Dir/Connexion.html,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,b04327.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://www.b04327.com,Source URL
+2024-02-10,Other,text,Bet365,Target of the attack
+2024-02-10,Network activity,hostname,9955311.cc,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://www.9955311.cc,Source URL
+2024-02-10,Other,text,Bet365,Target of the attack
+2024-02-10,Network activity,hostname,windowsreport.firm.in,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://windowsreport.firm.in,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,winbuddy.ru,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://winbuddy.ru,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,viral-scandal.viral-melayu.my.id,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://viral-scandal.viral-melayu.my.id,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,im20.net,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://im20.net/,Source URL
+2024-02-10,Other,text,Crypto,Target of the attack
+2024-02-10,Network activity,hostname,vcs-room-private.melayu-viral-vvip.my.id,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://vcs-room-private.melayu-viral-vvip.my.id,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,usus.ussprx.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://usus.ussprx.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usp.usspup.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://usp.usspup.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usp.ussptc.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://usp.ussptc.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usp.ussprp.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://usp.ussprp.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usp.ussprg.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://usp.ussprg.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usps.trackshipments-address.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://usps.trackshipments-address.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usps.teamtvpei.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://usps.teamtvpei.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usps.posthelpgn.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://usps.posthelpgn.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usps.mytrack-vt.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://usps.mytrack-vt.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usps.mytrack-ok.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://usps.mytrack-ok.com,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usps.mytrack-nd.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://usps.mytrack-nd.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usps.mytrack-mn.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://usps.mytrack-mn.com,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usps.mytrackingtj.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://usps.mytrackingtj.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usps.mytrackingqu.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://usps.mytrackingqu.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usps.mytrackingp.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://usps.mytrackingp.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usps.mytrackinge-tx.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://usps.mytrackinge-tx.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usps.hkjtion.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://usps.hkjtion.com,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,trackerr.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://trackerr.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,tokenas.app,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://tokenas.app,Source URL
+2024-02-10,Other,text,Crypto,Target of the attack
+2024-02-10,Network activity,hostname,tg.telegarm-ms.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://tg.telegarm-ms.top,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,telstra-109049.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://telstra-109049.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,telstra-108934.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://telstra-108934.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,telstra-107487.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://telstra-107487.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,telstra-107080.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://telstra-107080.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,telstra-106013.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://telstra-106013.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,telstra-104968.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://telstra-104968.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,telstra-104176.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://telstra-104176.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,telstra-104064.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://telstra-104064.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,telstra-103160.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://telstra-103160.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,telstra-102998.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://telstra-102998.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,telstra-102624.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://telstra-102624.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,telstra-101970.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://telstra-101970.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,teleqscm.club,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://teleqscm.club,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,telstra-101112.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://telstra-101112.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,telegramxgroups.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://telegramxgroups.pages.dev,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,tacking-uspst-ue.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://tacking-uspst-ue.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,tacking-uspst-nd.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://tacking-uspst-nd.com,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,tacking-uspst-mn.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://tacking-uspst-mn.com,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,bet04320.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://www.bet04320.com,Source URL
+2024-02-10,Other,text,Bet365,Target of the attack
+2024-02-10,Network activity,hostname,worker-muddy-block-7ce2.monmouth20.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://worker-muddy-block-7ce2.monmouth20.workers.dev,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,uspe.ussplj.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://uspe.ussplj.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,ubiquitous-crepe-04a4d2.netlify.app,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://ubiquitous-crepe-04a4d2.netlify.app,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,tg-mrkfjwg.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://tg-mrkfjwg.top,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,statuesque-jelly-fcz340.netlify.app,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://statuesque-jelly-fcz340.netlify.app,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,sginternett-dbssg-bankiing.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://sginternett-dbssg-bankiing.com/x/m/index.php,Source URL
+2024-02-10,Other,text,DBS Bank,Target of the attack
+2024-02-10,Network activity,hostname,sginternett-dbssg-bankiing.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://sginternett-dbssg-bankiing.com/x/index.php,Source URL
+2024-02-10,Other,text,DBS Bank,Target of the attack
+2024-02-10,Network activity,hostname,pub-78a9a9d8b3b14d60a24c7025b7ffdbf2.r2.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://pub-78a9a9d8b3b14d60a24c7025b7ffdbf2.r2.dev/scrot.html,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,papaya-palmier-05d480.netlify.app,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://papaya-palmier-05d480.netlify.app,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,erudicaoinvestimentos.com.br,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://erudicaoinvestimentos.com.br/se7982hjadsy8uiadnda78ui23/hkjadbdahydajbnsaduyda/dcfo,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,erudicaoinvestimentos.com.br,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://erudicaoinvestimentos.com.br/mbadjhgadbnaduydajhda/dcfo,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,d4.san65k.xyz,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://d4.san65k.xyz,Source URL
+2024-02-10,Other,text,Bet365,Target of the attack
+2024-02-10,Network activity,hostname,s7.ichlafmostel.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://s7.ichlafmostel.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,s5.servicedyalobd.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://s5.servicedyalobd.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,rjqpx365.cc,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://rjqpx365.cc,Source URL
+2024-02-10,Other,text,Bet365,Target of the attack
+2024-02-10,Network activity,hostname,room-gay-kaki-lancap.sumber-inportal.my.id,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://room-gay-kaki-lancap.sumber-inportal.my.id,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,pttosdnj.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://pttosdnj.pages.dev,Source URL
+2024-02-10,Other,text,AT&T,Target of the attack
+2024-02-10,Network activity,hostname,posthelpv.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://posthelpv.com,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,pedf.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://pedf.pages.dev/robots.txt,Source URL
+2024-02-10,Other,text,Yahoo!,Target of the attack
+2024-02-10,Network activity,hostname,mygrefutaxgocv.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://mygrefutaxgocv.pages.dev,Source URL
+2024-02-10,Other,text,AU-GOV,Target of the attack
+2024-02-10,Network activity,hostname,mutamaxkwalluit.weebly.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://mutamaxkwalluit.weebly.com,Source URL
+2024-02-10,Other,text,Yahoo!,Target of the attack
+2024-02-10,Network activity,hostname,mia0lwn-755c.temp0serv-onlinenet.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://mia0lwn-755c.temp0serv-onlinenet.workers.dev,Source URL
+2024-02-10,Other,text,Yahoo!,Target of the attack
+2024-02-10,Network activity,hostname,meiseek-ajsfgjasgfjasgfas97979asfasf7a9.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://meiseek-ajsfgjasgfjasgfas97979asfasf7a9.pages.dev,Source URL
+2024-02-10,Other,text,WeTransfer,Target of the attack
+2024-02-10,Network activity,hostname,marsh-cheerful-crate.glitch.me,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://marsh-cheerful-crate.glitch.me,Source URL
+2024-02-10,Other,text,Generic Email,Target of the attack
+2024-02-10,Network activity,hostname,lucah-melayu-vvip.sumber-inportal.my.id,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://lucah-melayu-vvip.sumber-inportal.my.id,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,live-room-bogel.sumber-inportal.my.id,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://live-room-bogel.sumber-inportal.my.id,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,liveprivatevideo3.viral-vip.my.id,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://liveprivatevideo3.viral-vip.my.id,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,liveprivatehot.sumber-inportal.my.id,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://liveprivatehot.sumber-inportal.my.id,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,junuenart.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://junuenart.com,Source URL
+2024-02-10,Other,text,Crypto,Target of the attack
+2024-02-10,Network activity,hostname,joinourgroup.info,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://joinourgroup.info,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,info-cpns-dan-pppk.octafx.my.id,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://info-cpns-dan-pppk.octafx.my.id,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,instagramfreefollower8.blogspot.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://instagramfreefollower8.blogspot.com,Source URL
+2024-02-10,Other,text,Instagram,Target of the attack
+2024-02-10,Network activity,hostname,imtoken-rk.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://imtoken-rk.top,Source URL
+2024-02-10,Other,text,Crypto,Target of the attack
+2024-02-10,Network activity,hostname,googlechormee.blogspot.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://googlechormee.blogspot.com,Source URL
+2024-02-10,Other,text,Instagram,Target of the attack
+2024-02-10,Network activity,hostname,gaylancap-vvip.sumber-inportal.my.id,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://gaylancap-vvip.sumber-inportal.my.id,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,freefollower089.blogspot.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://freefollower089.blogspot.com,Source URL
+2024-02-10,Other,text,Instagram,Target of the attack
+2024-02-10,Network activity,hostname,ff.members-garena.io.vn,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://ff.members-garena.io.vn,Source URL
+2024-02-10,Other,text,Facebook,Target of the attack
+2024-02-10,Network activity,hostname,bafybeiarlagic7pj2ihd7vpymgs2753rixflhdfeh6ocrs5cvekctypsva.ipfs.cf-ipfs.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://bafybeiarlagic7pj2ihd7vpymgs2753rixflhdfeh6ocrs5cvekctypsva.ipfs.cf-ipfs.com/,Source URL
+2024-02-10,Other,text,Generic Email,Target of the attack
+2024-02-10,Network activity,hostname,edevletiadelerbaslamakta.pt,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://edevletiadelerbaslamakta.pt,Source URL
+2024-02-10,Other,text,TR-GOV,Target of the attack
+2024-02-10,Network activity,hostname,dh801ed.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://dh801ed.pages.dev,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,csc-2s5.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://csc-2s5.pages.dev,Source URL
+2024-02-10,Other,text,Whatsapp,Target of the attack
+2024-02-17,Network activity,hostname,cf-ipfs.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://cf-ipfs.com/ipfs/QmPWMWc6dPKmrNdXBRPh7kPkMBBm1jDq8cv8Zq9oRg9bWX,Source URL
+2024-02-10,Other,text,Generic Email,Target of the attack
+2024-02-10,Network activity,hostname,coinabse-prologin.godaddysites.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://coinabse-prologin.godaddysites.com,Source URL
+2024-02-10,Other,text,Crypto,Target of the attack
+2024-02-10,Network activity,hostname,cdnonedrive.zengxiaopi123.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://cdnonedrive.zengxiaopi123.workers.dev,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,bt-login-104445.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://bt-login-104445.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,btcooonnect.weebly.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://btcooonnect.weebly.com,Source URL
+2024-02-10,Other,text,AT&T,Target of the attack
+2024-02-10,Network activity,hostname,bt1business.weebly.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://bt1business.weebly.com,Source URL
+2024-02-10,Other,text,AT&T,Target of the attack
+2024-02-10,Network activity,hostname,bt-100684.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://bt-100684.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,beynedidier90.wixsite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://beynedidier90.wixsite.com/my-site-1,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,b.3656240203.xyz,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://b.3656240203.xyz,Source URL
+2024-02-10,Other,text,Bet365,Target of the attack
+2024-02-10,Network activity,hostname,b04328.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://b04328.com,Source URL
+2024-02-10,Other,text,Bet365,Target of the attack
+2024-02-10,Network activity,hostname,attt-106148.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://attt-106148.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,attinc-101356.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://attinc-101356.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,attnetwor.weebly.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://attnetwor.weebly.com,Source URL
+2024-02-10,Other,text,AT&T,Target of the attack
+2024-02-10,Network activity,hostname,att-109675.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://att-109675.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,att-107283.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://att-107283.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,att-105664.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://att-105664.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,att-101190.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://att-101190.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,att-100552.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://att-100552.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,arachuuqoub.terbaru-2023.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://arachuuqoub.terbaru-2023.com,Source URL
+2024-02-10,Other,text,Facebook,Target of the attack
+2024-02-10,Network activity,hostname,99553-99553.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://99553-99553.com,Source URL
+2024-02-10,Other,text,Bet365,Target of the attack
+2024-02-10,Network activity,hostname,995535.vip,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://995535.vip,Source URL
+2024-02-10,Other,text,Bet365,Target of the attack
+2024-02-10,Network activity,hostname,cf-onedrive.hatu.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cf-onedrive.hatu.workers.dev/?sso_reload=true,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,tgadminuser.jqrjob.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://tgadminuser.jqrjob.com/,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,0ggafk.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://0ggafk.com/,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,jawatankosong.sumber-inportal.my.id,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://jawatankosong.sumber-inportal.my.id/main/index.php,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,04323b.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://04323b.com,Source URL
+2024-02-10,Other,text,Bet365,Target of the attack
+2024-02-10,Network activity,hostname,3th-qc-e-i2-w4qj-i74-ol-td9wlkg-o.vercel.app,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://3th-qc-e-i2-w4qj-i74-ol-td9wlkg-o.vercel.app,Source URL
+2024-02-10,Other,text,Facebook,Target of the attack
+2024-02-10,Network activity,hostname,wx8.xyz,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://wx8.xyz,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,iadencepteislemler.app,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://iadencepteislemler.app,Source URL
+2024-02-10,Other,text,TR-GOV,Target of the attack
+2024-02-10,Network activity,hostname,bloquepagos.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://bloquepagos.com,Source URL
+2024-02-10,Other,text,Banco Popular,Target of the attack
+2024-02-10,Network activity,hostname,islemlergirisgovtrportal.app,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://islemlergirisgovtrportal.app,Source URL
+2024-02-10,Other,text,TR-GOV,Target of the attack
+2024-02-10,Network activity,hostname,pub-1219515ffb7d4e5aae720b520e5d45e8.r2.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://pub-1219515ffb7d4e5aae720b520e5d45e8.r2.dev/webmail2.html,Source URL
+2024-02-10,Other,text,Generic Email,Target of the attack
+2024-02-10,Network activity,hostname,e-finance-postfinance-vlogin.pinturasvitorpisco.pt,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://www.e-finance-postfinance-vlogin.pinturasvitorpisco.pt/dashboard.cf,Source URL
+2024-02-10,Other,text,PostFinance,Target of the attack
+2024-02-10,Network activity,hostname,98488.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://98488.pages.dev,Source URL
+2024-02-10,Other,text,Whatsapp,Target of the attack
+2024-02-10,Network activity,hostname,ia601307.us.archive.org,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://ia601307.us.archive.org/24/items/bless_20240204/bless.shtml,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,lnk.to,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://lnk.to/eFEeWl,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,post-sendung.tutdomen.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://post-sendung.tutdomen.com/spd/ch/,Source URL
+2024-02-10,Other,text,DIEPOST,Target of the attack
+2024-02-10,Network activity,hostname,dzswisspassdomainch.web.app,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://dzswisspassdomainch.web.app/,Source URL
+2024-02-10,Other,text,SwissPass,Target of the attack
+2024-02-10,Network activity,hostname,rabxbangla.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://rabxbangla.com/ch/,Source URL
+2024-02-10,Other,text,DPD,Target of the attack
+2024-02-10,Network activity,hostname,sqgvqsxawa.blogspot.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://sqgvqsxawa.blogspot.com/,Source URL
+2024-02-10,Other,text,Netflix,Target of the attack
+2024-02-10,Network activity,hostname,app.funnel-preview.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://app.funnel-preview.com/for_domain/jamessettl3.clickfunnels.com/optin1706798013246,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,start4vps.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://start4vps.com/,Source URL
+2024-02-10,Other,text,SwissPost,Target of the attack
+2024-02-10,Network activity,hostname,xao.cra.mybluehost.me,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://xao.cra.mybluehost.me/SBB/index/,Source URL
+2024-02-10,Other,text,SwissPass,Target of the attack
+2024-02-10,Network activity,hostname,olinpozsen-dort.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://olinpozsen-dort.com/,Source URL
+2024-02-10,Other,text,SwissPass,Target of the attack
+2024-02-10,Network activity,hostname,sbonlinegruppesch.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://sbonlinegruppesch.com/sbch,Source URL
+2024-02-10,Other,text,SwissPass,Target of the attack
+2024-02-10,Network activity,hostname,vd6ky0gpver5z-1324239560.cos.na-ashburn.myqcloud.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://vd6ky0gpver5z-1324239560.cos.na-ashburn.myqcloud.com/vd6ky0gpver5z.html,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,pgkocwg7nxnqq-1324239560.cos.na-ashburn.myqcloud.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://pgkocwg7nxnqq-1324239560.cos.na-ashburn.myqcloud.com/pgkocwg7nxnqq.html,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,open-live-room-vvip.private-vvip.my.id,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://open-live-room-vvip.private-vvip.my.id/,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,mprtn-ete-pgp-protect.vercel.app,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://mprtn-ete-pgp-protect.vercel.app/?email=,Source URL
+2024-02-10,Other,text,Proton,Target of the attack
+2024-02-10,Network activity,hostname,paikaribaba.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://paikaribaba.com/en/,Source URL
+2024-02-10,Other,text,DPD,Target of the attack
+2024-02-10,Network activity,hostname,misdept.desmarkpremio.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://misdept.desmarkpremio.com/ch/,Source URL
+2024-02-10,Other,text,DPD,Target of the attack
+2024-02-10,Network activity,hostname,qsdqs50dqs.blogspot.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://qsdqs50dqs.blogspot.com/,Source URL
+2024-02-10,Other,text,Spotify,Target of the attack
+2024-02-10,Network activity,hostname,vsqvq0s0v.blogspot.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://vsqvq0s0v.blogspot.com/,Source URL
+2024-02-10,Other,text,Spotify,Target of the attack
+2024-02-10,Network activity,hostname,vlamisgna.blogspot.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://vlamisgna.blogspot.com/,Source URL
+2024-02-10,Other,text,Spotify,Target of the attack
+2024-02-10,Network activity,hostname,aa00a0a.blogspot.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://aa00a0a.blogspot.com/,Source URL
+2024-02-10,Other,text,Spotify,Target of the attack
+2024-02-10,Network activity,hostname,zxca60.blogspot.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://zxca60.blogspot.com/,Source URL
+2024-02-10,Other,text,Spotify,Target of the attack
+2024-02-10,Network activity,hostname,qsgqsdf0.blogspot.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://qsgqsdf0.blogspot.com/,Source URL
+2024-02-10,Other,text,Spotify,Target of the attack
+2024-02-10,Network activity,hostname,08524.kayci-music.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://08524.kayci-music.com/ss/,Source URL
+2024-02-10,Other,text,DHL,Target of the attack
+2024-02-10,Network activity,hostname,wwdza1.blogspot.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://wwdza1.blogspot.com/,Source URL
+2024-02-10,Other,text,Spotify,Target of the attack
+2024-02-10,Network activity,hostname,debix-gesperrt-app-3ds.codeanyapp.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://debix-gesperrt-app-3ds.codeanyapp.com/daten/derta/,Source URL
+2024-02-10,Other,text,Generic Email,Target of the attack
+2024-02-10,Network activity,hostname,vwr.geg.mybluehost.me,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://vwr.geg.mybluehost.me/SBCFFFFS/,Source URL
+2024-02-10,Other,text,SwissPost,Target of the attack
+2024-02-10,Network activity,hostname,info.neu.planen.lieferung.4-232-168-112.cprapid.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://info.neu.planen.lieferung.4-232-168-112.cprapid.com/dpd/update.php,Source URL
+2024-02-10,Other,text,DPD,Target of the attack
+2024-02-10,Network activity,hostname,unstapay.sa.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://unstapay.sa.com/blue.php,Source URL
+2024-02-10,Other,text,SwissPost,Target of the attack
+2024-02-10,Network activity,hostname,du-quickpay.org,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://du-quickpay.org,Source URL
+2024-02-10,Other,text,du(AE),Target of the attack
+2024-02-10,Network activity,hostname,durecido.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://durecido.com,Source URL
+2024-02-10,Other,text,du(AE),Target of the attack
+2024-02-10,Network activity,hostname,gfhgu.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://gfhgu.pages.dev,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,hjp.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://hjp.pages.dev,Source URL
+2024-02-10,Other,text,Yahoo!,Target of the attack
+2024-02-10,Network activity,hostname,mmpsw.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://mmpsw.pages.dev,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,dzioi.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://dzioi.pages.dev,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,contactmynewviptelegram.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://contactmynewviptelegram.pages.dev,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,jhm99.icu,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://jhm99.icu,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,upsbb.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://upsbb.pages.dev,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,d5443.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://d5443.top,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,b7721.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://b7721.top,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,yeniy41.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://yeniy41.top,Source URL
+2024-02-10,Other,text,TR-GOV,Target of the attack
+2024-02-10,Network activity,hostname,669b.cyou,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://669b.cyou,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,webislemlerimgiris.app,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://webislemlerimgiris.app,Source URL
+2024-02-10,Other,text,TR-GOV,Target of the attack
+2024-02-10,Network activity,hostname,lucky-fire.qulakecy.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://lucky-fire.qulakecy.workers.dev/,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,tg.telegarm-oe.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://tg.telegarm-oe.top/,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,e7zoc6og8mooe-1324239560.cos.na-siliconvalley.myqcloud.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://e7zoc6og8mooe-1324239560.cos.na-siliconvalley.myqcloud.com/e7zoc6og8mooe.html?e=,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,telegrmsn.club,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://telegrmsn.club/,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,telegrmsn.bond,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://telegrmsn.bond/,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,telegrmsn.icu,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://telegrmsn.icu/,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,telegrim.org,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://telegrim.org/,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,imtoken-bf.tel,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://imtoken-bf.tel,Source URL
+2024-02-10,Other,text,imToken,Target of the attack
+2024-02-10,Network activity,hostname,arbdoge-ai.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://arbdoge-ai.pages.dev,Source URL
+2024-02-10,Other,text,Crypto,Target of the attack
+2024-02-10,Network activity,hostname,meta001.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://meta001.pages.dev,Source URL
+2024-02-10,Other,text,Generic Email,Target of the attack
+2024-02-10,Network activity,hostname,brandymorgon69.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://brandymorgon69.pages.dev,Source URL
+2024-02-10,Other,text,Whatsapp,Target of the attack
+2024-02-10,Network activity,hostname,gut.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://gut.pages.dev,Source URL
+2024-02-10,Other,text,Yahoo!,Target of the attack
+2024-02-14,Network activity,hostname,cloudflare-ipfs.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cloudflare-ipfs.com/ipfs/bafkreigxrq4mhsz6g27qqmgm5x4tbk2lnghe27inbavaisizvnsz32szwa,Source URL
+2024-02-10,Other,text,Generic Email,Target of the attack
+2024-02-10,Network activity,hostname,sbbkonto.sviluppo.host,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://sbbkonto.sviluppo.host/pass/,Source URL
+2024-02-10,Other,text,SwissPass,Target of the attack
+2024-02-10,Network activity,hostname,yhgh.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://yhgh.pages.dev,Source URL
+2024-02-10,Other,text,Yahoo!,Target of the attack
+2024-02-10,Network activity,hostname,islemlerwebgiris.app,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://islemlerwebgiris.app,Source URL
+2024-02-10,Other,text,TR-GOV,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/f29e3896-30bd-4a39-9424-453f30ce3c1b,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/c540eed5-4d4c-495f-aab6-49e11ff05828,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,one.neri.eu.org,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://one.neri.eu.org/,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,imtoken-bf.biz,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://imtoken-bf.biz,Source URL
+2024-02-10,Other,text,imToken,Target of the attack
+2024-02-10,Network activity,hostname,muddy-moon-71b4.soznvztbmy1542.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://muddy-moon-71b4.soznvztbmy1542.workers.dev,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,ohvgo.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://ohvgo.pages.dev,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,ae593bbe86d4a47523319499913e99e4.loophole.site,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://ae593bbe86d4a47523319499913e99e4.loophole.site,Source URL
+2024-02-10,Other,text,Instagram,Target of the attack
+2024-02-10,Network activity,hostname,brandy-morgon-sexy.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://brandy-morgon-sexy.pages.dev,Source URL
+2024-02-10,Other,text,Whatsapp,Target of the attack
+2024-02-10,Network activity,hostname,e-devlet-iademerkezonline.pt,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://e-devlet-iademerkezonline.pt,Source URL
+2024-02-10,Other,text,TR-GOV,Target of the attack
+2024-02-10,Network activity,hostname,telegramsex21new.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://telegramsex21new.pages.dev,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,telegram21sexxnew.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://telegram21sexxnew.pages.dev,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,xco.rwz.mybluehost.me,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://xco.rwz.mybluehost.me/us/contracts/contract,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,uspz.uspsac.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://uspz.uspsac.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usps.posthelpnj.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://usps.posthelpnj.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usps.packfollow-serve.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://usps.packfollow-serve.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,tracking-pack-uspsa.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://tracking-pack-uspsa.com,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,xs-bwx.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://xs-bwx.pages.dev,Source URL
+2024-02-10,Other,text,Yahoo!,Target of the attack
+2024-02-10,Network activity,hostname,telstra-103688.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://telstra-103688.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,3656z.net,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://www.3656z.net:8989,Source URL
+2024-02-10,Other,text,Bet365,Target of the attack
+2024-02-10,Network activity,hostname,wild-river-5c17.sparkymumm6234.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://wild-river-5c17.sparkymumm6234.workers.dev,Source URL
+2024-02-10,Other,text,Yahoo!,Target of the attack
+2024-02-10,Network activity,hostname,ussp.uspjj.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://ussp.uspjj.top/pg?do=index,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usq.usspix.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://usq.usspix.top/pg?do=index,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,uspz.usspks.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://uspz.usspks.top/pg?do=index,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,uspz.usspjv.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://uspz.usspjv.top/pg?do=index,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,uspz.usspjr.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://uspz.usspjr.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,uspz.usspjo.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://uspz.usspjo.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usp.ussppq.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://usp.ussppq.top/pg?do=index,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usp.ussppo.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://usp.ussppo.top/pg?do=index,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usp.usspvg.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://usp.usspvg.top/pg?do=index,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usp.usspkg.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://usp.usspkg.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usp.uspsdq.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://usp.uspsdq.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usp.uspsdx.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://usp.uspsdx.top/pg?do=index,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usp.uspscw.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://usp.uspscw.top/pg?do=index,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usp.uspscw.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://usp.uspscw.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,uspo.usspuz.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://uspo.usspuz.top/pg?do=index,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,uspsmessges.world,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://uspsmessges.world/admin,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,uspo.usspuz.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://uspo.usspuz.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,uspo.usspqm.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://uspo.usspqm.top/pg?do=index,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,uspo.ussphw.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://uspo.ussphw.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,uspo.ussphn.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://uspo.ussphn.top/pg?do=index,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,uspe.usspry.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://uspe.usspry.top/pg?do=index,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,uspe.usspqs.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://uspe.usspqs.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,uspc.usspnn.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://uspc.usspnn.top/pg?do=index,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,uspc.usspqu.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://uspc.usspqu.top/pg?do=index,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,uspc.usspsp.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://uspc.usspsp.top/pg?do=index,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,uspa.usspce.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://uspa.usspce.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,usa.usspvf.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://usa.usspvf.top,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,still-meadow-66bb.3f8in8du.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://still-meadow-66bb.3f8in8du.workers.dev,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,titiksha008.github.io,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://titiksha008.github.io/netflix-clone,Source URL
+2024-02-10,Other,text,Netflix,Target of the attack
+2024-02-10,Network activity,hostname,tacking-uspst-mt.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://tacking-uspst-mt.com,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,share-52-blink.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://share-52-blink.pages.dev/ed46c207-8f57-4be7-b26d-e3803a3cca16,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,share-52-blink.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://share-52-blink.pages.dev/c1112bb1-d9ab-4f63-a485-35d6eac77a72,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,share-52-blink.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://share-52-blink.pages.dev/b4a24c21-23ed-4b8e-951c-12bb0e2f42b6,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,share-52-blink.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://share-52-blink.pages.dev/9dee7531-f054-4041-9329-7085fc9c5bce,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,share-52-blink.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://share-52-blink.pages.dev/91db0ac6-2b11-4f2a-872a-63b07c67bdff,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,share-52-blink.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://share-52-blink.pages.dev/84bc9761-fcdd-4aa9-98b4-f9afe5c2a70c,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,share-52-blink.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://share-52-blink.pages.dev/79f77bd0-603d-455e-8a5e-6a0f80f8f098,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,share-52-blink.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://share-52-blink.pages.dev/78519b2f-cb2e-42ac-85fa-fb68caac0730,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,share-52-blink.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://share-52-blink.pages.dev/284c548f-5af1-4e24-88a0-62917ea8e643,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,share-52-blink.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://share-52-blink.pages.dev/0d88fb5f-8728-46f1-a63b-d426e2a9dc48,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,share-52-blink.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://share-52-blink.pages.dev/0cce1112-4dbb-477d-bec8-9cebc1c036fe,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,share-52-blink.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://share-52-blink.pages.dev/03cb0a80-23e9-452a-822c-68a829b55314,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,share-52-blink.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://share-52-blink.pages.dev/017cc327-0ed6-47ce-972a-ccc788ee1ab0,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,portfolioweb-metamask.ddnss.eu,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://portfolioweb-metamask.ddnss.eu/nkbihfbeogaeaoehlefnkodbefgpgkmse/69i57j0i22i30l/c340d,Source URL
+2024-02-10,Other,text,Crypto,Target of the attack
+2024-02-10,Network activity,hostname,mmetamaskextension.godaddysites.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://mmetamaskextension.godaddysites.com,Source URL
+2024-02-10,Other,text,Crypto,Target of the attack
+2024-02-10,Network activity,hostname,mediafirekgmhcot.terbaru-2023.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://mediafirekgmhcot.terbaru-2023.com/vhsfhqpdhdxih1,Source URL
+2024-02-10,Other,text,Facebook,Target of the attack
+2024-02-10,Network activity,hostname,marcuswinshowllcpay4dportal.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,"https://marcuswinshowllcpay4dportal.pages.dev/,172.66.46.239%22%22%22%22%22%22%22%22%22%22%22%22%22%22%22",Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,liok.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://liok.pages.dev/https:/t.myvisualiq.net/impression_pixel?r=739915162,Source URL
+2024-02-10,Other,text,Yahoo!,Target of the attack
+2024-02-10,Network activity,hostname,liok.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://liok.pages.dev/https/t.myvisualiq.net/impression_pixel?r=739915162,Source URL
+2024-02-10,Other,text,Yahoo!,Target of the attack
+2024-02-10,Network activity,hostname,joingroupiixpcmt.kembalii.my.id,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://joingroupiixpcmt.kembalii.my.id/vhsfhqpdhdsih6,Source URL
+2024-02-10,Other,text,Whatsapp,Target of the attack
+2024-02-10,Network activity,hostname,ipfs.eth.aragon.network,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://ipfs.eth.aragon.network/ipfs/bafybeiewva25lb3ajklon3xqivhpihh4ulussyyaivyopymhjzufujqtyq,Source URL
+2024-02-10,Other,text,Generic Email,Target of the attack
+2024-02-10,Network activity,hostname,infogard.hu,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://infogard.hu/wp-content/d-message.html,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,grupwadofv.terbaru-2023.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://grupwadofv.terbaru-2023.com/vhsfhqpdhdxih1,Source URL
+2024-02-10,Other,text,Facebook,Target of the attack
+2024-02-10,Network activity,hostname,grupokep2024terbssjs.chickenkiller.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://grupokep2024terbssjs.chickenkiller.com,Source URL
+2024-02-10,Other,text,Whatsapp,Target of the attack
+2024-02-10,Network activity,hostname,freespiinetrr8o1mx0.bpdy.biz.id,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://freespiinetrr8o1mx0.bpdy.biz.id/spin2024,Source URL
+2024-02-10,Other,text,Facebook,Target of the attack
+2024-02-10,Network activity,hostname,filem-livelaix3a1.terbaru-2023.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://filem-livelaix3a1.terbaru-2023.com/vhsfhqpdhdxih1,Source URL
+2024-02-10,Other,text,Facebook,Target of the attack
+2024-02-10,Network activity,hostname,f6q4sr83rsypi-1324239560.cos.ap-mumbai.myqcloud.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://f6q4sr83rsypi-1324239560.cos.ap-mumbai.myqcloud.com/f6q4sr83rsypi.html?e=3mail@b.c';,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cloosud-776c.lnskeaysldoavar.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cloosud-776c.lnskeaysldoavar.workers.dev,Source URL
+2024-02-10,Other,text,Adobe,Target of the attack
+2024-02-14,Network activity,hostname,cloudflare-ipfs.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cloudflare-ipfs.com/ipfs/bafybeiemdfekb2dgb7ncpi2nibldunzpewuhoetb33wymsbru42zecz23i,Source URL
+2024-02-10,Other,text,Generic Email,Target of the attack
+2024-02-10,Network activity,hostname,candid-chimera-2526c1sd.netlify.app,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://candid-chimera-2526c1sd.netlify.app/?mc_phishing_protection_id=28396-cn1hjumd6hvp88hif820,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,sbcglobal-100540.weeblysite.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://sbcglobal-100540.weeblysite.com,Source URL
+2024-02-10,Other,text,Other,Target of the attack
+2024-02-10,Network activity,hostname,billowing-morning-f51f.kokoda1.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://billowing-morning-f51f.kokoda1.workers.dev,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,b.365k2402062.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://b.365k2402062.top:8989,Source URL
+2024-02-10,Other,text,Bet365,Target of the attack
+2024-02-10,Network activity,hostname,auto24-leas.pl,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://auto24-leas.pl/authorize.php,Source URL
+2024-02-10,Other,text,Facebook,Target of the attack
+2024-02-10,Network activity,hostname,andrej-chytil.blogspot.com.cy,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://andrej-chytil.blogspot.com.cy,Source URL
+2024-02-10,Other,text,Instagram,Target of the attack
+2024-02-10,Network activity,hostname,arshiakohanteb.github.io,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://arshiakohanteb.github.io/instagram,Source URL
+2024-02-10,Other,text,Instagram,Target of the attack
+2024-02-10,Network activity,hostname,andrej-chytil.blogspot.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://andrej-chytil.blogspot.com,Source URL
+2024-02-10,Other,text,Instagram,Target of the attack
+2024-02-10,Network activity,hostname,47usps675ps.cc,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://47usps675ps.cc,Source URL
+2024-02-10,Other,text,USPS,Target of the attack
+2024-02-10,Network activity,hostname,realwebyahoo.weebly.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://realwebyahoo.weebly.com,Source URL
+2024-02-10,Other,text,AT&T,Target of the attack
+2024-02-10,Network activity,hostname,nz5yvxcb47a1.orebeauxindustries.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://nz5yvxcb47a1.orebeauxindustries.com/i/wsmdgssgf?url=edwardaiden.com//wal/agafdgfggf/a25jb3BlcmF0aW9uc0BvZGZsLmNvbQ==,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,mail.dwjfhfj.manttap.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://mail.dwjfhfj.manttap.com,Source URL
+2024-02-10,Other,text,Whatsapp,Target of the attack
+2024-02-10,Network activity,hostname,joingroupiixpcmt.kembalii.my.id,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://joingroupiixpcmt.kembalii.my.id,Source URL
+2024-02-10,Other,text,Whatsapp,Target of the attack
+2024-02-10,Network activity,hostname,egfyua-winter-sea-8755.smilingpurple.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://egfyua-winter-sea-8755.smilingpurple.workers.dev/25507e22-09ef-42a5-a273-46fc0655b704,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,egfyua-winter-sea-8755.smilingpurple.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://egfyua-winter-sea-8755.smilingpurple.workers.dev/4db11923-65a8-4c9e-ae05-82c44323ff97,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/ddb4b3cb-0242-47b7-a57d-4d3fc445c035,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/030baf61-d9d9-4b37-8433-b66286958c2f,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/44a35750-f55a-4279-bea2-68bc69e32ffa,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/48774e9e-6d3e-4842-8a9e-258263b2eb59,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/01e757e8-be7e-473a-868e-50c564d222fe,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/9ac823a1-8976-4f96-8e13-5bb6c86fcfda,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,egfyua-winter-sea-8755.smilingpurple.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://egfyua-winter-sea-8755.smilingpurple.workers.dev/632f7fb5-c5b0-4f6b-9919-aa9b310f3039,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,egfyua-winter-sea-8755.smilingpurple.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://egfyua-winter-sea-8755.smilingpurple.workers.dev/1c72d05a-f326-4783-a6fc-81cca10abab0,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/c248d45b-63f9-4519-b079-8f9edbaced32,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/1ee0f984-d01d-4e39-909e-9ebdae340723,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/5caee73f-6c15-4c9c-a946-8cd8bf63b0f4,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/0f92bf60-4229-4a75-bfa0-11d2656dc332,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/9b66c9b6-ae05-4941-a7ab-3b58539a9758,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/49449dee-1c6c-42af-90ec-c61fd2cc419a,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/957eea97-7e04-4710-8cf0-500db0fc5f9e,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/512bcaa7-209e-45d9-878d-4085d74f89dd,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/c46a0642-b860-4d29-a592-bee41e0b531d,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/3f975ff8-151f-46cc-949d-edb617ce7e47,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/c0aeab50-7d1c-4aea-8569-03e86c069f7d,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/0198f236-a1cf-4cb3-ba56-9176a5f92a7e,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/5c89559b-b04d-4cb1-a4b3-d09cc47836cb,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/9d3e3280-aa81-48ea-b9d0-eb991102221e,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/b1e62c6e-a501-44b8-be4b-efc391ccab10,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/1b8bd28d-8e01-4e23-ba81-15cf4fe8b28c,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cookingfood56.blogspot.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cookingfood56.blogspot.com/?m=1,Source URL
+2024-02-10,Other,text,Instagram,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/57703560-3c47-4866-a25e-69ebebaf38ae,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/20445464-2406-46c1-85cf-a2d08fab77d4,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://cas86t798-broad-cake-e386.wgwhiwgzpjw.workers.dev/beda033b-927f-4dd0-ae30-00c8d92b3759,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,pedophilia.info,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://www.pedophilia.info/,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,pub-a0cff6a397914a3fbee9f171ed547e3d.r2.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://pub-a0cff6a397914a3fbee9f171ed547e3d.r2.dev/ark.html,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,office0f764f54756479d04434d518b44eeeb90f764f54756479d04434d518b.andy2557.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://office0f764f54756479d04434d518b44eeeb90f764f54756479d04434d518b.andy2557.workers.dev/,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,mailseries24.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://mailseries24.pages.dev/,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,news-awekmys.mythicmys.shop,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://news-awekmys.mythicmys.shop/,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,informasi-terupdate.my.id,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://informasi-terupdate.my.id/,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,openvcs-sexluncah.sumber-inportal.my.id,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://openvcs-sexluncah.sumber-inportal.my.id/,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,telegramkf.icu,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://telegramkf.icu/,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,adminuser.telegramkf.icu,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://adminuser.telegramkf.icu/,Source URL
+2024-02-10,Other,text,Telegram,Target of the attack
+2024-02-10,Network activity,hostname,cookingfood56.blogspot.com.mt,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://cookingfood56.blogspot.com.mt,Source URL
+2024-02-10,Other,text,Instagram,Target of the attack
+2024-02-10,Network activity,hostname,docprowetranspro.hopto.org,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://docprowetranspro.hopto.org,Source URL
+2024-02-10,Other,text,WeTransfer,Target of the attack
+2024-02-10,Network activity,hostname,msam.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://msam.pages.dev,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,365ok16.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://www.365ok16.com/mobile-client/index/,Source URL
+2024-02-10,Other,text,Bet365,Target of the attack
+2024-02-10,Network activity,hostname,slg9y86mx00jv-1324239560.cos.na-toronto.myqcloud.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://slg9y86mx00jv-1324239560.cos.na-toronto.myqcloud.com/slg9y86mx00jv.html,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,hello-world-still-silence-62f4.jmassell.workers.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://hello-world-still-silence-62f4.jmassell.workers.dev/,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,officentry.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://www.officentry.com/gbr/ca18acb0-3312-44f2-869d-5b01ed8bb47d/c98e71ad-2311-4505-b760-dbd4aadd56bb/f0205ef8-9d6f-4db7-baa3-dfc98fb95b26/login?id=NlhWQ05pTGc1dlJhTEdWMnNWS3hlSGRObHNoSzM2RUJubUhacUUxcks1NDBnRS9xY0g2bFlJQXlYQktvYlR3ZjRpOVduOEViZU45UURidXVQNXMvQmNZN21FQXdHMTRjRUhxSkFlY1Z1TzZnYk1GbHZGRURmaWF2c0NTT3plUnQxZmFkYyt3YnE2UzY3Z3F3UW5oME9FVEhwc1VNWG0vVHVkTTBKZ3Njb2FYbTVpMldYMElXNWhyei9pL2VjTXlacWM1Vjd6ay9mVFg5Q0N5cThsOGkycFV1SXBEcFF1aFVzUWo1eWJpdm5yNzRRVW5ycmJ0Vkl4SVRzWXV4b2ZRSURnRmZSZ1dkZlplZHBudEg1b0hXOGt5bWlsZlhtY2RNTENkTGRyemYydlRJZ09tZUorR1A1a3RVT2Z6bDhLbXBmMUlVL01JVkQza1BuZzFXVXVJY2JMWkgzUlNtaDRTWHdRTm5hZVIzamY4RVo1UWlTQXdJVHNOYmVMUEdBMTNa,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,0nline.brueckner-usa.us,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://0nline.brueckner-usa.us/?v0CLjd=LH53qy,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,j99gnubsbn0oi-1324239560.cos.ap-mumbai.myqcloud.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://j99gnubsbn0oi-1324239560.cos.ap-mumbai.myqcloud.com/j99gnubsbn0oi.html?e=,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,sharession.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://www.sharession.com/eur/b5477562-3f93-4544-8cb3-a772ec1d321a/724ca85c-3ab2-4da6-a779-cbc3231b3cfd/6b9ebed7-ea56-4ea7-9098-959d003b45f1/login?id=aFJuOG5zb0V4cHEzRWh5OWJ6NU9FSmxucU5abGg4QkQ2U1c3cDFWRkZFcDRraEk1c1V4cDJoY2owUFJjZEVndHhuSjl4dFU0dnRUVDJmNHpYZXVsWUZMNmNMaytqdTNPSU5WTERVd3E3Wkt6TytYUjU0OVE0RmM0Y0FPZjFlOTlVSFZGTDV6bEl0S3duT3Z5TStuVGlhMXNTcElkT0gvc2gwTDFuT1RzUWQzRFp2K2hIY2ZPOUdmK2NGakk1NkEveXlIcFlybTRlMG5CSkdnR1NlZjI3eTdXTXlicXFIeUE3bnN5TG5WZ1hZOWJpWHExeWVGOTRuSmg3RXVKVXNCSXdBRmtHYmZxU2JsbkdCbjlKbklVT0NZMTR2eG1yd3NhMENwaXNxeHNqZ0lNbU1jZndDZUJVRVFnYkJoZVhITEg5TEtSaFBHZjhJaGU0T2tKbkd6cm9RRjgvWUJZaDhTMHhLTXhLeFIwOTJCVjBaeWNiUjBVVnhYNmd6L0FldU9F,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,va3fipbndcoul-1324239560.cos.na-siliconvalley.myqcloud.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://va3fipbndcoul-1324239560.cos.na-siliconvalley.myqcloud.com/va3fipbndcoul.html,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,lieferunginihrestadt.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://lieferunginihrestadt.com/login/dpdch/,Source URL
+2024-02-10,Other,text,DPD,Target of the attack
+2024-02-10,Network activity,hostname,jillysaoka.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://jillysaoka.com/sp/account/MitID/,Source URL
+2024-02-10,Other,text,Spotify,Target of the attack
+2024-02-10,Network activity,hostname,turbo-stride.top,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://turbo-stride.top/ch/,Source URL
+2024-02-10,Other,text,DIEPOST,Target of the attack
+2024-02-10,Network activity,hostname,purpl.cl,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://purpl.cl/en/,Source URL
+2024-02-10,Other,text,DPD,Target of the attack
+2024-02-10,Network activity,hostname,upsuivs.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://www.upsuivs.com/MTTRBDFH/index.php?FGDD=1#HDHKJDJDSSJDSJKJDSJDSDJJDSHYKJHGFG,Source URL
+2024-02-10,Other,text,DHL,Target of the attack
+2024-02-10,Network activity,hostname,autogielda-graczyk.pl,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://autogielda-graczyk.pl,Source URL
+2024-02-10,Other,text,Facebook,Target of the attack
+2024-02-10,Network activity,hostname,upsuivs.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://upsuivs.com,Source URL
+2024-02-10,Other,text,DHL,Target of the attack
+2024-02-10,Network activity,hostname,partyrental.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://partyrental.pages.dev,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,marlinfishingcancun.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,https://marlinfishingcancun.com/ahab/MitID/,Source URL
+2024-02-10,Other,text,Spotify,Target of the attack
+2024-02-10,Network activity,hostname,wtpcaladium2.com,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://wtpcaladium2.com,Source URL
+2024-02-10,Other,text,Spotify,Target of the attack
+2024-02-10,Network activity,hostname,pub-c3c1b24b4817402a85b98a13acc9688d.r2.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://pub-c3c1b24b4817402a85b98a13acc9688d.r2.dev/win77.html,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,pub-5eb4c2fadece4f6aa3fe27f1665fd3db.r2.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://pub-5eb4c2fadece4f6aa3fe27f1665fd3db.r2.dev/signinfo.html?e=a*****@h****.org,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack
+2024-02-10,Network activity,hostname,assetadvice.pages.dev,Host name or IP address of the phishing attack
+2024-02-10,Network activity,url,http://assetadvice.pages.dev/,Source URL
+2024-02-10,Other,text,Microsoft,Target of the attack

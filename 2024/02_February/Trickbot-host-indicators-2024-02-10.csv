@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Trickbot host indicators [2024-02-10]
+| UUID: 7c95a3e7-4106-489c-9003-5e168352847d
+| Date: 2024-02-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-10,Payload installation,filename,TrickBot!ML.exe,Source: MalwareBazaar
+2024-02-10,Payload installation,md5,f233ca992f3d961c3139022e3cd3387b,Source: MalwareBazaar
+2024-02-10,Payload installation,sha1,5f2ee82216ef821fd1034e9955f8e0144e917435,Source: MalwareBazaar
+2024-02-10,Payload installation,sha256,d2582eb0e62eb74cd2e9a4b0658d54a3b71c08e3f844b47e53ad1912623f4eb4,Source: MalwareBazaar

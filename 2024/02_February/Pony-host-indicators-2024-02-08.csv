@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Pony host indicators [2024-02-08]
+| UUID: b25e4893-c6a8-4afb-a527-4b395127ccec
+| Date: 2024-02-08
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-09,Payload installation,filename,BC5CDF045DB5CD6C226FADC10951CCE7.exe,Source: MalwareBazaar
+2024-02-09,Payload installation,md5,bc5cdf045db5cd6c226fadc10951cce7,Source: MalwareBazaar
+2024-02-09,Payload installation,sha1,913d765bc4333f731b66dc5510a0adaa0bd15fc0,Source: MalwareBazaar
+2024-02-09,Payload installation,sha256,486f7e6a9bb25f7e3c9bc8c0b71989e3100bb881c7cb611fb904cc950aa1b051,Source: MalwareBazaar
+2024-02-09,Payload installation,filename,AB02EB6C6027099212B02FD88B33A4D0.exe,Source: MalwareBazaar
+2024-02-09,Payload installation,md5,ab02eb6c6027099212b02fd88b33a4d0,Source: MalwareBazaar
+2024-02-09,Payload installation,sha1,76e96a0f0b25597e8c55be091bd1fb6dcf1400fe,Source: MalwareBazaar
+2024-02-09,Payload installation,sha256,45eb8716cd1d4836a4d1a620c1936c9a0342b340c9987a67501c3226dda61731,Source: MalwareBazaar

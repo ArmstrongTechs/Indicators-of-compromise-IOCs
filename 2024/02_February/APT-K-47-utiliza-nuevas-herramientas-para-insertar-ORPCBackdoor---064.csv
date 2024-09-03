@@ -1,0 +1,16 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: APT-K-47 utiliza nuevas herramientas para insertar ORPCBackdoor - 064
+| UUID: de2e3be0-55fd-4eb5-b430-ee094b69cbf4
+| Date: 2024-02-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-10,Network activity,domain,outlook-web.ddns.net,
+2024-02-10,Payload delivery,sha256,85a6ac13510983b3a29ccb2527679d91c86c1f91fdfee68913bc5d3d01eeda2b,
+2024-02-10,Payload delivery,sha256,c4817f3c3777b063f0adbc1c8e4671da533f716bab7ad2c4b9bc87295df67334,
+2024-02-10,Payload delivery,sha256,74ba5883d989566a94e7c6c217b17102f054ffbe98bc9c878a7f700f9809e910,
+2024-02-10,Payload delivery,sha256,b087a214fb40e9f8e7b21a8f36cabd53fee32f79a01d05d31476e249b6f472ca,
+2024-02-10,External analysis,attachment,BOLETÍN 064.pdf,APT-K-47

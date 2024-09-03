@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Russia-Aligned TAG-70 Targets European Government and Military Mail Servers in New Espionage Campaign
+| UUID: 31685ccf-84b1-4db8-8f3a-87d84edbf74d
+| Date: 2024-02-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-24,External analysis,link,https://go.recordedfuture.com/hubfs/reports/cta-2024-0217.pdf,
+2024-02-24,External analysis,vulnerability,CVE-2023-5631,
+2024-02-24,Network activity,domain,bugiplaysec.com,
+2024-02-24,Network activity,domain,hitsbitsx.com,
+2024-02-24,Network activity,domain,ocsp-reloads.com,
+2024-02-24,Network activity,domain,recsecas.com,
+2024-02-24,Network activity,ip-dst,38.180.2.23,
+2024-02-24,Network activity,ip-dst,38.180.3.57,
+2024-02-24,Network activity,ip-dst,38.180.76.31,
+2024-02-24,Network activity,ip-dst,86.105.18.113,
+2024-02-24,Network activity,ip-dst,176.97.66.57,
+2024-02-24,Network activity,ip-dst,176.97.76.118,
+2024-02-24,Network activity,ip-dst,176.97.76.129,
+2024-02-24,Network activity,ip-dst,198.50.170.72,
+2024-02-24,Payload delivery,sha256,6800357ec3092c56aab17720897c29bb389f70cb49223b289ea5365314199a26,
+2024-02-24,Payload delivery,sha256,ea22b3e9ecdfd06fae74483deb9ef0245aefdc72f99120ae6525c0eaf37de32e,

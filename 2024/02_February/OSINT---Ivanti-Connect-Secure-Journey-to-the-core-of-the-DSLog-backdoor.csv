@@ -1,0 +1,27 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: OSINT - Ivanti Connect Secure: Journey to the core of the DSLog backdoor
+| UUID: 233c76c8-f94a-4ff7-9664-b666618e9de4
+| Date: 2024-02-12
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-12,Network activity,ip-dst,159.65.123.122,Massive exploitation activity (comment: sounds like a VPN gateway)
+2024-02-12,External analysis,link,https://www.orangecyberdefense.com/fileadmin/general/pdf/Ivanti_Connect_Secure_-_Journey_to_the_core_of_the_DSLog_backdoor.pdf,
+2024-02-12,Other,text,"Ivanti Connect Secure:
+Journey to the core of the
+DSLog backdoor",
+2024-02-12,Other,text,Ivanti Connect Secure: Journey to the core of the DSLog backdoor,
+2024-02-12,Other,text,Report,
+2024-02-12,External analysis,attachment,Ivanti_Connect_Secure_-_Journey_to_the_core_of_the_DSLog_backdoor.pdf,
+2024-02-12,Other,text,Malicious,
+2024-02-12,Other,text,/root/home/webserver/htdocs/dana-na/imgs/index.txt,
+2024-02-12,Other,text,/root/home/webserver/htdocs/dana-na/imgs/index1.txt,
+2024-02-12,Other,text,/root/home/webserver/htdocs/dana-na/imgs/logo.png,
+2024-02-12,Other,text,/root/home/webserver/htdocs/dana-na/imgs/index2.txt,Embedding the result of ‘uname -a’
+2024-02-12,Other,text,/root/home/perl/DSLog.pm,"Legitimate DSLog Log module embedding the
+backdoor (IDS flag disabled + review of the local file is required)"
+2024-02-12,External analysis,link,https://www.orangecyberdefense.com/global/blog/cybersecurity/ivanti-0-day,
+2024-02-12,Other,text,CERT alert: Zero-day in Ivanti software (Update 09. Feb),

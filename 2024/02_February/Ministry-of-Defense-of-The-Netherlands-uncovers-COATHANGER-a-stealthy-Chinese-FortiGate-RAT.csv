@@ -1,0 +1,92 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: Ministry of Defense of The Netherlands uncovers COATHANGER, a stealthy Chinese FortiGate RAT"
+| UUID: 46c294a4-f97b-49eb-a3a9-143e62bfad9c
+| Date: 2024-02-09
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-06,Artifacts dropped,yara,"rule COATHANGER_beacon 
+{ 
+	meta: 
+		description = ""Detects COATHANGER beaconing code (GET / HTTP/2\nHost: www.google.com\n\n)"" 
+		malware = ""COATHANGER"" 
+		author = ""NLD DISS (MIVD)"" 
+		date = ""20240201"" 
+		
+	strings: 
+		$chunk_1 = { 
+			48 B8 47 45 54 20 2F 20 48 54 
+			48 89 45 B0 
+			48 B8 54 50 2F 32 0A 48 6F 73 
+			48 89 45 B8 
+			48 B8 74 3A 20 77 77 77 2E 67 
+			48 89 45 C0 
+			48 B8 6F 6F 67 6C 65 2E 63 6F 
+		} 
+		
+	condition: 
+		uint32(0) == 0x464c457f and filesize < 5MB and 
+		any of them 
+}",Detects COATHANGER samples
+2024-02-06,Artifacts dropped,yara,"rule COATHANGER_files 
+{ 
+	meta: 
+		description = ""Detects COATHANGER files by used filenames"" 
+		malware = ""COATHANGER"" 
+		author = ""NLD DISS (MIVD)"" 
+		date = ""20240201"" 
+		
+	strings: 
+		$1 = ""/data2/"" 
+		$2 = ""/httpsd"" 
+		$3 = ""/preload.so"" 
+		$4 = ""/authd"" 
+		$5 = ""/tmp/packfile"" 
+		$6 = ""/smartctl"" 
+		$7 = ""/etc/ld.so.preload"" 
+		$8 = ""/newcli"" 
+		$9 = ""/bin/busybox"" 
+	
+	condition: 
+		(uint32(0) == 0x464c457f or uint32(4) == 0x464c457f) 
+		and filesize < 5MB and 4 of them 
+}",Detects COATHANGER samples
+2024-02-06,Network activity,ja3-fingerprint-md5,339f6adf54e6076d069dcaac54fddc25,C2 communication
+2024-02-06,Artifacts dropped,filename|md5,libpe.so|6c0adca790235445d07be98cd0f820b5,
+2024-02-06,Artifacts dropped,filename|sha1,libpe.so|cd6944926169f56ba78cdf15df6eea44b267bb51,
+2024-02-06,Artifacts dropped,filename|sha256,libpe.so|50451bb5b6d68115695a6cb277839a6dd2bad8f70bdb8b79670b18dcde188965,
+2024-02-06,Artifacts dropped,filename|md5,preload.so|a62377c01935f366761846b5ceed5a49,
+2024-02-06,Artifacts dropped,filename|sha1,preload.so|c259f0efa8ff0ea798a6a3dda22b8df62627405b,
+2024-02-06,Artifacts dropped,filename|sha256,preload.so|1c437dc9e929669e5a65a1c70afb3107fba471afb9ad35e3848334c9332f2b59,
+2024-02-06,Artifacts dropped,filename|md5,liblog.so|e24d14d3e6c6de0ed3db050dd5c935f0,
+2024-02-06,Artifacts dropped,filename|sha1,liblog.so|4226726bbdc05cc72e4fbb9bcef4a3b625e8a53b,
+2024-02-06,Artifacts dropped,filename|sha256,liblog.so|a79f80158ebbf9e34f6a7ec86b564de2fbee783fe6c1e20eefe2832226e2f827,
+2024-02-06,Artifacts dropped,filename|md5,ld.so.preload|e24d14d3e6c6de0ed3db050dd5c935f0,
+2024-02-06,Artifacts dropped,filename|sha1,ld.so.preload|4226726bbdc05cc72e4fbb9bcef4a3b625e8a53b,
+2024-02-06,Artifacts dropped,filename|sha256,ld.so.preload|a79f80158ebbf9e34f6a7ec86b564de2fbee783fe6c1e20eefe2832226e2f827,
+2024-02-06,Artifacts dropped,filename|md5,ld.so.preload|9e333e7b57e5773a68df065477af33ae,
+2024-02-06,Artifacts dropped,filename|sha1,ld.so.preload|97621c409295341808d3697f54dc7b59ee5c42af,
+2024-02-06,Artifacts dropped,filename|sha256,ld.so.preload|80baadc163ab14128a8d3f65de093a400f5ae8e27ec979918cf065cea38af7f8,
+2024-02-06,Artifacts dropped,filename|md5,unpack.so|fb8bc202b1a6e1661fc6fb72a5b186d6,
+2024-02-06,Artifacts dropped,filename|sha1,unpack.so|dbd4726251d710cbaabbd3c345c72df431d7454b,
+2024-02-06,Artifacts dropped,filename|sha256,unpack.so|cb284b2e846181a6148059d592c9e6687567433810d1376a8e6f83cb5347c93b,
+2024-02-06,Artifacts dropped,filename|md5,preload.so|1bc945d6aa5d1b2ad7ccfd3fac82422d,
+2024-02-06,Artifacts dropped,filename|sha1,preload.so|4e365312a06c3da747c7425612ef3fe360b52c05,
+2024-02-06,Artifacts dropped,filename|sha256,preload.so|45fc722b9959384fa46be673c246c9fc94491898a9b1aef6b4a408d81e6fed0f,
+2024-02-06,Artifacts dropped,filename|md5,ld.so.preload|98a4f08e6617e30ca8f8bd8e5b9177a5,
+2024-02-06,Artifacts dropped,filename|sha1,ld.so.preload|70581b5075d88223cfb830b28e823d2eecd92134,
+2024-02-06,Artifacts dropped,filename|sha256,ld.so.preload|bdf838ca2268c6a33718c3682a03118213652903568d66fba362d3ce18b4b4cf,
+2024-02-06,Artifacts dropped,filename|md5,preload.so|b37756edc2b756223acacf491be06d48,
+2024-02-06,Artifacts dropped,filename|sha1,preload.so|5edb7c6aa9cc3e441523a32e99e01f83e174949c,
+2024-02-06,Artifacts dropped,filename|sha256,preload.so|7b0709ec1f6e0eda3205a4ebdafbd2484f0590bbfe6ddd7c82d979f0f471e664,
+2024-02-06,Artifacts dropped,filename|ssdeep,httpsd|192:GTHZecX8f8fUlxblVKmu6Wt9ygq1OtHCj31DM8MC3RUJET+mFG7vSif:kZe18fUl17WlqUtiL1h36iTnYj,
+2024-02-06,Artifacts dropped,filename|tlsh,httpsd|t1c7829327b751ca79c099f7b05caf8ab07836b0f4e722621f2241a6797c647844f0f766,
+2024-02-09,External analysis,text,"Update: The February 6 version of the MIVD & AIVD report incorrectly stated in Section 4.3.1 that if file smartctl is not a symlink, this would be a first indication towards presence of the COATHANGER malware. This is not the case, and has been clarified in the February 9 version of the report. This February 9 version of the report rectifies the February 8 rectification. Thank you for your patience, the proofreaders have now been provided with coffee.
+ 
+We would like to share a joint publication from NCSC-NL and the Intelligence and Security Services AIVD and MIVD. The publication covers an incident response investigation at a department of the Dutch Ministry of Defence. During the investigation, the MIVD uncovered new persistent malware on several FortiGate firewall-devices, which is named ""COATHANGER"". This incident emphasizes a long-running trend in which state actors show continued interest in public-facing edge devices like firewalls, VPN-servers, and email-servers. The report is TLP:CLEAR.",Context
+2024-02-08,External analysis,link,https://github.com/JSCU-NL/COATHANGER,IOC Checker
+2024-02-09,External analysis,attachment,20240209 MIVD AIVD Advisory COATHANGER TLP-CLEAR.pdf,AIVD MIVD Advisory
+2024-02-09,External analysis,link,https://www.ncsc.nl/binaries/ncsc/documenten/publicaties/2024/februari/6/mivd-aivd-advisory-coathanger-tlp-clear/TLP-CLEAR+MIVD+AIVD+Advisory+COATHANGER.pdf,Link to latest AIVD MIVD Advisory

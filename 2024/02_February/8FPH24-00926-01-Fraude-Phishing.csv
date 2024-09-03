@@ -1,0 +1,27 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: 8FPH24-00926-01 [Fraude] [Phishing]
+| UUID: b8057c16-aa9e-4a05-83ef-3d66e4d0b667
+| Date: 2024-02-08
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-09,Payload delivery,email-subject,Aviso Cuenta Temporalmente Suspendida!,Asunto
+2024-02-09,Payload delivery,email-src,noreply@publimailer.com,Correos
+2024-02-09,Network activity,ip-src,179.43.126.225,Host
+2024-02-09,Network activity,ip-src,213.136.93.171,Host
+2024-02-09,Payload delivery,url,https://looksoportelinea.com/1707317689/imagenes/_personas/home/default.asp,URLs
+2024-02-09,Payload delivery,url,https://underconcentral.com/activacion/cuenta-qdur/,URLs
+2024-02-09,External analysis,attachment,8FPH24-00926-01.docx,Informe CSIRT
+2024-02-09,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática (CSIRT de Gobierno) ha identificado una nueva campaña de phishing vía correo electrónico, que suplanta a BancoEstado. En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente: 
+
+“BancoEstado su clave de internet a vencido Su cuenta se encuentra SUSPENDIDA hasta la correcta validacion de sus datos.
+realizada la validacion su cuenta sera activada obteniendo los beneficios de banca por internet.
+Recuerde que solo tiene 48 horas despues de la fecha de vencimiento para realizar este proceso mediante el enlace que se le proporciona nuestra Banca por internet, de lo contrario su cuenta sera inhabilitada y tendra que acercarse a la sucursal mas cercana para su verificacion respectiva.”
+
+El correo electrónico incluye un enlace a un formulario para capturar credenciales de usuarios.",Resumen
+2024-02-09,External analysis,attachment,8FPH24-00926-01.pdf,Informe CSIRT PDF
+2024-02-09,External analysis,attachment,image_mensaje.png,Captura de Pantalla
+2024-02-09,External analysis,attachment,imagen_sitio.png,Captura de Pantalla

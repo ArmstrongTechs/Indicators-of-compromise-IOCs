@@ -1,0 +1,50 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Exploring the Latest Mispadu Stealer Variant
+| UUID: 35a3073a-9193-4c4d-9b90-caeb2e44c06a
+| Date: 2024-02-07
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-08,External analysis,link,https://unit42.paloaltonetworks.com/mispadu-infostealer-variant/,
+2024-02-08,External analysis,vulnerability,CVE-2023-36025,
+2024-02-08,Payload delivery,sha256,bc25f7836c273763827e1680856ec6d53bd73bbc4a03e9f743eddfc53cf68789,
+2024-02-08,Payload delivery,sha256,fb3995289bac897e881141e281c18c606a772a53356cc81caf38e5c6296641d4,
+2024-02-08,Payload delivery,sha256,46d20fa82c936c5784f86106838697ab79a1f6dc243ae6721b42f0da467eaf52,
+2024-02-08,Payload delivery,sha256,03bdae4d40d3eb2db3c12d27b76ee170c4813f616fec5257cf25a068c46ba15f,
+2024-02-08,Payload delivery,sha256,1b7dc569508387401f1c5d40eb448dc20d6fb794e97ae3d1da43b571ed0486a0,
+2024-02-08,Payload delivery,sha256,e136717630164116c2b68de31a439231dc468ddcbee9f74cca511df1036a22ea,
+2024-02-08,Network activity,domain,plinqok.com,C2
+2024-02-08,Network activity,domain,trilivok.com,C2
+2024-02-08,Network activity,domain,xalticainvest.com,
+2024-02-08,Network activity,domain,moscovatech.com,C2
+2024-02-08,Network activity,url,http://trilivok.com/4g3031ar0/cb6y1dh/it.php,C2
+2024-02-08,Network activity,url,https://plinqok.com/3dzy14ebg/buhumo0/it.php,C2
+2024-02-08,Network activity,url,24.199.98.128/expediente38/8869881268/8594605066.exe,
+2024-02-08,Network activity,url,24.199.98.128/verificacion58/6504926283/3072491614.exe,
+2024-02-08,Network activity,url,24.199.98.128/impresion73/5464893028/8024251449.exe,
+2024-02-08,Payload installation,yara,"rule u42_crime_win_mispadu
+{
+    meta:
+        author = ""Unit 42 Threat Intelligence""
+        date = ""2023-12-15""
+        description = ""Identifies the infostealer malware family associated with the Mispadu threat, which is responsible for targeting specific domains within a victim's browser history.""
+        hash1 = ""8e1d354dccc3c689899dc4e75fdbdd0ab076ac457de7fb83645fb735a46ad4ea""
+        hash2 = ""30b4ab9707347c6bdd9035d1562cab31c78a27f5ad410871cadffeb208cd85e8""
+        reference = ""https://malpedia.caad.fkie.fraunhofer.de/details/win.mispadu""
+        malware_family = ""mispadu""
+ 
+    strings:
+        $str1 = {687474703A2F2F0068747470733A2F2F00000000000000007B003A003000380078007D00000000002E2F0000000000004D6F7A696C6C612F352E30202857696E646F7773204E542031302E303B2054726964656E742F372E303B2072763A31312E3029206C696B65204765636B6F00005300480041003200350036000000000052746C47657456657273696F6E00}
+        $str2 = {424372797074456E6372797074000000424372797074436C6F7365416C676F726974686D50726F76696465720000000043003A005C00570069006E0064006F00770073005C00530079007300740065006D003300320000005C00540065006D00700000000000000043003A005C00500072006F006700720061006D0044006100740061005C00540065006D00700000002C00000000000000554E4B4E4F574E007C0000003D000000687474703A2F2F0068747470733A2F2F00}
+        $str3 = {6E00740064006C006C002E0064006C006C0000000000000057696E646F777320313100000000000057696E646F777320313000000000000057696E646F777320380000000000000057696E646F7773203700000000000000556E6B6E6F776E00410045005300000043006800610069006E0069006E0067004D006F00640065004300420043000000}
+ 
+    condition:
+        any of them
+}",
+2024-02-08,Payload delivery,sha256,8e1d354dccc3c689899dc4e75fdbdd0ab076ac457de7fb83645fb735a46ad4ea,
+2024-02-08,Payload delivery,filename,C:\src\client\build\Release-x64\client.pdb,
+2024-02-08,Payload delivery,md5,723df0296951abd2aeed01361cec6b0d,
+2024-02-08,Payload delivery,sha1,ba6d10e36f41c4ebc85f6beb95afd2b7c92406ad,

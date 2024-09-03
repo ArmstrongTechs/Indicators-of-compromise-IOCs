@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Azorult host indicators [2024-02-16]
+| UUID: acfc683e-eb0e-4fde-9491-2d4964ff0628
+| Date: 2024-02-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-17,Payload installation,filename,Iz{$_owt)[.exe,Source: MalwareBazaar
+2024-02-17,Payload installation,md5,ec88a4c1dcfb3861f6c9c364deeabd94,Source: MalwareBazaar
+2024-02-17,Payload installation,sha1,ed0d81e041345ddc9ff9fea8bad197ee1a66fe82,Source: MalwareBazaar
+2024-02-17,Payload installation,sha256,23722503bdcc20ab9e6482bb2d3e92e50b13443799f361975bb36a91f0eeb895,Source: MalwareBazaar

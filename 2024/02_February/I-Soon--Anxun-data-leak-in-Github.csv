@@ -1,0 +1,25 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: I-Soon / Anxun data leak in Github
+| UUID: 69df43bb-2c48-4b4d-aa85-8477e92cb010
+| Date: 2024-02-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-23,Network activity,ip-dst,8.218.67.52,AWS USA - Jackpot Panda or Iron Tiger - On port tcp/27011 or tcp/17011
+2024-02-23,External analysis,link,https://github.com/I-S00N/I-S00N,
+2024-02-23,Network activity,ip-dst,118.31.3.116,Hangzhou Alibaba - C2 IP for SecuritySystemv5 Windows RAT aka ShadowPad
+2024-02-23,Network activity,ip-dst,171.88.143.37,Chinanet
+2024-02-23,Network activity,ip-dst,1.192.194.162,Luoyang
+2024-02-23,Network activity,ip-dst,101.219.17.111,India Kolkata Aircel
+2024-02-23,Network activity,ip-dst,221.13.74.218,China Unicom
+2024-02-23,Network activity,ip-dst,171.88.142.148,Chinanet
+2024-02-23,Network activity,ip-dst,171.88.143.72,Chinanet
+2024-02-23,Network activity,ip-dst,66.98.127.105,IT7NET
+2024-02-23,External analysis,link,https://blog.bushidotoken.net/2024/02/lessons-from-isoon-leaks.html,
+2024-02-23,External analysis,link,https://x.com/ctiyeewesley/status/1760364208326418618,
+2024-02-23,External analysis,link,https://blogger.googleusercontent.com/img/a/AVvXsEjbMEXqlKuWpUjEfU_CDZ3Gp88lSgCBA8nIqqx7rSqWLaLK6P5VUNpvMYe2CF84_SDRmiSWGeyH5nphRzs1gHfzprgcPyE9dabx1VgampBDgV-7lutQAyHMmqgOot0UHFADir8OlXEKhDHvYtXNRQ7-10UBxeiOqevBhtN7xNStQgA3nt1eH-Hji-p4kzBx,
+2024-02-23,Network activity,ip-dst,74.120.172.10,China Telecom - POISON CARP APT
+2024-02-23,Network activity,domain,mailnotes.online,

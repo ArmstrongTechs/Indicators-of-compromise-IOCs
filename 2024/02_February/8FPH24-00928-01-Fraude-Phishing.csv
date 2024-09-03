@@ -1,0 +1,24 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: 8FPH24-00928-01 [Fraude] [Phishing]
+| UUID: bfa20dc7-bf12-4973-80c2-b129a3200dca
+| Date: 2024-02-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-14,Payload delivery,email-subject,Documento,Asunto
+2024-02-14,Payload delivery,email-src,viviana.ramos@heg.gob.ec,Correos
+2024-02-14,Network activity,ip-src,186.47.84.20,Host
+2024-02-14,Network activity,ip-src,172.64.153.183,Host
+2024-02-14,Payload delivery,url,https://ghambly.ac-page.com/untitled1009,URLs
+2024-02-14,External analysis,attachment,8FPH24-00928-01.docx,Informe CSIRT
+2024-02-14,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática (CSIRT de Gobierno) ha identificado una nueva campaña de phishing vía correo electrónico. En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente: 
+
+“Esta cuenta no ha respondido a nuestra actualización enviada anteriormente, cerraremos este correo electrónico dentro de las 24 horas si no realiza la actualización hoy .”
+
+El correo electrónico incluye un enlace a un formulario para capturar credenciales de usuarios.",Resumen
+2024-02-14,External analysis,attachment,8FPH24-00928-01.pdf,Informe CSIRT PDF
+2024-02-14,External analysis,attachment,image_mensaje.png,Captura de Pantalla
+2024-02-14,External analysis,attachment,imagen_sitio.png,Captura de Pantalla

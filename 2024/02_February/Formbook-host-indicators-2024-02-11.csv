@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-02-11]
+| UUID: f5fff05c-a7d6-45d0-b111-5af629330fdb
+| Date: 2024-02-11
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-11,Payload installation,filename,SecuriteInfo.com.Variant.MSILHeracles.146328.9929.3815,Source: MalwareBazaar
+2024-02-11,Payload installation,md5,b44c4a259319f20aed7c92bf63e38925,Source: MalwareBazaar
+2024-02-11,Payload installation,sha1,ba2ec96325e0927dd4f7fd22c8038964f2a69f4b,Source: MalwareBazaar
+2024-02-11,Payload installation,sha256,d93058ce47215773bfed7fc6a36c4991a4d3278ce71cfd6ec23d0c3b74566798,Source: MalwareBazaar

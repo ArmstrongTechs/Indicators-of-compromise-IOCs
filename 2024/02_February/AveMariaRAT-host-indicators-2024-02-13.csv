@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AveMariaRAT host indicators [2024-02-13]
+| UUID: 2af6cc22-b8b9-433a-94d5-0ddc26c943c1
+| Date: 2024-02-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-13,Payload installation,filename,SecuriteInfo.com.Win32.PWSX-gen.27096.4512,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,16cd177899279d5d2d27443286ccc41b,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,91c1ee553aa8ac4cd24ef5800c6ac12da7becdee,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,3e4da5132877e955fb455e58e300b56033c07a6d2709b386fdc5c43a88e1c499,Source: MalwareBazaar

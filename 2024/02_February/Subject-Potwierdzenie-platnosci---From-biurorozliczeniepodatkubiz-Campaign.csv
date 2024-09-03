@@ -1,0 +1,41 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Potwierdzenie platnosci - From: biuro@rozliczeniepodatku.biz"" Campaign"
+| UUID: 4c0aa798-6cdd-4574-8380-096001d8b002
+| Date: 2024-02-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-14,Payload delivery,email-src,biuro@rozliczeniepodatku.biz,Source email: from biuro@rozliczeniepodatku.biz - subject: Potwierdzenie platnosci
+2024-02-14,Payload delivery,email-src-display-name,Ewa Magdalena,Source email: from biuro@rozliczeniepodatku.biz - subject: Potwierdzenie platnosci
+2024-02-14,Payload delivery,email-body,"Cześć,
+
+Załączam zaświadczenie o wpłacie zaliczki. Po otrzymaniu proszę o 
+informację.
+
+Z wyrazami szacunku
+
+Ewa Magdalena",Source email: from biuro@rozliczeniepodatku.biz - subject: Potwierdzenie platnosci
+2024-02-14,Payload delivery,email-subject,Potwierdzenie platnosci,Source: from biuro@rozliczeniepodatku.biz - subject: Potwierdzenie platnosci
+2024-02-14,Payload delivery,filename|sha256,"Zaplata,jpeg.img|b4411deb20632f4a169c4b6df1630690aebe10e7863aa9fa63b671f51974d3f0",Malspam attachment - source: from biuro@rozliczeniepodatku.biz - subject: Potwierdzenie platnosci mime: application/x-iso9660-image
+2024-02-14,Payload delivery,filename|ssdeep,"Zaplata,jpeg.img|12288:862xEd6KdNEcHrRTupZlXANqlIksLNvgSik7qHq06r2JeG6Xbt:12xcBq+rRTqf28sLNoSiU6qd2JeG6R",Malspam attachment - source: from biuro@rozliczeniepodatku.biz - subject: Potwierdzenie platnosci mime: application/x-iso9660-image
+2024-02-14,Payload delivery,filename|sha1,"Zaplata,jpeg.img|79c18eea7cb9187e61d80d2b999903122273d6cd",Malspam attachment - source: from biuro@rozliczeniepodatku.biz - subject: Potwierdzenie platnosci mime: application/x-iso9660-image
+2024-02-14,Payload delivery,filename|sha512,"Zaplata,jpeg.img|d37978da7cc836c90fdaaf6d19aae5c5d8d3defd2ebc8acf7f886ec13b36cbec50bc5a7aa45ad6d73ad57355f0635107ba732db17b0102e90b9a32267c76b84b",Malspam attachment - source: from biuro@rozliczeniepodatku.biz - subject: Potwierdzenie platnosci mime: application/x-iso9660-image
+2024-02-14,Payload delivery,filename|md5,"Zaplata,jpeg.img|77f098efe795e5393af2a21e8b1de9c7",Malspam attachment - source: from biuro@rozliczeniepodatku.biz - subject: Potwierdzenie platnosci mime: application/x-iso9660-image
+2024-02-14,Payload delivery,filename|imphash,ZAPLATA_.SCR|f34d5f2d4577ed6d9ceec516c1f5a744,"Extracted from Zaplata,jpeg.img; mime: application/x-dosexec"
+2024-02-14,Payload delivery,filename|md5,ZAPLATA_.SCR|4317b72706e5f3e3e9248e566de80d50,"Extracted from Zaplata,jpeg.img; mime: application/x-dosexec"
+2024-02-14,Payload delivery,filename|sha1,ZAPLATA_.SCR|0a51a70078324c9dfa1008cddf0d4b228905cf16,"Extracted from Zaplata,jpeg.img; mime: application/x-dosexec"
+2024-02-14,Payload delivery,filename|sha256,ZAPLATA_.SCR|9742dab72b108de1173caf144abc8ec0f103e5bb360679e26455c20286406287,"Extracted from Zaplata,jpeg.img; mime: application/x-dosexec"
+2024-02-14,Payload delivery,filename|sha512,ZAPLATA_.SCR|c8e7e90fd72893a5a23ba02e1fe03790e30fe08923bc0822f6dfe42e1e7fd6768913e853744a56a636276663559c8a1f268ea119b2c34bc4dffc447cc0ac57e1,"Extracted from Zaplata,jpeg.img; mime: application/x-dosexec"
+2024-02-14,Payload delivery,filename|ssdeep,ZAPLATA_.SCR|12288:f62xEd6KdNEcHrRTupZlXANqlIksLNvgSik7qHq06r2JeG6Xbt:i2xcBq+rRTqf28sLNoSiU6qd2JeG6R,"Extracted from Zaplata,jpeg.img; mime: application/x-dosexec"
+2024-02-14,Payload delivery,filename|md5,3366731c-b8ce-461f-bc94-1ff3b2d2fb15.exe|0b94ae659ec2ca28c391871da230fcf3,Extracted from ZAPLATA_.SCR; mime: application/x-ms-dos-executable
+2024-02-14,Payload delivery,filename|sha1,3366731c-b8ce-461f-bc94-1ff3b2d2fb15.exe|31266d35c9d8ef150a8042bfec678f1c0435556c,Extracted from ZAPLATA_.SCR; mime: application/x-ms-dos-executable
+2024-02-14,Payload delivery,filename|sha256,3366731c-b8ce-461f-bc94-1ff3b2d2fb15.exe|b5f0cc3dbf09bc22cf4b1252734f2d961f66c29e391c808fe8e294a7d4299877,Extracted from ZAPLATA_.SCR; mime: application/x-ms-dos-executable
+2024-02-14,Payload delivery,filename|sha512,3366731c-b8ce-461f-bc94-1ff3b2d2fb15.exe|1beaf94083724895b0812cf6fac96f298316f252d6638c49c92702c0fa2f9f2eb3a81821f18df3d94943cb7a281a5842caa971d9767396c794f3ab094e5b4de3,Extracted from ZAPLATA_.SCR; mime: application/x-ms-dos-executable
+2024-02-14,Payload delivery,filename|ssdeep,3366731c-b8ce-461f-bc94-1ff3b2d2fb15.exe|3072:/vsAWyayKSTSAKJETm2QshMFUB5jKJj+sMqKHFO2Naf52/BszOCU:/zWyayKSTSLIlfvBFKJTKHU2AUsS,Extracted from ZAPLATA_.SCR; mime: application/x-ms-dos-executable
+2024-02-14,Payload delivery,filename|imphash,3366731c-b8ce-461f-bc94-1ff3b2d2fb15.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Extracted from ZAPLATA_.SCR; mime: application/x-ms-dos-executable
+2024-02-14,Network activity,domain,mail.cock.li,Source: Extracted from static config of 3366731c-b8ce-461f-bc94-1ff3b2d2fb15.exe; data exfiltration via SMTP
+2024-02-14,Network activity,email,arua@rape.lol,Source: Extracted from static config of 3366731c-b8ce-461f-bc94-1ff3b2d2fb15.exe; data exfiltration via SMTP
+2024-02-14,Network activity,email-dst,marksolomann@mail.com,Source: Extracted from static config of 3366731c-b8ce-461f-bc94-1ff3b2d2fb15.exe; data exfiltration via SMTP

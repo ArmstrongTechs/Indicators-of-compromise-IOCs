@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2024-02-09]
+| UUID: 13d8b1ed-b301-4fc6-ad4d-65b714f99ed9
+| Date: 2024-02-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-09,Payload installation,filename,b12468b0b0b902a0dd3f239e0a3b1854.exe,Source: MalwareBazaar
+2024-02-09,Payload installation,md5,b12468b0b0b902a0dd3f239e0a3b1854,Source: MalwareBazaar
+2024-02-09,Payload installation,sha1,c91a1d8406b300d020969c1a9b5d25cf9974d119,Source: MalwareBazaar
+2024-02-09,Payload installation,sha256,556d747cf7796867d2ed4537d6a206d665f2555e9f53627fc1bc44147285df9a,Source: MalwareBazaar
+2024-02-10,Payload installation,filename,3F3186F4BE8DF39294C1A53F1CD22214.exe,Source: MalwareBazaar
+2024-02-10,Payload installation,md5,3f3186f4be8df39294c1a53f1cd22214,Source: MalwareBazaar
+2024-02-10,Payload installation,sha1,a312a3bb6eb240ade59f390e551a68f6c93ff4da,Source: MalwareBazaar
+2024-02-10,Payload installation,sha256,73dcc6e8f005fafcfedfb31d8465ba9f51cebe4b359f5b931765d3af5c10fa05,Source: MalwareBazaar
+2024-02-10,Payload installation,filename,bT2W.exe,Source: MalwareBazaar
+2024-02-10,Payload installation,md5,560258045e1fd3080bf52e895fde2560,Source: MalwareBazaar
+2024-02-10,Payload installation,sha1,a1acc7bb8e0ac62ed79ca9a1645e2f80c66e68e4,Source: MalwareBazaar
+2024-02-10,Payload installation,sha256,3584010af4c61f06ddedbc2d740c5c787ac08e62e00f6ec267cd73baef3b21f4,Source: MalwareBazaar

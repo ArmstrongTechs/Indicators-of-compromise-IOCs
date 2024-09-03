@@ -1,0 +1,24 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: 8FPH24-00927-01 [Fraude] [Phishing]
+| UUID: 2102f37b-e03a-403a-9f1b-ace976f51bb4
+| Date: 2024-02-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-14,Payload delivery,email-subject,correo,Asunto
+2024-02-14,Payload delivery,email-src,gquintana@episcopado.cl,Correos
+2024-02-14,Network activity,ip-src,146.155.99.52,Host
+2024-02-14,Network activity,ip-src,104.21.90.194,Host
+2024-02-14,Payload delivery,url,https://share.formbold.com/6M7G7,URLs
+2024-02-14,External analysis,attachment,8FPH24-00927-01.docx,Informe CSIRT
+2024-02-14,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática (CSIRT de Gobierno) ha identificado una nueva campaña de phishing vía correo electrónico. En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente: 
+
+“contraseña de correo electrónico caducará en 24 horas. Haga clic aquí   para actualizar”
+
+El correo electrónico incluye un enlace a un formulario para capturar credenciales de usuarios.",Resumen
+2024-02-14,External analysis,attachment,8FPH24-00927-01.pdf,Informe CSIRT PDF
+2024-02-14,External analysis,attachment,image_mensaje.png,Captura de Pantalla
+2024-02-14,External analysis,attachment,imagen_sitio.png,Captura de Pantalla

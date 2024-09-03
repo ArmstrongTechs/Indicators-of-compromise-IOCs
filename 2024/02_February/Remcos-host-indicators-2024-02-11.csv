@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-02-11]
+| UUID: 45b83362-a55b-4258-aa57-54c68de4dcf0
+| Date: 2024-02-11
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-11,Payload installation,filename,InvPIF7894321.exe,Source: MalwareBazaar
+2024-02-11,Payload installation,md5,588e6cedefe819b5ec9a187d047994d7,Source: MalwareBazaar
+2024-02-11,Payload installation,sha1,17df9ebab38753585e7d48b72c5deb1dad8c3b5e,Source: MalwareBazaar
+2024-02-11,Payload installation,sha256,32fdb74940a386a76cc8b319be690039847a49b3daa97600720d55f62e3ab7ad,Source: MalwareBazaar

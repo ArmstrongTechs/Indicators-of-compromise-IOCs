@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: 8FFR23-01640-01 [Fraude] [Falsificación de Registros o Identidad]
+| UUID: 7b3339c1-d570-4696-8d2b-2862cc1d2997
+| Date: 2024-02-08
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-09,Network activity,ip-src,192.185.12.111,Host
+2024-02-09,Payload delivery,url,https://www.patitos.greenwaybuildinggroup.com/1706810530/imagenes/_personas/home/default.asp,URLs
+2024-02-09,External analysis,attachment,8FFR24-01640-01.docx,Informe CSIRT
+2024-02-09,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática del Gobierno de Chile (CSIRT de Gobierno) ha identificado la activación de una página fraudulenta que suplanta a BancoEstado, la que podría servir para robar credenciales de usuario o datos bancarios.
+
+Lo anterior constituye una falsificación de la marca institucional que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2024-02-09,External analysis,attachment,8FFR24-01640-01.pdf,Informe CSIRT PDF
+2024-02-09,External analysis,attachment,imagen_sitio.png,Captura de Pantalla

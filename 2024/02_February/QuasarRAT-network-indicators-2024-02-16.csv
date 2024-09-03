@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT network indicators [2024-02-16]
+| UUID: a7d8b0c7-77fb-44f2-9071-717f8f7bd456
+| Date: 2024-02-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-16,Network activity,url,https://159.253.120.2:8443/process.exe,Source: urlhaus
+2024-02-16,Network activity,url,https://159.253.120.2:8443/Quasar.v1.4.1.zip,Source: urlhaus
+2024-02-16,Network activity,url,https://185.16.39.253/test.exe,Source: urlhaus

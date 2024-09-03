@@ -1,0 +1,21 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Thanksgiving 2023 security incident
+| UUID: 11e6c3fa-f482-4c25-8cfa-d78cc4946af4
+| Date: 2024-02-07
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-07,External analysis,link,https://blog.cloudflare.com/thanksgiving-2023-security-incident,
+2024-02-07,Network activity,ip-dst,193.142.58.126,"Primary threat actor
+Infrastructure, owned by
+M247 Europe SRL (Bucharest,
+Romania)"
+2024-02-07,Network activity,ip-dst,198.244.174.214,"Sliver C2 server, owned by
+OVH SAS (London, England)"
+2024-02-07,Network activity,domain,idowall.com,"nfrastructure serving Sliver
+payload"
+2024-02-07,Payload delivery,md5,bdd1a085d651082ad567b03e5186d1d4,Sliver payload
+2024-02-07,Payload delivery,md5,6d822bb7794157ab8cce95d850a3caaf,Sliver payload

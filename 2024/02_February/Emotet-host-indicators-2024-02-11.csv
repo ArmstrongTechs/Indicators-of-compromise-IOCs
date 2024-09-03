@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Emotet host indicators [2024-02-11]
+| UUID: 24ca6e57-56ba-4758-9aaf-88bb0f1f064b
+| Date: 2024-02-11
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-12,Payload installation,filename,SecuriteInfo.com.Python.Muldrop.25.8678.4056,Source: MalwareBazaar
+2024-02-12,Payload installation,md5,f917c77f60c3c1ac6dbbadbf366ddd30,Source: MalwareBazaar
+2024-02-12,Payload installation,sha1,7614669bcb33170bbb3df2f95a5fbe3328e4bdff,Source: MalwareBazaar
+2024-02-12,Payload installation,sha256,b76fbc81bbb7f3108d27d9da9e2646aeb3769fba62bf7961f79306812de3486c,Source: MalwareBazaar

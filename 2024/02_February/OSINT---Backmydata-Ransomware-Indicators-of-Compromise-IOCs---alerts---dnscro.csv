@@ -1,0 +1,1900 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: OSINT - Backmydata Ransomware Indicators of Compromise (IOCs) - alerts - dnsc.ro
+| UUID: f7d4de59-58ac-409e-a3cb-d50261b3f825
+| Date: 2024-02-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-19,Payload delivery,sha256,31eb1de7e840a342fd468e558e5ab627bcb4c542a8fe01aec4d5ba01d539a0fc,
+2024-02-19,Payload delivery,sha256,a6527183e3cbf81602de16f3448a8754f6cecd05dc3568fa2795de534b366da4,
+2024-02-19,Payload delivery,sha256,59756c8f4c760f1b29311a5732cb3fdd41d4b5bc9c88cd77c560e27b6e59780c,
+2024-02-19,Payload delivery,sha256,b42725211240828ccc505d193d8ea5915e395c9f43e71496ff0ece4f72e3e4ab,
+2024-02-19,Payload delivery,sha256,7a313840d25adf94c7bf1d17393f5b991ba8baf50b8cacb7ce0420189c177e26,
+2024-02-19,Payload delivery,sha256,6a87226ed5cca8e072507d6c24289c57757dd96177f329a00b00e40427a1d473,
+2024-02-19,Payload delivery,sha256,de374c1b9a05c2203e66917202c42d11eac4368f635ccaaadf02346035e82562,
+2024-02-19,Payload delivery,sha256,91041b616969e1526ee6dce23f8d18afdd353786ac6afa0b6611903263ee6f63,
+2024-02-19,Payload delivery,sha256,8e4b218bdbd8e098fff749fe5e5bbf00275d21f398b34216a573224e192094b8,
+2024-02-19,Payload delivery,sha256,04cc60eba7041e0cef2deb1bec9a087432344737dd2e5141c9cda981506ca1a5,
+2024-02-19,Payload delivery,sha256,7fee96ae0ed1972a80abbd4529dc81ec033083857455bbf3c803c4f47e1ac31c,
+2024-02-19,Payload delivery,sha256,e01b0e7feadd08a7ea87c1cde44e7b97daf9632eaee8311ef6967f33258d03c1,
+2024-02-19,Payload delivery,sha256,64788b6f74875aed53ca80669b06f407e132d7be49586925dbb3dcde56cbca9c,
+2024-02-19,Payload delivery,sha256,5e85446910e732111ca9ac90f9ed8b1dee13c3314d2c5117dcf672994ce73bd6,
+2024-02-19,Payload delivery,sha256,205818e10c13d2e51b4c0196ca30111276ca1107fc8e25a0992fe67879eab964,
+2024-02-19,Payload delivery,sha256,ae474417854ac1b6190e15cc514728433a26cc815fdc6d12150ef55e92d643ea,
+2024-02-19,Payload delivery,sha256,c92580318be4effdb37aa67145748826f6a9e285bc2426410dc280e61e3c7620,
+2024-02-19,Payload delivery,sha256,1e13fd79ad54fe98e08d9ffca2c287a470c50c2876608edce2fe38e07c245266,
+2024-02-19,Payload delivery,sha256,816d7616238958dfe0bb811a063eb3102efd82eff14408f5cab4cb5258bfd019,
+2024-02-19,Payload delivery,sha256,b556d90b30f217d5ef20ebe3f15cce6382c4199e900b5ad2262a751909da1b34,
+2024-02-19,Payload delivery,sha256,48b77c1efbc3197128391a35d0e1ed0b5cc3a05b96dd12c98ac73ffc6a886fc8,
+2024-02-19,Payload delivery,sha256,12f13d129579c68ec3cc05bef69880b6a891296fa9fce69b979b1c04998f125c,
+2024-02-19,Other,text,"During the night of 11 to 12 February 2024 there was a ransomware cyber-attack on the
+Romanian Soft Company (RSC) www.rsc.ro, which develops, manages and markets the
+Hippocrates computer system (a.k.a. HIS). According to DNSC data, the attack disrupted the
+activity of 26 Romanian hospitals using the Hippocrates IT system.
+The malware used in the attack is Backmydata ransomware application that is part of the
+Phobos malware family, known for propagating through Remote Desktop Protocol (RDP)
+connections. Backmydata is designed to encrypt target files using a complex algorithm.
+Encrypted files are renamed with .backmydata extension. After encryption, the malware
+provides two ransom notes (info.hta and info.txt), with details of the steps to be taken for
+contacting the attackers and how to pay the ransom.
+The Directorate recommends to all healthcare entities, whether or not they have been affected
+by the Backmydata ransomware attack, to scan their IT &C infrastructure using the YARA
+scanning script.",
+2024-02-19,Other,text,Alert,
+2024-02-19,External analysis,attachment,DNSC ALERT v2024.02.16 Backmydata Ransomware Attack IOCs UPDATE ENG.pdf,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_CrypterBinary {
+   meta:
+      description = ""Phobos Ransomware Crypter Binary""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-12""
+      hash1 = ""396a2f2dd09c936e93d250e8467ac7a9c0a923ea7f9a395e63c375b877a399a6""
+   strings:
+      $s1 = ""\\.#* 0_"" fullword ascii
+      $s2 = ""9F:b:{:"" fullword ascii 
+      $s3 = ""D$(Y_^["" fullword ascii 
+      $s4 = ""tEWVVVV"" fullword ascii
+      $s5 = ""YSVWj(j"" fullword ascii
+      $s6 = ""^yMQb O8y"" fullword ascii
+      $s7 = ""tjWWVhKE@"" fullword ascii
+      $s8 = ""D$LPVVVWVVV"" fullword ascii
+      $s9 = ""D$PPSj"" fullword ascii 
+      $s10 = ""YY9\\$0t"" fullword ascii 
+      $s11 = ""8$8/8|8"" fullword ascii 
+      $s12 = ""SVWj23"" fullword ascii 
+      $s13 = ""\\\\?\\X:"" fullword wide
+      $s14 = ""\\\\?\\ :"" fullword wide
+      $s15 = ""\\\\?\\UNC\\\\\\e-"" fullword wide
+      $s16 = ""D$HY_^["" fullword ascii
+      $s17 = ""L{gYm+"" fullword ascii
+      $s18 = ""2*262H2Q2^2j2"" fullword ascii
+      $s19 = ""9\\$Pt."" fullword ascii
+      $s20 = ""Y9\\$4t&9\\$Xt "" fullword ascii
+
+      $op0 = { 53 e8 34 7d 00 00 59 89 45 dc 8d 45 cc 50 68 06 }
+      $op1 = { 39 5c 24 34 74 0a 39 5c 24 44 0f 84 af }
+      $op2 = { 6a 18 c7 46 34 00 00 01 00 c7 46 30 00 00 10 00 }
+
+      $ap0 = ""MPR.dll"" fullword ascii
+      $ap1 = ""WS2_32.dll"" fullword ascii
+      $ap2 = ""WINHTTP.dll"" fullword ascii
+      $ap3 = ""KERNEL32.dll"" fullword ascii
+      $ap4 = ""USER32.dll"" fullword ascii
+      $ap5 = ""ADVAPI32.dll"" fullword ascii
+      $ap6 = ""SHELL32.dll"" fullword ascii
+      $ap7 = ""ole32.dll"" fullword ascii
+      $ap8 = ""GetTickCount"" fullword ascii
+      $ap9 = ""GetIpAddrTable"" fullword ascii
+
+   condition:
+      uint16(0) == 0x5a4d and filesize < 200KB and
+      ( 8 of them and all of ($op*) and all of ($ap*) )
+}",
+2024-02-19,Other,text,Phobos_CrypterBinary,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_kprocesshacker {
+   meta:
+      description = ""Phobos kprocesshacker.sys""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-14""
+      hash1 = ""70211a3f90376bbc61f49c22a63075d1d4ddd53f0aefa976216c46e6ba39a9f4""
+   strings:
+      $x1 = ""d:\\projects\\processhacker2\\kprocesshacker\\bin\\amd64\\kprocesshacker.pdb"" fullword ascii
+      $x2 = ""kprocesshacker.sys"" fullword wide
+      $s3 = "":http://crl3.digicert.com/DigiCertHighAssuranceEVRootCA.crl0O"" fullword ascii
+      $s4 = "":http://crl4.digicert.com/DigiCertHighAssuranceEVRootCA.crl0@"" fullword ascii
+      $s5 = ""\\Device\\KProcessHacker3"" fullword wide
+      $s6 = ""KProcessHacker"" fullword wide
+      $s7 = ""www.digicert.com1503"" fullword ascii
+      $s8 = ""http://ocsp.digicert.com0R"" fullword ascii
+      $s9 = ""Fhttp://cacerts.digicert.com/DigiCertSHA2HighAssuranceCodeSigningCA.crt0"" fullword ascii
+      $s10 = ""*http://crl3.digicert.com/sha2-ha-cs-g1.crl00"" fullword ascii
+      $s11 = ""*http://crl4.digicert.com/sha2-ha-cs-g1.crl0L"" fullword ascii
+      $s12 = ""DynamicConfiguration"" fullword wide
+      $s13 = ""Sydney1"" fullword ascii
+      $s14 = ""\\CDvQbX/0"" fullword ascii
+      $s15 = "" Microsoft Code Verification Root0"" fullword ascii
+      $s16 = ""SHA256"" fullword wide /* Goodware String - occured 507 times */
+      $s17 = ""New South Wales1"" fullword ascii /* Goodware String - occured 1 times */
+      $s18 = ""CIQh't%"" fullword ascii
+      $s19 = ""DigiCert, Inc.1*0("" fullword ascii
+      $s20 = ""Licensed under the GNU GPL, v3."" fullword wide
+
+      $op0 = { 8c 99 00 00 58 20 00 00 c0 90 }
+
+      $ap0 = ""PsGetCurrentProcessId"" fullword ascii
+      $ap1 = ""SePrivilegeCheck"" fullword ascii
+      $ap2 = ""PsInitialSystemProcess"" fullword ascii
+      $ap3 = ""ZwQuerySystemInformation"" fullword ascii
+   condition:
+      uint16(0) == 0x5a4d and filesize < 100KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) and all of ($ap*))
+}",
+2024-02-19,Other,text,Phobos_kprocesshacker,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_mimikatz_drv {
+   meta:
+      description = ""mimidrv.sys""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""d43520128871c83b904f3136542ea46644ac81a62d51ae9d3c3a3f32405aad96""
+   strings:
+      $s1 = ""powershell.exe"" fullword ascii
+      $s2 = ""$http://blog.gentilkiwi.com/mimikatz 0"" fullword ascii
+      $s3 = ""mimikatz.exe"" fullword ascii
+      $s4 = ""c:\\security\\mimikatz\\mimidrv\\objfre_wnet_amd64\\amd64\\mimidrv.pdb"" fullword ascii
+      $s5 = ""mimidrv.sys"" fullword wide
+      $s6 = ""!http://ocsp.globalsign.com/rootr103"" fullword ascii
+      $s7 = ""\""http://crl.globalsign.com/root.crl0c"" fullword ascii
+      $s8 = "" ! ZwSetInformationProcess 0x%08x for %u/%-14S"" fullword wide
+      $s9 = ""MmProbeAndLockProcessPages"" fullword wide
+      $s10 = ""PsSetCreateProcessNotifyRoutine"" fullword wide
+      $s11 = ""PostOperation : "" fullword wide
+      $s12 = ""KeServiceDescriptorTable : 0x%p (%u)"" fullword wide
+      $s13 = ""Raw command (not implemented yet) : %s"" fullword wide
+      $s14 = ""* Callback [type %u] - Handle 0x%p (@ 0x%p)"" fullword wide
+      $s15 = ""SeRegisterLogonSessionTerminatedRoutineEx"" fullword wide
+      $s16 = ""RtlGetSystemBootStatus"" fullword wide
+      $s17 = ""Copyright (c) 2007 - 2020 gentilkiwi (Benjamin DELPY)"" fullword wide
+      $s18 = ""*mimikatz driver 2.2."" fullword wide
+      $s19 = ""\\DosDevices\\mimidrv"" fullword wide
+      $s20 = ""ObReferenceSecurityDescriptor"" fullword wide
+
+      $op0 = { f8 b4 00 00 30 50 00 00 c0 b0 }
+      $op1 = { 61 01 49 6f 44 65 6c 65 74 65 53 79 6d 62 6f 6c }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 100KB and
+      ( 8 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_mimikatz_drv,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_mimikatz_drv_32 {
+   meta:
+      description = ""mimidrv_32.sys""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""d032001eab6cad4fbef19aab418650ded00152143bd14507e17d62748297c23f""
+   strings:
+      $s1 = ""powershell.exe"" fullword ascii
+      $s2 = ""$http://blog.gentilkiwi.com/mimikatz 0"" fullword ascii
+      $s3 = ""mimikatz.exe"" fullword ascii
+      $s4 = ""c:\\security\\mimikatz\\mimidrv\\objfre_wnet_x86\\i386\\mimidrv.pdb"" fullword ascii
+      $s5 = ""mimidrv.sys"" fullword wide
+      $s6 = ""PsCreateSystemProcess"" fullword wide
+      $s7 = ""!http://ocsp.globalsign.com/rootr103"" fullword ascii
+      $s8 = ""\""http://crl.globalsign.com/root.crl0c"" fullword ascii
+      $s9 = "" ! ZwSetInformationProcess 0x%08x for %u/%-14S"" fullword wide
+      $s10 = ""PsSetCreateProcessNotifyRoutine"" fullword wide
+      $s11 = ""PsGetThreadSessionId"" fullword wide
+      $s12 = ""NtSetInformationProcess"" fullword wide
+      $s13 = ""PostOperation : "" fullword wide
+      $s14 = ""KeServiceDescriptorTable : 0x%p (%u)"" fullword wide
+      $s15 = ""Raw command (not implemented yet) : %s"" fullword wide
+      $s16 = ""* Callback [type %u] - Handle 0x%p (@ 0x%p)"" fullword wide
+      $s17 = ""Copyright (c) 2007 - 2020 gentilkiwi (Benjamin DELPY)"" fullword wide
+      $s18 = ""*mimikatz driver 2.2."" fullword wide
+      $s19 = ""\\DosDevices\\mimidrv"" fullword wide
+      $s20 = ""CREATE_NAMED_PIPE"" fullword wide
+
+      $op0 = { a1 88 64 01 00 b9 4e e6 40 bb 85 c0 74 04 3b c1 }
+      $op1 = { 3c 84 00 00 18 40 00 00 8c 80 }
+      $op2 = { 96 84 00 00 7e 84 00 00 62 84 00 00 4a 84 00 00 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 90KB and
+      ( 8 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_mimikatz_drv_32,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_BulletsPassView64 {
+   meta:
+      description = ""BulletsPassView64.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""e71cda5e7c018f18aefcdfbce171cfeee7b8d556e5036d8b8f0864efc5f2156b""
+   strings:
+      $s1 = ""      <assemblyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""am"" ascii
+      $s2 = ""BulletsPassView.exe"" fullword wide
+      $s3 = ""<br><h4>%s <a href=\""http://www.nirsoft.net/\"" target=\""newwin\"">%s</a></h4><p>"" fullword wide
+      $s4 = ""c:\\Projects\\VS2005\\BulletsPassView\\x64\\Release\\BulletsPassView.pdb"" fullword ascii
+      $s5 = ""      <assemblyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""am"" ascii
+      $s6 = ""Process Description"" fullword wide
+      $s7 = ""<meta http-equiv='content-type' content='text/html;charset=%s'>"" fullword wide
+      $s8 = ""Process Path"" fullword wide
+      $s9 = ""ScanIEPasswords"" fullword wide
+      $s10 = ""ScanWindowsPasswords"" fullword wide
+      $s11 = ""Scan Internet Explorer Passwords"" fullword wide
+      $s12 = ""Scan Standard Password Text-Boxes"" fullword wide
+      $s13 = ""AddExportHeaderLine"" fullword wide
+      $s14 = ""<html><head>%s<title>%s</title></head>"" fullword wide
+      $s15 = ""UnmaskPasswordBox"" fullword wide
+      $s16 = ""BeepOnNewPassword"" fullword wide
+      $s17 = ""&Clear Passwords List"" fullword wide
+      $s18 = ""Copy Selected &Password"" fullword wide
+      $s19 = ""&Unmask Password Text Box"" fullword wide
+      $s20 = ""Beep On New Password"" fullword wide
+
+      $op0 = { 48 8b 08 66 44 89 34 91 66 85 ff 0f 85 f9 01 00 }
+      $op1 = { 48 c7 c6 ff ff ff ff 89 0d 06 04 01 00 c7 05 00 }
+      $op2 = { 48 8b d8 74 34 48 83 25 e6 fb }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 300KB and
+      ( 8 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_BulletsPassView64,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_SniffPass64 {
+   meta:
+      description = ""SniffPass64.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""c92580318be4effdb37aa67145748826f6a9e285bc2426410dc280e61e3c7620""
+   strings:
+      $x1 = ""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""amd64\"" publicKeyToken=\""6595b641"" ascii
+      $x2 = ""<assembly xmlns=\""urn:schemas-microsoft-com:asm.v1\"" manifestVersion=\""1.0\""><dependency><dependentAssembly><assemblyIdentity ty"" ascii
+      $s3 = ""c:\\Projects\\VS2005\\SniffPass\\x64\\Release\\SniffPass.pdb"" fullword ascii
+      $s4 = ""npptools.dll"" fullword ascii
+      $s5 = ""NmApi.dll"" fullword ascii
+      $s6 = ""<br><h4>%s <a href=\""http://www.nirsoft.net/\"" target=\""newwin\"">%s</a></h4><p>"" fullword ascii
+      $s7 = ""nmwifi.exe"" fullword ascii
+      $s8 = ""Pwpcap.dll"" fullword ascii
+      $s9 = ""Sniffed PasswordsCFailed to start capturing packets from the current network adapter.9Do you want to stop the capture and exit f"" wide
+      $s10 = ""<meta http-equiv='content-type' content='text/html;charset=%s'>"" fullword ascii
+      $s11 = ""login "" fullword ascii
+      $s12 = ""AddExportHeaderLine"" fullword ascii
+      $s13 = ""NirSoft SniffPass"" fullword ascii
+      $s14 = ""NmGetFrame"" fullword ascii
+      $s15 = ""NmGetRawFrame"" fullword ascii
+      $s16 = ""NmGetFrameCount"" fullword ascii
+      $s17 = ""NmGetRawFrameLength"" fullword ascii
+      $s18 = ""Software\\NirSoft\\SniffPass"" fullword ascii
+      $s19 = ""BeepOnNewPassword"" fullword ascii
+      $s20 = ""<html><head>%s<title>%s</title></head>"" fullword ascii
+
+      $op0 = { 48 8b 08 66 44 89 34 91 66 85 ff 0f 85 f9 01 00 }
+      $op1 = { 48 8d 4c 24 20 41 83 c8 ff c7 44 24 34 00 01 00 }
+      $op2 = { 48 8d 91 24 01 00 00 4c 8d 0d 34 00 01 00 45 33 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 300KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_SniffPass64,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_mimikatz {
+   meta:
+      description = ""mimik.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""31eb1de7e840a342fd468e558e5ab627bcb4c542a8fe01aec4d5ba01d539a0fc""
+   strings:
+      $x1 = ""ERROR kuhl_m_lsadump_getUsersAndSamKey ; kull_m_registry_RegOpenKeyEx SAM Accounts (0x%08x)"" fullword wide
+      $x2 = ""ERROR kuhl_m_lsadump_getUsersAndSamKey ; kull_m_registry_RegOpenKeyEx user (%s)"" fullword wide
+      $x3 = ""ERROR kuhl_m_lsadump_update_dc_password ; A /target argument is needed"" fullword wide
+      $x4 = ""ERROR kuhl_m_lsadump_getComputerAndSyskey ; kull_m_registry_RegOpenKeyEx LSA KO"" fullword wide
+      $x5 = ""ERROR kuhl_m_lsadump_getUsersAndSamKey ; kuhl_m_lsadump_getSamKey KO"" fullword wide
+      $x6 = ""ERROR kuhl_m_lsadump_lsa ; kull_m_process_getVeryBasicModuleInformationsForName (0x%08x)"" fullword wide
+      $x7 = ""ERROR kuhl_m_lsadump_lsa_getHandle ; OpenProcess (0x%08x)"" fullword wide
+      $x8 = ""ERROR kuhl_m_lsadump_trust ; kull_m_process_getVeryBasicModuleInformationsForName (0x%08x)"" fullword wide
+      $x9 = ""ERROR kuhl_m_lsadump_dcsync ; kull_m_rpc_drsr_ProcessGetNCChangesReply"" fullword wide
+      $x10 = ""ERROR kuhl_m_dpapi_chrome ; Input 'Login Data' file needed (/in:\""%%localappdata%%\\Google\\Chrome\\User Data\\Default\\Login Da"" wide
+      $x11 = ""ERROR kuhl_m_kernel_processProtect ; Argument /process:program.exe or /pid:processid needed"" fullword wide
+      $x12 = ""ERROR kuhl_m_lsadump_netsync ; I_NetServerTrustPasswordsGet (0x%08x)"" fullword wide
+      $x13 = ""ERROR kull_m_rpc_drsr_ProcessGetNCChangesReply_decrypt ; Checksums don't match (C:0x%08x - R:0x%08x)"" fullword wide
+      $x14 = ""ERROR kuhl_m_lsadump_sam ; kull_m_registry_RegOpenKeyEx (SAM) (0x%08x)"" fullword wide
+      $x15 = ""ERROR kuhl_m_lsadump_getHash ; Unknow SAM_HASH revision (%hu)"" fullword wide
+      $x16 = ""ERROR kuhl_m_lsadump_changentlm ; Argument /oldpassword: or /oldntlm: is needed"" fullword wide
+      $x17 = ""ERROR kuhl_m_lsadump_enumdomains_users ; /user or /rid is needed"" fullword wide
+      $x18 = ""ERROR kuhl_m_lsadump_zerologon ; Missing /account argument, usually a DC$ account"" fullword wide
+      $x19 = ""ERROR kuhl_m_lsadump_update_dc_password ; A /account argument is needed"" fullword wide
+      $x20 = ""livessp.dll"" fullword wide /* reversed goodware string 'lld.pssevil' */
+
+      $op0 = { 45 3b c8 72 34 4c 8d 4c 24 30 48 8b d7 4c 89 7c }
+      $op1 = { e8 1b 18 0c 00 8b 4b 30 4c 8d 5f 34 4c 89 5b 34 }
+      $op2 = { 48 89 44 24 28 4c 89 64 24 20 ff 15 34 6b 0c 00 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 4000KB and
+      ( 1 of ($x*) and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_mimikatz,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_mimikatzlib {
+   meta:
+      description = ""mimilib.dll""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""59756c8f4c760f1b29311a5732cb3fdd41d4b5bc9c88cd77c560e27b6e59780c""
+   strings:
+      $x1 = ""0: kd> !process 0 0 lsass.exe"" fullword ascii
+      $s2 = ""$http://blog.gentilkiwi.com/mimikatz 0"" fullword ascii
+      $s3 = ""0: kd> .process /r /p <EPROCESS address>"" fullword ascii
+      $s4 = ""mimilib.dll"" fullword wide
+      $s5 = ""# Search for LSASS process"" fullword ascii
+      $s6 = "" '## v ##'   https://blog.gentilkiwi.com/mimikatz             (oe.eo)"" fullword ascii
+      $s7 = ""%p - lsasrv!LogonSessionList"" fullword ascii
+      $s8 = ""%p - lsasrv!LogonSessionListCount"" fullword ascii
+      $s9 = ""kiwidns.log"" fullword wide
+      $s10 = ""kiwifilter.log"" fullword wide
+      $s11 = ""kiwinp.log"" fullword wide
+      $s12 = ""kiwissp.log"" fullword wide
+      $s13 = ""kiwisub.log"" fullword wide
+      $s14 = ""masterkey"" fullword ascii
+      $s15 = "" * Password : "" fullword ascii
+      $s16 = ""%p - lsasrv!h3DesKey"" fullword ascii
+      $s17 = ""Unknown version in Kerberos credentials structure"" fullword ascii
+      $s18 = ""lsasrv!g_fSystemCredsInitialized"" fullword ascii
+      $s19 = ""dpapisrv!g_fSystemCredsInitialized"" fullword ascii
+      $s20 = ""%p - lsasrv!hAesKey"" fullword ascii
+
+      $op0 = { b8 79 ff ff ff 3b c8 7f 5e 74 54 81 f9 6b ff ff }
+      $op1 = { 4c 3b f3 48 8d 3d 34 5c 00 00 48 8d 05 b5 3f 00 }
+      $op2 = { 8b 4d 28 e8 a0 fc ff ff 89 45 34 eb 07 c7 45 34 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 100KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_mimikatzlib,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_WirelessKeyView64 {
+   meta:
+      description = ""WirelessKeyView64.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""48b77c1efbc3197128391a35d0e1ed0b5cc3a05b96dd12c98ac73ffc6a886fc8""
+   strings:
+      $x1 = ""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""amd64\"" publicKeyToken=\""6595b641"" ascii
+      $x2 = ""<assembly xmlns=\""urn:schemas-microsoft-com:asm.v1\"" manifestVersion=\""1.0\""><dependency><dependentAssembly><assemblyIdentity ty"" ascii
+      $x3 = ""Windows Protect folder for getting the encryption keys, For example: G:\\windows\\system32\\Microsoft\\Protect"" fullword wide
+      $s4 = ""<br><h4>%s <a href=\""http://www.nirsoft.net/\"" target=\""newwin\"">%s</a></h4><p>"" fullword ascii
+      $s5 = ""Windows Registry hives folder, for example: k:\\windows\\system32\\config"" fullword wide
+      $s6 = ""SYSTEM\\%s\\Control\\Network\\{4D36E972-E325-11CE-BFC1-08002BE10318}\\%s\\Connection"" fullword ascii
+      $s7 = ""<meta http-equiv='content-type' content='text/html;charset=%s'>"" fullword ascii
+      $s8 = ""system32\\config\\Software"" fullword ascii
+      $s9 = ""system32\\config"" fullword ascii
+      $s10 = ""Load the wireless keys of the current logged-on user"" fullword wide
+      $s11 = ""/Running WirelessKeyView as SYSTEM user (Faster)%Directly decrypting the wireless keys"" fullword wide
+      $s12 = ""SYSTEM\\%s\\Enum\\%s"" fullword ascii
+      $s13 = ""AddExportHeaderLine"" fullword ascii
+      $s14 = ""<html><head>%s<title>%s</title></head>"" fullword ascii
+      $s15 = ""/GetKeys"" fullword ascii
+      $s16 = ""<tr><td%s nowrap><b>%s</b><td bgcolor=#%s%s>%s"" fullword ascii
+      $s17 = ""report.html"" fullword ascii
+      $s18 = "" Type Descriptor'"" fullword ascii
+      $s19 = ""Load wireless keys from remote system (Windows Vista or later, requires full admin rights)"" fullword wide
+      $s20 = ""Windows Directory: (For example: K:\\Windows  )"" fullword wide
+
+      $op0 = { 48 8b 08 66 44 89 34 91 66 85 ff 0f 85 f9 01 00 }
+      $op1 = { 48 8d 4c 24 20 41 83 c8 ff c7 44 24 34 00 01 00 }
+      $op2 = { 49 89 83 28 ff ff ff 49 89 83 30 ff ff ff c7 84 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 700KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_WirelessKeyView64,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_netpass64 {
+   meta:
+      description = ""netpass64.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""6a87226ed5cca8e072507d6c24289c57757dd96177f329a00b00e40427a1d473""
+   strings:
+      $x1 = ""Windows Protect folder for getting the encryption keys, For example: F:\\Users\\Nir\\AppData\\Roaming\\Microsoft\\Protect"" fullword wide
+      $x2 = ""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""amd64\"" publicKeyToken=\""6595b641"" ascii
+      $x3 = ""Windows Credentials folder: (For exmaple: C:\\Users\\admin\\AppData\\Roaming\\Microsoft\\Credentials )"" fullword wide
+      $x4 = ""<assembly xmlns=\""urn:schemas-microsoft-com:asm.v1\"" manifestVersion=\""1.0\""><dependency><dependentAssembly><assemblyIdentity ty"" ascii
+      $s5 = ""<br><h4>%s <a href=\""http://www.nirsoft.net/\"" target=\""newwin\"">%s</a></h4><p>"" fullword ascii
+      $s6 = ""c:\\Projects\\VS2005\\netpass\\x64\\Release\\netpass.pdb"" fullword ascii
+      $s7 = ""User Profile Folder: (For example: K:\\users\\admin )"" fullword wide
+      $s8 = ""Bad file structure !UFailed to decrypt the key file. It's possible that the supplied password is incorrect"" fullword wide
+      $s9 = ""<meta http-equiv='content-type' content='text/html;charset=%s'>"" fullword ascii
+      $s10 = ""Failed to load the executable file !"" fullword ascii
+      $s11 = ""Export Raw Passwords Data"" fullword wide
+      $s12 = ""Windows Login Password:"" fullword wide
+      $s13 = ""+Failed to find the encryption key filename.-The structure of the key filename is invalid./The structure of the protected data i"" wide
+      $s14 = ""AppData\\Roaming"" fullword ascii
+      $s15 = ""AppData\\Roaming\\Microsoft\\Protect"" fullword ascii
+      $s16 = "" Network Password Recovery"" fullword wide
+      $s17 = "" Network  Password  Recovery"" fullword wide
+      $s18 = ""AddExportHeaderLine"" fullword ascii
+      $s19 = ""<html><head>%s<title>%s</title></head>"" fullword ascii
+      $s20 = ""Domain Password"" fullword wide
+
+      $op0 = { 48 8b 08 66 44 89 34 91 66 85 ff 0f 85 f9 01 00 }
+      $op1 = { 48 8d 4c 24 20 41 83 c8 ff c7 44 24 34 00 01 00 }
+      $op2 = { 04 45 88 ab 21 ff ff ff 45 88 ab 22 ff ff ff 45 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 400KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_netpass64,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_PasswordFox64 {
+   meta:
+      description = ""PasswordFox64.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""7fee96ae0ed1972a80abbd4529dc81ec033083857455bbf3c803c4f47e1ac31c""
+   strings:
+      $s1 = ""SELECT id, hostname, httpRealm, formSubmitURL, usernameField, passwordField, encryptedUsername, encryptedPassword, timeCreated, "" ascii
+      $s2 = ""      <assemblyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""am"" ascii
+      $s3 = ""c:\\Projects\\VS2005\\PasswordFox\\x64\\Release\\PasswordFox.pdb"" fullword ascii
+      $s4 = ""SELECT id, hostname, httpRealm, formSubmitURL, usernameField, passwordField, encryptedUsername, encryptedPassword, timeCreated, "" ascii
+      $s5 = ""<br><h4>%s <a href=\""http://www.nirsoft.net/\"" target=\""newwin\"">%s</a></h4><p>"" fullword wide
+      $s6 = ""      <assemblyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""am"" ascii
+      $s7 = ""\\sqlite3.dll"" fullword wide
+      $s8 = ""\\mozsqlite3.dll"" fullword wide
+      $s9 = ""\""Account\"",\""Login Name\"",\""Password\"",\""Web Site\"",\""Comments\"""" fullword ascii
+      $s10 = ""SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\firefox.exe"" fullword wide
+      $s11 = ""SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\Waterfox.exe"" fullword wide
+      $s12 = ""encryptedPassword"" fullword wide
+      $s13 = ""<meta http-equiv='content-type' content='text/html;charset=%s'>"" fullword wide
+      $s14 = ""xpwwwx"" fullword ascii /* reversed goodware string 'xwwwpx' */
+      $s15 = ""timeLastUsed, timePasswordChanged, timesUsed FROM moz_logins"" fullword ascii
+      $s16 = ""Password Use Count"" fullword wide
+      $s17 = ""%programfiles%\\Mozilla Firefox"" fullword wide
+      $s18 = ""AddExportHeaderLine"" fullword wide
+      $s19 = ""<html><head>%s<title>%s</title></head>"" fullword wide
+      $s20 = ""Password Field"" fullword wide
+
+      $op0 = { 48 8b cf ff 15 4d 5c 01 00 ba ec ff ff ff 48 8b }
+      $op1 = { f2 41 0f 58 fa eb 34 41 83 fb 06 7c 14 41 83 fb }
+      $op2 = { e9 39 01 00 00 48 8b 05 85 b7 01 00 83 b8 34 0c }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 400KB and
+      ( 8 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_PasswordFox64,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_mimikatzlib_32 {
+   meta:
+      description = ""mimilib_32.dll""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""a6527183e3cbf81602de16f3448a8754f6cecd05dc3568fa2795de534b366da4""
+   strings:
+      $x1 = ""0: kd> !process 0 0 lsass.exe"" fullword ascii
+      $s2 = ""$http://blog.gentilkiwi.com/mimikatz 0"" fullword ascii
+      $s3 = ""0: kd> .process /r /p <EPROCESS address>"" fullword ascii
+      $s4 = ""mimilib.dll"" fullword wide
+      $s5 = ""# Search for LSASS process"" fullword ascii
+      $s6 = "" '## v ##'   https://blog.gentilkiwi.com/mimikatz             (oe.eo)"" fullword ascii
+      $s7 = ""%p - lsasrv!LogonSessionList"" fullword ascii
+      $s8 = ""%p - lsasrv!LogonSessionListCount"" fullword ascii
+      $s9 = ""kiwidns.log"" fullword wide
+      $s10 = ""kiwifilter.log"" fullword wide
+      $s11 = ""kiwinp.log"" fullword wide
+      $s12 = ""kiwissp.log"" fullword wide
+      $s13 = ""kiwisub.log"" fullword wide
+      $s14 = ""masterkey"" fullword ascii
+      $s15 = "" * Password : "" fullword ascii
+      $s16 = ""%p - lsasrv!h3DesKey"" fullword ascii
+      $s17 = ""Unknown version in Kerberos credentials structure"" fullword ascii
+      $s18 = ""lsasrv!g_fSystemCredsInitialized"" fullword ascii
+      $s19 = ""dpapisrv!g_fSystemCredsInitialized"" fullword ascii
+      $s20 = ""%p - lsasrv!hAesKey"" fullword ascii
+
+      $op0 = { 6a 34 5b ff 75 e4 6a 40 8b 3d 54 50 00 10 ff d7 }
+      $op1 = { 8b be 44 54 00 10 0f af 7c 24 34 57 6a 40 ff d3 }
+      $op2 = { 8b 59 04 8b 3d 34 50 00 10 89 45 0c 50 be 38 88 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 100KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_mimikatzlib_32,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_mimilove_32 {
+   meta:
+      description = ""mimilove_32.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""b42725211240828ccc505d193d8ea5915e395c9f43e71496ff0ece4f72e3e4ab""
+   strings:
+      $s1 = ""$http://blog.gentilkiwi.com/mimikatz 0"" fullword ascii
+      $s2 = ""mimilove.exe"" fullword wide
+      $s3 = "" '## v ##'   https://blog.gentilkiwi.com/mimikatz             (oe.eo)"" fullword wide
+      $s4 = ""ERROR wmain ; OpenProcess (0x%08x)"" fullword wide
+      $s5 = ""ERROR mimilove_lsasrv ; kull_m_memory_copy / KIWI_MSV1_0_LOGON_SESSION_TABLE_50 (0x%08x)"" fullword wide
+      $s6 = ""ERROR mimilove_lsasrv ; LogonSessionTable is NULL"" fullword wide
+      $s7 = ""ERROR mimilove_kerberos ; kull_m_memory_copy / KERB_HASHPASSWORD_5 (0x%08x)"" fullword wide
+      $s8 = ""ERROR mimilove_kerberos ; kull_m_memory_copy / KIWI_KERBEROS_LOGON_SESSION_50 (0x%08x)"" fullword wide
+      $s9 = ""ERROR mimilove_kerberos ; KerbLogonSessionList is NULL"" fullword wide
+      $s10 = ""ERROR mimilove_kerberos ; kull_m_memory_copy / KIWI_KERBEROS_KEYS_LIST_5 (0x%08x)"" fullword wide
+      $s11 = ""Copyright (c) 2007 - 2020 gentilkiwi (Benjamin DELPY)"" fullword wide
+      $s12 = ""ERROR kull_m_kernel_ioctl_handle ; DeviceIoControl (0x%08x) : 0x%08x"" fullword wide
+      $s13 = ""UndefinedLogonType"" fullword wide
+      $s14 = ""ERROR wmain ; GetVersionEx (0x%08x)"" fullword wide
+      $s15 = ""ERROR mimilove_lsasrv ; kull_m_memory_copy / KIWI_MSV1_0_PRIMARY_CREDENTIALS (0x%08x)"" fullword wide
+      $s16 = ""ERROR mimilove_lsasrv ; kull_m_memory_copy / KIWI_MSV1_0_CREDENTIALS (0x%08x)"" fullword wide
+      $s17 = ""KERBEROS Credentials (no tickets, sorry)"" fullword wide
+      $s18 = ""benjamin@gentilkiwi.com0"" fullword ascii
+      $s19 = "" * Username : %wZ"" fullword wide
+      $s20 = ""http://subca.ocsp-certum.com01"" fullword ascii
+
+      $op0 = { 89 45 cc 6a 34 8d 45 cc 50 8d 45 c4 8d 4d 80 50 }
+      $op1 = { 89 45 b8 c7 45 bc f7 ff ff ff 89 5d d4 89 5d f4 }
+      $op2 = { 89 45 d4 c7 45 d8 f8 ff ff ff 89 7d f0 89 7d f4 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 100KB and
+      ( 8 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_mimilove_32,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_mimik_32 {
+   meta:
+      description = ""mimik_32.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""66b4a0681cae02c302a9b6f1d611ac2df8c519d6024abdb506b4b166b93f636a""
+   strings:
+      $x1 = ""ERROR kuhl_m_lsadump_getUsersAndSamKey ; kull_m_registry_RegOpenKeyEx SAM Accounts (0x%08x)"" fullword wide
+      $x2 = ""ERROR kuhl_m_lsadump_getUsersAndSamKey ; kull_m_registry_RegOpenKeyEx user (%s)"" fullword wide
+      $x3 = ""ERROR kuhl_m_lsadump_update_dc_password ; A /target argument is needed"" fullword wide
+      $x4 = ""ERROR kuhl_m_lsadump_getComputerAndSyskey ; kull_m_registry_RegOpenKeyEx LSA KO"" fullword wide
+      $x5 = ""ERROR kuhl_m_lsadump_getUsersAndSamKey ; kuhl_m_lsadump_getSamKey KO"" fullword wide
+      $x6 = ""ERROR kuhl_m_lsadump_lsa ; kull_m_process_getVeryBasicModuleInformationsForName (0x%08x)"" fullword wide
+      $x7 = ""ERROR kuhl_m_lsadump_lsa_getHandle ; OpenProcess (0x%08x)"" fullword wide
+      $x8 = ""ERROR kuhl_m_lsadump_trust ; kull_m_process_getVeryBasicModuleInformationsForName (0x%08x)"" fullword wide
+      $x9 = ""ERROR kuhl_m_lsadump_dcsync ; kull_m_rpc_drsr_ProcessGetNCChangesReply"" fullword wide
+      $x10 = ""ERROR kuhl_m_dpapi_chrome ; Input 'Login Data' file needed (/in:\""%%localappdata%%\\Google\\Chrome\\User Data\\Default\\Login Da"" wide
+      $x11 = ""ERROR kuhl_m_kernel_processProtect ; Argument /process:program.exe or /pid:processid needed"" fullword wide
+      $x12 = ""ERROR kuhl_m_lsadump_netsync ; I_NetServerTrustPasswordsGet (0x%08x)"" fullword wide
+      $x13 = ""ERROR kull_m_rpc_drsr_ProcessGetNCChangesReply_decrypt ; Checksums don't match (C:0x%08x - R:0x%08x)"" fullword wide
+      $x14 = ""ERROR kuhl_m_lsadump_sam ; kull_m_registry_RegOpenKeyEx (SAM) (0x%08x)"" fullword wide
+      $x15 = ""ERROR kuhl_m_lsadump_getHash ; Unknow SAM_HASH revision (%hu)"" fullword wide
+      $x16 = ""ERROR kuhl_m_lsadump_changentlm ; Argument /oldpassword: or /oldntlm: is needed"" fullword wide
+      $x17 = ""ERROR kuhl_m_lsadump_enumdomains_users ; /user or /rid is needed"" fullword wide
+      $x18 = ""ERROR kuhl_m_lsadump_zerologon ; Missing /account argument, usually a DC$ account"" fullword wide
+      $x19 = ""ERROR kuhl_m_lsadump_update_dc_password ; A /account argument is needed"" fullword wide
+      $x20 = ""livessp.dll"" fullword wide /* reversed goodware string 'lld.pssevil' */
+
+      $op0 = { 8b 55 0c 6a 01 8d 85 00 ff ff ff 50 ff 75 08 8d }
+      $op1 = { 8b 45 08 8b f0 83 c0 34 6a 0d 59 8b fb f3 a5 8b }
+      $op2 = { 89 74 24 0c 39 73 34 76 66 89 74 24 10 6a 20 6a }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 3000KB and
+      ( 1 of ($x*) and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_mimik_32,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_pspv {
+   meta:
+      description = ""pspv.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""64788b6f74875aed53ca80669b06f407e132d7be49586925dbb3dcde56cbca9c""
+   strings:
+      $s1 = ""SMTP Password"" fullword ascii
+      $s2 = ""pspv.exe"" fullword wide
+      $s3 = ""xwwwwwpwwww"" fullword ascii /* reversed goodware string 'wwwwpwwwwwx' */
+      $s4 = ""SMTP User"" fullword ascii
+      $s5 = ""inetcomm server passwords"" fullword ascii
+      $s6 = ""POP3 Password"" fullword ascii
+      $s7 = ""<tr><td nowrap>&nbsp;<a href=\""%s\"" target=\""new1\"">%s</a> <td nowrap>&nbsp;%s<td nowrap>&nbsp;%s <td nowrap>&nbsp;%s"" fullword ascii
+      $s8 = ""IMAP Password"" fullword ascii
+      $s9 = ""ms ie ftp Passwords"" fullword ascii
+      $s10 = ""HTTP User"" fullword ascii
+      $s11 = ""HTTP Password"" fullword ascii
+      $s12 = ""&AutoComplete Passwords"" fullword wide
+      $s13 = ""AutoComplete Passwords"" fullword wide
+      $s14 = ""Protected Storage Raw Data2Select a filename for exporting the passwords list2Select a filename for importing the passwords list"" wide
+      $s15 = ""4Select a text filename for saving the passwords listBSelect a filename for saving the raw data of the Protected Storage Protect"" wide
+      $s16 = ""wininetcachecredentials"" fullword ascii
+      $s17 = ""IMAP User"" fullword ascii
+      $s18 = ""Outlook Account Manager Passwords"" fullword ascii
+      $s19 = ""<html><head><title>%s</title>%s</head>"" fullword ascii
+      $s20 = ""ShowPasswordProtected"" fullword ascii
+
+      $op0 = { ff 75 10 e8 7d ff ff ff 85 c0 59 0f 85 83 }
+      $op1 = { 8d 85 f8 fe ff ff 50 e8 75 ff ff ff 59 59 5f c9 }
+      $op2 = { ff 15 70 80 40 00 83 bd 6c ff ff ff 01 75 07 68 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 200KB and
+      ( 8 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_pspv,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_mailpv {
+   meta:
+      description = ""mailpv.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""16c6af4ae2d8ca8e7a3f2051b913fa1cb7e1fbd0110b0736614a1e02bbbbceaf""
+   strings:
+      $s1 = ""      <assemblyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""X8"" ascii
+      $s2 = ""www.google.com/Please log in to your Gmail account"" fullword wide
+      $s3 = ""www.google.com:443/Please log in to your Gmail account"" fullword wide
+      $s4 = ""www.google.com/Please log in to your Google Account"" fullword wide
+      $s5 = ""www.google.com:443/Please log in to your Google Account"" fullword wide
+      $s6 = ""<br><h4>%s <a href=\""http://www.nirsoft.net/\"" target=\""newwin\"">%s</a></h4><p>"" fullword ascii
+      $s7 = ""      <assemblyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""X8"" ascii
+      $s8 = ""\""Account\"",\""Login Name\"",\""Password\"",\""Web Site\"",\""Comments\"""" fullword ascii
+      $s9 = ""%s@yahoo.com"" fullword ascii
+      $s10 = ""logins.json"" fullword ascii
+      $s11 = ""%s@gmail.com"" fullword ascii
+      $s12 = ""smtpserver"" fullword ascii
+      $s13 = ""SMTPAccount"" fullword ascii
+      $s14 = ""ESMTPPassword"" fullword ascii
+      $s15 = ""SMTP User"" fullword ascii
+      $s16 = ""PopPassword"" fullword ascii
+      $s17 = ""SMTP USer Name"" fullword ascii
+      $s18 = ""Passport.Net\\*"" fullword ascii
+      $s19 = ""<meta http-equiv='content-type' content='text/html;charset=%s'>"" fullword ascii
+      $s20 = ""Failed to load the executable file !"" fullword ascii
+
+      $op0 = { 89 46 2c 89 46 34 89 46 14 e8 33 fd ff ff 8b 46 }
+      $op1 = { e9 4a ff ff ff 83 7e 24 05 75 23 80 fb 20 76 0f }
+      $op2 = { e9 00 ff ff ff e8 79 fb ff ff c7 46 24 05 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 1000KB and
+      ( 8 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_mailpv,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_WirelessKeyView {
+   meta:
+      description = ""WirelessKeyView.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""12f13d129579c68ec3cc05bef69880b6a891296fa9fce69b979b1c04998f125c""
+   strings:
+      $x1 = ""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""X86\"" publicKeyToken=\""6595b64144"" ascii
+      $x2 = ""<assembly xmlns=\""urn:schemas-microsoft-com:asm.v1\"" manifestVersion=\""1.0\""><dependency><dependentAssembly><assemblyIdentity ty"" ascii
+      $x3 = ""Windows Protect folder for getting the encryption keys, For example: G:\\windows\\system32\\Microsoft\\Protect"" fullword wide
+      $s4 = ""<br><h4>%s <a href=\""http://www.nirsoft.net/\"" target=\""newwin\"">%s</a></h4><p>"" fullword ascii
+      $s5 = ""Windows Registry hives folder, for example: k:\\windows\\system32\\config"" fullword wide
+      $s6 = ""SYSTEM\\%s\\Control\\Network\\{4D36E972-E325-11CE-BFC1-08002BE10318}\\%s\\Connection"" fullword ascii
+      $s7 = ""<meta http-equiv='content-type' content='text/html;charset=%s'>"" fullword ascii
+      $s8 = ""system32\\config\\Software"" fullword ascii
+      $s9 = ""system32\\config"" fullword ascii
+      $s10 = ""Load the wireless keys of the current logged-on user"" fullword wide
+      $s11 = ""/Running WirelessKeyView as SYSTEM user (Faster)%Directly decrypting the wireless keys"" fullword wide
+      $s12 = ""SYSTEM\\%s\\Enum\\%s"" fullword ascii
+      $s13 = ""AddExportHeaderLine"" fullword ascii
+      $s14 = ""<html><head>%s<title>%s</title></head>"" fullword ascii
+      $s15 = ""/GetKeys"" fullword ascii
+      $s16 = ""<tr><td%s nowrap><b>%s</b><td bgcolor=#%s%s>%s"" fullword ascii
+      $s17 = ""report.html"" fullword ascii
+      $s18 = "" Type Descriptor'"" fullword ascii
+      $s19 = ""Load wireless keys from remote system (Windows Vista or later, requires full admin rights)"" fullword wide
+      $s20 = ""Windows Directory: (For example: K:\\Windows  )"" fullword wide
+
+      $op0 = { 56 8d 85 01 ff ff ff 53 50 88 9d 00 ff ff ff e8 }
+      $op1 = { 57 8d 85 70 ff ff ff 50 53 8d 45 f0 50 6a 01 be }
+      $op2 = { 8b c6 50 e8 41 ff ff ff 83 c4 10 5e c9 c3 55 8b }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 500KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_WirelessKeyView,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_ChromePass {
+   meta:
+      description = ""ChromePass.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""c4304f7bb6ef66c0676c6b94d25d3f15404883baa773e94f325d8126908e1677""
+   strings:
+      $x1 = ""Windows Protect folder for getting the encryption keys, For example: F:\\Users\\Nir\\AppData\\Roaming\\Microsoft\\Protect"" fullword wide
+      $s2 = ""      <assemblyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""X8"" ascii
+      $s3 = ""Chrome User Data folder where the password file is stored , for example: G:\\Users\\Nir\\AppData\\Local\\Google\\Chrome\\User Da"" wide
+      $s4 = ""<br><h4>%s <a href=\""http://www.nirsoft.net/\"" target=\""newwin\"">%s</a></h4><p>"" fullword wide
+      $s5 = ""<entries ext=\""Password Exporter\"" extxmlversion=\""1.1\"" type=\""saved\"" encrypt=\""false\"">"" fullword ascii
+      $s6 = ""<entry host=\""%s\"" user=\""%s\"" password=\""%s\"" formSubmitURL=\""%s\"" httpRealm=\""%s\"" userFieldName=\""%s\"" passFieldName=\""%s\""/>"" wide
+      $s7 = ""c:\\Projects\\VS2005\\ChromePass\\Release\\ChromePass.pdb"" fullword ascii
+      $s8 = ""      <assemblyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""X8"" ascii
+      $s9 = ""Windows User Profile Path, For example: K:\\Users\\Admin  "" fullword wide
+      $s10 = ""@netmsg.dll"" fullword wide
+      $s11 = ""Opera Software\\Opera Stable\\Login Data"" fullword wide
+      $s12 = ""@crypt32.dll"" fullword wide
+      $s13 = ""\""Account\"",\""Login Name\"",\""Password\"",\""Web Site\"",\""Comments\"""" fullword ascii
+      $s14 = ""om logins "" fullword ascii
+      $s15 = ""<meta http-equiv='content-type' content='text/html;charset=%s'>"" fullword wide
+      $s16 = ""Windows Login Password:"" fullword wide
+      $s17 = ""SELECT origin_url, action_url, username_element, username_value, password_element, password_value, signon_realm, date_created fr"" ascii
+      $s18 = ""Yandex\\YandexBrowser\\User Data\\Default\\Login Data"" fullword wide
+      $s19 = ""Vivaldi\\User Data\\Default\\Login Data"" fullword wide
+      $s20 = ""KeePass csv file,Password Exporter Firefox Extension XML File"" fullword wide
+
+      $op0 = { 55 8b ec 51 56 33 f6 66 89 33 8a 07 eb 29 34 42 }
+      $op1 = { c7 46 54 ff ff ff 00 e8 ae fd ff ff 5f 5e 5b c9 }
+      $op2 = { 56 8d 85 01 ff ff ff 53 50 88 9d 00 ff ff ff e8 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 700KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_ChromePass,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_SniffPass {
+   meta:
+      description = ""SniffPass.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""1e13fd79ad54fe98e08d9ffca2c287a470c50c2876608edce2fe38e07c245266""
+   strings:
+      $x1 = ""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""X86\"" publicKeyToken=\""6595b64144"" ascii
+      $x2 = ""<assembly xmlns=\""urn:schemas-microsoft-com:asm.v1\"" manifestVersion=\""1.0\""><dependency><dependentAssembly><assemblyIdentity ty"" ascii
+      $s3 = ""c:\\Projects\\VS2005\\SniffPass\\Release\\SniffPass.pdb"" fullword ascii
+      $s4 = ""npptools.dll"" fullword ascii
+      $s5 = ""NmApi.dll"" fullword ascii
+      $s6 = ""<br><h4>%s <a href=\""http://www.nirsoft.net/\"" target=\""newwin\"">%s</a></h4><p>"" fullword ascii
+      $s7 = ""nmwifi.exe"" fullword ascii
+      $s8 = ""Pwpcap.dll"" fullword ascii
+      $s9 = ""Sniffed PasswordsCFailed to start capturing packets from the current network adapter.9Do you want to stop the capture and exit f"" wide
+      $s10 = ""<meta http-equiv='content-type' content='text/html;charset=%s'>"" fullword ascii
+      $s11 = ""login "" fullword ascii
+      $s12 = ""AddExportHeaderLine"" fullword ascii
+      $s13 = ""NirSoft SniffPass"" fullword ascii
+      $s14 = ""NmGetFrame"" fullword ascii
+      $s15 = ""NmGetRawFrame"" fullword ascii
+      $s16 = ""NmGetFrameCount"" fullword ascii
+      $s17 = ""NmGetRawFrameLength"" fullword ascii
+      $s18 = ""Software\\NirSoft\\SniffPass"" fullword ascii
+      $s19 = ""BeepOnNewPassword"" fullword ascii
+      $s20 = ""<html><head>%s<title>%s</title></head>"" fullword ascii
+
+      $op0 = { 56 8d 85 01 ff ff ff 53 50 88 9d 00 ff ff ff e8 }
+      $op1 = { c7 45 f8 fe ff ff ff 29 5d f8 8d 53 02 8a 42 ff }
+      $op2 = { ff 15 9c c0 40 00 8b c6 5e c3 e8 d7 ff ff ff 33 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 200KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_SniffPass,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_WebBrowserPassView {
+   meta:
+      description = ""WebBrowserPassView.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""b556d90b30f217d5ef20ebe3f15cce6382c4199e900b5ad2262a751909da1b34""
+   strings:
+      $x1 = ""<assembly xmlns=\""urn:schemas-microsoft-com:asm.v1\"" manifestVersion=\""1.0\"" xmlns:asmv3=\""urn:schemas-microsoft-com:asm.v3\""><d"" ascii
+      $x2 = ""https://www.google.com/accounts/servicelogin"" fullword wide
+      $s3 = ""https://login.yahoo.com/config/login"" fullword wide
+      $s4 = ""ncy><dependentAssembly><assemblyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processor"" ascii
+      $s5 = ""Web Browser Passwords%Choose another Firefox profile folder)Choose the installation folder of Firefox,Choose another profile of "" wide
+      $s6 = ""<br><h4>%s <a href=\""http://www.nirsoft.net/\"" target=\""newwin\"">%s</a></h4><p>"" fullword wide
+      $s7 = ""com.apple.WebKit2WebProcess"" fullword ascii
+      $s8 = ""Opera Login file:"" fullword wide
+      $s9 = ""http://www.facebook.com/"" fullword wide
+      $s10 = ""Opera Password File"" fullword wide
+      $s11 = ""<meta http-equiv='content-type' content='text/html;charset=%s'>"" fullword wide
+      $s12 = ""Ghistory.dat"" fullword wide
+      $s13 = ""<html><head>%s<title>%s</title></head>"" fullword wide
+      $s14 = ""ASTCOLUMNCOMMITCONFLICTCROSSCURRENT_TIMESTAMPRIMARYDEFERREDISTINCTDROPFAILFROMFULLGLOBYIFISNULLORDERESTRICTOUTERIGHTROLLBACKROWU"" ascii
+      $s15 = ""    <asmv3:windowsSettings xmlns=\""http://schemas.microsoft.com/SMI/2005/WindowsSettings\"">"" fullword ascii
+      $s16 = ""Mozilla\\SeaMonkey\\Profiles"" fullword wide
+      $s17 = ""Mozilla\\SeaMonkey"" fullword wide
+      $s19 = ""%d Passwords"" fullword wide
+      $s20 = ""Internet Explorer 4.0 - 6.0"" fullword wide
+
+      $op0 = { 8d 4c 24 20 51 8d 54 24 1c 52 50 8b 44 24 34 50 }
+      $op1 = { 89 74 24 34 89 74 24 40 89 74 24 38 89 74 24 44 }
+      $op2 = { 89 4c 24 3c 89 7c 24 30 89 4c 24 34 ff d5 85 c0 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 2000KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_WebBrowserPassView,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_Dialupass {
+   meta:
+      description = ""Dialupass.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""598555a7e053c7456ee8a06a892309386e69d473c73284de9bbc0ba73b17e70a""
+   strings:
+      $x1 = ""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""X86\"" publicKeyToken=\""6595b64144"" ascii
+      $x2 = ""Profiles base folder or phonebook folder:  (For example:  f:\\Documents and Settings, f:\\users , K:\\users\\admin\\AppData\\Roa"" wide
+      $x3 = ""<assembly xmlns=\""urn:schemas-microsoft-com:asm.v1\"" manifestVersion=\""1.0\""><dependency><dependentAssembly><assemblyIdentity ty"" ascii
+      $s4 = ""ycomctl32.dll"" fullword wide
+      $s5 = ""Dialupass.exe /setpass \""%s\"" \""%s\"" \""%s\"" \""%s\"" \""%s\"""" fullword wide
+      $s6 = ""<br><h4>%s <a href=\""http://www.nirsoft.net/\"" target=\""newwin\"">%s</a></h4><p>"" fullword wide
+      $s7 = ""Copy /setpass Command-Line"" fullword wide
+      $s8 = ""Windows Directory or Registry hives folder (SYSTEM and SECURITY hives are needed), For example:  E:\\Windows or E:\\Windows\\Sys"" wide
+      $s9 = ""@advapi32.dll"" fullword wide
+      $s10 = ""@netmsg.dll"" fullword wide
+      $s11 = ""\""Account\"",\""Login Name\"",\""Password\"",\""Web Site\"",\""Comments\"""" fullword ascii
+      $s12 = ""AppData\\Roaming\\Microsoft\\Network\\Connections\\Pbk"" fullword wide
+      $s13 = ""<meta http-equiv='content-type' content='text/html;charset=%s'>"" fullword wide
+      $s14 = ""system32\\ras\\rasphone.pbk"" fullword wide
+      $s15 = ""  Failed to load the executable file !  "" fullword wide
+      $s16 = ""Extract the dialup passwords list from your local system"" fullword wide
+      $s17 = ""ShowItemsNoPassword"" fullword wide
+      $s18 = ""AddExportHeaderLine"" fullword wide
+      $s19 = ""L$_RasConnectionCredentials#0"" fullword wide
+      $s20 = ""<html><head>%s<title>%s</title></head>"" fullword wide
+
+      $op0 = { 55 8b ec 51 56 33 f6 66 89 33 8a 07 eb 29 34 42 }
+      $op1 = { eb 34 8d 85 8c f1 ff ff 50 e8 79 f8 ff ff 89 45 }
+      $op2 = { 53 56 8d 5f 34 8b 45 fc 8d 4f 24 e8 c7 ea ff ff }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 200KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_Dialupass,
+2024-02-19,External analysis,attachment,yara-scan-dnsc-v101.zip,
+2024-02-19,Other,text,https://www.dnsc.ro/vezi/document/yara-scan-dnsc-v101,
+2024-02-19,Other,text,Trusted,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_BulletsPassView {
+   meta:
+      description = ""BulletsPassView.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""b19dfe440e515c39928b475a946656a12b1051e98e0df36c016586b34a766d5c""
+   strings:
+      $s1 = ""      <assemblyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""X8"" ascii
+      $s2 = ""BulletsPassView.exe"" fullword wide
+      $s3 = ""<br><h4>%s <a href=\""http://www.nirsoft.net/\"" target=\""newwin\"">%s</a></h4><p>"" fullword wide
+      $s4 = ""c:\\Projects\\VS2005\\BulletsPassView\\Release\\BulletsPassView.pdb"" fullword ascii
+      $s5 = ""      <assemblyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""X8"" ascii
+      $s6 = ""@netmsg.dll"" fullword wide
+      $s7 = ""Process Description"" fullword wide
+      $s8 = ""<meta http-equiv='content-type' content='text/html;charset=%s'>"" fullword wide
+      $s9 = ""Process Path"" fullword wide
+      $s10 = ""ScanIEPasswords"" fullword wide
+      $s11 = ""ScanWindowsPasswords"" fullword wide
+      $s12 = ""Scan Internet Explorer Passwords"" fullword wide
+      $s13 = ""Scan Standard Password Text-Boxes"" fullword wide
+      $s14 = ""AddExportHeaderLine"" fullword wide
+      $s15 = ""<html><head>%s<title>%s</title></head>"" fullword wide
+      $s16 = ""UnmaskPasswordBox"" fullword wide
+      $s17 = ""BeepOnNewPassword"" fullword wide
+      $s18 = ""&Clear Passwords List"" fullword wide
+      $s19 = ""Copy Selected &Password"" fullword wide
+      $s20 = ""&Unmask Password Text Box"" fullword wide
+
+      $op0 = { 55 8b ec 51 56 33 f6 66 89 33 8a 07 eb 29 34 42 }
+      $op1 = { 56 8d 85 01 ff ff ff 53 50 88 9d 00 ff ff ff e8 }
+      $op2 = { 43 3b 5c 24 14 0f 82 47 ff ff ff e9 c8 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 200KB and
+      ( 8 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_BulletsPassView,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_rdpv {
+   meta:
+      description = ""rdpv.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""205818e10c13d2e51b4c0196ca30111276ca1107fc8e25a0992fe67879eab964""
+   strings:
+      $s1 = ""rdpv.exe"" fullword wide
+      $s2 = ""Password Recovery for Remote Desktop"" fullword wide
+      $s3 = ""<description>NirSoft</description> "" fullword ascii
+      $s4 = ""Remote Desktop PassView"" fullword wide
+      $s5 = "" 2006 - 2014 Nir Sofer"" fullword wide
+      $s6 = ""-~W:\\P"" fullword ascii
+      $s7 = ""Desktop PassVieww"" fullword ascii
+      $s8 = ""hars5=%s'>?=bl"" fullword ascii
+      $s9 = ""<meta http-e"" fullword ascii
+      $s10 = ""zcr*t3$dll"" fullword ascii
+      $s11 = ""name=\""NirSoft\"" "" fullword ascii
+      $s12 = ""quiv='con5"" fullword ascii
+      $s13 = ""lobalAl"" fullword ascii
+      $s14 = ""v%HmsgivX"" fullword ascii
+      $s15 = "".QhF(z"" fullword ascii
+      $s16 = ""mZCo)lsEx"" fullword ascii
+      $s17 = ""RSDSK&^"" fullword ascii
+      $s18 = ""STATIC;0T"" fullword ascii
+      $s19 = ""Lemote "" fullword ascii
+      $s20 = ""CTYPE HTMLWUBLB \""-v"" fullword ascii
+
+      $op0 = { ff ff ff ff 55 8b ec 51 53 33 db 88 1f 8a 06 eb }
+      $op1 = { ff 60 be 00 b0 40 00 8d be 00 60 ff ff 57 83 cd }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 90KB and
+      ( 8 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_rdpv,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_netpass {
+   meta:
+      description = ""netpass.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""de374c1b9a05c2203e66917202c42d11eac4368f635ccaaadf02346035e82562""
+   strings:
+      $x1 = ""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""X86\"" publicKeyToken=\""6595b64144"" ascii
+      $x2 = ""<assembly xmlns=\""urn:schemas-microsoft-com:asm.v1\"" manifestVersion=\""1.0\""><dependency><dependentAssembly><assemblyIdentity ty"" ascii
+      $s3 = "" Network Password Recovery"" fullword wide
+      $s4 = "" Network  Password  Recovery"" fullword wide
+      $s5 = ""vapi3ydll"" fullword ascii
+      $s6 = "" 2005 - 2016 Nir Sofer"" fullword wide
+      $s7 = ""requestedPrivileges>"" fullword ascii
+      $s8 = ""support@nirsoft.net0"" fullword ascii
+      $s9 = ""5 Hashoshanim st.1"" fullword ascii
+      $s10 = ""K6Network Pass"" fullword ascii
+      $s11 = ""a http-equiv='"" fullword ascii
+      $s12 = ""<assembly xmlns=\""urn:schemas-microsoft-com:asm.v1\"" manifestVersion=\""1.0\""><dependency><dependentAssembly><assemblyIdentity ty"" ascii
+      $s13 = ""SpofResou0"" fullword ascii
+      $s14 = ""Gush Dan1"" fullword ascii
+      $s15 = ""Ramat Gan1"" fullword ascii
+      $s16 = ""yzRRzRK"" fullword ascii
+      $s17 = ""=%s'>?=ble dir=\"""" fullword ascii
+      $s18 = ""!DOCTYPE HTML"" fullword ascii
+      $s19 = ""HlobalUn"" fullword ascii
+      $s20 = ""ewPEfw;"" fullword ascii
+
+      $op0 = { ff ff ff ff 55 8b ec 51 53 33 db 88 1f 8a 06 eb }
+      $op1 = { db dc cd 5c 8a 00 1b 85 1e 49 35 10 78 fb 3f ec }
+      $op2 = { 60 be 00 00 41 00 8d be 00 10 ff ff 57 83 cd ff }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 200KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_netpass,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_RouterPassView {
+   meta:
+      description = ""RouterPassView.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""ae474417854ac1b6190e15cc514728433a26cc815fdc6d12150ef55e92d643ea""
+   strings:
+      $s1 = ""      <assemblyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""X8"" ascii
+      $s2 = ""RouterPassView.exe"" fullword wide
+      $s3 = ""      <assemblyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""X8"" ascii
+      $s4 = ""$)7622/%$#"" fullword ascii /* hex encoded string 'v""' */
+      $s5 = ""d[5DlLIE@???2!6:Bqib"" fullword ascii
+      $s6 = "" 2010 - 2019 Nir Sofer"" fullword wide
+      $s7 = "".pdb/p@"" fullword ascii
+      $s8 = ""ohttp_Gd"" fullword ascii
+      $s9 = ""P-CONFIGWLB[bZX"" fullword ascii
+      $s10 = ""RouterPassView"" fullword wide
+      $s11 = ""icKeyToken=\""6595b64144ccf1df\"" language=\""*\""></assemblyIdentity>"" fullword ascii
+      $s12 = ""Decrypts Router files."" fullword wide
+      $s13 = ""WuruxK5"" fullword ascii
+      $s14 = ""jjgeba"" fullword ascii
+      $s15 = ""GetAdapters"" fullword ascii
+      $s16 = ""password"" fullword ascii /* Goodware String - occured 519 times */
+      $s17 = ""IK@0STzKpB%"" fullword ascii
+      $s18 = ""-Iartup|"" fullword ascii
+      $s19 = ""!/FpvvtpnkTk^`fh"" fullword ascii
+      $s20 = ""eYdhLPX&"" fullword ascii
+
+      $op0 = { 5f fe ff ff 55 8b ec 51 56 33 f6 66 89 33 8a 07 }
+      $op1 = { 60 be 00 c0 41 00 8d be 00 50 fe ff 57 83 cd ff }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 200KB and
+      ( 8 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_RouterPassView,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_PstPassword {
+   meta:
+      description = ""PstPassword.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""5e85446910e732111ca9ac90f9ed8b1dee13c3314d2c5117dcf672994ce73bd6""
+   strings:
+      $s1 = ""      <assemblyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""X8"" ascii
+      $s2 = ""      <assemblyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""X8"" ascii
+      $s3 = ""PstPasswordf"" fullword ascii
+      $s4 = ""PST Password Recovery"" fullword wide
+      $s5 = ""PstPassword"" fullword wide
+      $s6 = "" PstPassword"" fullword wide
+      $s7 = "" 2006  - 2017 Nir Sofer"" fullword wide
+      $s8 = ""ReadMemoq"" fullword ascii
+      $s9 = ""fTs[G:\"""" fullword ascii
+      $s10 = ""icKeyToken=\""6595b64144ccf1df\"" language=\""*\""></assemblyIdentity>"" fullword ascii
+      $s11 = ""\\Microsoft\\Outbn"" fullword ascii
+      $s12 = ""!DOCTYPE HTML"" fullword ascii
+      $s13 = ""ysdaopmck/,p"" fullword ascii
+      $s14 = ""-BruI%+F"" fullword ascii
+      $s15 = ""FGTQgfl"" fullword ascii
+      $s16 = ""gUSPo0irJx{"" fullword ascii
+      $s17 = ""<meta \\tp-equiv='conZ"" fullword ascii
+      $s18 = ""lGlobchk Plc"" fullword ascii
+      $s19 = ""atYhx6n"" fullword ascii
+      $s20 = ""HKiTGt>h"" fullword ascii
+
+      $op0 = { ff ff ff ff 55 8b ec 51 53 33 db 88 1f 8a 06 eb }
+      $op1 = { 60 be 00 b0 40 00 8d be 00 60 ff ff 57 83 cd ff }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 100KB and
+      ( 8 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_PstPassword,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_OperaPassView {
+   meta:
+      description = ""OperaPassView.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""8e4b218bdbd8e098fff749fe5e5bbf00275d21f398b34216a573224e192094b8""
+   strings:
+      $s1 = ""OperaPassView.exe"" fullword wide
+      $s2 = ""      <assemblyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""X8"" ascii
+      $s3 = ""      <assemblyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""X8"" ascii
+      $s4 = ""ccount\"",\""Login Name"" fullword ascii
+      $s5 = ""OperaPassView"" fullword wide
+      $s6 = ""NexProcess "" fullword ascii
+      $s7 = ""36333222(\"""" fullword ascii /* hex encoded string '632""' */
+      $s8 = ""MGetFBase`7t"" fullword ascii
+      $s9 = ""55553333("" fullword ascii /* hex encoded string 'UU33' */
+      $s10 = "" 2010 - 2013 Nir Sofer"" fullword wide
+      $s11 = ""RRRRRRRRRPPPPOOONN"" fullword ascii
+      $s12 = ""TTTSTSSSRRRRRR"" fullword ascii
+      $s13 = ""icKeyToken=\""6595b64144ccf1df\"" language=\""*\""></assemblyIdentity>"" fullword ascii
+      $s14 = ""Lartuprmi"" fullword ascii
+      $s15 = ""Password"" fullword ascii /* Goodware String - occured 715 times */
+      $s16 = ""8eLibrKyA"" fullword ascii
+      $s17 = ""Cddd|xp"" fullword ascii
+      $s18 = ""JLLOOQQRRTTWWXX[[]]^^aabbddgghhk"" fullword ascii
+      $s19 = ""nnpppuuvvyyzz||"" fullword ascii
+      $s20 = ""@DDDCCC?"" fullword ascii
+
+      $op0 = { 5f fe ff ff 55 8b ec 51 56 33 f6 66 89 33 8a 07 }
+      $op1 = { 60 be 00 e0 40 00 8d be 00 30 ff ff 57 83 cd ff }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 100KB and
+      ( 8 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_OperaPassView,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_mspass {
+   meta:
+      description = ""mspass.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""7a313840d25adf94c7bf1d17393f5b991ba8baf50b8cacb7ce0420189c177e26""
+   strings:
+      $x1 = ""lyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""X86\"" publicKey"" ascii
+      $x2 = ""<assembly xmlns=\""urn:schemas-microsoft-com:asm.v1\"" manifestVersion=\""1.0\""><assemblyIdentity version=\""1.0.0.0\"" processorArch"" ascii
+      $s3 = ""mspass.exe"" fullword wide
+      $s4 = ""<assembly xmlns=\""urn:schemas-microsoft-com:asm.v1\"" manifestVersion=\""1.0\""><assemblyIdentity version=\""1.0.0.0\"" processorArch"" ascii
+      $s5 = ""IM Password Recovery"" fullword wide
+      $s6 = "" 2004 - 2014 Nir Sofer"" fullword wide
+      $s7 = ""oftware"" fullword wide
+      $s8 = ""mspass"" fullword wide
+      $s9 = ""TalKeySt"" fullword ascii
+      $s10 = "" MessenPass"" fullword wide
+      $s11 = ""re=\""X86\"" name=\""NirSoft\"" type=\""win32\""></assemblyIdentity><description>NirSoft</description><dependency><dependentAssembly><"" ascii
+      $s12 = ""Gbrvbar"" fullword ascii
+      $s13 = ""~,\""Log8 Name"" fullword ascii
+      $s14 = ""iiethn"" fullword ascii
+      $s15 = ""\\Digsby\\d"" fullword ascii
+      $s16 = ""aaaarr"" fullword ascii
+      $s17 = ""fddptx"" fullword ascii
+      $s18 = ""8>qg(= "" fullword ascii /* Goodware String - occured 1 times */
+      $s19 = ""ilterIndex"" fullword ascii
+      $s20 = ""fmaj]b0"" fullword ascii
+
+      $op0 = { ff ff ff ff 55 8b ec 51 53 33 db 88 1f 8a 06 eb }
+      $op1 = { 60 be 00 40 41 00 8d be 00 d0 fe ff 57 83 cd ff }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 200KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_mspass,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_NetRouteView {
+   meta:
+      description = ""NetRouteView.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""91041b616969e1526ee6dce23f8d18afdd353786ac6afa0b6611903263ee6f63""
+   strings:
+      $s1 = ""      <assemblyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""X8"" ascii
+      $s2 = ""NetRouteView.exe"" fullword wide
+      $s3 = ""      <assemblyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""X8"" ascii
+      $s4 = "" 2010 - 2015 Nir Sofer"" fullword wide
+      $s5 = ""AetIpForwardE"" fullword ascii
+      $s6 = ""support@nirsoft.net0"" fullword ascii
+      $s7 = ""5 Hashoshanim st.1"" fullword ascii
+      $s8 = ""Read8[U"" fullword ascii
+      $s9 = ""icKeyToken=\""6595b64144ccf1df\"" language=\""*\""></assemblyIdentity>"" fullword ascii
+      $s10 = ""Laseoize"" fullword ascii
+      $s11 = ""urrent"" fullword ascii
+      $s12 = ""xce /Y"" fullword ascii
+      $s13 = ""jKXEAT1"" fullword ascii
+      $s14 = ""Gush Dan1"" fullword ascii
+      $s15 = ""Ramat Gan1"" fullword ascii
+      $s16 = ""kFBaseNameW"" fullword ascii
+      $s17 = ""XAnImAi;"" fullword ascii
+      $s18 = ""ctfWz7b"" fullword ascii
+      $s19 = ""reaGCTab_"" fullword ascii
+      $s20 = ""View\\R|"" fullword ascii
+
+      $op0 = { 5f fe ff ff 55 8b ec 51 56 33 f6 66 89 33 8a 07 }
+      $op1 = { 60 be 00 f0 40 00 8d be 00 20 ff ff 57 83 cd ff }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 100KB and
+      ( 8 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_NetRouteView,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_iepv {
+   meta:
+      description = ""iepv.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""dbe98193aced7285a01c18b7da8e4540fb4e5b0625debcfbabcab7ea90f5685d""
+   strings:
+      $x1 = ""<assembly xmlns=\""urn:schemas-microsoft-com:asm.v1\"" manifestVersion=\""1.0\"" xmlns:asmv3=\""urn:schemas-microsoft-com:asm.v3\""><d"" ascii
+      $s2 = ""ncy><dependentAssembly><assemblyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processor"" ascii
+      $s3 = ""iepv.exe"" fullword wide
+      $s4 = ""    <asmv3:windowsSettings xmlns=\""http://schemas.microsoft.com/SMI/2005/WindowsSettings\"">"" fullword ascii
+      $s5 = ""IE Passwords Viewer"" fullword wide
+      $s6 = ""ecture=\""X86\"" publicKeyToken=\""6595b64144ccf1df\"" language=\""*\""></assemblyIdentity></dependentAssembly></dependency><asmv3:app"" ascii
+      $s7 = ""CredentialsFi"" fullword ascii
+      $s8 = "" 2006 - 2016 Nir Sofer"" fullword wide
+      $s9 = ""A$TempaU"" fullword ascii
+      $s10 = ""support@nirsoft.net0"" fullword ascii
+      $s11 = ""5 Hashoshanim st.1"" fullword ascii
+      $s12 = ""/'ml;chars5=%s'>?"" fullword ascii
+      $s13 = ""E http-equiv='"" fullword ascii
+      $s14 = ""IE Pass View"" fullword wide
+      $s15 = ""<assembly xmlns=\""urn:schemas-microsoft-com:asm.v1\"" manifestVersion=\""1.0\"" xmlns:asmv3=\""urn:schemas-microsoft-com:asm.v3\""><d"" ascii
+      $s16 = ""Gush Dan1"" fullword ascii
+      $s17 = ""Ramat Gan1"" fullword ascii
+      $s18 = ""008deee3d3f0"" ascii
+      $s19 = ""PdHP~(z@"" fullword ascii
+      $s20 = ""UUUUU\\@"" fullword ascii
+
+      $op0 = { ff ff ff ff 55 8b ec 51 53 33 db 88 1f 8a 06 eb }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 200KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_iepv,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_PasswordFox {
+   meta:
+      description = ""PasswordFox.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""e01b0e7feadd08a7ea87c1cde44e7b97daf9632eaee8311ef6967f33258d03c1""
+   strings:
+      $s1 = ""SELECT id, hostname, httpRealm, formSubmitURL, usernameField, passwordField, encryptedUsername, encryptedPassword, timeCreated, "" ascii
+      $s2 = ""      <assemblyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""X8"" ascii
+      $s3 = ""c:\\Projects\\VS2005\\PasswordFox\\Release\\PasswordFox.pdb"" fullword ascii
+      $s4 = ""SELECT id, hostname, httpRealm, formSubmitURL, usernameField, passwordField, encryptedUsername, encryptedPassword, timeCreated, "" ascii
+      $s5 = ""<br><h4>%s <a href=\""http://www.nirsoft.net/\"" target=\""newwin\"">%s</a></h4><p>"" fullword wide
+      $s6 = ""      <assemblyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""X8"" ascii
+      $s7 = ""\\sqlite3.dll"" fullword wide
+      $s8 = ""\\mozsqlite3.dll"" fullword wide
+      $s9 = ""@netmsg.dll"" fullword wide
+      $s10 = ""\""Account\"",\""Login Name\"",\""Password\"",\""Web Site\"",\""Comments\"""" fullword ascii
+      $s11 = ""SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\App Paths\\firefox.exe"" fullword wide
+      $s12 = ""@nss3.dll"" fullword wide
+      $s13 = ""encryptedPassword"" fullword wide
+      $s14 = ""<meta http-equiv='content-type' content='text/html;charset=%s'>"" fullword wide
+      $s15 = ""xpwwwx"" fullword ascii /* reversed goodware string 'xwwwpx' */
+      $s16 = ""timeLastUsed, timePasswordChanged, timesUsed FROM moz_logins"" fullword ascii
+      $s17 = ""Password Use Count"" fullword wide
+      $s18 = ""%programfiles%\\Mozilla Firefox"" fullword wide
+      $s19 = ""AddExportHeaderLine"" fullword wide
+      $s20 = ""<html><head>%s<title>%s</title></head>"" fullword wide
+
+      $op0 = { 89 4c 24 3c 89 7c 24 30 89 4c 24 34 ff d5 85 c0 }
+      $op1 = { 89 44 24 34 c7 44 24 38 06 08 08 00 89 4c 24 40 }
+      $op2 = { 89 7c 24 24 89 7c 24 28 c7 44 24 34 00 40 00 00 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 300KB and
+      ( 8 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_PasswordFox,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_VNCPassView {
+   meta:
+      description = ""VNCPassView.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""816d7616238958dfe0bb811a063eb3102efd82eff14408f5cab4cb5258bfd019""
+   strings:
+      $x1 = ""lyIdentity type=\""Win32\"" name=\""Microsoft.Windows.Common-Controls\"" version=\""6.0.0.0\"" processorArchitecture=\""X86\"" publicKey"" ascii
+      $x2 = ""<assembly xmlns=\""urn:schemas-microsoft-com:asm.v1\"" manifestVersion=\""1.0\""><assemblyIdentity version=\""1.0.0.0\"" processorArch"" ascii
+      $s3 = ""VNCPassView.exe"" fullword wide
+      $s4 = ""<br><h4>%s <a href=\""http://www.nirsoft.net/\"" target=\""newwin\"">%s</a></h4><p>"" fullword ascii
+      $s5 = ""<assembly xmlns=\""urn:schemas-microsoft-com:asm.v1\"" manifestVersion=\""1.0\""><assemblyIdentity version=\""1.0.0.0\"" processorArch"" ascii
+      $s6 = ""c:\\Projects\\VS2005\\VNCPassView\\Release\\VNCPassView.pdb"" fullword ascii
+      $s7 = ""<meta http-equiv='content-type' content='text/html;charset=%s'>"" fullword ascii
+      $s8 = ""BasicProg.cfg"" fullword ascii
+      $s9 = ""ultravnc"" fullword ascii
+      $s10 = ""<html><head>%s<title>%s</title></head>"" fullword ascii
+      $s11 = ""VNC Passwords"" fullword wide
+      $s12 = ""Password Type"" fullword wide
+      $s13 = ""<tr><td%s nowrap><b>%s</b><td bgcolor=#%s%s>%s"" fullword ascii
+      $s14 = ""report.html"" fullword ascii
+      $s15 = ""ultravnc.ini"" fullword ascii
+      $s16 = ""dialog_%d"" fullword ascii
+      $s17 = "" 2007 - 2014  Nir Sofer"" fullword wide
+      $s18 = ""xpwwwwwwwwwwwx"" fullword ascii
+      $s19 = ""<th%s>%s%s%s"" fullword ascii
+      $s20 = ""<td bgcolor=#%s nowrap>%s"" fullword ascii
+
+      $op0 = { 56 8d 85 01 ff ff ff 53 50 88 9d 00 ff ff ff e8 }
+      $op1 = { 8b c6 50 e8 41 ff ff ff 83 c4 10 5e c9 c3 55 8b }
+      $op2 = { 56 8d 85 01 ff ff ff 6a 00 50 8b f9 c6 85 00 ff }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 200KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_VNCPassView,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_pars {
+   meta:
+      description = ""pars.vbs""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""04cc60eba7041e0cef2deb1bec9a087432344737dd2e5141c9cda981506ca1a5""
+   strings:
+      $s1 = ""str_SavePath = Replace(obj_FSO.GetFile(str_LogFile), obj_FSO.GetFileName(str_LogFile), \""\"", 1, -1, vbTextCompare)"" fullword ascii
+      $s2 = ""Gl_WorkDir = Replace(WScript.ScriptFullName, WScript.ScriptName, \""\"", 1, -1, vbTextCompare)"" fullword ascii
+      $s3 = ""SaveReportToSMB str_SavePath, \""Users.txt\"", Join(ListUsers, vbCrLf)"" fullword ascii
+      $s4 = ""SaveReportToSMB str_SavePath, \""Passwords.txt\"", Join(ListPasswords, vbCrLf)"" fullword ascii
+      $s5 = ""Str = Replace(Replace(Replace(Str, \"" * password : \"", \""\""), \"" * Password : \"", \""\""), \"" * PASSWORD : \"", \""\"")"" fullword ascii
+      $s6 = ""If (InStr(1, Str, \""password :\"", vbTextCompare) <> 0) Then"" fullword ascii
+      $s7 = ""If (InStr(1, ListUsers(IndUsers2), Str, vbTextCompare) <> 0) Then"" fullword ascii
+      $s8 = ""If (InStr(1, ListPasswords(IndPass2), Str, vbBinaryCompare) <> 0) Then"" fullword ascii
+      $s9 = ""If (InStr(1, Str, \""cur/text:\"", vbTextCompare) <> 0) Or (InStr(1, Str, \""old/text:\"", vbTextCompare) <> 0) Then"" fullword ascii
+      $s10 = ""SaveReportToSMB str_SavePath, \""NewPassTest.txt\"", Join(Listtext, vbCrLf)"" fullword ascii
+      $s11 = ""SaveReportToSMB str_SavePath, \""HASHES.txt\"", Join(ListNTLM, vbCrLf)"" fullword ascii
+      $s12 = ""For IndUsers2=0 To IndUsers1"" fullword ascii
+      $s13 = ""Str = Replace(Replace(Replace(Str, \"" password : \"", \""\""), \"" Password : \"", \""\""), \"" PASSWORD : \"", \""\"")"" fullword ascii
+      $s14 = ""Dim IndUsers1: IndUsers1=-1"" fullword ascii
+      $s15 = ""Str = Replace(Replace(Replace(Str, \""password : \"", \""\""), \""Password : \"", \""\""), \""PASSWORD : \"", \""\"")"" fullword ascii
+      $s16 = ""Dim ListPasswords(): ReDim ListPasswords(0)"" fullword ascii
+      $s17 = ""Redim Preserve rdirs(ubound(rdirs) - 1)"" fullword ascii
+      $s18 = ""ReDim Preserve ListPasswords(IndPass1)"" fullword ascii
+      $s19 = ""ReDim Preserve ListUsers(IndUsers1)"" fullword ascii
+      $s20 = ""If (IndUsers1 < 0) or NeedAdd Then"" fullword ascii
+   condition:
+      uint16(0) == 0x6944 and filesize < 30KB and
+      8 of them
+}",
+2024-02-19,Other,text,Phobos_pars,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_ToolStatus {
+   meta:
+      description = ""ToolStatus.dll""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""5713d40dec146dbc819230daefe1b886fa6d6f6dbd619301bb8899562195cbab""
+   strings:
+      $x1 = ""D:\\Projects\\processhacker2\\bin\\Release64\\plugins\\ToolStatus.pdb"" fullword ascii
+      $s2 = ""ToolStatus.dll"" fullword wide
+      $s3 = ""ProcessHacker.ToolStatus.Config"" fullword wide
+      $s4 = ""ProcessHacker.ToolStatus.RebarConfig"" fullword wide
+      $s5 = ""ProcessHacker.ToolStatus.ToolbarConfig"" fullword wide
+      $s6 = ""ProcessHacker.ToolStatus.StatusbarConfig"" fullword wide
+      $s7 = ""Modern Toolbar icons by http://www.icons8.com"" fullword wide
+      $s8 = ""https://wj32.org/processhacker/forums/viewtopic.php?t=1119"" fullword wide
+      $s9 = ""PhGetFilterSupportProcessTreeList"" fullword ascii
+      $s10 = ""ProcessHacker.ToolStatus.ToolbarDisplayStyle"" fullword wide
+      $s11 = ""ProcessHacker.ToolStatus.SearchBoxDisplayMode"" fullword wide
+      $s12 = ""ProcessHacker.ToolStatus.ToolbarTheme"" fullword wide
+      $s13 = ""ProcessHacker.ToolStatus"" fullword wide
+      $s14 = ""PhGetProcessPriorityClassString"" fullword ascii
+      $s15 = ""PhCreateProcessPropContext"" fullword ascii
+      $s16 = ""PhFindProcessNode"" fullword ascii
+      $s17 = ""PhSetSelectThreadIdProcessPropContext"" fullword ascii
+      $s18 = ""PhExpandAllProcessNodes"" fullword ascii
+      $s19 = ""PhUiTerminateProcesses"" fullword ascii
+      $s20 = ""PhReferenceProcessItem"" fullword ascii
+
+      $op0 = { 24 04 89 4c 24 24 c7 44 24 20 ff ff ff ff 41 0f }
+      $op1 = { 33 d2 ff 15 dc ea 00 00 8b 46 34 41 b9 05 }
+      $op2 = { 83 e8 10 74 76 83 f8 03 0f 85 6b ff ff ff 80 3d }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 700KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_ToolStatus,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_ProcessHacker {
+   meta:
+      description = ""ProcessHacker.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""bd2c2cf0631d881ed382817afcce2b093f4e412ffb170a719e2762f250abfea4""
+   strings:
+      $x1 = ""D:\\Projects\\processhacker2\\bin\\Release64\\ProcessHacker.pdb"" fullword ascii
+      $x2 = ""ProcessHacker.exe"" fullword wide
+      $x3 = ""kprocesshacker.sys"" fullword wide
+      $x4 = ""ntdll.dll!NtDelayExecution"" fullword wide
+      $x5 = ""ntdll.dll!ZwDelayExecution"" fullword wide
+      $s6 = ""PhUiInjectDllProcess"" fullword ascii
+      $s7 = ""PhInjectDllProcess"" fullword ascii
+      $s8 = ""Executable files (*.exe;*.dll;*.ocx;*.sys;*.scr;*.cpl)"" fullword wide
+      $s9 = ""The process is 32-bit, but the 32-bit version of Process Hacker could not be located. A 64-bit dump will be created instead. Do "" wide
+      $s10 = ""PhExecuteRunAsCommand2"" fullword ascii
+      $s11 = ""\\x86\\ProcessHacker.exe"" fullword wide
+      $s12 = ""user32.dll!NtUserGetMessage"" fullword wide
+      $s13 = ""ntdll.dll!NtWaitForKeyedEvent"" fullword wide
+      $s14 = ""ntdll.dll!ZwWaitForKeyedEvent"" fullword wide
+      $s15 = ""ntdll.dll!NtReleaseKeyedEvent"" fullword wide
+      $s16 = ""ntdll.dll!ZwReleaseKeyedEvent"" fullword wide
+      $s17 = ""\\kprocesshacker.sys"" fullword wide
+      $s18 = ""\\SystemRoot\\system32\\drivers\\ntfs.sys"" fullword wide
+      $s19 = ""PhShellExecuteUserString"" fullword ascii
+      $s20 = ""The process will be restarted with the same command line and working directory, but if it is running under a different user it w"" wide
+
+      $op0 = { 48 8b d9 33 d2 48 8d 4c 24 34 41 b8 9c }
+      $op1 = { 8b 41 08 89 44 24 34 0f b7 41 18 66 c1 c8 08 0f }
+      $op2 = { 48 8b 0d 34 9c 15 00 48 85 c9 75 37 bb 37 00 00 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 5000KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_ProcessHacker,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_OnlineChecks {
+   meta:
+      description = ""OnlineChecks.dll""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""7336d66588bbcfea63351a2eb7c8d83bbd49b5d959ba56a94b1fe2e905a5b5de""
+   strings:
+      $x1 = ""D:\\Projects\\processhacker2\\bin\\Release64\\plugins\\OnlineChecks.pdb"" fullword ascii
+      $s2 = ""OnlineChecks.dll"" fullword wide
+      $s3 = ""virustotal.com"" fullword wide
+      $s4 = ""https://wj32.org/processhacker/forums/viewtopic.php?t=1118"" fullword wide
+      $s5 = ""http://www.virustotal.com/file/%s/analysis/"" fullword wide
+      $s6 = ""PhShellExecute"" fullword ascii
+      $s7 = ""ProcessHacker.OnlineChecks"" fullword wide
+      $s8 = ""camas.comodo.com"" fullword wide
+      $s9 = ""ProcessHacker_"" fullword wide
+      $s10 = ""Online Checks plugin for Process Hacker"" fullword wide
+      $s11 = ""http://camas.comodo.com%.*S"" fullword wide
+      $s12 = ""http://camas.comodo.com/cgi-bin/submit?file=%s"" fullword wide
+      $s13 = ""PhGetPhVersion"" fullword ascii
+      $s14 = ""virusscan.jotti.org"" fullword wide
+      $s15 = ""Content-Type: application/x-msdownload"" fullword wide
+      $s16 = ""http://virusscan.jotti.org%hs"" fullword wide
+      $s17 = ""PhGetBaseName"" fullword ascii
+      $s18 = ""PhGetFileSize"" fullword ascii
+      $s19 = ""Content-Disposition: form-data; name=\""MAX_FILE_SIZE\"""" fullword wide
+      $s20 = ""Unable to add request headers"" fullword wide
+
+      $op0 = { eb 1f 44 39 7e 18 75 34 44 39 7e 14 74 2e 48 8b }
+      $op1 = { e9 46 ff ff ff cc 45 33 d2 4c 8b ca 66 44 39 11 }
+      $op2 = { 49 8b f0 48 8b fa 48 8b d9 e8 c8 ff ff ff 4c 89 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 700KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_OnlineChecks,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_Updater {
+   meta:
+      description = ""Updater.dll""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""0c11cdc3765ffb53ba9707b6f99ec17ae4f7334578a935ba7bcbbc9c7bdeed2e""
+   strings:
+      $x1 = ""D:\\Projects\\processhacker2\\bin\\Release64\\plugins\\Updater.pdb"" fullword ascii
+      $s2 = ""%s%s\\processhacker-%lu.%lu-setup.exe"" fullword wide
+      $s3 = ""http://processhacker.sourceforge.net/downloads.php"" fullword wide
+      $s4 = ""Updater.dll"" fullword wide
+      $s5 = ""https://wj32.org/processhacker/forums/viewtopic.php?t=1121"" fullword wide
+      $s6 = ""processhacker.sourceforge.net"" fullword wide
+      $s7 = ""PhShellExecute"" fullword ascii
+      $s8 = ""ProcessHacker.UpdateChecker.PromptStart"" fullword wide
+      $s9 = ""Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\Process_Hacker2_is1"" fullword wide
+      $s10 = ""ProcessHacker.UpdateChecker.LastUpdateCheckTime"" fullword wide
+      $s11 = ""ProcessHacker.UpdateChecker"" fullword wide
+      $s12 = ""/processhacker/update.php"" fullword wide
+      $s13 = ""Plugin for checking new Process Hacker releases via the Help menu."" fullword wide
+      $s14 = ""ProcessHacker-Build: "" fullword wide
+      $s15 = ""ProcessHacker-OsBuild: "" fullword wide
+      $s16 = ""Process Hacker %lu.%lu.%lu"" fullword wide
+      $s17 = ""Update checker plugin for Process Hacker"" fullword wide
+      $s18 = ""Process Hacker Updater"" fullword wide
+      $s19 = ""PhGetOwnTokenAttributes"" fullword ascii
+      $s20 = ""PhGetPhVersionNumbers"" fullword ascii
+
+      $op0 = { e8 34 ee ff ff eb b7 48 8d 59 08 40 32 f6 40 88 }
+      $op1 = { 48 8b d8 e8 34 e2 ff ff 48 3b c3 74 c1 8b cf e8 }
+      $op2 = { 48 85 c0 0f 84 11 03 00 00 4c 8d 05 11 34 01 00 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 300KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_Updater,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_ExtendedServices {
+   meta:
+      description = ""ExtendedServices.dll""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""5ae7c0972fd4e4c4ae14c0103602ca854377fefcbccd86fa68cfc5a6d1f99f60""
+   strings:
+      $x1 = ""D:\\Projects\\processhacker2\\bin\\Release64\\plugins\\ExtendedServices.pdb"" fullword ascii
+      $s2 = ""Executable files (*.exe;*.cmd;*.bat)"" fullword wide
+      $s3 = ""ExtendedServices.dll"" fullword wide
+      $s4 = ""https://wj32.org/processhacker/forums/viewtopic.php?t=1113"" fullword wide
+      $s5 = ""ProcessHacker.ExtendedServices.EnableServicesMenu"" fullword wide
+      $s6 = ""ProcessHacker.ExtendedServices"" fullword wide
+      $s7 = ""*.exe;*.cmd;*.bat"" fullword wide
+      $s8 = ""PhGetListViewItemParam"" fullword ascii
+      $s9 = ""PhGetSelectedListViewItemParam"" fullword ascii
+      $s10 = ""PhGetServiceConfig"" fullword ascii
+      $s11 = ""Extended Services for Process Hacker"" fullword wide
+      $s12 = ""Enable Services submenu for processes"" fullword wide
+      $s13 = ""PhGetFileDialogFileName"" fullword ascii
+      $s14 = ""Append /fail=%1% to pass the fail count to the program."" fullword wide
+      $s15 = ""The service has %lu failure actions configured, but this program only supports editing 3. If you save the recovery information u"" wide
+      $s16 = ""PhGetOwnTokenAttributes"" fullword ascii
+      $s17 = ""PhGetComboBoxString"" fullword ascii
+      $s18 = ""PhLookupPrivilegeDisplayName"" fullword ascii
+      $s19 = ""Service (%s)"" fullword wide
+      $s20 = ""The selected privilege has already been added."" fullword wide
+
+      $op0 = { 48 8b f8 48 8b cd 48 8d 44 24 34 4c 8b c7 48 89 }
+      $op1 = { 48 8b 05 34 a6 01 00 48 33 c4 48 89 45 1f 4c 89 }
+      $op2 = { 48 8d 44 24 34 41 8b d1 48 89 44 24 20 4c 8d 44 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 400KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_ExtendedServices,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_DotNetTools {
+   meta:
+      description = ""DotNetTools.dll""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""b4cc0280e2caa0335361172cb7d673f745defc78299ded808426ffbc2458e4d9""
+   strings:
+      $x1 = ""D:\\Projects\\processhacker2\\bin\\Release64\\plugins\\DotNetTools.pdb"" fullword ascii
+      $s2 = ""\\Microsoft.NET\\Framework64\\v4.0.30319\\mscordacwks.dll"" fullword wide
+      $s3 = ""\\Microsoft.NET\\Framework64\\v2.0.50727\\mscordacwks.dll"" fullword wide
+      $s4 = ""DotNetTools.dll"" fullword wide
+      $s5 = ""# of Filters Executed"" fullword wide
+      $s6 = ""# of Finallys Executed"" fullword wide
+      $s7 = ""https://wj32.org/processhacker/forums/viewtopic.php?t=1111"" fullword wide
+      $s8 = ""PhGetProcessIsDotNet"" fullword ascii
+      $s9 = ""PhGetProcessIsSuspended"" fullword ascii
+      $s10 = ""PhGetProcessIsDotNetEx"" fullword ascii
+      $s11 = ""ProcessHacker.DotNetTools.AsmTreeListColumns"" fullword wide
+      $s12 = ""ProcessHacker.DotNetTools.DotNetListColumns"" fullword wide
+      $s13 = ""ProcessHacker.DotNetTools.DotNetShowByteSizes"" fullword wide
+      $s14 = ""ProcessHacker.DotNetTools"" fullword wide
+      $s15 = "".NET tools plugin for Process Hacker"" fullword wide
+      $s16 = ""PhGetSystemRoot"" fullword ascii
+      $s17 = ""PhEnumProcessModules32"" fullword ascii
+      $s18 = ""PhOpenProcess"" fullword ascii
+      $s19 = ""ProcessQueryAccess"" fullword ascii
+      $s20 = ""PhFindProcessInformation"" fullword ascii
+
+      $op0 = { 48 8b d8 e8 34 e2 ff ff 48 3b c3 74 c1 8b cf e8 }
+      $op1 = { c7 45 f7 fe ff ff ff 44 89 7d fb ff 15 ff ea 00 }
+      $op2 = { 48 8b 4e 18 45 33 c9 ba ff ff ff 7f 4e 8b 04 03 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 400KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_DotNetTools,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_HardwareDevices {
+   meta:
+      description = ""HardwareDevices.dll""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""acd49f2aa36d4efb9c4949e2d3cc2bd7aee384c2ced7aa9e66063da4150fcb00""
+   strings:
+      $x1 = ""D:\\Projects\\processhacker2\\bin\\Release64\\plugins\\HardwareDevices.pdb"" fullword ascii
+      $s2 = ""Count of reallocated sectors. When the hard drive finds a read/write/verification error, it marks that sector as \""reallocated\"""" wide
+      $s3 = ""HardwareDevices.dll"" fullword wide
+      $s4 = ""https://wj32.org/processhacker/forums/viewtopic.php?t=1820"" fullword wide
+      $s5 = ""ProcessHacker.HardwareDevices.EnableNDIS"" fullword wide
+      $s6 = ""ProcessHacker.HardwareDevices.DiskList"" fullword wide
+      $s7 = ""ProcessHacker.HardwareDevices.NetworkList"" fullword wide
+      $s8 = ""ProcessHacker.HardwareDevices"" fullword wide
+      $s9 = ""Uncorrected read errors reported to the operating system."" fullword wide
+      $s10 = ""PhGetListViewItemParam"" fullword ascii
+      $s11 = ""PhGetSelectedListViewItemParam"" fullword ascii
+      $s12 = ""PhProcessesUpdatedEvent"" fullword ascii
+      $s13 = ""This attribute stores a total count of the spin start attempts to reach the fully operational speed (under the condition that th"" wide
+      $s14 = ""Hardware Devices plugin for Process Hacker"" fullword wide
+      $s15 = ""Average performance of seek operations of the magnetic heads."" fullword wide
+      $s16 = ""PhGetOwnTokenAttributes"" fullword ascii
+      $s17 = ""LogFile reads"" fullword wide
+      $s18 = ""LogFile read bytes"" fullword wide
+      $s19 = ""%I64u - %I64u"" fullword wide
+      $s20 = ""Command Timeout"" fullword wide
+
+      $op0 = { b2 01 ff 15 15 4d 01 00 48 8b c8 ff 15 34 4d 01 }
+      $op1 = { b2 01 ff 15 15 4b 01 00 48 8b c8 ff 15 34 4b 01 }
+      $op2 = { 48 8b 47 08 4c 8b 34 d8 49 63 0e 4c 8b c9 e8 6d }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 500KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_HardwareDevices,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_WindowExplorer {
+   meta:
+      description = ""WindowExplorer.dll""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""282696487ea5dc781788d5d8477b977f72b7c70f201c2af0cfe7e1a9fd8d749a""
+   strings:
+      $x1 = ""ProcessHacker.exe"" fullword wide
+      $x2 = ""D:\\Projects\\processhacker2\\bin\\Release64\\plugins\\WindowExplorer.pdb"" fullword ascii
+      $s3 = ""WindowExplorer.dll"" fullword wide
+      $s4 = ""https://wj32.org/processhacker/forums/viewtopic.php?t=1116"" fullword wide
+      $s5 = ""(%d, %d) - (%d, %d) [%dx%d]"" fullword wide
+      $s6 = ""ProcessHacker.WindowExplorer"" fullword wide
+      $s7 = ""ProcessHacker.WindowExplorer.ShowDesktopWindows"" fullword wide
+      $s8 = ""ProcessHacker.WindowExplorer.WindowTreeListColumns"" fullword wide
+      $s9 = ""ProcessHacker.WindowExplorer.WindowsWindowPosition"" fullword wide
+      $s10 = ""ProcessHacker.WindowExplorer.WindowsWindowSize"" fullword wide
+      $s11 = ""PhCreateProcessPropContext"" fullword ascii
+      $s12 = ""PhSetSelectThreadIdProcessPropContext"" fullword ascii
+      $s13 = ""PhReferenceProcessItem"" fullword ascii
+      $s14 = ""PhShowProcessProperties"" fullword ascii
+      $s15 = ""PhOpenProcess"" fullword ascii
+      $s16 = ""ProcessQueryAccess"" fullword ascii
+      $s17 = ""The process does not exist."" fullword wide
+      $s18 = ""Windows - Thread %lu"" fullword wide
+      $s19 = ""Windows - Desktop \""%s\"""" fullword wide
+      $s20 = ""Window Explorer plugin for Process Hacker"" fullword wide
+
+      $op0 = { ff 15 1a fb 00 00 ba e8 ff ff ff 48 8b cb 85 ff }
+      $op1 = { ff 15 34 c0 01 00 41 b8 c8 }
+      $op2 = { ff 15 f7 e2 00 00 83 63 34 fd 4c 8b cb 48 8b 0f }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 400KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_WindowExplorer,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_ExtendedTools {
+   meta:
+      description = ""ExtendedTools.dll""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""f2805e0f81513641a440f1a21057a664961c22192cb33fca3870362c8f872d87""
+   strings:
+      $x1 = ""D:\\Projects\\processhacker2\\bin\\Release64\\plugins\\ExtendedTools.pdb"" fullword ascii
+      $s2 = ""ExtendedTools.dll"" fullword wide
+      $s3 = ""https://wj32.org/processhacker/forums/viewtopic.php?t=1114"" fullword wide
+      $s4 = ""PhEtKernelLogger"" fullword wide
+      $s5 = ""ProcessHacker.ToolStatus"" fullword wide
+      $s6 = ""ProcessHacker.ExtendedTools.DiskTreeListColumns"" fullword wide
+      $s7 = ""ProcessHacker.ExtendedTools.DiskTreeListSort"" fullword wide
+      $s8 = ""ProcessHacker.ExtendedTools.EnableEtwMonitor"" fullword wide
+      $s9 = ""ProcessHacker.ExtendedTools.EnableGpuMonitor"" fullword wide
+      $s10 = ""ProcessHacker.ExtendedTools.GpuNodeBitmap"" fullword wide
+      $s11 = ""ProcessHacker.ExtendedTools.GpuLastNodeCount"" fullword wide
+      $s12 = ""ProcessHacker.ExtendedTools"" fullword wide
+      $s13 = ""Disk monitoring requires Process Hacker to be restarted with administrative privileges."" fullword wide
+      $s14 = ""PhShellProcessHacker"" fullword ascii
+      $s15 = ""PhEtRundownLogger"" fullword wide
+      $s16 = ""PhFindProcessNode"" fullword ascii
+      $s17 = ""PhReferenceProcessItem"" fullword ascii
+      $s18 = ""PhFindProcessRecord"" fullword ascii
+      $s19 = ""PhShowProcessRecordDialog"" fullword ascii
+
+      $op0 = { c7 44 24 40 ff ff ff 7f 48 89 44 24 30 45 33 c0 }
+      $op1 = { e8 03 00 00 48 8d 0d 3d 34 02 00 ff 15 f7 a6 01 }
+      $op2 = { 8b c1 49 8b 14 c1 f6 02 02 0f 85 3c ff ff ff ff }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 600KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_ExtendedTools,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_ExtendedNotifications {
+   meta:
+      description = ""ExtendedNotifications.dll""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""61e8cd8de80a5c0d7ced280fe04ad8387a846a7bf2ee51bcbba96b971c7c1795""
+   strings:
+      $x1 = ""C:\\Windows\\system32\\cmd.exe"" fullword wide
+      $s2 = ""D:\\Projects\\processhacker2\\bin\\Release64\\plugins\\ExtendedNotifications.pdb"" fullword ascii
+      $s3 = ""https://wj32.org/processhacker/forums/viewtopic.php?t=1112"" fullword wide
+      $s4 = ""ExtendedNotifications.dll"" fullword wide
+      $s5 = ""note*.exe"" fullword wide
+      $s6 = ""ProcessHacker.ExtendedNotifications.LogFileName"" fullword wide
+      $s7 = ""The process %s (%lu) was started by %s."" fullword wide
+      $s8 = ""The process %s (%lu) was terminated."" fullword wide
+      $s9 = ""an unknown process"" fullword wide
+      $s10 = ""Log files (*.txt;*.log)"" fullword wide
+      $s11 = ""PhReferenceProcessItemForParent"" fullword ascii
+      $s12 = ""Process Created"" fullword ascii
+      $s13 = ""Process Hacker"" fullword ascii
+      $s14 = ""Process Terminated"" fullword ascii
+      $s15 = ""Changes will require a restart of Process Hacker."" fullword wide
+      $s16 = ""PhGetFileDialogFileName"" fullword ascii
+      $s17 = ""dProcessHacker.ExtendedNotifications"" fullword wide
+      $s18 = ""ProcessHacker.ExtendedNotifications.EnableGrowl"" fullword wide
+      $s19 = ""ProcessHacker.ExtendedNotifications.ProcessList"" fullword wide
+      $s20 = ""ProcessHacker.ExtendedNotifications.ServiceList"" fullword wide
+
+      $op0 = { 48 8d 4c 24 28 48 8b 34 e8 b8 65 }
+      $op1 = { 48 8b 47 08 41 b0 01 8b cb 48 8b d5 4c 8b 34 c8 }
+      $op2 = { 81 7d 10 36 ff ff ff 0f 85 80 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 400KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_ExtendedNotifications,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_peview {
+   meta:
+      description = ""peview.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""4259e53d48a3fed947f561ff04c7f94446bedd64c87f52400b2cb47a77666aaa""
+   strings:
+      $x1 = ""D:\\Projects\\processhacker2\\bin\\Release64\\peview.pdb"" fullword ascii
+      $s2 = ""peview.exe"" fullword wide
+      $s3 = ""mscorlib.ni.dll"" fullword wide
+      $s4 = ""Supported files (*.exe;*.dll;*.ocx;*.sys;*.scr;*.cpl;*.ax;*.acm;*.lib;*.winmd;*.efi)"" fullword wide
+      $s5 = ""Software\\Microsoft\\Windows NT\\CurrentVersion\\KnownFunctionTableDlls"" fullword wide
+      $s6 = ""*.exe;*.dll;*.ocx;*.sys;*.scr;*.cpl;*.ax;*.acm;*.lib;*.winmd;*.efi"" fullword wide
+      $s7 = ""Executable, "" fullword wide
+      $s8 = ""        <requestedExecutionLevel level=\""asInvoker\"" uiAccess=\""false\""/>"" fullword ascii
+      $s9 = ""Process Hacker"" fullword wide
+      $s10 = ""Uni-processor only, "" fullword wide
+      $s11 = ""Process affinity mask"" fullword wide
+      $s12 = ""Process heap flags"" fullword wide
+      $s13 = ""Target machine:"" fullword wide
+      $s14 = ""    <asmv3:windowsSettings xmlns=\""http://schemas.microsoft.com/SMI/2005/WindowsSettings\"">"" fullword ascii
+      $s15 = ""\\Microsoft.NET\\Framework\\"" fullword wide
+      $s16 = ""\\Microsoft.NET\\Framework64\\"" fullword wide
+      $s17 = ""    processorArchitecture=\""*\"""" fullword ascii
+      $s18 = ""        processorArchitecture=\""*\"""" fullword ascii
+      $s19 = ""  <description>PE Viewer</description>"" fullword ascii
+      $s20 = ""EFI Boot Service Driver"" fullword wide
+
+      $op0 = { 85 ff 74 51 49 8b 10 8b df 48 8d 34 1b 48 03 d6 }
+      $op1 = { e9 48 ff ff ff 8b df 48 d1 eb 74 4c 49 8b 10 48 }
+      $op2 = { 48 8b fe 0f b7 c0 48 8b ca 66 f3 ab 48 8d 34 56 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 700KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_peview,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_dControl {
+   meta:
+      description = ""dControl.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""6606d759667fbdfaa46241db7ffb4839d2c47b88a20120446f41e916cad77d0b""
+   strings:
+      $s1 = ""/AutoIt3ExecuteScript"" fullword wide
+      $s2 = ""/AutoIt3ExecuteLine"" fullword wide
+      $s3 = ""WINGETPROCESS"" fullword wide
+      $s4 = ""PROCESSGETSTATS"" fullword wide
+      $s5 = ""SCRIPTNAME"" fullword wide /* base64 encoded string 'H$H=3@0' */
+      $s6 = ""dControl.exe"" fullword wide
+      $s7 = ""SHELLEXECUTEWAIT"" fullword wide
+      $s8 = ""SHELLEXECUTE"" fullword wide
+      $s9 = ""#NoAutoIt3Execute"" fullword wide
+      $s10 = ""PROCESSWAITCLOSE"" fullword wide
+      $s11 = ""PROCESSWAIT"" fullword wide
+      $s12 = ""PROCESSSETPRIORITY"" fullword wide
+      $s13 = ""PROCESSLIST"" fullword wide
+      $s14 = ""PROCESSEXISTS"" fullword wide
+      $s15 = ""PROCESSCLOSE"" fullword wide
+      $s16 = ""HTTPSETUSERAGENT"" fullword wide
+      $s17 = ""PROCESSORARCH"" fullword wide
+      $s18 = ""LASTDLLERROR"" fullword wide
+      $s19 = ""CMDLINERAW"" fullword wide
+      $s20 = ""FTPSETPROXY"" fullword wide
+
+      $op0 = { e8 c5 ff ff ff 8d 8e bc }
+      $op1 = { e8 34 13 01 00 8d 44 24 30 50 8d 8c 24 4c 01 00 }
+      $op2 = { e9 25 ff ff ff 33 c0 89 06 eb a5 8b c1 33 c9 c7 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 2000KB and
+      ( 8 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_dControl,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_SbieSupport {
+   meta:
+      description = ""SbieSupport.dll""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""57c56f7b312dc1f759e6ad039aac3f36ce5130d259eb9faad77239083398308b""
+   strings:
+      $x1 = ""D:\\Projects\\processhacker2\\bin\\Release64\\plugins\\SbieSupport.pdb"" fullword ascii
+      $s2 = ""C:\\Program Files\\Sandboxie\\SbieDll.dll"" fullword wide
+      $s3 = ""SbieSupport.dll"" fullword wide
+      $s4 = ""ProcessHacker.SbieSupport.SbieDllPath"" fullword wide
+      $s5 = ""https://wj32.org/processhacker/forums/viewtopic.php?t=1115"" fullword wide
+      $s6 = ""SbieDll.dll path:"" fullword wide
+      $s7 = ""ProcessHacker.SbieSupport"" fullword wide
+      $s8 = ""lall sandboxed processes"" fullword wide
+      $s9 = ""PhFindProcessNode"" fullword ascii
+      $s10 = ""PhOpenProcess"" fullword ascii
+      $s11 = ""PhUpdateProcessNode"" fullword ascii
+      $s12 = ""PhTerminateProcess"" fullword ascii
+      $s13 = ""Provides functionality for sandboxed processes."" fullword wide
+      $s14 = ""Terminate sandboxed processes"" fullword wide
+      $s15 = ""Sandboxie Support for Process Hacker"" fullword wide
+      $s16 = ""PhGetFileDialogFileName"" fullword ascii
+      $s17 = ""PhGetWindowText"" fullword ascii
+      $s18 = ""PhSetFileDialogFileName"" fullword ascii
+      $s19 = ""PhFreeFileDialog"" fullword ascii
+      $s20 = ""PhShowFileDialog"" fullword ascii
+
+      $op0 = { 4c 8d 05 be ff ff ff 48 8d 15 a7 ff ff ff 41 8d }
+      $op1 = { f0 48 0f b1 3d 34 52 01 00 74 0d 48 8d 0d 2b 52 }
+      $op2 = { 48 0f a3 c3 73 0b 41 83 c8 01 44 89 05 48 34 01 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 300KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_SbieSupport,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_NetworkTools {
+   meta:
+      description = ""NetworkTools.dll""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""476aa6af14dd0b268786e32543b9a6917a298d4d90e1015dac6fb2b522cf5d2e""
+   strings:
+      $x1 = ""D:\\Projects\\processhacker2\\bin\\Release64\\plugins\\NetworkTools.pdb"" fullword ascii
+      $s2 = ""%s\\system32\\tracert.exe -d %s"" fullword wide
+      $s3 = ""%s\\system32\\pathping.exe -n %s"" fullword wide
+      $s4 = ""NetworkTools.dll"" fullword wide
+      $s5 = ""https://wj32.org/processhacker/forums/viewtopic.php?t=1117"" fullword wide
+      $s6 = ""%s\\system32\\tracert.exe %s"" fullword wide
+      $s7 = ""%s\\system32\\pathping.exe %s"" fullword wide
+      $s8 = ""PhShellExecute"" fullword ascii
+      $s9 = ""processhacker_%S_0x0D06F00D_x1"" fullword ascii
+      $s10 = ""ProcessHacker.NetworkTools.WindowPosition"" fullword wide
+      $s11 = ""ProcessHacker.NetworkTools.WindowSize"" fullword wide
+      $s12 = ""ProcessHacker.NetworkTools.PingWindowPosition"" fullword wide
+      $s13 = ""ProcessHacker.NetworkTools.PingWindowSize"" fullword wide
+      $s14 = ""ProcessHacker.NetworkTools.PingMaxTimeout"" fullword wide
+      $s15 = ""ProcessHacker.NetworkTools"" fullword wide
+      $s16 = ""PhProcessesUpdatedEvent"" fullword ascii
+      $s17 = ""PhCreateProcessWin32Ex"" fullword ascii
+      $s18 = ""PhTerminateProcess"" fullword ascii
+      $s19 = ""Process Hacker "" fullword wide
+      $s20 = ""Network Tools plugin for Process Hacker"" fullword wide
+
+      $op0 = { ff 15 34 17 01 00 e9 b5 05 00 00 41 0f b7 c6 ff }
+      $op1 = { ba 00 10 00 00 48 8d 4d c0 ff 15 34 17 01 00 45 }
+      $op2 = { 48 8b c8 ff 15 d6 0f 01 00 b9 f1 ff ff ff 8b d0 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 400KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_NetworkTools,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_UserNotes {
+   meta:
+      description = ""UserNotes.dll""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""fc9d0d0482c63ab7f238bc157c3c0fed97951ccf2d2e45be45c06c426c72cb52""
+   strings:
+      $x1 = ""D:\\Projects\\processhacker2\\bin\\Release64\\plugins\\UserNotes.pdb"" fullword ascii
+      $x2 = ""%APPDATA%\\Process Hacker 2\\usernotesdb.xml"" fullword wide
+      $s3 = ""UserNotes.dll"" fullword wide
+      $s4 = ""ProcessHacker.UserNotes.DatabasePath"" fullword wide
+      $s5 = ""Only for processes with the same command line"" fullword wide
+      $s6 = ""ProcessHacker.UserNotes.ColorCustomList"" fullword wide
+      $s7 = ""ProcessHacker.UserNotes"" fullword wide
+      $s8 = ""Allows the user to add comments for processes and services. Also allows the user to save process priority. Also allows the user "" wide
+      $s9 = ""https://wj32.org/processhacker/forums/viewtopic.php?t=1120"" fullword wide
+      $s10 = ""PhGetSelectedProcessItems"" fullword ascii
+      $s11 = ""PhGetSelectedProcessItem"" fullword ascii
+      $s12 = ""ProcessHacker.ToolStatus"" fullword wide
+      $s13 = ""User Notes plugin for Process Hacker"" fullword wide
+      $s14 = ""PhInvalidateAllProcessNodes"" fullword ascii
+      $s15 = ""PhOpenProcess"" fullword ascii
+      $s16 = ""PhProcessesUpdatedEvent"" fullword ascii
+      $s17 = ""ProcessQueryAccess"" fullword ascii
+      $s18 = ""PhAddProcessPropPage"" fullword ascii
+      $s19 = ""PhCreateProcessPropPageContextEx"" fullword ascii
+      $s20 = ""PhProcessModifiedEvent"" fullword ascii
+
+      $op0 = { 49 8b cd 0f 95 c0 88 46 34 ff 15 f2 d9 00 00 eb }
+      $op1 = { e8 34 fa ff ff 48 8b c8 ff 15 6b cd 00 00 48 8b }
+      $op2 = { e8 43 ec ff ff 48 85 c0 74 30 80 78 34 00 74 2a }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 300KB and
+      ( 1 of ($x*) and 4 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_UserNotes,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_pw_inspector {
+   meta:
+      description = ""pw-inspector.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""8bae7326cb8456ce4c9409045264ca965e30f6381ddcaa6c87ba3ac5e7683555""
+   strings:
+      $s1 = ""  -m MINLEN  minimum length of a valid password"" fullword ascii
+      $s2 = ""cyggcj-16.dll"" fullword ascii
+      $s3 = ""  -i FILE    file to read passwords from (default: stdin)"" fullword ascii
+      $s4 = ""  -M MAXLEN  maximum length of a valid password"" fullword ascii
+      $s5 = ""Error: -c MINSETS is larger than the sets defined"" fullword ascii
+      $s6 = ""  -o FILE    file to write valid passwords to (default: stdout)"" fullword ascii
+      $s7 = ""Syntax: %s [-i FILE] [-o FILE] [-m MINLEN] [-M MAXLEN] [-c MINSETS] -l -u -n -p -s"" fullword ascii
+      $s8 = ""        <requestedExecutionLevel level=\""asInvoker\""/>"" fullword ascii
+      $s9 = ""Error: -m MINLEN is greater than -M MAXLEN"" fullword ascii
+      $s10 = ""%s reads passwords in and prints those which meet the requirements."" fullword ascii
+      $s11 = ""Use for hacking: trim your dictionary file to the pw requirements of the target."" fullword ascii
+      $s12 = ""  -c MINSETS the minimum number of sets required (default: all given)"" fullword ascii
+      $s13 = ""Use for security: check passwords, if 0 is returned, reject password choice."" fullword ascii
+      $s14 = ""The return code is the number of valid passwords found, 0 if none was found."" fullword ascii
+      $s15 = ""  -s         special characters - all others not withint the sets above"" fullword ascii
+      $s16 = ""http://www.thc.org"" fullword ascii
+      $s17 = ""%s %s (c) 2005 by van Hauser / THC %s [%s]"" fullword ascii
+      $s18 = ""Usage only allowed for legal purposes."" fullword ascii
+      $s19 = ""  </compatibility>"" fullword ascii
+      $s20 = ""  <compatibility xmlns=\""urn:schemas-microsoft-com:compatibility.v1\"">"" fullword ascii
+
+      $op0 = { c7 04 24 04 34 40 00 e8 95 }
+      $op1 = { c7 04 24 54 34 40 00 e8 89 }
+      $op2 = { c7 04 24 a8 34 40 00 e8 7d }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 200KB and
+      ( 8 of them and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_pw_inspector,
+2024-02-19,Other,text,all,
+2024-02-19,Payload installation,yara,"rule Phobos_hydra {
+   meta:
+      description = ""hydra.exe""
+      author = ""Directoratul National de Securitate Cibernetica (DNSC)""
+      date = ""2024-02-15""
+      hash1 = ""85aba198a0ba204e8549ea0c8980447249d30dece0d430e3f517315ad10f32ce""
+   strings:
+      $x1 = ""[ATTEMPT-ERROR] target %s - login \""%s\"" - pass \""%s\"" - child %d - %lu of %lu"" fullword ascii
+      $x2 = "" \""/exchweb/bin/auth/owaauth.dll:destination=http%%3A%%2F%%2F<target>%%2Fexchange&flags=0&username=<domain>%%5C^USER^&password=^"" ascii
+      $x3 = ""[%sATTEMPT] target %s - login \""%s\"" - pass \""%s\"" - %lu of %lu [child %d] (%d/%d)"" fullword ascii
+      $x4 = "" \""/exchweb/bin/auth/owaauth.dll:destination=http%%3A%%2F%%2F<target>%%2Fexchange&flags=0&username=<domain>%%5C^USER^&password=^"" ascii
+      $x5 = ""  hydra -l foo -m bar -P pass.txt target cisco-enable  (AAA Login foo, password bar)"" fullword ascii
+      $x6 = ""[COMPLETED] target %s - login \""%s\"" - pass \""%s\"" - child %d - %lu of %lu"" fullword ascii
+      $x7 = ""[DEBUG] Target %d - target %s  ip %s  login_no %lu  pass_no %lu  sent %lu  pass_state %d  redo_state %d (%d redos)  use_count %d"" ascii
+      $x8 = ""Example%s:%s  hydra -l user -P passlist.txt ftp://192.168.0.1"" fullword ascii
+      $x9 = ""  hydra -P pass.txt -m cisco target cisco-enable  (Logon password cisco)"" fullword ascii
+      $x10 = ""[DEBUG] Target %d - target %s  ip %s  login_no %lu  pass_no %lu  sent %lu  pass_state %d  redo_state %d (%d redos)  use_count %d"" ascii
+      $x11 = ""  hydra -L logins.txt -P pws.txt -M targets.txt ssh"" fullword ascii
+      $x12 = ""(DESCRIPTION=(CONNECT_DATA=(CID=(PROGRAM=))(COMMAND=reload)(PASSWORD=%s)(SERVICE=)(VERSION=169869568)))"" fullword ascii
+      $x13 = ""[ERROR] target ssh://%s:%d/ does not support password authentication."" fullword ascii
+      $x14 = ""   hydra -L user.txt -P pass.txt -m 3:SHA:AES:READ target.com snmp"" fullword ascii
+      $x15 = ""   hydra -L urllist.txt -s 3128 target.com http-proxy-urlenum user:pass"" fullword ascii
+      $x16 = ""[DEBUG] TEMP head %d: pass == %s, login == %s"" fullword ascii
+      $x17 = ""%d of %d target%s%scompleted, %lu valid password"" fullword ascii
+      $x18 = ""[DEBUG] we will redo the following combination: target %s  child %d  login \""%s\""  pass \""%s\"""" fullword ascii
+      $x19 = ""[DEBUG] send_next_pair_init target %d, head %d, redo %d, redo_state %d, pass_state %d. loop_mode %d, curlogin %s, curpass %s, tl"" ascii
+      $x20 = ""[DEBUG] send_next_pair_init target %d, head %d, redo %d, redo_state %d, pass_state %d. loop_mode %d, curlogin %s, curpass %s, tl"" ascii
+
+      $op0 = { 89 4c 24 34 8b 4c 24 64 89 74 24 04 89 7c 24 10 }
+      $op1 = { a1 50 f2 46 00 c7 05 28 e3 44 00 ff ff ff ff 8b }
+      $op2 = { f3 a6 74 33 c7 04 24 ff ff ff ff e8 45 4b 04 00 }
+   condition:
+      uint16(0) == 0x5a4d and filesize < 1000KB and
+      ( 1 of ($x*) and all of ($op*) )
+}",
+2024-02-19,Other,text,Phobos_hydra,

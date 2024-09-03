@@ -1,0 +1,41 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Quotation! - From: sales3@mpsystem.gr"" Campaign"
+| UUID: b3e41c3a-69bc-4c2c-a791-e7274690927c
+| Date: 2024-02-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-19,Payload delivery,email-src,sales3@mpsystem.gr,Source email: from sales3@mpsystem.gr - subject: Quotation!
+2024-02-19,Payload delivery,email-src-display-name,Cristina Farcas,Source email: from sales3@mpsystem.gr - subject: Quotation!
+2024-02-19,Payload delivery,email-body,"Good morning,
+
+Please find attached our list and give us your best quotes.
+
+Await your kind reply.
+
+Cu stima/  Best Regards,
+
+Cristina Farcas
+
+General manager - Busola Travel
+Bd. Bucuresti , nr. 12
+Baia Mare, Maramures, Romania
+Tel : +4 0262 250 913   Mob. +4 0742 049 151
+Email: [REDACTED][REDACTED]  www.busolatravel.ro ; skype: cristina.pasca5",Source email: from sales3@mpsystem.gr - subject: Quotation!
+2024-02-19,Payload delivery,email-subject,Quotation!,Source: from sales3@mpsystem.gr - subject: Quotation!
+2024-02-19,Payload delivery,filename|sha256,Scan_230206001183.img|bcb4df53e267766e8ec1d29327bdded06b7e65c7c84d6ddc4bddfbf66891dc5a,Malspam attachment - source: from sales3@mpsystem.gr - subject: Quotation! mime: application/x-iso9660-image
+2024-02-19,Payload delivery,filename|ssdeep,Scan_230206001183.img|24576:H3j5RkFiMCINDoLHlcweoLwB0agsR75AUpYgA3c4p3QbQ:X9BsDgcwZLwBFlRyUiv,Malspam attachment - source: from sales3@mpsystem.gr - subject: Quotation! mime: application/x-iso9660-image
+2024-02-19,Payload delivery,filename|sha1,Scan_230206001183.img|06dffa55110b072aa3754c308efadfb6b24c1804,Malspam attachment - source: from sales3@mpsystem.gr - subject: Quotation! mime: application/x-iso9660-image
+2024-02-19,Payload delivery,filename|sha512,Scan_230206001183.img|cc399a0182d93ee0d45590ec70a0b85d6cc5637d553605c89825a0fffceaf3b7a10d8bd6b7da9e8e4b31d04dded376fa30d0ca2e24cf773887a50c0028c8e36c,Malspam attachment - source: from sales3@mpsystem.gr - subject: Quotation! mime: application/x-iso9660-image
+2024-02-19,Payload delivery,filename|md5,Scan_230206001183.img|2c5efde308d0d8e1e8538a719352ec49,Malspam attachment - source: from sales3@mpsystem.gr - subject: Quotation! mime: application/x-iso9660-image
+2024-02-19,Payload delivery,filename|imphash,SCAN_230.EXE|f34d5f2d4577ed6d9ceec516c1f5a744,Extracted from Scan_230206001183.img; mime: application/x-dosexec
+2024-02-19,Payload delivery,filename|md5,SCAN_230.EXE|2a5e006cbc4138529738c492c0c223fb,Extracted from Scan_230206001183.img; mime: application/x-dosexec
+2024-02-19,Payload delivery,filename|sha1,SCAN_230.EXE|f10b7396c3882fd1e631b2bd03890322aba45683,Extracted from Scan_230206001183.img; mime: application/x-dosexec
+2024-02-19,Payload delivery,filename|sha256,SCAN_230.EXE|7d227e2dd6bae574df898267b5966a00b5c85cb0963cc6a95b03b00797e1edd2,Extracted from Scan_230206001183.img; mime: application/x-dosexec
+2024-02-19,Payload delivery,filename|sha512,SCAN_230.EXE|cc89a09b6cf815514a0ecd1e82f55e940072e225ecba0c1d582965d9a03f15ee183fb8d8a5110b7b98f633411516868e1fafb5bd91febe0e39e10423da65a89a,Extracted from Scan_230206001183.img; mime: application/x-dosexec
+2024-02-19,Payload delivery,filename|ssdeep,SCAN_230.EXE|24576:03j5RkFiMCINDoLHlcweoLwB0agsR75AUpYgA3c4p3QbQ:89BsDgcwZLwBFlRyUiv,Extracted from Scan_230206001183.img; mime: application/x-dosexec
+2024-02-19,Network activity,domain,ftp.experthvac.ro,Source: Extracted from static config of SCAN_230.EXE; data exfiltration via SMTP
+2024-02-19,Network activity,email-dst,ftpadmon@experthvac.ro,Source: Extracted from static config of SCAN_230.EXE; data exfiltration via SMTP

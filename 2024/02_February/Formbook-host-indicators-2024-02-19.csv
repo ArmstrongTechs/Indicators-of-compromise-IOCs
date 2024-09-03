@@ -1,0 +1,50 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-02-19]
+| UUID: ccaab241-b9ea-4746-a6d4-e6ed77cf903c
+| Date: 2024-02-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-20,Payload installation,filename,Run Rocket.exe,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,fe4225ff901b8bfd8d2a8e7efd9f4e9b,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,c86a6c6d02a5e58e266123eb7ab05ee2ba324d13,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,78a5f44353c706e27ab659985b3bd57b1cb20d16d66f19368f8b682e6a104ae2,Source: MalwareBazaar
+2024-02-20,Payload installation,filename,SecuriteInfo.com.Trojan.Packed2.46253.12475.18755,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,d0b54047b4e7e283113ab512d979fa6d,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,4333396278663f2b0b8136e8004d527cb7f61aa9,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,f73f985bf2f74cc1006a5e911bbd7940073809b01da2823a6bb1db85288c0926,Source: MalwareBazaar
+2024-02-20,Payload installation,filename,SecuriteInfo.com.Win32.PWSX-gen.19760.8507,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,33e8a6fafc9f36767f9fbd7e99782ad6,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,2954f4ba4b0ff30136fa6286393f3e87226c4933,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,eb7783866d9b334463e873a5053ac1d8cf7deb36a23e5cc52fe3a42566b4ecd8,Source: MalwareBazaar
+2024-02-20,Payload installation,filename,SJ2402-0710 PI.exe,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,870e9f2b02ec3c9f67fcdef605069ddf,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,83b6974805e9306da21907edc9272d02705a7ce3,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,00bb01a7e82b5a0993b7c4be3326f32424cf05a401ece85c896ff42244aab394,Source: MalwareBazaar
+2024-02-20,Payload installation,filename,DHL_AWB#6209011980.exe,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,52dd50303577b7d36445441b3e2f7036,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,03384ca602dd0b855ebd56c6f1b8ea862ec623a7,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,1282c8476c1ed91dde5c2fff01ab5e80483bac0772dcbad04a29539b48f55120,Source: MalwareBazaar
+2024-02-20,Payload installation,filename,PO#2420009.exe,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,266b256a9d1e3e48d3e7f332d55808bc,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,fb3d7c13dc44c3cb476fd0a0f7fd3b377373e8d3,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,993841103742d791f4dbcdc75757bac6ac7fddf1eb50dcec5a72daddce44cc9e,Source: MalwareBazaar
+2024-02-20,Payload installation,filename,RFQ Letter and Instructions.scr,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,99e41abf752c282789b0159ceee0dc00,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,8077d1d93fab469d38f7452245e49b9c7b0de4fc,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,11e6ab62f510d436211942941718cf7ae1efc83653b74f87722799b51eac4477,Source: MalwareBazaar
+2024-02-20,Payload installation,filename,DHL_AWB# 5047232261.exe,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,a0a8ff6e4216524618b762db80014aad,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,2953d071cdaf4fb31d58275e86bba48d639ff903,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,445f206be7c498e08bebbb33aed43639b04e952d1352671d5aebdb597238dede,Source: MalwareBazaar
+2024-02-20,Payload installation,filename,FedEx_2341002842.rar,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,f4450c7d0be7f0f17ffc3063e0a7bd32,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,2bf8edcce9abdb34cb0e3c1464319f01d0449033,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,78287ffb0afb4f7f5bbddf20a8d2ed7cc499622b51de1c5f25f376467dc5d33f,Source: MalwareBazaar
+2024-02-20,Payload installation,filename,PO-010816-WA0002.pdf.ST-07scr.exe,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,81587f5481276b1bc883bdd572de5058,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,134b24237893807f233724214179899a9f66ffde,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,e5ba47d37554211c555170329555afae35d41989297a18bddbf33bfb2d30a6f0,Source: MalwareBazaar

@@ -1,0 +1,46 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Nanocore host indicators [2024-02-19]
+| UUID: c181ac61-9da6-4813-86e7-327e35dbf8cc
+| Date: 2024-02-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-20,Payload installation,filename,D15300B9633FE68ACE9C95D55664ECDF.exe,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,d15300b9633fe68ace9c95d55664ecdf,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,556b9726a17b12a0a59473da1f7dabc3e74aced6,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,7f24051d8ea086ac0d78f5cb8e0f127140aee0ec0ca7a9e3137dbae04b76dd70,Source: MalwareBazaar
+2024-02-20,Payload installation,filename,D0B86CAE284BE980712F0DB432A66DAD.exe,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,d0b86cae284be980712f0db432a66dad,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,1df45f7e7bd186db6ce3e0ba2828df7d006cce6a,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,64f7f22452241592c6dc0e2c8e0f2cf44b52da13f9330e8c73211eb8e2d27906,Source: MalwareBazaar
+2024-02-20,Payload installation,filename,DBCEFFB1A0DC1E9D8339BFDF8F587C1A.exe,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,dbceffb1a0dc1e9d8339bfdf8f587c1a,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,0d36d97eb42bf9b46feab2d332aaa42e8c0c7dbd,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,9b68bcf4e287320a6e257953091213ac7e016d7aabc63ee02b0e73e75a782150,Source: MalwareBazaar
+2024-02-20,Payload installation,filename,DEE80F55D6BFD6645D9835D9FAC1F59C.exe,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,dee80f55d6bfd6645d9835d9fac1f59c,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,9b24f649e2213bcb3d3153bde48439ee21798630,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,a94efd2fd4a39e5412ae71262505321a76acccfbedd2b9aa0417721740be6bfd,Source: MalwareBazaar
+2024-02-20,Payload installation,filename,13de81aba748269ab50fa246c41a4acc.exe,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,13de81aba748269ab50fa246c41a4acc,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,1c91950737693876cdebdf5c3dc4cae7d2b0766a,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,da7842d0d6c33bc7faa51b5a0cb5cbb1d794091b79c4aa020166c2a7bd524b55,Source: MalwareBazaar
+2024-02-20,Payload installation,filename,test.exe,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,cad2e56e0f6f490b74884f3d0237b37f,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,dbdf46ab3af70b281439adc47a240e15915ab137,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,42c3d510fa655fa4f20163b69172a6dff1e990e8630fa465c4cb01c47f50cefe,Source: MalwareBazaar
+2024-02-20,Payload installation,filename,fabriz.exe,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,058443ca2ad90aa69f6e5ca6484ad95f,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,98ff96f5e4c18a5de2c4ce7a008889f3a9c537ef,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,451c0c00543d2e11080b0f769b081c95a2a4badaa6604ea3bab382e46326c262,Source: MalwareBazaar
+2024-02-20,Payload installation,filename,INVOICE.doc,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,d3a5532e4cccbf16de85fc3defd1fd27,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,66db633b15618b652921f74f642354bcdf0fee66,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,e33a790854091478f63dbb3aa9cd465d8b72e2fe8276a6ef11eb05219425179a,Source: MalwareBazaar
+2024-02-20,Payload installation,filename,1b5ad20b8a289ce7526dceea7c91f5f3,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,1b5ad20b8a289ce7526dceea7c91f5f3,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,447d20bdbc1aa6258b00949def3d2410409e4ea1,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,ee58fa913b4f5d0527453664b762b848404c19c23369ab6c4c893d55adbdde4b,Source: MalwareBazaar

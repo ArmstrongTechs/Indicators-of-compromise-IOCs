@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2024-02-16]
+| UUID: d8643129-d3e5-4177-b5a2-7d9815d48447
+| Date: 2024-02-17
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-17,Payload installation,filename,bTAB.exe,Source: MalwareBazaar
+2024-02-17,Payload installation,md5,f5c4ff3797506dc87d58a1e7f4e0d61c,Source: MalwareBazaar
+2024-02-17,Payload installation,sha1,93730466a36aabdf872043c7af7bec8ac9f1c849,Source: MalwareBazaar
+2024-02-17,Payload installation,sha256,73cb2cafa83f8eafefd85bd6bbed5d803f6457c1d622cb9617a8cdffc69ed14d,Source: MalwareBazaar

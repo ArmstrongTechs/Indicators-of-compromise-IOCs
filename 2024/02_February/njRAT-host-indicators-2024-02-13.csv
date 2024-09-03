@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2024-02-13]
+| UUID: 4488dade-154d-4fa0-a4c0-35911f2dcb35
+| Date: 2024-02-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-13,Payload installation,filename,bT6q.exe,Source: MalwareBazaar
+2024-02-13,Payload installation,md5,61c272a9360a04c49a20c70539ee7d6b,Source: MalwareBazaar
+2024-02-13,Payload installation,sha1,9d044d975232827e20d8b540b20938f4d81d3572,Source: MalwareBazaar
+2024-02-13,Payload installation,sha256,1033deb03fd79ce8fcd5908e9530d4cde4c3743685787a831e22c148487bb719,Source: MalwareBazaar
+2024-02-14,Payload installation,filename,bT6H.exe,Source: MalwareBazaar
+2024-02-14,Payload installation,md5,a9ed482c249ee79c449fd2f1667fe1d4,Source: MalwareBazaar
+2024-02-14,Payload installation,sha1,bc0edc35b8aeed803d301af9c787bec45ce90df7,Source: MalwareBazaar
+2024-02-14,Payload installation,sha256,7acbd9fd416ccbb96bb636e615ea26548107b37deb2c99d39a77165764fe4850,Source: MalwareBazaar

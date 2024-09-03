@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: The (D)Evolution of Pikabot
+| UUID: 3e089ded-cac6-4b7b-bbc6-be2161abd39f
+| Date: 2024-02-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-25,External analysis,link,https://www.zscaler.com/blogs/security-research/d-evolution-pikabot,
+2024-02-25,Payload delivery,sha256,555687ca3149e23ee980a3acf578e0572da556cf34c87aecf48596834d6b496f,Pikabot sample (version 1.8.32-beta)
+2024-02-25,Payload delivery,sha256,ca5fb5814ec62c8f04936740aabe2664b3c7d036203afbd8425cd67cf1f4b79d,Pikabot sample (version 1.8.32-beta)
+2024-02-25,Network activity,ip-dst|port,104.129.55.103|2224,Command-and-Control server
+2024-02-25,Network activity,ip-dst|port,178.18.246.136|2078,Command-and-Control server
+2024-02-25,Network activity,ip-dst|port,158.220.80.167|2967,Command-and-Control server
+2024-02-25,Network activity,ip-dst|port,104.129.55.104|2223,Command-and-Control server
+2024-02-25,Network activity,ip-dst|port,23.226.138.161|5242,Command-and-Control server
+2024-02-25,Network activity,ip-dst|port,37.60.242.85|9785,Command-and-Control server
+2024-02-25,Network activity,ip-dst|port,23.226.138.143|2083,Command-and-Control server
+2024-02-25,Network activity,ip-dst|port,37.60.242.86|2967,Command-and-Control server
+2024-02-25,Network activity,ip-dst|port,85.239.243.155|5000,Command-and-Control server
+2024-02-25,Network activity,ip-dst|port,158.220.80.157|9785,Command-and-Control server
+2024-02-25,Network activity,ip-dst|port,65.20.66.218|5938,Command-and-Control server
+2024-02-25,Network activity,ip-dst|port,95.179.191.137|5938,Command-and-Control server
+2024-02-25,Network activity,ip-dst|port,139.84.237.229|2967,Command-and-Control server

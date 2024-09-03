@@ -1,0 +1,32 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Phishing URL Finding | urlabuse.com
+| UUID: 23a3df1a-e1d2-47b4-bcad-3c186fedbcae
+| Date: 2024-02-02
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-02,Network activity,hostname,dureciki.com,Host name or IP address of the phishing attack
+2024-02-02,External analysis,attachment,du.jpg,Screenshot of the phishing attack
+2024-02-02,Network activity,url,http://dureciki.com,Source URL
+2024-02-02,Other,text,du,Target of the attack
+2024-02-02,Other,text,Yes,
+2024-02-02,Other,text,United States,
+2024-02-02,Other,text,US,
+2024-02-02,Other,float,38,
+2024-02-02,Other,float,-97,
+2024-02-02,Other,text,db_source: GeoOpen-Country-ASN. build_db: 2023-11-20 15:49:14. Latitude and longitude are country average.,
+2024-02-02,Other,text,13335,
+2024-02-02,Other,text,ASNOrganization: CLOUDFLARENET. db_source: GeoOpen-Country-ASN. build_db: 2023-11-20 15:49:14.,
+2024-02-02,Network activity,domain,dureciki.com,
+2024-02-02,Attribution,whois-registrar,"Hostinger Operations, UAB",
+2024-02-02,Other,text,1636,
+2024-02-02,Other,text,com,
+2024-02-02,Other,text,Verisign,
+2024-02-02,Network activity,hostname,johnny.ns.cloudflare.com,
+2024-02-02,Network activity,hostname,molly.ns.cloudflare.com,
+2024-02-02,Attribution,whois-creation-date,2024-02-01 21:39:56,
+2024-02-02,Other,datetime,2024-02-01T21:48:17.000000+0000,
+2024-02-02,Other,datetime,2025-02-01T21:39:56.000000+0000,

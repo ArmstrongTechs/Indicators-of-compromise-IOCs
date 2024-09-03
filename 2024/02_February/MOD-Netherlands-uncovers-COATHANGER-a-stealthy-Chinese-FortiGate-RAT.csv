@@ -1,0 +1,133 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: MOD Netherlands uncovers COATHANGER, a stealthy Chinese FortiGate RAT"
+| UUID: 67033954-cb9d-4aad-ae23-435b246b016e
+| Date: 2024-02-07
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-07,External analysis,link,https://www.ncsc.nl/documenten/publicaties/2024/februari/6/mivd-aivd-advisory-coathanger-tlp-clear,
+2024-02-07,External analysis,link,https://github.com/JSCU-NL/COATHANGER,
+2024-02-07,Payload installation,yara,"rule COATHANGER_files
+{
+    meta:
+        description = ""Detects COATHANGER files by used filenames""
+        malware = ""COATHANGER""
+        author = ""NLD MIVD - JSCU""
+        date = ""20240206""
+    strings:
+        $1 = ""/data2/""
+        $2 = ""/httpsd""
+        $3 = ""/preload.so""
+        $4 = ""/authd""
+        $5 = ""/tmp/packfile""
+        $6 = ""/smartctl""
+        $7 = ""/etc/ld.so.preload""
+        $8 = ""/newcli""
+        $9 = ""/bin/busybox""
+
+    condition:
+        (uint32(0) == 0x464c457f or uint32(4) == 0x464c457f)
+        and filesize < 5MB and 4 of them
+}",
+2024-02-07,Payload installation,yara,"rule COATHANGER_beacon
+{
+    meta:
+        description = ""Detects COATHANGER beaconing code (GET / HTTP/2\nHost: www.google.com\n\n)""
+        malware = ""COATHANGER""
+        author = ""NLD MIVD - JSCU""
+        date = ""20240206""
+    strings:
+        $chunk_1 = {
+            48 B8 47 45 54 20 2F 20 48 54
+            48 89 45 B0
+            48 B8 54 50 2F 32 0A 48 6F 73
+            48 89 45 B8
+            48 B8 74 3A 20 77 77 77 2E 67
+            48 89 45 C0
+            48 B8 6F 6F 67 6C 65 2E 63 6F
+        }
+
+    condition:
+        uint32(0) == 0x464c457f and filesize < 5MB and
+        any of them
+}",
+2024-02-07,Network activity,ja3-fingerprint-md5,339f6adf54e6076d069dcaac54fddc25,"# This JA3-hash is a fingerprint for connections originating # from FortiGate devices that support all encryption and # hashing algorithms for doing TLS.  # Whereas the far majority of TLS-connections use different # parameters, the built-in logging functionality of FortiGate # devices seems to make use of identical TLS-parameters, # leading to potential false positive results from this JA3 # hash.  # Therefore, traffic should be judged as legitimate (i.e., as # false positive indicator of COATHANGER) if it originates # from a FortiGate device and has: # − port 541 or 514 as destination port and # − an IP address belonging to Fortinet Inc. or a Fortinet # device, such as a FortiManager as destination."
+2024-02-07,Other,comment,- The Ministry of Defence (MOD) of the Netherlands was impacted in 2023 by an intrusion into one of its networks. The effects were limited because of prior network segmentation.,
+2024-02-07,Other,comment,"− Incident response uncovered previously unpublished malware, a remote access trojan (RAT) designed specifically for Fortigate appliances. It is used as second-stage malware, and does not exploit a new vulnerability. Intelligence services MIVD & AIVD refer to the malware as COATHANGER based on a string present in the code.",
+2024-02-07,Other,comment,− The COATHANGER malware is stealthy and persistent. It hides itself by hooking system calls that could reveal its presence. It survives reboots and firmware upgrades.,
+2024-02-07,Other,comment,− MIVD & AIVD assess with high confidence that the malicious activity was conducted by a state- sponsored actor from the People’s Republic of China. This is part of a wider trend of Chinese political espionage against the Netherlands and its allies.,
+2024-02-07,Other,comment,"− MIVD & AIVD assess that use of COATHANGER may be relatively targeted. The Chinese threat actor(s) scan for vulnerable edge devices at scale and gain access opportunistically, and likely introduce COATHANGER as a communication channel for select victims.",
+2024-02-07,Other,comment,"− Action that organizations can take to prevent future malicious activity: for all internet-facing (edge) devices, install security patches from the vendor as soon as they become available.",
+2024-02-07,External analysis,vulnerability,CVE-2022-42475,
+2024-02-07,Other,comment,"The COATHANGER implant is persistent, recovering after every reboot by injecting a backup of itself in the process responsible for rebooting the system. Moreover, the infection survives firmware upgrades. Even fully patched FortiGate devices may therefore be infected, if they were compromised before the latest patch was applied.",
+2024-02-07,Other,comment,"Therefore, any suspicious outgoing connections to external IP addresses from a process called httpsd is a strong indicator of the presence of COATHANGER: <device_IP>:<device_port>-><c2_IP>:<c2_port>->state=established err=0 socktype=1 rma=0 wma=0fma=0 tma=0 inode=<inode> process=<PID>/httpsd",
+2024-02-07,Other,comment,"The PIDs of process that have suspicious outgoing connections can be used as a starting point for conducting this check. When the process has a GID set to 90, the device is infected with COATHANGER.",
+2024-02-07,Other,comment,It is not expected behavior of an isolated FortiGate device to connect to other domains than those related to Fortinet or domains/IPs listed in the configuration of the device.,
+2024-02-07,Payload delivery,md5,1bc945d6aa5d1b2ad7ccfd3fac82422d,preload.so
+2024-02-07,Payload delivery,sha1,4e365312a06c3da747c7425612ef3fe360b52c05,preload.so
+2024-02-07,Payload delivery,sha256,45fc722b9959384fa46be673c246c9fc94491898a9b1aef6b4a408d81e6fed0f,preload.so
+2024-02-07,Payload delivery,md5,4d0d41064cb24d690226577fe2e52248,newcli
+2024-02-07,Payload delivery,sha1,ad60b32dce36f45e742db69d3f432c2456abf942,newcli
+2024-02-07,Payload delivery,sha256,47501cebf0b4ffbf5171d811c1517ea4fce178d925fcc4a3b3057be211add88b,newcli
+2024-02-07,Payload delivery,md5,fb8bc202b1a6e1661fc6fb72a5b186d6,unpack.so
+2024-02-07,Payload delivery,sha1,dbd4726251d710cbaabbd3c345c72df431d7454b,unpack.so
+2024-02-07,Payload delivery,sha256,cb284b2e846181a6148059d592c9e6687567433810d1376a8e6f83cb5347c93b,unpack.so
+2024-02-07,Payload delivery,md5,6a1e036b7b7fea19a68b9d05b54dbda6,httpsd
+2024-02-07,Payload delivery,sha1,bd5911d32ddb7893b076ba2dc80b48b3875584df,httpsd
+2024-02-07,Payload delivery,sha256,2a5ea4b166163bf028c4f3c8d4dc1cd6788e991b7300b5ea948e38ec4f6ac8fd,httpsd
+2024-02-07,Payload delivery,md5,dba4fd981120faa360ac5df67d3566aa,packfile
+2024-02-07,Payload delivery,sha1,cfcae79765e169267445257417cbe06df7d336f4,packfile
+2024-02-07,Payload delivery,sha256,d2ba18a8b851b87163e42807a3541d17b272b679045d2de00364a718973cb5d4,packfile
+2024-02-07,Payload delivery,md5,b37756edc2b756223acacf491be06d48,preload.so
+2024-02-07,Payload delivery,sha1,5edb7c6aa9cc3e441523a32e99e01f83e174949c,preload.so
+2024-02-07,Payload delivery,sha256,7b0709ec1f6e0eda3205a4ebdafbd2484f0590bbfe6ddd7c82d979f0f471e664,preload.so
+2024-02-07,Payload delivery,md5,8d0fffd6b8b127e0972e281c85fbf11c,sh
+2024-02-07,Payload delivery,sha1,ddd53cb70798ed530e6e5880bf0182607ca1eecd,sh
+2024-02-07,Payload delivery,sha256,218a64bc50f4f82d07c459868b321ec0ef5cf315b012255a129e0bde5cc80320,sh
+2024-02-07,Payload delivery,md5,98a4f08e6617e30ca8f8bd8e5b9177a5,ld.so.preload
+2024-02-07,Payload delivery,sha1,70581b5075d88223cfb830b28e823d2eecd92134,ld.so.preload
+2024-02-07,Payload delivery,sha256,bdf838ca2268c6a33718c3682a03118213652903568d66fba362d3ce18b4b4cf,ld.so.preload
+2024-02-07,Payload delivery,md5,991461b86aebecfd096dc11ff2a04b4b,sh
+2024-02-07,Payload delivery,sha1,dc5074340d4631bbf89adc122e8f1a3ca8d87564,sh
+2024-02-07,Payload delivery,sha256,dcd9a5af1c6297ed1a66c851efa305000335d8ade068ba515125a6612f1d5300,sh
+2024-02-07,Payload delivery,md5,a62377c01935f366761846b5ceed5a49,preload.so
+2024-02-07,Payload delivery,sha1,c259f0efa8ff0ea798a6a3dda22b8df62627405b,preload.so
+2024-02-07,Payload delivery,sha256,1c437dc9e929669e5a65a1c70afb3107fba471afb9ad35e3848334c9332f2b59,preload.so
+2024-02-07,Payload delivery,md5,e24d14d3e6c6de0ed3db050dd5c935f0,liblog.so / ld.so.preload
+2024-02-07,Payload delivery,sha1,4226726bbdc05cc72e4fbb9bcef4a3b625e8a53b,liblog.so / ld.so.preload
+2024-02-07,Payload delivery,sha256,a79f80158ebbf9e34f6a7ec86b564de2fbee783fe6c1e20eefe2832226e2f827,liblog.so / ld.so.preload
+2024-02-07,Payload delivery,md5,92cf72c7e85cc8657644b1e6ca9f8b1e,authd
+2024-02-07,Payload delivery,sha1,9211b7cd8d4e8c2416e11a7794a37c31683c2be0,authd
+2024-02-07,Payload delivery,sha256,01942a2b1b64446f8bf332004f8f875e66924a8405ac049fd0bb8d03c992fba6,authd
+2024-02-07,Payload delivery,md5,201ee76e996846d5ea3fc03bac3273dd,packfile
+2024-02-07,Payload delivery,sha1,95c69c5a0751c0c2fc30e9ab5de0af5623b28da3,packfile
+2024-02-07,Payload delivery,sha256,4591b4fb1c93c27203b36c773597fd3f885338ad7641dcebf8ed2395acdf4a5f,packfile
+2024-02-07,Payload delivery,md5,ab89139e3d47fbaba2da33040da95200,newcli
+2024-02-07,Payload delivery,sha1,302743eaaa12018647b67b390a270ed98d3219d6,newcli
+2024-02-07,Payload delivery,sha256,2acc6a2a931db63fe3a875780f00192a60955c9794df68fe0ace0012d309b04f,newcli
+2024-02-07,Payload delivery,md5,9e333e7b57e5773a68df065477af33ae,ld.so.preload
+2024-02-07,Payload delivery,sha1,97621c409295341808d3697f54dc7b59ee5c42af,ld.so.preload
+2024-02-07,Payload delivery,sha256,80baadc163ab14128a8d3f65de093a400f5ae8e27ec979918cf065cea38af7f8,ld.so.preload
+2024-02-07,Payload delivery,md5,c6eca7f3a99bff43be8ed5e2a2cd689f,newcli
+2024-02-07,Payload delivery,sha1,dda35b053f2072fdb30fe21ad3c136b5054817be,newcli
+2024-02-07,Payload delivery,sha256,7fba5ab17972daa6250f3097c5254c4cf0e5e19889e10c02307f73c7481b4d5e,newcli
+2024-02-07,Payload delivery,md5,6c0adca790235445d07be98cd0f820b5,libpe.so
+2024-02-07,Payload delivery,sha1,cd6944926169f56ba78cdf15df6eea44b267bb51,libpe.so
+2024-02-07,Payload delivery,sha256,50451bb5b6d68115695a6cb277839a6dd2bad8f70bdb8b79670b18dcde188965,libpe.so
+2024-02-07,Payload delivery,md5,205a8c6049061930490b2482855babcd,smartctl
+2024-02-07,Payload delivery,sha1,77698f3f915e61852b6a79bbd85744d845b112c4,smartctl
+2024-02-07,Payload delivery,sha256,4519baebba73827e2b33f36f835d6cb704755abf1312d8d197be635f4d9ffade,smartctl
+2024-02-07,Payload delivery,md5,9124ce75319514561156d2013fc9d3be,authd
+2024-02-07,Payload delivery,sha1,b59d6ec835329ea8982fbbe87bb6b6132514c491,authd
+2024-02-07,Payload delivery,sha256,f40c04fb9e2d4157a0bc753925dbc5f757feb77cdd22f90fedf3cc5e095143bc,authd
+2024-02-07,Payload delivery,md5,b9f2ae5082184fdc88b914ab136e54bd,httpsd
+2024-02-07,Payload delivery,sha1,0b209c3b1fd247c56dd003888214bf4ee9a872fc,httpsd
+2024-02-07,Payload delivery,sha256,ce2d55a794bd7f41218796ef4a2cfab9707e8a5e8e971aa02ac8ff908b5f02f6,httpsd
+2024-02-07,Payload delivery,md5,218a3525ab8e46f7afe252d050a86907,httpsd
+2024-02-07,Payload delivery,sha1,44ed7bf2187c5f7442d8167ef009598dbbed60cb,httpsd
+2024-02-07,Payload delivery,sha256,3ed99aad5922744b6a75ea90ea6ece81ba0d8eb9935aec38b897e44ac3b36c35,httpsd
+2024-02-07,Payload delivery,ssdeep,192:GTHZecX8f8fUlxblVKmu6Wt9ygq1OtHCj31DM8MC3RUJET+mFG7vSif:kZe18fUl17WlqUtiL1h36iTnYj,httpsd
+2024-02-07,Payload delivery,tlsh,t1c7829327b751ca79c099f7b05caf8ab07836b0f4e722621f2241a6797c647844f0f766,

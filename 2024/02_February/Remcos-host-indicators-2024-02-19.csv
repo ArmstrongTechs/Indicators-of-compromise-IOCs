@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-02-19]
+| UUID: b8e3cd39-5b95-42a7-8ad8-43dd3d79710e
+| Date: 2024-02-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-20,Payload installation,filename,D511A37B2F8D6746F1AC95137E6B62DB7A1FFA14E5287.exe,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,8141224fd2082e4afddd79ede6e40824,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,369bfcb976ccdaa8a6c53f61647b770eddbe0ae9,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,d511a37b2f8d6746f1ac95137e6b62db7a1ffa14e5287c34a6d8eadc63375de6,Source: MalwareBazaar
+2024-02-20,Payload installation,filename,Documents and Delivery Invoice.bat,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,ce3f5272d5e5a3bd34f5f0a69baea4ec,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,4b49195d82b9b60f3c82d2466533c737f109a80d,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,c6996a799ccedb779d3b363ad528a5347e750d03c50fd246d726c712c73317a2,Source: MalwareBazaar
+2024-02-20,Payload installation,filename,DOCUMENT77@#$@@yyy#@#.exe,Source: MalwareBazaar
+2024-02-20,Payload installation,md5,201947fbb912ee8c0f7eadb620188bef,Source: MalwareBazaar
+2024-02-20,Payload installation,sha1,5842ca1cd58283eeda5b1fed41053bd05e660e62,Source: MalwareBazaar
+2024-02-20,Payload installation,sha256,a7e9fbef84a3e14d5e801f2004d75a47032df8fbb9da9dd86071098eeaf6a2d4,Source: MalwareBazaar
