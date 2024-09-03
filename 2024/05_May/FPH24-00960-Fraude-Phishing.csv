@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00960 [Fraude] [Phishing]
+| UUID: 67a92d8f-4049-4a12-bcc9-f046e5d1d546
+| Date: 2024-05-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-28,External analysis,text,"En el CSIRT de Gobierno encontramos una nueva campaña de phishing. Los siguientes son los detalles.
+
+En esta campaña, los delincuentes envían un email falso que alerta una supuesta expiración de la contraseña de una cuenta de correo electrónico. ¡No hagas clic!",Resumen
+2024-05-28,Network activity,ip-src,162.215.249.101,IP sitio falso
+2024-05-28,Network activity,ip-src|port,59.106.13.26|50690,IP SMTP
+2024-05-28,Payload delivery,url,http://suf-ksa.com/web/CBS/dood?,URL sitio falso
+2024-05-28,Payload delivery,url,http://suf-ksa.com/web/CBS/index.php?email={Correo electronico},URL redirección
+2024-05-28,Payload delivery,email-src,support@globes.co.jp,Correo de salida

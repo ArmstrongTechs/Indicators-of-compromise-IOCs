@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Meterpreter host indicators [2024-05-14]
+| UUID: fbb1d202-4f75-489f-8b81-c7a6732f3eff
+| Date: 2024-05-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-15,Payload installation,filename,97D4AD01A0FCDD075AABF3F66F04B848.exe,Source: MalwareBazaar
+2024-05-15,Payload installation,md5,97d4ad01a0fcdd075aabf3f66f04b848,Source: MalwareBazaar
+2024-05-15,Payload installation,sha1,71207d39d4f1a9b5c001b184178d8ea852e4f948,Source: MalwareBazaar
+2024-05-15,Payload installation,sha256,8da5e7a715c0ca9d2022c2f18225471cb653f4a84e29ced56a12f9f9c991314d,Source: MalwareBazaar

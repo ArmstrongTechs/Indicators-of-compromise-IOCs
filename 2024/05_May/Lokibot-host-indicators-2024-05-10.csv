@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-05-10]
+| UUID: aea7cf71-bcbb-49e3-8a8f-50d442cfc32a
+| Date: 2024-05-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-10,Payload installation,filename,53a01fab9569531fc1003d2c311c3be5.exe,Source: MalwareBazaar
+2024-05-10,Payload installation,md5,53a01fab9569531fc1003d2c311c3be5,Source: MalwareBazaar
+2024-05-10,Payload installation,sha1,2a06e0d33e8eeb5de3f2871966fd79d881291edf,Source: MalwareBazaar
+2024-05-10,Payload installation,sha256,3c3cedc000a25a9478e78e2a90b3310afec83616d36f9353be0721dd2aa052f8,Source: MalwareBazaar
+2024-05-10,Payload installation,filename,GENERALGROUP INV FWDRB42024.doc,Source: MalwareBazaar
+2024-05-10,Payload installation,md5,a9c19478afbe4b0cfef5909bfe3ea1f7,Source: MalwareBazaar
+2024-05-10,Payload installation,sha1,156096e4a1afa49747fd177ebe3bf744103d58cc,Source: MalwareBazaar
+2024-05-10,Payload installation,sha256,c92a29ffe704fd01df9832b221781fe8cafef9fcd125fb380227571cd94df921,Source: MalwareBazaar
+2024-05-10,Payload installation,filename,PO DTL20-041.doc,Source: MalwareBazaar
+2024-05-10,Payload installation,md5,156adf696611a249b7ab452b257d6395,Source: MalwareBazaar
+2024-05-10,Payload installation,sha1,cce0c987e8daa43610a655fc32080d05e9063791,Source: MalwareBazaar
+2024-05-10,Payload installation,sha256,5b35b93ac36e716d98f54530aed8c547f603b7fe846272eaf722003549d822e5,Source: MalwareBazaar
+2024-05-10,Payload installation,filename,JHHhiuu.exe,Source: MalwareBazaar
+2024-05-10,Payload installation,md5,7f300dc215515c22c0d79dafb84537d9,Source: MalwareBazaar
+2024-05-10,Payload installation,sha1,70a2ff981229f244693245ad81284ae6fc2f872d,Source: MalwareBazaar
+2024-05-10,Payload installation,sha256,64b6a1d565c3f4cb1f8b019be43f1049f4d540e0d8d9eabd8cf586cb9ebbb650,Source: MalwareBazaar

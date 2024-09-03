@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AveMariaRAT host indicators [2024-05-14]
+| UUID: 3ef2a315-2075-42a3-b6f3-c58d642be80a
+| Date: 2024-05-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-14,Payload installation,filename,1715671566ff29b1c279c8e66099d383a7e1b960729a091c6d4225ded86182badee2c75ba9889.dat-decoded,Source: MalwareBazaar
+2024-05-14,Payload installation,md5,c3b94b58df683ce5d5ff33f2846dd18f,Source: MalwareBazaar
+2024-05-14,Payload installation,sha1,28c044b0e1cee740f146a0c435d0b5f5183355f2,Source: MalwareBazaar
+2024-05-14,Payload installation,sha256,d677958e05d8e8a3424225fd62da4a68c9401aa13658ecb9d6dbff18372aca85,Source: MalwareBazaar
+2024-05-14,Payload installation,filename,Requirements.xla,Source: MalwareBazaar
+2024-05-14,Payload installation,md5,f12bc76f77dc2b26637d97fa9181dbbd,Source: MalwareBazaar
+2024-05-14,Payload installation,sha1,adfda2d2bbb12f4fffb75f0e99d6c64d26f86578,Source: MalwareBazaar
+2024-05-14,Payload installation,sha256,a76b15f3a40c7e92e80ab4b1e2fa1c942aecd46b557598bdc9a4ac8524c180a8,Source: MalwareBazaar
+2024-05-15,Payload installation,filename,3A814B9A8D2D33AD7318EB80652D039D.exe,Source: MalwareBazaar
+2024-05-15,Payload installation,md5,3a814b9a8d2d33ad7318eb80652d039d,Source: MalwareBazaar
+2024-05-15,Payload installation,sha1,9439b6a7cc772212e625d4829f4f3f918d91b532,Source: MalwareBazaar
+2024-05-15,Payload installation,sha256,2e5f3807db334c44e20f17624cfa529304327387e4795c561374379725acde6c,Source: MalwareBazaar

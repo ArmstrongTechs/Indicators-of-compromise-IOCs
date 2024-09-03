@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Gh0stRAT host indicators [2024-05-14]
+| UUID: 73b45d0d-6988-4029-b8e5-3b23e85d8f24
+| Date: 2024-05-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-14,Payload installation,filename,winos.exe,Source: MalwareBazaar
+2024-05-14,Payload installation,md5,68c4bd41835274dd58bcee8369c09fc3,Source: MalwareBazaar
+2024-05-14,Payload installation,sha1,344757c025e44a17890d2ca5df6cb7be146cfb3c,Source: MalwareBazaar
+2024-05-14,Payload installation,sha256,1fa3c124e6b09645df5d354eac05d6eb3e27b9b36cd0b69953cae57984442c80,Source: MalwareBazaar

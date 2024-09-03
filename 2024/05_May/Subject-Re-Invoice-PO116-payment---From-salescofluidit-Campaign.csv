@@ -1,0 +1,60 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Re: Invoice, PO#116 payment - From: sales@cofluid.it"" Campaign"
+| UUID: ac4de577-1520-4d37-9e8e-36abf114ba6f
+| Date: 2024-05-15
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-15,Payload delivery,email-src,sales@cofluid.it,"Source email: from sales@cofluid.it - subject: Re: Invoice, PO#116 payment"
+2024-05-15,Payload delivery,email-src-display-name,Zang Zhenzu (Mrs),"Source email: from sales@cofluid.it - subject: Re: Invoice, PO#116 payment"
+2024-05-15,Payload delivery,email-body,"<HTML><HEAD><TITLE></TITLE>
+<META name=GENERATOR content=""MSHTML 11.00.9600.17037""></HEAD>
+<body>
+<DIV style=""WIDTH: 700px; COLOR: rgb(49,53,59); BACKGROUND-COLOR: rgb(255,255,255); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal"">
+<DIV style=""MARGIN-LEFT: 10px"">
+<P style='FONT-SIZE: 14px; FONT-FAMILY: Helvetica, ""Microsoft Yahei"", verdana'>Hello,<BR><BR>I would like you to confirm if this&nbsp;payment was received successfully.<BR>Check payment copy<BR>Paid in full</P>
+<DIV style=""BOX-SIZING: border-box; FONT-SIZE: 16px; FONT-FAMILY: Verdana, Helvetica, Helvetica, Arial, sans-serif; COLOR: rgb(102,102,102); PADDING-BOTTOM: 0px; DIRECTION: ltr; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"">
+<DIV style=""BOX-SIZING: border-box; PADDING-BOTTOM: 0px; DIRECTION: ltr; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px"">
+<H4 style=""BOX-SIZING: border-box; FONT-SIZE: 1.37em; FONT-FAMILY: Expert-Sans-Regular, Helvetica, Helvetica, Arial, sans-serif; FONT-WEIGHT: normal; COLOR: rgb(0,57,93); PADDING-BOTTOM: 0px; DIRECTION: ltr; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px 0px 0.4em; LINE-HEIGHT: 1.185; PADDING-RIGHT: 0px"">Hong Kong&nbsp;</H4>
+<P style=""BOX-SIZING: border-box; FONT-SIZE: 0.81em; FONT-FAMILY: inherit; PADDING-BOTTOM: 0px; DIRECTION: ltr; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px 0px 1.25em; LINE-HEIGHT: 1.4; PADDING-RIGHT: 0px"">41/F Cheung Kong Center<BR style=""BOX-SIZING: border-box"">2 Queen's Road Central<BR style=""BOX-SIZING: border-box"">Hong Kong<BR style=""BOX-SIZING: border-box"">Tel: +852 2903 2060<BR style=""BOX-SIZING: border-box"">Fax: +852 2903 2959</P></DIV></DIV></DIV></DIV></BODY></HTML>","Source email: from sales@cofluid.it - subject: Re: Invoice, PO#116 payment"
+2024-05-15,Payload delivery,email-subject,"Re: Invoice, PO#116 payment","Source: from sales@cofluid.it - subject: Re: Invoice, PO#116 payment"
+2024-05-15,Payload delivery,filename|sha256,payment copy.pdf|77948e428ad7708bb79e23ec0dd199b4d25bed6c58813b1297eed1cd03251960,"Malspam attachment - source: from sales@cofluid.it - subject: Re: Invoice, PO#116 payment mime: application/pdf"
+2024-05-15,Payload delivery,filename|ssdeep,payment copy.pdf|1536:yRNRvcJqzv+kafzNQDo8c2hlneYPJMpCJEM1qatanErV6Q7MyNCbbi1XEk:yRkJq5+J8zneQJMpCOZataExMyY3QXL,"Malspam attachment - source: from sales@cofluid.it - subject: Re: Invoice, PO#116 payment mime: application/pdf"
+2024-05-15,Payload delivery,filename|sha1,payment copy.pdf|658126c5d9a6a7424861c2aee07816ae5498c8c1,"Malspam attachment - source: from sales@cofluid.it - subject: Re: Invoice, PO#116 payment mime: application/pdf"
+2024-05-15,Payload delivery,filename|sha512,payment copy.pdf|d56a2b6678c88ee311b4189f1811ba14df22c5e536f89f253eaac570113a405057ec7005fc1fad087b01b056a59791693b5a18ecd2f3f24db181c839cf1b791d,"Malspam attachment - source: from sales@cofluid.it - subject: Re: Invoice, PO#116 payment mime: application/pdf"
+2024-05-15,Payload delivery,filename|md5,payment copy.pdf|ac3a8f618810c3680ce24a24252b5252,"Malspam attachment - source: from sales@cofluid.it - subject: Re: Invoice, PO#116 payment mime: application/pdf"
+2024-05-15,Payload delivery,filename|md5,0250c139e2c5f62ba83434a1d61be3aeba703f83de2e7ac6b9f49dc7d4eb5820.dll|95f2a08500108c422d0c2d0d171e0875,Extracted from Adobe.exe; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|sha1,0250c139e2c5f62ba83434a1d61be3aeba703f83de2e7ac6b9f49dc7d4eb5820.dll|c80ef53e87f966f5fe465af791102cca1b2c4dba,Extracted from Adobe.exe; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|sha256,0250c139e2c5f62ba83434a1d61be3aeba703f83de2e7ac6b9f49dc7d4eb5820.dll|0250c139e2c5f62ba83434a1d61be3aeba703f83de2e7ac6b9f49dc7d4eb5820,Extracted from Adobe.exe; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|sha512,0250c139e2c5f62ba83434a1d61be3aeba703f83de2e7ac6b9f49dc7d4eb5820.dll|3f72fe86cb712840da966b135cde9b2e891f1dfde83210ed0789c8e707c1cd23d3d30beb7778bbb2073aa674ab5988b3adc6078e1e0fe4003354eece4f810a95,Extracted from Adobe.exe; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|ssdeep,0250c139e2c5f62ba83434a1d61be3aeba703f83de2e7ac6b9f49dc7d4eb5820.dll|6144:WOZFOPfsWjHIjZEZwUwlzvcF+12lg9UaoZlYbfTsE:lOPEyojP3Uw2lhMjw,Extracted from Adobe.exe; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|md5,255_Fusgwewdxqx|744bdd66a7e7a36aa009558e505954bf,Extracted from https://hosting.tempauto.ru/255_Fusgwewdxqx; mime: text/plain
+2024-05-15,Payload delivery,filename|sha1,255_Fusgwewdxqx|d9b37736e752a9c21284d6bdd3c2fc3214683a5d,Extracted from https://hosting.tempauto.ru/255_Fusgwewdxqx; mime: text/plain
+2024-05-15,Payload delivery,filename|sha256,255_Fusgwewdxqx|4cfb0c9d9941eb51513010d3878b6c0b884c8ba5bf17470bc8c99dbc92d1ee90,Extracted from https://hosting.tempauto.ru/255_Fusgwewdxqx; mime: text/plain
+2024-05-15,Payload delivery,filename|sha512,255_Fusgwewdxqx|edcb7c3cfa57822316b23df737bb0b6ce8af81354030d736e52eefa2e576553e340b69ddbac9dc05bc7c2ecb6b774dcac8357e09ef57f881f278ee8a480f2497,Extracted from https://hosting.tempauto.ru/255_Fusgwewdxqx; mime: text/plain
+2024-05-15,Payload delivery,filename|ssdeep,255_Fusgwewdxqx|24576:dAp19zNpVPlOiACeq5/VaTVd3d0bncl/Xbv:d01jPsTv,Extracted from https://hosting.tempauto.ru/255_Fusgwewdxqx; mime: text/plain
+2024-05-15,Payload delivery,filename|imphash,Adobe.exe|5b6dbfe5d51e99edfa7f3969fedfa224,Extracted from Adobe.rar; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|md5,Adobe.exe|32769244b3c9180aaeda9bdbc94e3c28,Extracted from Adobe.rar; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|sha1,Adobe.exe|a76ee5e814514bcdce374b2a12adb69f216be63c,Extracted from Adobe.rar; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|sha256,Adobe.exe|fe396a1237d49be994cea981a0634f8535736c67942d050b43dca2c38038de52,Extracted from Adobe.rar; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|sha512,Adobe.exe|6cf72600a174d64eb1f3513dbeeb4c445c619a2352836705796e7f636082b9178d99d08e7c7e6ff8162617b41e9ffc0f609a00916f0fb2a7d91ab499d3717f43,Extracted from Adobe.rar; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|ssdeep,Adobe.exe|24576:E3mJ4QH5npAbbt89g6lkRcHc/7jVt6G+xJKr6AOALfrSUv15gmm7kqQILp52HTbN:E3Y59rlkRH/7CG+xJZAOALfrSUv15gmz,Extracted from Adobe.rar; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|md5,Adobe.rar|88592b17526e132988cee3ad37f0d852,Downloaded from https://hosting.tempauto.ru/Adobe.rar; mime: application/x-rar
+2024-05-15,Payload delivery,filename|sha1,Adobe.rar|c49c43010c7e9d812437eed3cb8a1ac21812d81c,Downloaded from https://hosting.tempauto.ru/Adobe.rar; mime: application/x-rar
+2024-05-15,Payload delivery,filename|sha256,Adobe.rar|cd5999b7894bd16871b5f43adf2d2dd9c12e67977e01566ac39f09abb0d04835,Downloaded from https://hosting.tempauto.ru/Adobe.rar; mime: application/x-rar
+2024-05-15,Payload delivery,filename|sha512,Adobe.rar|1fc43dfdc57dfc52926c7d02ee3c9efde294e72bd015a8fb343bacce8e94004823ac0f9e630c45a2ae58dec36a18e30ba69ccb6e68dc58490f2e7ca201d2cd26,Downloaded from https://hosting.tempauto.ru/Adobe.rar; mime: application/x-rar
+2024-05-15,Payload delivery,filename|ssdeep,Adobe.rar|12288:wnMw2JsQn+8EzQZ8ooT18NnyFtipvXEZK6i:wnM1GvInM8E86i,Downloaded from https://hosting.tempauto.ru/Adobe.rar; mime: application/x-rar
+2024-05-15,Payload delivery,filename|imphash,dwewgsuF.pif|dd7b5eed6607225c03249c26d14a2571,Dropped by Adobe.exe; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|md5,dwewgsuF.pif|c116d3604ceafe7057d77ff27552c215,Dropped by Adobe.exe; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|sha1,dwewgsuF.pif|452b14432fb5758b46f2897aeccd89f7c82a727d,Dropped by Adobe.exe; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|sha256,dwewgsuF.pif|7bcdc2e607abc65ef93afd009c3048970d9e8d1c2a18fc571562396b13ebb301,Dropped by Adobe.exe; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|sha512,dwewgsuF.pif|9202a00eeaf4c5be94de32fd41bfea40fc32d368955d49b7bad2b5c23c4ebc92dccb37d99f5a14e53ad674b63f1baa6efb1feb27225c86693ead3262a26d66c6,Dropped by Adobe.exe; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|ssdeep,dwewgsuF.pif|1536:lR2rJpByeL+39Ua1ITgA8wpuO5CU4GGMGcT4idU:lR2lg9Ua1egkCU60U,Dropped by Adobe.exe; mime: application/x-dosexec
+2024-05-15,Network activity,url,http://ip-api.com/line/?fields=hosting,Source: Network activity from dwewgsuF.pif
+2024-05-15,Network activity,url,https://api.ipify.org/,Source: Network activity from dwewgsuF.pif
+2024-05-15,Network activity,url,https://api.telegram.org/bot6368346705:AAG6EkUlDkYF-gg6SrIFzNKpuSCstPvtKy8/sendDocument,Source: Network activity from dwewgsuF.pif
+2024-05-15,Network activity,url,https://hosting.tempauto.ru/255_Fusgwewdxqx,Source: Network activity from 0250c139e2c5f62ba83434a1d61be3aeba703f83de2e7ac6b9f49dc7d4eb5820.dll
+2024-05-15,Network activity,url,https://hosting.tempauto.ru/Adobe.rar,Source: Network activity from payment copy.pdf

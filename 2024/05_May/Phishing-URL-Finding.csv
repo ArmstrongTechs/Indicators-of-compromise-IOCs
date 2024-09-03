@@ -1,0 +1,34 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Phishing URL Finding
+| UUID: 03afe1a2-cd9b-48bd-b0ae-fe606ed050f8
+| Date: 2024-05-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-20,Network activity,hostname,pythroid.com,Host name or IP address of the phishing attack
+2024-05-20,External analysis,attachment,Behpardakht Mellat.jpg,Screenshot of the phishing attack
+2024-05-20,Network activity,url,https://pythroid.com/data/7014292556/payment/5UceW49T/game/send.php,Source URL
+2024-05-20,Other,text,Behpardakht Mellat,Target of the attack
+2024-05-20,Other,text,Yes,
+2024-05-20,Other,text,Armenia,
+2024-05-20,Other,text,AM,
+2024-05-20,Other,float,40,
+2024-05-20,Other,float,45,
+2024-05-20,Other,text,db_source: GeoOpen-Country-ASN. build_db: 2023-11-20 15:49:14. Latitude and longitude are country average.,
+2024-05-20,Other,text,202269,
+2024-05-20,Other,text,ASNOrganization: BITCOMMAND. db_source: GeoOpen-Country-ASN. build_db: 2023-11-20 15:49:14.,
+2024-05-20,Network activity,domain,pythroid.com,
+2024-05-20,Attribution,whois-registrar,"TUCOWS, INC.",
+2024-05-20,Other,text,69,
+2024-05-20,Other,text,com,
+2024-05-20,Other,text,Verisign,
+2024-05-20,Other,text,compliance@tucows.com,
+2024-05-20,Network activity,hostname,addyson.ns.cloudflare.com,
+2024-05-20,Network activity,hostname,jerry.ns.cloudflare.com,
+2024-05-20,Attribution,whois-creation-date,2024-05-15 14:22:12,
+2024-05-20,Other,datetime,2024-05-19T00:52:28.000000+0000,
+2024-05-20,Other,datetime,2025-05-15T14:22:12.000000+0000,
+2024-05-20,Other,datetime,2024-05-20T13:49:39.000000+0000,

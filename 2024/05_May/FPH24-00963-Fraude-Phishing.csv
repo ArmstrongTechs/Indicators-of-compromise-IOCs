@@ -1,0 +1,20 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00963 [Fraude] [Phishing]
+| UUID: 64324afb-b29d-4e93-aadd-2baffe33ba00
+| Date: 2024-05-31
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-31,External analysis,text,"En el CSIRT de Gobierno encontramos una nueva campaña de phishing. Los siguientes son los detalles.
+
+Se trata de una nueva campaña de phishing a través de email, que suplanta a DHL. En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente:&quot;Estimado cliente,Su paquete ha sido devuelto a la oficina de DHL, usted debe pagar un costo de envío (4.65 USD)Tiene 48 horas para recoger su paquete, de lo contrario será devuelto al remitente.&quot;El correo electrónico incluye un enlace a un formulario malicioso usado para robar credenciales (usuarios y contraseñas) de usuarios.",Resumen
+2024-05-31,Network activity,ip-src,162.159.137.9,IP sitio falso
+2024-05-31,Network activity,ip-src,91.188.254.92,IP SMTP
+2024-05-31,Payload delivery,url,https://is.gd/G88z2B,URL redirección
+2024-05-31,Payload delivery,url,https://qovzslgo.elementor.cloud/EN/ENA98765CIZ3435/ENGHUY645/BOBM0002X1/index.html,URL sitio falso
+2024-05-31,Payload delivery,email-src,package@dhl.com,Correo de salida
+2024-05-31,External analysis,attachment,2024-05-31_10h28_50.png,
+2024-05-31,External analysis,attachment,2024-05-31_10h29_54.png,

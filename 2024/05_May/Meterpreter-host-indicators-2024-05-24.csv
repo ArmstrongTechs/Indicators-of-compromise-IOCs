@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Meterpreter host indicators [2024-05-24]
+| UUID: 840d1102-aaf3-4f68-a865-30edb2134ad8
+| Date: 2024-05-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-24,Payload installation,filename,cracked.exe,Source: MalwareBazaar
+2024-05-24,Payload installation,md5,41b1b1f3940c54bf207a9e6f7d0eada6,Source: MalwareBazaar
+2024-05-24,Payload installation,sha1,00946ab04db6e5f0161624807a593bef8cdf3530,Source: MalwareBazaar
+2024-05-24,Payload installation,sha256,f534a2084d2b59d37741bfe46848828079597e17b4aa6e34d7f6b8e8f187ad63,Source: MalwareBazaar
+2024-05-24,Payload installation,filename,shell.exe,Source: MalwareBazaar
+2024-05-24,Payload installation,md5,4af9defb6d5849382bbbfc6a91d44f0e,Source: MalwareBazaar
+2024-05-24,Payload installation,sha1,fafb7c4ee5e54dfd631fdd6a11e25d9d2af5d2b7,Source: MalwareBazaar
+2024-05-24,Payload installation,sha256,496b444dec10414f7822bec8e3f4f9d58237632df9734c71a43e255c3358b28e,Source: MalwareBazaar
+2024-05-24,Payload installation,filename,venom.exe,Source: MalwareBazaar
+2024-05-24,Payload installation,md5,195032debcdcfbd4e56986070144a475,Source: MalwareBazaar
+2024-05-24,Payload installation,sha1,ae0dc7a77bbbbb868f58d7fadf744201c62a580c,Source: MalwareBazaar
+2024-05-24,Payload installation,sha256,18efb574f87cff4df096736e24266656d17108ce4c0f183d97c5c6629f8da1e7,Source: MalwareBazaar

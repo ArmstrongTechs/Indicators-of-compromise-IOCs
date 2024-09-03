@@ -1,0 +1,15 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Threat email attachment: Erzsébet - árajánlat kérése.xlsm
+| UUID: 7ed9bce4-5f6f-4863-b77c-0e2e18c2f88c
+| Date: 2024-05-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-16,Payload delivery,sha256,80bc491f53143f0586753066eff8912b356258afe443f5d0f74ef9b36703225c,Attachment Erzsébet - árajánlat kérése.xlsm
+2024-05-16,Payload delivery,email-subject,Erzsébet - árajánlat kérése,Email subject
+2024-05-16,Payload delivery,email-attachment,Erzsébet - árajánlat kérése.xlsm,Email attachment
+2024-05-16,Payload delivery,ip-src,94.156.68.171,Email sender IP address
+2024-05-16,Payload delivery,ip-src,46.231.96.3,Email sender IP address

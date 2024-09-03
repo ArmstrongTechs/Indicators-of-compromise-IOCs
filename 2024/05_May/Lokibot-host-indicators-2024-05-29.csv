@@ -1,0 +1,34 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-05-29]
+| UUID: f47b9605-428b-4a98-8a04-534d81210ba1
+| Date: 2024-05-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-29,Payload installation,filename,proform invoice.exe,Source: MalwareBazaar
+2024-05-29,Payload installation,md5,b0d8e1c1627e947fc3d0566b856a02c6,Source: MalwareBazaar
+2024-05-29,Payload installation,sha1,fc25210ae92295d0b22accffaf767b0c4354f5de,Source: MalwareBazaar
+2024-05-29,Payload installation,sha256,83761885d25f6efebd14c2b5e26965961fc59896c45a3fff0c1abf555e7b3482,Source: MalwareBazaar
+2024-05-29,Payload installation,filename,Maersk_Quotations.exe,Source: MalwareBazaar
+2024-05-29,Payload installation,md5,7d0f1dc6979c8aa7f5dea5b3c2b8a400,Source: MalwareBazaar
+2024-05-29,Payload installation,sha1,287f0ecccdb11dd342bf24da44372a6f1092f0fd,Source: MalwareBazaar
+2024-05-29,Payload installation,sha256,a68b2ae71c6e626ea81ce33e529fbaf345fe603b2bdf64ce9a8092466e4ed840,Source: MalwareBazaar
+2024-05-29,Payload installation,filename,PO#34316_20240528.exe,Source: MalwareBazaar
+2024-05-29,Payload installation,md5,14510710e98b064e69ecb55e956b2efe,Source: MalwareBazaar
+2024-05-29,Payload installation,sha1,8e4a25f4b78a9293e39bcfb67686e0e0a4e5873a,Source: MalwareBazaar
+2024-05-29,Payload installation,sha256,6dbe9a6e92e3962725c30e1533f195da33329b089a537557b1c3571225969191,Source: MalwareBazaar
+2024-05-29,Payload installation,filename,PO#34316_20240528.rar,Source: MalwareBazaar
+2024-05-29,Payload installation,md5,0e62c6a37a663e40f6e50f372d1dbc42,Source: MalwareBazaar
+2024-05-29,Payload installation,sha1,98e67f14486ba43ad82cc2e3dcfcab21c539f0f3,Source: MalwareBazaar
+2024-05-29,Payload installation,sha256,6921540728f84fd30767501f0097c29242f33878a5953a583c0a59f0056494c3,Source: MalwareBazaar
+2024-05-29,Payload installation,filename,Ajanlatkeres_2024.05.29.PDF.exe,Source: MalwareBazaar
+2024-05-29,Payload installation,md5,cff39149d540e851536383f64d5f5568,Source: MalwareBazaar
+2024-05-29,Payload installation,sha1,2cd49c6f28ecea254e22a75e3e77092a67d26774,Source: MalwareBazaar
+2024-05-29,Payload installation,sha256,795af0703ab2ab7cfcfcc38449e7da1a20967be437e5877ee27da317b3991357,Source: MalwareBazaar
+2024-05-30,Payload installation,filename,0edfa50964df5e64c1072e528dcc884c.exe,Source: MalwareBazaar
+2024-05-30,Payload installation,md5,0edfa50964df5e64c1072e528dcc884c,Source: MalwareBazaar
+2024-05-30,Payload installation,sha1,012856ad6c2afaa7748d1ba02ce7fdec623b0eee,Source: MalwareBazaar
+2024-05-30,Payload installation,sha256,870725e89161945a6c45da72a9930d718850e96995d6e11e2451af1de45ceaf4,Source: MalwareBazaar

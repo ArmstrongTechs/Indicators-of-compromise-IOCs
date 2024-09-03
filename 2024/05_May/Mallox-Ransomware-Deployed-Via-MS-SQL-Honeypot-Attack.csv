@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Mallox Ransomware Deployed Via MS-SQL Honeypot Attack
+| UUID: cc0d8602-450b-5912-b06a-a7470c50895d
+| Date: 2024-05-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-13,Payload delivery,malware-type,PureCrypter,
+2024-05-13,External analysis,link,https://www.infosecurity-magazine.com/news/mallox-ransomware-deployed-via-ms/,
+2024-05-13,External analysis,link,https://feedly.com/i/entry/E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88=_18f729999bd:de9126:58015665,

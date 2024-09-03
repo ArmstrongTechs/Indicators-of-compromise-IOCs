@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Threat email attachment: Sipariş detayları.xls
+| UUID: 70fd9925-1954-4515-8d51-7e1ccfaaa9ac
+| Date: 2024-05-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-21,Payload delivery,sha256,de528ee4199b4f91b5258b4fb2339a147d2238fc53ebbd696a4ebf8bfd80316a,Attachment Sipariş detayları.xls
+2024-05-21,Payload delivery,email-subject,RE: RE: Yeni sipariş,Email subject
+2024-05-21,Payload delivery,email-attachment,Sipariş detayları.xls,Email attachment
+2024-05-21,Payload delivery,ip-src,213.142.149.193,Email sender IP address

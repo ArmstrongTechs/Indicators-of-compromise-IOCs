@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-05-11]
+| UUID: 561409ae-971f-4836-aa55-306f901a96e7
+| Date: 2024-05-11
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-11,Payload installation,filename,Krampus.exe,Source: MalwareBazaar
+2024-05-11,Payload installation,md5,f1dd84b637552358cfc4b9dda1dc04f7,Source: MalwareBazaar
+2024-05-11,Payload installation,sha1,118d8a8f4df0bd95303c977f2fa2883dbd8f4222,Source: MalwareBazaar
+2024-05-11,Payload installation,sha256,fc3e553270ca9ee914c8b813393d3a2a659a2a18e51b6a730036348bc4cae413,Source: MalwareBazaar

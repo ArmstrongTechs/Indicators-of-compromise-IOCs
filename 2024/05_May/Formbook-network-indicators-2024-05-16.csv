@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook network indicators [2024-05-16]
+| UUID: 81d3faf7-65b5-4dd3-9076-33d7edd888d1
+| Date: 2024-05-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-16,Network activity,url,https://drive.google.com/uc?export=download&id=1MzOn8jRo4IemIE6eRfW5o3w-0TNwXNlz,Source: urlhaus
+2024-05-16,Network activity,url,https://incolab.ro/LTDUXcCJFmPIIlE181.bin,Source: urlhaus
+2024-05-16,Network activity,url,http://192.3.216.156/71120/smss.exe,Source: urlhaus
+2024-05-17,Network activity,url,http://185.149.146.54/ReurgingGleek.exe,Source: urlhaus

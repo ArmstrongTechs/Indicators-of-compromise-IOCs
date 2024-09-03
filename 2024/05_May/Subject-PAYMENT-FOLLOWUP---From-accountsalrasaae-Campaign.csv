@@ -1,0 +1,43 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: PAYMENT FOLLOWUP - From: accounts@alrasa.ae"" Campaign"
+| UUID: 887b8e82-d450-401d-aadb-ac35ed31e0f6
+| Date: 2024-05-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-21,Payload delivery,email-src,accounts@alrasa.ae,Source email: from accounts@alrasa.ae - subject: PAYMENT FOLLOWUP
+2024-05-21,Payload delivery,email-src-display-name,Accounts,Source email: from accounts@alrasa.ae - subject: PAYMENT FOLLOWUP
+2024-05-21,Payload delivery,email-body,"Dear Team,
+ 
+ Kindly find the attached TT confirmation for your reference and update us regarding the payment status.
+ 
+ Awaiting for your response. 
+   Regards,
+ 
+ Afreen Sayed Tabarez
+ Al Rasa Pest Control & Bldg Cleaning Services
+     Garhoud-Dubai UAE
+  Mob:0564519421
+ Tel:04-4564943 fax:04-4477962",Source email: from accounts@alrasa.ae - subject: PAYMENT FOLLOWUP
+2024-05-21,Payload delivery,email-subject,PAYMENT FOLLOWUP,Source: from accounts@alrasa.ae - subject: PAYMENT FOLLOWUP
+2024-05-21,Payload delivery,filename|sha256,Copy10330520PDF.7z|10debc4cab7672134a12d9eae891e9d2faf59251a9811c56509c64180a7cd080,Malspam attachment - source: from accounts@alrasa.ae - subject: PAYMENT FOLLOWUP mime: application/x-7z-compressed
+2024-05-21,Payload delivery,filename|ssdeep,Copy10330520PDF.7z|1536:EIH48yXiR86WRAo0lVvL3akGFCQHWMZOdu41I:E1PKPv+V0Q2McV2,Malspam attachment - source: from accounts@alrasa.ae - subject: PAYMENT FOLLOWUP mime: application/x-7z-compressed
+2024-05-21,Payload delivery,filename|sha1,Copy10330520PDF.7z|137659a7c212ef6b030ece9a126ef7933a99b658,Malspam attachment - source: from accounts@alrasa.ae - subject: PAYMENT FOLLOWUP mime: application/x-7z-compressed
+2024-05-21,Payload delivery,filename|sha512,Copy10330520PDF.7z|f2b1502e8609f91168841aab234a5fecd6c68c0245dd0497f13ac12ef5e483367651596d47dc39532c74b0d2319b3ae61aac0dc50448fab29f7436c2792110b6,Malspam attachment - source: from accounts@alrasa.ae - subject: PAYMENT FOLLOWUP mime: application/x-7z-compressed
+2024-05-21,Payload delivery,filename|md5,Copy10330520PDF.7z|e65a9ba8669aae030086ec5a8591e5c5,Malspam attachment - source: from accounts@alrasa.ae - subject: PAYMENT FOLLOWUP mime: application/x-7z-compressed
+2024-05-21,Payload delivery,filename|sha1,Copy10330520PDF.exe|01d494636d190d2b42e5edd1660b92519fcfeee4,Archive contents - source: Copy10330520PDF.7z mime: application/x-dosexec
+2024-05-21,Payload delivery,filename|imphash,Copy10330520PDF.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Archive contents - source: Copy10330520PDF.7z mime: application/x-dosexec
+2024-05-21,Payload delivery,filename|ssdeep,Copy10330520PDF.exe|3072:8SNnCDDRvLGprOAOkGt6+duWA/t/SHUebbxCbGgKk12qk/FPYm21KLbDoUssNXNf:lstvLGcxLbMUMK2aH,Archive contents - source: Copy10330520PDF.7z mime: application/x-dosexec
+2024-05-21,Payload delivery,filename|sha256,Copy10330520PDF.exe|b441b07b39a642c7298e1127c9daf37ef9c1492148997a7f7e83fda9fcb908b1,Archive contents - source: Copy10330520PDF.7z mime: application/x-dosexec
+2024-05-21,Payload delivery,filename|sha512,Copy10330520PDF.exe|583b269187a1f37ad78bf249cbab660936f1fdb49ebb3a5f2a97a9cbcb9acbe7dfc62f6125452056028385ffc4e3d3a5e2ece8acca6c3b2cfd491ffcc2a8486c,Archive contents - source: Copy10330520PDF.7z mime: application/x-dosexec
+2024-05-21,Payload delivery,filename|md5,Copy10330520PDF.exe|54ce77b9385fd7750d737f5af323ab34,Archive contents - source: Copy10330520PDF.7z mime: application/x-dosexec
+2024-05-21,Payload delivery,filename|md5,Kpcwtduh.mp4|fd58e6c7b07fa8d4da4e92ea8de72204,Downloaded from http://98.142.254.109/ii/Kpcwtduh.mp4; mime: text/plain
+2024-05-21,Payload delivery,filename|sha1,Kpcwtduh.mp4|713c6dc16be8d33e25561cd29f4542329cb40256,Downloaded from http://98.142.254.109/ii/Kpcwtduh.mp4; mime: text/plain
+2024-05-21,Payload delivery,filename|sha256,Kpcwtduh.mp4|37b924e42adc357c265e920efbe7b167516409781d30615cb174c711ac5c3c4a,Downloaded from http://98.142.254.109/ii/Kpcwtduh.mp4; mime: text/plain
+2024-05-21,Payload delivery,filename|sha512,Kpcwtduh.mp4|78eaae199246473562209824149024ded68f73994576f6085e3cd89e0333596cd99fe21682689218390842760cb7797d48bd3515e7f5cb7a099c9f26b07268a6,Downloaded from http://98.142.254.109/ii/Kpcwtduh.mp4; mime: text/plain
+2024-05-21,Payload delivery,filename|ssdeep,Kpcwtduh.mp4|24576:sDiQa8Zli4/ZabFFaXczcsRysic0xmGiTz2OwkOFMSWS2:f,Downloaded from http://98.142.254.109/ii/Kpcwtduh.mp4; mime: text/plain
+2024-05-21,Network activity,url,http://98.142.254.109/ii/Kpcwtduh.mp4,Source: Network activity from Copy10330520PDF.exe
+2024-05-21,Network activity,url,http://ehzwq.shop/BL134/index.php,Source: Network activity from Kpcwtduh.mp4

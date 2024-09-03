@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-05-04]
+| UUID: c6170206-8fcb-4842-9ff4-486ff5306edf
+| Date: 2024-05-04
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-04,Payload installation,filename,Dekont.pdf.exe,Source: MalwareBazaar
+2024-05-04,Payload installation,md5,3f14789bbb2b7f4c62f213458da97e1b,Source: MalwareBazaar
+2024-05-04,Payload installation,sha1,15e83047aff16bc4be694ddea208af4e5adb4e59,Source: MalwareBazaar
+2024-05-04,Payload installation,sha256,f80e5f58eaad73e902c8d612e166c360a309e4093bd7fa3451df4495638a73e4,Source: MalwareBazaar
+2024-05-04,Payload installation,filename,DHL_VTER000105450.exe,Source: MalwareBazaar
+2024-05-04,Payload installation,md5,aef01c81d9d65021e3573f24092538fe,Source: MalwareBazaar
+2024-05-04,Payload installation,sha1,b3ad335ea770c9c82288ad85a3c32bbc79f7e7bd,Source: MalwareBazaar
+2024-05-04,Payload installation,sha256,5412e646089455c3aecbc199fd89d53e55ec54eee9302e0e523199df1a07f7ae,Source: MalwareBazaar
+2024-05-04,Payload installation,filename,Dhl-Awb 0865252 copy.exe,Source: MalwareBazaar
+2024-05-04,Payload installation,md5,a26ca710025e5efa13456170b66d565a,Source: MalwareBazaar
+2024-05-04,Payload installation,sha1,04bd899c577837c6cee1a0388fa46bc8bc227ca9,Source: MalwareBazaar
+2024-05-04,Payload installation,sha256,dc63606ac171f693a256efeabdbb8c47957edf0af01ac63d10f4f44a9a4e1f56,Source: MalwareBazaar
+2024-05-05,Payload installation,filename,FW URGENT RFQ-400098211.exe,Source: MalwareBazaar
+2024-05-05,Payload installation,md5,eb22df9e911f644327e4417b7e170727,Source: MalwareBazaar
+2024-05-05,Payload installation,sha1,fc4be943bdd75bea11402dafd25eac549662adfd,Source: MalwareBazaar
+2024-05-05,Payload installation,sha256,2b45e61ed11c6c785371e18c12018cc5ffbe85e5caa889b3101312f80677dd80,Source: MalwareBazaar

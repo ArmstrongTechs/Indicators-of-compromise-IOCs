@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla network indicators [2024-05-22]
+| UUID: 98673209-386a-42f2-b710-99193df5040a
+| Date: 2024-05-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-22,Network activity,url,https://drive.google.com/uc?export=download&id=16tbX4oYGs44vRNDjJoAp8_CPzdVcw0Qo,Source: urlhaus
+2024-05-23,Network activity,url,http://192.3.109.164/5445/csrss.exe,Source: urlhaus
+2024-05-23,Network activity,url,https://bafybeihztxwimpjrjtlr3djk5sxcxnyiubceso2zkoijuplsccegiceqya.ipfs.dweb.link/ngown.exe,Source: urlhaus
+2024-05-23,Network activity,url,https://bafybeiet75enejvx6hqtpgzxcgbexjaz4joqkhy7cv42rfjvrtpqei537a.ipfs.cf-ipfs.com/gywervcyuj.exe,Source: urlhaus

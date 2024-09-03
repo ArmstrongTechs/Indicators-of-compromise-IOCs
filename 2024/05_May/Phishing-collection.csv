@@ -1,0 +1,16 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Phishing collection
+| UUID: eb911825-299f-438e-91ba-28fb268acf86
+| Date: 2024-05-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-21,Network activity,domain,swedmobiil.com,Swdbank
+2024-05-21,Network activity,url,http://swedmobiil.com,Swedbank
+2024-05-21,Network activity,url,https://swedmobiil.com,Swedbank
+2024-05-21,Network activity,url,http://printecclue.training,DocuSign
+2024-05-21,Network activity,url,https://printecclue.training,DocuSign
+2024-05-21,Network activity,domain,printecclue.training,DocuSign

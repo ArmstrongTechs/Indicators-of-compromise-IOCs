@@ -1,0 +1,50 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Charges for Entertaining Clients - From: support@rumsfeldsecurity.com"" Campaign"
+| UUID: 049070b6-1580-46cc-b59e-0acef556ab26
+| Date: 2024-05-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-29,Payload delivery,email-src,support@rumsfeldsecurity.com,Source email: from support@rumsfeldsecurity.com - subject: Charges for Entertaining Clients
+2024-05-29,Payload delivery,email-src-display-name,Betsy McGhie,Source email: from support@rumsfeldsecurity.com - subject: Charges for Entertaining Clients
+2024-05-29,Payload delivery,email-body,"Urgent approval required
+Several files require your signature. Please examine the record attached and offer your sanction at your most convenient convenience.",Source email: from support@rumsfeldsecurity.com - subject: Charges for Entertaining Clients
+2024-05-29,Payload delivery,email-subject,Charges for Entertaining Clients,Source: from support@rumsfeldsecurity.com - subject: Charges for Entertaining Clients
+2024-05-29,Payload delivery,filename|sha256,Scanned_05_28-2024_277972.html|f9afc9391e19fe827dff90b01456fdc0d4915cefe2b5d76aabc7f82c2967049a,Malspam attachment - source: from support@rumsfeldsecurity.com - subject: Charges for Entertaining Clients mime: text/html
+2024-05-29,Payload delivery,filename|ssdeep,Scanned_05_28-2024_277972.html|96:MhvvIFO2B40aPMfiWTMFSCH+PGy9MgC3/mGlby3Pnwp0tUNAkacVjS0gGi/Di53:MGZEhLqMgEOG4/nw+CWvY6Gi/Di5,Malspam attachment - source: from support@rumsfeldsecurity.com - subject: Charges for Entertaining Clients mime: text/html
+2024-05-29,Payload delivery,filename|sha1,Scanned_05_28-2024_277972.html|172a92868d1339086ba9dacd7a80caba2b0980eb,Malspam attachment - source: from support@rumsfeldsecurity.com - subject: Charges for Entertaining Clients mime: text/html
+2024-05-29,Payload delivery,filename|sha512,Scanned_05_28-2024_277972.html|657c681d176800029cc9c90bf534f6038d3b842878bc5635179e9753d3304dd973415db8ac37a718729a57cbea7cb598c50006854137af99b5e23405e2ce6612,Malspam attachment - source: from support@rumsfeldsecurity.com - subject: Charges for Entertaining Clients mime: text/html
+2024-05-29,Payload delivery,filename|md5,Scanned_05_28-2024_277972.html|504e984271e9ba573fd67de5583df8bc,Malspam attachment - source: from support@rumsfeldsecurity.com - subject: Charges for Entertaining Clients mime: text/html
+2024-05-29,Payload delivery,filename|imphash,Autoit3.exe|23c7b0116c8fb2e9410539ab80cfebbe,Extracted from file.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|md5,Autoit3.exe|c56b5f0201a3b3de53e561fe76912bfd,Extracted from file.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha1,Autoit3.exe|2a4062e10a5de813f5688221dbeb3f3ff33eb417,Extracted from file.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha256,Autoit3.exe|237d1bca6e056df5bb16a1216a434634109478f882d3b1d58344c801d184f95d,Extracted from file.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha512,Autoit3.exe|195b98245bb820085ae9203cdb6d470b749d1f228908093e8606453b027b7d7681ccd7952e30c2f5dd40f8f0b999ccfc60ebb03419b574c08de6816e75710d2c,Extracted from file.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|ssdeep,Autoit3.exe|12288:6pVWeOV7GtINsegA/hMyyzlcqikvAfcN9b2MyZa31twoPTdFxgawV2M01:6T3E53Myyzl0hMf1tr7Caw8M01,Extracted from file.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|md5,default.hta|47122a00ef40b1771c57b2d1c79f38be,Extracted from https://lashakhazhalia86dancer.com/c.txt; mime: text/html
+2024-05-29,Payload delivery,filename|sha1,default.hta|ed6fd59265334ec3a69774ab638275d3541ee3df,Extracted from https://lashakhazhalia86dancer.com/c.txt; mime: text/html
+2024-05-29,Payload delivery,filename|sha256,default.hta|395d9796d5e95e5bb1f3218886fb1dd235746452535e6c1e9fb56ccfb8394119,Extracted from https://lashakhazhalia86dancer.com/c.txt; mime: text/html
+2024-05-29,Payload delivery,filename|sha512,default.hta|200045ea397fce58abf84a074fc519911b8a360dffb73f67e2f3ac3e58d7dc6b63e114d215ff100decd6e130743ba7e41e8117c39d146f1e7307f600349eb4c2,Extracted from https://lashakhazhalia86dancer.com/c.txt; mime: text/html
+2024-05-29,Payload delivery,filename|ssdeep,default.hta|12:jJF2x2kGSgMqVxrIVOyg08CyE/GdV8uAnGs1E/A4ntluvG3hy7vNRbGO:1Ax2kGtrIV1s5dV8Hn5unr3h25B,Extracted from https://lashakhazhalia86dancer.com/c.txt; mime: text/html
+2024-05-29,Payload delivery,filename|md5,file.zip|9dfce9e08c3a291212539e82b3dad032,Downloaded from http://languangjob.com/pandstvx; mime: application/zip
+2024-05-29,Payload delivery,filename|sha1,file.zip|3f4496a66296c3f22c80adab10958d8433e7534e,Downloaded from http://languangjob.com/pandstvx; mime: application/zip
+2024-05-29,Payload delivery,filename|sha256,file.zip|98084e47a6945d721f44d235fe2789bd99ab3cf9026d4f20064b1919bc9af1b1,Downloaded from http://languangjob.com/pandstvx; mime: application/zip
+2024-05-29,Payload delivery,filename|sha512,file.zip|b14cad90859c55cff8c8192bb1436875fe66c36c82048b326507d1baaca7130e32c04ece3dbbb7bb733b5ab4d4ff38b434827a688ff007a6c81e699fab974d9d,Downloaded from http://languangjob.com/pandstvx; mime: application/zip
+2024-05-29,Payload delivery,filename|ssdeep,file.zip|24576:Z+XOYZA5kwOKXV0EtVDkL+zNRbMtv4J0RXTTwaG:c+YZPjWBVIazHotC0RXTTwaG,Downloaded from http://languangjob.com/pandstvx; mime: application/zip
+2024-05-29,Network activity,url,http://languangjob.com/pandstvx,Source: Network activity from wogyusxs
+2024-05-29,Network activity,url,http://languangjob.com/wogyusxs,Source: Network activity from default.hta
+2024-05-29,Network activity,url,https://lashakhazhalia86dancer.com/c.txt,Source: Network activity from Scanned_05_28-2024_277972.html
+2024-05-29,Payload delivery,filename|md5,script.a3x|77fd989ebd6cfc7b75b36474503c1ad6,Extracted from file.zip; mime: application/octet-stream
+2024-05-29,Payload delivery,filename|sha1,script.a3x|2cf50b3b481900635ffe63735bacdefacae8e85c,Extracted from file.zip; mime: application/octet-stream
+2024-05-29,Payload delivery,filename|sha256,script.a3x|b4accf076121e1074fa593d9a3c6925c59616c3e7abcbe524a3cec6fd36b682f,Extracted from file.zip; mime: application/octet-stream
+2024-05-29,Payload delivery,filename|sha512,script.a3x|58ef7e74c5d702177963b6d608ac0a7bcb5a661b7ca6e4925e961cfa41b1b1584155f6afffa77c576ca94d8c579336157072c296595fc1d8a92bb7a59d230f9e,Extracted from file.zip; mime: application/octet-stream
+2024-05-29,Payload delivery,filename|ssdeep,script.a3x|6144:Ec7e/xuonLIsVBJ/U3urrvp1USrqErn3WxfZxZ7Pd47myhja86XVvwB:vS0onl2I7PrqETWxF7ymkjanvU,Extracted from file.zip; mime: application/octet-stream
+2024-05-29,Payload delivery,filename|md5,wogyusxs|b7735e2c12896c76d8a89f83184c21e1,Downloaded from http://languangjob.com/wogyusxs; mime: text/plain
+2024-05-29,Payload delivery,filename|sha1,wogyusxs|40e06ee347758a0433d8f71a606d026322705c00,Downloaded from http://languangjob.com/wogyusxs; mime: text/plain
+2024-05-29,Payload delivery,filename|sha256,wogyusxs|b1a2cc5aa0c95a338d7c1245aafd6f7074429dcfe0022cd623ecd1e975c0cd0b,Downloaded from http://languangjob.com/wogyusxs; mime: text/plain
+2024-05-29,Payload delivery,filename|sha512,wogyusxs|b910ec27c7a21ec036f95e66574232811ad056b062e506c7e40d4cfa2ed93792d25bd422a8eec62c3aa45b152e95fc742403cea1e86aca05a4b81aa803871b42,Downloaded from http://languangjob.com/wogyusxs; mime: text/plain
+2024-05-29,Payload delivery,filename|ssdeep,wogyusxs|6:uiJD7IyjBeHVm8DtLh8JSASHGHLg1Ay5DIZDYF9plpulpSDGIAGIEbGXd39SDZ:R7dAHVmkdG5g1Ay5DKM3p/0peZAGIqmS,Downloaded from http://languangjob.com/wogyusxs; mime: text/plain
+2024-05-29,Network activity,domain,languangjob.com,Source: Network activity from executed Autoit3.exe -a script.a3x

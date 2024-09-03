@@ -1,0 +1,110 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook malspam - email attachment
+| UUID: b07864eb-68b0-4692-9399-66b9ac0dcb35
+| Date: 2024-05-03
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-03,Network activity,url,http://87.121.105.54/Ommestrup.deploy,first stage payload URL
+2024-05-03,Network activity,ip-dst|port,87.121.105.54|80,
+2024-05-03,Artifacts dropped,filename,%appdata%\Sagsgningerne.Int,
+2024-05-03,Network activity,url,http://87.121.105.54/iYbZIhIVLPBjJUzImyrJN72.bin,GuLoader payload URL
+2024-05-03,Network activity,domain,www.potsmoked.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.mittra.co.za,Formbook decoy domain
+2024-05-03,Network activity,domain,www.xn--yzyp76d.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.mindfreak.live,Formbook decoy domain
+2024-05-03,Network activity,domain,www.tonyvcomments.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.donumul.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.berryandbird.co.uk,Formbook decoy domain
+2024-05-03,Network activity,domain,www.beersekes.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.realestateni.co.uk,Formbook decoy domain
+2024-05-03,Network activity,domain,www.insist.site,Formbook decoy domain
+2024-05-03,Network activity,domain,www.insertcoen.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.exp-ai.io,Formbook decoy domain
+2024-05-03,Network activity,domain,www.mqojosell.shop,Formbook decoy domain
+2024-05-03,Network activity,domain,www.9pkmir2.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.mxgovonline.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.luckydomainz.shop,Formbook decoy domain
+2024-05-03,Network activity,domain,www.kader42.top,Formbook decoy domain
+2024-05-03,Network activity,domain,www.promo3.com.br,Formbook decoy domain
+2024-05-03,Network activity,domain,www.ordinarythoughts.org,Formbook decoy domain
+2024-05-03,Network activity,domain,www.jdps.org,Formbook decoy domain
+2024-05-03,Network activity,domain,www.malechgroup.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.t11griyatenis.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.peakclothing.nl,Formbook decoy domain
+2024-05-03,Network activity,domain,www.versegenai.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.choosejungmann.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.weave.game,Formbook decoy domain
+2024-05-03,Network activity,domain,www.387mfyr.sbs,Formbook decoy domain
+2024-05-03,Network activity,domain,www.premiumsystemshk.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.indfas.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.szdfquojq.store,Formbook decoy domain
+2024-05-03,Network activity,domain,www.hylob.lat,Formbook decoy domain
+2024-05-03,Network activity,domain,www.mz3fk6g3.sbs,Formbook decoy domain
+2024-05-03,Network activity,domain,www.greengrowthgazette.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.jrksa.info,Formbook decoy domain
+2024-05-03,Network activity,domain,www.runonbattery.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.visualizebrewing.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.baronbubbol.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.facesofhoustontx.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.isitbedtime.org,Formbook decoy domain
+2024-05-03,Network activity,domain,www.avocatmh.org,Formbook decoy domain
+2024-05-03,Network activity,domain,www.55zxw.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.iventims.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.handytopservices.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.timesrenewables.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.nurenose.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.aprovapapafox.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.cawthonisland.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.gruppofidanza.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.cricutsbyclaire.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.docsimoveis.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.happymarts.top,Formbook decoy domain
+2024-05-03,Network activity,domain,www.isanarugby.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.glyph.marketing,Formbook decoy domain
+2024-05-03,Network activity,domain,www.colchondealquiler.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.siottt.co.kr,Formbook decoy domain
+2024-05-03,Network activity,domain,www.grimfilm.co.kr,Formbook decoy domain
+2024-05-03,Network activity,domain,www.p79ty.top,Formbook decoy domain
+2024-05-03,Network activity,domain,www.prizesupermarket.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.beldecor.net,Formbook decoy domain
+2024-05-03,Network activity,domain,www.menmart.pk,Formbook decoy domain
+2024-05-03,Network activity,domain,www.onitsuka-ksa.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.wlscommunications.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.trabnyvideosx.com,Formbook decoy domain
+2024-05-03,Network activity,domain,www.l7aeh.us,Formbook decoy domain
+2024-05-03,Network activity,url,http://www.threesomeapps.com/gnto/,FormBook C2 URL
+2024-05-03,Network activity,domain,www.threesomeapps.com,FormBook C2 domain
+2024-05-03,Payload delivery,malware-sample,Potrdilo o plačilu_20240501105753.txz|d5bfb917c84916496a9101c7837ce398,
+2024-05-03,Payload delivery,filename,Potrdilo o plačilu_20240501105753.txz,
+2024-05-03,Payload delivery,md5,d5bfb917c84916496a9101c7837ce398,
+2024-05-03,Payload delivery,sha1,64445d86dca4c284f3fe2f25331c39216476ef71,
+2024-05-03,Payload delivery,sha256,ec49ce03a7c078c9e49a45f55e424d4727f67ccd6fb8bd744a9ce20fe50c0785,
+2024-05-03,Other,size-in-bytes,94872,
+2024-05-03,Payload delivery,malware-sample,Potrdilo o plačilu_20240501105753.vbs|5c7e4886e009c7d2908ec633bf48cf8e,
+2024-05-03,Payload delivery,filename,Potrdilo o plačilu_20240501105753.vbs,
+2024-05-03,Payload delivery,md5,5c7e4886e009c7d2908ec633bf48cf8e,
+2024-05-03,Payload delivery,sha1,72e9f5c65571b19402febfa7f36fc6ee5ce9a0f3,
+2024-05-03,Payload delivery,sha256,c950aba2061fbb90b63122bec04b71764966e5554b6cd40114772c392464f748,
+2024-05-03,Other,size-in-bytes,215050,
+2024-05-03,Payload delivery,malware-sample,Ommestrup.deploy|c7906dd3affb5ab9d5b82f6e14064c4b,
+2024-05-03,Payload delivery,filename,Ommestrup.deploy,
+2024-05-03,Payload delivery,md5,c7906dd3affb5ab9d5b82f6e14064c4b,
+2024-05-03,Payload delivery,sha1,bdc1903a713b8e82e10d1acada68110988885416,
+2024-05-03,Payload delivery,sha256,1be80920d652fc9bf4cd1a46eefcded743b7d37b3eed7c13446974119bbd1795,
+2024-05-03,Other,size-in-bytes,464360,
+2024-05-03,Payload delivery,malware-sample,payload.bin|a9223ffaa8e631126d1b3b5fb93f7c76,
+2024-05-03,Payload delivery,filename,payload.bin,
+2024-05-03,Payload delivery,md5,a9223ffaa8e631126d1b3b5fb93f7c76,
+2024-05-03,Payload delivery,sha1,3dfe8c752aa314dda586e0749a3187cb5106fa3f,
+2024-05-03,Payload delivery,sha256,a25448aaf2429c94d73f4c70fd2c911caee8f8e86dc91fad94c61223fd4e1eb0,
+2024-05-03,Other,size-in-bytes,269888,
+2024-05-03,Payload installation,malware-sample,54F2C849-formbook.exe|8f7059bee1568409180f9ed13211d201,
+2024-05-03,Payload installation,filename,54F2C849-formbook.exe,
+2024-05-03,Payload installation,md5,8f7059bee1568409180f9ed13211d201,
+2024-05-03,Payload installation,sha1,f5af12af249773b8e4de62cebdf3db5c3c7884c2,
+2024-05-03,Payload installation,sha256,7052dba60dd9b99cdacc74fe3d954eff7393f814634ab02006382e5891fb0e46,
+2024-05-03,Other,size-in-bytes,269824,

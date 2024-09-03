@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-05-17]
+| UUID: 33978218-021d-4d6e-ab85-0a5d0ef3e73c
+| Date: 2024-05-17
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-17,Payload installation,filename,COSU636.pdf.exe,Source: MalwareBazaar
+2024-05-17,Payload installation,md5,4fd26a9d8c021aac5b9e1bf2b31a3bfd,Source: MalwareBazaar
+2024-05-17,Payload installation,sha1,41ceeed2eb2c787e9421a72bea969e19781ae277,Source: MalwareBazaar
+2024-05-17,Payload installation,sha256,2e70696732ae7b8af81532560895685bab737a103bc399f0ab1636d5cc7b8b64,Source: MalwareBazaar

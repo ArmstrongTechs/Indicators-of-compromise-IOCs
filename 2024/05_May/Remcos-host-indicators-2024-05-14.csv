@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-05-14]
+| UUID: 44d17610-9f65-46d4-8b84-a9d227c872fb
+| Date: 2024-05-15
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-14,Payload installation,filename,Shipping Document.P.df.exe,Source: MalwareBazaar
+2024-05-14,Payload installation,md5,43832ccc8ceca159daa9c54f73d0874c,Source: MalwareBazaar
+2024-05-14,Payload installation,sha1,3c938e668eca8112ef2f0feea62f0e748604f44f,Source: MalwareBazaar
+2024-05-14,Payload installation,sha256,3cc37a5f2bcaa0711a615462d187625dfbaf4d69130858543758027dd4278d5f,Source: MalwareBazaar
+2024-05-14,Payload installation,filename,Tech.group AG PO attached.xls,Source: MalwareBazaar
+2024-05-14,Payload installation,md5,a07706b0b327ff9f0cb761ca40060b36,Source: MalwareBazaar
+2024-05-14,Payload installation,sha1,cf0f0055a5b5533eab039cf7ff3b57940c780f36,Source: MalwareBazaar
+2024-05-14,Payload installation,sha256,6e963b4725ef3b496e360de8a39bd2ca7231a7de9f31a8d52eb11822efc9c14c,Source: MalwareBazaar
+2024-05-14,Payload installation,filename,FOTO MULTA NACIONAL.vbs,Source: MalwareBazaar
+2024-05-14,Payload installation,md5,d95eabed34211baf3a51a065da91624e,Source: MalwareBazaar
+2024-05-14,Payload installation,sha1,241c5f97864bb7be9e3e7c6bef10d431529c1a6b,Source: MalwareBazaar
+2024-05-14,Payload installation,sha256,ed2f316c4cbe7a03a3a42751724212dac2028cf096e4abff06f6e36a211f3a93,Source: MalwareBazaar
+2024-05-15,Payload installation,filename,HGTQP09643009.scr,Source: MalwareBazaar
+2024-05-15,Payload installation,md5,c8b0899dd51c7516316ed413771e71c4,Source: MalwareBazaar
+2024-05-15,Payload installation,sha1,e9e407a9a7f7655940b1a7b48ac02b740d004004,Source: MalwareBazaar
+2024-05-15,Payload installation,sha256,841200c9e115b489adb33d27e4fcd1f6769609e5c378a45ef1d371200bd9a41c,Source: MalwareBazaar

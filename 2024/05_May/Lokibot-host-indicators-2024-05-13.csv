@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-05-13]
+| UUID: 4b02c49e-b1be-407e-b005-86b82e68b826
+| Date: 2024-05-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-13,Payload installation,filename,heathzx.scr.exe,Source: MalwareBazaar
+2024-05-13,Payload installation,md5,ef7dcebf0a73f49ded7f17ba4b3c1597,Source: MalwareBazaar
+2024-05-13,Payload installation,sha1,e2f6a9664fe8b53e82932491a963f3b3a15dc8a1,Source: MalwareBazaar
+2024-05-13,Payload installation,sha256,120cacb24dddf38d691c51a2f8fcce313574c5edbe35d00bae9d654968d7389a,Source: MalwareBazaar

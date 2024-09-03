@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Azorult host indicators [2024-05-16]
+| UUID: 3caacdae-2053-4109-a1f2-8bd4fea13b4b
+| Date: 2024-05-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-16,Payload installation,filename,IMG79600253.exe,Source: MalwareBazaar
+2024-05-16,Payload installation,md5,2451fe4d6f61c5160d2c938c144a8a53,Source: MalwareBazaar
+2024-05-16,Payload installation,sha1,ab101316ff60cda1b7a4bfc1d535c234c0d60936,Source: MalwareBazaar
+2024-05-16,Payload installation,sha256,9c4b7f8a8732beb18b38ad4a4a853727cfb3da38666b45c4051c76801536bf22,Source: MalwareBazaar

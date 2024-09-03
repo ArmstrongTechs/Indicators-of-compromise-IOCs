@@ -1,0 +1,17 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: BNP Paribas Fortis Phishing
+| UUID: 22724345-1a1d-4253-90fd-25335649daaf
+| Date: 2024-05-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-29,Payload delivery,email-src,tayfa123@gradlspitz.at,
+2024-05-29,Payload delivery,email-subject,Remplacement Obligatoire de Votre Lecteur de Carte avant le 31 Mai 2024 !!!,
+2024-05-29,Payload delivery,url,https://integratedcollision.com/wp-content/diricte/,
+2024-05-29,Payload delivery,url,https://bnpbaribassbe-e3987xcygt.live-website.com/wp-content/bbm/index.php,
+2024-05-29,Payload delivery,hostname,bnpbaribassbe-e3987xcygt.live-website.com,
+2024-05-29,Network activity,hostname,one.sharafdg.net,
+2024-05-29,Network activity,url,https://one.sharafdg.net/bnb/config/fun.php,

@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-05-28]
+| UUID: c36cbe73-746b-45cc-8f4f-2462bfb804ea
+| Date: 2024-05-28
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-28,Payload installation,filename,Maersk_Quotation.exe,Source: MalwareBazaar
+2024-05-28,Payload installation,md5,1b275f5b53b912b6f9f4944b426471a9,Source: MalwareBazaar
+2024-05-28,Payload installation,sha1,e8fd9fec2eec13035730944c892ade741a663b84,Source: MalwareBazaar
+2024-05-28,Payload installation,sha256,ed444e4abc5aa906302b3e79ca09c94b8320e23af176384799a2020344de4700,Source: MalwareBazaar
+2024-05-28,Payload installation,filename,SecuriteInfo.com.Win32.TrojanX-gen.5924.5319,Source: MalwareBazaar
+2024-05-28,Payload installation,md5,92bb15f033596b58c278b601da671d65,Source: MalwareBazaar
+2024-05-28,Payload installation,sha1,b3e4a2be1c5c616c7e63a3ad9f00b4423bb96dfa,Source: MalwareBazaar
+2024-05-28,Payload installation,sha256,a931d90917d9b468079b068260dcda537beb7d51fb68048f783d2baa80118803,Source: MalwareBazaar

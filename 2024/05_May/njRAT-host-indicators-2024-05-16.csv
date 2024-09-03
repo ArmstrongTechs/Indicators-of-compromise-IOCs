@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2024-05-16]
+| UUID: 17e33809-903b-4aee-8f5b-88d340c69ac2
+| Date: 2024-05-17
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-16,Payload installation,filename,E894BE211121E94B4DB38ED34E2EE3D1.exe,Source: MalwareBazaar
+2024-05-16,Payload installation,md5,e894be211121e94b4db38ed34e2ee3d1,Source: MalwareBazaar
+2024-05-16,Payload installation,sha1,ff4a3315c8f67c7103e780f2935620a1dfb24b97,Source: MalwareBazaar
+2024-05-16,Payload installation,sha256,72e9105cade1c5f92dad850ce2ffcf4792ae86e3f0039187bf2fbfb0bd949ff9,Source: MalwareBazaar
+2024-05-17,Payload installation,filename,ITB-4422-HG-MR-PKG2-REQMT-SPEC-Rev0.exe,Source: MalwareBazaar
+2024-05-17,Payload installation,md5,c268abdde91ae0e28f2272d2606a3d9b,Source: MalwareBazaar
+2024-05-17,Payload installation,sha1,30e15b4bc40192f98af5b2cb088b8e2a79af89f2,Source: MalwareBazaar
+2024-05-17,Payload installation,sha256,c52c6d6ea2de4840848a63dca6946a7242d7a2c5f918afe41f271c6aecf3a0af,Source: MalwareBazaar
+2024-05-17,Payload installation,filename,13250af4c4805609eac2980c4aedb7f8.exe,Source: MalwareBazaar
+2024-05-17,Payload installation,md5,13250af4c4805609eac2980c4aedb7f8,Source: MalwareBazaar
+2024-05-17,Payload installation,sha1,d5b86ba9192eaa6b48b66f837e476df2f59fb6c3,Source: MalwareBazaar
+2024-05-17,Payload installation,sha256,7454c11de16577f7375b4ec11bb7e541f5646347954d8ba10450c1cf5777db65,Source: MalwareBazaar

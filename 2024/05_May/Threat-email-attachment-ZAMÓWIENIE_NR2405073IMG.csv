@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Threat email attachment: ZAMÓWIENIE_NR.2405073.IMG
+| UUID: fc03b18c-57a5-4854-89f0-990db0d2d8de
+| Date: 2024-05-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-16,Payload delivery,sha256,dddd54631af1495a354db65198d47ee6621b29e3f0f8d24996180abe458f2df1,Attachment ZAMÓWIENIE_NR.2405073.IMG
+2024-05-16,Payload delivery,email-subject,ZAMÓWIENIA NR. 2405073,Email subject
+2024-05-16,Payload delivery,email-attachment,ZAMÓWIENIE_NR.2405073.IMG,Email attachment
+2024-05-16,Payload delivery,ip-src,195.201.222.159,Email sender IP address

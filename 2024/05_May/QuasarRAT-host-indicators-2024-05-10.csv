@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-05-10]
+| UUID: 481a6f02-638c-4f14-a308-76fde5cf754b
+| Date: 2024-05-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-10,Payload installation,filename,datasheet_Required Quote.iso,Source: MalwareBazaar
+2024-05-10,Payload installation,md5,34cb6023991abd923e3917d54a104223,Source: MalwareBazaar
+2024-05-10,Payload installation,sha1,078cd9c561cf266fcfc1e942b28d37a9cedfff8d,Source: MalwareBazaar
+2024-05-10,Payload installation,sha256,51ff2e33ec8f6a035fa47bec47f948223963cb030f2891520abd28bbc30a45a7,Source: MalwareBazaar
+2024-05-10,Payload installation,filename,datasheet_Required Quote.exe,Source: MalwareBazaar
+2024-05-10,Payload installation,md5,7baca9c65d7abb17e0ba1f98b51e75e6,Source: MalwareBazaar
+2024-05-10,Payload installation,sha1,53a32ecd0f1d3409556e51e5eb8b9457c3fe9c79,Source: MalwareBazaar
+2024-05-10,Payload installation,sha256,dd377dd727d3cd23165119db0d24474c795c80de9df465508f931678a2b8499c,Source: MalwareBazaar

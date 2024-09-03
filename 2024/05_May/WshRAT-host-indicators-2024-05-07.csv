@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: WshRAT host indicators [2024-05-07]
+| UUID: 228c44b3-1f2f-4898-911b-a814289d5e6c
+| Date: 2024-05-08
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-08,Payload installation,filename,Invoice Payment N8977823.js,Source: MalwareBazaar
+2024-05-08,Payload installation,md5,2299cd103202899b48a32a317f58192d,Source: MalwareBazaar
+2024-05-08,Payload installation,sha1,f813552dffb221b7cfaf356d571bf6468b9e58aa,Source: MalwareBazaar
+2024-05-08,Payload installation,sha256,2027db19e08f49cb365ca8523145ff5ce77bf4b4430075c3bf274f4a4f3f789b,Source: MalwareBazaar
+2024-05-08,Payload installation,filename,Invoice-883973938.js,Source: MalwareBazaar
+2024-05-08,Payload installation,md5,df7e2ec3ee72ab7a80d2542807ea0c25,Source: MalwareBazaar
+2024-05-08,Payload installation,sha1,21f70badfff73f0b55d417d08438236f3e7cfd52,Source: MalwareBazaar
+2024-05-08,Payload installation,sha256,e8b589ab580205d0a3cf61367dc5e818aa2a7a90973b95de55502ff6c5853e27,Source: MalwareBazaar
+2024-05-08,Payload installation,filename,Pending_Invoice_Bank_Details_XLSX.js,Source: MalwareBazaar
+2024-05-08,Payload installation,md5,146543805fbb1a73135ca00f2899118f,Source: MalwareBazaar
+2024-05-08,Payload installation,sha1,f13878fd653431ab505ee248abe931880faab471,Source: MalwareBazaar
+2024-05-08,Payload installation,sha256,b4420793217d8bd201ba7f61b863873c7ec1befa308d9eea52b90cb2cbc4d1a9,Source: MalwareBazaar

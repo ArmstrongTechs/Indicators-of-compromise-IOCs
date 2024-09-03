@@ -1,0 +1,56 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Access to Important Accounts Receivable Documents - From: [REDACTED]@pkobp.pl"" Campaign"
+| UUID: 1950f796-fcea-48f3-a09c-32e9441ccd51
+| Date: 2024-05-15
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-15,Payload delivery,email-src,[redacted]@pkobp.pl,Source email: from [REDACTED]@pkobp.pl - subject: Access to Important Accounts Receivable Documents; spoofing
+2024-05-15,Payload delivery,email-src-display-name,Accounts Receivable via SharePoint,Source email: from [REDACTED]@pkobp.pl - subject: Access to Important Accounts Receivable Documents
+2024-05-15,Payload delivery,email-body,"Dear [REDACTED] 
+
+I hope this message finds you well. To ensure smooth processing of our financial transactions, 
+
+I have shared a folder on SharePoint Online containing important accounts receivable documents, including invoices and payment confirmations.
+
+Please review the documents and get back to me if there are any questions or concerns.",Source email: from [REDACTED]@pkobp.pl - subject: Access to Important Accounts Receivable Documents
+2024-05-15,Payload delivery,email-subject,Access to Important Accounts Receivable Documents,Source: from [REDACTED]@pkobp.pl - subject: Access to Important Accounts Receivable Documents
+2024-05-15,Payload delivery,filename|sha256,Pkobp  invoices and transaction summaries.html|8531bbec51929d0a362c70b0ecea4591e241f9b62b017066589c83d9120cad9d,Malspam attachment - source: from [REDACTED]@pkobp.pl - subject: Access to Important Accounts Receivable Documents mime: text/html
+2024-05-15,Payload delivery,filename|ssdeep,Pkobp  invoices and transaction summaries.html|384:K4adM+Q+8xHIniuNx9UbZpEdJAC2i0Azl0:KBhz8xonrUbwr8i0AzK,Malspam attachment - source: from [REDACTED]@pkobp.pl - subject: Access to Important Accounts Receivable Documents mime: text/html
+2024-05-15,Payload delivery,filename|sha1,Pkobp  invoices and transaction summaries.html|f56c32615655ee3395f72175b52886642b816aa6,Malspam attachment - source: from [REDACTED]@pkobp.pl - subject: Access to Important Accounts Receivable Documents mime: text/html
+2024-05-15,Payload delivery,filename|sha512,Pkobp  invoices and transaction summaries.html|741c655de8e6b380de86c2bb29829b2eb8e90786c6d12f7a27f6248167e6f6b372da4c92c21eafd6799ccf9b7c10a6d0940a57b61280c18fb974686bca5ae8ed,Malspam attachment - source: from [REDACTED]@pkobp.pl - subject: Access to Important Accounts Receivable Documents mime: text/html
+2024-05-15,Payload delivery,filename|md5,Pkobp  invoices and transaction summaries.html|108471f56da9b6c82f5734a17a2d00e1,Malspam attachment - source: from [REDACTED]@pkobp.pl - subject: Access to Important Accounts Receivable Documents mime: text/html
+2024-05-15,Payload delivery,url,https://textjdbimanrminiall.pages.dev/404.js,URL source: Pkobp  invoices and transaction summaries.html
+2024-05-15,Payload delivery,filename|md5,404.js|39c486448590dcb5750446ee272a7b4d,Downloaded from https://textjdbimanrminiall.pages.dev/404.js; mime: text/plain
+2024-05-15,Payload delivery,filename|sha1,404.js|c2889f9c5a58170f962640bc720ad079e192a1a0,Downloaded from https://textjdbimanrminiall.pages.dev/404.js; mime: text/plain
+2024-05-15,Payload delivery,filename|sha256,404.js|a850cbe890d684edbc8514c29f7dae8aad71a08544077130cf4c7fca68cc9a74,Downloaded from https://textjdbimanrminiall.pages.dev/404.js; mime: text/plain
+2024-05-15,Payload delivery,filename|sha512,404.js|bcdf8a23e776ba7606fed395fbe42f3d85b1eb275352c1c7abbe2902cf9a6399771a6f46083b61d487eed3a83fe239d12c128de69548b74e7feeef18ae382c33,Downloaded from https://textjdbimanrminiall.pages.dev/404.js; mime: text/plain
+2024-05-15,Payload delivery,filename|ssdeep,404.js|768:gTtBtT8A/x9xoGZl2Ju6pfKM1K2nkAPPrQAt11JN/n5K0euRhZsn04Mpu+SN:ghsg770T5dpu+o,Downloaded from https://textjdbimanrminiall.pages.dev/404.js; mime: text/plain
+2024-05-15,Payload delivery,filename|imphash,PWD.EXE|e84d11c378c8e8f83080cc0f510539d2,Extracted from https://www.uzunovic.org/js/xc/PWD.EXE; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|md5,PWD.EXE|33224e2807bb07f42df62cd3fac74b63,Extracted from https://www.uzunovic.org/js/xc/PWD.EXE; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|sha1,PWD.EXE|07b88c4b95405547cc9bf142400bd471d20ffdbb,Extracted from https://www.uzunovic.org/js/xc/PWD.EXE; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|sha256,PWD.EXE|87fa8e0f6d8d5e479c691724e5c1068ef390a4f2984c38c20d1c4564e787639d,Extracted from https://www.uzunovic.org/js/xc/PWD.EXE; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|sha512,PWD.EXE|f9a006a7c92cc7923b01d9f58a97c993bd215fbe7800cb8e97a75792015190e3b37f6a202aae53197342eaf599f330d7286e3cabaee9adae376e9230cf39a72a,Extracted from https://www.uzunovic.org/js/xc/PWD.EXE; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|ssdeep,PWD.EXE|12288:rvEADaOSxS1U2qlCjcMcoXkQrK5jq/Qtje2EEYzVp3Amwz2:4ADaOSxkdqNFoXkQrKQ/QFOQz,Extracted from https://www.uzunovic.org/js/xc/PWD.EXE; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|md5,Pkobp 3512C Doc.js|c8b4efbf7ede4e5741be5e2ae2462b3b,Dropped by Pkobp  invoices and transaction summaries.html; mime: text/plain
+2024-05-15,Payload delivery,filename|sha1,Pkobp 3512C Doc.js|dc077b682365eef97c0ced977916fcb117743cf6,Dropped by Pkobp  invoices and transaction summaries.html; mime: text/plain
+2024-05-15,Payload delivery,filename|sha256,Pkobp 3512C Doc.js|deec2bd866af640bcaecd5357f54da87dd045c8017a8f8a76ac0068ce43eebaa,Dropped by Pkobp  invoices and transaction summaries.html; mime: text/plain
+2024-05-15,Payload delivery,filename|sha512,Pkobp 3512C Doc.js|eb98175eb0486b17ac217e5380ec771666d176fde50a3ecf416aafb2cef7b0e91ec8386417519b51f69fa381834571fbaae1f92a9baec0dc53d80515da5446d6,Dropped by Pkobp  invoices and transaction summaries.html; mime: text/plain
+2024-05-15,Payload delivery,filename|ssdeep,Pkobp 3512C Doc.js|192:pRn5hokWxcYy0AkSsDX5VF30Ver0O86+ISMquF4dOryL:fnckWx2kSsDX5P3L7+ISMq24dOryL,Dropped by Pkobp  invoices and transaction summaries.html; mime: text/plain
+2024-05-15,Network activity,url,https://api.telegram.org/bot7198128499:AAHSvX4jW6n9t45ItKyUTcn3TOm2bCJdS-s/sendMessage,Source: Network activity from Pkobp  invoices and transaction summaries.html
+2024-05-15,Network activity,url,https://json.geoiplookup.io/,Source: Network activity from Pkobp  invoices and transaction summaries.html
+2024-05-15,Network activity,url,https://pastie.io/raw/dfwqlz,Source: Network activity from Pkobp  invoices and transaction summaries.html
+2024-05-15,Network activity,url,https://pastie.io/raw/qjuriz,Source: Network activity from Pkobp  invoices and transaction summaries.html
+2024-05-15,Network activity,url,https://pastie.io/raw/rlcqft,Source: Network activity from Pkobp  invoices and transaction summaries.html
+2024-05-15,Network activity,url,https://vbwindowsdefnkmebe.pages.dev/windows.exe,Source: Network activity from Pkobp 3512C Doc.js
+2024-05-15,Network activity,url,https://www.uzunovic.org/js/xc/PWD.EXE,Source: Network activity from windows.exe
+2024-05-15,Network activity,url,https://www.uzunovic.org/js/xc/upload.php,Source: Network activity from windows.exe
+2024-05-15,Payload delivery,filename|imphash,windows.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Extracted from https://vbwindowsdefnkmebe.pages.dev/windows.exe; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|md5,windows.exe|ef0124f238734460752a0de9e85501bc,Extracted from https://vbwindowsdefnkmebe.pages.dev/windows.exe; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|sha1,windows.exe|8dcbd7b8c753329ffc4a68a4bac8c3ab5ba62dfb,Extracted from https://vbwindowsdefnkmebe.pages.dev/windows.exe; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|sha256,windows.exe|4a299f5b0de81d51e75d45e9b49e830e4230346329d9ed15197ddf1ac2853644,Extracted from https://vbwindowsdefnkmebe.pages.dev/windows.exe; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|sha512,windows.exe|6aa0476b378bf34eb274ef2b62d8cb12f2c5014cae0e02a6ffea55e4c0fd009e07f8816b23bb6ad2ed57a0a8173668ae3c24f94bcecd131348c5347510fcac3c,Extracted from https://vbwindowsdefnkmebe.pages.dev/windows.exe; mime: application/x-dosexec
+2024-05-15,Payload delivery,filename|ssdeep,windows.exe|24576:Qlrjm7Kt49nF49dqHsuCF04Q/qqO4NcAU3AFje+4VF9KfhtvI71TQcJWIK6u:v,Extracted from https://vbwindowsdefnkmebe.pages.dev/windows.exe; mime: application/x-dosexec

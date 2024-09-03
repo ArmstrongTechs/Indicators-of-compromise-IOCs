@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-05-12]
+| UUID: b4d0c291-7918-4114-89af-4ed0c150d822
+| Date: 2024-05-12
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-13,Payload installation,filename,DHL Shipment Notification.Pif,Source: MalwareBazaar
+2024-05-13,Payload installation,md5,98dd653d55e14fbf65014a34d0fdfbfb,Source: MalwareBazaar
+2024-05-13,Payload installation,sha1,1ed44a201cfbd0e71c6914611e6a3719983106d7,Source: MalwareBazaar
+2024-05-13,Payload installation,sha256,c589547a1987c7040021637fc2f8d0ab73de5e339d502b071a448de95d59b105,Source: MalwareBazaar
+2024-05-13,Payload installation,filename,5905855fa208b13d86efa3aeea0a87a1,Source: MalwareBazaar
+2024-05-13,Payload installation,md5,5905855fa208b13d86efa3aeea0a87a1,Source: MalwareBazaar
+2024-05-13,Payload installation,sha1,ec187dc673cb1ce42a6f576532afb7616331eb2e,Source: MalwareBazaar
+2024-05-13,Payload installation,sha256,080fe92c2d597b085286c85ecca2036953c073bd81a29a2d32d5cb139d99bbd9,Source: MalwareBazaar

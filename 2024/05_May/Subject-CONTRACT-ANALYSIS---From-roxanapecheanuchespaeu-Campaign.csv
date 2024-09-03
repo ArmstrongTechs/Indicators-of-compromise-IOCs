@@ -1,0 +1,41 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: CONTRACT ANALYSIS - From: roxana.pecheanu@chespa.eu"" Campaign"
+| UUID: 905021ae-bebc-4d90-8939-414148435160
+| Date: 2024-05-07
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-07,Payload delivery,email-src,roxana.pecheanu@chespa.eu,Source email: from roxana.pecheanu@chespa.eu - subject: CONTRACT ANALYSIS
+2024-05-07,Payload delivery,email-src-display-name,Roxana Pecheanu,Source email: from roxana.pecheanu@chespa.eu - subject: CONTRACT ANALYSIS
+2024-05-07,Payload delivery,email-body,"Good Morning 
+
+Kindly review the attached contract document and return signed and stamped to proceed 
+
+Cu respect / Üdvözlettel / Best regards 
+Roxana Pecheanu 
+Assistent Manager 
+Chespa Transilvania 
+[ http://www.chespa.eu/ | www.chespa.eu ] 
+[REDACTED]
+Tel. +40 740 210 260",Source email: from roxana.pecheanu@chespa.eu - subject: CONTRACT ANALYSIS
+2024-05-07,Payload delivery,email-subject,CONTRACT ANALYSIS,Source: from roxana.pecheanu@chespa.eu - subject: CONTRACT ANALYSIS
+2024-05-07,Payload delivery,filename|sha256,CONTRACT.IMG|a25562587f3a5cf1b702932dd1f09db1625c4c7183ef1870a44ec1b741253804,Malspam attachment - source: from roxana.pecheanu@chespa.eu - subject: CONTRACT ANALYSIS mime: application/x-iso9660-image
+2024-05-07,Payload delivery,filename|ssdeep,CONTRACT.IMG|24576:3fLa4jpjvo6FlDoxZqm+Ao5J1f1a1cMzrpLAX:ve4l7l+v+hJ1f1KcMxA,Malspam attachment - source: from roxana.pecheanu@chespa.eu - subject: CONTRACT ANALYSIS mime: application/x-iso9660-image
+2024-05-07,Payload delivery,filename|sha1,CONTRACT.IMG|ac8dae62e7ea12930c27c1c7d719c2882ec72062,Malspam attachment - source: from roxana.pecheanu@chespa.eu - subject: CONTRACT ANALYSIS mime: application/x-iso9660-image
+2024-05-07,Payload delivery,filename|sha512,CONTRACT.IMG|21aef56011390d6e53d13bf047f016d2eb862afa2bdad3116005d742261f49e62e603435578d97987720277b4245ac7a2e6a1adbad11f28f568021f46434347d,Malspam attachment - source: from roxana.pecheanu@chespa.eu - subject: CONTRACT ANALYSIS mime: application/x-iso9660-image
+2024-05-07,Payload delivery,filename|md5,CONTRACT.IMG|feb3f899b4b6a38eb39877f735ea98bb,Malspam attachment - source: from roxana.pecheanu@chespa.eu - subject: CONTRACT ANALYSIS mime: application/x-iso9660-image
+2024-05-07,Payload delivery,filename|imphash,CONTRACT-pdf.exe|f4639a0b3116c2cfc71144b88a929cfd,Extracted from CONTRACT.IMG; mime: application/x-dosexec
+2024-05-07,Payload delivery,filename|md5,CONTRACT-pdf.exe|f5a0c9960aa9216a654a1a87cbd189d6,Extracted from CONTRACT.IMG; mime: application/x-dosexec
+2024-05-07,Payload delivery,filename|sha1,CONTRACT-pdf.exe|e82396743f92983ff59ae491dd4b994add9c1e49,Extracted from CONTRACT.IMG; mime: application/x-dosexec
+2024-05-07,Payload delivery,filename|sha256,CONTRACT-pdf.exe|9aae1ee3f1d52f65f0de702a027e18d630316ae12b0d91366b8fce49d90518c8,Extracted from CONTRACT.IMG; mime: application/x-dosexec
+2024-05-07,Payload delivery,filename|sha512,CONTRACT-pdf.exe|a301037c820ab82b03d8a61bc8799fdadd3dad6513282b1ec2e68a2de5d88223c19fc932f1554b65b6bc977d179aee891bad91ff177920f3e6e3c8ee9c814100,Extracted from CONTRACT.IMG; mime: application/x-dosexec
+2024-05-07,Payload delivery,filename|ssdeep,CONTRACT-pdf.exe|24576:NfLa4jpjvo6FlDoxZqm+Ao5J1f1a1cMzrpLAXa:Ze4l7l+v+hJ1f1KcMxAq,Extracted from CONTRACT.IMG; mime: application/x-dosexec
+2024-05-07,Payload delivery,filename|md5,EX.bin|6b9ca5077b500eda2aec5db4fc7b899c,Downloaded from http://ralucamihaela.ro/EX.bin; mime: application/octet-stream
+2024-05-07,Payload delivery,filename|sha1,EX.bin|ded31cd6bc30627fcc7bba641394c515ee7881a4,Downloaded from http://ralucamihaela.ro/EX.bin; mime: application/octet-stream
+2024-05-07,Payload delivery,filename|sha256,EX.bin|9624b53b54b048c5e0b0c3340a5ad260e29f8ffd7745453f8bc9f011eaa9d57e,Downloaded from http://ralucamihaela.ro/EX.bin; mime: application/octet-stream
+2024-05-07,Payload delivery,filename|sha512,EX.bin|22883782745dc38cdc679f2db26d325c8e7408d9ebabb17cdc3078db17fa9476526af92a0b4da5e3b9f7dc092f9f6e0f38daa5018756547b68729f466c381a17,Downloaded from http://ralucamihaela.ro/EX.bin; mime: application/octet-stream
+2024-05-07,Payload delivery,filename|ssdeep,EX.bin|6144:FFXbQm1u3B/nMWQFUK0eZIYb4lT/dVWbvbeKE8LNy2Ymn:FFXh1OB/nWXZD8T/WbvyKx64,Downloaded from http://ralucamihaela.ro/EX.bin; mime: application/octet-stream
+2024-05-07,Network activity,url,http://ralucamihaela.ro/EX.bin,Source: Network activity from CONTRACT-pdf.exe

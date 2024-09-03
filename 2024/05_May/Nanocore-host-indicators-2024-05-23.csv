@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Nanocore host indicators [2024-05-23]
+| UUID: cf5482b5-6a9b-4e1b-b2ae-7f4a5460bc7f
+| Date: 2024-05-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-23,Payload installation,filename,14239732dbddfe922c297fdeac56a062.exe,Source: MalwareBazaar
+2024-05-23,Payload installation,md5,14239732dbddfe922c297fdeac56a062,Source: MalwareBazaar
+2024-05-23,Payload installation,sha1,3f4f6454c4a2c1c5d1e10d5f841ce14eef00a785,Source: MalwareBazaar
+2024-05-23,Payload installation,sha256,1805439355f48464312b4f9c0e16301c5f211c204e197c2000e7342c8db95c00,Source: MalwareBazaar
+2024-05-24,Payload installation,filename,SecuriteInfo.com.Win32.PWSX-gen.4131.2756,Source: MalwareBazaar
+2024-05-24,Payload installation,md5,ced4bd90abb0a4964629c7531c5a805c,Source: MalwareBazaar
+2024-05-24,Payload installation,sha1,a3d338f4ca5fb9dac24c09a7f58da074c54cf27d,Source: MalwareBazaar
+2024-05-24,Payload installation,sha256,9c91a1b8c4da2d7588f3aecd76cdee7dba24d95f0874f79fa711c0b0a490e273,Source: MalwareBazaar

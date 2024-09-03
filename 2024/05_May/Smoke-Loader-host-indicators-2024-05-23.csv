@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Smoke Loader host indicators [2024-05-23]
+| UUID: c723136a-37a3-4bbb-8332-42fb8b689cb9
+| Date: 2024-05-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-24,Payload installation,filename,92c57dd80b764a028749520017d44e76,Source: MalwareBazaar
+2024-05-24,Payload installation,md5,92c57dd80b764a028749520017d44e76,Source: MalwareBazaar
+2024-05-24,Payload installation,sha1,f732220adaacf23de6cc69d964341766d2e350d9,Source: MalwareBazaar
+2024-05-24,Payload installation,sha256,dbd741a45d840d06d708339f9e9824f2a0d745ea6537ca44bff233ba7441bfda,Source: MalwareBazaar
+2024-05-24,Payload installation,filename,Накладная.rtf,Source: MalwareBazaar
+2024-05-24,Payload installation,md5,1f2d795ca29afadf24325cfbb3f60e4e,Source: MalwareBazaar
+2024-05-24,Payload installation,sha1,d5e05bf7300a09b6706082907e726b0d5a09e550,Source: MalwareBazaar
+2024-05-24,Payload installation,sha256,616476ce3c35d67b5edbb73b6c8965d5894f404f90074add16986f8d5c81d6f0,Source: MalwareBazaar
+2024-05-24,Payload installation,filename,Платіжна інструкція № 472.rtf,Source: MalwareBazaar
+2024-05-24,Payload installation,md5,0bd1328012301d04bdc921acb321b820,Source: MalwareBazaar
+2024-05-24,Payload installation,sha1,724612a3c88f187aa000efe4ff4e9e04c9553696,Source: MalwareBazaar
+2024-05-24,Payload installation,sha256,7be9ef61632edc0f2fc6ad59d64ad69dbffbd05013a80ab1dfbb6bd8a6090b66,Source: MalwareBazaar

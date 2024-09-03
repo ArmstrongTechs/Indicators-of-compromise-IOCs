@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Threat email attachment: ref458278QAC remittance.doc
+| UUID: f76618ed-4677-4f77-9b3a-051b93598624
+| Date: 2024-05-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-21,Payload delivery,sha256,49eae141b85b2dee809a1e86df1518d2d32a79367cf1a01f55f98c98d32f59ce,Attachment ref458278QAC remittance.doc
+2024-05-21,Payload delivery,email-subject,RE: Invoice #458278QAC balance payment receipt,Email subject
+2024-05-21,Payload delivery,email-attachment,ref458278QAC remittance.doc,Email attachment
+2024-05-21,Payload delivery,ip-src,8.39.147.39,Email sender IP address

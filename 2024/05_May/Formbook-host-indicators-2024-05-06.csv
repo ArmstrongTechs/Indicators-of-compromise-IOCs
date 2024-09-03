@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-05-06]
+| UUID: 234742a9-148a-4d1c-8051-c11a302ec007
+| Date: 2024-05-06
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-06,Payload installation,filename,INQUIRY#46789_MAY24_PLANEX_SERVICES_CONTRACTING_GOOD.exe,Source: MalwareBazaar
+2024-05-06,Payload installation,md5,bc5970be4b34b2917734e63146813ee5,Source: MalwareBazaar
+2024-05-06,Payload installation,sha1,b7f570455086ca3d8508c65067a8045359261d1d,Source: MalwareBazaar
+2024-05-06,Payload installation,sha256,b2fce55e1fa2d0318475ae7691451dbd083e1fdb7cebb9d128544102ce8762cd,Source: MalwareBazaar
+2024-05-06,Payload installation,filename,Umbral.exe,Source: MalwareBazaar
+2024-05-06,Payload installation,md5,afbe250f9d941daf1fc895e29d0b2821,Source: MalwareBazaar
+2024-05-06,Payload installation,sha1,9aeaa55efa56702a0c2694ff2de3a5c6df7b03ac,Source: MalwareBazaar
+2024-05-06,Payload installation,sha256,628d7cd6016b226c4e5e5252b29dc89e42d30ffebfb489e36857079aad591ce6,Source: MalwareBazaar

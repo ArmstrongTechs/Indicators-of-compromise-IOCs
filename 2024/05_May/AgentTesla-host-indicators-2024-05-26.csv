@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-05-26]
+| UUID: 084cb217-5f09-4fa1-9811-8ef3c21fb276
+| Date: 2024-05-26
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-26,Payload installation,filename,Shipping Docs.7z,Source: MalwareBazaar
+2024-05-26,Payload installation,md5,3d54f9c542858a00d6698c3c5edc201a,Source: MalwareBazaar
+2024-05-26,Payload installation,sha1,25795f6be34eadc48dbcfab7a27b048031804f26,Source: MalwareBazaar
+2024-05-26,Payload installation,sha256,24c1e2053d04c74896bd24a0a2a7dce4c79c5553f13fca9744c14048e8976a37,Source: MalwareBazaar

@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AveMariaRAT host indicators [2024-05-10]
+| UUID: f1c80807-5c9e-4b59-bb51-3930ec1e560c
+| Date: 2024-05-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-10,Payload installation,filename,PO-46564343.exe,Source: MalwareBazaar
+2024-05-10,Payload installation,md5,b2c650f3a8e5745c8a832b2a0b18a399,Source: MalwareBazaar
+2024-05-10,Payload installation,sha1,39140b79507c5af0b91ef864129ae3598373e061,Source: MalwareBazaar
+2024-05-10,Payload installation,sha256,6f68da459050effdc1e643ec81bec63c3860f0ea1c333a1cd451c11c8c08856c,Source: MalwareBazaar
+2024-05-10,Payload installation,filename,WuklW,Source: MalwareBazaar
+2024-05-10,Payload installation,md5,c9c9469f0eca81eaf97d28da0910ae36,Source: MalwareBazaar
+2024-05-10,Payload installation,sha1,f32ee286fa61dfa5e8c397875b71ad7cb7c9d225,Source: MalwareBazaar
+2024-05-10,Payload installation,sha256,dbf293d123fe98900bda70549ce336f08f5ff99372d5f8dca4869376bf068416,Source: MalwareBazaar
+2024-05-10,Payload installation,filename,GsjNF,Source: MalwareBazaar
+2024-05-10,Payload installation,md5,d5ef5e35651162a6531f1477501d0f05,Source: MalwareBazaar
+2024-05-10,Payload installation,sha1,965cc26f0effdfd1ef06bc6acd7c002c54bc6780,Source: MalwareBazaar
+2024-05-10,Payload installation,sha256,3d604965a230567a10bc5b88e9a261369e21e64c8bbced5b280da0683dd0abd8,Source: MalwareBazaar

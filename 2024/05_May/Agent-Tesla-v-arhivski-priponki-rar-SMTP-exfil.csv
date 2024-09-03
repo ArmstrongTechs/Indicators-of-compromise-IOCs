@@ -1,0 +1,37 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Agent Tesla v arhivski priponki .rar (SMTP exfil)
+| UUID: d2d16b20-9563-4c6f-ac4c-ce56f6c6e4fd
+| Date: 2024-05-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-27,Network activity,email-dst,office.csof@proton.me,SMTP Exfil
+2024-05-27,Network activity,domain,mail.xpl.co.nz,SMTP Exfil
+2024-05-27,Network activity,email-src,martin@xpl.co.nz,SMTP Exfil
+2024-05-24,Payload delivery,malware-sample,RFQ 1.exe|b83a6713728f46f6355c75d05bec7211,
+2024-05-24,Payload delivery,filename,RFQ 1.exe,
+2024-05-24,Payload delivery,md5,b83a6713728f46f6355c75d05bec7211,
+2024-05-24,Payload delivery,sha1,a6d9a0f262596cc59b7e5c68743e766045a20fcf,
+2024-05-24,Payload delivery,sha256,7845739be7bf4d602cbaa0f0a900bea3c631c439eb57fe53d92b3686c49c4b80,
+2024-05-24,Other,size-in-bytes,1024000,
+2024-05-27,Payload delivery,malware-sample,Quote UPDATE  27-05-24.rar|deb16e4f603aee9abcf71c2c121e42af,
+2024-05-27,Payload delivery,filename,Quote UPDATE  27-05-24.rar,
+2024-05-27,Payload delivery,md5,deb16e4f603aee9abcf71c2c121e42af,
+2024-05-27,Payload delivery,sha1,c1838916d96db36c2c8592343c3188263cddfb11,
+2024-05-27,Payload delivery,sha256,f8d927de136d4931525d3f2e87e56857b8fee3d1c583252590d83b796f9c0c75,
+2024-05-27,Other,size-in-bytes,635602,
+2024-05-27,Payload delivery,malware-sample,Quote UPDATE  27-05-24.exe|b3c53357727f2e32a91f3227c1d8dcab,
+2024-05-27,Payload delivery,filename,Quote UPDATE  27-05-24.exe,
+2024-05-27,Payload delivery,md5,b3c53357727f2e32a91f3227c1d8dcab,
+2024-05-27,Payload delivery,sha1,9ca7f0d2c440a9c24c0b29e0ac279745d6574478,
+2024-05-27,Payload delivery,sha256,6c9584b7d767f0f501110370bdae4460614644157fb1e0a8ef77096d58b96e69,
+2024-05-27,Other,size-in-bytes,704512,
+2024-05-27,Payload delivery,malware-sample,RFQ#1046.rar|937cf9c1c08736efc9eab45dea6b5948,
+2024-05-27,Payload delivery,filename,RFQ#1046.rar,
+2024-05-27,Payload delivery,md5,937cf9c1c08736efc9eab45dea6b5948,
+2024-05-27,Payload delivery,sha1,d7d2e7e6a2aee477b4a04dda46097f2817aa9236,
+2024-05-27,Payload delivery,sha256,3a03d6771c5d597dc7e3169a059cdbe0217b0b9f0ef2c195fd7a09ba3fa07161,
+2024-05-27,Other,size-in-bytes,664853,

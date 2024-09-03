@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Threat email attachment: Zapytanie ofertowe ZNG_1406_MG_2024_004782922.pdf.lzh
+| UUID: d2adfd45-b968-43b2-8663-52292be42310
+| Date: 2024-05-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-16,Payload delivery,sha256,c9283e4e9d43fa129dfd2aa716c6580cd2f505ac25982cf6830f0f525f842282,Attachment Zapytanie ofertowe ZNG_1406_MG_2024_004782922.pdf.lzh
+2024-05-16,Payload delivery,email-subject,Zapytanie ofertowe // ZNG_1406/MG/2024_004782922.pdf,Email subject
+2024-05-16,Payload delivery,email-attachment,Zapytanie ofertowe ZNG_1406_MG_2024_004782922.pdf.lzh,Email attachment
+2024-05-16,Payload delivery,ip-src,82.118.22.121,Email sender IP address

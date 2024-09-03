@@ -1,0 +1,96 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: RE: RE: NEW ORDER (URGENT) - From: alma@kameror.com"" Campaign"
+| UUID: 677182e3-1aa7-410e-bf61-c586d6270e27
+| Date: 2024-05-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-21,Payload delivery,email-src,alma@kameror.com,Source email: from alma@kameror.com - subject: RE: RE: NEW ORDER (URGENT)
+2024-05-21,Payload delivery,email-src-display-name,RONGSHENG PETROCHEMICAL (SINGAPORE) PTE. LTD.,Source email: from alma@kameror.com - subject: RE: RE: NEW ORDER (URGENT)
+2024-05-21,Payload delivery,email-body,"Dear Sir ,
+
+Please how urgent can we get the attached order supply to us
+
+Our customer is in urgent need of this order
+
+your prompt response will be appreciate
+
+Please indicate your payment terms with bank details,
+
+
+Best Regards
+
+
+RONGSHENG PETROCHEMICAL (SINGAPORE) PTE. LTD.
+
+12 Marina Boulevard MBFC Tower 3, #31-02 Singapore 018982
+
+TEL +65 6812 8388 FAX +65 6812 8389
+
+DID +65 6812 8360 HP +65 9807 5189
+
+email:  [REDACTED]",Source email: from alma@kameror.com - subject: RE: RE: NEW ORDER (URGENT)
+2024-05-21,Payload delivery,email-subject,RE: RE: NEW ORDER (URGENT),Source: from alma@kameror.com - subject: RE: RE: NEW ORDER (URGENT)
+2024-05-21,Payload delivery,filename|sha256,NEW ORDER.rar|4127b832524038199e84d4bb07ab5322a27bd04cc9f06bdcf7eae055e1729ee0,Malspam attachment - source: from alma@kameror.com - subject: RE: RE: NEW ORDER (URGENT) mime: application/x-rar
+2024-05-21,Payload delivery,filename|ssdeep,NEW ORDER.rar|12288:4EMA1tjzRpFZOYMzTqz1IutJaKyTBSkOd6zy583oMNQ+z/F6oHsLeFXVckd5zL:3MA3jzHF41PqJI24KGBSkfW584MN9/DD,Malspam attachment - source: from alma@kameror.com - subject: RE: RE: NEW ORDER (URGENT) mime: application/x-rar
+2024-05-21,Payload delivery,filename|sha1,NEW ORDER.rar|89942899dec231d674903a6238d04384945acb81,Malspam attachment - source: from alma@kameror.com - subject: RE: RE: NEW ORDER (URGENT) mime: application/x-rar
+2024-05-21,Payload delivery,filename|sha512,NEW ORDER.rar|4a72b1347c941d40ecf6d46c9a8cfeb091e56dd8806395a9085361e0045a1bfa2cb345b2510e3b924ab7b1cee685151d48171496a3e7e12e8fb302e52a17d5f9,Malspam attachment - source: from alma@kameror.com - subject: RE: RE: NEW ORDER (URGENT) mime: application/x-rar
+2024-05-21,Payload delivery,filename|md5,NEW ORDER.rar|fd1fe4f5e84cdee8aabfe371ce8a4999,Malspam attachment - source: from alma@kameror.com - subject: RE: RE: NEW ORDER (URGENT) mime: application/x-rar
+2024-05-21,Payload delivery,filename|sha1,NEW ORDER.exe|bf5bfa7cad3e57298cfd7da0f949d787e1ec5a56,Archive contents - source: NEW ORDER.rar mime: application/x-dosexec
+2024-05-21,Payload delivery,filename|imphash,NEW ORDER.exe|afcdf79be1557326c854b6e20cb900a7,Archive contents - source: NEW ORDER.rar mime: application/x-dosexec
+2024-05-21,Payload delivery,filename|ssdeep,NEW ORDER.exe|24576:hAHnh+eWsN3skA4RV1Hom2KXMmHauG0nfSNJ6B5:4h+ZkldoPK8YauRfSNJE,Archive contents - source: NEW ORDER.rar mime: application/x-dosexec
+2024-05-21,Payload delivery,filename|sha256,NEW ORDER.exe|4192a5b742d522aa79043df8ccec12dec727dfa0462d9796c54931486c023f85,Archive contents - source: NEW ORDER.rar mime: application/x-dosexec
+2024-05-21,Payload delivery,filename|sha512,NEW ORDER.exe|94b8a53efe04c25100c2f0504c4210aa50c06b54e7004513ea7505020a5629a1bcc1b7a51f213a8efa9deffecd2d4d180fa5f8b13694d516e80f74993f542aa5,Archive contents - source: NEW ORDER.rar mime: application/x-dosexec
+2024-05-21,Payload delivery,filename|md5,NEW ORDER.exe|7ebb99f45e7ce85150759b6d84c62bc0,Archive contents - source: NEW ORDER.rar mime: application/x-dosexec
+2024-05-21,Network activity,domain,387mfyr.sbs,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,83634.cn,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Payload delivery,filename|md5,86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe|cde7bb2422917b7953ab01dcdd7564e1,Extracted from NEW ORDER.exe; mime: application/x-dosexec
+2024-05-21,Payload delivery,filename|sha1,86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe|f914a8e39c19464b9f7cdadd501d64e046d801d6,Extracted from NEW ORDER.exe; mime: application/x-dosexec
+2024-05-21,Payload delivery,filename|sha256,86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe|86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119,Extracted from NEW ORDER.exe; mime: application/x-dosexec
+2024-05-21,Payload delivery,filename|sha512,86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe|5d03b9fde9dc501b1416902c6d0d955f3823128df5402444b2faa424a30df1d064aa235ec4086c5531f89c11afacdbebb1744db7348a2b7d06ee50a57b4eb2dc,Extracted from NEW ORDER.exe; mime: application/x-dosexec
+2024-05-21,Payload delivery,filename|ssdeep,86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe|6144:vb5PMtYi7gFToKyQV668cyBrRjJxyKoQtUNu:vbwY/cKyDccjyJJNu,Extracted from NEW ORDER.exe; mime: application/x-dosexec
+2024-05-21,Network activity,domain,a-two-spa-salon.com,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,aros.team,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,beersekes.com,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,binances.in,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,bookofgay.com,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,brothedboil.com,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,carliente.com,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,century21morenoycia.mx,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,classitouch.com,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,clean-and-shine.online,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,colchondealquiler.com,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,corvidemporium.com,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,cravestaffing.co.uk,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,curty.se,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,docsimoveis.com,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,facesofhoustontx.com,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,gast.com.pl,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,healfromaddiction.com,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,heldhold.life,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,holein1sa.com,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,insertcoen.com,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,jnjcelebrations.in,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,jthzbrdb.fun,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,kansaiwoody.com,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,l7aeh.us,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,lenslaser.com,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,maxiwalls.com,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,metaltable.shop,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,mqojosell.shop,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,mz3fk6g3.sbs,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,paydayloans3.shop,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,premiumsystemshk.com,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,respirelavie.net,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,shawarmaabuhasan.com,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,shun-yamagata.com,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,siottt.co.kr,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,tadalapviquamsponma.ru,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,tavernadoheroi.store,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,tondex.finance,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,upasqyw.com,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,valentinaetommaso.it,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain
+2024-05-21,Network activity,domain,yamegoart.com,Source: Network activity from 86016157fd5ccf6f0dae241d0eaffe6c8ac90da0ec6ab2d314cd131332029119.exe; Decoy domain

@@ -1,0 +1,41 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Your Document - From: Jenny@gsd.com"" Campaign"
+| UUID: e43ddd2d-c066-43a5-b405-433c47a16236
+| Date: 2024-05-07
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-07,Payload delivery,email-src,jenny@gsd.com,Source email: from Jenny@gsd.com - subject: Your Document
+2024-05-07,Payload delivery,email-src-display-name,Jenny Green,Source email: from Jenny@gsd.com - subject: Your Document
+2024-05-07,Payload delivery,email-body,"Hello, you can find your document in the attachment.
+
+Please reply as soon as possible.
+
+Kind regards, GSD Support.",Source email: from Jenny@gsd.com - subject: Your Document
+2024-05-07,Payload delivery,email-subject,Your Document,Source: from Jenny@gsd.com - subject: Your Document
+2024-05-07,Payload delivery,filename|sha256,Document.zip|1c5fd7bf511885054464124142f793501ab2c6e987b203c1a5f4b3bdcccb1fa1,Malspam attachment - source: from Jenny@gsd.com - subject: Your Document mime: application/zip
+2024-05-07,Payload delivery,filename|ssdeep,Document.zip|384:11eHg+swKKn8633ZVi0e+HodnIVmz60aUZldx5Yekj:XePLLN3mWSSHonzG,Malspam attachment - source: from Jenny@gsd.com - subject: Your Document mime: application/zip
+2024-05-07,Payload delivery,filename|sha1,Document.zip|50087bb06cb7218f21a271c3d6722f9db9706f77,Malspam attachment - source: from Jenny@gsd.com - subject: Your Document mime: application/zip
+2024-05-07,Payload delivery,filename|sha512,Document.zip|d51754886b6dc081db3a06644da81d7444c9aa018f52e2625640b8e2066f315bd1dd2767fb4d6b335303b71e792138eb4b0818914e8d38b12e15b2d328900e05,Malspam attachment - source: from Jenny@gsd.com - subject: Your Document mime: application/zip
+2024-05-07,Payload delivery,filename|md5,Document.zip|92f1d2d6a205b151b78aa98ccf32abf3,Malspam attachment - source: from Jenny@gsd.com - subject: Your Document mime: application/zip
+2024-05-07,Payload delivery,filename|sha1,Document.doc.scr|d483d2515c55e74c1ddf76dd095b3fb1c8320b73,Archive contents - source: Document.zip mime: application/x-dosexec
+2024-05-07,Payload delivery,filename|imphash,Document.doc.scr|795ac0c8980e7eada30923a008ec96ec,Archive contents - source: Document.zip mime: application/x-dosexec
+2024-05-07,Payload delivery,filename|ssdeep,Document.doc.scr|384:uI4c41g5axWYwwp0G1Ls1QuCm6Ee9nlAnXX5G6ow54gmQhDLU67L2Ro0VxdaA+Yg:Kx1g5a4iNps1Qum3OIdGX,Archive contents - source: Document.zip mime: application/x-dosexec
+2024-05-07,Payload delivery,filename|sha256,Document.doc.scr|0cc54ffd005b4d3d048e72f6d66bcc1ac5a7a511ab9ecf59dc1d2ece72c69e85,Archive contents - source: Document.zip mime: application/x-dosexec
+2024-05-07,Payload delivery,filename|sha512,Document.doc.scr|dccf8bd4b23ad28117211a2c61567ce9101e173f6feb0c6ebb885d3aaf4292b06e4dd96b97d606f396727b0f6c01384c3487e24306b74aef5243f5dec511f982,Archive contents - source: Document.zip mime: application/x-dosexec
+2024-05-07,Payload delivery,filename|md5,Document.doc.scr|a1784aa6993af25cb55a36154a954649,Archive contents - source: Document.zip mime: application/x-dosexec
+2024-05-07,Payload delivery,filename|md5,MIuB4Jpci.README.txt|b4709a56b9d7f431da172316cda720be,Dropped by lbb.exe; mime: text/plain
+2024-05-07,Payload delivery,filename|sha1,MIuB4Jpci.README.txt|d2132f7129a7003ec4c0392f0f08cd24ea353da6,Dropped by lbb.exe; mime: text/plain
+2024-05-07,Payload delivery,filename|sha256,MIuB4Jpci.README.txt|192d1e6078570865531e8a4c9840a483c4a2ac35fe468107284991f6da813191,Dropped by lbb.exe; mime: text/plain
+2024-05-07,Payload delivery,filename|sha512,MIuB4Jpci.README.txt|e390d51e95db5e56c666a2895dc87dab41d97e7ce3c0df1f2466abf14a651167232521ab5f52746d16bab0ef14e6c0ee9dcfe29894604d695b0d064909378227,Dropped by lbb.exe; mime: text/plain
+2024-05-07,Payload delivery,filename|ssdeep,MIuB4Jpci.README.txt|6:keepXC1C8N/nfZ5eYzCk7R0tGBiSujHue34gq3FV9zzzBHLCED06INSNs/gJlKbL:bGgfZUqbl8ZTOhg+0ED0nNErJeBn,Dropped by lbb.exe; mime: text/plain
+2024-05-07,Network activity,url,http://193.233.132.177/lbb.exe,Source: Network activity from Document.doc.scr
+2024-05-07,Payload delivery,filename|imphash,lbb.exe|41fb8cb2943df6de998b35a9d28668e8,Downloaded from http://193.233.132.177/lbb.exe; mime: application/x-dosexec
+2024-05-07,Payload delivery,filename|md5,lbb.exe|e990e7571cdb06c5d0f093176cecf414,Downloaded from http://193.233.132.177/lbb.exe; mime: application/x-dosexec
+2024-05-07,Payload delivery,filename|sha1,lbb.exe|409fc0816adbf05ac1586112044401ecb90c8022,Downloaded from http://193.233.132.177/lbb.exe; mime: application/x-dosexec
+2024-05-07,Payload delivery,filename|sha256,lbb.exe|a18a6bacc0d8b1dd4544cdf1e178a98a36b575b5be8b307c27c65455b1307616,Downloaded from http://193.233.132.177/lbb.exe; mime: application/x-dosexec
+2024-05-07,Payload delivery,filename|sha512,lbb.exe|9719fb45a0cd79ba8d51c3d052fe76dcb6d1b5b677a5398cc4fdbe6373d8763d2b0c3375929f41c5a0e46237b4a3f660b0b7f6a4f8a24ea47d52074da69baa64,Downloaded from http://193.233.132.177/lbb.exe; mime: application/x-dosexec
+2024-05-07,Payload delivery,filename|ssdeep,lbb.exe|3072:A6glyuxE4GsUPnliByocWepzdBaChENI/NBpke:A6gDBGpvEByocWelq+V,Downloaded from http://193.233.132.177/lbb.exe; mime: application/x-dosexec

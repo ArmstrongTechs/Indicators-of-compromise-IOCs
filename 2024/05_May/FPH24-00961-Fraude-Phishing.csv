@@ -1,0 +1,19 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00961 [Fraude] [Phishing]
+| UUID: b854cede-c613-4c06-a7ec-04028858a2f1
+| Date: 2024-05-28
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-29,External analysis,text,"En el CSIRT de Gobierno encontramos una nueva campaña de phishing. Los siguientes son los detalles.
+
+En esta campaña, los delincuentes envían un email falso que simula pertenecer al Ministerio del Interior y Seguridad Publica. ¡No hagas clic!En el email malicioso, los delincuentes indican falsamente a la víctima lo siguiente:&quot;Fallo en la entrega de su correo el mensaje fue detenido por el servidor de correo.&quot;El correo electrónico incluye un enlace a un formulario para capturar credenciales de usuarios.",Resumen
+2024-05-29,Network activity,ip-src,45.137.22.144,IP SMTP
+2024-05-29,Payload delivery,url,https://cloudflare-ipfs.com/ipfs/bafkreifsywq3tkrz26zoy7afydj73vkbnsd4jrqg7qyntoe7m4xibpdvyq?filename=Login-INBOX%2520%25281%2529last.html#{Correo electronico},URL sitio falso
+2024-05-29,Payload delivery,email-src,mailer-daemon@host2.i4dots.com,Correo de salida
+2024-05-29,Payload delivery,email-subject,Undeliverable: Outgoing mail failed,Asunto del correo
+2024-05-29,External analysis,attachment,2024-05-28_11h32_02.png,
+2024-05-29,External analysis,attachment,2024-05-28_11h34_03.png,

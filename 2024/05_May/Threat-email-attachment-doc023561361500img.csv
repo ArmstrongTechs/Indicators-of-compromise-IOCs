@@ -1,0 +1,15 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Threat email attachment: doc023561361500.img
+| UUID: 2e60772e-2899-47dd-91b8-a570965bbb4d
+| Date: 2024-05-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-10,Payload delivery,sha256,64bde59ef911c7bafd294910047f8264498e067b9f187f341a5dfe3c56a2f0d2,Attachment doc023561361500.img
+2024-05-10,Payload delivery,email-src,imports@royalproduction.hu,Email sender
+2024-05-10,Payload delivery,email-subject,Wysyłanie dodatkowego zamówienia nr. 20241005-00073 2024-05-10 - RS ENGINEERING S.C.,Email subject
+2024-05-10,Payload delivery,email-attachment,doc023561361500.img,Email attachment
+2024-05-10,Payload delivery,ip-src,62.112.193.224,Email sender IP address

@@ -1,0 +1,38 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Ransomware Group LockBit host indicators [2024-05-24]
+| UUID: db4670f0-d89e-4911-87d8-0b9f4704f68c
+| Date: 2024-05-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-25,Payload installation,filename,0ea60d1ef2e6e5cff1e312e7ecd9df3146ddb87a81ede58fc74987df93288b31,Source: MalwareBazaar
+2024-05-25,Payload installation,md5,668e75099ba454fa1cca10da33a9684a,Source: MalwareBazaar
+2024-05-25,Payload installation,sha1,0adeef58c872f8fd1143070cff8fb2415a258189,Source: MalwareBazaar
+2024-05-25,Payload installation,sha256,0ea60d1ef2e6e5cff1e312e7ecd9df3146ddb87a81ede58fc74987df93288b31,Source: MalwareBazaar
+2024-05-25,Payload installation,filename,ae378e9945904bf8b4c090d697fe2395a511ed2a36176ddfb7530f22dfc32ac8,Source: MalwareBazaar
+2024-05-25,Payload installation,md5,1813e42a2e7867866ae3644ce0f342a7,Source: MalwareBazaar
+2024-05-25,Payload installation,sha1,739ae80603b8c2d86c35aa59050341995fec4817,Source: MalwareBazaar
+2024-05-25,Payload installation,sha256,ae378e9945904bf8b4c090d697fe2395a511ed2a36176ddfb7530f22dfc32ac8,Source: MalwareBazaar
+2024-05-25,Payload installation,filename,7bb3816e58d8a956b13aac53f75f762442a9849cd0ab324be6334e9a5e4b718f,Source: MalwareBazaar
+2024-05-25,Payload installation,md5,0f878dfe1534672d7236b1268ff7a8df,Source: MalwareBazaar
+2024-05-25,Payload installation,sha1,05f04be9b9afc3f5823c5ed6f4911f25d7a464c5,Source: MalwareBazaar
+2024-05-25,Payload installation,sha256,7bb3816e58d8a956b13aac53f75f762442a9849cd0ab324be6334e9a5e4b718f,Source: MalwareBazaar
+2024-05-25,Payload installation,filename,7f0e85440e7ec1f44a4f827475e93d2e5dc101f66f2068ca71af9beaf9a75800,Source: MalwareBazaar
+2024-05-25,Payload installation,md5,e01ea8093ebe546ea93a1274112bf18b,Source: MalwareBazaar
+2024-05-25,Payload installation,sha1,593e63f9b46b3551fc3671ce17426cafbb26ebe5,Source: MalwareBazaar
+2024-05-25,Payload installation,sha256,7f0e85440e7ec1f44a4f827475e93d2e5dc101f66f2068ca71af9beaf9a75800,Source: MalwareBazaar
+2024-05-25,Payload installation,filename,83600bb9bb3eba4ca5d64a300bcdb8bc9c988570f5acdb6aecae77f4f75d2e68,Source: MalwareBazaar
+2024-05-25,Payload installation,md5,9251dd806a703d4a6b388e504e5020f3,Source: MalwareBazaar
+2024-05-25,Payload installation,sha1,a9c78679a7effe14bac6b0fe440af504c50d7d1f,Source: MalwareBazaar
+2024-05-25,Payload installation,sha256,83600bb9bb3eba4ca5d64a300bcdb8bc9c988570f5acdb6aecae77f4f75d2e68,Source: MalwareBazaar
+2024-05-25,Payload installation,filename,bcea9c692ea75839ea142f9b441130f636e17ed203a44157a18e97e4cf69b11c,Source: MalwareBazaar
+2024-05-25,Payload installation,md5,6ffd1236c99efee9da474d2f8a34f46e,Source: MalwareBazaar
+2024-05-25,Payload installation,sha1,df0fe67580fdbb4700c946c4000f847e2a7f579c,Source: MalwareBazaar
+2024-05-25,Payload installation,sha256,bcea9c692ea75839ea142f9b441130f636e17ed203a44157a18e97e4cf69b11c,Source: MalwareBazaar
+2024-05-25,Payload installation,filename,b880c184a1c9a3b02e845d258c2e80a216a196bc6f4326312416a895bbdde4af,Source: MalwareBazaar
+2024-05-25,Payload installation,md5,11b5fbdfa82ecc8cda2db7176ad90f8d,Source: MalwareBazaar
+2024-05-25,Payload installation,sha1,cde81f9cea46a18e78cbf2e7d9b5aa9719b26dd0,Source: MalwareBazaar
+2024-05-25,Payload installation,sha256,b880c184a1c9a3b02e845d258c2e80a216a196bc6f4326312416a895bbdde4af,Source: MalwareBazaar

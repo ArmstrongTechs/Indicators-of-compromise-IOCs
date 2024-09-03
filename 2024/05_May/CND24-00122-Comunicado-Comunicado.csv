@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: CND24-00122 [Comunicado] [Comunicado]
+| UUID: 20d42323-bd7c-4af7-9cea-b97028788b1f
+| Date: 2024-05-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-25,External analysis,text,"Desde el CSIRT de Gobierno te informamos lo siguiente:
+
+Si recibe este correo electrónico, por favor no haga clic en su contenido y elimínelo inmediatamente. Si es posible, repórtelo a https://csirt.gob.cl/reportar o a incidentes@interior.gob.cl.",Resumen
+2024-05-25,Payload delivery,email-subject,Alerta: Sus datos personales podrían estar comprometidos,Asunto
+2024-05-25,Payload delivery,url,https://www.csirtgob.com/reporte_leaks/search?rid=XXXX,URL sitio falso
+2024-05-25,Payload delivery,email-src,noreply@csirtgob.com,Remitente correo falso
+2024-05-25,External analysis,attachment,sitio.png,Sitio Falso de ClaveÚnica
+2024-05-25,External analysis,attachment,csirtcorreo.png,Correo electrónico fraudulento

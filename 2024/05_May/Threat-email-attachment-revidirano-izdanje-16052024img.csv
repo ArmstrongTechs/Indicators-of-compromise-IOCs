@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Threat email attachment: revidirano izdanje 16052024.img
+| UUID: ce05e78a-2b25-4af0-8876-3a4f6d12be54
+| Date: 2024-05-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-16,Payload delivery,sha256,73ff457488de50b22168527c2482be32525a97d2dbc34b5b6738023deda232be,Attachment revidirano izdanje 16052024.img
+2024-05-16,Payload delivery,email-subject,Plavnik SAC Pro Forma zahtjev (revidirano izdanje).,Email subject
+2024-05-16,Payload delivery,email-attachment,revidirano izdanje 16052024.img,Email attachment

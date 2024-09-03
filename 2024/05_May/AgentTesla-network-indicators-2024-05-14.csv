@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla network indicators [2024-05-14]
+| UUID: 40e122c4-ce32-4893-8d4c-483f924002df
+| Date: 2024-05-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-14,Network activity,url,http://192.227.173.67/Ifeanyi.exe,Source: urlhaus
+2024-05-14,Network activity,url,http://94.156.8.210/akurg.exe,Source: urlhaus
+2024-05-15,Network activity,url,https://drive.usercontent.google.com/download?id=1tH7AoznUycw_Rg7fFroLdQqNSgR_FRyL&export=download,Source: urlhaus

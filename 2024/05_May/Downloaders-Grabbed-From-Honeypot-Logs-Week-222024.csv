@@ -1,0 +1,25 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Downloaders Grabbed From Honeypot Logs (Week 22/2024)
+| UUID: 8f300bbe-2937-445d-a2ce-3cc2e138e0a1
+| Date: 2024-05-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-07,Payload delivery,url,http://216.250.247.185/bins.sh,
+2024-05-07,Network activity,ip-dst,216.250.247.185,
+2024-05-14,Payload delivery,url,ftp://anonymous:anonymous@167.114.127.92/telnet,
+2024-05-14,Payload delivery,url,http://167.114.127.92/sh,
+2024-05-14,Network activity,ip-dst,167.114.127.92,
+2024-05-14,Payload delivery,url,tftp://42.4.116.84/.i,
+2024-05-14,Network activity,ip-dst,42.4.116.84,
+2024-05-14,Payload delivery,url,tftp://79.117.11.60/.i,
+2024-05-14,Network activity,ip-dst,79.117.11.60,
+2024-05-17,Payload delivery,url,http://221.161.230.2:59016/.i,
+2024-05-17,Network activity,ip-dst,221.161.230.2,
+2024-05-25,Payload delivery,url,http://45.166.33.140:24074/.i,
+2024-05-25,Network activity,ip-dst,45.166.33.140,
+2024-05-27,Payload delivery,url,http://178.215.236.209/zatoempire.sh,
+2024-05-27,Network activity,ip-dst,178.215.236.209,

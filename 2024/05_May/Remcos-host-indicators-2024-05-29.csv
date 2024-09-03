@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-05-29]
+| UUID: 888d4917-aaf8-4a4b-93de-faf1385dd57a
+| Date: 2024-05-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-29,Payload installation,filename,Quotation.exe,Source: MalwareBazaar
+2024-05-29,Payload installation,md5,b408a3e79df21addbf0430a0d9737dd4,Source: MalwareBazaar
+2024-05-29,Payload installation,sha1,3835b846f44caeaad3d56316ee2b91ecf1a3a603,Source: MalwareBazaar
+2024-05-29,Payload installation,sha256,3ee9a227efbf608c46d1724eb05e9e7e09eb3142bcc6faa9b669852c25fced10,Source: MalwareBazaar
+2024-05-29,Payload installation,filename,New Order.tar.gz,Source: MalwareBazaar
+2024-05-29,Payload installation,md5,26b14d6179cbf69fb701a8aa715638c3,Source: MalwareBazaar
+2024-05-29,Payload installation,sha1,b507e90c8646f3184e5bb87a277de94b8295a473,Source: MalwareBazaar
+2024-05-29,Payload installation,sha256,01b2d5d0aa1983cbebbf914e2ad0ccd29c40fe0d5c2b18dd66adfa225a7124a6,Source: MalwareBazaar
+2024-05-29,Payload installation,filename,SecuriteInfo.com.Win32.Malware-gen.15631.13525,Source: MalwareBazaar
+2024-05-29,Payload installation,md5,684a463a40e1a2aee38a6962c74b616c,Source: MalwareBazaar
+2024-05-29,Payload installation,sha1,28753eefcd58235cebcbb02022d8904e85cb0b67,Source: MalwareBazaar
+2024-05-29,Payload installation,sha256,4c378e9882887333eec32ba2176a34cf5427f85b52cc3a40268325739f7fb80e,Source: MalwareBazaar

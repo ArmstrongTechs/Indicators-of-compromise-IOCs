@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: WshRAT host indicators [2024-05-13]
+| UUID: 436f07b3-3ed5-4f32-bc38-3a7dafa510a2
+| Date: 2024-05-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-13,Payload installation,filename,Quarantine_Reports.JS,Source: MalwareBazaar
+2024-05-13,Payload installation,md5,70a617fd2bdb08c64a65ecfba1612140,Source: MalwareBazaar
+2024-05-13,Payload installation,sha1,d41eec4cb2f449b845d3f4fa3baf80086705bba6,Source: MalwareBazaar
+2024-05-13,Payload installation,sha256,cc10da7e2a5c074cc559ed0f19a4880ae171a44b0039a5d3caadfd326db714fc,Source: MalwareBazaar

@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-05-26]
+| UUID: 7ab01b69-3a19-4cf3-ab10-80b17d4b0cd3
+| Date: 2024-05-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-26,Payload installation,filename,FedEx_776282383902.rar,Source: MalwareBazaar
+2024-05-26,Payload installation,md5,2c7becb5427f451813a5247f8a49efe8,Source: MalwareBazaar
+2024-05-26,Payload installation,sha1,170b6e84776cafc67550e7899803daf1b965e73f,Source: MalwareBazaar
+2024-05-26,Payload installation,sha256,45a3ad069fa6234688bd7fc7fdfc863fac02e3f2fd23f89ef20c04a3885a88bd,Source: MalwareBazaar
+2024-05-27,Payload installation,filename,MV XH DOLPHINPDF.exe,Source: MalwareBazaar
+2024-05-27,Payload installation,md5,e3d3d93759a0552c63ec2c3ccbf6c383,Source: MalwareBazaar
+2024-05-27,Payload installation,sha1,cfa0d6279822bc75a22e54e3dcb6e378a0772605,Source: MalwareBazaar
+2024-05-27,Payload installation,sha256,31607008c03354cf7b6b21d8d3ecc31186e39a92dca54c0c26c30ecd85957cec,Source: MalwareBazaar

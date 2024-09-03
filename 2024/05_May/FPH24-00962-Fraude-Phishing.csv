@@ -1,0 +1,20 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00962 [Fraude] [Phishing]
+| UUID: 52f14b7b-eb06-42d1-b580-cab24810c47e
+| Date: 2024-05-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-29,External analysis,text,"En el CSIRT de Gobierno encontramos una nueva campaña de phishing. Los siguientes son los detalles.
+
+En esta campaña, los delincuentes envían un email fraudulenco con un falso aviso de falta de almacenamiento. ¡No hagas clic!En el email malicioso, los delincuentes indican falsamente a la víctima lo siguiente:&quot;Su correo electrónico ha excedido el límite de almacenamiento establecido por el administrador.&quot;El correo electrónico incluye un enlace a un formulario para capturar credenciales de usuarios.",Resumen
+2024-05-29,Network activity,ip-src|port,168.101.51.189|37087,IP SMTP
+2024-05-29,Network activity,ip-src,34.117.60.144,IP sitio web
+2024-05-29,Payload delivery,email-subject,Atención,Asunto del correo
+2024-05-29,Payload delivery,url,https://msellagolan001.wixsite.com/validar,URL sitio falso
+2024-05-29,Payload delivery,email-src,postemergencia-bcie@mecon.gov.ar,Correo de salida
+2024-05-29,External analysis,attachment,2024-05-28_14h26_08.png,
+2024-05-29,External analysis,attachment,2024-05-28_14h26_35.png,

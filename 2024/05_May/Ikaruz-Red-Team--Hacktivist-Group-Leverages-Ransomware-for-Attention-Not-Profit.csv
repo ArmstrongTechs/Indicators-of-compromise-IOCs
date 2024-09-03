@@ -1,0 +1,21 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Ikaruz Red Team | Hacktivist Group Leverages Ransomware for Attention Not Profit
+| UUID: 64380592-4bba-43f6-bcd0-eac80fb96a60
+| Date: 2024-05-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-22,External analysis,link,https://www.sentinelone.com/blog/ikaruz-red-team-hacktivist-group-leverages-ransomware-for-attention-not-profit/,
+2024-05-22,Payload delivery,sha1,133388ea2bd362993198bba461c7273a2a3af1ec,ransome note
+2024-05-22,Payload delivery,sha1,2454820aef7c6289af85758df89976718013a5a4,ransome note
+2024-05-22,Payload delivery,sha1,267ed8df557c41cd322d4ed5dd1764018c74f611,ransome note
+2024-05-22,Payload delivery,sha1,41b2e3f0ddb3ceef2cddb09ca9edf4334461720c,webshell
+2024-05-22,Payload delivery,sha1,57cc1ef9f762b1db9999772356cd8e6a70cb9964,ransome note
+2024-05-22,Payload delivery,sha1,5b830b5d5577ad8186e9ba4f7fdeee0b32c535e3,test.php
+2024-05-22,Payload delivery,sha1,8596a6bb124e56f6d545b77e74c3b23f6f578f55,RED.ico
+2024-05-22,Payload delivery,sha1,8bc4fadf5a929103b0c25c5f2f02da9c9ca67a1f,ransome note
+2024-05-22,Payload delivery,sha1,a379e55be365ece1ca2b8f72b6c54bb8b5bfe4e9,lb3.exe
+2024-05-22,Payload delivery,sha1,b65183cc886185a8c34860f68d3289d8e9dd84e3,LockBit 3.0 (Ikaruz Red Team)

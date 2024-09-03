@@ -1,0 +1,107 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Scanner_May #71148 - From: admin@bloggersua.com"" Campaign"
+| UUID: e24896f4-1cd2-44f6-85ae-5b3857aad108
+| Date: 2024-05-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-29,Payload delivery,email-src,admin@bloggersua.com,Source email: from admin@bloggersua.com - subject: Scanner_May #71148
+2024-05-29,Payload delivery,email-src-display-name,Carmen Blalock,Source email: from admin@bloggersua.com - subject: Scanner_May #71148
+2024-05-29,Payload delivery,email-body,"Expeditious action needed
+Please assess and sign the agreement forms enclosed. Your quick reply is commended.",Source email: from admin@bloggersua.com - subject: Scanner_May #71148
+2024-05-29,Payload delivery,email-subject,Scanner_May #71148,Source: from admin@bloggersua.com - subject: Scanner_May #71148
+2024-05-29,Payload delivery,filename|sha256,Scanned_05_28-2024_402430.html|37961d0ca2cdbc6ad9bf89a892d230d5be6273d34accb3dac4251281ea048ed9,Malspam attachment - source: from admin@bloggersua.com - subject: Scanner_May #71148 mime: text/html
+2024-05-29,Payload delivery,filename|ssdeep,Scanned_05_28-2024_402430.html|96:MhvvIFO2B40aPMfiWTMFSCH+PGy9MgC3/mGlby3Pnwp0tUNAkacVjS0uT9ji/Di5:MGZEhLqMgEOG4/nw+CWvYAZi/Di5,Malspam attachment - source: from admin@bloggersua.com - subject: Scanner_May #71148 mime: text/html
+2024-05-29,Payload delivery,filename|sha1,Scanned_05_28-2024_402430.html|aef37309eacd572503df355ef75ad42021fcd253,Malspam attachment - source: from admin@bloggersua.com - subject: Scanner_May #71148 mime: text/html
+2024-05-29,Payload delivery,filename|sha512,Scanned_05_28-2024_402430.html|e269f6f767be7453e7b402de620786b6464be65bbfd3f5a8ae2fc4e8c873526bb3c9414b598245a2aae2966fcd6946b5b2f97db11acfc48c8916c370989a1024,Malspam attachment - source: from admin@bloggersua.com - subject: Scanner_May #71148 mime: text/html
+2024-05-29,Payload delivery,filename|md5,Scanned_05_28-2024_402430.html|784b4c79a9c2a62a393bbe72714f2043,Malspam attachment - source: from admin@bloggersua.com - subject: Scanner_May #71148 mime: text/html
+2024-05-29,Payload delivery,filename|imphash,AudioCapture.dll|ba7e9a7cd5ee54c14d0881068fc905c5,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|md5,AudioCapture.dll|4182f37b9ba1fa315268c669b5335dde,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha1,AudioCapture.dll|2c13da0c10638a5200fed99dcdcf0dc77a599073,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha256,AudioCapture.dll|a74612ae5234d1a8f1263545400668097f9eb6a01dfb8037bc61ca9cae82c5b8,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha512,AudioCapture.dll|4f22ad5679a844f6ed248bf2594af94cf2ed1e5c6c5441f0fb4de766648c17d1641a6ce7c816751f0520a3ae336479c15f3f8b6ebe64a76c38bc28a02ff0f5dc,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|ssdeep,AudioCapture.dll|1536:wrOxDJs/Ksdl0R1dBmhFXxRpP9JNvbnPUGI:3yXlQmhhHp9J9bnPTI,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|imphash,HTCTL32.DLL|6ba08298dd09ea8e41ab7285d3183bba,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|md5,HTCTL32.DLL|2d3b207c8a48148296156e5725426c7f,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha1,HTCTL32.DLL|ad464eb7cf5c19c8a443ab5b590440b32dbc618f,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha256,HTCTL32.DLL|edfe2b923bfb5d1088de1611401f5c35ece91581e71503a5631647ac51f7d796,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha512,HTCTL32.DLL|55c791705993b83c9b26a8dbd545d7e149c42ee358ecece638128ee271e85b4fdbfd6fbae61d13533bf39ae752144e2cc2c5edcda955f18c37a785084db0860c,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|ssdeep,HTCTL32.DLL|6144:2ib5YbsXPKXd6ppGpwpbGf30IVFpSzyaHx3/4aY5dUilQpAf84lH0JYBAnM1OK/Y:2ib5YbsXioEgULFpSzya9/lY5SilQCfg,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|md5,NSM.LIC|6fd57fbafce2705f6dbe31df8e9c63cb,Extracted from start.zip; mime: text/plain
+2024-05-29,Payload delivery,filename|sha1,NSM.LIC|9dbdd6322a37609780d5370a59efbef7d74d4b0d,Extracted from start.zip; mime: text/plain
+2024-05-29,Payload delivery,filename|sha256,NSM.LIC|d7ec9f8b88ae02b6075db789ac8ac7cbb359fe54bb1a2af1669ea1c8a15fc91e,Extracted from start.zip; mime: text/plain
+2024-05-29,Payload delivery,filename|sha512,NSM.LIC|ff96b534dac567450bd3670a4f3feaf0af94334af53ec06b66386489bce842fb4f8c41963d28b066d1624d790add8ead7e4871c3cf55d27ab943a74458cdb4cf,Extracted from start.zip; mime: text/plain
+2024-05-29,Payload delivery,filename|ssdeep,NSM.LIC|6:O/oP54xRPjwxVshvydDKHMoEEjLgpW2MWMf651XZNWYpPM/iooZa8l6i7V:X0R7wxQJjjqW2MWMf65TNBPM/io98l60,Extracted from start.zip; mime: text/plain
+2024-05-29,Payload delivery,filename|imphash,PCICHEK.DLL|56e17186efeb24a70224bc24dced0a14,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|md5,PCICHEK.DLL|a0b9388c5f18e27266a31f8c5765b263,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha1,PCICHEK.DLL|906f7e94f841d464d4da144f7c858fa2160e36db,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha256,PCICHEK.DLL|313117e723dda6ea3911faacd23f4405003fb651c73de8deff10b9eb5b4a058a,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha512,PCICHEK.DLL|6051a0b22af135b4433474dc7c6f53fb1c06844d0a30ed596a3c6c80644df511b023e140c4878867fa2578c79695fac2eb303aea87c0ecfc15a4ad264bd0b3cd,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|ssdeep,PCICHEK.DLL|192:1ANeiOT8Z2b6SoVF6RRHaPrpF3o47jtd3hfwHjvud3hfwx7bjuh:1ANt+E2exrpxTSDuTuih,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|imphash,PCICL32.DLL|f0ebeb0de39f647e905e803bbc0c109b,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|md5,PCICL32.DLL|ad51946b1659ed61b76ff4e599e36683,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha1,PCICL32.DLL|dfe2439424886e8acf9fa3ffde6caaf7bfdd583e,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha256,PCICL32.DLL|07a191254362664b3993479a277199f7ea5ee723b6c25803914eedb50250acf4,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha512,PCICL32.DLL|6c30e7793f69508f6d9aa6edcec6930ba361628ef597e32c218e15d80586f5a86d89fcbee63a35eab7b1e0ae26277512f4c1a03df7912f9b7ff9a9a858cf3962,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|ssdeep,PCICL32.DLL|49152:xOHDe5Yr6tYA4S+DjdwfwBTNZaZQclSpmTIH:xOHDe5YrvS+tBQSEm,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|imphash,TCCTL32.DLL|2c4d798bb87ec57193b7625c4259da43,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|md5,TCCTL32.DLL|405a7bca024d33d7d6464129c1b58451,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha1,TCCTL32.DLL|22b64e211d96d773c510ac82e7a73f8debf4e4cd,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha256,TCCTL32.DLL|092c3ec01883d3b4b131985b3971f7e2e523252b75f9c2470e0821505c4a3a83,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha512,TCCTL32.DLL|3c8d4cbf377a8beb793c93b63d521ccd75167dec02da43bb91434cb6b0737ca2d61fa201f2825fd1a0ceaae768bb53d78f737e7c412aae83d3cdc748893f31e6,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|ssdeep,TCCTL32.DLL|6144:/0pwbUb486Yu0LIFZf4TktH4aY384az44lstAZPVJ4hPueU12jXvbJaS0T9XjJpX:8pwbUb48Ju0LIFZf4Tk2aY3FasNAZtJp,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|imphash,client32.exe|78ed70ebeb178ed1bae5921d2ed514bc,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|md5,client32.exe|9497aece91e1ccc495ca26ae284600b9,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha1,client32.exe|a005d8ce0c1ea8901c1b4ea86c40f4925bd2c6da,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha256,client32.exe|1b63f83f06dbd9125a6983a36e0dbd64026bb4f535e97c5df67c1563d91eff89,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha512,client32.exe|4c892e5029a707bcf73b85ac110d8078cb273632b68637e9b296a7474ab0202320ff24cf6206de04af08abf087654b0d80cbecfae824c06616c47ce93f0929c9,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|ssdeep,client32.exe|1536:HtvrImfzoXK6DDvvvDvpvZMt+pan/opgRl2:lImfzoXK9/o66,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|md5,client32.ini|1181c5070b3d5dbd82e3167e0eee7d13,Extracted from start.zip; mime: text/plain
+2024-05-29,Payload delivery,filename|sha1,client32.ini|91aaf3e633d11d4dbb82e53a8fe6f7f461ff2ea6,Extracted from start.zip; mime: text/plain
+2024-05-29,Payload delivery,filename|sha256,client32.ini|608e848e65d4298688ac18a939f7ac1848332ef7c39ec4e135091a2ebeb1a524,Extracted from start.zip; mime: text/plain
+2024-05-29,Payload delivery,filename|sha512,client32.ini|1b0dbd30252bf924aa82777e380c2e82309ff8be6120b05916f7bb72d5270542c3bc2cee965c7c8c58196651e261788b2e29377cb5764e42d65de92015411780,Extracted from start.zip; mime: text/plain
+2024-05-29,Payload delivery,filename|ssdeep,client32.ini|12:Px/vONhH+9GSyDHlsVTXuZ7/PfY8ADfDWQCYubluyv4wGJWWmv:PpOhe9CHlLl1ufD/uLv434,Extracted from start.zip; mime: text/plain
+2024-05-29,Payload delivery,filename|imphash,msvcr100.dll|5271d5ce8b44dd47bc92563e27585466,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|md5,msvcr100.dll|0e37fbfa79d349d672456923ec5fbbe3,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha1,msvcr100.dll|4e880fc7625ccf8d9ca799d5b94ce2b1e7597335,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha256,msvcr100.dll|8793353461826fbd48f25ea8b835be204b758ce7510db2af631b28850355bd18,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha512,msvcr100.dll|2bea9bd528513a3c6a54beac25096ee200a4e6ccfc2a308ae9cfd1ad8738e2e2defd477d59db527a048e5e9a4fe1fc1d771701de14ef82b4dbcdc90df0387630,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|ssdeep,msvcr100.dll|12288:nMmCy3nAgPAxN9ueqix/HEmxsvGrif8ZSy+rdQw2QRAtd74/vmYK6H3BVoe3z:MmCy3KxW3ixPEmxsvGrm8Z6r+JQPzV7z,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|md5,nskbfltr.inf|26e28c01461f7e65c402bdf09923d435,Extracted from start.zip; mime: application/x-setupscript
+2024-05-29,Payload delivery,filename|sha1,nskbfltr.inf|1d9b5cfcc30436112a7e31d5e4624f52e845c573,Extracted from start.zip; mime: application/x-setupscript
+2024-05-29,Payload delivery,filename|sha256,nskbfltr.inf|d96856cd944a9f1587907cacef974c0248b7f4210f1689c1e6bcac5fed289368,Extracted from start.zip; mime: application/x-setupscript
+2024-05-29,Payload delivery,filename|sha512,nskbfltr.inf|c30ec66fecb0a41e91a31804be3a8b6047fc3789306adc106c723b3e5b166127766670c7da38d77d3694d99a8cddb26bc266ee21dba60a148cdf4d6ee10d27d7,Extracted from start.zip; mime: application/x-setupscript
+2024-05-29,Payload delivery,filename|ssdeep,nskbfltr.inf|6:a0S880EeLL6sWqYFcf8KYFEAy1JoHBIr2M2OIAXFYJKRLIkg/LH2yi9vyifjBLWh:JShNvPG1JoHBx2XFhILH4Burn,Extracted from start.zip; mime: application/x-setupscript
+2024-05-29,Payload delivery,filename|md5,nsm_vpro.ini|3be27483fdcdbf9ebae93234785235e3,Extracted from start.zip; mime: text/plain
+2024-05-29,Payload delivery,filename|sha1,nsm_vpro.ini|360b61fe19cdc1afb2b34d8c25d8b88a4c843a82,Extracted from start.zip; mime: text/plain
+2024-05-29,Payload delivery,filename|sha256,nsm_vpro.ini|4bfa4c00414660ba44bddde5216a7f28aeccaa9e2d42df4bbff66db57c60522b,Extracted from start.zip; mime: text/plain
+2024-05-29,Payload delivery,filename|sha512,nsm_vpro.ini|edbe8cf1cbc5fed80fedf963ade44e08052b19c064e8bca66fa0fe1b332141fbe175b8b727f8f56978d1584baaf27d331947c0b3593aaff5632756199dc470e5,Extracted from start.zip; mime: text/plain
+2024-05-29,Payload delivery,filename|ssdeep,nsm_vpro.ini|3:lsylULyJGI6csM:+ocyJGIPsM,Extracted from start.zip; mime: text/plain
+2024-05-29,Payload delivery,filename|imphash,pcicapi.dll|d78463f91aa83e9c39d2e594035ae4bb,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|md5,pcicapi.dll|dcde2248d19c778a41aa165866dd52d0,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha1,pcicapi.dll|7ec84be84fe23f0b0093b647538737e1f19ebb03,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha256,pcicapi.dll|9074fd40ea6a0caa892e6361a6a4e834c2e51e6e98d1ffcda7a9a537594a6917,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha512,pcicapi.dll|c5d170d420f1aeb9bcd606a282af6e8da04ae45c83d07faaacb73ff2e27f4188b09446ce508620124f6d9b447a40a23620cfb39b79f02b04bb9e513866352166,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|ssdeep,pcicapi.dll|768:FFvNhAyi5hHA448qZkSn+EgT8To1iTYiu:FCyoHA448qSSzgI2GQ,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|imphash,remcmdstub.exe|99c0cd957fc7334714fefa3daa61a6ea,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|md5,remcmdstub.exe|35da3b727567fab0c7c8426f1261c7f5,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha1,remcmdstub.exe|b71557d67bcd427ef928efce7b6a6529226415e6,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha256,remcmdstub.exe|89027f1449be9ba1e56dd82d13a947cb3ca319adfe9782f4874fbdc26dc59d09,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|sha512,remcmdstub.exe|14edadceeceb95f5c21fd3a0a349dd2a312d1965268610d6a6067049f34e3577fc96f6ba37b1d6ab8ce21444208c462fa97fab24bbcd77059bc819e12c5efc5a,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Payload delivery,filename|ssdeep,remcmdstub.exe|1536:bJfanvXuN86jJ9hUHYBlXUYwT24a+yVwQ:lanPGjJTU4IYia+yVX,Extracted from start.zip; mime: application/x-dosexec
+2024-05-29,Network activity,ip-dst|port,5.8.63.159|443,Source: Network activity from client32.exe; GatewayAddress in client32.ini
+2024-05-29,Payload delivery,filename|md5,document.pdf|627ef0f9c2af3e5d48421259dd679b37,Extracted from start.zip; mime: application/pdf
+2024-05-29,Payload delivery,filename|sha1,document.pdf|c7d82fd87fbf695093503d3e84f2d05740665955,Extracted from start.zip; mime: application/pdf
+2024-05-29,Payload delivery,filename|sha256,document.pdf|483df3f3be2a04efa29d9c74fcbd906f1a9f9eb7fb9b938d26bfb047c18ca9ff,Extracted from start.zip; mime: application/pdf
+2024-05-29,Payload delivery,filename|sha512,document.pdf|dcde2383f9b2ecdda89b695f0f4cb9fde6a9f193b6e5907150209c3cc7326530eafb80b22d5aa43831457c195249df2887a1a173232aa79e63f14858902f2e0b,Extracted from start.zip; mime: application/pdf
+2024-05-29,Payload delivery,filename|ssdeep,document.pdf|24576:Ax/s1L5nLjweH9/1gr47J6UAohR6vRyf+dE9w87TDZ:i/snLj5H9/1xAoP6Jyf+dE9wSnZ,Extracted from start.zip; mime: application/pdf
+2024-05-29,Network activity,url,http://geo.netsupportsoftware.com/location/loca.asp,Source: Network activity from client32.exe
+2024-05-29,Network activity,url,https://cdn3535.shop/1.zip,Source: Network activity from Scanned_05_28-2024_402430.html
+2024-05-29,Payload delivery,filename|md5,start.zip|e8296e82eee15405df54f4d2ea76afeb,Extracted from https://cdn3535.shop/1.zip; mime: application/zip
+2024-05-29,Payload delivery,filename|sha1,start.zip|c2ad15b9832b97e6026285111e81977201887de1,Extracted from https://cdn3535.shop/1.zip; mime: application/zip
+2024-05-29,Payload delivery,filename|sha256,start.zip|d16cae1786f201a673eeb494919d7d14beb56bbbc5e4f808c50f28516e24907d,Extracted from https://cdn3535.shop/1.zip; mime: application/zip
+2024-05-29,Payload delivery,filename|sha512,start.zip|45c8c08378295feee92a5f00b83fddb03aa8d23a5312bf45117034338d9bfa511632e8e3ad606f4501bdb5dbab7d0ce49a3a944dfa298b9828cc9902fa90eb8f,Extracted from https://cdn3535.shop/1.zip; mime: application/zip
+2024-05-29,Payload delivery,filename|ssdeep,start.zip|49152:Isj5DOMgBbUaC5d/OOBg6YF0Ez3/pHNIsvPIWb6gIKfqifFa8Z8dRMOs:IsjMlBbUaCjbLYr7/oWP+YfqsLZ8dZs,Extracted from https://cdn3535.shop/1.zip; mime: application/zip

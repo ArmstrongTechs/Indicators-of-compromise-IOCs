@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-05-05]
+| UUID: 56372f4f-4e1a-4c43-9844-cf85fa013369
+| Date: 2024-05-05
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-05,Payload installation,filename,FW URGENT RFQ-400098211.arj,Source: MalwareBazaar
+2024-05-05,Payload installation,md5,790350d341ee9f96d316b83ffb9bf527,Source: MalwareBazaar
+2024-05-05,Payload installation,sha1,aa7b4dc6cb51f3054b37171532f60075b0f2a5ea,Source: MalwareBazaar
+2024-05-05,Payload installation,sha256,99a82d21a3ac94bd7078675ea999a9205fd992e17162bdccd55cdfa4c3d3da93,Source: MalwareBazaar

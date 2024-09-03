@@ -1,0 +1,19 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00959 [Fraude] [Phishing]
+| UUID: c6f22754-3851-4af4-a62b-5cc6a71d2692
+| Date: 2024-05-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-21,External analysis,text,"En el CSIRT de Gobierno encontramos una nueva campaña de phishing. Los siguientes son los detalles.
+
+En esta campaña, los delincuentes envían un email falso que simula provenir del Ministerio del Interior y Seguridad Publica. ¡No hagas clic!",Resumen
+2024-05-21,Network activity,ip-src,202.4.186.30,IP SMTP
+2024-05-21,Network activity,ip-src,209.94.90.1,IP sitio falso
+2024-05-21,Payload delivery,url,https://ipfs.io/ipfs/bafybeicxydutpn3ihqprwruov4hju5mywfp63uq3r7uulonk5eqi37xnha/bar050824.html#{Correo electronico},URL sitio falso
+2024-05-21,Payload delivery,email-src,mailer-daemon@host2.i4dots.com,Correo de salida
+2024-05-21,External analysis,attachment,2024-05-20_14h54_10.png,
+2024-05-21,External analysis,attachment,2024-05-20_14h48_10_3vv7gEN.png,

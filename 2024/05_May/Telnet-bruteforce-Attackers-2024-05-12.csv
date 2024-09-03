@@ -1,0 +1,85 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Telnet bruteforce Attackers [2024-05-12]
+| UUID: f0b0dc19-9db5-406d-ad3e-4a6705a6720d
+| Date: 2024-05-12
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-12,Network activity,ip-src,1.33.231.120,Source: alienvault
+2024-05-12,Network activity,ip-src,100.15.97.125,Source: alienvault
+2024-05-12,Network activity,ip-src,1.173.244.173,Source: alienvault
+2024-05-12,Network activity,ip-src,104.152.52.156,Source: alienvault
+2024-05-12,Network activity,ip-src,106.51.53.1,Source: alienvault
+2024-05-12,Network activity,ip-src,103.143.183.82,Source: alienvault
+2024-05-12,Network activity,ip-src,109.56.88.249,Source: alienvault
+2024-05-12,Network activity,ip-src,111.127.78.25,Source: alienvault
+2024-05-12,Network activity,ip-src,109.207.246.199,Source: alienvault
+2024-05-12,Network activity,ip-src,113.200.137.109,Source: alienvault
+2024-05-12,Network activity,ip-src,113.237.97.221,Source: alienvault
+2024-05-12,Network activity,ip-src,112.30.85.137,Source: alienvault
+2024-05-12,Network activity,ip-src,114.219.192.194,Source: alienvault
+2024-05-12,Network activity,ip-src,114.227.24.34,Source: alienvault
+2024-05-12,Network activity,ip-src,114.217.76.26,Source: alienvault
+2024-05-12,Network activity,ip-src,114.79.146.146,Source: alienvault
+2024-05-12,Network activity,ip-src,115.179.173.176,Source: alienvault
+2024-05-12,Network activity,ip-src,117.200.87.214,Source: alienvault
+2024-05-12,Network activity,ip-src,114.35.76.59,Source: alienvault
+2024-05-12,Network activity,ip-src,117.253.217.173,Source: alienvault
+2024-05-12,Network activity,ip-src,118.128.90.243,Source: alienvault
+2024-05-12,Network activity,ip-src,116.55.114.136,Source: alienvault
+2024-05-12,Network activity,ip-src,118.174.51.50,Source: alienvault
+2024-05-12,Network activity,ip-src,121.132.17.134,Source: alienvault
+2024-05-12,Network activity,ip-src,117.63.246.219,Source: alienvault
+2024-05-12,Network activity,ip-src,121.177.202.32,Source: alienvault
+2024-05-12,Network activity,ip-src,123.172.57.135,Source: alienvault
+2024-05-12,Network activity,ip-src,118.248.194.12,Source: alienvault
+2024-05-12,Network activity,ip-src,123.190.19.169,Source: alienvault
+2024-05-12,Network activity,ip-src,14.202.12.46,Source: alienvault
+2024-05-12,Network activity,ip-src,125.25.234.101,Source: alienvault
+2024-05-12,Network activity,ip-src,121.236.120.247,Source: alienvault
+2024-05-12,Network activity,ip-src,159.253.172.66,Source: alienvault
+2024-05-12,Network activity,ip-src,157.245.50.230,Source: alienvault
+2024-05-12,Network activity,ip-src,124.89.86.209,Source: alienvault
+2024-05-12,Network activity,ip-src,175.0.61.164,Source: alienvault
+2024-05-12,Network activity,ip-src,173.212.237.84,Source: alienvault
+2024-05-12,Network activity,ip-src,154.27.24.145,Source: alienvault
+2024-05-12,Network activity,ip-src,175.249.48.34,Source: alienvault
+2024-05-12,Network activity,ip-src,175.143.246.212,Source: alienvault
+2024-05-12,Network activity,ip-src,162.216.149.224,Source: alienvault
+2024-05-12,Network activity,ip-src,178.137.3.165,Source: alienvault
+2024-05-12,Network activity,ip-src,177.56.145.214,Source: alienvault
+2024-05-12,Network activity,ip-src,175.11.106.182,Source: alienvault
+2024-05-12,Network activity,ip-src,181.101.91.142,Source: alienvault
+2024-05-12,Network activity,ip-src,180.106.23.78,Source: alienvault
+2024-05-12,Network activity,ip-src,176.8.134.192,Source: alienvault
+2024-05-12,Network activity,ip-src,181.5.194.95,Source: alienvault
+2024-05-12,Network activity,ip-src,178.34.159.39,Source: alienvault
+2024-05-12,Network activity,ip-src,182.247.184.33,Source: alienvault
+2024-05-12,Network activity,ip-src,185.216.214.232,Source: alienvault
+2024-05-12,Network activity,ip-src,181.106.202.171,Source: alienvault
+2024-05-12,Network activity,ip-src,188.138.158.71,Source: alienvault
+2024-05-12,Network activity,ip-src,198.199.103.75,Source: alienvault
+2024-05-12,Network activity,ip-src,183.109.195.66,Source: alienvault
+2024-05-12,Network activity,ip-src,222.70.83.185,Source: alienvault
+2024-05-12,Network activity,ip-src,2.101.8.144,Source: alienvault
+2024-05-12,Network activity,ip-src,191.39.212.189,Source: alienvault
+2024-05-12,Network activity,ip-src,31.133.78.17,Source: alienvault
+2024-05-12,Network activity,ip-src,223.8.15.86,Source: alienvault
+2024-05-12,Network activity,ip-src,37.229.52.136,Source: alienvault
+2024-05-12,Network activity,ip-src,222.121.69.42,Source: alienvault
+2024-05-12,Network activity,ip-src,41.215.209.98,Source: alienvault
+2024-05-12,Network activity,ip-src,27.21.146.167,Source: alienvault
+2024-05-12,Network activity,ip-src,45.71.109.8,Source: alienvault
+2024-05-12,Network activity,ip-src,42.200.220.186,Source: alienvault
+2024-05-12,Network activity,ip-src,39.90.242.227,Source: alienvault
+2024-05-12,Network activity,ip-src,5.101.194.138,Source: alienvault
+2024-05-12,Network activity,ip-src,46.119.48.155,Source: alienvault
+2024-05-12,Network activity,ip-src,45.185.146.250,Source: alienvault
+2024-05-12,Network activity,ip-src,59.35.94.219,Source: alienvault
+2024-05-12,Network activity,ip-src,58.54.109.200,Source: alienvault
+2024-05-12,Network activity,ip-src,49.89.110.158,Source: alienvault
+2024-05-12,Network activity,ip-src,62.56.143.189,Source: alienvault
+2024-05-12,Network activity,ip-src,61.3.85.224,Source: alienvault

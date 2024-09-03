@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Emotet host indicators [2024-05-21]
+| UUID: 4ed15b83-0aa7-4e4f-a46e-cbdf0049fcf6
+| Date: 2024-05-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-22,Payload installation,filename,SecuriteInfo.com.Variant.Bulz.430541.876.19691,Source: MalwareBazaar
+2024-05-22,Payload installation,md5,fd1cf647f6b883dbcacb10e143f32f82,Source: MalwareBazaar
+2024-05-22,Payload installation,sha1,6a188609b373583fe3a58e6aacb58e04cee97eab,Source: MalwareBazaar
+2024-05-22,Payload installation,sha256,f108541ceddf15c47d0b62dfeece9c0351106d8df195aefa91dbd5ebcfb47fa7,Source: MalwareBazaar

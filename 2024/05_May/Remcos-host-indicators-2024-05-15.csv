@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-05-15]
+| UUID: 9c1861a6-0f10-43d9-a095-d2c1d30c7b5c
+| Date: 2024-05-15
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-15,Payload installation,filename,MST-004875758845993858358838583853534353loadinzormuleringse.exe,Source: MalwareBazaar
+2024-05-15,Payload installation,md5,18febfd2f4169aa7e15b2104707914d4,Source: MalwareBazaar
+2024-05-15,Payload installation,sha1,82130b0bd68e97537b20bd281eefd3781c767547,Source: MalwareBazaar
+2024-05-15,Payload installation,sha256,6e25014badb4596a4ca3c97a27ed6afba7385cf81bcb0980a039b7df2d1b02be,Source: MalwareBazaar
+2024-05-15,Payload installation,filename,MST-004875758845993858358838583853534353loadinzormuleringse_1.txz,Source: MalwareBazaar
+2024-05-15,Payload installation,md5,b1f37a034a451c28bc0135141d6489f5,Source: MalwareBazaar
+2024-05-15,Payload installation,sha1,33bcde9a2443c69eb397371e0a6222e373205e07,Source: MalwareBazaar
+2024-05-15,Payload installation,sha256,b488104816e11944d40793ceefd36888f2f28daf0b7748823ac895d38974cea0,Source: MalwareBazaar

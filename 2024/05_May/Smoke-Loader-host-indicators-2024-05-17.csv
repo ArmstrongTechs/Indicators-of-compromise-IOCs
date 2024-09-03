@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Smoke Loader host indicators [2024-05-17]
+| UUID: 3de3f7dd-c3ea-43c9-ad06-1a0a7ef63d6b
+| Date: 2024-05-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-18,Payload installation,filename,15782f5a198d521941a6456fae2d73c7,Source: MalwareBazaar
+2024-05-18,Payload installation,md5,15782f5a198d521941a6456fae2d73c7,Source: MalwareBazaar
+2024-05-18,Payload installation,sha1,7f4c4febf4b2b8273e2ee6c3dbc90be928756d31,Source: MalwareBazaar
+2024-05-18,Payload installation,sha256,e161bd88ea78d22c52983fb5f02ab144b0c337edbe27a143db63a3fec8812f66,Source: MalwareBazaar

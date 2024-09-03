@@ -1,0 +1,43 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: PARCHASE ORDER - 3253296 - From: lexisnexis@snazzybeadscollection.com"" Campaign"
+| UUID: 95b134ea-aefe-4945-8db8-0be228bb06bc
+| Date: 2024-05-06
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-06,Payload delivery,email-src,lexisnexis@snazzybeadscollection.com,Source email: from lexisnexis@snazzybeadscollection.com - subject: PARCHASE ORDER - 3253296
+2024-05-06,Payload delivery,email-src-display-name,12,Source email: from lexisnexis@snazzybeadscollection.com - subject: PARCHASE ORDER - 3253296
+2024-05-06,Payload delivery,email-body,"Hi., I have included the cost specifics for the refreshments served during our previous training session. This involves beverages and light refreshments for the guests. I request you to review the file and handle the payment as per our regular procedures. Regards!",Source email: from lexisnexis@snazzybeadscollection.com - subject: PARCHASE ORDER - 3253296
+2024-05-06,Payload delivery,email-subject,PARCHASE ORDER - 3253296,Source: from lexisnexis@snazzybeadscollection.com - subject: PARCHASE ORDER - 3253296
+2024-05-06,Payload delivery,filename|sha256,reports_291711.html|57cbfc681c5d99c4bb6fbe4ff50b8519b4f2606de2f40d8990a785e41f1b651c,Malspam attachment - source: from lexisnexis@snazzybeadscollection.com - subject: PARCHASE ORDER - 3253296 mime: text/html
+2024-05-06,Payload delivery,filename|ssdeep,reports_291711.html|384:ZYq+VtVv5LynZrgt7dEu+nB3/QoD+ilinA:ZYq+DTLIeERnZ/QoDPUnA,Malspam attachment - source: from lexisnexis@snazzybeadscollection.com - subject: PARCHASE ORDER - 3253296 mime: text/html
+2024-05-06,Payload delivery,filename|sha1,reports_291711.html|8aad877dc66717bcde30a45f51d76c3cea630eb1,Malspam attachment - source: from lexisnexis@snazzybeadscollection.com - subject: PARCHASE ORDER - 3253296 mime: text/html
+2024-05-06,Payload delivery,filename|sha512,reports_291711.html|ab308d99062ddd0c504f6d7527cc5ba41a6892bea9d5513db7b89a81c9d3a393134bf7a17dc0096780878e0c432a81c5e8d1b80fda5e360037c975a58b3d9595,Malspam attachment - source: from lexisnexis@snazzybeadscollection.com - subject: PARCHASE ORDER - 3253296 mime: text/html
+2024-05-06,Payload delivery,filename|md5,reports_291711.html|5d64fcb032f17aaad06fd1b7621f29bf,Malspam attachment - source: from lexisnexis@snazzybeadscollection.com - subject: PARCHASE ORDER - 3253296 mime: text/html
+2024-05-06,Payload delivery,filename|imphash,Autoit3.exe|23c7b0116c8fb2e9410539ab80cfebbe,Extracted from file.zip; mime: application/x-dosexec
+2024-05-06,Payload delivery,filename|md5,Autoit3.exe|c56b5f0201a3b3de53e561fe76912bfd,Extracted from file.zip; mime: application/x-dosexec
+2024-05-06,Payload delivery,filename|sha1,Autoit3.exe|2a4062e10a5de813f5688221dbeb3f3ff33eb417,Extracted from file.zip; mime: application/x-dosexec
+2024-05-06,Payload delivery,filename|sha256,Autoit3.exe|237d1bca6e056df5bb16a1216a434634109478f882d3b1d58344c801d184f95d,Extracted from file.zip; mime: application/x-dosexec
+2024-05-06,Payload delivery,filename|sha512,Autoit3.exe|195b98245bb820085ae9203cdb6d470b749d1f228908093e8606453b027b7d7681ccd7952e30c2f5dd40f8f0b999ccfc60ebb03419b574c08de6816e75710d2c,Extracted from file.zip; mime: application/x-dosexec
+2024-05-06,Payload delivery,filename|ssdeep,Autoit3.exe|12288:6pVWeOV7GtINsegA/hMyyzlcqikvAfcN9b2MyZa31twoPTdFxgawV2M01:6T3E53Myyzl0hMf1tr7Caw8M01,Extracted from file.zip; mime: application/x-dosexec
+2024-05-06,Payload delivery,filename|md5,dark.hta|30e2442555a4224bf15bbffae5e184ee,Downloaded from https://linktoxic34.com/wp-content/themes/twentytwentytwo/dark.hta; mime: text/html
+2024-05-06,Payload delivery,filename|sha1,dark.hta|4cc3a388f41e0c68ae432293b93159c1bad1cf68,Downloaded from https://linktoxic34.com/wp-content/themes/twentytwentytwo/dark.hta; mime: text/html
+2024-05-06,Payload delivery,filename|sha256,dark.hta|76b4b34a02b2558f6d79df2cdf5a4b7d0dda960bd073e65084c1e61a6c3f092d,Downloaded from https://linktoxic34.com/wp-content/themes/twentytwentytwo/dark.hta; mime: text/html
+2024-05-06,Payload delivery,filename|sha512,dark.hta|d190dc95c3ff0c83e822e372c1e86d617a54092971c1a506658411c5c7763a041efae8e185ecb9a03b162b0309eac1732b8cb5c6cf6985446a939aa135429da8,Downloaded from https://linktoxic34.com/wp-content/themes/twentytwentytwo/dark.hta; mime: text/html
+2024-05-06,Payload delivery,filename|ssdeep,dark.hta|12:jJF2x2kGSgMqVxrIVsGf4Rm6BYGdVZDkZ7xICVYIK2C4ntvG3hy7vNRbGO:1Ax2kGtrIVsGfqLdVhbCVYIK+no3h25B,Downloaded from https://linktoxic34.com/wp-content/themes/twentytwentytwo/dark.hta; mime: text/html
+2024-05-06,Network activity,hostname|port,dogmupdate.com|80,Source: extracted from staticconfig of script.a3x; C2
+2024-05-06,Payload delivery,filename|md5,file.zip|b283fd9062ce041c522573aaeb41ffa2,Downloaded from http://dogmupdate.com/rdyjyany; mime: application/zip
+2024-05-06,Payload delivery,filename|sha1,file.zip|cfe35c9acfd710d6534a5c2586bfe2b1efde5ffe,Downloaded from http://dogmupdate.com/rdyjyany; mime: application/zip
+2024-05-06,Payload delivery,filename|sha256,file.zip|fab36431b9760b48eb84d671e7c10e16e0754ec86517d665c10811cd0670e06b,Downloaded from http://dogmupdate.com/rdyjyany; mime: application/zip
+2024-05-06,Payload delivery,filename|sha512,file.zip|64e4d0a7a3bb5a886a8996e1a58e096f4bdfe3f4f29febc2d285ac89dae4f7b2a0465fbcbe7b1129b6666fd81b84e8a0d023513e36a3eb8a7f08f3e845e77d80,Downloaded from http://dogmupdate.com/rdyjyany; mime: application/zip
+2024-05-06,Payload delivery,filename|ssdeep,file.zip|24576:xjGtT9wb67gIycaKEtVDkL+zNRbMtv4J0RXTTwa0:xjY+b67gNcGVIazHotC0RXTTwa0,Downloaded from http://dogmupdate.com/rdyjyany; mime: application/zip
+2024-05-06,Network activity,url,http://dogmupdate.com/rdyjyany,Source: Network activity from dark.hta
+2024-05-06,Network activity,url,https://linktoxic34.com/wp-content/themes/twentytwentytwo/dark.hta,Source: Network activity from reports_291711.html
+2024-05-06,Payload delivery,filename|md5,script.a3x|e0173741b91cabfecd703c20241c1108,Extracted from file.zip; mime: application/octet-stream
+2024-05-06,Payload delivery,filename|sha1,script.a3x|378d766a0e9d7159d37d6b50db0cf9076c28b939,Extracted from file.zip; mime: application/octet-stream
+2024-05-06,Payload delivery,filename|sha256,script.a3x|4f5f733c7ca71d514991ac3b369e34ce1c3744ff604c88481522edced14cc22c,Extracted from file.zip; mime: application/octet-stream
+2024-05-06,Payload delivery,filename|sha512,script.a3x|4cc9acc2e289df5f733750723d82f8d4dc67f6808158e2861cf9327a65b199f242f24fddf887733ca89de032533f0988c84c03eeaebb1a5cd186bf7faf0615e8,Extracted from file.zip; mime: application/octet-stream
+2024-05-06,Payload delivery,filename|ssdeep,script.a3x|6144:m8PjEWYj2f8iAixcDxLwFp9nHoKjJZPCOIfq5wu3PdRBG58Qw6fcfgItqsaOrA88:m8Pjm20i/xI4b7x5wkrB9y+D49Kz8,Extracted from file.zip; mime: application/octet-stream

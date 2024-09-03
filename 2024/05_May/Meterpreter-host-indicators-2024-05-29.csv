@@ -1,0 +1,46 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Meterpreter host indicators [2024-05-29]
+| UUID: c4a5c886-fa6f-4b42-8c3d-a8dbf1410162
+| Date: 2024-05-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-29,Payload installation,filename,rev5656.exe,Source: MalwareBazaar
+2024-05-29,Payload installation,md5,6a9cbc059911a2dc01fbdb901a0107e8,Source: MalwareBazaar
+2024-05-29,Payload installation,sha1,0ffaa617041e0e6e909c6193d7195974e5c95bca,Source: MalwareBazaar
+2024-05-29,Payload installation,sha256,0671478053332972b07e9896e459ecc4d4d8c6a32457f135dd7e843aae2abb73,Source: MalwareBazaar
+2024-05-29,Payload installation,filename,itit.exe,Source: MalwareBazaar
+2024-05-29,Payload installation,md5,a63b46b7836c6c260dc4b37d7c640d3f,Source: MalwareBazaar
+2024-05-29,Payload installation,sha1,b3e2067097603ad03b6e4085ab24b87eefe1f2c8,Source: MalwareBazaar
+2024-05-29,Payload installation,sha256,8dbbb521ce069043bea5200f322c58af6fe204c2cf121a9d9437a010360fd757,Source: MalwareBazaar
+2024-05-29,Payload installation,filename,rev.exe,Source: MalwareBazaar
+2024-05-29,Payload installation,md5,b3e1688a68a66cf3844242de091a1dde,Source: MalwareBazaar
+2024-05-29,Payload installation,sha1,4c062dd8b7fc98610b9d631d4bbb082f787abb3b,Source: MalwareBazaar
+2024-05-29,Payload installation,sha256,083a504054bf5034a40c863a4d1dd489a89fa50cc944f8c71994ec3292e95248,Source: MalwareBazaar
+2024-05-29,Payload installation,filename,rev5555.exe,Source: MalwareBazaar
+2024-05-29,Payload installation,md5,f75045a4f4bcd1bc4bb24e2e284e9c68,Source: MalwareBazaar
+2024-05-29,Payload installation,sha1,039497293cf23a6bb472e2b7de8e2d9fffd8a8a9,Source: MalwareBazaar
+2024-05-29,Payload installation,sha256,6fba5f4b9bf861e98c4d4260516e09569c0e8182aa7aab334b87fb3ebe2ca4f4,Source: MalwareBazaar
+2024-05-29,Payload installation,filename,reverse.exe,Source: MalwareBazaar
+2024-05-29,Payload installation,md5,4d26ca2043c4603d6c5b6f235811b779,Source: MalwareBazaar
+2024-05-29,Payload installation,sha1,74a48e6d087f1055493e1ab6b62af9fada8d9df4,Source: MalwareBazaar
+2024-05-29,Payload installation,sha256,59c47216231f08ed7ce22f3a5b2bb281a3cd01670ca6c990d068736e42fbee74,Source: MalwareBazaar
+2024-05-29,Payload installation,filename,4441.exe,Source: MalwareBazaar
+2024-05-29,Payload installation,md5,50a2e65a4d576d9aeb3b0b396ae3e898,Source: MalwareBazaar
+2024-05-29,Payload installation,sha1,8b4af2f0d12cbbd4b8a1e315b3d2435ed8464483,Source: MalwareBazaar
+2024-05-29,Payload installation,sha256,92eca604943589607c90984e0f566e4435c5544c8a16f452474d40b60642992e,Source: MalwareBazaar
+2024-05-29,Payload installation,filename,rev5757.exe,Source: MalwareBazaar
+2024-05-29,Payload installation,md5,da7b09c790012d9eb2bcddf7ea88a2cd,Source: MalwareBazaar
+2024-05-29,Payload installation,sha1,c203de9b06654c44b30b538eb26fca529eb400e0,Source: MalwareBazaar
+2024-05-29,Payload installation,sha256,a46a489e9dd78df0b7aaa1c5af25a178bea9ff38a91ceaca71fc6ad6411640e2,Source: MalwareBazaar
+2024-05-29,Payload installation,filename,rev1.exe,Source: MalwareBazaar
+2024-05-29,Payload installation,md5,286a3f0b531a16a03b70c53a85df0e2a,Source: MalwareBazaar
+2024-05-29,Payload installation,sha1,6ffb82b0953237f93690d954dc942b63ef1d662e,Source: MalwareBazaar
+2024-05-29,Payload installation,sha256,43122cea1ad70d02ccf17d34390537b49ef0e3d4e3a790b863d9dc2652fe5194,Source: MalwareBazaar
+2024-05-29,Payload installation,filename,reverse.exe,Source: MalwareBazaar
+2024-05-29,Payload installation,md5,f916b145257a16f2c0ef2278ee43180a,Source: MalwareBazaar
+2024-05-29,Payload installation,sha1,a8948dfd7ba21a80b5ee00982143947692696523,Source: MalwareBazaar
+2024-05-29,Payload installation,sha256,bcc38cf0a1c9bd97dbde47048225531b9a25c5ae44705c651b1c71f9cf46d987,Source: MalwareBazaar

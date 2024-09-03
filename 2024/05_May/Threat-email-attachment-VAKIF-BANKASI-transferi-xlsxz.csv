@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Threat email attachment: VAKIF BANKASI transferi xlsx.z
+| UUID: 593e5a20-5130-4616-adb4-f76dc1d8e936
+| Date: 2024-05-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-21,Payload delivery,sha256,e17a6bef7ca62bda7d7f97faf78ead3a251b638c92f897eab8ccf9d28ed5fae0,Attachment VAKIF BANKASI transferi xlsx.z
+2024-05-20,Payload delivery,email-subject,"BİLGİ,",Email subject
+2024-05-20,Payload delivery,email-attachment,VAKIF BANKASI transferi xlsx.z,Email attachment

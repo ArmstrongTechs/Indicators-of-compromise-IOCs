@@ -1,0 +1,50 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-05-01]
+| UUID: 87231bd7-0e5e-4722-b6dd-20fa64abaaf1
+| Date: 2024-05-01
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-01,Payload installation,filename,DHL Overdue Account Notice - 1606622076.PDF.exe,Source: MalwareBazaar
+2024-05-01,Payload installation,md5,062dc230f92907066b0c245dacf5c7f8,Source: MalwareBazaar
+2024-05-01,Payload installation,sha1,9b1602c6e339618cfc606e07be4982f3fe062246,Source: MalwareBazaar
+2024-05-01,Payload installation,sha256,470e7eb7d5d2c0fc5ca195ed8db3ebe9c2b1d0c9919d0512678360817e7e7cd5,Source: MalwareBazaar
+2024-05-01,Payload installation,filename,1714545131776ff176bfb9b2f51a989d7c42bcda85f49a45f83483117a8b9ccebe5a04b2a7772.dat-decoded,Source: MalwareBazaar
+2024-05-01,Payload installation,md5,890836708e0b673a035a639b0a01f730,Source: MalwareBazaar
+2024-05-01,Payload installation,sha1,d10368878c0ca8999f67409499eae1950b31ee29,Source: MalwareBazaar
+2024-05-01,Payload installation,sha256,6be1a2df82acf0799fc21beebf6819432322ed3cc49e56de8b58f0c259ed8a5a,Source: MalwareBazaar
+2024-05-01,Payload installation,filename,Aviso de cuenta vencida de DHL - 1606622076_865764325678976645423546567678967564423567890008765.exe,Source: MalwareBazaar
+2024-05-01,Payload installation,md5,199c9b401793f33763cc1ff2af5d31ab,Source: MalwareBazaar
+2024-05-01,Payload installation,sha1,dae50843687b9c071b09b276e9fa69120f0de570,Source: MalwareBazaar
+2024-05-01,Payload installation,sha256,abe6edd9244ed4812da7e1c064ab96047ac092356d2382bfd03a06de02f7c133,Source: MalwareBazaar
+2024-05-01,Payload installation,filename,Remesas Aceptadas.vbs,Source: MalwareBazaar
+2024-05-01,Payload installation,md5,d338a83f2adc9797e33da4c2103db501,Source: MalwareBazaar
+2024-05-01,Payload installation,sha1,37e20bd2e6a3e5bbd71793590ba28d6a3135dbfc,Source: MalwareBazaar
+2024-05-01,Payload installation,sha256,08822418bd99deb3da672680166b79d772a66ef1e7b82f1ce9e2d430eb110793,Source: MalwareBazaar
+2024-05-01,Payload installation,filename,InvoiceDemurrage.exe,Source: MalwareBazaar
+2024-05-01,Payload installation,md5,5f83306eee97a41d878ca9372eb8e9c1,Source: MalwareBazaar
+2024-05-01,Payload installation,sha1,4d63d299738a9aeaa9163f0088e0eb564ee776c8,Source: MalwareBazaar
+2024-05-01,Payload installation,sha256,a682de1d74f7f924fefe2a35d48962c15a33c30029187c6e080235359d7ff0af,Source: MalwareBazaar
+2024-05-01,Payload installation,filename,DHL Express shipment delivery doc pdf.exe,Source: MalwareBazaar
+2024-05-01,Payload installation,md5,f094676f389c05b6a2cd1a2bb1c3dc37,Source: MalwareBazaar
+2024-05-01,Payload installation,sha1,2c74346628b07892f93abfa39f7afbead0176b82,Source: MalwareBazaar
+2024-05-01,Payload installation,sha256,a6a70039baf8a4bd93003cd57d2a132c3b324e88a5b0b2c873147f44cd72c583,Source: MalwareBazaar
+2024-05-01,Payload installation,filename,SecuriteInfo.com.Win32.PWSX-gen.7200.9677,Source: MalwareBazaar
+2024-05-01,Payload installation,md5,fad8ef35d6de818ae65ba67068bca490,Source: MalwareBazaar
+2024-05-01,Payload installation,sha1,13882ee91b114f09f12691774187a1e47acf2404,Source: MalwareBazaar
+2024-05-01,Payload installation,sha256,d8fd8387dccd0c2884b3a17ca71477d8dee15b5b445fd9a0ac37fe29ca91440a,Source: MalwareBazaar
+2024-05-01,Payload installation,filename,PI No. LI-4325.exe,Source: MalwareBazaar
+2024-05-01,Payload installation,md5,a0ae207c7276c6992f9a7003db0bb223,Source: MalwareBazaar
+2024-05-01,Payload installation,sha1,72f42e3b54b1b8b28ed4ca962f7beb0f232a8a21,Source: MalwareBazaar
+2024-05-01,Payload installation,sha256,094f62c5791469b0fb9c210f61caaa8b4e6d5c1901672548435fd2897ac00bad,Source: MalwareBazaar
+2024-05-01,Payload installation,filename,Aviso de cuenta vencida de DHL - 1606622076_86576432567897664542354656767896756442356789000876543.exe,Source: MalwareBazaar
+2024-05-01,Payload installation,md5,9b7bf654db9b31e175d23966f065caf1,Source: MalwareBazaar
+2024-05-01,Payload installation,sha1,212291250705e5394771187d3168e7f01772a61d,Source: MalwareBazaar
+2024-05-01,Payload installation,sha256,84e4b416f16c9b8a83082c36aa0aa08748a2a6477c28bcc0070b21b1384540b0,Source: MalwareBazaar
+2024-05-01,Payload installation,filename,DHL Express shipment delivery doc pdf.exe,Source: MalwareBazaar
+2024-05-01,Payload installation,md5,e79642468ba938da48765e5546ab85f6,Source: MalwareBazaar
+2024-05-01,Payload installation,sha1,eff384f568a24cfdd1d2c25a13ba1171fddb55cc,Source: MalwareBazaar
+2024-05-01,Payload installation,sha256,8b7381ea399084b6999397672ad8557e74ceb6f735566143f2ea344be4d83ea5,Source: MalwareBazaar

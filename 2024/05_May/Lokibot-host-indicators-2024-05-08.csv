@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-05-08]
+| UUID: 231c16bc-6f6b-4a61-8366-4527c370f253
+| Date: 2024-05-09
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-08,Payload installation,filename,4faa0f24f8100aac8478d7d90f0b9f2320a81d3fac35e44244c638884352c5b1,Source: MalwareBazaar
+2024-05-08,Payload installation,md5,2dc4472c7d31c26df08a099d8054a49a,Source: MalwareBazaar
+2024-05-08,Payload installation,sha1,c4e13bc38d07910435d459890256f44afd42859f,Source: MalwareBazaar
+2024-05-08,Payload installation,sha256,4faa0f24f8100aac8478d7d90f0b9f2320a81d3fac35e44244c638884352c5b1,Source: MalwareBazaar
+2024-05-08,Payload installation,filename,97a3313357020aa0cda6addb7bd2015cc52f67dcde4c75f4d89f9f4d76f17b04,Source: MalwareBazaar
+2024-05-08,Payload installation,md5,86c88ab317956ee1d35b5802845de055,Source: MalwareBazaar
+2024-05-08,Payload installation,sha1,7fa40da683832dc76d91722f45de061e15103beb,Source: MalwareBazaar
+2024-05-08,Payload installation,sha256,97a3313357020aa0cda6addb7bd2015cc52f67dcde4c75f4d89f9f4d76f17b04,Source: MalwareBazaar
+2024-05-09,Payload installation,filename,03974DRAFTDOCX.exe,Source: MalwareBazaar
+2024-05-09,Payload installation,md5,7c157fe38ebd0ae52165e9c23f25afd2,Source: MalwareBazaar
+2024-05-09,Payload installation,sha1,9ed7c2b5253efec6fa740b110575e94e31d3d6d5,Source: MalwareBazaar
+2024-05-09,Payload installation,sha256,348a9dd7b237991a3681c919ec078df54a65dfbcfd66ff7976d9b59b20e6cf62,Source: MalwareBazaar

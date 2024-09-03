@@ -1,0 +1,38 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-05-17]
+| UUID: 5f9ab30a-03c1-410b-8e8e-16ebe6c9cd13
+| Date: 2024-05-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-17,Payload installation,filename,New Shipping Documents.exe,Source: MalwareBazaar
+2024-05-17,Payload installation,md5,eb92c84c35a8fc7f3a3ceaff5ae92d91,Source: MalwareBazaar
+2024-05-17,Payload installation,sha1,97c0ce3c02a1c73e5dbf3c3d48882ead54ec22f6,Source: MalwareBazaar
+2024-05-17,Payload installation,sha256,60f1ac504a4834661c70a8746865a489063c66efe31244c2192cbd20f354a191,Source: MalwareBazaar
+2024-05-17,Payload installation,filename,فاتورة 1550.exe,Source: MalwareBazaar
+2024-05-17,Payload installation,md5,d9307c948c324d081e572845ffb7cabc,Source: MalwareBazaar
+2024-05-17,Payload installation,sha1,1669ced0e46deaaffb404725fa3162c540d6f086,Source: MalwareBazaar
+2024-05-17,Payload installation,sha256,b0ae2b7437d3c579334053db2da6e1a3b4e0435fcdcc77bc11bcf58c6289a859,Source: MalwareBazaar
+2024-05-17,Payload installation,filename,bin.exe,Source: MalwareBazaar
+2024-05-17,Payload installation,md5,07cab8eb7cb6718813b10b8491c1e98b,Source: MalwareBazaar
+2024-05-17,Payload installation,sha1,5f17c96db18b124006a8472cc65c2af59defea5e,Source: MalwareBazaar
+2024-05-17,Payload installation,sha256,5c76afd3c0684c8b284486e79d5a88fa7c45f502bb4556673e2b487e3a9d620b,Source: MalwareBazaar
+2024-05-17,Payload installation,filename,Erzsébet - árajánlat kérése.xlsm,Source: MalwareBazaar
+2024-05-17,Payload installation,md5,49fbdfeeae6102f667899001e34cc40a,Source: MalwareBazaar
+2024-05-17,Payload installation,sha1,0538c187474e653f877fe6cb92cd0e4e6cf00ec6,Source: MalwareBazaar
+2024-05-17,Payload installation,sha256,80bc491f53143f0586753066eff8912b356258afe443f5d0f74ef9b36703225c,Source: MalwareBazaar
+2024-05-17,Payload installation,filename,Curriculum Vitae Catalina Munoz.exe,Source: MalwareBazaar
+2024-05-17,Payload installation,md5,4fbe8b12fef334afbe168df6cd8ddcf6,Source: MalwareBazaar
+2024-05-17,Payload installation,sha1,2f3593eb45c60ca5581aafd737ac8b6af9bbe6f9,Source: MalwareBazaar
+2024-05-17,Payload installation,sha256,c67f8d964ee3965911b0f29dd28a6bd65f136662f5cd3a1193f85ab7e81656c2,Source: MalwareBazaar
+2024-05-18,Payload installation,filename,Swift copy.exe,Source: MalwareBazaar
+2024-05-18,Payload installation,md5,a3f691b8cbca9531cb2e2711e0f2a166,Source: MalwareBazaar
+2024-05-18,Payload installation,sha1,3f8369e5be5fa86d52afb5dbe538bddc0060ab90,Source: MalwareBazaar
+2024-05-18,Payload installation,sha256,e8fe4366c2f5dec094103ca8abbf55bf6d2bfd50fa9e6441111678a0f0e8c432,Source: MalwareBazaar
+2024-05-18,Payload installation,filename,nPLN.exe,Source: MalwareBazaar
+2024-05-18,Payload installation,md5,900ecb152e5f2de0be3c7fbd061f3415,Source: MalwareBazaar
+2024-05-18,Payload installation,sha1,48f03830d28260d7d5e0f2d8dd30665235986e2d,Source: MalwareBazaar
+2024-05-18,Payload installation,sha256,5243b249b82fb33756ce0f6fd1daf1d556745e325d52a903903aa96a62436bd3,Source: MalwareBazaar

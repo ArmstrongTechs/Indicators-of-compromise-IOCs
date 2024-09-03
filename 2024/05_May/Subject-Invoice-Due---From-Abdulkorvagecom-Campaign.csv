@@ -1,0 +1,25 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Invoice Due - From: Abdul@korvage.com"" Campaign"
+| UUID: 9678aa56-8808-486f-b418-c86e16944548
+| Date: 2024-05-07
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-07,Payload delivery,email-src,abdul@korvage.com,Source email: from Abdul@korvage.com - subject: Invoice Due
+2024-05-07,Payload delivery,email-src-display-name,Abdul Muhammed,Source email: from Abdul@korvage.com - subject: Invoice Due
+2024-05-07,Payload delivery,email-body,"Dear [REDACTED]
+Attached is the invoice due for payment.
+
+Kindly check and get back to me.
+
+Peter Chen",Source email: from Abdul@korvage.com - subject: Invoice Due
+2024-05-07,Payload delivery,email-subject,Invoice Due,Source: from Abdul@korvage.com - subject: Invoice Due
+2024-05-07,Payload delivery,filename|sha256,Invoice#0985.html|d9d4e12138ce30355592fb3fef04c5d3302ace4c243d8c3b5d17bbbc687d378f,Malspam attachment - source: from Abdul@korvage.com - subject: Invoice Due mime: text/html
+2024-05-07,Payload delivery,filename|ssdeep,Invoice#0985.html|768:SeDjXQKdQD+XFnbmbCNDuirKaJTQoTgeu/a7G1elxXqauLf8Yzv/u2htbF6RUTuy:LgabYj01o/NZ6IJkaOqQC,Malspam attachment - source: from Abdul@korvage.com - subject: Invoice Due mime: text/html
+2024-05-07,Payload delivery,filename|sha1,Invoice#0985.html|8306608035bbcfa864015140a83b31fc189aa991,Malspam attachment - source: from Abdul@korvage.com - subject: Invoice Due mime: text/html
+2024-05-07,Payload delivery,filename|sha512,Invoice#0985.html|461475041504db55e9348c613d3e0335d188d7c5c997b1e4521bfdf58563728c2e57505dba87f09d06905212eb0b74fb8c3b54e784045c9ac12d946d32fe9750,Malspam attachment - source: from Abdul@korvage.com - subject: Invoice Due mime: text/html
+2024-05-07,Payload delivery,filename|md5,Invoice#0985.html|0c1913a4dbb3078a15123eb561b70010,Malspam attachment - source: from Abdul@korvage.com - subject: Invoice Due mime: text/html
+2024-05-07,Network activity,url,https://joviallwatch.com/ekr/river.php,Source: Network activity; POST method from Invoice#0985.html

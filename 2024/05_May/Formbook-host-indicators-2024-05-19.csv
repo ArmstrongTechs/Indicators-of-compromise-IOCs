@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-05-19]
+| UUID: aeab40d2-038c-466e-b9c6-be480889c358
+| Date: 2024-05-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-19,Payload installation,filename,21d18e20b8b0e17e0b554b5940a7aaed,Source: MalwareBazaar
+2024-05-19,Payload installation,md5,21d18e20b8b0e17e0b554b5940a7aaed,Source: MalwareBazaar
+2024-05-19,Payload installation,sha1,bad65794a2bc8c23d373f82e11978f11af1af57d,Source: MalwareBazaar
+2024-05-19,Payload installation,sha256,b600c43e2980691952532a79e7a0aef2351aeef6f740fd2f56647509c93b6da0,Source: MalwareBazaar
+2024-05-19,Payload installation,filename,Dang_Tap v3.2.exe,Source: MalwareBazaar
+2024-05-19,Payload installation,md5,caba3480869729c3082340ab4ce4dfc0,Source: MalwareBazaar
+2024-05-19,Payload installation,sha1,452e7dbd1aae2ede9d989b9018af83185e27097b,Source: MalwareBazaar
+2024-05-19,Payload installation,sha256,848411659aa8dfc757a3f4a889ed7c2b7f2c0e78c119bec00cd31bf32925bcc7,Source: MalwareBazaar
+2024-05-20,Payload installation,filename,Swift copy.img,Source: MalwareBazaar
+2024-05-20,Payload installation,md5,c7c6a7f806393dc3a2f999fe0fbba993,Source: MalwareBazaar
+2024-05-20,Payload installation,sha1,e3f89be5fcdc421ae78bb1904d5046058559772f,Source: MalwareBazaar
+2024-05-20,Payload installation,sha256,9bc5e04220e8bbf50c378c4f087b260f244e0a1e4a766121ca06bf08bd55c87b,Source: MalwareBazaar

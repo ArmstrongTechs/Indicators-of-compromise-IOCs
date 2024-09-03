@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-05-20]
+| UUID: 1301dd94-022c-49c3-92ef-6e9bb9901162
+| Date: 2024-05-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-20,Payload installation,filename,FedEx Receipt_AWB# 102235506763.exe,Source: MalwareBazaar
+2024-05-20,Payload installation,md5,2a8b4be893e8e3d091d47dbd1491d80e,Source: MalwareBazaar
+2024-05-20,Payload installation,sha1,31e302c707d6cf8f7d949f54f26955b9ff6aa17f,Source: MalwareBazaar
+2024-05-20,Payload installation,sha256,a26e16d509a27265de9e3cf3cd5bc96d5e13b2ce1709d54d82ac8885823b35ae,Source: MalwareBazaar
+2024-05-20,Payload installation,filename,Maersk_Quotation.exe,Source: MalwareBazaar
+2024-05-20,Payload installation,md5,4e2a32898a1efd013915d15cc28b9039,Source: MalwareBazaar
+2024-05-20,Payload installation,sha1,340557785d063449f120ccbed60371b4e45bb1ab,Source: MalwareBazaar
+2024-05-20,Payload installation,sha256,20778595e538b4ef30d9053e1934b67f115d338f27a01e9a858f84e729fdce28,Source: MalwareBazaar
+2024-05-20,Payload installation,filename,gunzipped.exe,Source: MalwareBazaar
+2024-05-20,Payload installation,md5,c5d4468a5ba8ba0e1fac05a48724a32e,Source: MalwareBazaar
+2024-05-20,Payload installation,sha1,1f972264fa9206cfa19db93cd0070f349d2138b3,Source: MalwareBazaar
+2024-05-20,Payload installation,sha256,cfe44cc7a02528dd5cb871658c28524245d3ead8dd3cbedc78815f0e02acb69d,Source: MalwareBazaar

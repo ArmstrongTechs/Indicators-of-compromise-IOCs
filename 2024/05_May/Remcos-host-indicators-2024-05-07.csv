@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-05-07]
+| UUID: cd4b6c28-6584-4c52-ad36-d97fe79767d3
+| Date: 2024-05-08
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-08,Payload installation,filename,Bordbns.exe,Source: MalwareBazaar
+2024-05-08,Payload installation,md5,fb5601dbb8729e3c028897e81f8a6561,Source: MalwareBazaar
+2024-05-08,Payload installation,sha1,6c8f48c6fa37b84c11f477dfc1699e1f4d19cc08,Source: MalwareBazaar
+2024-05-08,Payload installation,sha256,b1ab36e342ada65f2ba8ebc069b3e6ab1c51c0a092e09addb8f3408cf8fbdf8a,Source: MalwareBazaar
+2024-05-08,Payload installation,filename,SKMFTTEHRAN665757754757758689949688445454Ordn.exe,Source: MalwareBazaar
+2024-05-08,Payload installation,md5,5f0d70ce83681545008ce05b22081a61,Source: MalwareBazaar
+2024-05-08,Payload installation,sha1,06bdad72fb94eedd20fa745550d356fee150222f,Source: MalwareBazaar
+2024-05-08,Payload installation,sha256,f8a6c58d226e584aad84d5ede794437d88f9a8b82cd1c899417c2572d5e4cba4,Source: MalwareBazaar
+2024-05-08,Payload installation,filename,PO-00295.exe,Source: MalwareBazaar
+2024-05-08,Payload installation,md5,34157e93112a61a61fd0dbe887c575a1,Source: MalwareBazaar
+2024-05-08,Payload installation,sha1,0ee279ee2a950aebdfa5fe2fe9227654e08704d1,Source: MalwareBazaar
+2024-05-08,Payload installation,sha256,7901d43526c53f3ba10422f1df1d7a6c0b0a556c28236670258c821e36ed9803,Source: MalwareBazaar

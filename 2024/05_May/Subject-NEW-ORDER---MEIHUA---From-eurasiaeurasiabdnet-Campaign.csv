@@ -1,0 +1,63 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: NEW ORDER - MEIHUA - From: eurasia@eurasiabd.net"" Campaign"
+| UUID: 3a20a270-b5a3-4010-b29e-4b504c116e83
+| Date: 2024-05-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-27,Payload delivery,email-src,eurasia@eurasiabd.net,Source email: from eurasia@eurasiabd.net - subject: NEW ORDER - MEIHUA; Spoofing
+2024-05-27,Payload delivery,email-src-display-name,MEIHUA,Source email: from eurasia@eurasiabd.net - subject: NEW ORDER - MEIHUA
+2024-05-27,Payload delivery,email-body,"Dear Sir/Ma,
+
+
+My name is Chloe from MEIHUA GROUP INTERNATIONAL TRADING COMPANY, based in Hong Kong. We are an international procurement agency for companies in Asia and Europe.
+
+We are currently looking for a large quantity of the products I have attached according to the order inquiry of our new customer that is of high urgency.
+
+Please check the attachment and advise your best prices and earliest delivery schedule.
+
+Also, please check our questions in the following:
+
+         1) All products must not be compressed, in clean condition, no contaminants such as mud, no rubber,
+
+             no tire residues.
+
+         2) Please provide the FOB
+
+         3) Please provide the CIF to Port Yantian
+
+         4) Please provide the transaction procedure
+
+         5) What is your in-stock quantity?
+
+         6) What is the maximum quantity that can be provided each month?
+
+ 
+
+I look forward to hearing from you soon.
+
+
+Thank you
+
+Chloe Kim
+
+MEIHUA GROUP INTERNATIONAL TRADING (HONG KONG) CO., LTD.  
+
+Registered address: Room D 10/F Tower A Billion Centre,
+
+1 Wang Kwong Road, Kowloon Bay, Kowloon, Hong Kong
+
+Email [REDACTED][REDACTED]  URL: www.meihuagrp.com <http://www.meihuagrp.com/> 
+
+Tel: + 86 316-2359999 Fax: +86 316-2359679",Source email: from eurasia@eurasiabd.net - subject: NEW ORDER - MEIHUA
+2024-05-27,Payload delivery,email-subject,NEW ORDER - MEIHUA,Source: from eurasia@eurasiabd.net - subject: NEW ORDER - MEIHUA
+2024-05-27,Payload delivery,filename|sha256,MEIHUA PURCHASE ORDER SPECIFICATIONS-1.pdf|b5f10bb5220fba99e52f3e9a93cd4c4facd8e37c6a0ef82271cc6ffb652c5b1c,Malspam attachment - source: from eurasia@eurasiabd.net - subject: NEW ORDER - MEIHUA mime: application/pdf
+2024-05-27,Payload delivery,filename|ssdeep,MEIHUA PURCHASE ORDER SPECIFICATIONS-1.pdf|768:ZdREzijBPpoaB4fOBsMxt9fzA/x8Yr5xCzdVQY4n6RxH4oJ3C2l3fuCuCc+8jZDW:xljBBoXWBsSA2q2d+6I1w3fNUzFfjFpA,Malspam attachment - source: from eurasia@eurasiabd.net - subject: NEW ORDER - MEIHUA mime: application/pdf
+2024-05-27,Payload delivery,filename|sha1,MEIHUA PURCHASE ORDER SPECIFICATIONS-1.pdf|d43367e6768fb6e342f7b769ee3d44ed6cfabc6f,Malspam attachment - source: from eurasia@eurasiabd.net - subject: NEW ORDER - MEIHUA mime: application/pdf
+2024-05-27,Payload delivery,filename|sha512,MEIHUA PURCHASE ORDER SPECIFICATIONS-1.pdf|adb04037c2dcd6b9fd142eb47baafbf391a03a833110ebc7ab710cb5a4c37c1df115afce28f6ae62ca4b81aed0b020fe487024e29afe5cf437522de3e6d6b96d,Malspam attachment - source: from eurasia@eurasiabd.net - subject: NEW ORDER - MEIHUA mime: application/pdf
+2024-05-27,Payload delivery,filename|md5,MEIHUA PURCHASE ORDER SPECIFICATIONS-1.pdf|18b2b013ca54d438e8955e0f22a4a9d9,Malspam attachment - source: from eurasia@eurasiabd.net - subject: NEW ORDER - MEIHUA mime: application/pdf
+2024-05-27,Network activity,url,https://cloudflare-ipfs.com/ipfs/bafkreieg7ifj4vmdhi4ymh3kmaobtyah2d4shjdut7dtgje4f7tmczhaki,Source: Network activity from MEIHUA PURCHASE ORDER SPECIFICATIONS-1.pdf
+2024-05-27,Network activity,url,https://nocodeform.io/f/66416e81665e26321382abf9,Source: Network activity; POST method from https://cloudflare-ipfs.com/ipfs/bafkreieg7ifj4vmdhi4ymh3kmaobtyah2d4shjdut7dtgje4f7tmczhaki

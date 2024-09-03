@@ -1,0 +1,32 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Agent Tesla - GuLoader (SMTP)
+| UUID: e9977bf6-09be-4f92-9940-7c45fb3ba39d
+| Date: 2024-05-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-21,Network activity,url,https://drive.google.com/uc?export=download&id=1b_DhMdEk8Rw66Ie4CATPXftbjD6uEOUR,
+2024-05-21,Network activity,domain,mail.biotem.com.tr,SMTP exfil
+2024-05-21,Network activity,email-src,kaan.ince@biotem.com.tr,SMTP exfil
+2024-05-21,Network activity,email-dst,agueroexcavacione@omicronenergy.fun,SMTP exfil
+2024-05-21,Payload delivery,malware-sample,factura 7823378.rar|fba84bd4571f4879cd5140a9689cc543,
+2024-05-21,Payload delivery,filename,factura 7823378.rar,
+2024-05-21,Payload delivery,md5,fba84bd4571f4879cd5140a9689cc543,
+2024-05-21,Payload delivery,sha1,8f9b0c629bf90cb8a22b5030d2aed6436c68beb4,
+2024-05-21,Payload delivery,sha256,72b85818d7c9eeccc50f4e3ff2eaa911fd755ad73668178a54467c791deddf8d,
+2024-05-21,Other,size-in-bytes,1285061,
+2024-05-21,Payload delivery,malware-sample,factura 7823378.exe|7741e296fc7876e2cf35e44ba4264f47,
+2024-05-21,Payload delivery,filename,factura 7823378.exe,
+2024-05-21,Payload delivery,md5,7741e296fc7876e2cf35e44ba4264f47,
+2024-05-21,Payload delivery,sha1,265bb706ee04a4d3b6f23c87873bc7d5202c0de9,
+2024-05-21,Payload delivery,sha256,938a507f1786d7badcc95dca38a1d9bdb78984b051a68a7fd70a1b872b36a2b2,
+2024-05-21,Other,size-in-bytes,1343992,
+2024-05-21,Payload delivery,malware-sample,QHDLSrkVsS26.bin|ae3cb01ae7212ff124d86c45b590e263,
+2024-05-21,Payload delivery,filename,QHDLSrkVsS26.bin,
+2024-05-21,Payload delivery,md5,ae3cb01ae7212ff124d86c45b590e263,
+2024-05-21,Payload delivery,sha1,df72ae2613152bbd4648e15499b5a7f06196c65e,
+2024-05-21,Payload delivery,sha256,c9a3738cf6dc0ac841df72aa5066618f8025f45569e2112d57415ffc0f17e11c,
+2024-05-21,Other,size-in-bytes,243776,

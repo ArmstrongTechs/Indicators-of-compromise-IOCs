@@ -1,0 +1,38 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-05-02]
+| UUID: ea1ada69-c90d-4efd-943c-c6993fd8afb4
+| Date: 2024-05-03
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-02,Payload installation,filename,SOLICITUD DE PRESUPUESTO.vbs,Source: MalwareBazaar
+2024-05-02,Payload installation,md5,f7439b9e463846522c773de75019ff44,Source: MalwareBazaar
+2024-05-02,Payload installation,sha1,180ec2b7ee0566be31aadf210a5cd48dc77fe333,Source: MalwareBazaar
+2024-05-02,Payload installation,sha256,99fcaa8b75247984e2e2a1cee9250ab8d09dba9a93488a5e4e6021e69eb72463,Source: MalwareBazaar
+2024-05-02,Payload installation,filename,EMPLOYEE-FINAL-SETTLEMENTS.doc,Source: MalwareBazaar
+2024-05-02,Payload installation,md5,c4c7a71468bec6ac56c353767818203c,Source: MalwareBazaar
+2024-05-02,Payload installation,sha1,b5d819e1c5b432f4166d6a5a90499d5f1a32dd3e,Source: MalwareBazaar
+2024-05-02,Payload installation,sha256,fe4c5a4302c5f56a1f121724de6a5c57ea15962c36dd985d03fd7c6775395783,Source: MalwareBazaar
+2024-05-02,Payload installation,filename,9cd48f0d93c28ae6559409de23414554,Source: MalwareBazaar
+2024-05-02,Payload installation,md5,9cd48f0d93c28ae6559409de23414554,Source: MalwareBazaar
+2024-05-02,Payload installation,sha1,a6a625d2dce72bf9f7deee747c95ed7f7cf36cd0,Source: MalwareBazaar
+2024-05-02,Payload installation,sha256,3ed0095ee2de05e81ac2c954eb0df312d6b919d871b60ce4265acd266be09d3c,Source: MalwareBazaar
+2024-05-02,Payload installation,filename,RFQ02212420.exe,Source: MalwareBazaar
+2024-05-02,Payload installation,md5,a8bd1b12d450b9f4513524f0eacb7359,Source: MalwareBazaar
+2024-05-02,Payload installation,sha1,30d688c3923e089ff08facbacbc0cd55499bbca8,Source: MalwareBazaar
+2024-05-02,Payload installation,sha256,66fa9e8d1cb0406ee13e9441b65b0f0405d6c847dc5cfa2e232342d0d8081dec,Source: MalwareBazaar
+2024-05-02,Payload installation,filename,Mt103Memo.zip,Source: MalwareBazaar
+2024-05-02,Payload installation,md5,713002af1f5c46201fdbbf04ae4cbdbc,Source: MalwareBazaar
+2024-05-02,Payload installation,sha1,14e65d89365b0a92750c0de4110c9723db415c93,Source: MalwareBazaar
+2024-05-02,Payload installation,sha256,fc00199b1dbd357977319b8bc50f064f0e4f6db735d12e1a45e4c179ae200858,Source: MalwareBazaar
+2024-05-02,Payload installation,filename,RFQ-LOTUS 2024.exe,Source: MalwareBazaar
+2024-05-02,Payload installation,md5,e0360d9d8f69298a258f82881cf980ff,Source: MalwareBazaar
+2024-05-02,Payload installation,sha1,2a56fa9ae0db6d32489f98aef68a6ad3ef75aa2b,Source: MalwareBazaar
+2024-05-02,Payload installation,sha256,d94de28be7562e264ca015a2f1f0001744354b15a18551fcc786a5b9c47fb068,Source: MalwareBazaar
+2024-05-03,Payload installation,filename,STATEMENT OF ACCOUNT.exe,Source: MalwareBazaar
+2024-05-03,Payload installation,md5,0640fe8e51432d90ec56ed8524b40970,Source: MalwareBazaar
+2024-05-03,Payload installation,sha1,d042a7a0a6a85a0fc7dd270d452731c362a234a5,Source: MalwareBazaar
+2024-05-03,Payload installation,sha256,7ef5e8ef52c30fec9a47bad942c0a757eb47fd67a46fcef29a78e4892a0a0e94,Source: MalwareBazaar

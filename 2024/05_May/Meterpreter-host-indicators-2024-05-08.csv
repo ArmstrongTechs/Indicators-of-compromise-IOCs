@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Meterpreter host indicators [2024-05-08]
+| UUID: dba24afb-dae9-4f65-8fea-4ae3aef047bb
+| Date: 2024-05-08
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-08,Payload installation,filename,aa.exe,Source: MalwareBazaar
+2024-05-08,Payload installation,md5,a4abedbe5f77c674e27df10c866589a3,Source: MalwareBazaar
+2024-05-08,Payload installation,sha1,1b9968c5aabc5391081fbc9468ff9292139ccb78,Source: MalwareBazaar
+2024-05-08,Payload installation,sha256,a6245ab6f8df2e10f00508b9cc82301cee9e49634d596ff1033a8c2d04ba750f,Source: MalwareBazaar

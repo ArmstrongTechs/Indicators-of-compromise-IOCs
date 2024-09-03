@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Threat email attachment: BOQ DETAILS FILE.rar
+| UUID: 3831132d-c6b2-4c98-bd2b-fa402d6ed181
+| Date: 2024-05-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-21,Payload delivery,sha256,6bf5f9f31d50ac134635265b6a3b4cc56998d4087f3f185dffceca436ce77993,Attachment BOQ DETAILS FILE.rar
+2024-05-20,Payload delivery,email-subject,Proposal Request,Email subject
+2024-05-20,Payload delivery,email-attachment,BOQ DETAILS FILE.rar,Email attachment

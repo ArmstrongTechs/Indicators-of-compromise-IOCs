@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Nanocore host indicators [2024-05-27]
+| UUID: acaf46ec-9c9a-40ed-b972-23af0cd0d1ba
+| Date: 2024-05-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-27,Payload installation,filename,GTD092563762376231230373228.exe,Source: MalwareBazaar
+2024-05-27,Payload installation,md5,c6df0f1fdf3b0d52580f6375537a144a,Source: MalwareBazaar
+2024-05-27,Payload installation,sha1,639e22e5ace59d41e039c8e89131f69bc8da96e7,Source: MalwareBazaar
+2024-05-27,Payload installation,sha256,b0ad6f779e4a72a0e75bb48eec11e8b2f270c95078054e9559505efce6a25c8c,Source: MalwareBazaar
+2024-05-28,Payload installation,filename,PAGO46780902788786778.exe,Source: MalwareBazaar
+2024-05-28,Payload installation,md5,56eacbaec7c2239feeacdadf3fae0786,Source: MalwareBazaar
+2024-05-28,Payload installation,sha1,4dc23ff9c577ae0218a8e87818400b952bc45170,Source: MalwareBazaar
+2024-05-28,Payload installation,sha256,8008ab1db4e5ce83daea144f7ff2c2c81f10f73843fc1ddba4040426a54fd1a9,Source: MalwareBazaar

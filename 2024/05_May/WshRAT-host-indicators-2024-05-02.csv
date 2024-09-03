@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: WshRAT host indicators [2024-05-02]
+| UUID: bc94b761-0392-45c2-a7c0-3f2a6eca9b07
+| Date: 2024-05-02
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-03,Payload installation,filename,Update on Payment.js,Source: MalwareBazaar
+2024-05-03,Payload installation,md5,8dcc2c7236870e00097d09cadc066b03,Source: MalwareBazaar
+2024-05-03,Payload installation,sha1,2c9868c25000e2d7801dc9fd431d6ba99b694e16,Source: MalwareBazaar
+2024-05-03,Payload installation,sha256,d968cf117419570bc67f57a2be52a648d2253346fd60489c06435fdbe518c61e,Source: MalwareBazaar
+2024-05-03,Payload installation,filename,PendingInvoiceBankDetails.JS.js,Source: MalwareBazaar
+2024-05-03,Payload installation,md5,45ece63fd62550c00c23129d45acc6ae,Source: MalwareBazaar
+2024-05-03,Payload installation,sha1,428b9734401dbb1c71cbe84894be3ac54f7f8f0f,Source: MalwareBazaar
+2024-05-03,Payload installation,sha256,60413aef500d578efcf2ce776c02d9d6b29ec0d1070ea7d758b6c5a3544e7928,Source: MalwareBazaar
+2024-05-03,Payload installation,filename,2024 12:59:31 a.m..js,Source: MalwareBazaar
+2024-05-03,Payload installation,md5,a6397cdb9e01000e53c123893acad42c,Source: MalwareBazaar
+2024-05-03,Payload installation,sha1,6cd4fbdf9d806e21533c546e3aca996d20a611ba,Source: MalwareBazaar
+2024-05-03,Payload installation,sha256,010095c8ca094243c44f0d489b55dc1a132e0f776ab71e6bc221ff8c127a810b,Source: MalwareBazaar

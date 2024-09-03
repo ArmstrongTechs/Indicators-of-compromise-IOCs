@@ -1,0 +1,32 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla in RAR email attachment (SMTP exfiltration)
+| UUID: 2af02d6c-1994-463d-80a9-e1abe087e185
+| Date: 2024-05-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-14,Payload delivery,url,https://drive.google.com/uc?export=download&id=1ssq0WIHz3R6QjVeAtdJKDiSeOilBh7gP,
+2024-05-14,Network activity,hostname,cp5ua.hyperhost.ua,
+2024-05-14,Network activity,email-dst,project@aflacltd.top,
+2024-05-14,Network activity,email-src,projectlog@aflacltd.top,
+2024-05-14,Payload delivery,malware-sample,RFQ-GMTP-MR-MR-0011_Rev.rar|9b79941b6479b763d63be0abdcbd175a,
+2024-05-14,Payload delivery,filename,RFQ-GMTP-MR-MR-0011_Rev.rar,
+2024-05-14,Payload delivery,md5,9b79941b6479b763d63be0abdcbd175a,
+2024-05-14,Payload delivery,sha1,08aad44e5e30513d623ede36bef66678f51e0e74,
+2024-05-14,Payload delivery,sha256,9e056bd7bf98cec3f92b1969917abdfd0e6858248ea7ded14633a08e0b4f1fa7,
+2024-05-14,Other,size-in-bytes,351596,
+2024-05-14,Payload delivery,malware-sample,19P3792A-M11A.01A_Z1_Rev.exe|45cc0b8a0047f2fc49d6dda8d6c2229b,
+2024-05-14,Payload delivery,filename,19P3792A-M11A.01A_Z1_Rev.exe,
+2024-05-14,Payload delivery,md5,45cc0b8a0047f2fc49d6dda8d6c2229b,
+2024-05-14,Payload delivery,sha1,7c709aee50304253f1a0ec1b6121af1c5c7053e6,
+2024-05-14,Payload delivery,sha256,ba532af9f3c35a3b648aae5bbefbe161a21b9bbc068c51908960fcddec5eeaad,
+2024-05-14,Other,size-in-bytes,633392,
+2024-05-14,Payload delivery,malware-sample,1ssq0WIHz3R6QjVeAtdJKDiSeOilBh7gP|e6dcb78a5375645418ceef5b54867b9f,
+2024-05-14,Payload delivery,filename,1ssq0WIHz3R6QjVeAtdJKDiSeOilBh7gP,
+2024-05-14,Payload delivery,md5,e6dcb78a5375645418ceef5b54867b9f,
+2024-05-14,Payload delivery,sha1,f5703679b8f403f3ae795aab2a80c04362366e6b,
+2024-05-14,Payload delivery,sha256,daca1b982db8004d7309a7130d937f72e0c0720772614fdbf6e9783228f30189,
+2024-05-14,Other,size-in-bytes,240192,

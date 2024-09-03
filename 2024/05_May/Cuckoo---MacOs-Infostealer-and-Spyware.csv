@@ -1,0 +1,24 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Cuckoo - MacOs Infostealer and Spyware
+| UUID: fd5324d4-60fb-4ef9-9fd5-773f9d19632c
+| Date: 2024-05-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-15,Payload delivery,sha256,1827db474aa94870aafdd63bdc25d61799c2f405ef94e88432e8e212dfa51ac7,
+2024-05-15,Payload delivery,sha256,254663d6f4968b220795e0742284f9a846f995ba66590d97562e8f19049ffd4b,
+2024-05-15,Payload delivery,sha256,a709dacc4d741926a7f04cad40a22adfc12dd7406f016dd668dd98725686a2dc,
+2024-05-15,Payload delivery,sha256,6662576e48a44418beee861499346b037c23ec0a91fb05c2d9ae3dc42650ab82,
+2024-05-15,Payload delivery,sha256,d8c3c7eedd41b35a9a30a99727b9e0b47e652b8f601b58e2c20e2a7d30ce14a8,
+2024-05-15,Payload delivery,sha256,1dfc5689913347d052a24488256758ce87ba7acff412fb293993552b38640b3e,
+2024-05-15,Payload delivery,sha256,39f1224d7d71100f86651012c87c181a545b0a1606edc49131730f8c5b56bdb7,
+2024-05-15,Network activity,url,http://146.70.80.123/static.php,
+2024-05-15,Network activity,url,http://146.70.80.123/index.php,
+2024-05-15,Network activity,url,http://tunesolo.com,
+2024-05-15,Network activity,url,http://fonedog.com,
+2024-05-15,Network activity,url,http://tunesfun.com,
+2024-05-15,Network activity,url,http://dumpmedia.com,
+2024-05-15,Network activity,url,http://tunefab.com,

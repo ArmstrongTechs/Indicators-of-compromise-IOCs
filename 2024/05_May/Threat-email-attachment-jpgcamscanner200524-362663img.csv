@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Threat email attachment: jpgcamscanner200524-362663.img
+| UUID: 4667b1b6-1bc4-4244-a079-8c921e788141
+| Date: 2024-05-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-21,Payload delivery,sha256,0e43491faa9545670603fb089e7f4af8f6f932433b8394352dd5486bd61bc958,Attachment jpgcamscanner200524-362663.img
+2024-05-20,Payload delivery,email-subject,επιβεβαίωση της παραγγελίας,Email subject
+2024-05-20,Payload delivery,email-attachment,jpgcamscanner200524-362663.img,Email attachment
+2024-05-20,Payload delivery,ip-src,5.56.32.91,Email sender IP address

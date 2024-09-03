@@ -1,0 +1,23 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: RemcosRAT in emal (.r20) attachment
+| UUID: 0f29ced1-2665-41f4-96fe-2b8972cb6c2f
+| Date: 2024-05-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-25,Network activity,ip-dst|port,192.210.201.57|52499,
+2024-05-25,Payload delivery,malware-sample,PO Attached _19556.r20|38e834148ea69a5fbdfa9a87f077f24c,
+2024-05-25,Payload delivery,filename,PO Attached _19556.r20,
+2024-05-25,Payload delivery,md5,38e834148ea69a5fbdfa9a87f077f24c,
+2024-05-25,Payload delivery,sha1,84099ff2cefe0732d0b2523f172e2e17411199cf,
+2024-05-25,Payload delivery,sha256,141191abbc0bd0ee1ae7e8ccda4ba316cb08858f3aa93d5a939d3f673957858f,
+2024-05-25,Other,size-in-bytes,900744,
+2024-05-25,Payload delivery,malware-sample,PO Attached _19556.exe|46dc4c1f9a11c29069cf15468fe8820c,
+2024-05-25,Payload delivery,filename,PO Attached _19556.exe,
+2024-05-25,Payload delivery,md5,46dc4c1f9a11c29069cf15468fe8820c,
+2024-05-25,Payload delivery,sha1,a6111bd4654d7d2f4f98292635772b79ef8088fa,
+2024-05-25,Payload delivery,sha256,211a9298024e92eadf76ffa74b1b090980232da0e26b4a54c00ed7821c308ab8,
+2024-05-25,Other,size-in-bytes,976443,

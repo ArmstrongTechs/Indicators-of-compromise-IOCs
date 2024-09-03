@@ -1,0 +1,28 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Phishing Campain against RTA
+| UUID: 5f1b5e3c-8e40-435d-bccc-6ac9082759a0
+| Date: 2024-05-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-24,Network activity,ip-src,190.115.24.43,
+2024-05-24,Network activity,hostname,www.rta-home.gainfullyincome.com,
+2024-05-24,Network activity,hostname,www.rta-home.goldenloanbroker.com,
+2024-05-24,Network activity,hostname,rta-home.gorilllaflows.com,
+2024-05-24,Network activity,hostname,www.rta-home.gorilllaflows.com,
+2024-05-24,Network activity,hostname,www.rta-home.nordic4tv.com,
+2024-05-24,Network activity,hostname,rta-home.gainfullyincome.com,
+2024-05-24,Network activity,hostname,rta-home.goldenloanbroker.com,
+2024-05-24,Other,text,Amsterdam,
+2024-05-24,Other,text,1012,
+2024-05-24,Other,text,North Holland,
+2024-05-24,Other,text,NL,
+2024-05-24,Other,float,52.3740,
+2024-05-24,Other,float,4.8897,
+2024-05-24,Network activity,hostname,triloteq.io,
+2024-05-24,Network activity,ip-dst,190.115.24.43,
+2024-05-24,Network activity,AS,59692,
+2024-05-24,Other,text,IQWeb FZ-LLC,

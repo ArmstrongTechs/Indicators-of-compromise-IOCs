@@ -1,0 +1,23 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla in email (zip) attachment - FTP data exfil
+| UUID: f9cfbb7a-02fb-454d-a893-de17cc50bd0a
+| Date: 2024-05-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-25,Network activity,hostname,ftp.prokemsc.com,
+2024-05-25,Payload delivery,malware-sample,scan230524.zip|00f8782a7479b3ef8cad160348eb718e,
+2024-05-25,Payload delivery,filename,scan230524.zip,
+2024-05-25,Payload delivery,md5,00f8782a7479b3ef8cad160348eb718e,
+2024-05-25,Payload delivery,sha1,3719f79bec740f5938a24c15c6744e1f58503417,
+2024-05-25,Payload delivery,sha256,f1e8b28f0127dee71e7a7a50b8ad839a889c261bbaa6e15a62a690ac6e5dab89,
+2024-05-25,Other,size-in-bytes,646951,
+2024-05-25,Payload delivery,malware-sample,scan230524.scr|73d3e083bf0961604847bebcfa8c4146,
+2024-05-25,Payload delivery,filename,scan230524.scr,
+2024-05-25,Payload delivery,md5,73d3e083bf0961604847bebcfa8c4146,
+2024-05-25,Payload delivery,sha1,3b6ba7a3706a0980b0ff5f7d671a58e82554e554,
+2024-05-25,Payload delivery,sha256,0939938762d2fc71692c741069e6936263062606267c15134e03b003fab93d61,
+2024-05-25,Other,size-in-bytes,915456,

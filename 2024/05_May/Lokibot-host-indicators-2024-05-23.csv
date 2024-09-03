@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-05-23]
+| UUID: 4ad55c5a-9610-477b-86fd-42fe019263d2
+| Date: 2024-05-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-24,Payload installation,filename,NEW PURCHASE ORDER?XCOD.scr.exe,Source: MalwareBazaar
+2024-05-24,Payload installation,md5,63c2c72a019bee6e49b658934f909336,Source: MalwareBazaar
+2024-05-24,Payload installation,sha1,2c95922ec392ee67ec941b7e033c055cbf0b9492,Source: MalwareBazaar
+2024-05-24,Payload installation,sha256,a17eeeebd01e2b2756e481339a001b068a4bf04f6b2e7626b39b1e77063507d7,Source: MalwareBazaar
+2024-05-24,Payload installation,filename,0b67adeb422396c047e87fa78a9e8e80,Source: MalwareBazaar
+2024-05-24,Payload installation,md5,0b67adeb422396c047e87fa78a9e8e80,Source: MalwareBazaar
+2024-05-24,Payload installation,sha1,0c2bdcfaf8480cfbdc74130e77167280193040d2,Source: MalwareBazaar
+2024-05-24,Payload installation,sha256,66e4c065666fc203efec41f2ac9fb171f0ad5da06c1830458ff2642ea64e789f,Source: MalwareBazaar
+2024-05-24,Payload installation,filename,SCB REmittance Advice.doc,Source: MalwareBazaar
+2024-05-24,Payload installation,md5,a19ff7526e4447064c95123087783231,Source: MalwareBazaar
+2024-05-24,Payload installation,sha1,28cd27bb7050fb4f5534f584b83ca3be90d64ac8,Source: MalwareBazaar
+2024-05-24,Payload installation,sha256,bc6fe96306eb0dcd81bbe50db9e9996b01ca39b22efa79fce253d38532353051,Source: MalwareBazaar

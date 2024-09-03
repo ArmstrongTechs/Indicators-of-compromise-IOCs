@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Emotet host indicators [2024-05-07]
+| UUID: 17bb7f20-8b95-458a-bb16-4eafd1d2637d
+| Date: 2024-05-08
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-08,Payload installation,filename,SecuriteInfo.com.BACKDOOR.Trojan.21313.18937,Source: MalwareBazaar
+2024-05-08,Payload installation,md5,b3011c80633229f6c706d98ff62b77a4,Source: MalwareBazaar
+2024-05-08,Payload installation,sha1,78aef0f54d647509a3489bef60c35ab3e945224d,Source: MalwareBazaar
+2024-05-08,Payload installation,sha256,5d4ad6640ec2846c1dfb439108cfad160beb850a541ec00980c20fc36e0944dc,Source: MalwareBazaar

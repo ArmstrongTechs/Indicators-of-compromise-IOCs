@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Smoke Loader host indicators [2024-05-18]
+| UUID: 56a201a3-51fe-4152-9d36-93bde5a181f1
+| Date: 2024-05-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-18,Payload installation,filename,SecuriteInfo.com.Win32.TrojanX-gen.29400.5480,Source: MalwareBazaar
+2024-05-18,Payload installation,md5,3e1782eae29ca512d3dc69d540de9e43,Source: MalwareBazaar
+2024-05-18,Payload installation,sha1,3a36b64a1c2b3b21d0a0472f2a8b3e6e04480ff3,Source: MalwareBazaar
+2024-05-18,Payload installation,sha256,9be21c291b8ab6af63dd7df4a224d4130a52432bc19d2dbd90a1ddbd44e9edc8,Source: MalwareBazaar

@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Meterpreter host indicators [2024-05-30]
+| UUID: a1762dd1-cb8a-4d88-93a5-663868c03608
+| Date: 2024-05-30
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-30,Payload installation,filename,reverse_tcp.msi,Source: MalwareBazaar
+2024-05-30,Payload installation,md5,0372fb862dc13979b09b5505ca32e6e3,Source: MalwareBazaar
+2024-05-30,Payload installation,sha1,25cfbfefb6d8dfaf42870bc970ae2c834da44a8c,Source: MalwareBazaar
+2024-05-30,Payload installation,sha256,20b3f9f50049e2025cab5a3d230bcb9e72498c02ec3c8d4160092b1c8f308356,Source: MalwareBazaar
+2024-05-30,Payload installation,filename,reverse_tcp_uuid.msi,Source: MalwareBazaar
+2024-05-30,Payload installation,md5,ea86d9f4827f1b24baf14d0a62111c81,Source: MalwareBazaar
+2024-05-30,Payload installation,sha1,dfbe48a8b76917ff03cf74d0519dda2c1ab76dfb,Source: MalwareBazaar
+2024-05-30,Payload installation,sha256,1b678899247d6239f5c03b9f017b6808524d3a5e9320e31f78a355017323db48,Source: MalwareBazaar

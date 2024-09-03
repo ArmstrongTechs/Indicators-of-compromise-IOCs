@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-05-14]
+| UUID: 730ff574-5530-467c-b5fb-e380645b1bee
+| Date: 2024-05-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-14,Payload installation,filename,questionnaire form.doc,Source: MalwareBazaar
+2024-05-14,Payload installation,md5,ce038e37957dceae2606bd0a639b3254,Source: MalwareBazaar
+2024-05-14,Payload installation,sha1,b642235d1e7817992f4cb49d032ee3768f4a98c4,Source: MalwareBazaar
+2024-05-14,Payload installation,sha256,b4d1da52a264e0e03f795a00bdc2d7827c1f4345d5d60f4d2e651569a47967b1,Source: MalwareBazaar
+2024-05-14,Payload installation,filename,676efd36e031c7ac3b3b0ed63ab52552,Source: MalwareBazaar
+2024-05-14,Payload installation,md5,676efd36e031c7ac3b3b0ed63ab52552,Source: MalwareBazaar
+2024-05-14,Payload installation,sha1,8a147867588e97e22b61fbe506033dafd001f87b,Source: MalwareBazaar
+2024-05-14,Payload installation,sha256,b804838e5cbc18df1dd1357d5fcc290781a4e8d3ba9708d70ccefef4ae12f595,Source: MalwareBazaar
+2024-05-14,Payload installation,filename,fabb9cedf115627ea43633dc8f064ddf8bf660036d0f5743ef0dada4b983db4a,Source: MalwareBazaar
+2024-05-14,Payload installation,md5,95574990294038735668bcbcbc901f8e,Source: MalwareBazaar
+2024-05-14,Payload installation,sha1,368d52901d5dd8caeac8b0cbdd7086952ec3fd1c,Source: MalwareBazaar
+2024-05-14,Payload installation,sha256,fabb9cedf115627ea43633dc8f064ddf8bf660036d0f5743ef0dada4b983db4a,Source: MalwareBazaar
+2024-05-14,Payload installation,filename,Payment-Receipt.exe,Source: MalwareBazaar
+2024-05-14,Payload installation,md5,ec6570ba3ecd5ce8ec00e775eebe3872,Source: MalwareBazaar
+2024-05-14,Payload installation,sha1,e449ffc0d43aad5dea985ddb2ae506a28e548f88,Source: MalwareBazaar
+2024-05-14,Payload installation,sha256,bf69d7e6dc53d7406f9ca42a77aab58d4fab67d8c0778f71efc77a9fb653e4c9,Source: MalwareBazaar
+2024-05-15,Payload installation,filename,Quotation No Q240419617.exe,Source: MalwareBazaar
+2024-05-15,Payload installation,md5,8331118cac957fd6de499161580db764,Source: MalwareBazaar
+2024-05-15,Payload installation,sha1,944d3f2ed04a7213c5d6774932784e70fa268c26,Source: MalwareBazaar
+2024-05-15,Payload installation,sha256,a1dd7d24763249bcbf451a5c7e58b950e04f365757b627b57546ad80ac00c028,Source: MalwareBazaar

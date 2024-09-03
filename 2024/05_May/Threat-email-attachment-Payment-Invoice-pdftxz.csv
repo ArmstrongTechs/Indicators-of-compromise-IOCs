@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Threat email attachment: Payment Invoice-pdf.txz
+| UUID: 07df9f21-348e-4a04-b8fc-1927f9d399df
+| Date: 2024-05-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-05-21,Payload delivery,sha256,5196124169c2c4d7ff9dcc9be6071b7b3e9e1c170f62ea3949c966047dc81271,Attachment Payment Invoice-pdf.txz
+2024-05-21,Payload delivery,email-subject,Payment Invoice,Email subject
+2024-05-21,Payload delivery,email-attachment,Payment Invoice-pdf.txz,Email attachment
+2024-05-21,Payload delivery,ip-src,185.29.11.114,Email sender IP address
