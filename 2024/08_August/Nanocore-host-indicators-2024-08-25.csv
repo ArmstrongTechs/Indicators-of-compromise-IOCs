@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Nanocore host indicators [2024-08-25]
+| UUID: 38c47a01-55ef-410d-a99a-cd562803a242
+| Date: 2024-08-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-25,Payload installation,filename,fiddler.exe,Source: MalwareBazaar
+2024-08-25,Payload installation,md5,71776eeac76ac1591144338385374c5d,Source: MalwareBazaar
+2024-08-25,Payload installation,sha1,2273f36d078d132c44a16a1564e9d9ff01334d51,Source: MalwareBazaar
+2024-08-25,Payload installation,sha256,6d233149cf42f476907c45a4e63329d00af0c78d9dafe6f9cc5a38784206db02,Source: MalwareBazaar

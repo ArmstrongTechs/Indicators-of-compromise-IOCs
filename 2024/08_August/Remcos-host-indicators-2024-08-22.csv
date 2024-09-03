@@ -1,0 +1,45 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-08-22]
+| UUID: 5c3a0e5c-e1ea-4fe9-8c20-527efa453b53
+| Date: 2024-08-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-22,Payload installation,filename,80c3a4c5c220adce769d0e8c2dff063d.hta,Source: MalwareBazaar
+2024-08-22,Payload installation,md5,80c3a4c5c220adce769d0e8c2dff063d,Source: MalwareBazaar
+2024-08-22,Payload installation,sha1,cee798f3659d48d0856642a39565b2ad09038533,Source: MalwareBazaar
+2024-08-22,Payload installation,sha256,af9eb52fefdaea155d5129eea96e10a4b99a5538a4ea0f3c9d5c2a926d3d968e,Source: MalwareBazaar
+2024-08-22,Payload installation,filename,INQUIRY#46789-AUGUST20.exe,Source: MalwareBazaar
+2024-08-22,Payload installation,md5,2732e2eb4efa4972d94d993a31a67f44,Source: MalwareBazaar
+2024-08-22,Payload installation,sha1,60e02e1d0f4f002532f7ea2fc24adaf80db430bd,Source: MalwareBazaar
+2024-08-22,Payload installation,sha256,c733793c396f98ec7eccf793a4ecb71c1af71b6106d202afe28df463d5a60a24,Source: MalwareBazaar
+2024-08-22,Payload installation,filename,SecuriteInfo.com.Exploit.CVE-2017-11882.123.8476.30014,Source: MalwareBazaar
+2024-08-22,Payload installation,md5,55f8f4d3e0a9c939c28da10340f86c3d,Source: MalwareBazaar
+2024-08-22,Payload installation,sha1,899cc66dd607bc326c59939c1e72842b40802c02,Source: MalwareBazaar
+2024-08-22,Payload installation,sha256,f93502bb85889b118e5c829a484f2ad262ea63ca6f481ed1b44a3dc271793b23,Source: MalwareBazaar
+2024-08-22,Payload installation,filename,SecuriteInfo.com.Exploit.CVE-2017-11882.123.12054.3987,Source: MalwareBazaar
+2024-08-22,Payload installation,md5,c937611b3dff3091e417df17f1aefacf,Source: MalwareBazaar
+2024-08-22,Payload installation,sha1,2ec59c2a4138a35f2c8da198d46a2376d0eebdcd,Source: MalwareBazaar
+2024-08-22,Payload installation,sha256,05c7b09c9a29a491e178c9ce903e579e5e0c3877117bf6943ed5de60558cf1f8,Source: MalwareBazaar
+2024-08-22,Payload installation,filename,SecuriteInfo.com.Exploit.CVE-2017-11882.123.8799.4691,Source: MalwareBazaar
+2024-08-22,Payload installation,md5,3d88ae1173dd6f3122d6936d7078982a,Source: MalwareBazaar
+2024-08-22,Payload installation,sha1,93fcf8892973b83230c4cd4a93afd7488a19b4c1,Source: MalwareBazaar
+2024-08-22,Payload installation,sha256,0e1e735a713ec9fe401b65753fec786b84496d46e01c05a0193e70f6284a46a8,Source: MalwareBazaar
+2024-08-22,Payload installation,filename,SecuriteInfo.com.Exploit.CVE-2017-11882.123.11787.15148,Source: MalwareBazaar
+2024-08-22,Payload installation,md5,28d95412db3a011684784953657efd12,Source: MalwareBazaar
+2024-08-22,Payload installation,sha1,0a3734ee93c07b5f7c78766af2af63bb75984856,Source: MalwareBazaar
+2024-08-22,Payload installation,sha256,c66193934887bee3b03867ec20b6aa7448d5f38b2d82d122a0cd442676d87866,Source: MalwareBazaar
+2024-08-22,Payload installation,filename,solicitação de cotação.exe,Source: MalwareBazaar
+2024-08-22,Payload installation,md5,f7d7753ba906c463af989cc1ea66a3a9,Source: MalwareBazaar
+2024-08-22,Payload installation,sha1,459798998c25c93b2787038a5dcd156ba73bc006,Source: MalwareBazaar
+2024-08-22,Payload installation,sha256,ee36f3561339143b4225add8eaf3520a29034e6d910b9b67529128051d0c39b2,Source: MalwareBazaar
+2024-08-23,Payload installation,filename,remittances.exe,Source: MalwareBazaar
+2024-08-23,Payload installation,md5,ca811679ed43268456b3e323cae3ed70,Source: MalwareBazaar
+2024-08-23,Payload installation,sha256,ad2d7654ab36d32f4c07992d995163624df810591a8a62a5bb6708a491734f98,Source: MalwareBazaar
+2024-08-23,Payload installation,filename,SecuriteInfo.com.Trojan.Siggen29.26946.16208.25271,Source: MalwareBazaar
+2024-08-23,Payload installation,md5,16e2d29365a7362d9c0d83fe0664cceb,Source: MalwareBazaar
+2024-08-23,Payload installation,sha1,44e354aa9368155ebc2141b6e1ccb0b4b010c717,Source: MalwareBazaar
+2024-08-23,Payload installation,sha256,b4ca0b94b1a4e5b2ed28ad66c2df781b5add3c46cf5232b64b3a5253bcc341e8,Source: MalwareBazaar

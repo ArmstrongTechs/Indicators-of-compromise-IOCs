@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-08-04]
+| UUID: 3987a884-d769-465f-9a5c-5beb1e82b2b6
+| Date: 2024-08-04
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-04,Payload installation,filename,SecuriteInfo.com.TrojanLoader.MSIL.DaVinci.Heur.6404.9577,Source: MalwareBazaar
+2024-08-04,Payload installation,md5,33ab9ba3a5c0d28ad67f7a69c2434062,Source: MalwareBazaar
+2024-08-04,Payload installation,sha1,896e3bdb4be33673b8cd48cda807cc37e4923c8c,Source: MalwareBazaar
+2024-08-04,Payload installation,sha256,6659e8c041d7b2bf5ca0756ea730d0f8cfb7a81da170c1e4c4210df200b0dee2,Source: MalwareBazaar
+2024-08-05,Payload installation,filename,SecuriteInfo.com.W32.MSIL_Kryptik.KUK.gen.Eldorado.14880.28812,Source: MalwareBazaar
+2024-08-05,Payload installation,md5,161f03f2303e6cf91527c655a1e31f82,Source: MalwareBazaar
+2024-08-05,Payload installation,sha1,18c568157f73856f4484e01e7f0a8029d76bc9ef,Source: MalwareBazaar
+2024-08-05,Payload installation,sha256,6b2b45511ae0d69b6b56f7ef9250154eef125db09138d5eef1a50312fc7ae438,Source: MalwareBazaar

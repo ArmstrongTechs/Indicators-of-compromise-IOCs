@@ -1,0 +1,15 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Meterpreter network indicators [2024-08-04]
+| UUID: 7bde62b3-26b5-40f8-9d3f-a807fff693d9
+| Date: 2024-08-04
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-04,Network activity,url,http://51.77.194.181:8080/para.exe,Source: urlhaus
+2024-08-04,Network activity,url,http://89.197.154.116/Updaters.exe,Source: urlhaus
+2024-08-04,Network activity,url,http://89.197.154.116/TcpExternal.exe,Source: urlhaus
+2024-08-04,Network activity,url,http://89.197.154.116/PerformanceTest.exe,Source: urlhaus
+2024-08-05,Network activity,url,http://47.116.192.150:9000/r,Source: urlhaus

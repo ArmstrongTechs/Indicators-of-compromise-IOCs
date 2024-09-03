@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Azorult host indicators [2024-08-23]
+| UUID: 547ce75a-5009-4647-91cf-4a41bfe3290b
+| Date: 2024-08-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-24,Payload installation,filename,Adobe Download Manager.exe,Source: MalwareBazaar
+2024-08-24,Payload installation,md5,7648bec482b7a6bb22407308c882cf12,Source: MalwareBazaar
+2024-08-24,Payload installation,sha1,edb98d630998a2852de05c4c2b5d9a3400f52418,Source: MalwareBazaar
+2024-08-24,Payload installation,sha256,2c6ab1efe207f8a2f8528ce232dcd1e2ff0b0dd82c5b460f51457a7bf97f60d9,Source: MalwareBazaar

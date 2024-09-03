@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-08-24]
+| UUID: 5f89ab86-8026-4149-8009-7b9710c7f2be
+| Date: 2024-08-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-24,Payload installation,filename,3ba0319e73189975e4d8a212772eddc1.exe,Source: MalwareBazaar
+2024-08-24,Payload installation,md5,3ba0319e73189975e4d8a212772eddc1,Source: MalwareBazaar
+2024-08-24,Payload installation,sha1,935590495562e460c2e028220c583cc93ec97c30,Source: MalwareBazaar
+2024-08-24,Payload installation,sha256,59b6f157ec7087a025c17d6beecf7d7f3f49106319fbf05708eef51d79b9eee9,Source: MalwareBazaar
+2024-08-25,Payload installation,filename,b6d4870badd6d8ff91b1112910629f1f.exe,Source: MalwareBazaar
+2024-08-25,Payload installation,md5,b6d4870badd6d8ff91b1112910629f1f,Source: MalwareBazaar
+2024-08-25,Payload installation,sha1,95634e45acc28d2302d77fca1d36909e35de26ec,Source: MalwareBazaar
+2024-08-25,Payload installation,sha256,272782fc32b1a84b4260f11a1e5bff285add1fed8e89cab5366307ac8fad34c5,Source: MalwareBazaar
+2024-08-25,Payload installation,filename,cmd.exe,Source: MalwareBazaar
+2024-08-25,Payload installation,md5,ca283d3c1cccde01d5fca1e37c3fddb6,Source: MalwareBazaar
+2024-08-25,Payload installation,sha1,bc9c7bdb87936f580871374b60ccb9392770594d,Source: MalwareBazaar
+2024-08-25,Payload installation,sha256,378d287411180c7a4a675116862bd810b8250a7c11a3c5fd04b04ef59e0e4cf8,Source: MalwareBazaar
+2024-08-25,Payload installation,filename,02.exe,Source: MalwareBazaar
+2024-08-25,Payload installation,md5,3053a2a43ba2fbc6e3e3ecbecde806d1,Source: MalwareBazaar
+2024-08-25,Payload installation,sha1,6ae60c2879ebe69ac40d149ed5a608250d022dce,Source: MalwareBazaar
+2024-08-25,Payload installation,sha256,c1dd6ce8d69876282a88739c537d5a2369a19c4b6cf360af5983c12c9dc3f2d6,Source: MalwareBazaar

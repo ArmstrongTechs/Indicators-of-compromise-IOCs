@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-08-25]
+| UUID: c304f568-f76d-4cf3-ba4c-172fbafc3ca1
+| Date: 2024-08-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-25,Payload installation,filename,Accelya NDC SPRK Platform.vbs,Source: MalwareBazaar
+2024-08-25,Payload installation,md5,1fb5432583a1e8c36b9cec2020fff30b,Source: MalwareBazaar
+2024-08-25,Payload installation,sha1,02262b1241e01214530773f37cea0d91492fcc88,Source: MalwareBazaar
+2024-08-25,Payload installation,sha256,4a929263e46f217558b7085c3b62527408a58dbfa94f53405eb10c2546bf93dd,Source: MalwareBazaar

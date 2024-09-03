@@ -1,0 +1,20 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00998 [Fraude] [Phishing]
+| UUID: 02bddc63-5251-42b4-a987-9ec6c4464aa6
+| Date: 2024-08-26
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-26,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+Se trata de una página web falsa que se hace pasar por un producto de Adobe, usando sin autorización el nombre de esta empresa en emails de phishing, los que redirigen a un sitio malicioso para robar datos de sus usuarios.Lo anterior constituye una falsificación de marca que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2024-08-26,Network activity,ip-src,107.174.244.118,IP SMTP
+2024-08-26,Network activity,ip-src,91.216.156.118,IP sitio falso
+2024-08-26,Payload delivery,url,https://steviabelle.com/i//?bGFuZz1lbiZyYW5kMT1ORlZ2cm90PSZzdj1wZGYmcmJveD1mcmFyYW16aTA=#{Correo electronico},URL Sitio falso
+2024-08-26,Payload delivery,email-subject,Received Adobe Shared Cloud Document,Asunto correo
+2024-08-26,Payload delivery,email-src,support@adobe.com,Correo de salida
+2024-08-26,External analysis,attachment,2024-08-26_11h07_34_GCdURMU.png,
+2024-08-26,External analysis,attachment,2024-08-26_11h07_04.png,

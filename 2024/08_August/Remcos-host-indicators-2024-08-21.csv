@@ -1,0 +1,82 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-08-21]
+| UUID: 9e23ac61-b9d2-46e9-8b5a-799109ef81e0
+| Date: 2024-08-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-21,Payload installation,filename,DonghwanPOGM210820242020032108174KR18190824pu.vbs,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,3e8ac7a67de94a6bcb1496c6cc33c937,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,a17d348702c2687982d0aa7fcd1a877446c94eee,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,7ee0f30b98e51cdd92991f851a0cbabe3289478579db8559632c1d5389fe8b22,Source: MalwareBazaar
+2024-08-21,Payload installation,filename,1724226243b9348f3b411af582580bd6a603a5ce20b028cbcc95a10a9590dca310f3191fd6655.dat-decoded,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,059266c194539b9143e57334bef62a28,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,2b62f341ca2d0dd168a3cdee1fdddd9a7fbb9685,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,56a71ece0126b57fc7ec07e6ce08c5a5f7b51a1e8e3fb30ecd8e014c9b4bda0b,Source: MalwareBazaar
+2024-08-21,Payload installation,filename,1724226659ad3c86adf90ead8e85be00ee17653b242dddaf7b133397ec2c8c708c9397b763517.dat-decoded,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,148795d6cfcff607f38bd3815a65a7b6,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,a0e7f849720140d61d0bfecffb835fb467ae9faa,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,833d78a7e52cbcc21bf4a6843b7ed4130b2d39ae18896370324a7203a705025d,Source: MalwareBazaar
+2024-08-21,Payload installation,filename,Tracking_Invoice_Awb_BL_00340434757340073972.vbs,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,94afb2d35a2fcfc7473b57ff851451df,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,e9287d3640a1c870a14f69e4dbc6bcb9e4a3b027,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,94a386916bc0a33eebe0a466dbfcba90ccb88891e05b0a06d0f91a84432767d1,Source: MalwareBazaar
+2024-08-21,Payload installation,filename,PurchaseOrder849393.vbs,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,68cdf5707269dfeeffc5294a165a9e24,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,7779570b6b69fcaa119f10c43862ad4949042aeb,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,5d04b624225ebe370289f5af17d632b5ab03c12d39a575a7dbe93e85dec69db8,Source: MalwareBazaar
+2024-08-21,Payload installation,filename,ibww.hta,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,b85ef98096c5cd970dcf5688120fb639,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,957f11699e0649a89e2fbbb007e0400fdc265867,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,8ba95c6f86a576da4e2e785a3abf7cab50eedf08f131594cb94da65d3e072e9d,Source: MalwareBazaar
+2024-08-21,Payload installation,filename,210820244972.bat,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,edee826b3e374736185ba5728ee64ec1,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,2d2f5a376cda7d0f309f845210730aed64e3067e,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,823e15c33f7b0b8a824bb0d2eb2b4353b39726a314fa75c2e84b8c9f2dc0af81,Source: MalwareBazaar
+2024-08-21,Payload installation,filename,AWB 9869691012 Clearance Doc.zip,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,0ecb9e16b4a74881d5b0ad58b5a33134,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,1df56cf55d9040de907fe1e18dffe00bea3f295a,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,83f653b7919ba3bfb0b8526c1ad5bcf0d34d06fa7d81350663153aefa130345c,Source: MalwareBazaar
+2024-08-21,Payload installation,filename,SecuriteInfo.com.Exploit.CVE-2017-11882.123.16107.31846,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,9ecf1863c58b62b5478a1abd912e5b72,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,398721250ba71f217b70508051edfea2a7d4380d,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,9f56bf6f67697b5feea58e889dd326238c5c98e89e86a6e16e7b532b9abaddad,Source: MalwareBazaar
+2024-08-21,Payload installation,filename,SecuriteInfo.com.Exploit.Rtf.Obfuscated.32.26325.9717,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,ce3b08f58d579862f5b03bb1f563f9f9,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,aa9339e51447b2766306991a1b7c489b483da9ea,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,3d7634a57671a2cb7c21f514374d28280fc3708f114ab73e0593ac911111e882,Source: MalwareBazaar
+2024-08-21,Payload installation,filename,SecuriteInfo.com.Exploit.CVE-2017-11882.123.29510.5363,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,7d9390f8ceb53bcf05fe13ad7c3f9c8f,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,07a4ad07a5732034a937719a08dde4264d6074b7,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,f59637b1aceaee02840f19c31bd5824d6f97703f547b7b3c437bb2ff022bce9f,Source: MalwareBazaar
+2024-08-21,Payload installation,filename,SecuriteInfo.com.Exploit.CVE-2017-11882.123.2312.16329,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,85485a1e88e7a07db924b5e3ac587c52,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,675d08c2fc31ef344b23f5c8552c2b850a1b3dca,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,86f9c33378a2665c897d3fec71b4605d647282a699e672dd62c7e009ba6f5f5a,Source: MalwareBazaar
+2024-08-21,Payload installation,filename,SecuriteInfo.com.Exploit.CVE-2017-11882.123.25336.18229,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,7d3b215b98532e8570e22f353da4223e,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,004b80efe852e998a9ec7c67cf524d5abb660d1c,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,098bfe7ab9c2ca61fc488b0e9751adc098330485b49023852a3fcccace8a227f,Source: MalwareBazaar
+2024-08-21,Payload installation,filename,srr.exe,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,983f9f8958a3090dfd85d850f58a732e,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,47d3479773c1e5ff82dd6f35fb683adc1be64e1c,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,d39cb65b7033499d09404de2651bfbc010618abbbc0bc508be8ddf7729e1c43b,Source: MalwareBazaar
+2024-08-21,Payload installation,filename,Request For Quotation.ace,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,39993376dcc78f2894a43d583a44b36c,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,4359a1a949c2d78d6d4f7c156c17835f0c1672a5,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,f89551f7ed11ce3b742f3932ce8736daaf211389f43258851375e9baf531a327,Source: MalwareBazaar
+2024-08-21,Payload installation,filename,SKM_22724071511020.docx,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,68105619f2221742608df89ee56e335d,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,43eb192c4611c90e637c04791f39843423e4e8c4,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,d84ac3a19fe9edee13c7a22c48eac017482c09a360ec8cef813b7025e3ab9a5e,Source: MalwareBazaar
+2024-08-21,Payload installation,filename,PurchaseOrder849393.lzh,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,84f25e4bdae78245566955f38d195bdd,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,f24ddd842d3b294b970a937d1a36c793ee15ece3,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,8a329b13890a94e949c47996b4884604cfbf13a5a77703eff6e23599661afba0,Source: MalwareBazaar
+2024-08-21,Payload installation,filename,SecuriteInfo.com.Exploit.CVE-2017-11882.123.6971.10894,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,ed3c59a3e67a8803a62bb3ca27c9ad31,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,08cbf58c031edfba2164838d2bd75a931fc8fb3a,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,1785a0fe2a6d1760e4ac22c6eae7eda96328ea1544ce6c32dd05fb56d86729ab,Source: MalwareBazaar

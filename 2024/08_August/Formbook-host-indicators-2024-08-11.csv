@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-08-11]
+| UUID: 643bbd8f-87bc-4c36-9f4a-cc349b430de0
+| Date: 2024-08-11
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-11,Payload installation,filename,HSBCttcopy.exe,Source: MalwareBazaar
+2024-08-11,Payload installation,md5,412e071cafaa0ade5b6de751a136a909,Source: MalwareBazaar
+2024-08-11,Payload installation,sha1,6d61a6f38d90d47ab8b4019392e257a244dd62ff,Source: MalwareBazaar
+2024-08-11,Payload installation,sha256,34ece577bee2d41a9227e6e074c80e50e33231a2d4572f1bd250e67b2d696447,Source: MalwareBazaar
+2024-08-11,Payload installation,filename,Novi upit #876567-AWB.exe,Source: MalwareBazaar
+2024-08-11,Payload installation,md5,1e07f9e0e115b0d56b8c051c9e38563e,Source: MalwareBazaar
+2024-08-11,Payload installation,sha1,e5a7b7eb96343d506ab16b17868d281cc0d9188b,Source: MalwareBazaar
+2024-08-11,Payload installation,sha256,6f4ef07076ebad36eea92eeaeb42b91bdf910d4e93bc0bf6b4fc40e6d191ed83,Source: MalwareBazaar
+2024-08-11,Payload installation,filename,PR_Form_20240809_145815.bat,Source: MalwareBazaar
+2024-08-11,Payload installation,md5,dff2a4f9c0e8469a1829ab1f39668856,Source: MalwareBazaar
+2024-08-11,Payload installation,sha1,77a56409876a9c0c33fd59a070a21c8ee1b18a92,Source: MalwareBazaar
+2024-08-11,Payload installation,sha256,72997c981fef64ed3cf79ffa5b2a496aca59fbefd54f7585049f71d69de1fe52,Source: MalwareBazaar

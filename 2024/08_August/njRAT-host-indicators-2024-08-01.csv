@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2024-08-01]
+| UUID: 5b4c58fc-5119-436f-8355-e4d4c2024f55
+| Date: 2024-08-01
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-01,Payload installation,filename,AccountVoucher.pdf.exe,Source: MalwareBazaar
+2024-08-01,Payload installation,md5,3d8b80d333bf87863d7c2e39c3dc229a,Source: MalwareBazaar
+2024-08-01,Payload installation,sha1,70fa23664c938db01ed7864844f293bdfea83800,Source: MalwareBazaar
+2024-08-01,Payload installation,sha256,c1275a93bd767e100a37e8bc22439be45698a733f71d1ba5c890f5b1b4c3e034,Source: MalwareBazaar

@@ -1,0 +1,640 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Daily Incremental ThreatFox Import - 2024-08-29
+| UUID: b5be7541-5cd8-46ec-a780-4ae1b0af5d96
+| Date: 2024-08-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-29,Network activity,ip-dst|port,12.202.180.114|8797,"botnet_cc
+100"
+2024-08-29,Network activity,url,http://426314cm.n9sh.top/vmupdateAuthsqlDbAsyncTrackDlecentralDownloads.php,"botnet_cc
+100"
+2024-08-29,Network activity,ip-dst|port,89.185.25.230|47925,"botnet_cc
+100
+https://search.censys.io/hosts/89.185.25.230"
+2024-08-29,Network activity,ip-dst|port,13.48.214.27|80,"botnet_cc
+100
+https://search.censys.io/hosts/13.48.214.27"
+2024-08-29,Network activity,ip-dst|port,86.53.241.21|447,"botnet_cc
+100
+https://search.censys.io/hosts/86.53.241.21"
+2024-08-29,Network activity,ip-dst|port,179.14.10.24|2004,"botnet_cc
+100
+https://search.censys.io/hosts/179.14.10.24"
+2024-08-29,Network activity,ip-dst|port,54.227.99.217|7443,"botnet_cc
+100
+https://search.censys.io/hosts/54.227.99.217"
+2024-08-29,Network activity,ip-dst|port,194.26.192.74|222,"botnet_cc
+100
+https://search.censys.io/hosts/194.26.192.74"
+2024-08-29,Network activity,ip-dst|port,81.70.21.106|1077,"botnet_cc
+100
+https://search.censys.io/hosts/81.70.21.106"
+2024-08-29,Network activity,ip-dst|port,152.136.159.25|4455,"botnet_cc
+100
+https://search.censys.io/hosts/152.136.159.25"
+2024-08-29,Network activity,ip-dst|port,139.129.36.72|3333,"botnet_cc
+100
+https://search.censys.io/hosts/139.129.36.72"
+2024-08-29,Network activity,ip-dst|port,151.236.29.64|8080,"botnet_cc
+100
+https://search.censys.io/hosts/151.236.29.64"
+2024-08-29,Network activity,ip-dst|port,121.37.180.38|81,"botnet_cc
+100
+https://search.censys.io/hosts/121.37.180.38"
+2024-08-29,Network activity,ip-dst|port,91.202.5.28|80,"botnet_cc
+100
+https://search.censys.io/hosts/91.202.5.28"
+2024-08-29,Network activity,ip-dst|port,178.23.190.118|1911,"botnet_cc
+100
+https://search.censys.io/hosts/178.23.190.118"
+2024-08-29,Network activity,ip-dst|port,51.77.103.216|8520,"botnet_cc
+100
+https://search.censys.io/hosts/51.77.103.216"
+2024-08-29,Network activity,ip-dst|port,101.99.94.128|3232,"botnet_cc
+100
+https://search.censys.io/hosts/101.99.94.128"
+2024-08-29,Network activity,ip-dst|port,45.61.137.180|443,"botnet_cc
+100
+https://search.censys.io/hosts/45.61.137.180"
+2024-08-29,Network activity,ip-dst|port,185.62.56.81|443,"botnet_cc
+100
+https://search.censys.io/hosts/185.62.56.81"
+2024-08-29,Network activity,ip-dst|port,45.61.137.180|80,"botnet_cc
+100
+https://search.censys.io/hosts/45.61.137.180"
+2024-08-29,Network activity,ip-dst|port,52.189.253.111|443,"botnet_cc
+100
+https://search.censys.io/hosts/52.189.253.111"
+2024-08-29,Network activity,ip-dst|port,108.253.252.20|8888,"botnet_cc
+100
+https://search.censys.io/hosts/108.253.252.20"
+2024-08-29,Network activity,ip-dst|port,194.26.192.74|2222,"botnet_cc
+100
+https://search.censys.io/hosts/194.26.192.74"
+2024-08-29,Network activity,ip-dst|port,111.229.21.155|8888,"botnet_cc
+100
+https://search.censys.io/hosts/111.229.21.155"
+2024-08-29,Network activity,ip-dst|port,45.77.9.96|443,"botnet_cc
+90
+https://search.censys.io/hosts/45.77.9.96"
+2024-08-29,Network activity,ip-dst|port,34.136.135.11|443,"botnet_cc
+100
+https://search.censys.io/hosts/34.136.135.11"
+2024-08-29,Network activity,ip-dst|port,3.37.251.172|443,"botnet_cc
+100
+https://search.censys.io/hosts/3.37.251.172"
+2024-08-29,Network activity,ip-dst|port,154.216.20.223|5584,"botnet_cc
+100
+https://search.censys.io/hosts/154.216.20.223"
+2024-08-29,Network activity,ip-dst|port,46.246.84.15|2404,"botnet_cc
+100
+https://search.censys.io/hosts/46.246.84.15"
+2024-08-29,Network activity,ip-dst|port,175.178.42.127|8081,"botnet_cc
+100
+https://search.censys.io/hosts/175.178.42.127"
+2024-08-29,Network activity,ip-dst|port,159.138.143.38|443,"botnet_cc
+100
+https://search.censys.io/hosts/159.138.143.38"
+2024-08-29,Network activity,ip-dst|port,193.37.69.73|8443,"botnet_cc
+100
+https://search.censys.io/hosts/193.37.69.73"
+2024-08-29,Network activity,ip-dst|port,8.140.227.46|9999,"botnet_cc
+100
+https://search.censys.io/hosts/8.140.227.46"
+2024-08-29,Network activity,domain,guardeedwospq.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,energgyosiwpp.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,fearlessywqmn.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,economiicsosoq.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,cheerysyqsip.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,chooopywsqu.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,brasshroewwpm.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,approoverowps.shop,"botnet_cc
+50
+
+IDS removed due to 180469"
+2024-08-29,Network activity,domain,lunchindooip.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,revenuedsozp.shop,"botnet_cc
+50
+
+IDS removed due to 180469"
+2024-08-29,Network activity,domain,racklilekwqp.shop,"botnet_cc
+100
+https://tria.ge/240828-ry56astflp/"
+2024-08-29,Network activity,domain,reserved2021whsjsr.mywire.org,"botnet_cc
+100"
+2024-08-29,Network activity,domain,builderlloulirabaonline23rd.mywire.org,"botnet_cc
+100"
+2024-08-29,Network activity,domain,nova-nation.online,"botnet_cc
+100
+https://twitter.com/NDA0E/status/1828986289938481549"
+2024-08-29,Network activity,domain,nova-nation.org,"botnet_cc
+100
+https://twitter.com/NDA0E/status/1828986289938481549"
+2024-08-29,Network activity,domain,rentyrooms.com,"payload_delivery
+100
+https://infosec.exchange/@MalasadaTech/113042002326680453"
+2024-08-29,Network activity,url,https://rentyrooms.com/cdn-vs/original.js,"payload_delivery
+100
+https://infosec.exchange/@MalasadaTech/113042002326680453"
+2024-08-29,Network activity,url,https://rentyrooms.com/cdn-vs/main.php,"payload_delivery
+100
+https://infosec.exchange/@MalasadaTech/113042002326680453"
+2024-08-29,Network activity,url,https://rentyrooms.com/cdn-vs/data.php,"payload_delivery
+100
+https://infosec.exchange/@MalasadaTech/113042002326680453"
+2024-08-29,Network activity,url,https://allall94.com/cdn-vs/original.js,"payload_delivery
+100
+https://infosec.exchange/@MalasadaTech/113042072692538296"
+2024-08-29,Network activity,url,https://allall94.com/cdn-vs/main.php,"payload_delivery
+100
+https://infosec.exchange/@MalasadaTech/113042072692538296"
+2024-08-29,Network activity,domain,api.xrczy.xyz,"botnet_cc
+100"
+2024-08-29,Network activity,domain,xrczy.xyz,"botnet_cc
+100
+https://x.com/500mk500/status/1828705450822451253"
+2024-08-29,Network activity,url,https://firstpresbyterianpaulding.com/wp-admin/images/wfgth.php,"payload_delivery
+100
+https://infosec.exchange/@monitorsg/113041459979677809"
+2024-08-29,Network activity,ip-dst|port,38.180.72.54|42814,"botnet_cc
+100"
+2024-08-29,Network activity,ip-dst|port,213.183.53.189|5667,"botnet_cc
+100"
+2024-08-29,Network activity,ip-dst|port,172.208.117.89|443,"botnet_cc
+100
+https://infosec.exchange/@monitorsg/113041459979677809"
+2024-08-29,Network activity,ip-dst|port,47.237.90.16|81,"botnet_cc
+100"
+2024-08-29,Network activity,ip-dst|port,23.95.193.207|8443,"botnet_cc
+100"
+2024-08-29,Network activity,ip-dst|port,175.27.135.115|8443,"botnet_cc
+100"
+2024-08-29,Network activity,ip-dst|port,1.94.162.118|801,"botnet_cc
+100"
+2024-08-29,Network activity,ip-dst|port,107.172.190.194|4433,"botnet_cc
+100"
+2024-08-29,Network activity,ip-dst|port,47.113.145.253|8088,"botnet_cc
+100"
+2024-08-29,Network activity,ip-dst|port,118.89.135.167|5555,"botnet_cc
+100"
+2024-08-29,Network activity,ip-dst|port,43.136.68.40|89,"botnet_cc
+100"
+2024-08-29,Network activity,ip-dst|port,140.246.220.21|2095,"botnet_cc
+100"
+2024-08-29,Network activity,ip-dst|port,87.251.67.74|2053,"botnet_cc
+100"
+2024-08-29,Network activity,ip-dst|port,45.156.24.142|1234,"botnet_cc
+100"
+2024-08-29,Network activity,ip-dst|port,23.224.144.131|8081,"botnet_cc
+100"
+2024-08-29,Network activity,ip-dst|port,152.136.44.13|8001,"botnet_cc
+100"
+2024-08-29,Network activity,ip-dst|port,107.172.141.221|80,"botnet_cc
+100"
+2024-08-29,Network activity,ip-dst|port,8.148.5.65|80,"botnet_cc
+100"
+2024-08-29,Network activity,domain,suntanynwowqm.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,shadowqsnqop.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,tibedowqmwo.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,applieddyooqnz.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,colleaguedopzm.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,fashiiosuwq.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,innovationows.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,episodepspzmp.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,muuudsaowis.shop,"botnet_cc
+50
+
+IDS removed due to 180469"
+2024-08-29,Network activity,domain,persiisstowqop.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,toothydsozp.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,securedosqpsn.shop,"botnet_cc
+50
+
+IDS removed due to 180469"
+2024-08-29,Network activity,domain,reptiledqowm.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,projectaownqo.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,provicnwiqmp.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,integratedmwqo.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,flinngyuqwqum.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,conservaitiwo.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,uniqueadowpqm.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,transtitiowo.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,twilightsizp.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,linedsipzmxo.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,interdepmon.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,dirreopcspzx.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,bordjoyoust.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,ivrelmanitt.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,eternallysosm.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,demopartisom.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,scenariospzm.shop,"botnet_cc
+50
+
+IDS removed due to 180469"
+2024-08-29,Network activity,domain,pieddfreedinsu.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,burrydedmnzop.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,aggiledpozm.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,producersosuz.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,ohmparadouio.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,notairdropton.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,buddgetisozv.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,arsriefloxzm.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,noticcedospq.shop,"botnet_cc
+50"
+2024-08-29,Network activity,domain,guerrillatoswz.shop,"botnet_cc
+50
+
+IDS removed due to 180469"
+2024-08-29,Network activity,url,https://surprisedscaledowp.xyz/api,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/478f2217eec481432feda4860d9499f6a5109604fab08c305ba7d1a193082914/"
+2024-08-29,Network activity,url,https://spitechallengddwlsv.xyz/api,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/478f2217eec481432feda4860d9499f6a5109604fab08c305ba7d1a193082914/"
+2024-08-29,Network activity,url,https://singerreasonnbasldd.xyz/api,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/478f2217eec481432feda4860d9499f6a5109604fab08c305ba7d1a193082914/"
+2024-08-29,Network activity,url,https://oventoolyeditiiow.xyz/api,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/b67dd604d01052c74a4f37160a7595d513c47f4974ccd4a35bdaecdaa38aeb34/"
+2024-08-29,Network activity,url,https://matterrydamagedowkds.xyz/api,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/478f2217eec481432feda4860d9499f6a5109604fab08c305ba7d1a193082914/"
+2024-08-29,Network activity,url,https://fiondationkvowos.xyz/api,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/478f2217eec481432feda4860d9499f6a5109604fab08c305ba7d1a193082914/"
+2024-08-29,Network activity,url,https://constructgeneratisa.xyz/api,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/478f2217eec481432feda4860d9499f6a5109604fab08c305ba7d1a193082914/"
+2024-08-29,Network activity,url,https://clerkpolicemandwusi.xyz/api,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/478f2217eec481432feda4860d9499f6a5109604fab08c305ba7d1a193082914/"
+2024-08-29,Network activity,ip-dst|port,84.38.132.40|2404,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/dfc8e10de69f490f19664c753862ed95466195dfc45dae4f8b43a11565b2cc8e/"
+2024-08-29,Network activity,url,https://voyagedprivillywk.xyz/api,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/478f2217eec481432feda4860d9499f6a5109604fab08c305ba7d1a193082914/"
+2024-08-29,Network activity,url,https://varitycookypowerw.xyz/api,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/478f2217eec481432feda4860d9499f6a5109604fab08c305ba7d1a193082914/"
+2024-08-29,Network activity,ip-dst|port,152.136.151.111|443,"botnet_cc
+100
+https://search.censys.io/hosts/152.136.151.111"
+2024-08-29,Network activity,ip-dst|port,47.113.194.49|8080,"botnet_cc
+100
+https://search.censys.io/hosts/47.113.194.49"
+2024-08-29,Network activity,ip-dst|port,198.23.196.65|80,"botnet_cc
+100
+https://search.censys.io/hosts/198.23.196.65"
+2024-08-29,Network activity,ip-dst|port,112.124.39.205|443,"botnet_cc
+100
+https://search.censys.io/hosts/112.124.39.205"
+2024-08-29,Network activity,ip-dst|port,121.4.36.95|443,"botnet_cc
+100
+https://search.censys.io/hosts/121.4.36.95"
+2024-08-29,Network activity,ip-dst|port,121.4.36.95|80,"botnet_cc
+100
+https://search.censys.io/hosts/121.4.36.95"
+2024-08-29,Network activity,ip-dst|port,194.213.18.181|52887,"botnet_cc
+100
+https://search.censys.io/hosts/194.213.18.181"
+2024-08-29,Network activity,ip-dst|port,147.182.133.204|3333,"botnet_cc
+100
+https://search.censys.io/hosts/147.182.133.204"
+2024-08-29,Network activity,ip-dst|port,91.107.209.50|12184,"botnet_cc
+100
+https://search.censys.io/hosts/91.107.209.50"
+2024-08-29,Network activity,ip-dst|port,91.107.209.50|20481,"botnet_cc
+100
+https://search.censys.io/hosts/91.107.209.50"
+2024-08-29,Network activity,ip-dst|port,91.107.209.50|4098,"botnet_cc
+100
+https://search.censys.io/hosts/91.107.209.50"
+2024-08-29,Network activity,ip-dst|port,5.42.92.156|50555,"botnet_cc
+100
+https://search.censys.io/hosts/5.42.92.156"
+2024-08-29,Network activity,ip-dst|port,45.83.31.66|8888,"botnet_cc
+100
+https://search.censys.io/hosts/45.83.31.66"
+2024-08-29,Network activity,ip-dst|port,106.14.78.163|8888,"botnet_cc
+100
+https://search.censys.io/hosts/106.14.78.163"
+2024-08-29,Network activity,ip-dst|port,18.167.72.248|443,"botnet_cc
+100
+https://search.censys.io/hosts/18.167.72.248"
+2024-08-29,Network activity,ip-dst|port,69.46.15.185|4433,"botnet_cc
+100
+https://search.censys.io/hosts/69.46.15.185"
+2024-08-29,Network activity,ip-dst|port,185.34.52.14|80,"botnet_cc
+75"
+2024-08-29,Network activity,url,http://ln6b9.shop/LN341/index.php,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/af44fccdfe3d6e7f65283d47f4a121bd70000dbcf1d8d91aead1c124cd808554/"
+2024-08-29,Network activity,url,http://45.91.200.135/api/twofish.php,"botnet_cc
+100"
+2024-08-29,Network activity,url,http://45.91.200.135/api/crazyfish.php,"botnet_cc
+100"
+2024-08-29,Network activity,ip-dst|port,34.139.67.10|5050,"botnet_cc
+100"
+2024-08-29,Network activity,ip-dst|port,193.233.203.181|1194,"botnet_cc
+100
+https://search.censys.io/hosts/193.233.203.181"
+2024-08-29,Network activity,ip-dst|port,80.78.26.4|7443,"botnet_cc
+100
+https://search.censys.io/hosts/80.78.26.4"
+2024-08-29,Network activity,ip-dst|port,107.178.105.137|7707,"botnet_cc
+100
+https://search.censys.io/hosts/107.178.105.137"
+2024-08-29,Network activity,ip-dst|port,45.83.31.66|4444,"botnet_cc
+100
+https://search.censys.io/hosts/45.83.31.66"
+2024-08-29,Network activity,ip-dst|port,45.83.31.66|8008,"botnet_cc
+100
+https://search.censys.io/hosts/45.83.31.66"
+2024-08-29,Network activity,ip-dst|port,45.83.31.66|8808,"botnet_cc
+100
+https://search.censys.io/hosts/45.83.31.66"
+2024-08-29,Network activity,ip-dst|port,45.83.31.66|6006,"botnet_cc
+100
+https://search.censys.io/hosts/45.83.31.66"
+2024-08-29,Network activity,ip-dst|port,128.90.106.59|9999,"botnet_cc
+100
+https://search.censys.io/hosts/128.90.106.59"
+2024-08-29,Network activity,ip-dst|port,194.26.192.74|5555,"botnet_cc
+100
+https://search.censys.io/hosts/194.26.192.74"
+2024-08-29,Network activity,ip-dst|port,47.103.27.212|8888,"botnet_cc
+100
+https://search.censys.io/hosts/47.103.27.212"
+2024-08-29,Network activity,ip-dst|port,95.179.240.31|443,"botnet_cc
+90
+https://search.censys.io/hosts/95.179.240.31"
+2024-08-29,Network activity,ip-dst|port,82.200.129.154|31337,"botnet_cc
+100
+https://search.censys.io/hosts/82.200.129.154"
+2024-08-29,Network activity,ip-dst|port,66.42.50.189|80,"botnet_cc
+100
+https://search.censys.io/hosts/66.42.50.189"
+2024-08-29,Network activity,ip-dst|port,45.89.247.45|2404,"botnet_cc
+100
+https://search.censys.io/hosts/45.89.247.45"
+2024-08-29,Network activity,ip-dst|port,69.46.15.185|8080,"botnet_cc
+100
+https://search.censys.io/hosts/69.46.15.185"
+2024-08-29,Network activity,ip-dst|port,101.36.116.245|80,"botnet_cc
+100
+https://search.censys.io/hosts/101.36.116.245"
+2024-08-29,Network activity,ip-dst|port,122.152.201.129|80,"botnet_cc
+100
+https://search.censys.io/hosts/122.152.201.129"
+2024-08-29,Network activity,ip-dst|port,106.15.190.173|8443,"botnet_cc
+100
+https://search.censys.io/hosts/106.15.190.173"
+2024-08-29,Network activity,ip-dst|port,84.32.44.79|80,"botnet_cc
+100
+https://search.censys.io/hosts/84.32.44.79"
+2024-08-29,Network activity,ip-dst|port,122.51.212.130|4433,"botnet_cc
+100
+https://search.censys.io/hosts/122.51.212.130"
+2024-08-29,Network activity,ip-dst|port,106.54.52.7|443,"botnet_cc
+100
+https://search.censys.io/hosts/106.54.52.7"
+2024-08-29,Network activity,ip-dst|port,154.205.137.143|443,"botnet_cc
+100
+https://search.censys.io/hosts/154.205.137.143"
+2024-08-29,Network activity,ip-dst|port,185.150.191.117|4609,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/6ea77ecddf6b1b7c691746dd9fe3deb3d0c177d07b6b434d4694ed134472c7ef/"
+2024-08-29,Network activity,ip-dst|port,123.56.188.64|8888,"botnet_cc
+100
+https://search.censys.io/hosts/123.56.188.64"
+2024-08-29,Network activity,ip-dst|port,124.70.99.224|8080,"botnet_cc
+100
+https://search.censys.io/hosts/124.70.99.224"
+2024-08-29,Network activity,ip-dst|port,190.70.119.188|8997,"botnet_cc
+100"
+2024-08-29,Network activity,url,http://195.10.205.48/api/crazyfish.php,"botnet_cc
+100"
+2024-08-29,Network activity,url,https://95entertainment.buzz/rat/apps/mellat/notify.php,"botnet_cc
+100
+https://x.com/NDA0E/status/1818017373070442803"
+2024-08-29,Network activity,url,https://92executrix.buzz/rat/apps/mellat/notify.php,"botnet_cc
+100
+https://x.com/NDA0E/status/1818017373070442803"
+2024-08-29,Network activity,url,https://www.92executrix.buzz/rat/apps/mellat/notify.php,"botnet_cc
+100
+https://x.com/NDA0E/status/1818017373070442803"
+2024-08-29,Network activity,url,https://www.95entertainment.buzz/rat/apps/mellat/notify.php,"botnet_cc
+100
+https://x.com/NDA0E/status/1818017373070442803"
+2024-08-29,Network activity,domain,95entertainment.buzz,"botnet_cc
+100"
+2024-08-29,Network activity,domain,92executrix.buzz,"botnet_cc
+100"
+2024-08-29,Network activity,domain,www.92executrix.buzz,"botnet_cc
+100"
+2024-08-29,Network activity,domain,www.95entertainment.buzz,"botnet_cc
+100"
+2024-08-29,Network activity,url,https://servicebasix.com/wp-admin/images/wfgth.php,"payload_delivery
+100
+https://infosec.exchange/@monitorsg/113045459021383103"
+2024-08-29,Network activity,url,https://rentyrooms.com/cdn-vs/download.php,"payload_delivery
+100
+https://infosec.exchange/@monitorsg/113045349537894985"
+2024-08-29,Network activity,domain,seznam.hopto.org,"botnet_cc
+75
+
+IDS removed due to 180397"
+2024-08-29,Network activity,ip-dst|port,47.109.187.25|80,"botnet_cc
+100
+https://search.censys.io/hosts/47.109.187.25"
+2024-08-29,Network activity,ip-dst|port,124.222.147.114|18444,"botnet_cc
+100
+https://search.censys.io/hosts/124.222.147.114"
+2024-08-29,Network activity,ip-dst|port,8.130.65.194|8099,"botnet_cc
+100
+https://search.censys.io/hosts/8.130.65.194"
+2024-08-29,Network activity,ip-dst|port,54.144.209.115|8080,"botnet_cc
+100
+https://search.censys.io/hosts/54.144.209.115"
+2024-08-29,Network activity,ip-dst|port,27.25.151.203|1433,"botnet_cc
+100
+https://search.censys.io/hosts/27.25.151.203"
+2024-08-29,Network activity,ip-dst|port,112.124.2.88|8082,"botnet_cc
+100
+https://search.censys.io/hosts/112.124.2.88"
+2024-08-29,Network activity,ip-dst|port,154.216.17.18|22078,"botnet_cc
+100
+https://search.censys.io/hosts/154.216.17.18"
+2024-08-29,Network activity,ip-dst|port,51.81.168.153|2000,"botnet_cc
+100
+https://search.censys.io/hosts/51.81.168.153"
+2024-08-29,Network activity,ip-dst|port,43.199.93.110|4433,"botnet_cc
+100
+https://search.censys.io/hosts/43.199.93.110"
+2024-08-29,Network activity,ip-dst|port,138.201.130.31|80,"botnet_cc
+100
+https://search.censys.io/hosts/138.201.130.31"
+2024-08-29,Network activity,ip-dst|port,159.203.133.189|7443,"botnet_cc
+100
+https://search.censys.io/hosts/159.203.133.189"
+2024-08-29,Network activity,ip-dst|port,108.59.184.209|7443,"botnet_cc
+100
+https://search.censys.io/hosts/108.59.184.209"
+2024-08-29,Network activity,ip-dst|port,164.90.177.232|443,"botnet_cc
+100
+https://search.censys.io/hosts/164.90.177.232"
+2024-08-29,Network activity,ip-dst|port,194.26.192.74|555,"botnet_cc
+100
+https://search.censys.io/hosts/194.26.192.74"
+2024-08-29,Network activity,ip-dst|port,222.255.119.32|443,"botnet_cc
+100
+https://search.censys.io/hosts/222.255.119.32"
+2024-08-29,Network activity,ip-dst|port,46.246.84.15|8888,"botnet_cc
+100
+https://search.censys.io/hosts/46.246.84.15"
+2024-08-29,Network activity,ip-dst|port,192.236.237.18|9090,"botnet_cc
+100
+https://search.censys.io/hosts/192.236.237.18"
+2024-08-29,Network activity,ip-dst|port,46.246.12.23|2404,"botnet_cc
+100
+https://search.censys.io/hosts/46.246.12.23"
+2024-08-29,Network activity,ip-dst|port,45.89.247.98|2404,"botnet_cc
+100
+https://search.censys.io/hosts/45.89.247.98"
+2024-08-29,Network activity,ip-dst|port,47.108.74.30|88,"botnet_cc
+100
+https://search.censys.io/hosts/47.108.74.30"
+2024-08-30,Network activity,domain,b.printerconsulting.ru,"botnet_cc
+100"
+2024-08-30,Network activity,domain,g.printerconsulting.ru,"botnet_cc
+100"
+2024-08-30,Network activity,domain,c.printerconsulting.ru,"botnet_cc
+100"
+2024-08-30,Network activity,domain,d.printerconsulting.ru,"botnet_cc
+100"
+2024-08-30,Network activity,domain,f.printerconsulting.ru,"botnet_cc
+100"
+2024-08-30,Network activity,domain,j.foxnointel.ru,"botnet_cc
+100"
+2024-08-30,Network activity,domain,d.foxnointel.ru,"botnet_cc
+100"
+2024-08-30,Network activity,domain,g.foxnointel.ru,"botnet_cc
+100"
+2024-08-30,Network activity,domain,h.foxnointel.ru,"botnet_cc
+100"
+2024-08-30,Network activity,domain,b.foxnointel.ru,"botnet_cc
+100"
+2024-08-30,Network activity,domain,f.foxnointel.ru,"botnet_cc
+100"
+2024-08-30,Network activity,domain,e.foxnointel.ru,"botnet_cc
+100"
+2024-08-30,Network activity,domain,k.foxnointel.ru,"botnet_cc
+100"
+2024-08-30,Network activity,domain,c.foxnointel.ru,"botnet_cc
+100"
+2024-08-30,Network activity,domain,a.foxnointel.ru,"botnet_cc
+100"
+2024-08-30,Payload delivery,sha256,166bba02413995aff28ffeb27d3bf3d5a5f6a6cd36893e252c7b9a22836f4980,"payload
+100"
+2024-08-30,Payload delivery,sha256,274844568a6a9ce334d71efeac21f528d7b54b2cd4377c978cc1270c6ad986c4,"payload
+100"
+2024-08-30,Payload delivery,sha256,e082c6d30278139fdab5a7ddddecbcbafad12ab4dff1d5a960d9704fe635c007,"payload
+100"
+2024-08-30,Network activity,domain,j.printerconsulting.ru,"botnet_cc
+100"
+2024-08-30,Network activity,domain,e.printerconsulting.ru,"botnet_cc
+100"
+2024-08-30,Network activity,domain,h.printerconsulting.ru,"botnet_cc
+100"
+2024-08-30,Network activity,domain,k.printerconsulting.ru,"botnet_cc
+100"
+2024-08-30,Network activity,domain,a.printerconsulting.ru,"botnet_cc
+100"
+2024-08-30,Network activity,ip-dst|port,51.120.241.156|4444,"botnet_cc
+100"
+2024-08-30,Network activity,ip-dst|port,172.235.142.66|6969,"botnet_cc
+100"
+2024-08-30,Network activity,ip-dst|port,185.255.178.106|2474,"botnet_cc
+100"
+2024-08-30,Network activity,ip-dst|port,5.8.33.161|6969,"botnet_cc
+100"
+2024-08-30,Network activity,url,http://ce73945.tw1.ru/08e3263a.php,"botnet_cc
+100"
+2024-08-30,Network activity,url,http://cu14777.tw1.ru/e7da6f32.php,"botnet_cc
+100"
+2024-08-30,Network activity,ip-dst|port,172.94.18.237|4444,"botnet_cc
+100
+https://search.censys.io/hosts/172.94.18.237"
+2024-08-30,Network activity,ip-dst|port,125.124.188.121|40056,"botnet_cc
+100
+https://search.censys.io/hosts/125.124.188.121"
+2024-08-30,Network activity,ip-dst|port,152.42.129.99|80,"botnet_cc
+100
+https://search.censys.io/hosts/152.42.129.99"
+2024-08-30,Network activity,ip-dst|port,45.92.9.144|7443,"botnet_cc
+100
+https://search.censys.io/hosts/45.92.9.144"
+2024-08-30,Network activity,ip-dst|port,124.70.99.224|8888,"botnet_cc
+100
+https://search.censys.io/hosts/124.70.99.224"
+2024-08-30,Network activity,ip-dst|port,91.92.240.98|2404,"botnet_cc
+100
+https://search.censys.io/hosts/91.92.240.98"
+2024-08-30,Network activity,ip-dst|port,47.100.1.145|8089,"botnet_cc
+100
+https://search.censys.io/hosts/47.100.1.145"
+2024-08-30,Network activity,ip-dst|port,209.141.53.56|80,"botnet_cc
+100
+https://search.censys.io/hosts/209.141.53.56"
+2024-08-30,Network activity,url,http://621287cm.n9shteam2.top/UpdatelinuxWindowsUniversal.php,"botnet_cc
+100"
+2024-08-30,Network activity,url,http://f1022242.xsph.ru/6d2069e6.php,"botnet_cc
+100"

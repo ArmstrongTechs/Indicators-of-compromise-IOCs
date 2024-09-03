@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-08-08]
+| UUID: 3965f627-954f-4759-904a-6446d17785bd
+| Date: 2024-08-08
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-08,Payload installation,filename,통관용_AG-C016-24_ATLANTIC GOLD_NORTH WESTpdf.exe,Source: MalwareBazaar
+2024-08-08,Payload installation,md5,c0a1ffbe408f92e743f0727ca8947da8,Source: MalwareBazaar
+2024-08-08,Payload installation,sha1,6b3b87020dfa6b838fb3585853226ba507148c1a,Source: MalwareBazaar
+2024-08-08,Payload installation,sha256,391ac1ceedd3c960f32890f834a86ba1570ee5a0cc12dcef1714d43bb29fc457,Source: MalwareBazaar

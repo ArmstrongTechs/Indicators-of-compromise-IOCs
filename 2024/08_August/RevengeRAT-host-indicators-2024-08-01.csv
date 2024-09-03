@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: RevengeRAT host indicators [2024-08-01]
+| UUID: f96a3d9d-71c4-4612-8e81-d8bbc6863281
+| Date: 2024-08-01
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-01,Payload installation,filename,Flytour.doc,Source: MalwareBazaar
+2024-08-01,Payload installation,md5,639df28efc7717655b1d8cc618a76b1c,Source: MalwareBazaar
+2024-08-01,Payload installation,sha1,9e79c9d82ad07f95b09e73bbba792a889911f51e,Source: MalwareBazaar
+2024-08-01,Payload installation,sha256,861375605b6f4b622556d5b04f6329440a26b38dfa066b114c55d258ac4895bc,Source: MalwareBazaar

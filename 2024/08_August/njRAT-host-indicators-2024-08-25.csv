@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2024-08-25]
+| UUID: 44df5017-489e-4b0c-a587-4d34d75c9803
+| Date: 2024-08-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-25,Payload installation,filename,gfbvd4t21.exe,Source: MalwareBazaar
+2024-08-25,Payload installation,md5,d1d823832afb7df34906c2fde1ad760f,Source: MalwareBazaar
+2024-08-25,Payload installation,sha1,758d20fbfa4d3428d2a2b76ed5f4283c3d71f1af,Source: MalwareBazaar
+2024-08-25,Payload installation,sha256,a92ebbd861bebbb9538f8239b9cd01bd909c51f75205ad531a45036c3f72d2f7,Source: MalwareBazaar
+2024-08-25,Payload installation,filename,lsase.exe,Source: MalwareBazaar
+2024-08-25,Payload installation,md5,48e1ff235a82d5a77c00ade2b99ebf1d,Source: MalwareBazaar
+2024-08-25,Payload installation,sha1,a7e42e82ebdc4eda70decb2d3c1a17865fbdec95,Source: MalwareBazaar
+2024-08-25,Payload installation,sha256,a542d970968b57ab4173cd039ddb1fd3cc0ff5e7090b45d412ca0f43df52de4c,Source: MalwareBazaar

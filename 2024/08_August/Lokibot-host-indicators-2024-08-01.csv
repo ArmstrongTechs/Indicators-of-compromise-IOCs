@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-08-01]
+| UUID: 8ef23e7d-3350-4eaa-af31-d4bc8d9565a7
+| Date: 2024-08-01
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-01,Payload installation,filename,0371000451985082024.exe,Source: MalwareBazaar
+2024-08-01,Payload installation,md5,13ef13f688d826fd3056f6c857ab1fc5,Source: MalwareBazaar
+2024-08-01,Payload installation,sha1,612b8e9184eac0824b2e3887f3c9c842ea6a5155,Source: MalwareBazaar
+2024-08-01,Payload installation,sha256,22e07732afa9d6a1c689bd93a3f5b60205310ef8f4225aa00391d8da73d88108,Source: MalwareBazaar
+2024-08-01,Payload installation,filename,ad2b8c6d46879d5c83c2a89020cf39f29f7344532b26e1ea8c91cbeb7fb3440c,Source: MalwareBazaar
+2024-08-01,Payload installation,md5,4015f00ef3731b6caa8862aacc178f2e,Source: MalwareBazaar
+2024-08-01,Payload installation,sha1,a95f1a8fef002703f6c303121c36269485cccc50,Source: MalwareBazaar
+2024-08-01,Payload installation,sha256,ad2b8c6d46879d5c83c2a89020cf39f29f7344532b26e1ea8c91cbeb7fb3440c,Source: MalwareBazaar

@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-08-14]
+| UUID: 50ca395d-aaf1-46f7-83da-12c6500f60f4
+| Date: 2024-08-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-14,Payload installation,filename,SecuriteInfo.com.W32.MSIL_Kryptik.LHJ.gen.Eldorado.2945.9118,Source: MalwareBazaar
+2024-08-14,Payload installation,md5,9fd26a4b29fb7795bad23d37b00b0a52,Source: MalwareBazaar
+2024-08-14,Payload installation,sha1,c85c3f61ba34c4fc89eb35e804db4c02a4cd4059,Source: MalwareBazaar
+2024-08-14,Payload installation,sha256,46b74e87fffe9aeb77171bd1c51e4b502e5f9aa7810b246d8125d2a37dccf88e,Source: MalwareBazaar
+2024-08-14,Payload installation,filename,PTSSS.PDF.rar,Source: MalwareBazaar
+2024-08-14,Payload installation,md5,41a0df44fb233f96c34030fd70ce4638,Source: MalwareBazaar
+2024-08-14,Payload installation,sha1,b69286e431d446d97c959e592a4defeaefe18699,Source: MalwareBazaar
+2024-08-14,Payload installation,sha256,efb40323555ffe98890df44a308694c9d7e7124823d71a3501bb6138d4f50b41,Source: MalwareBazaar

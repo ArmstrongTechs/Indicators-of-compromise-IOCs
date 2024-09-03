@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: RevengeRAT host indicators [2024-08-23]
+| UUID: e6d7c440-37e1-4014-9027-d1efc2711da1
+| Date: 2024-08-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-23,Payload installation,filename,-NF 7867-Voucher.ppam,Source: MalwareBazaar
+2024-08-23,Payload installation,md5,3795f414fbb682f1057af0812cae8a71,Source: MalwareBazaar
+2024-08-23,Payload installation,sha1,8efdfd15634e16922a06a7e33646a57728fd9e64,Source: MalwareBazaar
+2024-08-23,Payload installation,sha256,9e28142248bbb95bf6c66e1b53b080a72e51bdc2072741b401a4450dd51644ab,Source: MalwareBazaar
+2024-08-23,Payload installation,filename,Documentacao e embarque.ppam,Source: MalwareBazaar
+2024-08-23,Payload installation,md5,611017e71f6a61eed28e687918d303a2,Source: MalwareBazaar
+2024-08-23,Payload installation,sha1,a1fd8915e3acecc84bf6d2e03f069d2670d9c52a,Source: MalwareBazaar
+2024-08-23,Payload installation,sha256,3ecc5f6014a056385e0c479b9eae55465faebf46232c1ee69c33dfd74618e1a1,Source: MalwareBazaar

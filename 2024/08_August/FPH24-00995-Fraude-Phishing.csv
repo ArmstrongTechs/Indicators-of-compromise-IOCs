@@ -1,0 +1,21 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00995 [Fraude] [Phishing]
+| UUID: d37955a6-88b2-4d89-8624-7d634cff9b11
+| Date: 2024-08-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-21,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+Se trata de una página web falsa que se hace pasar por Microsoft Outlook, usando sin autorización el nombre de este producto en emails de phishing, los que redirigen a un sitio malicioso para robar datos de sus usuarios.Lo anterior constituye una falsificación de marca que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2024-08-21,Network activity,ip-src,151.101.194.188,IP sitio falso
+2024-08-21,Network activity,ip-src,201.116.60.20,IP SMTP
+2024-08-21,Payload delivery,email-subject,Actualización del servicio de asistencia técnica,Asunto del correo
+2024-08-21,Payload delivery,url,https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Foutlook-web-access-350157.webflow.io%2F&data=05%7C02%7{Correo encoded}%7C6f8c77c581894af3246d08dcc056deaa%7C77ecda755864422aa5356ea67154029c%7C0%7C0%7C638596726591838865%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C20000%7C%7C%7C&sdata=CJcNZ7IyeM9RWfnaIthVohU8J9E0GzOvMbfmqaN4Ej4%3D&reserved=0,URL redirección
+2024-08-21,Payload delivery,url,https://outlook-web-access-350157.webflow.io/,URL sitio falso
+2024-08-21,Payload delivery,email-src,maria.bello@conagua.gob.mx,Correo de salida
+2024-08-21,External analysis,attachment,2024-08-21_12h15_09.png,
+2024-08-21,External analysis,attachment,2024-08-21_12h16_01.png,

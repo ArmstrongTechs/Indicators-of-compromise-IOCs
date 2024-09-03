@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-08-16]
+| UUID: c8098e87-7c82-4d32-923a-296cae94470b
+| Date: 2024-08-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-16,Payload installation,filename,REMITTANCE ADVICE.exe,Source: MalwareBazaar
+2024-08-16,Payload installation,md5,32879d7693981163bcb9306c4c120035,Source: MalwareBazaar
+2024-08-16,Payload installation,sha1,a6d8c82315d33f7a073a639461dc52fa7e55391c,Source: MalwareBazaar
+2024-08-16,Payload installation,sha256,cd55ee9c6e15c684d3ce9c0a724ac42320a0698eb6e2aaf805146064c18e116a,Source: MalwareBazaar
+2024-08-16,Payload installation,filename,DHL Airwaybill & Shipping Documents..exe,Source: MalwareBazaar
+2024-08-16,Payload installation,md5,a5f1292dcbbce723fda394940ee6b49c,Source: MalwareBazaar
+2024-08-16,Payload installation,sha1,7dacadfbd0fea72b4850d3460412fc364a57fa1f,Source: MalwareBazaar
+2024-08-16,Payload installation,sha256,71bb510143a05690f3fb6e06f6abec1c5f19ef41c12c51a9a8df54a2a5335c3b,Source: MalwareBazaar
+2024-08-16,Payload installation,filename,SWIFT_PAYMENT_FROZEN_MEAT-PDF.vbs,Source: MalwareBazaar
+2024-08-16,Payload installation,md5,bda37ba225c2cf6fc69f9c5dc2b93c77,Source: MalwareBazaar
+2024-08-16,Payload installation,sha1,d8d3ef1721193464b6eb7ec5fe1f69abb4c0923a,Source: MalwareBazaar
+2024-08-16,Payload installation,sha256,cee0a4d86d1aed208accce3f0556419afe6cbecc9ed842b7079e6c161692d131,Source: MalwareBazaar
+2024-08-16,Payload installation,filename,SKM_224e24080923050.7z,Source: MalwareBazaar
+2024-08-16,Payload installation,md5,8731461bd86acf13fd65e7b7ec1607c0,Source: MalwareBazaar
+2024-08-16,Payload installation,sha1,71a42d71e4ceee8f8f79aae29c1da44a269ad06e,Source: MalwareBazaar
+2024-08-16,Payload installation,sha256,515f6caca4d15eb7acfc4c4d48c62fb69ebc4d916beebca111ebec7004c04391,Source: MalwareBazaar
+2024-08-16,Payload installation,filename,1723810025c7e21d0a977a9f5990f6b46caa918cba8a4e8a8eadbe34164516f3473b1e8bb3948.dat-decoded,Source: MalwareBazaar
+2024-08-16,Payload installation,md5,5c4c167c571449a06a11799c35c2770c,Source: MalwareBazaar
+2024-08-16,Payload installation,sha1,ce7abb1c32553071ab4c6a58d5574952d88d96e8,Source: MalwareBazaar
+2024-08-16,Payload installation,sha256,eb649e9a11ca38c4002704747d173d740627119582434087cd28eecad5c8b536,Source: MalwareBazaar

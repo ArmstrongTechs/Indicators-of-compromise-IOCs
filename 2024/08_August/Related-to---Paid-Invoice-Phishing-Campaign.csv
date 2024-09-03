@@ -1,0 +1,42 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Related to - Paid Invoice Phishing Campaign
+| UUID: a289cdee-68b3-4b2f-8bc6-c526f05ed449
+| Date: 2024-08-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-22,Network activity,url,http://aerospace-reporters-purposes-wx.trycloudflare.com/,
+2024-08-22,Network activity,url,http://ceeaapaint.xyz:5710/,
+2024-08-22,Payload delivery,filename|md5,Invoice_835678930474738_pdf.lnk|526d4eb3a66830fe999eedf188597d1d,
+2024-08-22,Payload delivery,filename|sha1,Invoice_835678930474738_pdf.lnk|576456543591f954837815cce7810698e59dfcc8,
+2024-08-22,Payload delivery,filename|sha256,Invoice_835678930474738_pdf.lnk|5e5d501329aa1482df6fab3da7b839bc0b0f049cc9c1ebd79860e1d7b0e0086d,
+2024-08-22,Payload delivery,filename|sha512,Invoice_835678930474738_pdf.lnk|f34f1fdb6faa9a001345cb876a97fadae06c3b493ad1599b52408418122929f9014eb5ecf78768e2c82cfdc4371f3589589773e45717638f822afcde407e27b5,
+2024-08-22,Payload delivery,filename|ssdeep,Invoice_835678930474738_pdf.lnk|24:8TJbmOuNVz1A4UPAdi+/sdF8wsdXbGYYqVgqe7ab/rMTcm:8T1mjNVze4l8dFhsd7Bhe7ab4c,
+2024-08-22,Payload delivery,filename|md5,E_DOCUMENT_RVB_639283023987654_pdf.lnk|526d4eb3a66830fe999eedf188597d1d,
+2024-08-22,Payload delivery,filename|sha1,E_DOCUMENT_RVB_639283023987654_pdf.lnk|576456543591f954837815cce7810698e59dfcc8,
+2024-08-22,Payload delivery,filename|sha256,E_DOCUMENT_RVB_639283023987654_pdf.lnk|5e5d501329aa1482df6fab3da7b839bc0b0f049cc9c1ebd79860e1d7b0e0086d,
+2024-08-22,Payload delivery,filename|sha512,E_DOCUMENT_RVB_639283023987654_pdf.lnk|f34f1fdb6faa9a001345cb876a97fadae06c3b493ad1599b52408418122929f9014eb5ecf78768e2c82cfdc4371f3589589773e45717638f822afcde407e27b5,
+2024-08-22,Payload delivery,filename|ssdeep,E_DOCUMENT_RVB_639283023987654_pdf.lnk|24:8TJbmOuNVz1A4UPAdi+/sdF8wsdXbGYYqVgqe7ab/rMTcm:8T1mjNVze4l8dFhsd7Bhe7ab4c,
+2024-08-22,Payload delivery,filename|md5,456738983738747383_pdf.lnk|6af2c3048ac8e62cb1747baec9f8fb37,
+2024-08-22,Payload delivery,filename|sha1,456738983738747383_pdf.lnk|915de3f116de517a2467f33965b6975da8940f53,
+2024-08-22,Payload delivery,filename|sha256,456738983738747383_pdf.lnk|3a6348e7ba629568be0a232ffbea4b11dbd72a0d05b440236c977b850e32eabd,
+2024-08-22,Payload delivery,filename|sha512,456738983738747383_pdf.lnk|bf43db5edad9dfdc40abfe90fa1cd1890609cafc66680cc049f586cb9a987c56381a63fd6d65fe8d3ed7993b5690bf7a2af996f94138c3bc578819cda846a175,
+2024-08-22,Payload delivery,filename|ssdeep,456738983738747383_pdf.lnk|24:87JbmOuNVz1A4UPAdRdXFVQdWYGYYqVgqe7ab/rMTcm:871mjNVze4lDdQnBhe7ab4c,
+2024-08-22,Payload delivery,filename|md5,E_STATEMENT_VSBSA43567289011388382_pdf.lnk|6fc20a1989dff1599a4533bbe07a1325,
+2024-08-22,Payload delivery,filename|sha1,E_STATEMENT_VSBSA43567289011388382_pdf.lnk|2a58c6f53590ce5a80da3bcb69f73c3e80faa7e6,
+2024-08-22,Payload delivery,filename|sha256,E_STATEMENT_VSBSA43567289011388382_pdf.lnk|44488027f0728e41d8bb316529869b8031439d84a46a30ebb94c1b2a94d4abe2,
+2024-08-22,Payload delivery,filename|sha512,E_STATEMENT_VSBSA43567289011388382_pdf.lnk|785a0a43742e41657f6a25aaa77b45f37e47d9be2528b9cb92b211e8605ddf43f3bf87dee410a4f09663265becabcb9031b0fb94d8a4666f74949e9f2622b87b,
+2024-08-22,Payload delivery,filename|ssdeep,E_STATEMENT_VSBSA43567289011388382_pdf.lnk|24:8TJbmOuNVz1A4UPAdi+/sdtXGk51GYYqVgqe7ab/rMTcm:8T1mjNVze4l8dsulBhe7ab4c,
+2024-08-22,Payload delivery,filename|md5,INVOICE_830234983892873_pdf.lnk|6fc20a1989dff1599a4533bbe07a1325,
+2024-08-22,Payload delivery,filename|sha1,INVOICE_830234983892873_pdf.lnk|2a58c6f53590ce5a80da3bcb69f73c3e80faa7e6,
+2024-08-22,Payload delivery,filename|sha256,INVOICE_830234983892873_pdf.lnk|44488027f0728e41d8bb316529869b8031439d84a46a30ebb94c1b2a94d4abe2,
+2024-08-22,Payload delivery,filename|sha512,INVOICE_830234983892873_pdf.lnk|785a0a43742e41657f6a25aaa77b45f37e47d9be2528b9cb92b211e8605ddf43f3bf87dee410a4f09663265becabcb9031b0fb94d8a4666f74949e9f2622b87b,
+2024-08-22,Payload delivery,filename|ssdeep,INVOICE_830234983892873_pdf.lnk|24:8TJbmOuNVz1A4UPAdi+/sdtXGk51GYYqVgqe7ab/rMTcm:8T1mjNVze4l8dsulBhe7ab4c,
+2024-08-22,Payload delivery,filename|md5,jiopdssa.lnk|370e93fbd938d0a6a8bae14c7b6a32d6,
+2024-08-22,Payload delivery,filename|sha1,jiopdssa.lnk|f53243f01c22d1ab909ab5ef69a8f1ecdf171b6e,
+2024-08-22,Payload delivery,filename|sha256,jiopdssa.lnk|92f5f00033164c621688ac215583a2153709856ceec6bdc3a420d949f63f0768,
+2024-08-22,Payload delivery,filename|sha512,jiopdssa.lnk|3723d7681df2d23db67cbe1e89755e125a90876a93fec6ab957597050592144af1caeca4a695d0b108df1314d1511ab9fbf127ffefd27394cf8a48e6c121cf25,
+2024-08-22,Payload delivery,filename|ssdeep,jiopdssa.lnk|24:8VPJbmO3tGRPVz1A4UPAg+/KPepA/DGY4I02gqeJpK6+/CIab/yDnq+/CWxm93:8J1mStGRPVze4l6P0I9eJBcaz2nq4,

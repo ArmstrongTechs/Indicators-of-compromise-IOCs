@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-08-24]
+| UUID: 3e6e0e4c-0f26-406c-b169-231469a6b833
+| Date: 2024-08-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-24,Payload installation,filename,Crack.exe,Source: MalwareBazaar
+2024-08-24,Payload installation,md5,7d4018c339a9e7e47ca2f2efede271a8,Source: MalwareBazaar
+2024-08-24,Payload installation,sha1,83b564fa3c69dc6224aed86150f72c198ddee592,Source: MalwareBazaar
+2024-08-24,Payload installation,sha256,72147e2c857581f3ecd0e036d065f388c638cdb944f08fb219f5f41561c17ec8,Source: MalwareBazaar
+2024-08-24,Payload installation,filename,Shipping documents#PL BL.zip,Source: MalwareBazaar
+2024-08-24,Payload installation,md5,b1f0de23e96a682806681192efba890b,Source: MalwareBazaar
+2024-08-24,Payload installation,sha1,f348f9bda3d744aab84b844af8383ac2aeb5e8d6,Source: MalwareBazaar
+2024-08-24,Payload installation,sha256,7f69d04bc5f75827929e36088c40e8491e0d33084608304e50c003476d03c6b0,Source: MalwareBazaar

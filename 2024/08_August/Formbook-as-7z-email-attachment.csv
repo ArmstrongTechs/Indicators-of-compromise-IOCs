@@ -1,0 +1,41 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook as .7z email attachment
+| UUID: b830aeeb-47de-4c09-9698-3156894711d2
+| Date: 2024-08-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-14,Network activity,domain,www.airportsurvery.com,
+2024-08-14,Network activity,domain,www.ammann-mc.ch,
+2024-08-14,Network activity,domain,www.andywork.one,
+2024-08-14,Network activity,domain,www.avocatmh.org,
+2024-08-14,Network activity,domain,www.bing.com,
+2024-08-14,Network activity,domain,www.brothedboil.com,
+2024-08-14,Network activity,domain,www.century21morenoycia.mx,
+2024-08-14,Network activity,domain,www.fivetownsjcc.com,
+2024-08-14,Network activity,domain,www.franksdropandstop.com,
+2024-08-14,Network activity,domain,www.getjobspie.com,
+2024-08-14,Network activity,domain,www.kansaiwoody.com,
+2024-08-14,Network activity,domain,www.lebonergy.com,
+2024-08-14,Network activity,domain,www.legionmandala.com,
+2024-08-14,Network activity,domain,www.lm2ue.us,
+2024-08-14,Network activity,domain,www.lwxow.lat,
+2024-08-14,Network activity,domain,www.purebrushstore.com,
+2024-08-14,Network activity,domain,www.threesomeapps.com,
+2024-08-14,Network activity,domain,www.timesrenewables.com,
+2024-08-14,Network activity,domain,www.winnov8.top,
+2024-08-14,Payload delivery,malware-sample,IMG563756537835758835858385873675735Bilproduktion007.7z|4fe56c22ec1f67f1905964fb9f409e8e,
+2024-08-14,Payload delivery,filename,IMG563756537835758835858385873675735Bilproduktion007.7z,
+2024-08-14,Payload delivery,md5,4fe56c22ec1f67f1905964fb9f409e8e,
+2024-08-14,Payload delivery,sha1,a732fde82edee2cb019fb6ce826c49740c2424b6,
+2024-08-14,Payload delivery,sha256,c97f92a823c02b8a914458c0a676e418829073ad211bb4cf86d5a5656baaf05f,
+2024-08-14,Other,size-in-bytes,723061,
+2024-08-14,Payload delivery,malware-sample,IMG563756537835758835858385873675735Bilproduktion007.exe|396f5c6388e0d40c4194cfe634760582,
+2024-08-14,Payload delivery,filename,IMG563756537835758835858385873675735Bilproduktion007.exe,
+2024-08-14,Payload delivery,md5,396f5c6388e0d40c4194cfe634760582,
+2024-08-14,Payload delivery,sha1,9ac6e2ebc41e7f19cba3a924cec722220ab29c55,
+2024-08-14,Payload delivery,sha256,f499f10a2567f0225aee3f1306924ca4737b829b95f24cead53f6608afc79831,
+2024-08-14,Other,size-in-bytes,931568,

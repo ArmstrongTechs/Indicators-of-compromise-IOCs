@@ -1,0 +1,920 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Daily Incremental ThreatFox Import - 2024-08-13
+| UUID: 97ef0d7b-550e-4b79-a70c-6abaa317f44e
+| Date: 2024-08-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-13,Payload delivery,sha256,dd974e2e1dbb2dae5a4b224954ef3ba77efd4ca1c16ed3e357a68bce7b7af6fc,"payload
+95"
+2024-08-13,Payload delivery,md5,82005370f9b4d86999f81152c835d9c3,"payload
+95"
+2024-08-13,Payload delivery,sha1,95770a38019797645f59c353ae7e601652f04fd9,"payload
+95"
+2024-08-13,Payload delivery,sha256,8dddd8491db05ec4904bb6b6fd63ac5412b23fd89cefbf1b3c5ca74325615e8e,"payload
+95"
+2024-08-13,Payload delivery,md5,fbc68c0b27f383eeb5177a01d2464b74,"payload
+95"
+2024-08-13,Payload delivery,md5,5780d2984e967ad8523857f3be26d619,"payload
+95"
+2024-08-13,Payload delivery,sha1,33ce6d297f5039c828f21d17c1ac6acde4b0153c,"payload
+95"
+2024-08-13,Payload delivery,sha256,0de7cc17a93b3a6454ee40da9ee84d59269850c480db2f0d5d1ef6dce22068a7,"payload
+95"
+2024-08-13,Payload delivery,sha1,bffa532e8ae67cb59ef2c98b13ae279fc24c7f76,"payload
+95"
+2024-08-13,Payload delivery,sha256,992c1fa1d6584c711280bd3a519018a88c7766728ca0b51024484d9a83ef6d9c,"payload
+95"
+2024-08-13,Payload delivery,md5,94f77c1f6d2b95da3b403c39faa91b78,"payload
+95"
+2024-08-13,Payload delivery,sha1,5f721f019d30418f14526af510310855bc3c34d3,"payload
+95"
+2024-08-13,Payload delivery,sha256,4098e2b8d80778d1c4f1c2cf36d6665175991c32dd1b73609bad0f8eb4c9271d,"payload
+95"
+2024-08-13,Payload delivery,md5,80f73c8cbbe5599b4e21e4956023116d,"payload
+95"
+2024-08-13,Payload delivery,sha1,102c906a769b228996cdfee698fe02cc8d8487e7,"payload
+95"
+2024-08-13,Payload delivery,sha256,9c0e6f401644a7fe1eabace6fe5e0b10c20c73db7c28b3a3152059e8785d6411,"payload
+95"
+2024-08-13,Payload delivery,md5,9e68098822fb62ba295586efed7d8f48,"payload
+95"
+2024-08-13,Payload delivery,md5,28831523d4d165b40311e4447aedb37a,"payload
+95"
+2024-08-13,Payload delivery,sha1,8b21f99837066c4034bd5b6897fc910de0543989,"payload
+95"
+2024-08-13,Payload delivery,sha256,42ea2959f92f9405095a311f2b521eae1c2cbfd17140699710f22db8af6cd1c2,"payload
+95"
+2024-08-13,Payload delivery,sha1,084854a80fa821628fac1e8ccf9a8cc601598c5a,"payload
+95"
+2024-08-13,Payload delivery,md5,eef621d0eaddf2b61bc1634b1be821cb,"payload
+95"
+2024-08-13,Payload delivery,sha256,2e8c08abc070d55f30338ad1f69d6f9946fa7d31d069c3b4bc37b97053b569f5,"payload
+95"
+2024-08-13,Payload delivery,md5,ce1485aa2aacb97efc8c6192eb154ea0,"payload
+95"
+2024-08-13,Payload delivery,sha1,8d9fb1685d9bf537dcda7281c07dce45cffec69b,"payload
+95"
+2024-08-13,Payload delivery,sha256,d6c84d04218d6ed0557fd6be5c44b3bf91c93a56d5531dfc0fb8b9307386f8f4,"payload
+95"
+2024-08-13,Payload delivery,sha1,d80da87cc14e5d2683a16e394f2e15da5e707d03,"payload
+95"
+2024-08-13,Payload delivery,md5,3b0041dfa75c093509fd3e2e1a144532,"payload
+95"
+2024-08-13,Payload delivery,sha256,c18daf8d23214417f5c2165c850ffe0e83b657d9ba045dde50757cfd5b5f4dbc,"payload
+95"
+2024-08-13,Payload delivery,sha1,a294857985afb4a0e6ec3f2d5cb07cf2298ba94f,"payload
+95"
+2024-08-13,Payload delivery,sha256,76a1146953eeb963c6eae47e2c22729d21199ef5d5e2d68f09bee651792d89e7,"payload
+95"
+2024-08-13,Payload delivery,md5,c236d2037b2b4608a221a5a792e59816,"payload
+95"
+2024-08-13,Payload delivery,sha1,f478eafc6a0cfc655ee6251ae5c252de50f084e7,"payload
+95"
+2024-08-13,Payload delivery,md5,54c2889f1ab44839cc0533c69fb54317,"payload
+95"
+2024-08-13,Payload delivery,sha256,5ffafbd40ac9b13b7376211d7251c3f325cf78fc74e89ef58dc2392983f36e45,"payload
+95"
+2024-08-13,Payload delivery,md5,297270c13474cdcd006acc261c98050a,"payload
+95"
+2024-08-13,Payload delivery,sha1,305cd733ced2436201420d5dc1c6afc45849e63b,"payload
+95"
+2024-08-13,Payload delivery,sha256,ddc4a98828ac3afea03294fd57189778ce57e305d075f08f0ace443352d5447b,"payload
+95"
+2024-08-13,Payload delivery,md5,950540b0a2b741c89322dee9d8da0e3a,"payload
+95"
+2024-08-13,Payload delivery,sha1,40fd185b12939822e4cc02da09ae3d38aea83306,"payload
+95"
+2024-08-13,Payload delivery,sha256,1520a5519b218691cbe4dad9af51741f03e0451774c7c1b5228a683faa8a9cbd,"payload
+95"
+2024-08-13,Payload delivery,md5,b9ee0c2ba1d0961eb00aa101730ec076,"payload
+95"
+2024-08-13,Payload delivery,sha1,de335544f1d7a8a735cadc42e7494bedae53751f,"payload
+95"
+2024-08-13,Payload delivery,sha256,0f497b23b90b11f7b6b2f7b8e3aff0618fb3325eed93ac43e4046b82af8d1257,"payload
+95"
+2024-08-13,Payload delivery,sha1,66e5bde292ad6d8a6c7227c376d5c7e3e7a68e2a,"payload
+95"
+2024-08-13,Payload delivery,sha256,9bf1760a20004fc2edd6334f613ea2fbb8e71ebac2f145b79a8782839b1c412e,"payload
+95"
+2024-08-13,Payload delivery,md5,fb01a854283305bb8180075a0ffe68db,"payload
+95"
+2024-08-13,Payload delivery,sha1,a3f9e9f93466ea7edfb45bdcaca73e2019dcd21a,"payload
+95"
+2024-08-13,Payload delivery,md5,3553ed5ead976c6dbae1b70efe14ead5,"payload
+95"
+2024-08-13,Payload delivery,sha256,bee4f8f83d7ec218bfb42904a7a15115f585c06930c5df8485891d0ab2b34d42,"payload
+95"
+2024-08-13,Payload delivery,md5,6440ceccbbdec781207b92203d4161f3,"payload
+95"
+2024-08-13,Payload delivery,sha1,ba10e8c0064380c0b9eab485bde7f3fbca062cb3,"payload
+95"
+2024-08-13,Payload delivery,sha256,9e09b85fb807bec991432ccce6a4cf6ed8aa1044803dbbd80ea1a442e6e93882,"payload
+95"
+2024-08-13,Payload delivery,sha1,be51fbd7425db9a941dce835c4d05e85a4f65db2,"payload
+95"
+2024-08-13,Payload delivery,sha256,25570edd9543fd766bece1d4f1b7c74e5587f27d29779a26c9fd321f8fca452a,"payload
+95"
+2024-08-13,Payload delivery,md5,c8b35641222f7b9e0527709d4445e195,"payload
+95"
+2024-08-13,Payload delivery,sha1,ae0127dd5c9cdda766df5c019abc915782780023,"payload
+95"
+2024-08-13,Payload delivery,sha256,1e3c8e841261ebe56d395276a65211ed8fa4480ca68f18d3ac9f6738c4dba5a3,"payload
+95"
+2024-08-13,Payload delivery,md5,3d445e07577d943f8c4c465bd8a0387f,"payload
+95"
+2024-08-13,Payload delivery,sha1,42c62c050f77ce06358782462209d5f72b2b405d,"payload
+95"
+2024-08-13,Payload delivery,md5,c53c5f61aff07e7d726dee1213acd263,"payload
+95"
+2024-08-13,Payload delivery,sha256,6c18d7057ece3ae1524782a51f4dfa5589128b5a4c695cf1d3b9f1b95169cc4d,"payload
+95"
+2024-08-13,Payload delivery,md5,bcdd296cc18641493dac34103dd0660c,"payload
+95"
+2024-08-13,Payload delivery,sha1,a07be85818fdb618151beea0feba97693e08643f,"payload
+95"
+2024-08-13,Payload delivery,sha256,86b5a3bcb0169d6aaceb8fea508d025c288f7041fd8a61bc302a0cb8e10440e8,"payload
+95"
+2024-08-13,Payload delivery,sha1,3de16b451e73d40064ea4f38d29ca6eb0b3933d1,"payload
+95"
+2024-08-13,Payload delivery,md5,ff0c39560bbe39e434266a93dffaa680,"payload
+95"
+2024-08-13,Payload delivery,sha256,c081714907fc943cff0b637123039aff0237a226de4fb171cf430ed7c1da1163,"payload
+95"
+2024-08-13,Payload delivery,sha1,b553242c24301d7afef118b4eb87bc0d4489b182,"payload
+95"
+2024-08-13,Payload delivery,md5,e1013a0c3f62c7328bb5bb1dcf36725b,"payload
+95"
+2024-08-13,Payload delivery,sha256,1ab579b1885b4f9c7627e10ebf641995cdf3e217f6686118dafb5eddcf4d0265,"payload
+95"
+2024-08-13,Payload delivery,md5,02e47dfd1294ce31f13dba280c0a67b5,"payload
+95"
+2024-08-13,Payload delivery,sha1,a885580cbc511001e86f45dabde85c4f55a4f312,"payload
+95"
+2024-08-13,Payload delivery,sha256,248653074d88fac18a59e758a14fac1c0dcb8af24f32b17a43a15222cf93576e,"payload
+95"
+2024-08-13,Payload delivery,md5,58a4eba0023aa5ea228cdd97cf332804,"payload
+95"
+2024-08-13,Payload delivery,sha1,6abb28614be7035275e5bd3a3f37e0d5a733c083,"payload
+95"
+2024-08-13,Payload delivery,sha256,e801fc69d4d730346c6ec81d9c9ab0bfc8471a345faf8cce76737115dccd87dc,"payload
+95"
+2024-08-13,Payload delivery,sha1,73122ca5be7fb9e0cec9e3e9b6e867d0ee6d9eb6,"payload
+95"
+2024-08-13,Payload delivery,sha256,9f556ea46bdd815e809d4485c599147a398411fe9446b6e58e57c0c71835a26f,"payload
+95"
+2024-08-13,Payload delivery,md5,13beaf9506868f1b1963cf99859fe775,"payload
+95"
+2024-08-13,Payload delivery,sha1,7ba5dc823142c863fa1585af51d1631da561226e,"payload
+95"
+2024-08-13,Payload delivery,sha256,a4cc3b0c3fdbc7b3d58a3f3906b706c61e3d9191f4fe11d7243fa3dded2e9ec0,"payload
+95"
+2024-08-13,Payload delivery,md5,90d6c1ca1e9f623d25f7909779fe8e13,"payload
+95"
+2024-08-13,Payload delivery,sha1,bc99635e757e3eeb1f330c75c732b4697b17693d,"payload
+95"
+2024-08-13,Payload delivery,md5,6d29f4896892c91765c447a1987a4dbf,"payload
+95"
+2024-08-13,Payload delivery,sha256,1c8aaf17a743b6f1f6f356c4567389536c62d84f6b29f4139217205bfbb945a8,"payload
+95"
+2024-08-13,Payload delivery,md5,2700f6cfde6913836b974dea28c36ea0,"payload
+95"
+2024-08-13,Payload delivery,sha256,baad4005fb863b9598108dc202ceb8a5d70f36214ea004400ac82a3aa5328dc7,"payload
+95"
+2024-08-13,Payload delivery,md5,13df1a663df5a4efabe2de0743ef7bd9,"payload
+95"
+2024-08-13,Payload delivery,sha1,fdf890d33b58c69f259298e6c42a61b3f6d6425e,"payload
+95"
+2024-08-13,Payload delivery,sha256,0bd1beb985425d06ff14735a00162f7fb7934cd796bc58abae830ac61a390237,"payload
+95"
+2024-08-13,Payload delivery,md5,5b3568bfe2909796254e564a6f3b8a28,"payload
+95"
+2024-08-13,Payload delivery,sha1,20769f878a583d2021efb4779e566c8cf8f1690a,"payload
+95"
+2024-08-13,Payload delivery,sha256,52daf73ade9a604dee09d39a62636d33ff50f6e08de58a96e012f8f3141b54ae,"payload
+95"
+2024-08-13,Payload delivery,sha1,87550005f5b456a5b59d55ab91c56e8520f676b6,"payload
+95"
+2024-08-13,Payload delivery,sha256,f9898f9bbef6d022dd0ce4343009f8d8ec465322ec384723e565a7ff0db259e7,"payload
+95"
+2024-08-13,Payload delivery,md5,70e2e8e0e4af94e41c25c6576234f27b,"payload
+95"
+2024-08-13,Payload delivery,sha1,803f302773e43fadaa72613718905369ac47c20c,"payload
+95"
+2024-08-13,Payload delivery,sha256,e5c438b7601cdb2c43f04b582530f838a3cabe580552fe5d9b2bc839ea3be351,"payload
+95"
+2024-08-13,Payload delivery,md5,46292aefe5a072ef4f95822de51e7208,"payload
+95"
+2024-08-13,Payload delivery,sha1,0aefeb397e7315b523bc08cb105a2362fbfe5309,"payload
+95"
+2024-08-13,Network activity,ip-dst|port,209.38.216.116|7443,"botnet_cc
+100
+https://search.censys.io/hosts/209.38.216.116"
+2024-08-13,Network activity,ip-dst|port,46.246.6.15|2000,"botnet_cc
+100
+https://search.censys.io/hosts/46.246.6.15"
+2024-08-13,Network activity,ip-dst|port,154.216.48.81|8888,"botnet_cc
+100
+https://search.censys.io/hosts/154.216.48.81"
+2024-08-13,Network activity,ip-dst|port,141.95.84.40|39,"botnet_cc
+100
+https://search.censys.io/hosts/141.95.84.40"
+2024-08-13,Network activity,ip-dst|port,39.100.82.66|443,"botnet_cc
+100
+https://search.censys.io/hosts/39.100.82.66"
+2024-08-13,Network activity,ip-dst|port,47.120.63.146|55531,"botnet_cc
+100
+https://search.censys.io/hosts/47.120.63.146"
+2024-08-13,Network activity,ip-dst|port,66.42.40.65|80,"botnet_cc
+100
+https://search.censys.io/hosts/66.42.40.65"
+2024-08-13,Network activity,ip-dst|port,172.247.244.106|80,"botnet_cc
+100
+https://search.censys.io/hosts/172.247.244.106"
+2024-08-13,Network activity,ip-dst|port,47.92.82.94|443,"botnet_cc
+100
+https://search.censys.io/hosts/47.92.82.94"
+2024-08-13,Network activity,ip-dst|port,154.12.23.151|80,"botnet_cc
+100
+https://search.censys.io/hosts/154.12.23.151"
+2024-08-13,Network activity,ip-dst|port,3.87.184.184|8443,"botnet_cc
+100
+https://search.censys.io/hosts/3.87.184.184"
+2024-08-13,Network activity,ip-dst|port,207.32.219.49|80,"botnet_cc
+100
+https://search.censys.io/hosts/207.32.219.49"
+2024-08-13,Network activity,ip-dst|port,45.159.220.54|8082,"botnet_cc
+100
+https://search.censys.io/hosts/45.159.220.54"
+2024-08-13,Network activity,ip-dst|port,164.90.180.68|443,"botnet_cc
+100
+https://search.censys.io/hosts/164.90.180.68"
+2024-08-13,Network activity,ip-dst|port,179.241.191.175|9999,"botnet_cc
+100
+https://search.censys.io/hosts/179.241.191.175"
+2024-08-13,Network activity,ip-dst|port,154.216.48.85|8888,"botnet_cc
+100
+https://search.censys.io/hosts/154.216.48.85"
+2024-08-13,Network activity,ip-dst|port,154.220.61.12|8888,"botnet_cc
+100
+https://search.censys.io/hosts/154.220.61.12"
+2024-08-13,Network activity,ip-dst|port,123.245.248.171|8888,"botnet_cc
+100
+https://search.censys.io/hosts/123.245.248.171"
+2024-08-13,Network activity,ip-dst|port,43.247.134.217|8888,"botnet_cc
+100
+https://search.censys.io/hosts/43.247.134.217"
+2024-08-13,Network activity,ip-dst|port,179.15.149.222|2404,"botnet_cc
+100
+https://search.censys.io/hosts/179.15.149.222"
+2024-08-13,Network activity,ip-dst|port,43.226.229.234|2404,"botnet_cc
+100
+https://search.censys.io/hosts/43.226.229.234"
+2024-08-13,Network activity,ip-dst|port,194.59.30.123|2404,"botnet_cc
+100
+https://search.censys.io/hosts/194.59.30.123"
+2024-08-13,Network activity,ip-dst|port,181.49.85.74|5506,"botnet_cc
+100
+https://search.censys.io/hosts/181.49.85.74"
+2024-08-13,Network activity,ip-dst|port,192.3.243.155|2404,"botnet_cc
+100
+https://search.censys.io/hosts/192.3.243.155"
+2024-08-13,Network activity,ip-dst|port,39.100.78.189|8080,"botnet_cc
+100
+https://search.censys.io/hosts/39.100.78.189"
+2024-08-13,Network activity,ip-dst|port,8.140.242.238|80,"botnet_cc
+100
+https://search.censys.io/hosts/8.140.242.238"
+2024-08-13,Network activity,ip-dst|port,80.209.238.213|80,"botnet_cc
+100"
+2024-08-13,Network activity,ip-dst|port,185.73.124.32|80,"botnet_cc
+100"
+2024-08-13,Network activity,ip-dst|port,197.115.185.177|8111,"botnet_cc
+100"
+2024-08-13,Network activity,ip-dst|port,182.92.80.110|80,"botnet_cc
+100"
+2024-08-13,Network activity,ip-dst|port,178.255.222.253|443,"botnet_cc
+100"
+2024-08-13,Network activity,ip-dst|port,121.40.97.164|8081,"botnet_cc
+100"
+2024-08-13,Network activity,ip-dst|port,182.138.133.243|8123,"botnet_cc
+100"
+2024-08-13,Network activity,ip-dst|port,142.11.240.150|8080,"botnet_cc
+100"
+2024-08-13,Network activity,ip-dst|port,152.136.254.252|4444,"botnet_cc
+100"
+2024-08-13,Network activity,ip-dst|port,123.57.187.126|9999,"botnet_cc
+100"
+2024-08-13,Network activity,url,https://gxsicmj3l.top/cdn-vs/original.js,"payload_delivery
+100
+https://infosec.exchange/@monitorsg/112951108466956340"
+2024-08-13,Network activity,domain,gxsicmj3l.top,"payload_delivery
+100
+https://infosec.exchange/@monitorsg/112951108466956340"
+2024-08-13,Network activity,url,https://gxsicmj3l.top/cdn-vs/main.php,"payload_delivery
+100
+https://infosec.exchange/@monitorsg/112951108466956340"
+2024-08-13,Network activity,url,https://gxsicmj3l.top/cdn-vs/download.php,"payload_delivery
+100
+https://infosec.exchange/@monitorsg/112951108466956340"
+2024-08-13,Network activity,url,https://bet89on.store/data.php,"payload_delivery
+100
+https://infosec.exchange/@monitorsg/112951108466956340"
+2024-08-13,Network activity,domain,drsmarinegroup.com,"botnet_cc
+75"
+2024-08-13,Network activity,url,http://web10111.googlecode.com/svn/10111.txt,"botnet_cc
+49
+https://harfanglab.io/insidethelab/apt31-indictment-analysis/"
+2024-08-13,Network activity,url,https://raw.githubusercontent.com/willbill4/workspaceer/,"botnet_cc
+49
+https://harfanglab.io/insidethelab/apt31-indictment-analysis/"
+2024-08-13,Network activity,domain,born-brandon.gl.at.ply.gg,"botnet_cc
+75"
+2024-08-13,Network activity,url,https://cdnjscloudnetwork.co/privacy/i18min.js,"payload_delivery
+100"
+2024-08-13,Network activity,ip-dst|port,91.214.78.42|50555,"botnet_cc
+100
+https://search.censys.io/hosts/91.214.78.42"
+2024-08-13,Network activity,ip-dst|port,93.177.102.136|8082,"botnet_cc
+100
+https://search.censys.io/hosts/93.177.102.136"
+2024-08-13,Network activity,ip-dst|port,45.126.209.221|80,"botnet_cc
+100
+https://search.censys.io/hosts/45.126.209.221"
+2024-08-13,Network activity,ip-dst|port,41.249.56.199|4444,"botnet_cc
+100
+https://search.censys.io/hosts/41.249.56.199"
+2024-08-13,Network activity,ip-dst|port,16.162.102.111|8888,"botnet_cc
+100
+https://search.censys.io/hosts/16.162.102.111"
+2024-08-13,Network activity,ip-dst|port,64.176.53.146|8888,"botnet_cc
+100
+https://search.censys.io/hosts/64.176.53.146"
+2024-08-13,Network activity,ip-dst|port,47.106.9.207|8443,"botnet_cc
+100
+https://search.censys.io/hosts/47.106.9.207"
+2024-08-13,Network activity,ip-dst|port,47.238.111.61|20000,"botnet_cc
+100
+https://search.censys.io/hosts/47.238.111.61"
+2024-08-13,Network activity,ip-dst|port,46.246.84.19|2404,"botnet_cc
+100
+https://search.censys.io/hosts/46.246.84.19"
+2024-08-13,Network activity,ip-dst|port,185.208.158.212|443,"botnet_cc
+100
+https://search.censys.io/hosts/185.208.158.212"
+2024-08-13,Network activity,ip-dst|port,119.42.149.102|5443,"botnet_cc
+100
+https://search.censys.io/hosts/119.42.149.102"
+2024-08-13,Network activity,ip-dst|port,39.100.82.66|3306,"botnet_cc
+100
+https://search.censys.io/hosts/39.100.82.66"
+2024-08-13,Network activity,ip-dst|port,8.130.116.169|5000,"botnet_cc
+100
+https://search.censys.io/hosts/8.130.116.169"
+2024-08-13,Network activity,ip-dst|port,119.42.149.98|5443,"botnet_cc
+100
+https://search.censys.io/hosts/119.42.149.98"
+2024-08-13,Network activity,ip-dst|port,156.224.23.53|8081,"botnet_cc
+100
+https://search.censys.io/hosts/156.224.23.53"
+2024-08-13,Network activity,ip-dst|port,119.42.149.99|5443,"botnet_cc
+100
+https://search.censys.io/hosts/119.42.149.99"
+2024-08-13,Network activity,ip-dst|port,119.42.149.100|5443,"botnet_cc
+100
+https://search.censys.io/hosts/119.42.149.100"
+2024-08-13,Network activity,ip-dst|port,147.45.44.148|13589,"botnet_cc
+100"
+2024-08-13,Network activity,ip-dst|port,147.185.221.20|16162,"botnet_cc
+75"
+2024-08-13,Network activity,ip-dst|port,162.241.114.21|80,"botnet_cc
+75"
+2024-08-13,Network activity,ip-dst|port,147.185.221.17|38386,"botnet_cc
+75"
+2024-08-13,Network activity,ip-dst|port,176.122.66.4|27025,"botnet_cc
+75"
+2024-08-13,Network activity,ip-dst|port,154.215.14.34|5552,"botnet_cc
+75"
+2024-08-13,Network activity,ip-dst|port,147.185.221.21|55020,"botnet_cc
+75"
+2024-08-13,Network activity,ip-dst|port,91.212.166.21|443,"payload_delivery
+100"
+2024-08-13,Network activity,ip-dst|port,151.236.9.25|443,"botnet_cc
+75"
+2024-08-13,Network activity,ip-dst|port,94.232.249.65|80,"botnet_cc
+100
+https://tria.ge/240811-l2tnsavdkk/behavioral1"
+2024-08-13,Network activity,ip-dst|port,103.119.47.150|61788,"botnet_cc
+100
+https://search.censys.io/hosts/103.119.47.150"
+2024-08-13,Network activity,ip-dst|port,142.93.65.165|80,"botnet_cc
+100
+https://search.censys.io/hosts/142.93.65.165"
+2024-08-13,Network activity,ip-dst|port,85.192.41.70|8443,"botnet_cc
+100
+https://search.censys.io/hosts/85.192.41.70"
+2024-08-13,Network activity,ip-dst|port,172.96.172.158|6666,"botnet_cc
+100
+https://search.censys.io/hosts/172.96.172.158"
+2024-08-13,Network activity,ip-dst|port,46.246.84.19|2000,"botnet_cc
+100
+https://search.censys.io/hosts/46.246.84.19"
+2024-08-13,Network activity,ip-dst|port,172.96.172.158|2222,"botnet_cc
+100
+https://search.censys.io/hosts/172.96.172.158"
+2024-08-13,Network activity,ip-dst|port,172.86.70.236|7070,"botnet_cc
+100
+https://search.censys.io/hosts/172.86.70.236"
+2024-08-13,Network activity,ip-dst|port,84.38.133.53|2404,"botnet_cc
+100
+https://search.censys.io/hosts/84.38.133.53"
+2024-08-13,Network activity,ip-dst|port,156.236.73.107|80,"botnet_cc
+100
+https://search.censys.io/hosts/156.236.73.107"
+2024-08-13,Network activity,ip-dst|port,156.224.26.7|443,"botnet_cc
+100
+https://search.censys.io/hosts/156.224.26.7"
+2024-08-13,Network activity,ip-dst|port,47.108.205.195|80,"botnet_cc
+100
+https://search.censys.io/hosts/47.108.205.195"
+2024-08-13,Network activity,ip-dst|port,122.51.135.70|6666,"botnet_cc
+100
+https://search.censys.io/hosts/122.51.135.70"
+2024-08-13,Network activity,ip-dst|port,82.156.166.227|80,"botnet_cc
+100
+https://search.censys.io/hosts/82.156.166.227"
+2024-08-13,Network activity,ip-dst|port,120.26.73.148|8888,"botnet_cc
+100
+https://search.censys.io/hosts/120.26.73.148"
+2024-08-13,Network activity,ip-dst|port,120.26.73.148|80,"botnet_cc
+100
+https://search.censys.io/hosts/120.26.73.148"
+2024-08-13,Network activity,ip-dst|port,47.121.135.247|443,"botnet_cc
+100
+https://search.censys.io/hosts/47.121.135.247"
+2024-08-13,Network activity,ip-dst|port,157.66.222.20|443,"botnet_cc
+100
+https://search.censys.io/hosts/157.66.222.20"
+2024-08-13,Network activity,ip-dst|port,27.25.151.34|10002,"botnet_cc
+100
+https://search.censys.io/hosts/27.25.151.34"
+2024-08-13,Network activity,ip-dst|port,49.232.191.17|80,"botnet_cc
+100
+https://search.censys.io/hosts/49.232.191.17"
+2024-08-13,Network activity,ip-dst|port,8.137.14.143|9999,"botnet_cc
+100
+https://search.censys.io/hosts/8.137.14.143"
+2024-08-13,Network activity,ip-dst|port,152.136.254.252|8888,"botnet_cc
+100
+https://search.censys.io/hosts/152.136.254.252"
+2024-08-13,Network activity,ip-dst|port,178.73.218.67|5569,"botnet_cc
+100"
+2024-08-13,Network activity,domain,googlewired.com,"botnet_cc
+100
+https://github.com/stamparm/maltrail/commit/7245d638bf1261cb67ac39df78997ca1590cf755"
+2024-08-13,Network activity,domain,kasperskye.com,"botnet_cc
+100
+https://github.com/stamparm/maltrail/commit/7245d638bf1261cb67ac39df78997ca1590cf755"
+2024-08-13,Network activity,domain,skypeinc.com,"botnet_cc
+100
+https://github.com/stamparm/maltrail/commit/7245d638bf1261cb67ac39df78997ca1590cf755"
+2024-08-13,Network activity,domain,cf.kasperskye.com,"botnet_cc
+100
+https://github.com/stamparm/maltrail/commit/7245d638bf1261cb67ac39df78997ca1590cf755"
+2024-08-13,Network activity,domain,cloud.google-inc.ltd,"botnet_cc
+100
+https://github.com/stamparm/maltrail/commit/7245d638bf1261cb67ac39df78997ca1590cf755"
+2024-08-13,Network activity,domain,dns.skypeinc.com,"botnet_cc
+100
+https://github.com/stamparm/maltrail/commit/7245d638bf1261cb67ac39df78997ca1590cf755"
+2024-08-13,Network activity,domain,update.googlewired.com,"botnet_cc
+100
+https://github.com/stamparm/maltrail/commit/7245d638bf1261cb67ac39df78997ca1590cf755"
+2024-08-13,Network activity,domain,update.kasperskye.com,"botnet_cc
+100
+https://github.com/stamparm/maltrail/commit/7245d638bf1261cb67ac39df78997ca1590cf755"
+2024-08-13,Network activity,domain,google-inc.ltd,"botnet_cc
+100
+https://github.com/stamparm/maltrail/commit/7245d638bf1261cb67ac39df78997ca1590cf755"
+2024-08-13,Network activity,ip-dst|port,45.95.169.139|2403,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/3b97b5da457f961783873c0c1f09924e4e1b16931811a9118a6185290103b918/"
+2024-08-13,Network activity,domain,bigdownload.xyz,"payload_delivery
+100"
+2024-08-13,Network activity,ip-dst|port,38.175.202.22|48621,"botnet_cc
+100
+https://search.censys.io/hosts/38.175.202.22"
+2024-08-13,Network activity,ip-dst|port,193.42.25.7|8082,"botnet_cc
+100
+https://search.censys.io/hosts/193.42.25.7"
+2024-08-13,Network activity,ip-dst|port,14.170.216.223|22533,"botnet_cc
+100
+https://search.censys.io/hosts/14.170.216.223"
+2024-08-13,Network activity,ip-dst|port,136.243.243.33|22222,"botnet_cc
+100
+https://search.censys.io/hosts/136.243.243.33"
+2024-08-13,Network activity,ip-dst|port,108.143.97.221|80,"botnet_cc
+100
+https://search.censys.io/hosts/108.143.97.221"
+2024-08-13,Network activity,ip-dst|port,59.14.118.202|443,"botnet_cc
+100
+https://search.censys.io/hosts/59.14.118.202"
+2024-08-13,Network activity,ip-dst|port,5.45.67.18|80,"botnet_cc
+100
+https://search.censys.io/hosts/5.45.67.18"
+2024-08-13,Network activity,ip-dst|port,45.66.231.130|8808,"botnet_cc
+100
+https://search.censys.io/hosts/45.66.231.130"
+2024-08-13,Network activity,ip-dst|port,45.94.31.120|111,"botnet_cc
+100
+https://search.censys.io/hosts/45.94.31.120"
+2024-08-13,Network activity,ip-dst|port,111.229.236.116|443,"botnet_cc
+100
+https://search.censys.io/hosts/111.229.236.116"
+2024-08-13,Network activity,ip-dst|port,120.53.236.103|4433,"botnet_cc
+100
+https://search.censys.io/hosts/120.53.236.103"
+2024-08-13,Network activity,ip-dst|port,16.163.233.143|9999,"botnet_cc
+100
+https://search.censys.io/hosts/16.163.233.143"
+2024-08-13,Network activity,ip-dst|port,185.193.126.209|8443,"botnet_cc
+100
+https://search.censys.io/hosts/185.193.126.209"
+2024-08-13,Network activity,ip-dst|port,106.13.33.204|443,"botnet_cc
+100
+https://search.censys.io/hosts/106.13.33.204"
+2024-08-13,Network activity,ip-dst|port,111.229.121.143|80,"botnet_cc
+100
+https://search.censys.io/hosts/111.229.121.143"
+2024-08-13,Network activity,ip-dst|port,65.21.66.222|9821,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/b778e6e8c6b8265fff7a08768f5f1364ad81c68184902032589eb1e4b67df244/"
+2024-08-13,Network activity,domain,bigdownload.lol,"payload_delivery
+100"
+2024-08-13,Network activity,ip-dst|port,188.119.112.25|443,"payload_delivery
+100"
+2024-08-13,Network activity,domain,zghgseitu.cloudns.be,"botnet_cc
+100
+https://search.censys.io/hosts/49.232.191.17"
+2024-08-13,Network activity,domain,js.t00ls.top,"botnet_cc
+100
+https://search.censys.io/hosts/156.224.26.7"
+2024-08-13,Network activity,domain,ffffffffcku.xyz,"botnet_cc
+100
+https://search.censys.io/hosts/47.120.63.146"
+2024-08-13,Network activity,ip-dst|port,66.94.104.42|443,"botnet_cc
+100
+https://search.censys.io/hosts/66.94.104.42"
+2024-08-13,Network activity,ip-dst|port,66.94.109.162|443,"botnet_cc
+100
+https://search.censys.io/hosts/66.94.109.162"
+2024-08-13,Network activity,ip-dst|port,186.2.171.76|443,"botnet_cc
+100
+https://search.censys.io/hosts/186.2.171.76"
+2024-08-13,Network activity,ip-dst|port,165.22.228.171|3333,"botnet_cc
+100
+https://search.censys.io/hosts/165.22.228.171"
+2024-08-13,Network activity,ip-dst|port,172.105.60.142|3333,"botnet_cc
+100
+https://search.censys.io/hosts/172.105.60.142"
+2024-08-13,Network activity,ip-dst|port,165.227.44.166|3333,"botnet_cc
+100
+https://search.censys.io/hosts/165.227.44.166"
+2024-08-13,Network activity,ip-dst|port,15.204.233.123|65002,"botnet_cc
+100
+https://search.censys.io/hosts/15.204.233.123"
+2024-08-13,Network activity,ip-dst|port,143.110.150.59|3333,"botnet_cc
+100
+https://search.censys.io/hosts/143.110.150.59"
+2024-08-13,Network activity,ip-dst|port,64.227.67.184|4000,"botnet_cc
+100
+https://search.censys.io/hosts/64.227.67.184"
+2024-08-13,Network activity,ip-dst|port,162.254.34.73|4000,"botnet_cc
+100
+https://search.censys.io/hosts/162.254.34.73"
+2024-08-13,Network activity,ip-dst|port,3.87.98.105|5000,"botnet_cc
+100
+https://search.censys.io/hosts/3.87.98.105"
+2024-08-13,Network activity,ip-dst|port,202.10.40.136|5000,"botnet_cc
+100
+https://search.censys.io/hosts/202.10.40.136"
+2024-08-13,Network activity,ip-dst|port,192.227.247.60|5000,"botnet_cc
+100
+https://search.censys.io/hosts/192.227.247.60"
+2024-08-13,Network activity,ip-dst|port,3.88.152.0|5000,"botnet_cc
+100
+https://search.censys.io/hosts/3.88.152.0"
+2024-08-13,Network activity,ip-dst|port,107.20.131.121|5000,"botnet_cc
+100
+https://search.censys.io/hosts/107.20.131.121"
+2024-08-13,Network activity,ip-dst|port,54.202.64.133|443,"botnet_cc
+100
+https://search.censys.io/hosts/54.202.64.133"
+2024-08-13,Network activity,ip-dst|port,3.85.202.190|5000,"botnet_cc
+100
+https://search.censys.io/hosts/3.85.202.190"
+2024-08-13,Network activity,ip-dst|port,3.80.87.24|5000,"botnet_cc
+100
+https://search.censys.io/hosts/3.80.87.24"
+2024-08-13,Network activity,ip-dst|port,38.47.238.97|8888,"botnet_cc
+100
+https://search.censys.io/hosts/38.47.238.97"
+2024-08-13,Network activity,ip-dst|port,46.246.82.12|2404,"botnet_cc
+100
+https://search.censys.io/hosts/46.246.82.12"
+2024-08-13,Network activity,ip-dst|port,84.38.133.170|9999,"botnet_cc
+100
+https://search.censys.io/hosts/84.38.133.170"
+2024-08-14,Network activity,url,https://sync.smart-vnc.com/,"botnet_cc
+100
+https://x.com/BushidoToken/status/1823273221631680842"
+2024-08-14,Network activity,url,https://invoice-traffic.com/,"botnet_cc
+100
+https://x.com/BushidoToken/status/1823273221631680842"
+2024-08-14,Network activity,url,https://syn.hiddenvnc.com/,"botnet_cc
+100
+https://x.com/BushidoToken/status/1823273221631680842"
+2024-08-14,Network activity,url,https://nutrasupplier.com/,"botnet_cc
+100
+https://x.com/BushidoToken/status/1823273221631680842"
+2024-08-14,Network activity,url,https://vitaminer.com/,"botnet_cc
+100
+https://x.com/BushidoToken/status/1823273221631680842"
+2024-08-14,Network activity,url,https://sync.smartcloudflare.com/,"botnet_cc
+100
+https://x.com/BushidoToken/status/1823273221631680842"
+2024-08-14,Network activity,ip-dst|port,101.42.21.172|8080,"botnet_cc
+100
+https://search.censys.io/hosts/101.42.21.172"
+2024-08-14,Network activity,ip-dst|port,3.87.184.184|443,"botnet_cc
+100
+https://search.censys.io/hosts/3.87.184.184"
+2024-08-14,Payload delivery,sha1,2b4d80f414293db445df6bb33de5eedbc4e3ced9,"payload
+95"
+2024-08-14,Payload delivery,md5,093c5901f614540d964109a9ac58a0ff,"payload
+95"
+2024-08-14,Payload delivery,sha256,f99f375d5b6400c8fefbbed89326980f379a59b6e66cae19d44fe60f3f31b7b7,"payload
+95"
+2024-08-14,Payload delivery,sha1,0cf65ecbb3a7cb7e0e4b6104ce41147a629d61b8,"payload
+95"
+2024-08-14,Payload delivery,md5,a7b6407c4dee6c6cd8b41b69396ff24e,"payload
+95"
+2024-08-14,Payload delivery,sha256,cc62fac9e31cb3aa56194c8b6bce906273cf44b48ce08459abc1851f2bf0ac5b,"payload
+95"
+2024-08-14,Payload delivery,sha1,bdee98f275160b35c205409e28d7b353f444fdec,"payload
+95"
+2024-08-14,Payload delivery,md5,f1f2b1bc6bef4dd24580eb23ee11d50b,"payload
+95"
+2024-08-14,Payload delivery,sha256,8f465209ead1f453de4b00a1b9af70289a838def66009d9a0a9124fc6cc36b2b,"payload
+95"
+2024-08-14,Payload delivery,sha1,cc4701c535eb270465a9ea870b5152136efefe9a,"payload
+95"
+2024-08-14,Payload delivery,md5,f13e2ec76839cfa459e575d5fce3ae59,"payload
+95"
+2024-08-14,Payload delivery,sha256,aa7527286fcbf1bb73cea645376dc644818c67af055b34562ac966cf9e749816,"payload
+95"
+2024-08-14,Payload delivery,md5,e1cc4deb1b03ef37bcd4ba11a1dbf725,"payload
+95"
+2024-08-14,Payload delivery,sha1,b19b2b80fb50f0a745e1ad54844f76ceb9426de3,"payload
+95"
+2024-08-14,Payload delivery,sha256,a1fb217aee3abcfbd17207f4a87f32214a42fc833e1474331af220f5e4cd19b9,"payload
+95"
+2024-08-14,Payload delivery,md5,129ab29e55efb205471261bc48380372,"payload
+95"
+2024-08-14,Payload delivery,sha1,dc3d6df34a95d0c935c299b9b07b878d9869f9fa,"payload
+95"
+2024-08-14,Payload delivery,sha256,322c8e0ba72b41a9ee9ebdeeb1b1d71cefd9ed9674e285efed105c0918834b24,"payload
+95"
+2024-08-14,Payload delivery,sha1,75670ebbf86906138538caad68b5a75f17097be3,"payload
+95"
+2024-08-14,Payload delivery,sha256,3b97b5da457f961783873c0c1f09924e4e1b16931811a9118a6185290103b918,"payload
+95"
+2024-08-14,Payload delivery,md5,cb51d861a22f76d51151f7012543c356,"payload
+95"
+2024-08-14,Payload delivery,sha1,e9fb05f464ee886239db485e7ee764a036778f77,"payload
+95"
+2024-08-14,Payload delivery,sha256,fbe048c713eda8c6d74504c440ecba4507760aed537fbba6171a4566b6452455,"payload
+95"
+2024-08-14,Payload delivery,md5,0be3ef93262bad1722def36f0756397d,"payload
+95"
+2024-08-14,Payload delivery,sha1,ec71f0d2673e13057edb06c3cabb9467559873e3,"payload
+95"
+2024-08-14,Payload delivery,md5,45bf52f78adb38d4a8aab2b184c34eda,"payload
+95"
+2024-08-14,Payload delivery,sha256,a1f60afcf5d8ef739f2d547be2c8ce526c2aaccfaf1983f2e6a955ec6379affd,"payload
+95"
+2024-08-14,Payload delivery,sha1,091517c4f25749ec11cbc04a1436455231b3bedf,"payload
+95"
+2024-08-14,Payload delivery,md5,301e1bb4143372257f8795a674dbe294,"payload
+95"
+2024-08-14,Payload delivery,sha256,0d4423c3ce135fd58bba36dcf2006ef6bbb28cade83c9a46c4bcddf08ed4dee1,"payload
+95"
+2024-08-14,Payload delivery,md5,5c9e6d8a440ebe3c00d1dc498f963430,"payload
+95"
+2024-08-14,Payload delivery,sha1,cdf5b0efde5d7a9d7c4212566b19c5ae7defc0cc,"payload
+95"
+2024-08-14,Payload delivery,sha256,20ce65a871ef6bcc09f4333ba19d0fc940a49f82d360af9661c1d520613d4565,"payload
+95"
+2024-08-14,Payload delivery,md5,39262171c0dccf944c78b2cedb8b61e3,"payload
+95"
+2024-08-14,Payload delivery,sha1,5a7379926568d07093243e9e98d34717b9d97637,"payload
+95"
+2024-08-14,Payload delivery,sha256,e35268eabb81533b762e25e0990179d5dd26b54125bd2cbd160242cb48d30bfb,"payload
+95"
+2024-08-14,Payload delivery,sha1,8bbd4483cba4458b516d9842c615087767bc3923,"payload
+95"
+2024-08-14,Payload delivery,sha256,cc7cc38e5d7bc6d4f12623ff831c3611d73d905d78b62a173907b947d53242c1,"payload
+95"
+2024-08-14,Payload delivery,md5,9109a335c757cf11812dafe216bc5b62,"payload
+95"
+2024-08-14,Payload delivery,sha1,4ac3cd51156fd397efd299915d9b407075c0df33,"payload
+95"
+2024-08-14,Payload delivery,sha256,b778e6e8c6b8265fff7a08768f5f1364ad81c68184902032589eb1e4b67df244,"payload
+95"
+2024-08-14,Payload delivery,md5,feefffb2f85e6449769501809c3da84c,"payload
+95"
+2024-08-14,Payload delivery,sha1,e8841eb6afd72c1487ec5323a5bc4f37bfae0dcf,"payload
+95"
+2024-08-14,Payload delivery,md5,043b9d0de6bad8fc4b4722987348329e,"payload
+95"
+2024-08-14,Payload delivery,sha256,466b1cf9bae2d35d18dd3c8c9944861d770bf0dda89bb535d5566f12d7ccd11d,"payload
+95"
+2024-08-14,Payload delivery,sha1,6a344981c065f19b15736a0ed7afe92da6ef3cc0,"payload
+95"
+2024-08-14,Payload delivery,md5,1378c26eb908ee7431d58632d7a785ca,"payload
+95"
+2024-08-14,Payload delivery,sha256,46c5226221c4a2c2a2d46eb2ea34889f2ea736f3ac91bfe800efba0ef277973e,"payload
+95"
+2024-08-14,Payload delivery,md5,6d8bd54a5f9b7641f644dad03a53989a,"payload
+95"
+2024-08-14,Payload delivery,sha1,76f7bfc8e8a669f0daffb52fe8a62e12722a3bd8,"payload
+95"
+2024-08-14,Payload delivery,sha256,b650a59a0c8004f37eac1c016477a2dbf25f3e36f281aa0b512dea2c41b4bbea,"payload
+95"
+2024-08-14,Payload delivery,md5,3a14cb08e4af02004fcd125a1f4023b1,"payload
+95"
+2024-08-14,Payload delivery,sha1,2058413b7ae138bf17980c53f62f41c70fb509cd,"payload
+95"
+2024-08-14,Payload delivery,sha256,efb55dd2bf7e5afb41978b0a81961a640270b2382e31c93982539ae0e7ba2b9d,"payload
+95"
+2024-08-14,Payload delivery,md5,4e30507ce1a46670cff5f86c78971fa7,"payload
+95"
+2024-08-14,Payload delivery,sha1,661dfe38621f885d8284867d83396a58407db2b8,"payload
+95"
+2024-08-14,Payload delivery,sha256,1f67a5b9f030e5ac18efbf342055daeda745905313edb7e4b008f31f832379f1,"payload
+95"
+2024-08-14,Payload delivery,md5,1065a3136e480f2fd0221e74464d04cd,"payload
+95"
+2024-08-14,Payload delivery,sha1,f7782c652131dd0dbdba11d89cdcb51a39255cb6,"payload
+95"
+2024-08-14,Payload delivery,sha256,fdf4c8ee3fc626020998a24d5969fd5a30ddd46f64494fe0e74ecd26ca579f5c,"payload
+95"
+2024-08-14,Payload delivery,sha1,aa93ba43e767fb45da3248021ff811c9cadd7ae5,"payload
+95"
+2024-08-14,Payload delivery,sha256,760b7220124d78a09137d75a21c4926e23021a0bc0c183361b6ff06fbef90a9a,"payload
+95"
+2024-08-14,Payload delivery,md5,f6b8eb670cff61de4a54eddaeecb1b93,"payload
+95"
+2024-08-14,Payload delivery,sha1,cf942c040069b16d0500475a19e50c58dbbef540,"payload
+95"
+2024-08-14,Payload delivery,sha256,91295d32f1f0cb4dc6c664e8e75f5bfcc10956186fd3c837877cb99542bbb826,"payload
+95"
+2024-08-14,Payload delivery,md5,6dd468332c0d022c12fbcd74d0f6e2ca,"payload
+95"
+2024-08-14,Payload delivery,md5,29d11d3b057892bb0ddfa691c47979da,"payload
+95"
+2024-08-14,Payload delivery,sha1,197636709cce70a5062f1f28f7edc463a8a16817,"payload
+95"
+2024-08-14,Payload delivery,sha256,31e4b70893506629f83111671d02147cf95e0705e4edee9e6360050b8a1ae515,"payload
+95"
+2024-08-14,Payload delivery,sha1,0dd3ac89dc8f41940658c16bb15368bb4c01f102,"payload
+95"
+2024-08-14,Payload delivery,md5,4453dca26766035d9432ecee51eef94c,"payload
+95"
+2024-08-14,Payload delivery,sha256,d281b712bf3960b42fc0e9d0997fbbc545f1113f1097dc87b91712bb5ecd4df5,"payload
+95"
+2024-08-14,Payload delivery,sha1,af7c6e9ab2aecb58faf64fec05ab45f239dcbea3,"payload
+95"
+2024-08-14,Payload delivery,md5,4cc22f33789c2fcdfe4329494dd10570,"payload
+95"
+2024-08-14,Payload delivery,sha256,fb6bd382a8f80cdca9acb350878193f1da9e2d9d98ef630845864017696b2329,"payload
+95"
+2024-08-14,Payload delivery,sha1,961e33accbd14097f6ce8e68fb09f0a2a055993a,"payload
+95"
+2024-08-14,Payload delivery,md5,5d774a4f55272e014e662a552587cb0e,"payload
+95"
+2024-08-14,Payload delivery,sha256,e16b7dc4ec80b1ad431e900156069100ba2e6035e0605535d2a247d2d4b86786,"payload
+95"
+2024-08-14,Payload delivery,md5,a9ac84bf0fdf9397d3899a389e932d0d,"payload
+95"
+2024-08-14,Payload delivery,sha1,ee5384e9a49b28d6f4ee05907830799e64a28cf5,"payload
+95"
+2024-08-14,Payload delivery,sha256,ae32cc3e1a68afcb91062da04f99d65ddc9ed3feff5c95c99f2bd1487a9b3006,"payload
+95"
+2024-08-14,Payload delivery,md5,97da4f67491721fe321a0572a4018bcf,"payload
+95"
+2024-08-14,Payload delivery,sha1,ffeaac781a54717992d0558dcc3a15d7207c9972,"payload
+95"
+2024-08-14,Payload delivery,sha256,441e432a7a06ca7df2780d3070c915a444ba7f19a3d55bc5f457cc50fc08f81e,"payload
+95"
+2024-08-14,Payload delivery,sha1,59c51795587e8e28294d8a0f1cbe2f5ab9f7eda4,"payload
+95"
+2024-08-14,Payload delivery,sha256,8abcfd656a9dc10d4d469f3ecbfe377c84a30d04400ed926e89545ae3662fc1d,"payload
+95"
+2024-08-14,Payload delivery,md5,c2a8ae31dd5f47469b99f87cfc7ca9d1,"payload
+95"
+2024-08-14,Payload delivery,sha1,718318cc6c0fae04d5ce34b23cfe7fc02eae5670,"payload
+95"
+2024-08-14,Payload delivery,md5,6137a62cdfd1eb4dc3fba641d66b08cf,"payload
+95"
+2024-08-14,Payload delivery,sha256,bd0f7c967e9e445758555bceb76f68806dcf1f3185a58e71cbbb117645f4b521,"payload
+95"
+2024-08-14,Payload delivery,md5,9c2cc89506bc9e168a44b27fee2ed342,"payload
+95"
+2024-08-14,Payload delivery,sha1,d52b5f448853a61a2695e214f76823e22246b0da,"payload
+95"
+2024-08-14,Payload delivery,sha256,b85cbf86715bec8b9ea511f0ccdf454959050faa319ba13ee33a3caa1ea43ba8,"payload
+95"
+2024-08-14,Payload delivery,md5,b56c5a5b0565834495656aaddb326d32,"payload
+95"
+2024-08-14,Payload delivery,sha1,9075acb9ba32ca7fd815571fc74137b8bc9b148a,"payload
+95"
+2024-08-14,Payload delivery,sha256,651d356971d645a45e69342612a4cbf9017f4505ec7cf3716636209022095f33,"payload
+95"
+2024-08-14,Payload delivery,sha1,85ef3d7c1247d26f0d00f974d13a03651d4dc438,"payload
+95"
+2024-08-14,Payload delivery,sha256,08a3597e4284ae295e34dbac9193cc53d8a1aa9106e9eda71d0f4724af42ecc3,"payload
+95"
+2024-08-14,Payload delivery,md5,f7fe0cdd28267110a747b226324db18e,"payload
+95"
+2024-08-14,Payload delivery,sha1,c3856e2cf1978c22fb44f88f57bb7c816bd3797d,"payload
+95"
+2024-08-14,Payload delivery,sha256,87044fd80bd4cb7069021fa48e337e1ffc5d6f192932645045536ffccab8c4db,"payload
+95"
+2024-08-14,Payload delivery,md5,2ffef4da68f3cc3984f20cbc013c932d,"payload
+95"
+2024-08-14,Payload delivery,sha1,6f564ced64cbb427cc37963d546e5f08652b9f61,"payload
+95"
+2024-08-14,Payload delivery,md5,70186e5bb12262f5359b99944684a8c3,"payload
+95"
+2024-08-14,Payload delivery,sha256,0d5468729396c65ab2118743ec21b0a8b55e651c748ebecbbaa43045782bac1b,"payload
+95"
+2024-08-14,Payload delivery,sha1,5863c818b5988179aa1c64067c73206428dd1493,"payload
+95"
+2024-08-14,Payload delivery,sha256,60f42611d32165af0c6ad6d202bb59a72b6e265adea2a596cb93b4cd271fb251,"payload
+95"
+2024-08-14,Payload delivery,md5,1b8902a2d3498cca6997b02276ba838d,"payload
+95"
+2024-08-14,Payload delivery,sha1,9111a975e5e4180774b5f52f733eb50b64e10162,"payload
+95"
+2024-08-14,Payload delivery,sha256,b04f7ff1cfec978b59c749c0d4a9256d676aefc546c6141f3ddad13fc32d088e,"payload
+95"
+2024-08-14,Payload delivery,md5,198422fbae29b65c629b01d48190ae58,"payload
+95"
+2024-08-14,Payload delivery,sha1,2bfb45ec29f4b01d64330f4ea692887ba70ee3ec,"payload
+95"
+2024-08-14,Payload delivery,sha256,8851f3dd7ba46d19cbf0ffdb1428eb72e463851fae8bb468f01d5ba58d65fc9d,"payload
+95"
+2024-08-14,Payload delivery,md5,4ec56daf1a6eb846747b147fd3fb616a,"payload
+95"
+2024-08-14,Payload delivery,sha1,ecce0e5d73d0e3283f0dec41090b9bfa5efd77fc,"payload
+95"
+2024-08-14,Payload delivery,md5,8b4dd7361f14f8976387a44bb9bc846b,"payload
+95"
+2024-08-14,Payload delivery,sha256,ae7d55977f010445b83b1eb544c65afe7cbd14e49ce0e47ea9939c7f010f214e,"payload
+95"
+2024-08-14,Payload delivery,md5,832d7c1846198763310af90dd8c04746,"payload
+95"
+2024-08-14,Payload delivery,sha1,9bb7febab49e75e8234718806c94513ce149d79a,"payload
+95"
+2024-08-14,Payload delivery,sha256,f9fa8f47333b24b20ff9c838d40e58f56c86ec5d9351e38a387bf5eba3356f06,"payload
+95"
+2024-08-14,Payload delivery,md5,322a386f0d5b3f841b5a5ba850df3326,"payload
+95"
+2024-08-14,Payload delivery,sha1,272b18a39bd6c0b459be994c722938ca20138dff,"payload
+95"
+2024-08-14,Payload delivery,sha256,02008689c84d7a0d37007710998077ffdf9bca35af2282ed74a41d0259c44688,"payload
+95"
+2024-08-14,Network activity,ip-dst|port,195.26.87.40|2404,"botnet_cc
+100
+https://search.censys.io/hosts/195.26.87.40"
+2024-08-14,Network activity,ip-dst|port,185.208.158.205|2404,"botnet_cc
+100
+https://search.censys.io/hosts/185.208.158.205"
+2024-08-14,Network activity,ip-dst|port,66.181.36.89|88,"botnet_cc
+100
+https://search.censys.io/hosts/66.181.36.89"
+2024-08-14,Network activity,ip-dst|port,39.100.82.66|18444,"botnet_cc
+100
+https://search.censys.io/hosts/39.100.82.66"
+2024-08-14,Network activity,ip-dst|port,47.238.34.37|443,"botnet_cc
+100
+https://search.censys.io/hosts/47.238.34.37"
+2024-08-14,Network activity,ip-dst|port,113.44.61.55|7778,"botnet_cc
+100
+https://search.censys.io/hosts/113.44.61.55"
+2024-08-14,Network activity,ip-dst|port,65.38.120.80|80,"botnet_cc
+50"

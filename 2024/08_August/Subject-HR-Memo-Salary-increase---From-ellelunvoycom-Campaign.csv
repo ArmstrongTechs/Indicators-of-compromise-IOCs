@@ -1,0 +1,114 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: HR Memo (Salary increase) - From: elle@lunvoy.com"" Campaign"
+| UUID: 794db8cc-3989-4ba4-9c97-07235e192521
+| Date: 2024-08-07
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-07,Payload delivery,email-src,elle@lunvoy.com,Source email: from elle@lunvoy.com - subject: HR Memo (Salary increase)
+2024-08-07,Payload delivery,email-src-display-name,HR Manager,Source email: from elle@lunvoy.com - subject: HR Memo (Salary increase)
+2024-08-07,Payload delivery,email-body,"Hello info,
+
+Good day!
+
+This memo is to confirm our intention to increase your basic salary 
+wages as per the attach payroll computation. The increase will take 
+effect from this  month of August  2024 and will be reflected in your 
+pay at the end of the month. To indicate acceptance, Kindly Check the 
+below attach document to review the monthly activity statement and 
+computation of all the employee's approved for the increament of salary.
+
+
+NB: This document is confidential and should not be forwarded. For 
+issues with accessing document, kindly reach out to the HR Manager
+
+
+Regards,
+
+
+HR Manager",Source email: from elle@lunvoy.com - subject: HR Memo (Salary increase)
+2024-08-07,Payload delivery,email-subject,HR Memo (Salary increase),Source: from elle@lunvoy.com - subject: HR Memo (Salary increase)
+2024-08-07,Payload delivery,filename|sha256,salary increament_pdf.zip|79fdf14c0fdf285e45af8442128ad5d82a71bce00653b55da1db61bd49a63305,Malspam attachment - source: from elle@lunvoy.com - subject: HR Memo (Salary increase) mime: application/zip
+2024-08-07,Payload delivery,filename|ssdeep,salary increament_pdf.zip|12288:XOQTvZSC8lJ41d799rEw3zMsw7IBwUEnmxhbHpJyAVOjcA8FyVA:XOCvg3le1d799/MsGEwvMlpPVs1A,Malspam attachment - source: from elle@lunvoy.com - subject: HR Memo (Salary increase) mime: application/zip
+2024-08-07,Payload delivery,filename|sha1,salary increament_pdf.zip|5acc188674e093289b943eaf92dc21350a077297,Malspam attachment - source: from elle@lunvoy.com - subject: HR Memo (Salary increase) mime: application/zip
+2024-08-07,Payload delivery,filename|sha512,salary increament_pdf.zip|2bf3232d0db0fc560be38c079570d154e552e3d07654f780bfad837d97a85bdf47436477a931b338d1c6666699809df625d6d0d9dede4c0aae3ffb63d3dbf76d,Malspam attachment - source: from elle@lunvoy.com - subject: HR Memo (Salary increase) mime: application/zip
+2024-08-07,Payload delivery,filename|md5,salary increament_pdf.zip|2c4ccc0cdabd80978c80ad7980ded87b,Malspam attachment - source: from elle@lunvoy.com - subject: HR Memo (Salary increase) mime: application/zip
+2024-08-07,Payload delivery,filename|sha1,salary increament_pdf.exe|504c020e507873d31baf55b961c4298e47788acc,Archive contents - source: salary increament_pdf.zip mime: application/x-dosexec
+2024-08-07,Payload delivery,filename|imphash,salary increament_pdf.exe|948cc502fe9226992dce9417f952fce3,Archive contents - source: salary increament_pdf.zip mime: application/x-dosexec
+2024-08-07,Payload delivery,filename|ssdeep,salary increament_pdf.exe|24576:MqDEvCTbMWu7rQYlBQcBiT6rprG8aUVWTpRHis:MTvC/MTQYxsWR7aUVWTpc,Archive contents - source: salary increament_pdf.zip mime: application/x-dosexec
+2024-08-07,Payload delivery,filename|sha256,salary increament_pdf.exe|767f55f50dc1e54dc89051cfcf7875d2af6280d742ea0c24516debccf6664461,Archive contents - source: salary increament_pdf.zip mime: application/x-dosexec
+2024-08-07,Payload delivery,filename|sha512,salary increament_pdf.exe|f0736c6be6c0f546836f287165773e25a30586440d09d9c3f815892ac9773b216baf06392bbcbf7cd74b1593a1787a867bf3462d38763954de27de7bc72ba5d1,Archive contents - source: salary increament_pdf.zip mime: application/x-dosexec
+2024-08-07,Payload delivery,filename|md5,salary increament_pdf.exe|f669243676d39c9b249440b0fbaa20f1,Archive contents - source: salary increament_pdf.zip mime: application/x-dosexec
+2024-08-07,Network activity,domain,23888.sbs,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,47000.xyz,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,5cbrx.shop,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,8376.club,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,93wh245ds.autos,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,9509.club,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,ackdoortwinks.net,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,ahjong168.vip,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,ameron-paaaa.buzz,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,andscaping-services-69969.bond,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,arubear.shop,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,arze.dev,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,astbaytreecareservice.info,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,athroomremodeling-pa-us2.click,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,atsue-color.click,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,bvcaz.xyz,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,c-games.zone,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,cr-phoenix.best,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,d-animation-degree-99775.bond,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,eamidiots.shop,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,echanictrainingsearch.today,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,edinvest.tech,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,eeklybyte.net,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Payload delivery,filename|md5,ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd|b6339a068bede227d61ad78de01e4ed6,Extracted from salary increament_pdf.exe; mime: application/x-dosexec
+2024-08-07,Payload delivery,filename|sha1,ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd|630d26495a9bfc0ef608cc09aa916d5537463241,Extracted from salary increament_pdf.exe; mime: application/x-dosexec
+2024-08-07,Payload delivery,filename|sha256,ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd|ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd,Extracted from salary increament_pdf.exe; mime: application/x-dosexec
+2024-08-07,Payload delivery,filename|sha512,ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd|85a64950ed364d605133bd59ea89371e27ecdae5e14382bd9b1dc650a3836c524d349fd9ab64d2fa6940d916c5c2bd154c5d6c95596e7be8b6b86c9d0af9a2a9,Extracted from salary increament_pdf.exe; mime: application/x-dosexec
+2024-08-07,Payload delivery,filename|ssdeep,ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd|3072:Jhnn7kzMRq9Hnt3eS3Cr/q14eO35604+ImiGVijQjw48cyiXVo5DsuQ:JvEheQgq14es6FAGcym6m,Extracted from salary increament_pdf.exe; mime: application/x-dosexec
+2024-08-07,Network activity,domain,epitalrentgrup.online,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,esourceshark.info,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,evzuatakademi.online,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,f4md.shop,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,frican-safari.online,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,glczs.shop,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,hatsapz8.top,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,hiramon.cloud,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,hiskerwonderspro.yachts,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,i-signals.tech,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,ibraryfarmclub.online,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,ichardsjewelers.shop,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,inhhuan5g.sbs,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,izatrip.sbs,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,j88.doctor,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,lientserver.cfd,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,mujo57abmb6c9me.app,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,nvestment-services-49610.bond,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,oanweb.live,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,oardetest.online,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,obbypetrino.shop,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,olar-panel-jobs-67676.bond,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,olcon.live,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,omputercourses123.live,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,ool-works.net,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,ootdetoxes.shop,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,oreanewspapers.top,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,ovamedrx.net,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,p39.xyz,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,ppcashvip.online,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,r-software-14916.bond,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,raitpourtrait.net,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,redit-cards-se-9.bond,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,rvvpn.lol,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,s23301.top,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,ublimax.online,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,uckchina.net,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,uke-saaac.buzz,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,uliet707.vip,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,yqwzijbfrh9.asia,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,yzena.tech,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain
+2024-08-07,Network activity,domain,zvcj.sbs,Source: Network activity from ef21a52a8bdfc90b93112f1179b2179e862edb8ebd2a84e50a6e334dfb2202dd; Decoy domain

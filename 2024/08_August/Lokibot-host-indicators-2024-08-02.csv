@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-08-02]
+| UUID: 87ffeec3-5ac4-479d-a0dd-c4a88f6cc5f9
+| Date: 2024-08-02
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-02,Payload installation,filename,e9d26537e90ed16f25562af4e1f32d67.exe,Source: MalwareBazaar
+2024-08-02,Payload installation,md5,e9d26537e90ed16f25562af4e1f32d67,Source: MalwareBazaar
+2024-08-02,Payload installation,sha1,12815966f19753f9fa7035179138b449dc0281b3,Source: MalwareBazaar
+2024-08-02,Payload installation,sha256,f66e2b6d93b2fe125c0c770926286c63716cb0538bf4e4bf6c47eff67b39b207,Source: MalwareBazaar
+2024-08-02,Payload installation,filename,Transferencia.lnk.lnk,Source: MalwareBazaar
+2024-08-02,Payload installation,md5,824aa75598a8c4db3da8d2bc65922970,Source: MalwareBazaar
+2024-08-02,Payload installation,sha1,3a00b2559c1d93761c324f4a513a7262d70ef6bb,Source: MalwareBazaar
+2024-08-02,Payload installation,sha256,e9be62940ab718d5a5dc24ae9a5026f4331a9fa0b918e65e7b511366597333da,Source: MalwareBazaar
+2024-08-02,Payload installation,filename,85c0413d7d9487f752bd2b8271337606,Source: MalwareBazaar
+2024-08-02,Payload installation,md5,85c0413d7d9487f752bd2b8271337606,Source: MalwareBazaar
+2024-08-02,Payload installation,sha1,4c684ec979fcbafd08331879fdbe0ba3e4c2c494,Source: MalwareBazaar
+2024-08-02,Payload installation,sha256,cc34009402c9e1a52c70b4f88a817c974a2fc454d4f1b7dbb3cdd21c24fbc073,Source: MalwareBazaar
+2024-08-02,Payload installation,filename,52b90d1eed8e25aeebdce06a38f093dc.exe,Source: MalwareBazaar
+2024-08-02,Payload installation,md5,52b90d1eed8e25aeebdce06a38f093dc,Source: MalwareBazaar
+2024-08-02,Payload installation,sha1,7bbb45387c64ee4288d0d6996084dce62f1edbb3,Source: MalwareBazaar
+2024-08-02,Payload installation,sha256,abeeca1676f089cfcc80ad5126fe4849b701bf185aebb30ab96b7c89490a73b3,Source: MalwareBazaar
+2024-08-02,Payload installation,filename,2360bb0b42650f2feb47a0e988ccc3ea.exe,Source: MalwareBazaar
+2024-08-02,Payload installation,md5,2360bb0b42650f2feb47a0e988ccc3ea,Source: MalwareBazaar
+2024-08-02,Payload installation,sha1,0712817e7fabe68e34d67ce4151728d9f2eb8cba,Source: MalwareBazaar
+2024-08-02,Payload installation,sha256,5156add523f08eb7eabb51f3ce648d6f93c646bec4c6cee7dd59d95e5b50b2b3,Source: MalwareBazaar

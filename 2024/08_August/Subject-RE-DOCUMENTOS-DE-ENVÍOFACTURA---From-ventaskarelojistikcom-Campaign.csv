@@ -1,0 +1,37 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: RE: DOCUMENTOS DE ENVÍO/FACTURA - From: ventas@karelojistik.com"" Campaign"
+| UUID: 2923baa1-2620-4012-a9da-221ea97e9f44
+| Date: 2024-08-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-27,Payload delivery,email-src,ventas@karelojistik.com,Source email: from ventas@karelojistik.com - subject: RE: DOCUMENTOS DE ENVÍO/FACTURA
+2024-08-27,Payload delivery,email-src-display-name,Aycan Sualp Yalçın,Source email: from ventas@karelojistik.com - subject: RE: DOCUMENTOS DE ENVÍO/FACTURA
+2024-08-27,Payload delivery,email-body,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"" ""http://www.w3.org/TR/html4/loose.dtd"">
+
+<HTML><HEAD>
+<META name=GENERATOR content=""MSHTML 11.00.9600.18817""></HEAD>
+<body style=""MARGIN: 0.5em"">
+<P>Hola,</P>
+<P>Por favor vea el adjunto.</P>
+<P>Saludos cordiales / Saludos cordiales / Cu Stima,<BR><img src=""cid:unnamed(4).png"" width=""170"" height=""40""></P>
+<P><STRONG><U>Aycan Sualp Yal&ccedil;&#305;n<BR>Especialista en operaciones<BR>KRE Kare Log&iacute;stica Sociedad Limitada<BR>Pirin&ccedil;&ccedil;i Mah. Eski Edirne Asfalto N&deg;:142<BR>Ey&uuml;psult&aacute;n/Estambul/T&uuml;rkiye<BR>T: +90 (850) 811 CUADRADO (52 73)<BR><img src=""cid:unnamed(5).png"" width=""600"" height=""200""></U></STRONG></P></BODY></HTML>",Source email: from ventas@karelojistik.com - subject: RE: DOCUMENTOS DE ENVÍO/FACTURA
+2024-08-27,Payload delivery,email-subject,RE: DOCUMENTOS DE ENVÍO/FACTURA,Source: from ventas@karelojistik.com - subject: RE: DOCUMENTOS DE ENVÍO/FACTURA
+2024-08-27,Payload delivery,filename|sha256,DOCUMENTOSFACTURA_pif.gz|c9b32fe2e438fd6a04eb36a80490f92a213a8bd64e87235c8ba91a154e9b0c6e,Malspam attachment - source: from ventas@karelojistik.com - subject: RE: DOCUMENTOS DE ENVÍO/FACTURA mime: application/x-rar
+2024-08-27,Payload delivery,filename|ssdeep,DOCUMENTOSFACTURA_pif.gz|1536:XihnWX9nUYbQ42x/GlCDQx/gMF8V7SFSPvqwB97fMad8qufFo/zzbMoc9:ki9R72x/GW0/gM2VuSKwB978qAFcQD,Malspam attachment - source: from ventas@karelojistik.com - subject: RE: DOCUMENTOS DE ENVÍO/FACTURA mime: application/x-rar
+2024-08-27,Payload delivery,filename|sha1,DOCUMENTOSFACTURA_pif.gz|e8b64a03edaf6cec398023ee8e912a2094532e66,Malspam attachment - source: from ventas@karelojistik.com - subject: RE: DOCUMENTOS DE ENVÍO/FACTURA mime: application/x-rar
+2024-08-27,Payload delivery,filename|sha512,DOCUMENTOSFACTURA_pif.gz|23ba117390a1664d2a2fb649d304dc7ff69e3721b0a995f9ab0f6ca9fb66d0bcbe4387eb10d9c699bc43b26e22b7a9b7429aeeac8b5c55f6211aae2211c0289b,Malspam attachment - source: from ventas@karelojistik.com - subject: RE: DOCUMENTOS DE ENVÍO/FACTURA mime: application/x-rar
+2024-08-27,Payload delivery,filename|md5,DOCUMENTOSFACTURA_pif.gz|3d1e076617bac6eaa050423f75265707,Malspam attachment - source: from ventas@karelojistik.com - subject: RE: DOCUMENTOS DE ENVÍO/FACTURA mime: application/x-rar
+2024-08-27,Payload delivery,filename|sha1,DOCUMENTOSFACTURA_pif.exe|e72cd1fcf00032177df1bacd0cf49ce7380f90a1,Archive contents - source: DOCUMENTOSFACTURA_pif.gz mime: application/x-dosexec
+2024-08-27,Payload delivery,filename|imphash,DOCUMENTOSFACTURA_pif.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Archive contents - source: DOCUMENTOSFACTURA_pif.gz mime: application/x-dosexec
+2024-08-27,Payload delivery,filename|ssdeep,DOCUMENTOSFACTURA_pif.exe|3072:+hQtKdft9FFdmgrwdNmhVeqcwLuXxkEh4SI52j35kEv:+hzdft9FFdmgrwdN8EKEPT36,Archive contents - source: DOCUMENTOSFACTURA_pif.gz mime: application/x-dosexec
+2024-08-27,Payload delivery,filename|sha256,DOCUMENTOSFACTURA_pif.exe|8cc7f9ea751b48b63f76db2a3cff30f22a341aaff8ec2d44d1d4d5ce41b0a21a,Archive contents - source: DOCUMENTOSFACTURA_pif.gz mime: application/x-dosexec
+2024-08-27,Payload delivery,filename|sha512,DOCUMENTOSFACTURA_pif.exe|ec2b9e463a97241be7a37ea5bddd98d51204faf4336c4665e7c1fae0db23c8d37da2608f3f22a3849409f43ac8c30c5bad9895f3b7447c6da392e61c0f244f1c,Archive contents - source: DOCUMENTOSFACTURA_pif.gz mime: application/x-dosexec
+2024-08-27,Payload delivery,filename|md5,DOCUMENTOSFACTURA_pif.exe|756e5babf68c2147115bc70e7b17cb24,Archive contents - source: DOCUMENTOSFACTURA_pif.gz mime: application/x-dosexec
+2024-08-27,Network activity,url,http://ip-api.com/line/?fields=hosting,Source: Network activity from DOCUMENTOSFACTURA_pif.exe
+2024-08-27,Network activity,domain,mail.wassadadvogados.com.br,Source: Extracted from static config of DOCUMENTOSFACTURA_pif.exe; data exfiltration via SMTP
+2024-08-27,Network activity,email-dst,majicboyyy@wassadadvogados.com.br,Source: Extracted from static config of DOCUMENTOSFACTURA_pif.exe; data exfiltration via SMTP
+2024-08-27,Network activity,email-dst,majicman@afprofiters.com,Source: Extracted from static config of DOCUMENTOSFACTURA_pif.exe; data exfiltration via SMTP

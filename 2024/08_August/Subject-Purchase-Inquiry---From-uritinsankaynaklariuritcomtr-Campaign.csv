@@ -1,0 +1,102 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Purchase Inquiry - From: urit.insankaynaklari@urit.com.tr"" Campaign"
+| UUID: 4d325c1f-3a0c-48d1-aef7-7b6596b37a5c
+| Date: 2024-08-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-27,Payload delivery,email-src,urit.insankaynaklari@urit.com.tr,Source email: from urit.insankaynaklari@urit.com.tr - subject: Purchase Inquiry; Spoofing
+2024-08-27,Payload delivery,email-src-display-name,"URIT Medical Electronic Co., Ltd",Source email: from urit.insankaynaklari@urit.com.tr - subject: Purchase Inquiry
+2024-08-27,Payload delivery,email-body,"Greetings!
+
+Hope this email finds you well.
+
+Kindly give us your best quote for attached Inquiry, lead time and 
+payment terms.
+
+Would it be possible to set up a video call in the near future to 
+discuss this project?
+
+Appreciate your response at the earliest.
+
+Thanks and best regards,
+
+Andy Liu
+
+Sales Manager, Middle East & South Asia Market
+
+Mobile/Whatsapp/Wechat:+8613457341643|Office:+86-773-2288586
+
+Website:  http://www.urit.com
+
+URIT Medical Electronic Co., Ltd.
+
+Headquarters.: No.D-07 Information Industry District, High-Tech Zone, 
+Guilin, Guangxi, 541004, P.R.China.
+
+Shenzhen Office: Room E-J, 24th Floor, New Baohui Building, Nanhai Road, 
+Nanshan District, Shenzhen, 518000,P.R.China.
+
+Confidential:  This e-mail and any attachments are confidential and 
+intended solely for the addressee and may also be privileged or exempt 
+from disclosure under applicable law. If you are not the addressee, or 
+have received this e-mail in error, please notify the sender 
+immediately, delete it from your system and do not copy, disclose or 
+otherwise act upon any part of this e-mail or its attachments.
+
+Data Protection:  This email includes confidential information, please 
+don't leak it out. Also we will not transfer your data to any third 
+parties, except in the case of legal obligation. E-mail communications 
+are not guaranteed to be secure or virus-free. Therefore URIT does not 
+accept responsibility for any loss arising from unauthorised access to, 
+or interference with, any e-mail communications by any third party, or 
+from the transmission of any viruses. URIT does not accept liability for 
+any errors or omissions in the contents of this message which arise as a 
+result of e-mail transmission. Replies to this e-mail may be monitored 
+by URIT for business and operational purposes.",Source email: from urit.insankaynaklari@urit.com.tr - subject: Purchase Inquiry
+2024-08-27,Payload delivery,email-subject,Purchase Inquiry,Source: from urit.insankaynaklari@urit.com.tr - subject: Purchase Inquiry
+2024-08-27,Payload delivery,filename|md5,Purchase Inquiry.xla|3e3b3fd7c7b3272acba3987ca8c25e62,Malspam attachment - source: from urit.insankaynaklari@urit.com.tr - subject: Purchase Inquiry mime: application/vnd.ms-excel
+2024-08-27,Payload delivery,filename|sha1,Purchase Inquiry.xla|aa870c0a968f1926b37eb270bb166775977e54a7,Malspam attachment - source: from urit.insankaynaklari@urit.com.tr - subject: Purchase Inquiry mime: application/vnd.ms-excel
+2024-08-27,Payload delivery,filename|sha256,Purchase Inquiry.xla|f5ec77c5ef4b176a58b3f883859ade0960137eed6f2ba4dcc4c44ae36a2d5aa0,Malspam attachment - source: from urit.insankaynaklari@urit.com.tr - subject: Purchase Inquiry mime: application/vnd.ms-excel
+2024-08-27,Payload delivery,filename|sha512,Purchase Inquiry.xla|e07f37d4d577c81ce140a7365a815d92e62d02e9faedaa68345714ca19ce333d716afaa32cdfdfbb0066c14cf9adacf85a1d6be07162423ac9028da13c6ab7c2,Malspam attachment - source: from urit.insankaynaklari@urit.com.tr - subject: Purchase Inquiry mime: application/vnd.ms-excel
+2024-08-27,Payload delivery,filename|ssdeep,Purchase Inquiry.xla|6144:Q8nf4uTJ4kxvYeAvoT6eY6C231352OR296/HsUfgwooeam0Fj2m:ntJvYeAvmDTC2313UOJ//gwUamw,Malspam attachment - source: from urit.insankaynaklari@urit.com.tr - subject: Purchase Inquiry mime: application/vnd.ms-excel
+2024-08-29,Network activity,hostname|port,2024remcmon.duckdns.org|14645,Source: Network activity from WVRR.exe; c2
+2024-08-27,Payload delivery,filename|md5,butterbunverygoodforhealt.vBS|e595ea868d3695e915c02b3f53ad8134,Downloaded from http://198.46.174.158/xampp/knk/butterbunverygoodforhealth.tIF; mime: text/plain
+2024-08-27,Payload delivery,filename|sha1,butterbunverygoodforhealt.vBS|2ca54b0db3cf6b70af7f9545f93bb0ebb69ffad2,Downloaded from http://198.46.174.158/xampp/knk/butterbunverygoodforhealth.tIF; mime: text/plain
+2024-08-27,Payload delivery,filename|sha256,butterbunverygoodforhealt.vBS|18947905c9655fda3d4ed3874381a7ff8ae6d5a85a9bca69ff115e51782c9fad,Downloaded from http://198.46.174.158/xampp/knk/butterbunverygoodforhealth.tIF; mime: text/plain
+2024-08-27,Payload delivery,filename|ssdeep,butterbunverygoodforhealt.vBS|3072:MW8ey8WxnkaZJmYEagt5pRGwPJjCLWHPg73NxEZx:j8eyTxnkCJmLNHqduf,Downloaded from http://198.46.174.158/xampp/knk/butterbunverygoodforhealth.tIF; mime: text/plain
+2024-08-28,Payload delivery,filename|imphash,dumped_vbs_jpg_.bin|dae02f32a21e03ce65412f6e56942daa,Extracted from vbs.jpg; mime: application/x-dosexec
+2024-08-28,Payload delivery,filename|md5,dumped_vbs_jpg_.bin|d783b01173fc303ec28a741b88fe1a3d,Extracted from vbs.jpg; mime: application/x-dosexec
+2024-08-28,Payload delivery,filename|sha1,dumped_vbs_jpg_.bin|8651f84aff7278b82746f57bdb88712e11c1ef66,Extracted from vbs.jpg; mime: application/x-dosexec
+2024-08-28,Payload delivery,filename|sha256,dumped_vbs_jpg_.bin|ea3b07a2356a7bfb92144f621ba551677a138c31d684072d69a4d37c1a378bb3,Extracted from vbs.jpg; mime: application/x-dosexec
+2024-08-28,Payload delivery,filename|sha512,dumped_vbs_jpg_.bin|ed8afde25389348acc6694a2b0f29b392d9d55b89be9c462cb22b2235b4f11feda65797883be3f64bb12b53e2a5320a6c5a9591dac6a9ba326ae9964c8f110d0,Extracted from vbs.jpg; mime: application/x-dosexec
+2024-08-28,Payload delivery,filename|ssdeep,dumped_vbs_jpg_.bin|12288:h4FP/ea1J+Br7J7cgldmMKrG6H1wtW/PYtvGj9OPI85TG+r1v7fmYKJ3XRZ:t/jcgyDbVwtWnYIj9z+r1v7fPMnRZ,Extracted from vbs.jpg; mime: application/x-dosexec
+2024-08-29,Network activity,url,http://198.46.174.158/xampp/knk/butterbunverygoodforhealth.tIF,Source: Network activity from 8094ca05788650571c4ca78c4f8e52ab.doc
+2024-08-27,Network activity,url,http://198.46.174.158/xampp/knk/kn/waterneedtoaddinsideofbuttermilkbunwhichreallyfeelsmoothanyummywithgreattasteforgirlswholovethebuttermilkcholoclatebun_____creamybunyummytaste.doc,Source: Network activity from https://jamp.to/UKEsns
+2024-08-27,Network activity,url,https://ia803104.us.archive.org/27/items/vbs_20240726_20240726/vbs.jpg,Source: Network activity from butterbunverygoodforhealt.vBS
+2024-08-27,Network activity,url,https://jamp.to/UKEsns/,Source: Network activity from Purchase Inquiry.xla; Redirects
+2024-08-28,Payload delivery,filename|md5,vbs.jpg|ea9833e16cdad80a6d93c76f21b7923d,Extracted from https://ia803104.us.archive.org/27/items/vbs_20240726_20240726/vbs.jpg; mime: image/jpeg
+2024-08-28,Payload delivery,filename|sha1,vbs.jpg|36d45aa76ef6985319cb006d511ccb8de3d3d3bd,Extracted from https://ia803104.us.archive.org/27/items/vbs_20240726_20240726/vbs.jpg; mime: image/jpeg
+2024-08-28,Payload delivery,filename|sha256,vbs.jpg|572f15cfc87b50c3f32e63f08e32bab2fea7663b1892d84d2c53025d89e6d158,Extracted from https://ia803104.us.archive.org/27/items/vbs_20240726_20240726/vbs.jpg; mime: image/jpeg
+2024-08-28,Payload delivery,filename|sha512,vbs.jpg|24a5b44f2866b52fa9bee456afffb920cbaeb851a0602001df5316e863ac29e3caea6a335e2b5ac07aaaece98aa10dde814e3170c602b7ecf671f0d90b7a3963,Extracted from https://ia803104.us.archive.org/27/items/vbs_20240726_20240726/vbs.jpg; mime: image/jpeg
+2024-08-28,Payload delivery,filename|ssdeep,vbs.jpg|24576:hTYZHfhgDs30InKh/z0ZcgymMFCg42xAC5uWvaOXNITMbBEsJM50GGWy:uZHfhgkK3wbO7,Extracted from https://ia803104.us.archive.org/27/items/vbs_20240726_20240726/vbs.jpg; mime: image/jpeg
+2024-08-29,Payload delivery,filename|md5,WVRR.exe|8d5087ff5de35c3fbb9f212b47d63cad,Extracted from WVRR.txt; mime: application/x-dosexec
+2024-08-29,Payload delivery,filename|md5,WVRR.exe|7bccbac8a232ff442b0840adcc1eb718,Extracted from WVRR.txt; mime: application/x-dosexec
+2024-08-29,Payload delivery,filename|sha1,WVRR.exe|e2800e1cfb0beaddadcf275d0f07c8aab27259c5,Extracted from WVRR.txt; mime: application/x-dosexec
+2024-08-29,Payload delivery,filename|sha256,WVRR.exe|2c4b0e1df5a390f1dd275ba8bcf16ed61c411c5d8a076094f7614384ca28d865,Extracted from WVRR.txt; mime: application/x-dosexec
+2024-08-29,Payload delivery,filename|sha512,WVRR.exe|62fae04fe37a7e7834df89f6b8f5d0353e0bfb31ff03559618b73a0bc609dc161a9740b92fab24d672d8d60f2efd08d37a417397c1a9187375b5fe3edefac81c,Extracted from WVRR.txt; mime: application/x-dosexec
+2024-08-29,Payload delivery,filename|ssdeep,WVRR.exe|6144:HXIktXfM8Lv86r9uVWAa2je4Z5zl4hgDHQQs4NTQjoHFsAOZZ5AXIcNH5Gv:HX7tPMK8ctGe4Dzl4h2QnuPs/Z5icv,Extracted from WVRR.txt; mime: application/x-dosexec
+2024-08-29,Network activity,url,http://198.46.174.158/xampp/knk/WVRR.txt,Source: Network activity frombutterbunverygoodforhealt.vBS;
+2024-08-29,Payload delivery,filename|md5,WVRR.txt|042872a70fa8ccdf46066e4dc123508b,Downloaded from http://198.46.174.158/xampp/knk/WVRR.txt; mime: text/plain
+2024-08-29,Payload delivery,filename|sha1,WVRR.txt|0e39b81c94c9b10b60ff03c946bc99a75c8fa360,Downloaded from http://198.46.174.158/xampp/knk/WVRR.txt; mime: text/plain
+2024-08-29,Payload delivery,filename|sha256,WVRR.txt|c8336cb6887f0bbe0b12744f5c43638979603a57a5fc96eb7f34015fb312b4f7,Downloaded from http://198.46.174.158/xampp/knk/WVRR.txt; mime: text/plain
+2024-08-29,Payload delivery,filename|sha512,WVRR.txt|6d5376aadd490803784b5b0fa605c5d8372914335fd14529a566280ab181bcd8dfeb01d77d056a03d11f27511504890df5f21b6f6892cd603904e6626a3c4613,Downloaded from http://198.46.174.158/xampp/knk/WVRR.txt; mime: text/plain
+2024-08-29,Payload delivery,filename|ssdeep,WVRR.txt|12288:a+fhLWw+hRizqo36P+F9QFojBXC2slenIFHrg+j3VSF:zJMszqoKP3ojBXC2ienIFLNjla,Downloaded from http://198.46.174.158/xampp/knk/WVRR.txt; mime: text/plain
+2024-08-29,Payload delivery,filename|md5,8094ca05788650571c4ca78c4f8e52ab.doc|8094ca05788650571c4ca78c4f8e52ab,Downloaded from http://198.46.174.158/xampp/knk/kn/waterneedtoaddinsideofbuttermilkbunwhichreallyfeelsmoothanyummywithgreattasteforgirlswholovethebuttermilkcholoclatebun_____creamybunyummytaste.doc; mime: text/rtf
+2024-08-29,Payload delivery,filename|sha1,8094ca05788650571c4ca78c4f8e52ab.doc|84e59dbea7cba2f1c75e4a28554a814b14cc17fa,Downloaded from http://198.46.174.158/xampp/knk/kn/waterneedtoaddinsideofbuttermilkbunwhichreallyfeelsmoothanyummywithgreattasteforgirlswholovethebuttermilkcholoclatebun_____creamybunyummytaste.doc; mime: text/rtf
+2024-08-29,Payload delivery,filename|sha256,8094ca05788650571c4ca78c4f8e52ab.doc|bd2592ead2dd37a2c27fc6d6960f57febcd4490a413320087334568549dc45e8,Downloaded from http://198.46.174.158/xampp/knk/kn/waterneedtoaddinsideofbuttermilkbunwhichreallyfeelsmoothanyummywithgreattasteforgirlswholovethebuttermilkcholoclatebun_____creamybunyummytaste.doc; mime: text/rtf
+2024-08-29,Payload delivery,filename|sha512,8094ca05788650571c4ca78c4f8e52ab.doc|8ea86df3c4334a20f9ba3accfd66b2069f78251b767f2226c096882500ae71e36be6d6cc1aec35695f9912874a4d42ea6e56f3d07d0664e84b1b6e0a3e34a571,Downloaded from http://198.46.174.158/xampp/knk/kn/waterneedtoaddinsideofbuttermilkbunwhichreallyfeelsmoothanyummywithgreattasteforgirlswholovethebuttermilkcholoclatebun_____creamybunyummytaste.doc; mime: text/rtf
+2024-08-29,Payload delivery,filename|ssdeep,8094ca05788650571c4ca78c4f8e52ab.doc|768:x+ToFFnjAMbaMYV99jxZXPMHna2ICIRTwEyLTEEtnMKi:xiEZba3V9BxZ062u45nti,Downloaded from http://198.46.174.158/xampp/knk/kn/waterneedtoaddinsideofbuttermilkbunwhichreallyfeelsmoothanyummywithgreattasteforgirlswholovethebuttermilkcholoclatebun_____creamybunyummytaste.doc; mime: text/rtf

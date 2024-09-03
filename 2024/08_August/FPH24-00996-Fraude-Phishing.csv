@@ -1,0 +1,21 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00996 [Fraude] [Phishing]
+| UUID: b683d39c-7ea8-453e-b4f7-3d6019dd1d1f
+| Date: 2024-08-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-22,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+Se trata de una nueva campaña de phishing a través de email, que suplanta a Office 365. Delincuentes usan sin autorización el nombre de este producto en emails de phishing, los que redirigen a un sitio malicioso para robar datos de sus usuarios.Para convencerla de hacer clic, los delincuentes indican falsamente a la víctima lo siguiente:&quot;Su contraseña debe actualizarse hoy.El mismo activo se puede utilizar a continuación.&quot;El correo electrónico fraudulento incluye un enlace a un formulario malicioso usado para capturar credenciales de los usuarios.",Resumen
+2024-08-22,Network activity,ip-src,104.21.59.31,IP sitio falso
+2024-08-22,Network activity,ip-src,40.107.239.137,IP SMTP
+2024-08-22,Payload delivery,email-src,emd01@biovet.in,Correo de salida
+2024-08-22,Payload delivery,url,http://1u2s3r4.3utilities.com/,URL redirección
+2024-08-22,Payload delivery,url,https://pixelpulser.ru/xXSRw/,URL sitio falso
+2024-08-22,Payload delivery,email-subject,Immediate Attention Required,Asunto correo
+2024-08-22,External analysis,attachment,2024-08-21_12h43_17.png,
+2024-08-22,External analysis,attachment,2024-08-21_12h44_10.png,

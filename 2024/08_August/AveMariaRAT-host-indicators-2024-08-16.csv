@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AveMariaRAT host indicators [2024-08-16]
+| UUID: d13a13b2-7bb7-49bb-b288-62a76e0ad7be
+| Date: 2024-08-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-16,Payload installation,filename,RFQ20230822.exe,Source: MalwareBazaar
+2024-08-16,Payload installation,md5,eabb6cc837e7978ae6b92c4f14856bd2,Source: MalwareBazaar
+2024-08-16,Payload installation,sha1,b5407903a7b34dd1cfeac9596d6b6137190fefc0,Source: MalwareBazaar
+2024-08-16,Payload installation,sha256,e9615671d02b16f25444360f643b059cfa117f6ce3097d4fd70e581a668cf56d,Source: MalwareBazaar

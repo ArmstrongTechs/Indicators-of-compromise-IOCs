@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: RevengeRAT host indicators [2024-08-21]
+| UUID: 7b75538e-d08e-4eba-a91c-b7e907c73438
+| Date: 2024-08-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-21,Payload installation,filename,cancelar a reserva.ppam,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,9efc83953d1cd53c1e4a1cecb7c07828,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,2c95438d6db39af1f28addebc4180eab9b7599bb,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,f1877a05b29ff71defc0f60d80713b14342333eb7515c77771f5419f480991cf,Source: MalwareBazaar
+2024-08-21,Payload installation,filename,cancelar a reserva.ppam,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,7314737e8dfca524250fcd6508f11d17,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,2d3156b0c3b5f3944abe6c86e7096e07ca53e052,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,c821cfc5e83b96365f4384312fa29e7407a42fb97871e8f1f23ab4a698c1b390,Source: MalwareBazaar

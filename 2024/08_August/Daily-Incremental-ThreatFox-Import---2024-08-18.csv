@@ -1,0 +1,1985 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Daily Incremental ThreatFox Import - 2024-08-18
+| UUID: 847069b8-f86a-4544-b3f0-d5af228c8ce1
+| Date: 2024-08-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-18,Network activity,ip-dst|port,62.146.181.146|3333,"botnet_cc
+100
+https://search.censys.io/hosts/62.146.181.146"
+2024-08-18,Network activity,ip-dst|port,77.105.147.243|80,"botnet_cc
+100
+https://search.censys.io/hosts/77.105.147.243"
+2024-08-18,Network activity,ip-dst|port,45.91.201.168|80,"botnet_cc
+100
+https://search.censys.io/hosts/45.91.201.168"
+2024-08-18,Network activity,ip-dst|port,103.234.72.154|50000,"botnet_cc
+100
+https://search.censys.io/hosts/103.234.72.154"
+2024-08-18,Network activity,ip-dst|port,178.188.188.210|5500,"botnet_cc
+100
+https://search.censys.io/hosts/178.188.188.210"
+2024-08-18,Network activity,ip-dst|port,35.152.60.226|445,"botnet_cc
+100
+https://search.censys.io/hosts/35.152.60.226"
+2024-08-18,Network activity,ip-dst|port,204.12.245.100|8443,"botnet_cc
+100
+https://search.censys.io/hosts/204.12.245.100"
+2024-08-18,Network activity,ip-dst|port,46.246.12.21|2000,"botnet_cc
+100
+https://search.censys.io/hosts/46.246.12.21"
+2024-08-18,Network activity,ip-dst|port,142.202.240.141|6606,"botnet_cc
+100
+https://search.censys.io/hosts/142.202.240.141"
+2024-08-18,Network activity,ip-dst|port,181.235.9.111|2404,"botnet_cc
+100
+https://search.censys.io/hosts/181.235.9.111"
+2024-08-18,Network activity,ip-dst|port,45.156.86.52|1847,"botnet_cc
+100
+https://search.censys.io/hosts/45.156.86.52"
+2024-08-18,Network activity,ip-dst|port,122.9.69.40|8000,"botnet_cc
+100
+https://search.censys.io/hosts/122.9.69.40"
+2024-08-18,Network activity,ip-dst|port,1.94.204.34|20000,"botnet_cc
+100
+https://search.censys.io/hosts/1.94.204.34"
+2024-08-18,Network activity,ip-dst|port,119.3.153.81|4433,"botnet_cc
+100
+https://search.censys.io/hosts/119.3.153.81"
+2024-08-18,Network activity,ip-dst|port,78.24.220.122|808,"botnet_cc
+100
+https://search.censys.io/hosts/78.24.220.122"
+2024-08-18,Network activity,ip-dst|port,5.188.86.66|65223,"botnet_cc
+100
+https://search.censys.io/hosts/5.188.86.66"
+2024-08-18,Network activity,url,http://194.116.216.149/587ec30955d49a9c.php,"botnet_cc
+100"
+2024-08-18,Network activity,ip-dst|port,179.43.141.216|443,"botnet_cc
+75"
+2024-08-18,Network activity,ip-dst|port,51.20.2.165|3000,"botnet_cc
+100
+https://search.censys.io/hosts/51.20.2.165"
+2024-08-18,Network activity,ip-dst|port,34.31.249.65|443,"botnet_cc
+100
+https://search.censys.io/hosts/34.31.249.65"
+2024-08-18,Network activity,ip-dst|port,45.66.231.241|7777,"botnet_cc
+100
+https://search.censys.io/hosts/45.66.231.241"
+2024-08-18,Network activity,ip-dst|port,172.96.172.158|7707,"botnet_cc
+100
+https://search.censys.io/hosts/172.96.172.158"
+2024-08-18,Network activity,ip-dst|port,69.197.145.38|888,"botnet_cc
+100
+https://search.censys.io/hosts/69.197.145.38"
+2024-08-18,Network activity,ip-dst|port,149.28.146.215|443,"botnet_cc
+90
+https://search.censys.io/hosts/149.28.146.215"
+2024-08-18,Network activity,ip-dst|port,34.91.68.192|443,"botnet_cc
+100
+https://search.censys.io/hosts/34.91.68.192"
+2024-08-18,Network activity,ip-dst|port,35.91.219.71|443,"botnet_cc
+100
+https://search.censys.io/hosts/35.91.219.71"
+2024-08-18,Network activity,ip-dst|port,80.87.199.167|4433,"botnet_cc
+100
+https://search.censys.io/hosts/80.87.199.167"
+2024-08-18,Network activity,ip-dst|port,47.253.129.104|4455,"botnet_cc
+100
+https://search.censys.io/hosts/47.253.129.104"
+2024-08-18,Network activity,ip-dst|port,124.70.0.56|8091,"botnet_cc
+100"
+2024-08-18,Network activity,ip-dst|port,206.233.133.151|9099,"botnet_cc
+100"
+2024-08-18,Network activity,ip-dst|port,198.44.174.177|4443,"botnet_cc
+100"
+2024-08-18,Network activity,ip-dst|port,192.227.229.201|443,"botnet_cc
+100"
+2024-08-18,Network activity,ip-dst|port,62.234.42.20|8000,"botnet_cc
+100"
+2024-08-18,Network activity,ip-dst|port,47.94.13.90|8888,"botnet_cc
+100"
+2024-08-18,Network activity,ip-dst|port,47.100.63.226|9999,"botnet_cc
+100"
+2024-08-18,Network activity,url,https://sleipnirbrowser.org/api/python/14526470/win,"payload_delivery
+100
+https://tria.ge/240817-whze2aydkc"
+2024-08-18,Network activity,url,https://buccketpyspm.shop/api,"botnet_cc
+75
+https://tria.ge/240817-whze2aydkc"
+2024-08-18,Network activity,url,https://meiddlesrsnzop.shop/api,"botnet_cc
+100
+https://bazaar.abuse.ch/sample/41a3673b30861abac26c0454c4f905f21957cae61de618ebd7da8da6be40c42c/"
+2024-08-18,Network activity,domain,meiddlesrsnzop.shop,"botnet_cc
+100
+https://bazaar.abuse.ch/sample/41a3673b30861abac26c0454c4f905f21957cae61de618ebd7da8da6be40c42c/"
+2024-08-18,Network activity,domain,potentioallykeos.shop,"botnet_cc
+100
+https://bazaar.abuse.ch/sample/41a3673b30861abac26c0454c4f905f21957cae61de618ebd7da8da6be40c42c/"
+2024-08-18,Network activity,domain,interactiedovspm.shop,"botnet_cc
+100
+https://bazaar.abuse.ch/sample/41a3673b30861abac26c0454c4f905f21957cae61de618ebd7da8da6be40c42c/"
+2024-08-18,Network activity,domain,deicedosmzj.shop,"botnet_cc
+100
+https://bazaar.abuse.ch/sample/41a3673b30861abac26c0454c4f905f21957cae61de618ebd7da8da6be40c42c/"
+2024-08-18,Network activity,domain,charecteristicdxp.shop,"botnet_cc
+100
+https://bazaar.abuse.ch/sample/41a3673b30861abac26c0454c4f905f21957cae61de618ebd7da8da6be40c42c/"
+2024-08-18,Network activity,domain,cagedwifedsozm.shop,"botnet_cc
+100
+https://bazaar.abuse.ch/sample/41a3673b30861abac26c0454c4f905f21957cae61de618ebd7da8da6be40c42c/"
+2024-08-18,Network activity,domain,southedhiscuso.shop,"botnet_cc
+100
+https://bazaar.abuse.ch/sample/41a3673b30861abac26c0454c4f905f21957cae61de618ebd7da8da6be40c42c/"
+2024-08-18,Network activity,domain,consciousourwi.shop,"botnet_cc
+100
+https://bazaar.abuse.ch/sample/41a3673b30861abac26c0454c4f905f21957cae61de618ebd7da8da6be40c42c/"
+2024-08-18,Network activity,domain,weiggheticulop.shop,"botnet_cc
+100
+https://bazaar.abuse.ch/sample/41a3673b30861abac26c0454c4f905f21957cae61de618ebd7da8da6be40c42c/"
+2024-08-18,Network activity,url,http://116.203.167.104/login,"botnet_cc
+100"
+2024-08-18,Network activity,url,http://116.203.15.245/login,"botnet_cc
+100"
+2024-08-18,Network activity,url,https://xehook.cc/login,"botnet_cc
+100"
+2024-08-18,Network activity,url,https://groomty.xyz/login,"botnet_cc
+100"
+2024-08-18,Network activity,url,https://152.89.218.110:30000/login,"botnet_cc
+100"
+2024-08-18,Network activity,url,https://116.203.15.245/login,"botnet_cc
+100"
+2024-08-18,Network activity,url,https://116.203.167.104/login,"botnet_cc
+100"
+2024-08-18,Network activity,url,https://boohers.xyz/login,"botnet_cc
+100"
+2024-08-18,Network activity,url,https://ussrconnect.ru/login,"botnet_cc
+100"
+2024-08-18,Network activity,domain,boohers.xyz,"botnet_cc
+100"
+2024-08-18,Network activity,url,https://static.104.167.203.116.clients.your-server.de/login,"botnet_cc
+100"
+2024-08-18,Network activity,url,http://static.104.167.203.116.clients.your-server.de/login,"botnet_cc
+100"
+2024-08-18,Network activity,domain,groomty.xyz,"botnet_cc
+100"
+2024-08-18,Network activity,domain,ussrconnect.ru,"botnet_cc
+100"
+2024-08-18,Network activity,url,https://boylegmfg.com/cdn-vs/original.js,"payload_delivery
+100
+https://infosec.exchange/@MalasadaTech/112981169346635789"
+2024-08-18,Network activity,url,https://carnivalsale.com/cdn-vs/original.js,"payload_delivery
+100
+https://infosec.exchange/@MalasadaTech/112981173119715410"
+2024-08-18,Network activity,domain,carnivalsale.com,"payload_delivery
+100
+https://infosec.exchange/@MalasadaTech/112981173119715410"
+2024-08-18,Network activity,domain,boylegmfg.com,"payload_delivery
+100
+https://infosec.exchange/@MalasadaTech/112981169346635789"
+2024-08-18,Network activity,url,http://396218cm.n9shteam1.top/requestupdate.php,"botnet_cc
+100"
+2024-08-18,Network activity,ip-dst|port,116.203.15.245|443,"botnet_cc
+100"
+2024-08-18,Network activity,domain,excavtaionps.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,outfittydadop.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,revivewronggykwos.xyz,"botnet_cc
+100"
+2024-08-18,Network activity,domain,shinyearthtwio.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,sulphurhsum.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,trickysymptommysqu.xyz,"botnet_cc
+100"
+2024-08-18,Network activity,domain,whangeeeerodpz.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,ballottynsjm.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,boattyownerwrv.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,budgetttysnzm.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,chippyfroggsyhz.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,clouddycuiomsnz.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,deadpannsjzvn.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,prescriptionstorageag.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,presencewineonnyui.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,princeaccessiblepo.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,problemregardybuiwo.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,promo.voiceaichanger.pro,"botnet_cc
+100"
+2024-08-18,Network activity,domain,public-ftp.com,"botnet_cc
+100"
+2024-08-18,Network activity,domain,pumpedcalmdeadpannkow.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,pumpkindribblewo.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,pioneerframeoakchew.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,playerweighmailydailew.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,poledoverglazedkilio.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,politefrightenpowoa.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,pollutiofactwoijk.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,pooreveningfuseor.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,portaircoveragejsuk.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,practicalcoherentt.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,preachbusstyoiwo.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,preciousenviouskakei.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,preferencesubwaywad.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,prematuresolvehumoew.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,premeritwallyoko.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,premiums.voiceaichanger.pro,"botnet_cc
+100"
+2024-08-18,Network activity,domain,preocucupationssk.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,pallmusksopzm.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,paperryszjxuo.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,paradexjdoa.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,parntorpkxzlp.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,patternapplauderw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,peanutclutchlowwow.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,pearcyworkeronej.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,peasanthovecapspll.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,penetratedworrsyw.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,phobicgiddyfivverr.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,pielumchalotpostwo.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,pilothardwarreodsi.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,nimkishraddedrew.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,nobledpcowep.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,noduscheatscake.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,ns.voicechangeai.pro,"botnet_cc
+100"
+2024-08-18,Network activity,domain,officiallongberyw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,onebiogopwdsa.site,"botnet_cc
+100"
+2024-08-18,Network activity,domain,opposesicknessopw.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,orbitpettystudio.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,outfittisozm.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,outpointsozp.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,overshootsizx.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,ownerteztapplicatiow.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,paininsrertymarshwke.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,paintercrutcheniw.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,palacecirwoos.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,palacetilecomplew.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,mercyaloofprincipleo.pics,"botnet_cc
+100"
+2024-08-18,Network activity,domain,messtimetabledkolvk.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,methodgreenglassdatw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,modernizepledgeoi.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,mountainlegislaturel.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,movedwithdrwiaso.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,muggierdragstemmio.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,mundannetransuq.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,mutterunlikelyoo.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,neddlepyramidfunnyjok.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,negotitatiojdsuktoos.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,newspaperpotatoju.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,lighterepisodeheighte.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,lightsecretatylattew.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,likelysoarastonishiow.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,listenmoutioncow.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,marchsensedjurkey.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,maskmusicalproplemanw.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,mazumaponyanthus.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,meadowannivejrsary.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,mealroomrallpassiveer.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,medalappearancerackw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,kaminiasbbefow.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,kitchenreviewbewrwsa.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,knonkcdalfyhitt.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,landgateindirectdangre.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,lariatedzugspd.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,lawwormroleveinn.mom,"botnet_cc
+100"
+2024-08-18,Network activity,domain,legatorypluralishrtw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,legislationdictater.mom,"botnet_cc
+100"
+2024-08-18,Network activity,domain,libarraryspzm.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,libertyliebindywv.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,liernessfornicsa.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,indexterityszcoxp.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,insertrichdedicatewa.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,interferencesandyshiw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,invisibledovereats.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,ironshottallinko.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,isotrimorphicnongrasse.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,jewelbasinfrankywoi.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,jobbyshysinduksowp.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,joblkessprosgeow.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,hookybeamngwskow.xyz,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,horizonvxjis.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,horsedwollfedrwos.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,hugedearwaxxysu.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,hunterstrawmersp.homes,"botnet_cc
+100"
+2024-08-18,Network activity,domain,hushedsombkereos.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,illnesmunxkza.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,importancedopz.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,improvisersmissionjuw.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,incentiospzxm.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,glossydecentjuskwos.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,grassytaisol.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,grazeinnocenttyyek.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,greenbowelsustainny.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,greetclassifytalk.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,handbreeadretwaiw.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,harmfullyelobardek.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,hearthingdirecwi.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,herdbescuitinjurywu.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,footflexibleacts.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,forknegotationaow.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,fossillandscapefewkew.site,"botnet_cc
+100"
+2024-08-18,Network activity,domain,fragmentyperspowp.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,freezetdopzx.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,froggraduategravi.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,futureddospzmvq.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,geneticsockkdwlsaw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,fashionlazynavyresewg.site,"botnet_cc
+100"
+2024-08-18,Network activity,domain,favourlegislatureduei.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,fieldtrollyeowskwe.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,fikkeropendorwiw.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,fireplacecheckwi.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,fishboatnurrybeauti.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,fisstyconsumerosp.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,fitnescivilianquesw.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,fixturewordbakewos.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,flyyedreplacodp.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,evokeoutlooklits.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,exceptionwillapews.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,executivebrakeji.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,executrixrangedcoew.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,explocommisiowsa.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,explodesaildecksatt.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,faceddullinhs.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,falsifydisappearsoaeka.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,fantasticabnormally.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,ena.voiceaichanger.store,"botnet_cc
+100"
+2024-08-18,Network activity,domain,enfixxysdjsip.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,enormousseop.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,ens.voiceaichanger.site,"botnet_cc
+100"
+2024-08-18,Network activity,domain,ensureclackexcatwi.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,enthusiandsi.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,enz.voiceaichanger.site,"botnet_cc
+100"
+2024-08-18,Network activity,domain,erdefendkzov.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,economelogainyjusk.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,ed.softaipro.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,edurestunningcrackyow.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,effectivedoxzj.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,egorepetiiiosn.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,elephanntys.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,empiredzmwnx.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,en.voice-ai.store,"botnet_cc
+100"
+2024-08-18,Network activity,domain,en.voiceaichanger.pro,"botnet_cc
+100"
+2024-08-18,Network activity,domain,ena.voiceaichanger.pro,"botnet_cc
+100"
+2024-08-18,Network activity,domain,disgustedsorryeedi.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,distributopsuoprs.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,dividenntyss.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,divosrcemusemutati.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,doughmebinnybunio.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,drilmoralwandreowpops.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,detailbaconroollyws.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,detectordiscusser.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,developmentalveiop.homes,"botnet_cc
+100"
+2024-08-18,Network activity,domain,deviationknzm.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,diamondarrivallyowju.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,disagreemenywyws.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,disappearsodsz.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,disappointypsm.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,deprivedrinkyfaiir.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,descriptionappleoj.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,despairphtsograpgp.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,definitonizmnx.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,demandlinzei.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,demonstratedesighw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,cruelslumpeeris.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,culturesketchfinanciall.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,cupaffordcathedralk.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,deadpanstupiddyjjuwk.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,declarationlastyj.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,declineforntyuekw.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,decorousnumerousieo.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,controlopposedcallyo.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,convictionpartyeokwi.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,corruptioncrackywosp.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,counterrailcrwu.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,creepfleetconfusew.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,creepydxzoxmj.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,competitionpooleow.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,computerfuneralljwu.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,conceptionextortyosw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,concessionofsellerwo.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,considerrycurrentyws.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,comedyhorizonbedwus.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,claimpassivedebatw.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,clientgirlfrienddyjw.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,closedjuruwk.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,colorfulequalugliess.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,colorprioritytubbew.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,combinationconventiwov.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,comediantes.org,"botnet_cc
+100"
+2024-08-18,Network activity,domain,callosallsaospz.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,caneclothesdriverhen.pw,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,carstirgapcheatdeposwte.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,cassetteprodueiwo.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,catlackjellyodwps.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,cattilecodereowop.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,celosiapatroen.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,charmingtranskw.xyz,"botnet_cc
+100"
+2024-08-18,Network activity,domain,chequedxmznp.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,chincenterblandwka.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,chokepopilarvirusew.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,chunkylopsidedwos.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,churchemipircasowl.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,cinemaclinicttanwk.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,circullateiosn.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,citizencenturygoodwk.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,bitchsafettyudjwu.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,blastechohackopeower.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,blastoporicwoff.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,bleednumberrottern.homes,"botnet_cc
+100"
+2024-08-18,Network activity,domain,blockbeerman.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,bowelunitrydoorsko.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,brakesummitfiightre.pics,"botnet_cc
+100"
+2024-08-18,Network activity,domain,bravedreacisopm.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,breakdecisiveexpandw.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,bremenessverdurewas.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,brickbrothjorkyooe.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,broccoltisop.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,buccketpyspm.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,burnfamesoilratewo.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,cakecoldsplurgrewe.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,awardlandscareposiw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,backcreammykiel.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,baketransparentadw.pics,"botnet_cc
+100"
+2024-08-18,Network activity,domain,bannertastylbaoeow.xyz,"botnet_cc
+100"
+2024-08-18,Network activity,domain,bannybottomskp.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,baresoakopiniocowe.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,beatablydoxzcop.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,begghurldids.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,bettynoticecovej.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,bicyclesunhygenico.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,biographyfirmtrisie.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,birdpenallitysydw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,birdvigorousedetertyw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,agedelayglacierwe.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,allowbloodythinkews.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,ammycanedpors.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,analysisswellenterw.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,angerbumpyardee.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,antiuncontemporary.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,appliedgrandyjuiw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,arrangementyforumekw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,asleepfulltytarrtw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,assumedtribsosp.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,assumptionflattyou.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,auctiondecadecontaii.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,audiencegafferokkow.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,abuselinenaidwjuew.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,accessibledpzp.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,acquisitionfinancej.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,additionmarriagefoewsv.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,adoptionalbumgesw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,advertisedszp.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,worrystitchsounddywuwp.site,"botnet_cc
+100"
+2024-08-18,Network activity,domain,villagemagneticcsa.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,voice.k7pw.com,"botnet_cc
+100"
+2024-08-18,Network activity,domain,voiceai.attyclaim.com,"botnet_cc
+100"
+2024-08-18,Network activity,domain,voiceai.linkedsl.com,"botnet_cc
+100"
+2024-08-18,Network activity,domain,voiceaichanger.pro,"botnet_cc
+100"
+2024-08-18,Network activity,domain,voicelighterrrepso.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,wagonglidemonkywo.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,warmstrawcounwyhj.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,warningindicationsjw.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,warrantelespsz.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,wastwfulldashiwnjs.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,weaknessmznxo.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,whimiscallysmmzn.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,wisemassiveharmonious.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,woodfeetumhblefepoj.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,tubewelfaredopw.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,uncertaintyrestsju.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,underlinefreeapearew.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,understanndtytonyguw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,unenviousdxep.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,unexaminablespectrall.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,unhappytidydryypwto.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,unnaniomsuado.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,unseaffarignsk.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,unwielldyzpwo.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,upknittsoappz.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,valuablestraigwhi.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,varianntyfeecterd.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,vatleaflettrusteeooj.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,vehicledropliberwls.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,textureshallodsjk.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,theoryapparatusjuko.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,thinrecordsunrjisow.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,ticketgradiencomfj.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,tigerrfunerlariro.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,tollactionancestorw.pw,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,torubleeodsmzo.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,toughsnxcmxz.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,townsfolkhiwoeko.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,transformatiwosp.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,transparenteunlawfullyp.site,"botnet_cc
+100"
+2024-08-18,Network activity,domain,triallyforwhgh.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,trobulepcatoa.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,tropicalironexpressiw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,surfsponsorjun.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,surprisemakedjukenw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,surpriserangeloggypo.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,survivalpersisttww.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,sustentatorcoagulat.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,syncarpiajanapiom.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,tearfulbashfulow.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,technologggisp.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,technologyenterdo.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,telephoneverdictyow.site,"botnet_cc
+100"
+2024-08-18,Network activity,domain,televisionstudiowmmj.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,telldruggcommitetter.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,templecharteredowis.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,templerrysjzkp.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,snuggleapplicationswo.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,sofahuntingslidedine.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,souptapedentisttactiwe.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,spackledzpxs.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,speedparticipatewo.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,spliceszongsop.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,spokespersonunjuriwo.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,steadfastvaluabelywomo.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,stimultaionsppzv.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,stingmisplacedelivrrw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,strainriskpropos.store,"botnet_cc
+100"
+2024-08-18,Network activity,domain,stripmarrystresew.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,superiorhardwaerw.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,scshemevalleywelferw.site,"botnet_cc
+100"
+2024-08-18,Network activity,domain,seasonaldemonstradojs.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,sermonundressolcow.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,sessionannoucemenwj.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,shellfyyousdjz.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,shelterryujxo.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,shepherdlyopzc.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,shootydowtqosm.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,silveraquariumjwu.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,simplicitynegotiatiw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,slamcopynammeks.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,sleipnirbrowser.org,"botnet_cc
+100"
+2024-08-18,Network activity,domain,smallrabbitcrossing.site,"botnet_cc
+100"
+2024-08-18,Network activity,domain,revivalconflictgrippe.site,"botnet_cc
+100"
+2024-08-18,Network activity,domain,reviveincapablewew.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,riffledopspzio.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,rightchampionieo.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,rightruesx.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,rocketmusclesksj.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,roleprofittypleasw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,roundpolechildryowjv.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,routinecontoradwjsk.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,rugbysummerosodnwu.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,sailsystemeyeusjw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,samplepoisonbarryntj.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,scandalbasketballoe.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,scannedunsop.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,scrapedirtyieoqk.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,rainbowmynsjn.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,ranchguarrelguidewa.pw,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,rankrandomotherwjsui.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,realitysocialiolee.site,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,recessionconceptjetwe.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,recognizestainsw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,reechoingkaolizationp.fun,"botnet_cc
+100"
+2024-08-18,Network activity,domain,refundemobxyyeols.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,regardvelvettynerverf.site,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,rejectbettysmartws.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,relaxtionflouwerwi.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,relevantvoicelesskw.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,representrecyclere.pw,"botnet_cc
+100"
+2024-08-18,Network activity,domain,requestyex.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,resergvearyinitiani.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,respectabledpcs.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,revisedrinkslappyoowi.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,punchtelephoneverdi.store,"botnet_cc
+100"
+2024-08-18,Network activity,domain,purefinishonerbrothsjke.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,questbehavixoporpo.shop,"botnet_cc
+100
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,questionconservawuts.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,quitdigitalplatforwi.shop,"botnet_cc
+100"
+2024-08-18,Network activity,domain,jazztgratizecnagnek.xyz,"botnet_cc
+75"
+2024-08-18,Network activity,domain,qualificationjdwko.xyz,"botnet_cc
+75"
+2024-08-18,Network activity,domain,sweetcalcutangkdow.xyz,"botnet_cc
+75"
+2024-08-18,Network activity,domain,welfaredcattewd.xyz,"botnet_cc
+75
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,wordingnatturedowo.xyz,"botnet_cc
+75"
+2024-08-18,Network activity,domain,universittsyos.shop,"botnet_cc
+75
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,violanntyisopz.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,violationsyxzb.shop,"botnet_cc
+75
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,willingyhollowsk.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,765mm.xyz,"botnet_cc
+75"
+2024-08-18,Network activity,domain,cooperatvassquaidmew.xyz,"botnet_cc
+75"
+2024-08-18,Network activity,domain,crisisrottenyjs.xyz,"botnet_cc
+75"
+2024-08-18,Network activity,domain,deadtrainingactioniw.xyz,"botnet_cc
+75"
+2024-08-18,Network activity,domain,exuberanttjdkwo.xyz,"botnet_cc
+75"
+2024-08-18,Network activity,domain,grandcommonyktsju.xyz,"botnet_cc
+75"
+2024-08-18,Network activity,domain,sinceregianntykuso.shop,"botnet_cc
+75
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,snaillymarriaggew.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,standingcomperewhitwo.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,stickyyummyskiwffe.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,striphousdingkolewp.shop,"botnet_cc
+75
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,stronggemateraislw.shop,"botnet_cc
+75
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,strwawrunnygjwu.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,sturdyregularrmsnhw.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,survivedosaz.shop,"botnet_cc
+75
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,swingcirculateblsdi.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,thumbdriverrylinnw.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,timetablepdodwp.shop,"botnet_cc
+75
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,parallelmercywksoffw.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,playerstomachbwlle.shop,"botnet_cc
+75
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,pleasurenarrowsdla.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,prettilikeopwp.shop,"botnet_cc
+75
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,quotakickerrywos.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,raiseboltskdlwpow.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,richardflorespoew.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,sailorshelfquids.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,salesperosominsid.shop,"botnet_cc
+75
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,secretiveonnicuw.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,sensitivyitszv.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,innerverdanytiresw.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,instructionpxjc.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,justifycanddidatewd.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,knowwnysipm.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,lamentablegapingkwaq.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,landdumpycolorwskfw.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,latesttributedowps.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,liabiliytshareodlkv.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,macabrecondfucews.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,marathonbeedksow.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,markerryshewi.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,notoriousdcellkw.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,occurrmensipz.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,ohfantasyproclaiwlo.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,enthusiasmmskaso.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,excellentdiwdu.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,explorationcoerwk.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,exporttearryliveedko.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,falseaudiencekd.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,feighminoritsjda.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,flourhishdiscovrw.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,forymsweeelsm.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,greentastellesqwm.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,groundsmooors.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,haltconcrenrsi.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,handyxczos.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,conferencefreckewl.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,convincecandpsuwm.shop,"botnet_cc
+75
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,cottageaskyflolewk.shop,"botnet_cc
+75
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,craackypotsis.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,cycasisicio.shop,"botnet_cc
+75
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,dependancedkzxkj.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,discountdkgozxc.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,discoverymaidykew.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,discreetdramatricop.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,distincttangyflippan.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,dueamuggyshkowsv.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,edificedcampds.shop,"botnet_cc
+75
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,edificedcampslzi.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,accumulationeyerwos.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,asdasdadskewk.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,barebrilliancedkoso.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,berserkydosom.shop,"botnet_cc
+75
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,boillingyskop.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,chapterrysopz.shop,"botnet_cc
+75
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,clearrypalsidn.shop,"botnet_cc
+75
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,composepayyersellew.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,ablesulkyfirstyews.shop,"botnet_cc
+75"
+2024-08-18,Network activity,domain,absentjuks.shop,"botnet_cc
+75
+
+IDS removed due to 180469"
+2024-08-18,Network activity,domain,acceptconvectiiw.shop,"botnet_cc
+75"
+2024-08-18,Network activity,ip-dst|port,160.177.67.14|10000,"botnet_cc
+100"
+2024-08-18,Network activity,ip-dst|port,185.235.128.244|80,"botnet_cc
+100
+https://search.censys.io/hosts/185.235.128.244"
+2024-08-18,Network activity,ip-dst|port,45.66.231.241|5000,"botnet_cc
+100
+https://search.censys.io/hosts/45.66.231.241"
+2024-08-18,Network activity,ip-dst|port,45.61.137.232|80,"botnet_cc
+100
+https://search.censys.io/hosts/45.61.137.232"
+2024-08-18,Network activity,ip-dst|port,35.152.60.226|443,"botnet_cc
+100
+https://search.censys.io/hosts/35.152.60.226"
+2024-08-18,Network activity,ip-dst|port,45.207.194.33|8082,"botnet_cc
+100
+https://search.censys.io/hosts/45.207.194.33"
+2024-08-18,Network activity,ip-dst|port,45.94.31.119|5555,"botnet_cc
+100
+https://search.censys.io/hosts/45.94.31.119"
+2024-08-18,Network activity,ip-dst|port,45.94.31.119|7707,"botnet_cc
+100
+https://search.censys.io/hosts/45.94.31.119"
+2024-08-18,Network activity,ip-dst|port,45.94.31.119|8808,"botnet_cc
+100
+https://search.censys.io/hosts/45.94.31.119"
+2024-08-18,Network activity,ip-dst|port,69.197.145.38|3000,"botnet_cc
+100
+https://search.censys.io/hosts/69.197.145.38"
+2024-08-18,Network activity,ip-dst|port,69.197.145.38|20000,"botnet_cc
+100
+https://search.censys.io/hosts/69.197.145.38"
+2024-08-18,Network activity,ip-dst|port,69.197.145.38|999,"botnet_cc
+100
+https://search.censys.io/hosts/69.197.145.38"
+2024-08-18,Network activity,ip-dst|port,45.77.170.31|443,"botnet_cc
+90
+https://search.censys.io/hosts/45.77.170.31"
+2024-08-18,Network activity,ip-dst|port,121.127.33.196|31337,"botnet_cc
+100
+https://search.censys.io/hosts/121.127.33.196"
+2024-08-18,Network activity,ip-dst|port,154.216.18.14|7070,"botnet_cc
+100
+https://search.censys.io/hosts/154.216.18.14"
+2024-08-18,Network activity,ip-dst|port,192.129.178.60|5121,"botnet_cc
+100
+https://search.censys.io/hosts/192.129.178.60"
+2024-08-18,Network activity,ip-dst|port,49.235.144.122|80,"botnet_cc
+100
+https://search.censys.io/hosts/49.235.144.122"
+2024-08-18,Network activity,ip-dst|port,60.205.247.238|80,"botnet_cc
+100
+https://search.censys.io/hosts/60.205.247.238"
+2024-08-18,Network activity,domain,builaos.fun,"botnet_cc
+50"
+2024-08-18,Network activity,domain,a1000128.xsph.ru,"botnet_cc
+50"
+2024-08-18,Network activity,url,https://meannypaintipp.shop/api,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/3d2275afd16a7cfa7d4fc3aeff93378fdc05096f2db79b6177fbfebddc77ae93/"
+2024-08-18,Network activity,url,http://31.41.244.10/Dem7kTu/Login.php,"botnet_cc
+100"
+2024-08-18,Network activity,domain,version6dkgate.duckdns.org,"payload_delivery
+100
+https://x.com/s1dhy/status/1825097477227151776"
+2024-08-18,Network activity,url,http://147.45.47.57/api/flash.php,"botnet_cc
+100"
+2024-08-18,Network activity,ip-dst|port,192.34.56.44|8080,"botnet_cc
+100
+https://x.threatbook.com/v5/ip/192.34.56.44"
+2024-08-18,Network activity,ip-dst|port,31.41.244.10|80,"botnet_cc
+50
+https://tracker.viriback.com/index.php?q=31.41.244.10"
+2024-08-18,Network activity,ip-dst|port,8.210.22.92|6000,"botnet_cc
+100"
+2024-08-18,Network activity,url,http://31.41.244.10/Dem7kTu/index.php,"botnet_cc
+100"
+2024-08-18,Network activity,url,https://sensitivyitszv.shop/api,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/ca514478a7516f7aff8343ca74c82bebc0480cbb590f27cb02ca559d2d4e8d90/"
+2024-08-18,Network activity,url,https://revivewronggykwos.xyz/api,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/6d374bed2e755bc4a45f1e6ec6997a465be3f425fc27afe3e17a9b5d8e160d38/"
+2024-08-18,Network activity,ip-dst|port,198.211.108.190|8080,"botnet_cc
+100
+https://x.threatbook.com/v5/ip/198.211.108.190"
+2024-08-18,Network activity,ip-dst|port,192.34.56.29|8080,"botnet_cc
+100
+https://x.threatbook.com/v5/ip/192.34.56.29"
+2024-08-18,Network activity,ip-dst|port,198.211.108.182|8080,"botnet_cc
+100
+https://x.threatbook.com/v5/ip/198.211.108.182"
+2024-08-18,Network activity,ip-dst|port,198.211.108.187|8080,"botnet_cc
+100
+https://x.threatbook.com/v5/ip/198.211.108.187"
+2024-08-18,Network activity,url,http://89.23.100.125/universalRequestGeo/Pythonbasetemp/wp5pythonImage/_Lowservergenerator.php,"botnet_cc
+100"
+2024-08-18,Network activity,ip-dst|port,51.103.174.63|1912,"botnet_cc
+100"
+2024-08-18,Network activity,ip-dst|port,192.34.56.177|8080,"botnet_cc
+100
+https://otx.alienvault.com/indicator/ip/192.34.56.177"
+2024-08-18,Network activity,ip-dst|port,192.34.57.209|8080,"botnet_cc
+100
+https://otx.alienvault.com/indicator/ip/192.34.57.209"
+2024-08-18,Network activity,ip-dst|port,192.34.60.211|8080,"botnet_cc
+100
+https://otx.alienvault.com/indicator/ip/192.34.60.211"
+2024-08-18,Network activity,ip-dst|port,192.34.59.113|8080,"botnet_cc
+100
+https://x.threatbook.com/v5/ip/192.34.59.113"
+2024-08-18,Network activity,url,http://193.176.190.41/2fa883eebd632382.php,"botnet_cc
+100
+
+IDS removed due to 180402"
+2024-08-18,Network activity,url,http://31.41.244.12/Dem7kTu/Login.php,"botnet_cc
+100"
+2024-08-18,Network activity,url,http://31.41.244.11/Dem7kTu/Login.php,"botnet_cc
+100"
+2024-08-18,Network activity,url,http://31.41.244.9/Dem7kTu/Login.php,"botnet_cc
+100"
+2024-08-18,Network activity,ip-dst|port,207.180.253.60|80,"botnet_cc
+100
+https://search.censys.io/hosts/207.180.253.60"
+2024-08-18,Network activity,ip-dst|port,110.13.35.37|443,"botnet_cc
+100
+https://search.censys.io/hosts/110.13.35.37"
+2024-08-18,Network activity,ip-dst|port,91.196.170.88|5555,"botnet_cc
+100
+https://search.censys.io/hosts/91.196.170.88"
+2024-08-18,Network activity,ip-dst|port,81.0.249.71|80,"botnet_cc
+100
+https://search.censys.io/hosts/81.0.249.71"
+2024-08-18,Network activity,ip-dst|port,176.31.147.216|6745,"botnet_cc
+100
+https://search.censys.io/hosts/176.31.147.216"
+2024-08-18,Network activity,ip-dst|port,128.90.113.100|9999,"botnet_cc
+100
+https://search.censys.io/hosts/128.90.113.100"
+2024-08-18,Network activity,ip-dst|port,45.76.159.191|8888,"botnet_cc
+100
+https://search.censys.io/hosts/45.76.159.191"
+2024-08-18,Network activity,ip-dst|port,198.13.51.5|443,"botnet_cc
+90
+https://search.censys.io/hosts/198.13.51.5"
+2024-08-18,Network activity,ip-dst|port,208.117.85.9|53,"botnet_cc
+100
+https://search.censys.io/hosts/208.117.85.9"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|50001,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|4433,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|5900,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|11378,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|22198,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|4242,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|5179,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|7443,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|1911,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|2052,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|36706,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|42900,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|2376,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|12172,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|2053,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|2080,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|17777,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|18444,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|11402,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|14438,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|8010,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|10001,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|47471,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,170.244.195.143|5903,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-18,Network activity,ip-dst|port,179.43.167.186|80,"botnet_cc
+100
+https://search.censys.io/hosts/179.43.167.186"
+2024-08-18,Network activity,ip-dst|port,39.105.222.25|80,"botnet_cc
+100
+https://search.censys.io/hosts/39.105.222.25"
+2024-08-18,Network activity,ip-dst|port,193.112.251.205|80,"botnet_cc
+100
+https://search.censys.io/hosts/193.112.251.205"
+2024-08-18,Network activity,ip-dst|port,147.185.221.225|5524,"botnet_cc
+100"
+2024-08-18,Network activity,domain,hema2024.from-ut.com,"botnet_cc
+100
+
+IDS removed due to 180397"
+2024-08-18,Network activity,ip-dst|port,88.3.200.21|4545,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/9c8f56b88018d130a953e6713bb1ac7eafa12f4a96b6a4a861d5aded3723ad5e/"
+2024-08-18,Network activity,ip-dst|port,88.3.200.21|4449,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/9c8f56b88018d130a953e6713bb1ac7eafa12f4a96b6a4a861d5aded3723ad5e/"
+2024-08-18,Network activity,url,http://147.182.213.126:80/ptj,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/3d828a2a6ad0973e5105c9a4ed9bc62e31ad50f7a15c846075d782a87080e347/"
+2024-08-18,Network activity,domain,meannypaintipp.shop,"botnet_cc
+100
+https://bazaar.abuse.ch/sample/a461cb4287fb32a2b34bb3ad04c1535f009887189c35bb1fb945b2e3735351bf"
+2024-08-19,Network activity,url,http://185.196.9.135/daecd5ae9c3a5474.php,"botnet_cc
+100"
+2024-08-19,Network activity,ip-dst|port,170.39.177.165|80,"botnet_cc
+100
+https://search.censys.io/hosts/170.39.177.165"
+2024-08-19,Network activity,ip-dst|port,45.94.31.119|6606,"botnet_cc
+100
+https://search.censys.io/hosts/45.94.31.119"
+2024-08-19,Network activity,ip-dst|port,8.136.102.68|8888,"botnet_cc
+100
+https://search.censys.io/hosts/8.136.102.68"
+2024-08-19,Network activity,ip-dst|port,54.184.67.9|443,"botnet_cc
+100
+https://search.censys.io/hosts/54.184.67.9"
+2024-08-19,Network activity,ip-dst|port,170.244.195.143|63110,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-19,Network activity,ip-dst|port,170.244.195.143|993,"botnet_cc
+100
+https://search.censys.io/hosts/170.244.195.143"
+2024-08-19,Network activity,ip-dst|port,8.137.147.254|4443,"botnet_cc
+100
+https://search.censys.io/hosts/8.137.147.254"
+2024-08-19,Network activity,ip-dst|port,117.72.33.104|80,"botnet_cc
+100
+https://search.censys.io/hosts/117.72.33.104"
+2024-08-19,Network activity,ip-dst|port,212.8.251.177|80,"botnet_cc
+100
+https://search.censys.io/hosts/212.8.251.177"
+2024-08-19,Network activity,url,https://polyctendizxcop.shop/api,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/a7584bfc64ddb62213e3b15f93df12a4db61ee332d24f033982c487fb90d695b/"
+2024-08-19,Network activity,url,http://94.232.249.208/b55459c10e99c506.php,"botnet_cc
+100
+
+IDS removed due to 180402"
+2024-08-19,Payload delivery,md5,9f8c219010dba7299855285183410592,"payload
+95"
+2024-08-19,Payload delivery,sha256,f301e8067f6dc52246e372aaee08ee765ed3900fbddc219de63eb318f7f432cc,"payload
+95"
+2024-08-19,Payload delivery,sha1,fd8f23bb8a30d8308a69fc5348285620f7281c3b,"payload
+95"
+2024-08-19,Payload delivery,md5,756a1230e7e89d4637e9487bdc01f386,"payload
+95"
+2024-08-19,Payload delivery,sha256,1adb3b5ba962f7eb431c9440abce7dd0269b8fb3e7b4235628b2cd8f5345b016,"payload
+95"
+2024-08-19,Payload delivery,sha1,e6e14b7d282ae76787135c988dece8398b82d116,"payload
+95"
+2024-08-19,Payload delivery,md5,61d67e67d5492a03cd4a04b11e6c737c,"payload
+95"
+2024-08-19,Payload delivery,sha256,e3cd90fe855b430449aa00f87f135fc4d61f6a5e592dcba177e9067b00ab632e,"payload
+95"
+2024-08-19,Payload delivery,md5,b45260f399b77d44c118288df45afc6e,"payload
+95"
+2024-08-19,Payload delivery,sha1,f6ed2279bfd5fb2c42af498b4356ed460ff48d58,"payload
+95"
+2024-08-19,Payload delivery,sha256,f326ddac0f73b4addca3cab4ab77ee95777cee572b0eafe1fceb4017f083bd3f,"payload
+95"
+2024-08-19,Payload delivery,sha1,0a4d4cd555ac4043a768218261ec04aee44d6eb4,"payload
+95"
+2024-08-19,Payload delivery,sha256,c84a036a464797e523f1df99672125dfe61f7222fa62c9e7739fce9ea498a081,"payload
+95"
+2024-08-19,Payload delivery,md5,0b538dcb1df636169b8965f8bc062b37,"payload
+95"
+2024-08-19,Payload delivery,sha1,e09dc4d56754cb65c77c17ee430c9b5fe95c480b,"payload
+95"
+2024-08-19,Payload delivery,sha256,e24ca2923719c3ff17203be54203970e1f100a5ae27ea67158426f7757041487,"payload
+95"
+2024-08-19,Payload delivery,md5,160586469633381bcd86f9e44a673d9c,"payload
+95"
+2024-08-19,Payload delivery,sha1,e6cd9bacd29349cb0fce04f93441d8dc813ed4b2,"payload
+95"
+2024-08-19,Payload delivery,md5,1fc1ce7ee3cc91bafe2f78f37f5fd279,"payload
+95"
+2024-08-19,Payload delivery,sha256,6b22006b498522c5920f4757743492d4b607fff1e851bc305c7defbf23e83f7e,"payload
+95"
+2024-08-19,Payload delivery,md5,16e69734e7e9c9f9ecdee22bc5eb2c69,"payload
+95"
+2024-08-19,Payload delivery,sha1,b672b4a521cc55ba6f2220dde99343423ab55fd3,"payload
+95"
+2024-08-19,Payload delivery,sha256,716ae53730390aa4b81986a53d48cc9d7543f1df3572abdff9833b86169f02c7,"payload
+95"
+2024-08-19,Payload delivery,sha1,ea3e0a13b3aa04354cf1588f54034f8801efcd0d,"payload
+95"
+2024-08-19,Payload delivery,sha256,d92a4ed68ef468ebe9fa9e8d8a2ed8332f0ee778ebe546d6432e1b9671c92003,"payload
+95"
+2024-08-19,Payload delivery,md5,5bccd31f83896908f7121322f688c89a,"payload
+95"
+2024-08-19,Payload delivery,sha1,b323306eea5d99b095fdb7acdebd54986c4649db,"payload
+95"
+2024-08-19,Payload delivery,md5,746fd3baab29efa46976af6ee28c790e,"payload
+95"
+2024-08-19,Payload delivery,sha256,6a7ed8cfc785a7769552ee84bcb86a1d133a9e4ff005ae9635f3c2a93d06c74e,"payload
+95"
+2024-08-19,Payload delivery,sha1,0e67329d4c9c494a24950ebc2d5e718b897e84bd,"payload
+95"
+2024-08-19,Payload delivery,md5,955c1faa329961a1ead617b827b9384a,"payload
+95"
+2024-08-19,Payload delivery,sha256,8836e73612d8045462d1e1a92015253a0b7de5f9e72fb35dbd19a81bd8378ce5,"payload
+95"
+2024-08-19,Payload delivery,sha1,937192618e5bbd7b744542a8294a5dbcbd862213,"payload
+95"
+2024-08-19,Payload delivery,sha256,0df074f26b224e6baa225bd82a8195aa8e3ce307960b2423ca26f9451504c107,"payload
+95"
+2024-08-19,Payload delivery,md5,668f8f1d61c82d0cd8afc4076f6fe7d3,"payload
+95"
+2024-08-19,Payload delivery,sha1,39dc787af48c514c2ca803106b6e45f5db11dc6e,"payload
+95"
+2024-08-19,Payload delivery,md5,b25ec0de1bbd8453c78b8cc55203b741,"payload
+95"
+2024-08-19,Payload delivery,sha256,f3f02279a9ad82bb01021f1a132b8caac611f8d0ef18345d6d53674d7535049c,"payload
+95"
+2024-08-19,Payload delivery,sha1,0d04b0ff7267e22d2bbc273f83c1b5757960ac74,"payload
+95"
+2024-08-19,Payload delivery,md5,6aa1007c3391995062cf00a00b195627,"payload
+95"
+2024-08-19,Payload delivery,sha256,f2614cdc6365a908705c66bdaa12e51c39964fbc4748d3a68a410fbfdfdf945e,"payload
+95"
+2024-08-19,Payload delivery,md5,3cba2a547d84b23f5e9a7677db41c395,"payload
+95"
+2024-08-19,Payload delivery,sha1,5eecc040b2403cd6144a9f525c60fb9a2f3b1e80,"payload
+95"
+2024-08-19,Payload delivery,sha256,4a60736009a34997540dd54edf9e9b0ade0ba1380643dab90458f3ce1efbe734,"payload
+95"
+2024-08-19,Payload delivery,sha1,8aae633846a2cfc05d56599ddaf74eaf910797d4,"payload
+95"
+2024-08-19,Payload delivery,sha256,6f60995da1e1a2afabddd45e900ec2122a8811400e2f1e545aa621f7b4eec0f9,"payload
+95"
+2024-08-19,Payload delivery,md5,1cefccdb037e98e4418b16a84e4002a9,"payload
+95"
+2024-08-19,Payload delivery,sha1,d2885458153b860bfd11eba4a8991666a169801e,"payload
+95"
+2024-08-19,Payload delivery,md5,768e938cadff9aa2ba228b9c17a046b8,"payload
+95"
+2024-08-19,Payload delivery,sha256,703186ed6296e42bf237e33f412e08f321679b0784d1f39e25dce7f7c4ec2f77,"payload
+95"
+2024-08-19,Payload delivery,md5,efd6377cf1f3e1efd885db9343a9a686,"payload
+95"
+2024-08-19,Payload delivery,sha1,c452885ecee8c10c4c0329328cc6032d7e053f7d,"payload
+95"
+2024-08-19,Payload delivery,sha256,a461cb4287fb32a2b34bb3ad04c1535f009887189c35bb1fb945b2e3735351bf,"payload
+95"
+2024-08-19,Payload delivery,sha1,03023751adb7d99d58f9d980e4aecb6e01f65143,"payload
+95"
+2024-08-19,Payload delivery,sha256,c102c43258e8ea2ad717af856fb22c9c8eee0ef607a540b1f064c8d0d7f9fb13,"payload
+95"
+2024-08-19,Payload delivery,md5,f7db13b19a21f0393e5c2fe1ab7ed91a,"payload
+95"
+2024-08-19,Payload delivery,md5,3b3a304c6fc7a3a1d9390d7cbff56634,"payload
+95"
+2024-08-19,Payload delivery,sha1,5801981e9dcd665da6b4ae5e4934f7b8da0af5ba,"payload
+95"
+2024-08-19,Payload delivery,sha256,7331368c01b2a16bda0f013f376a039e6aeb4cb2dd8b0c2afc7ca208fb544c58,"payload
+95"
+2024-08-19,Payload delivery,sha1,e8bd5244e6362968f5017680da33f1e90ae63dd7,"payload
+95"
+2024-08-19,Payload delivery,sha256,327ab3979ab3cd4a0828fb0ee67473049b3b99b7831150e96ea69687395de9d3,"payload
+95"
+2024-08-19,Payload delivery,md5,416042a029ddfef52a45454bb60139f2,"payload
+95"
+2024-08-19,Payload delivery,sha1,5d5d4ef62697fc0dad240c3178ac1c20c86c18b0,"payload
+95"
+2024-08-19,Payload delivery,md5,ce68fc27a056dee925517b474c48913c,"payload
+95"
+2024-08-19,Payload delivery,sha256,9c8f56b88018d130a953e6713bb1ac7eafa12f4a96b6a4a861d5aded3723ad5e,"payload
+95"
+2024-08-19,Payload delivery,sha1,a02682df55e78ca901a817b9dfab0df60ab92d12,"payload
+95"
+2024-08-19,Payload delivery,md5,5f2804848c03af062230d595f5e3f64f,"payload
+95"
+2024-08-19,Payload delivery,sha256,05fd9a9a3e64771d103a4af295262aabaed466d049d0abdff5850689062c1daa,"payload
+95"
+2024-08-19,Payload delivery,sha1,078a1658a8f4b420b657e712939d8f0ecf63540b,"payload
+95"
+2024-08-19,Payload delivery,sha256,57a82fe7dfdb4ca34aa53a757eadaaad85bfb0aa8cd06f615630696658fd22ac,"payload
+95"
+2024-08-19,Payload delivery,md5,1153106b6e6c4f8fe9ef406b97ef80cd,"payload
+95"
+2024-08-19,Payload delivery,sha1,07df9169b4734155a51be32b78bfcc2047f8e2ca,"payload
+95"
+2024-08-19,Payload delivery,md5,4fde2ebe110c833181d6e6e76d66136c,"payload
+95"
+2024-08-19,Payload delivery,sha256,0477a0edc56768e284a449b1b9ad7a94e58fee29aabeff3ffa013dc4e0373dc5,"payload
+95"
+2024-08-19,Payload delivery,md5,7f948bd88c8fed78290c53468006947e,"payload
+95"
+2024-08-19,Payload delivery,sha1,b34ba5251358d0d4e9ca00b8017e157f7a171328,"payload
+95"
+2024-08-19,Payload delivery,sha256,3d828a2a6ad0973e5105c9a4ed9bc62e31ad50f7a15c846075d782a87080e347,"payload
+95"
+2024-08-19,Payload delivery,md5,8bcd388ed9e8762c812ec36614f17982,"payload
+95"
+2024-08-19,Payload delivery,sha1,adaedc7ae6b67c92a6838c4b2e76cb42f5588cc7,"payload
+95"
+2024-08-19,Payload delivery,sha256,10afb5f99e9f494907a0b47823e69573301e7715ab389457bdcd391d8e9cf090,"payload
+95"
+2024-08-19,Payload delivery,sha1,fae03863e3f80e04271b7835bcc9ff4865f2c219,"payload
+95"
+2024-08-19,Payload delivery,sha256,d93598bff6add4d98e07a7d8f33b4d4f87a32a647d6496c3155bbe814697cf2e,"payload
+95"
+2024-08-19,Payload delivery,md5,4ff433f0799c034ab1a01866254ce759,"payload
+95"
+2024-08-19,Payload delivery,sha1,a0972364c249e2d5ba0bd30f13f71a8cf3a9d6da,"payload
+95"
+2024-08-19,Payload delivery,md5,819ea2d1b7f70aa3fab1a5eefd8928fd,"payload
+95"
+2024-08-19,Payload delivery,sha256,e00f4b1980537b569386c1e5d37410b11aa74a4f771311cec06d60130d7aa1c5,"payload
+95"
+2024-08-19,Payload delivery,sha1,c13b663ec677b95631a845d2627e12d71ca96fdd,"payload
+95"
+2024-08-19,Payload delivery,sha256,12cf1c2aa9d7488675687ca3ff32a4aadd9fe89f3516a82654e33cff99631e61,"payload
+95"
+2024-08-19,Payload delivery,md5,385f96b5e242acfad4587a620d22e44a,"payload
+95"
+2024-08-19,Payload delivery,sha1,fff8ff5eb76a065158abc29d6689a996c3bd4efd,"payload
+95"
+2024-08-19,Payload delivery,md5,0c29f5f793bd9427f43f3e2a3ef38dcc,"payload
+95"
+2024-08-19,Payload delivery,sha256,ff6219b3a95a5d3d1b4611a6dc701dbc5cc0aa2e0a1f31e39bfe4f5f6da0126b,"payload
+95"
+2024-08-19,Payload delivery,md5,8743dc690d854c6655613f6d0da7efbd,"payload
+95"
+2024-08-19,Payload delivery,sha1,8516c637358f152ddd971c5c9c6d5b5e9c148f93,"payload
+95"
+2024-08-19,Payload delivery,sha256,81f71d84098affeccf8eaf4a9c1877fde54c1c0b9d5b803f75e49944864c4fa5,"payload
+95"
+2024-08-19,Payload delivery,sha1,da8e180e2e77796cfa6e2894f9183c426c1ac0a2,"payload
+95"
+2024-08-19,Payload delivery,sha256,070b26a4997c79949e6e34ecbd430a7f23c4e08ea426df2a743de893b8e9243c,"payload
+95"
+2024-08-19,Payload delivery,md5,77e820d354dec7d807a431f63c3d8c27,"payload
+95"
+2024-08-19,Payload delivery,sha1,4e4eb8a2040b969dc403196fb6df401dd3abd821,"payload
+95"
+2024-08-19,Payload delivery,sha256,db0f9627eb6f6d633f7211ce94d2ab53277140634443909f78b96a7b18c48b9e,"payload
+95"
+2024-08-19,Payload delivery,md5,46483e709be799db1b59b0bb2a751115,"payload
+95"
+2024-08-19,Payload delivery,sha1,49d7136f0245bf1b6f63019365165119135f80cf,"payload
+95"
+2024-08-19,Payload delivery,md5,197507c921bbc350dcbb72ed905915a6,"payload
+95"
+2024-08-19,Payload delivery,sha256,4f88bb16ebff675f655c8e02e45f2932641440d131573db06131d1095e48acab,"payload
+95"
+2024-08-19,Payload delivery,md5,90d629d2ea67b5c4c24a6ebf86052af1,"payload
+95"
+2024-08-19,Payload delivery,sha1,638f81422c146e530ab2153313c46cf2bc29851a,"payload
+95"
+2024-08-19,Payload delivery,sha256,38104a8e8f0fe6c31cac6a7b7a9c65d30ed8ca9186b7df9279821c1ecb238d77,"payload
+95"
+2024-08-19,Payload delivery,sha1,c74cb8597ea09d96a828f98e22842b83f536df5a,"payload
+95"
+2024-08-19,Payload delivery,md5,80a63d0798f6b7af019380c60b292790,"payload
+95"
+2024-08-19,Payload delivery,sha256,73667740e86476db201a712fccd4244cdd9e4127f208f7731b4710531a45a12f,"payload
+95"
+2024-08-19,Payload delivery,md5,31d1de5c8a8e65916310ba68bfc2a495,"payload
+95"
+2024-08-19,Payload delivery,sha1,227272f4679063a22c2a0af09b832821bc3ec567,"payload
+95"
+2024-08-19,Payload delivery,sha256,efd93eb426521119c8bf068a7266dcb7c20b928f939f67afbdf22774eeeccdc1,"payload
+95"
+2024-08-19,Payload delivery,md5,8fb49f3feb5ba615e7a903f37243bf59,"payload
+95"
+2024-08-19,Payload delivery,sha1,c4b38b389e4350d02c3bfa432be4fa73135a4b04,"payload
+95"
+2024-08-19,Payload delivery,sha256,e9f3e79bb7ebece6575eb47226086f6e0df7331bc6f79f8442608cd5d6a18b3e,"payload
+95"
+2024-08-19,Payload delivery,sha1,00534901d3ca166da11faf295f29a2deda81bcf9,"payload
+95"
+2024-08-19,Payload delivery,sha256,9244f2b8ccdc1ed4270a282ccbd1c47723621dd508889e224806884a98737c70,"payload
+95"
+2024-08-19,Payload delivery,md5,63dc152f2d5adcf904ff061c4a23a8c6,"payload
+95"
+2024-08-19,Payload delivery,sha1,41b4fcb69b736e683ccef9cb355711b7b08d8ddc,"payload
+95"
+2024-08-19,Payload delivery,sha256,cb723d514a98b4d825222314945c680011cf2ba21dafd5cd9129fe144083b944,"payload
+95"
+2024-08-19,Payload delivery,md5,bb06ed23d87e32af51577a5c513154a4,"payload
+95"
+2024-08-19,Payload delivery,sha1,0465630ce40cd3eaf1e9f92daaccc16b9c3241e7,"payload
+95"
+2024-08-19,Payload delivery,md5,0f7b3fad838e9816dcfebc43b4c94092,"payload
+95"
+2024-08-19,Payload delivery,sha256,5ab86bc81697e3fcea1b429fde33bc1a460f841ce7a55ca3a7533879cda13dc2,"payload
+95"
+2024-08-19,Payload delivery,md5,4984c3affa474426681c437544fba975,"payload
+95"
+2024-08-19,Payload delivery,sha1,076ac8f06eb7c3e61493bda30c89f30956a930f8,"payload
+95"
+2024-08-19,Payload delivery,sha256,567b160f11d65b2711fd963d33562351d91b6aafc4b21cbc5bc20a30c25e8a20,"payload
+95"
+2024-08-19,Payload delivery,sha1,47f60c7515b98474467673165e3dfa71d6b56df4,"payload
+95"
+2024-08-19,Payload delivery,sha256,d44931a4099102cea5b0bf1748d6a446d49a87fb8f50f033d39c8463bc32482e,"payload
+95"
+2024-08-19,Payload delivery,md5,cc82954e4cb2540f2d02af760b9a80b6,"payload
+95"
+2024-08-19,Payload delivery,sha1,81c720235dd0c933a5e57ae15473c3d11e329bf9,"payload
+95"
+2024-08-19,Payload delivery,md5,58077f7b69ca6e33ec9a13f1b2b53c02,"payload
+95"
+2024-08-19,Payload delivery,sha256,758ad60c19d53019939eeb1ac2502931f5f6c17ae9184372f8f30efac42f90c1,"payload
+95"
+2024-08-19,Payload delivery,md5,111377f936cda72a8aca49f346efa7e4,"payload
+95"
+2024-08-19,Payload delivery,sha1,09c02cdd3a29100c0398c4a2192bfbfef34fb94c,"payload
+95"
+2024-08-19,Payload delivery,sha256,e3c05cfd183753142de8880780a2e4467338633360aa07efa9e0d48188ccd3bd,"payload
+95"
+2024-08-19,Payload delivery,sha1,b9fb749f7a9004b71f932d569172c945ef573155,"payload
+95"
+2024-08-19,Payload delivery,md5,5c587c2578378bcbfe5eb1bb712b1984,"payload
+95"
+2024-08-19,Payload delivery,sha256,0512aff353c2a083222ff3f6007e15ad5e3e8d400ae146ae1f0f917de8c63f1e,"payload
+95"
+2024-08-19,Payload delivery,md5,05db839beb11f7bb81d072251f987115,"payload
+95"
+2024-08-19,Payload delivery,sha1,63dcbe4d145c04f0b3ede6156ce50b5be8c95539,"payload
+95"
+2024-08-19,Payload delivery,sha256,f5bd533e5ae7c835a2130a82d4dc5a322300dc78648ad0d1d9b3c897ca71151a,"payload
+95"
+2024-08-19,Payload delivery,sha1,cdd26125c3782e5e35bc28b26b85e798a67f7477,"payload
+95"
+2024-08-19,Payload delivery,md5,2192752bd66a25e60410d82889fd7d1a,"payload
+95"
+2024-08-19,Payload delivery,sha256,850a2985ce56130b64f57e1945b34f5b11f9eb4e0d3e9c5bd962dc1064f9e85e,"payload
+95"
+2024-08-19,Payload delivery,sha1,f421c31c34a974f330f4af229f0664baad617948,"payload
+95"
+2024-08-19,Payload delivery,sha256,b037359b3e7539fb9510f703c8d697339750701262665ad1610d23ecb8095685,"payload
+95"
+2024-08-19,Payload delivery,md5,3a6216790c466ae5a522869bd56899f7,"payload
+95"
+2024-08-19,Payload delivery,sha1,a32dd8aaae9c34258b2261c712d4ef623c9d5412,"payload
+95"
+2024-08-19,Payload delivery,md5,1eba7408db4fb53c8fb82bea52cd4293,"payload
+95"
+2024-08-19,Payload delivery,sha256,79595d5161912ce284575b2687edd986a02f870a6bbfb1f38fc778f1d6184d27,"payload
+95"
+2024-08-19,Payload delivery,md5,dc157e7aa4d2ee70d01a991ed7f630a0,"payload
+95"
+2024-08-19,Payload delivery,sha1,5c0bb2f12573389c54fafc7d05e80857a5e97eaf,"payload
+95"
+2024-08-19,Payload delivery,sha256,68c8e8a38a10890f3c51919221d5cde2c9eae265c40d1ec9600eb6f047fd45b5,"payload
+95"
+2024-08-19,Payload delivery,md5,861b8fa009a52d4a2a0484b8c2673fb3,"payload
+95"
+2024-08-19,Payload delivery,sha1,412f5f396100c27d87ec9d0b7a17d0423f2d87cf,"payload
+95"
+2024-08-19,Payload delivery,sha256,655a38b1686aa4f75f6dd4f2b59c8e9e09cde9997b46bafbe4e3dee38d859c99,"payload
+95"
+2024-08-19,Payload delivery,sha1,379c013437d1f2956eb40772281754545a6ad124,"payload
+95"
+2024-08-19,Payload delivery,sha256,3ff74f5275a2ed06959e63a3e321d051da4d7167efc3f6f3d80fbc134a187b3c,"payload
+95"
+2024-08-19,Payload delivery,md5,2c096c46d1011d83c1617dfc1da3c4ef,"payload
+95"
+2024-08-19,Payload delivery,sha1,afe98a6b8d9a05b8e7eaa5d5eb36ff5abd1bf645,"payload
+95"
+2024-08-19,Payload delivery,sha256,9ebb73f0b975b501eadd8b35426cdc230e2863d92170e77b9eefe3ec610252a4,"payload
+95"
+2024-08-19,Payload delivery,md5,6bd8ec66f8e5c585594a671ab47f1081,"payload
+95"
+2024-08-19,Payload delivery,sha1,61c8c79df9bf1b184c438ba27b60bce5932e55a8,"payload
+95"
+2024-08-19,Payload delivery,md5,8214f6c3037f4f33dafdb681b4a4d75e,"payload
+95"
+2024-08-19,Payload delivery,sha256,987275e960a171a6eaa25beb2fd98ad3e4215c5baa35b8623c21b1c7fabda1b1,"payload
+95"
+2024-08-19,Payload delivery,sha1,8b78ba4668a7b10d19385c32f37ac90e0909ce09,"payload
+95"
+2024-08-19,Payload delivery,md5,dd51ef4d9a4169038673c7f657f2f9c5,"payload
+95"
+2024-08-19,Payload delivery,sha256,49bae482a9eeeb1792f15f03abbc8e6454d6b7e9fd78dbf7f3081d8dbaa9d450,"payload
+95"
+2024-08-19,Payload delivery,sha1,f7d28cf5ad8a036ab851f4f836159235fd22b60c,"payload
+95"
+2024-08-19,Network activity,ip-dst|port,67.203.7.163|1244,"botnet_cc
+100
+https://search.censys.io/hosts/67.203.7.163"
+2024-08-19,Network activity,ip-dst|port,147.124.214.131|1244,"botnet_cc
+100
+https://search.censys.io/hosts/147.124.214.131"
+2024-08-19,Network activity,ip-dst|port,147.124.214.237|1244,"botnet_cc
+100
+https://search.censys.io/hosts/147.124.214.237"
+2024-08-19,Network activity,ip-dst|port,147.124.214.129|1244,"botnet_cc
+100
+https://search.censys.io/hosts/147.124.214.129"

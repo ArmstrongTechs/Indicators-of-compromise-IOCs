@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-08-06]
+| UUID: da0d7baa-652f-449f-a4cb-69e438f03ad3
+| Date: 2024-08-06
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-06,Payload installation,filename,MV MAXIMApdf.exe,Source: MalwareBazaar
+2024-08-06,Payload installation,md5,8625ee224eabe551094b1608e9919d6e,Source: MalwareBazaar
+2024-08-06,Payload installation,sha1,8eb8ef4b3a9e590588115613b7296355290daf6f,Source: MalwareBazaar
+2024-08-06,Payload installation,sha256,7dba6063a64ca29963a57881589dbb513c94a77766d98e67bd6bab790e07209a,Source: MalwareBazaar
+2024-08-07,Payload installation,filename,Πληρωμή.lnk.lnk,Source: MalwareBazaar
+2024-08-07,Payload installation,md5,8d2464bee26f6e3d7c43953cfb3eebae,Source: MalwareBazaar
+2024-08-07,Payload installation,sha1,906f5952737b7b6f15abaaaca1a4c22111d39338,Source: MalwareBazaar
+2024-08-07,Payload installation,sha256,49b2caa0106ae7c87c555dfc3a919f2c1c4f1074e605b4c220fe3c85e7d2052e,Source: MalwareBazaar
+2024-08-07,Payload installation,filename,a8fbdf30ea6c2123df0a50d5e4e6419a.exe,Source: MalwareBazaar
+2024-08-07,Payload installation,md5,a8fbdf30ea6c2123df0a50d5e4e6419a,Source: MalwareBazaar
+2024-08-07,Payload installation,sha1,596e543b3336b7bd64638eae9dd85bc7f8fbf771,Source: MalwareBazaar
+2024-08-07,Payload installation,sha256,872593063b4fad7b6355ee53d4f4017320851167b18311674e8869d983191d82,Source: MalwareBazaar

@@ -1,0 +1,34 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-08-21]
+| UUID: 0557b48f-9af8-41bc-b196-42008ba60dd6
+| Date: 2024-08-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-21,Payload installation,filename,FILE#PI.exe,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,dba34c1c962b821b3ff24f137b800999,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,6891743758c3f30eb961a714a387f336a4390510,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,9f0f58024fc22a7740df55613a20a276523be6f557382466d4be5d215752b886,Source: MalwareBazaar
+2024-08-21,Payload installation,filename,Document 21824RXVPO.exe,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,e47c8db4fbc7b8c7605b67d99c106bf8,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,7af0d98d02b64409b2bb0b5a30270273a5cde810,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,f4cc2743d202249ab338480e5c4cf22f2662065d078da09c89af833dbd1c1717,Source: MalwareBazaar
+2024-08-21,Payload installation,filename,SHIPPIND DOC.exe,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,fa8b0187b4df28679dc39ffb7fc89aab,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,4db3086922f8dbff217beb9f842da65658479ed0,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,08487afd71ecc7ee65a8730e7d245731d1f35f7d615d9f4b35679293c85b37ad,Source: MalwareBazaar
+2024-08-21,Payload installation,filename,IMG_20240820_WA0042668388865379_jpg.exe,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,47f9fb8c8e124d89e0048e863d816943,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,5a3e8be698f01cea0d07a60e1d94dab7af913aaf,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,85d29d50e3ee2410790af032feb9d354f07502ae1b9ec97185f262e9fe7ebf5d,Source: MalwareBazaar
+2024-08-22,Payload installation,filename,Debit note Jan-Jul 2024.exe,Source: MalwareBazaar
+2024-08-22,Payload installation,md5,2e181c3c4d4931c96c895790eea51abc,Source: MalwareBazaar
+2024-08-22,Payload installation,sha1,9f65dd52a2c10b631bcba61acc3c9328ff96eb19,Source: MalwareBazaar
+2024-08-22,Payload installation,sha256,593d4af1922cf7edf2908ba830fc3ba4cdcf51fc0233fe72783cd836243fbecf,Source: MalwareBazaar
+2024-08-22,Payload installation,filename,Debit note Jan-Jul 2024.zip,Source: MalwareBazaar
+2024-08-22,Payload installation,md5,beea18d8e58806e38908b1e00bbacf37,Source: MalwareBazaar
+2024-08-22,Payload installation,sha1,01f45a0add855318d74163bf71c5558cb4d36a08,Source: MalwareBazaar
+2024-08-22,Payload installation,sha256,610297907bb67a93834cbb1c54f2342062179de5a10209f43f50d5273d41e776,Source: MalwareBazaar

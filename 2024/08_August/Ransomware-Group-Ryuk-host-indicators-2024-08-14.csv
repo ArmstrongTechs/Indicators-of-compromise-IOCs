@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Ransomware Group Ryuk host indicators [2024-08-14]
+| UUID: 5fefbbaf-26e0-4230-ab42-d65ad32918dd
+| Date: 2024-08-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-15,Payload installation,filename,6bb43dd10a3f8046540e010ed772c3ad.exe,Source: MalwareBazaar
+2024-08-15,Payload installation,md5,6bb43dd10a3f8046540e010ed772c3ad,Source: MalwareBazaar
+2024-08-15,Payload installation,sha1,41f9a36a2bee3d0d37251bb4185e71e83749eca0,Source: MalwareBazaar
+2024-08-15,Payload installation,sha256,9c24785c1d429ce1cc9c72613993d12f2b1b95d96e834f3d3736b26221027094,Source: MalwareBazaar

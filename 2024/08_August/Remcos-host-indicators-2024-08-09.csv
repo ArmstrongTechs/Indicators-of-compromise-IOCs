@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-08-09]
+| UUID: 64e201fb-9892-4e5c-9060-58a84f548af7
+| Date: 2024-08-09
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-10,Payload installation,filename,sahost.exe,Source: MalwareBazaar
+2024-08-10,Payload installation,md5,9cef532829a4ca2cf13279ac134873d8,Source: MalwareBazaar
+2024-08-10,Payload installation,sha1,68f4c94bf29fb0cbde97973083f85bf08382f2a2,Source: MalwareBazaar
+2024-08-10,Payload installation,sha256,61dcfda4694ea3f6bafab018feb9cbcaced299f1996b4a7adaf79a3a81cc788d,Source: MalwareBazaar
+2024-08-10,Payload installation,filename,IEexplore.hta,Source: MalwareBazaar
+2024-08-10,Payload installation,md5,a485f9c22bb28feb62d01c63e1cd9faa,Source: MalwareBazaar
+2024-08-10,Payload installation,sha1,37466c9e52be071a2b9bb4606f358a7cbb05d0dc,Source: MalwareBazaar
+2024-08-10,Payload installation,sha256,ce71b196e2d2e471973112e9ed9b9765927419eb31eb582786e0d022cd14af62,Source: MalwareBazaar
+2024-08-10,Payload installation,filename,waybill_shipping_documents_original_BL_CI&PL_09_08_2024_000000002024_doc.xls,Source: MalwareBazaar
+2024-08-10,Payload installation,md5,51a384c21f19b18a4fd736d1d8411136,Source: MalwareBazaar
+2024-08-10,Payload installation,sha1,169111b03452eb28cc3e1b131676af646d5778a3,Source: MalwareBazaar
+2024-08-10,Payload installation,sha256,e2f8064a2b3a3b4a04f874a8666cddc6cfdf1159e487f88f225baa22f0c2efef,Source: MalwareBazaar

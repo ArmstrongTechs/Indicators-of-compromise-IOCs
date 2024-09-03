@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Smoke Loader host indicators [2024-08-22]
+| UUID: f9033f37-a14e-440a-91b1-9ce265e4805c
+| Date: 2024-08-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-22,Payload installation,filename,e79a2bcf684a6ffbc4cfad76edf27809.exe,Source: MalwareBazaar
+2024-08-22,Payload installation,md5,e79a2bcf684a6ffbc4cfad76edf27809,Source: MalwareBazaar
+2024-08-22,Payload installation,sha1,6b8da04818ea775dbf16408a4c8a8ca71ceae606,Source: MalwareBazaar
+2024-08-22,Payload installation,sha256,88b5ed74d4fc6f2cf6394bd1766f44df61e7dc9b810cfacbecba5b34af3bf57d,Source: MalwareBazaar
+2024-08-22,Payload installation,filename,979951c8de45460fff2197797b54aa1e.exe,Source: MalwareBazaar
+2024-08-22,Payload installation,md5,979951c8de45460fff2197797b54aa1e,Source: MalwareBazaar
+2024-08-22,Payload installation,sha1,64736caebb69bab6f2fdd6549c6bec9454d8132d,Source: MalwareBazaar
+2024-08-22,Payload installation,sha256,d1abb50ea4d533a3e57b99e347d5d8675896ce23576987edcc9c3426ffb0c380,Source: MalwareBazaar
+2024-08-22,Payload installation,filename,4f132cd93fe858362c4feb4d4effd90a.exe,Source: MalwareBazaar
+2024-08-22,Payload installation,md5,4f132cd93fe858362c4feb4d4effd90a,Source: MalwareBazaar
+2024-08-22,Payload installation,sha1,6227cb221e604ec4d9c0e00a2d0ced0fb14a23fc,Source: MalwareBazaar
+2024-08-22,Payload installation,sha256,82d99b840ac392300eb572ed71f77b62278361bce95488e24b0f53de4d67ad8c,Source: MalwareBazaar
+2024-08-22,Payload installation,filename,655a5965f6358d8391e18cff5e600815.exe,Source: MalwareBazaar
+2024-08-22,Payload installation,md5,655a5965f6358d8391e18cff5e600815,Source: MalwareBazaar
+2024-08-22,Payload installation,sha1,14d41b08cc0608ad1f455174f58a281f44171514,Source: MalwareBazaar
+2024-08-22,Payload installation,sha256,acc17deb417db03958118c1ac08156e0fca081605b909644523dd3fa887cf674,Source: MalwareBazaar
+2024-08-22,Payload installation,filename,12edc0d0e4949cca2c3999c73659b4c9.exe,Source: MalwareBazaar
+2024-08-22,Payload installation,md5,12edc0d0e4949cca2c3999c73659b4c9,Source: MalwareBazaar
+2024-08-22,Payload installation,sha1,a433c3a79bf5f357052bc84618713b156e8f86cf,Source: MalwareBazaar
+2024-08-22,Payload installation,sha256,1c4856a56c6b9b168d73deb0fcc740215455041edcf96f90d48d2f31726f7269,Source: MalwareBazaar

@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Snake Kelogger - as .rar mail attachment
+| UUID: 2799c31a-2bde-4ce0-9ede-4c68914ade99
+| Date: 2024-08-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-16,Network activity,url,http://doc.kouken-kasei-jp.com/Omuqwsywelw.mp4,
+2024-08-16,Network activity,url,https://api.telegram.org/bot6857903861:AAFIl0U0mnwb_jocFKBLYDnjxEABeBQQ2g4/sendDocument?chat_id=6933634549,
+2024-08-16,Payload delivery,malware-sample,Payment copy.rar|2ab3b559bfbcfbb8ac9a9dde04b6d3a4,
+2024-08-16,Payload delivery,filename,Payment copy.rar,
+2024-08-16,Payload delivery,md5,2ab3b559bfbcfbb8ac9a9dde04b6d3a4,
+2024-08-16,Payload delivery,sha1,fa9a98227ecab989bf61180092f39ccb33d2dc86,
+2024-08-16,Payload delivery,sha256,7fbd0cc5432a5878f5e489087c0ab45844f2d7e7aaa4d8a925a8c08cc2f0a9e0,
+2024-08-16,Other,size-in-bytes,113822,
+2024-08-16,Payload delivery,malware-sample,Document.exe|a9132417d9a291ce28588c24dc4ae34f,
+2024-08-16,Payload delivery,filename,Document.exe,
+2024-08-16,Payload delivery,md5,a9132417d9a291ce28588c24dc4ae34f,
+2024-08-16,Payload delivery,sha1,faa235094a4c8eccbabe46aa550244be21bd722a,
+2024-08-16,Payload delivery,sha256,7e32d7cb4afde72ccb3dbc97193c3bda96307789b068c6b8339b717869fa377c,
+2024-08-16,Other,size-in-bytes,237056,
+2024-08-16,Payload delivery,malware-sample,Omuqwsywelw.mp4|3a8cda943225e797dd26e8f1c22607ca,
+2024-08-16,Payload delivery,filename,Omuqwsywelw.mp4,
+2024-08-16,Payload delivery,md5,3a8cda943225e797dd26e8f1c22607ca,
+2024-08-16,Payload delivery,sha1,4e34857690e9f05b9d0f4fee8af70f0378cd593b,
+2024-08-16,Payload delivery,sha256,f38bd9d251d589a14c9e8959a2d6e1e6b6b50137ccfa66a21c71d27f58b7ba31,
+2024-08-16,Other,size-in-bytes,1247760,

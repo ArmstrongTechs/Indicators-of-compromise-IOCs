@@ -1,0 +1,36 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos RAT malspam - email attachment
+| UUID: 6e6f0614-b9a1-43e0-ab04-26304703cf14
+| Date: 2024-08-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-21,Persistence mechanism,filename,%WINDIR%\System32\Tasks\Updates\SAhGiXEbRrLb,
+2024-08-21,Persistence mechanism,filename,%APPDATA%\SAhGiXEbRrLb.exe,
+2024-08-21,Artifacts dropped,filename,%ProgramData%\remcos\logs.dat,
+2024-08-21,Artifacts dropped,regkey,HKCU\Rmc-7RIKHP\exepath,
+2024-08-21,Artifacts dropped,regkey,HKCU\Rmc-7RIKHP\licence,
+2024-08-21,Artifacts dropped,regkey,HKCU\Rmc-7RIKHP\time,
+2024-08-21,Network activity,hostname|port,sungito2.ddns.net|5055,C2
+2024-08-21,Network activity,ip-dst|port,154.216.19.222|7088,C2
+2024-08-21,Payload delivery,malware-sample,PO8907546.exe|bc3e6bce7d0710d3f7e9e84c4be8008d,
+2024-08-21,Payload delivery,filename,PO8907546.exe,
+2024-08-21,Payload delivery,md5,bc3e6bce7d0710d3f7e9e84c4be8008d,
+2024-08-21,Payload delivery,sha1,ec0f3bfb11e17040fd4ef3c9d2399fd95ce4bade,
+2024-08-21,Payload delivery,sha256,ae284655948354c6ed48e95cf2aaa058d376ed19d2aa69aa38eecea72ee2f576,
+2024-08-21,Other,size-in-bytes,1169416,
+2024-08-21,Payload delivery,malware-sample,PO8907546.r00|616b7deed36d88ccf476ec2f7f2e4ba5,
+2024-08-21,Payload delivery,filename,PO8907546.r00,
+2024-08-21,Payload delivery,md5,616b7deed36d88ccf476ec2f7f2e4ba5,
+2024-08-21,Payload delivery,sha1,e84d20d2be233e520ad16aee3958f4ff6bfe162f,
+2024-08-21,Payload delivery,sha256,f53f8d89bce488de8a4612f31b535678f6ad12222c72c50c7ddd1169db16b9ad,
+2024-08-21,Other,size-in-bytes,921973,
+2024-08-21,Payload installation,malware-sample,Rmc-7RIKHP.exe|651487ba017dda40a058d676a1346276,
+2024-08-21,Payload installation,filename,Rmc-7RIKHP.exe,
+2024-08-21,Payload installation,md5,651487ba017dda40a058d676a1346276,
+2024-08-21,Payload installation,sha1,bfa1e4a6f30feafedf89c1a2bd046512948a37fb,
+2024-08-21,Payload installation,sha256,9b0dfbc55536930b5021fab1b38908ef8328ca5be5ea6cd54c47dee9a028da29,
+2024-08-21,Other,size-in-bytes,494592,

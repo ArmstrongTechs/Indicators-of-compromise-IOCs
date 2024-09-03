@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-08-05]
+| UUID: 8136000f-fbde-4931-ac43-540d155b6f53
+| Date: 2024-08-05
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-05,Payload installation,filename,DHL SHIPMENT NOTIFICATION.exe,Source: MalwareBazaar
+2024-08-05,Payload installation,md5,5590b6db2b3eabac121341c88b6176f9,Source: MalwareBazaar
+2024-08-05,Payload installation,sha1,4d10d60543ffea206a96fc4242a87a05bf84cc15,Source: MalwareBazaar
+2024-08-05,Payload installation,sha256,c5dbe318fd7c0e940076daa196db7ce375826b316ec92d8135c5d40b95444ba9,Source: MalwareBazaar

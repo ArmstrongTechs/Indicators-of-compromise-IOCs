@@ -1,0 +1,118 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Paid Invoice - From: lauretta@naplescyclery.com"" Campaign"
+| UUID: 4cdfac36-4408-4125-938e-432c1673f855
+| Date: 2024-08-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-19,Payload delivery,email-src,lauretta@acoustics.asn.au,Source email: from Lauretta@acoustics.asn.au - subject: Paid Invoice
+2024-08-19,Payload delivery,other,lauretta@naplescyclery.com,Source email: from Lauretta@acoustics.asn.au - subject: Paid Invoice
+2024-08-19,Payload delivery,email-body,"<html><head>
+<meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+</head>
+<body><p>&nbsp;  Sorry about this I usually send chq's, but i have been out sick for awhile.<br>Just added you guys to our on line banking, so i have paid all three invoices <br>through online banking today.<br><br>Please find attached the copy of my payment on line to verify they are paid<br><br>Thank you<br><br>Lauretta.<br>Office Manager.</p></body></html>",Source email: from Lauretta@acoustics.asn.au - subject: Paid Invoice
+2024-08-19,Payload delivery,email-subject,Paid Invoice,Source: from Lauretta@acoustics.asn.au - subject: Paid Invoice
+2024-08-19,Payload delivery,filename|md5,738393930202.html|8f8adfa250b196d48db89f2daf32a312,Malspam attachment - source: from Lauretta@acoustics.asn.au - subject: Paid Invoice mime: text/html
+2024-08-19,Payload delivery,filename|sha1,738393930202.html|46747c3f731af9f56cc09fbb12a9a0514cdef894,Malspam attachment - source: from Lauretta@acoustics.asn.au - subject: Paid Invoice mime: text/html
+2024-08-19,Payload delivery,filename|sha256,738393930202.html|48f527ae8d6c3b5915c3194c21e8c74711c95af9d97357424ef20daa0816ff3a,Malspam attachment - source: from Lauretta@acoustics.asn.au - subject: Paid Invoice mime: text/html
+2024-08-19,Payload delivery,filename|sha512,738393930202.html|bc14d8b60ec5b367f85528d2177352d2a33648b939b0538e851b11436601be6f1029f8d6d08d8f1b2b770452ab1fc4a7f7c1d287526256c03614047a9f0ded9f,Malspam attachment - source: from Lauretta@acoustics.asn.au - subject: Paid Invoice mime: text/html
+2024-08-19,Payload delivery,filename|ssdeep,738393930202.html|12:TO0PoA1c0ASp6Qclfo21pDgqunpDvjvMxikY2U9ap2DUSGzE2U9ap2DUSQKgh:bFsPbg797vMxikY2U42DU1E2U42DUagh,Malspam attachment - source: from Lauretta@acoustics.asn.au - subject: Paid Invoice mime: text/html
+2024-08-19,Payload delivery,filename|md5,1.py|18f58e6b6077744d4c6a3b4b67342901,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha1,1.py|7abc365ec7377e79f9b160f4a6df0412612ef737,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha256,1.py|0ca2e607cf0b0a4dadf7720303d5b90a33e4811e4a91945694a7a4495a4d433f,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha512,1.py|a89741e140f34887c509df1c37d435bb5f284ffb465594e49200eea56a023d32cad651cd1d9b2c34fe230e47b0f8eb62749ca2213990c8529d1f89eef1a953b6,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|ssdeep,1.py|3072:yyPUxEQ5QYbVy7y25rYJw8znykrw8Ss0XsOGKL05bX5PntnjhXAw+2BYz5ykQGun:yyPQ,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|md5,2.py|fcfc5566933ac06d913271b22a7d5162,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha1,2.py|51a09a7b1fc5224ca7864b12febdfa633b33f2a9,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha256,2.py|8867ea0afc02835bf960af6e70c1d70598a2cc42550525668863dfcd14d2caa3,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha512,2.py|90003662659389557372609e222948b60cb1cb01b98d3ef6ffda4336efa84099424ccc88c2a4e2efc44fd11a9ac4f6e3a134dd25ec9fa34309d7cf955f8cee20,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|ssdeep,2.py|192:AEcA5BBcS55B8/G9uapVGM5bGRa395bLlcVl5XTKwrkqxN1wwQkGeOCrtMOSFdCF:zhzBcgBWG9uAPVGR85bBcVl5XBB,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|md5,3.py|aab949a7425c074b46e4ed974a1aa379,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha1,3.py|a735a28bf26872033bcccb2da509b258ff9e3674,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha256,3.py|c6c6e325215079c5a2543978cea50715ecbe27b274a57861d533b99900b351b5,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha512,3.py|426a7d1fe07826cd64d64a04d4367d72d95250fa7a09f563834766aaa8a5f4efb28336639cbb3fbfe5479b1cadaa36aafa91e33d8b0ab8e3c9c72e7e64ea0abd,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|ssdeep,3.py|384:FJzBU60jbVGRq5ADfIbuOWfHtfXw4PnUFakzkvA79A/vF26b6TiU6rzvd9lGjW7e:FJzBV0jRG+dbuM,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|md5,4.py|7c518c1cbea90a8bbedda40d5ca5d6d4,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha1,4.py|a69d2c5ad844e23b97f668fca19f2c8eb6f39501,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha256,4.py|2d41376e09eb0f6a2269ddb704d951bea527cbb181a9a487782d6f5a06411a30,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha512,4.py|44affe7b0811b32b917e31d8112147e95b525a59236c9280589ba023fd5ac496cdd8393f73e508f2855fdd025e255f32c1d66e6b22f1a41b4c61cdade112a3ec,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|ssdeep,4.py|384:GkeVGR41zYcSmRFCAfbPQidkovAsdko/Xrxs:GkOGwzYnQCAfbN0,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|md5,5.py|c3b8b9286a8a0dd155367781b7046906,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha1,5.py|9cd399b8db71cf6e88d79b9c92b20a166527e6b6,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha256,5.py|95065f34d8dc745361fe9e7df903a5d4e69ab41f5b2562fb7be9702baa315927,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha512,5.py|f09fa816b95acb6801b27ab38b5464ddfe0827c157de7fd603ae219b76ccb986221f1a89a8f0887fb55be26698f2e553087b92506341a35aae2828b6c78ecfd1,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|ssdeep,5.py|768:Z6zBYTnUZ3GPbEbQqAO5yLBCg5yIatDzNbE4sLQk7qxjITozrrHjpMx1ObXy1g8y:Z6zBYTnU9q4f,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|md5,6.py|a2a463a447da233595464ba1a4a05ea6,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha1,6.py|26ce9981850b9683c21420a37f4e92ed6f251069,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha256,6.py|4b3a20f0f88685b0810c245cbae221502cf6739a860d242455da03481378a385,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha512,6.py|81e1e487105f6d8d617c5dc51f9d700900c598924c77dc1f83e0a443739e9a2af92e1419de7d817aadd1766ede67dc0c3fd201046f456c5e5227c4453bf30c7a,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|ssdeep,6.py|1536:KI9zfMLj4QHlA6uOvZC4+3JpG3vWG/eXJaK54wp/64YEOvymGoPzSmhCHzqaZayw:Fsb,Extracted from FTSP.zip; Executed by startuppp.bat; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|md5,DXJS.zip|6d218845785bff444070175f2c947a58,Downloaded from http://trackmyshipang.site:5882/DXJS.zip; mime: application/zip
+2024-08-19,Payload delivery,filename|sha1,DXJS.zip|aa3371cb30fc5164d8ce5dc5ad2007e057f333a0,Downloaded from http://trackmyshipang.site:5882/DXJS.zip; mime: application/zip
+2024-08-19,Payload delivery,filename|sha256,DXJS.zip|93f749a6e074ec48bbe2e87f8af98b8a814bd53f09b1c8ecedb11a463d1ae8cd,Downloaded from http://trackmyshipang.site:5882/DXJS.zip; mime: application/zip
+2024-08-19,Payload delivery,filename|sha512,DXJS.zip|b96ef3a88d27c5ee1c6e41d0b582452ccd9daf0cd2ba4eb60fc84d4c8b4b6cf1c356e2cdfe8c956d457902b45aac790d60d006e68112615399e795e53bce7be8,Downloaded from http://trackmyshipang.site:5882/DXJS.zip; mime: application/zip
+2024-08-19,Payload delivery,filename|ssdeep,DXJS.zip|786432:hADXXuC9mkLqH0C1SWvEWbW7ZhG0HQaocLeo0mGztonr3M:ODngkLqHDxsbVh5waNLglT,Downloaded from http://trackmyshipang.site:5882/DXJS.zip; mime: application/zip
+2024-08-19,Payload delivery,filename|md5,E_PAYMENT_SCAN_73984367892035327872187223_pdf.lnk|6af2c3048ac8e62cb1747baec9f8fb37,Downloaded from https://aerospace-reporters-purposes-wx.trycloudflare.com/E_PAYMENT_SCAN_739/E_PAYMENT_SCAN_73984367892035327872187223_pdf.lnk; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha1,E_PAYMENT_SCAN_73984367892035327872187223_pdf.lnk|915de3f116de517a2467f33965b6975da8940f53,Downloaded from https://aerospace-reporters-purposes-wx.trycloudflare.com/E_PAYMENT_SCAN_739/E_PAYMENT_SCAN_73984367892035327872187223_pdf.lnk; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha256,E_PAYMENT_SCAN_73984367892035327872187223_pdf.lnk|3a6348e7ba629568be0a232ffbea4b11dbd72a0d05b440236c977b850e32eabd,Downloaded from https://aerospace-reporters-purposes-wx.trycloudflare.com/E_PAYMENT_SCAN_739/E_PAYMENT_SCAN_73984367892035327872187223_pdf.lnk; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha512,E_PAYMENT_SCAN_73984367892035327872187223_pdf.lnk|bf43db5edad9dfdc40abfe90fa1cd1890609cafc66680cc049f586cb9a987c56381a63fd6d65fe8d3ed7993b5690bf7a2af996f94138c3bc578819cda846a175,Downloaded from https://aerospace-reporters-purposes-wx.trycloudflare.com/E_PAYMENT_SCAN_739/E_PAYMENT_SCAN_73984367892035327872187223_pdf.lnk; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|ssdeep,E_PAYMENT_SCAN_73984367892035327872187223_pdf.lnk|24:87JbmOuNVz1A4UPAdRdXFVQdWYGYYqVgqe7ab/rMTcm:871mjNVze4lDdQnBhe7ab4c,Downloaded from https://aerospace-reporters-purposes-wx.trycloudflare.com/E_PAYMENT_SCAN_739/E_PAYMENT_SCAN_73984367892035327872187223_pdf.lnk; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|md5,FTSP.zip|cdc5ee3bda73a9d623586ed2610e8946,Downloaded from http://trackmyshipang.site:5882/FTSP.zip; mime: application/zip
+2024-08-19,Payload delivery,filename|sha1,FTSP.zip|a6f7d930f634e79b82dd3aaac4eb86e66438fcd4,Downloaded from http://trackmyshipang.site:5882/FTSP.zip; mime: application/zip
+2024-08-19,Payload delivery,filename|sha256,FTSP.zip|f2a16647d91efa55a674a139ebb60b9fc90ca1e5cff384e6904151867ee94ebb,Downloaded from http://trackmyshipang.site:5882/FTSP.zip; mime: application/zip
+2024-08-19,Payload delivery,filename|sha512,FTSP.zip|e783108d36d921fece5f86552ded4035c8645a0f355b47303fe686592cc6bb7fe8bc647a362bd3c08abb30fed1ed3195c465d68a689f714242d5ee3ddf71f101,Downloaded from http://trackmyshipang.site:5882/FTSP.zip; mime: application/zip
+2024-08-19,Payload delivery,filename|ssdeep,FTSP.zip|786432:eMDXXuKvCELqFwqYUKrMuThNw3oHdIHbqlzWu4wJt5YAUj3:9DnqELqFDUAYO3GmHOlvLVY73,Downloaded from http://trackmyshipang.site:5882/FTSP.zip; mime: application/zip
+2024-08-19,Network activity,url,http://trackmyshipang.site:5882/DXJS.zip,Source: Network activity from new.bat
+2024-08-19,Network activity,url,http://trackmyshipang.site:5882/FTSP.zip,Source: Network activity from new.bat
+2024-08-19,Network activity,url,http://trackmyshipang.site:5882/startuppp.bat,Source: Network activity from new.bat
+2024-08-19,Network activity,url,https://aerospace-reporters-purposes-wx.trycloudflare.com/E_PAYMENT_SCAN_739/E_PAYMENT_SCAN_73984367892035327872187223_pdf.lnk,Source: Network activity from 738393930202.html
+2024-08-19,Network activity,url,https://aerospace-reporters-purposes-wx.trycloudflare.com/new.bat,Source: Network activity from E_PAYMENT_SCAN_73984367892035327872187223_pdf.lnk
+2024-08-19,Payload delivery,filename|md5,inffo.py|1c13bb7576cfc8c54ae90331505f7bbe,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha1,inffo.py|cb2e6aeab10eabc266eadad9dc14f48e8fd030be,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha256,inffo.py|d8af7f764009bf71f33130bc6e25afd6b7046a6f50dfb2d2a023012c0c88d74a,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha512,inffo.py|cd41252ffca46941744c3b1f3ab44d1f93773e28d3ab9a80796c088474651ffd4fa32014a71fca0c6acdaa2edd830955cd681d58b9778ad54bae3b953d3733a2,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|ssdeep,inffo.py|768:GgGU7Tzfpl7/1tbxxLfX9Tq7N/h4K87R3Ci/sw8gK8KrvV4TBYD4QLuRizUzTLBC:GgtTzfplD1ts,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|md5,kaam.py|5edd3f46656bef2343fe223496f2cc01,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha1,kaam.py|c542409e03cfcad1cfd180fc5e3bc8c1dcfdc2b8,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha256,kaam.py|b8b4cb033f0483b3fe83e1381795ca5c9c987cf17f2a6eb6b6892badbd947601,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha512,kaam.py|665e8a6c362e880cc942b2d592672cb5ab1248d7bce1df9fd8cadf8e0deabd257d239a399fd88a597746521dd166f9db6e07af639e4314e152d0905e556abb94,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|ssdeep,kaam.py|384:GhzBuCR66dQVGRv+fz3trbK8E8xUArsUCCdqAOVVWXuW+Z56vBcbfrra+tChlVK0:GhzBuCRnKGUdbV,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|md5,momeent.py|bd3a21bfa296f4b2aed27351039b0cca,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha1,momeent.py|81c80ec2167bb9bc1504a8a0222174892fc0dc7f,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha256,momeent.py|14448a76f042c3568f989a9202c2cdbced41fcbf9766d56e2e21c4c5e80599cf,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha512,momeent.py|aedddb2ea5789f3262905fcb10711e3a90a830a04aba8bdab168c56ac5a68f722d8da761658e87f990c56a2652eedae56b0d7d4c4a80ec71dbdabb26ae121761,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|ssdeep,momeent.py|1536:IpzB/isZWBQZ35SA6Dg9ssrelOOO5KtDo8jAV9OcHwAzcMThHHeoS7GpnXQytFRz:wrP,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|md5,moneey.py|0e9255972e15567caef26d352a141196,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha1,moneey.py|5e14782d0a9f3f3dbc970c10098bd602b4f498f1,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha256,moneey.py|d803fc5baacb7aab2358f066039761a0a0430bac3eace53cd03a1bd3c9655b50,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha512,moneey.py|796f2c0c5e96c4c09a97dc9e2faad34a03bb1d9ddce1a53729f2d8d7b0b1baa046512f26720a0e5c4da9892d5cf69f79b0953b67d816b1be7f5457d28b84cea0,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|ssdeep,moneey.py|768:jAGPC03v0zZ5IpLbppInRtf8JzO4K/tVrmnu1h6ggY+Y9as1gL/Ee4tpr9CinICV:jA0zf0zZ5I9i,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|md5,new.bat|5231d885fdda6e0b2bdd6fda0414506c,Downloaded from https://aerospace-reporters-purposes-wx.trycloudflare.com/new.bat; mime: text/plain
+2024-08-19,Payload delivery,filename|sha1,new.bat|aa2172986b468de81516396a9eebf5e0563deb7c,Downloaded from https://aerospace-reporters-purposes-wx.trycloudflare.com/new.bat; mime: text/plain
+2024-08-19,Payload delivery,filename|sha256,new.bat|2a77fe4bf86373a48d28e334441cdd220b19455f0c7db6adb5b191ace9069687,Downloaded from https://aerospace-reporters-purposes-wx.trycloudflare.com/new.bat; mime: text/plain
+2024-08-19,Payload delivery,filename|sha512,new.bat|6731b4a7857c29b6ce7a64467940c00c88361d8b75e58d15e6056fe6e2054f3c8d366f2ffad666f616df1b8d8f1f3b4a41a889920dc351dd88e6a0c79fe1dc6e,Downloaded from https://aerospace-reporters-purposes-wx.trycloudflare.com/new.bat; mime: text/plain
+2024-08-19,Payload delivery,filename|ssdeep,new.bat|192:n99jkcpKUIvKgOE3zDMKfYpmVx/1E0oUucL1J+addCZIUEt5BrJnXCGvmg5:9aRfYot3J,Downloaded from https://aerospace-reporters-purposes-wx.trycloudflare.com/new.bat; mime: text/plain
+2024-08-19,Payload delivery,filename|md5,startuppp.bat|6aae0b94b03334a6d504374540945c77,Downloaded from http://trackmyshipang.site:5882/startuppp.bat; mime: text/plain
+2024-08-19,Payload delivery,filename|sha1,startuppp.bat|46a8a6f7402fddb927ba61cedb50f37f875d5e33,Downloaded from http://trackmyshipang.site:5882/startuppp.bat; mime: text/plain
+2024-08-19,Payload delivery,filename|sha256,startuppp.bat|8b5db5f5b247c89db9c32e3c62ace319c89b4dbd97a7a35fa0492e8541ffb235,Downloaded from http://trackmyshipang.site:5882/startuppp.bat; mime: text/plain
+2024-08-19,Payload delivery,filename|sha512,startuppp.bat|ccdb7b7ee3b2f40094333ff82d67970f46a434d81ee4b6083f2899312baea2aff36c6060d33341364bf66e10aa683262987763259cb7f06fa82c64db72431194,Downloaded from http://trackmyshipang.site:5882/startuppp.bat; mime: text/plain
+2024-08-19,Payload delivery,filename|ssdeep,startuppp.bat|96:MWL9WX/aYRYB7xRYxdR1V0JgRY1CRYG0+KoSRkll9:MY9WPaYRMFRKPb0JgR0CRF0+KoSRAl9,Downloaded from http://trackmyshipang.site:5882/startuppp.bat; mime: text/plain
+2024-08-19,Payload delivery,filename|md5,timme.py|58eb798643451ff32c43952f26617b54,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha1,timme.py|57b84a0afb42606c364390cff1557fb30d66ea66,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha256,timme.py|b74bc9cc4fa34091803c9474007f014412014c44780e9c84522469b42d518ba3,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha512,timme.py|358b7c2d75089bd1ae511668e67ef7e9ffcc0dd80dda71f1e56e4db65155db22a7ead1710b922423878b848bca2051f74e1dd6f3f97c0cfdeb1f3767f15dfb73,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|ssdeep,timme.py|384:MjzB4ZUqK+JBVGRFygbj0zAJxzc97b0agCc+TAWTHqAdAu/tR2sHqzpXu8QxJHlV:MjzB4Zo+JvGXZbgr,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|md5,updaate.py|8110395a45ac81d244494fe9bc0b9643,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha1,updaate.py|d096493303f06bde8a26b77a9092ad26d799bef0,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha256,updaate.py|60d47e470ecd9f42986346abe59a357c8b0e1be0e2d43f67502ffba065c5fb00,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha512,updaate.py|551fd5c2bf73ba9e860e7af82d72b9356d09322a69c9d6ee866f402aa0402cc970804825ffaf25dca312c98b3e31668d7e562597fe0850b5c699ee8a16d0ec5e,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|ssdeep,updaate.py|192:7xdII5bGRVZEnDgReQXrYrA5BsjT2jfQaCZ0pAbaAt8tyUhK2WCb0QM8dNmaKLUv:rIIVGR/kzYMszs/2jfhCuubaaU,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|md5,uplooad.py|db6b3ebe70bd62581201a92ce372ba51,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha1,uplooad.py|1bb97d995908df8a9d78d8db022fb3f602541db9,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha256,uplooad.py|dbe7c394d0c2e43cc4e545654d73570b90894b4f135b09d9f7928c35114aa171,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|sha512,uplooad.py|11a936b601d3fb9d038fa40436cf0486922b90c1eda4d2d20f6027e71a68772df3a9bfcce0d2aaa0235c8b1e0fe0303e405fc4f10621a0cca2df192edf1f92a8,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,filename|ssdeep,uplooad.py|384:ffw5z9EQNGVGRwgMF9bjDNGkqsypeToy5rssfsQEGawcU9k6Z8Jw+mZJWqea/GWH:ffw5z9xNWGZCbn,Extracted from DXJS.zip; mime: application/octet-stream
+2024-08-19,Payload delivery,email-src-display-name,Lauretta,Source email: from Lauretta@acoustics.asn.au - subject: Paid Invoice

@@ -1,0 +1,46 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-08-23]
+| UUID: e7676ca8-0a4f-40eb-82a1-3f73baa8a25a
+| Date: 2024-08-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-23,Payload installation,filename,DHL_AWB#6078538091.exe,Source: MalwareBazaar
+2024-08-23,Payload installation,md5,5800142e94fc0b2d30f8be14d6ad9b18,Source: MalwareBazaar
+2024-08-23,Payload installation,sha1,85fdb60b389ad41d08ced3cceb0bac463a51f3ad,Source: MalwareBazaar
+2024-08-23,Payload installation,sha256,936e10308af3a73192a828a00cfd27289248d24288e1281758626648ec097b0a,Source: MalwareBazaar
+2024-08-23,Payload installation,filename,DHL9407155789.exe,Source: MalwareBazaar
+2024-08-23,Payload installation,md5,e995ed0c5f64dc6e88685b700caf1e66,Source: MalwareBazaar
+2024-08-23,Payload installation,sha1,9201951748fb091189c71e1071aa837a8d98c501,Source: MalwareBazaar
+2024-08-23,Payload installation,sha256,4d58596777616fe9fbb75aef8c3ef57688cb3bab97d8690c850b57a12a84ba5d,Source: MalwareBazaar
+2024-08-23,Payload installation,filename,Cotización 22_08_2024.exe,Source: MalwareBazaar
+2024-08-23,Payload installation,md5,e1d1c334dc2cd1b86f115bb3fabc2ee5,Source: MalwareBazaar
+2024-08-23,Payload installation,sha1,8078d33f679fcf0a60196f0f8879191a6621116f,Source: MalwareBazaar
+2024-08-23,Payload installation,sha256,893332a41c4d1afdc63113f4b71216211b027332e2bb0c68c11cb5d2bb2f16e5,Source: MalwareBazaar
+2024-08-23,Payload installation,filename,Copy of 01. Bill of Material - 705.exe,Source: MalwareBazaar
+2024-08-23,Payload installation,md5,806f72c900778deccf64f8a4ec8cdbc9,Source: MalwareBazaar
+2024-08-23,Payload installation,sha1,d2bcb914eae4d432183d980ea19bee69f4b2d4fe,Source: MalwareBazaar
+2024-08-23,Payload installation,sha256,642475685812ab7bbc355bb0012722266572aeadc8af18e4a4b0498229deb385,Source: MalwareBazaar
+2024-08-23,Payload installation,filename,CDI-S 10586 - Phytosanitary.exe,Source: MalwareBazaar
+2024-08-23,Payload installation,md5,f49358bea17dd76ffcc93f3feabe65be,Source: MalwareBazaar
+2024-08-23,Payload installation,sha1,90677130af5ddf313fc1e37cb5c42c58ffce20c4,Source: MalwareBazaar
+2024-08-23,Payload installation,sha256,29a3e910879c185aa4b26fc53f282c8b364585dfb1a69b12b5ab82377b60e5a9,Source: MalwareBazaar
+2024-08-23,Payload installation,filename,RFQ# 2200002827.exe,Source: MalwareBazaar
+2024-08-23,Payload installation,md5,fd49fc4394d66af18242356c756a0c76,Source: MalwareBazaar
+2024-08-23,Payload installation,sha1,da7b0043b408aae7039ecaff2e2d46a8c754ef10,Source: MalwareBazaar
+2024-08-23,Payload installation,sha256,80c3f08414c52ad750849be7de33ba13fdf4eed3e5f6b02c6badf6ef1e2813da,Source: MalwareBazaar
+2024-08-23,Payload installation,filename,Shipping Documents PDF.r00,Source: MalwareBazaar
+2024-08-23,Payload installation,md5,4280e84fcd32bebd658f9be36baafc1a,Source: MalwareBazaar
+2024-08-23,Payload installation,sha1,c2f8ab0d17c16c3886fe80d5ee1f2835c3d121a8,Source: MalwareBazaar
+2024-08-23,Payload installation,sha256,a0c196bcd9435d98869a55f36580518e3eb30d87178859952b70eea1b1b16c51,Source: MalwareBazaar
+2024-08-23,Payload installation,filename,PI#220824.pdf.z,Source: MalwareBazaar
+2024-08-23,Payload installation,md5,e0b3f59dd8174d3c5c9010548d9241b9,Source: MalwareBazaar
+2024-08-23,Payload installation,sha1,49995a9eabc5e73427015aa7119ec8416316db2c,Source: MalwareBazaar
+2024-08-23,Payload installation,sha256,d5049bf07dfa3aeb6e8172b0fc4bb033134fc5020a3f10b4a659124a739ac03f,Source: MalwareBazaar
+2024-08-24,Payload installation,filename,scheffer order N. F1676.24.exe,Source: MalwareBazaar
+2024-08-24,Payload installation,md5,19393eb42b1b98ba670d76a15d9036e5,Source: MalwareBazaar
+2024-08-24,Payload installation,sha1,ad3c287d9ddc8674fd9ab44943b5fb6782e37dfa,Source: MalwareBazaar
+2024-08-24,Payload installation,sha256,5f5c4bb7e4fffd43a0b048e325a83318a85cd0f5487d0be34fad70500036de20,Source: MalwareBazaar

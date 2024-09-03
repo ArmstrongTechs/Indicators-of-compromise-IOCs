@@ -1,0 +1,32 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: 40ft container delivery request order(HONGKONG) - From: info@trnbwater.com"" Campaign"
+| UUID: df7bc53a-deb6-4200-8fba-d2e41f48ce31
+| Date: 2024-08-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-14,Payload delivery,email-src,info@trnbwater.com,Source email: from info@trnbwater.com - subject: 40ft container delivery request order(HONGKONG)
+2024-08-14,Payload delivery,email-src-display-name,Clam Diaz,Source email: from info@trnbwater.com - subject: 40ft container delivery request order(HONGKONG)
+2024-08-14,Payload delivery,email-body,"Dear [REDACTED],
+
+please find attached our new order.
+
+This order is urgent and has to arrive here for latest Middle of October in our warehouse. Can you do it?
+
+Please confirm.
+
+Thank you in advance.
+
+Best regards
+
+Zoe",Source email: from info@trnbwater.com - subject: 40ft container delivery request order(HONGKONG)
+2024-08-14,Payload delivery,email-subject,40ft container delivery request order(HONGKONG),Source: from info@trnbwater.com - subject: 40ft container delivery request order(HONGKONG)
+2024-08-14,Payload delivery,filename|sha256,PL2024083_New_Order1_order.html|f0f2bfee5b32317a8705b1512dc0ea18db49bc0bbf1bedbffbef522502d34324,Malspam attachment - source: from info@trnbwater.com - subject: 40ft container delivery request order(HONGKONG) mime: text/html
+2024-08-14,Payload delivery,filename|ssdeep,PL2024083_New_Order1_order.html|192:tjtw25Ehn237a5kvtC4QupkA38NtXKra19pnTIuo:Jtw25Ex2ra58wZg8aa/1Iv,Malspam attachment - source: from info@trnbwater.com - subject: 40ft container delivery request order(HONGKONG) mime: text/html
+2024-08-14,Payload delivery,filename|sha1,PL2024083_New_Order1_order.html|bc9fd1c096dce447f95e6015d33d1d549bb6ee68,Malspam attachment - source: from info@trnbwater.com - subject: 40ft container delivery request order(HONGKONG) mime: text/html
+2024-08-14,Payload delivery,filename|sha512,PL2024083_New_Order1_order.html|41b8af7fda595fafb55e3c0dd92ab1233dff8d5f98ce040553280e2c6bac3fdae0574b5468f9ed3d6447967f448bba30ff184294a59b6b548e869b904482947f,Malspam attachment - source: from info@trnbwater.com - subject: 40ft container delivery request order(HONGKONG) mime: text/html
+2024-08-14,Payload delivery,filename|md5,PL2024083_New_Order1_order.html|aac9c544d66bd20a70764bcb8bc20ad1,Malspam attachment - source: from info@trnbwater.com - subject: 40ft container delivery request order(HONGKONG) mime: text/html
+2024-08-14,Network activity,url,https://snowgreenminerals.com/wp-admin/dan/exl.php,Source: Network activity; POST method from PL2024083_New_Order1_order.html

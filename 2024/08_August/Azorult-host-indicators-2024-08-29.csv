@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Azorult host indicators [2024-08-29]
+| UUID: c4ec8dd1-c327-48c8-a92b-b2b5df346564
+| Date: 2024-08-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-30,Payload installation,filename,adbce.exe,Source: MalwareBazaar
+2024-08-30,Payload installation,md5,b26e63bcd9394df3938ee34463e495bb,Source: MalwareBazaar
+2024-08-30,Payload installation,sha1,405f3f9da7c1800d0b19959a1ec55ebb9abd7b62,Source: MalwareBazaar
+2024-08-30,Payload installation,sha256,c9bff2976429c2bf5aaebb22ff100e6b11f6e60e2bd085463f1fa42a288c6618,Source: MalwareBazaar

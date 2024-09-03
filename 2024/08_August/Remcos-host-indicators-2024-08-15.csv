@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-08-15]
+| UUID: d7c3bb60-13df-4d2e-ae4b-031dbfd342ff
+| Date: 2024-08-15
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-15,Payload installation,filename,INQUIRY#84790-AUGUST24.exe,Source: MalwareBazaar
+2024-08-15,Payload installation,md5,5de436da0671832d1a6fb30494bced17,Source: MalwareBazaar
+2024-08-15,Payload installation,sha1,bae3694ff4ab5c83f9f5c64d9cd1a0c2417cd582,Source: MalwareBazaar
+2024-08-15,Payload installation,sha256,8254d25a2c54050f8621c6ff69869e94b4cba878b5b246c00ac73377b4ae65b1,Source: MalwareBazaar
+2024-08-15,Payload installation,filename,Halkbank_Ekstre_20240812_081403_007266.exe,Source: MalwareBazaar
+2024-08-15,Payload installation,md5,d8aae67ba084ebb898ae31babee967b5,Source: MalwareBazaar
+2024-08-15,Payload installation,sha1,6fff9d4cd78a36b477f40f04900bef4fd10dbbde,Source: MalwareBazaar
+2024-08-15,Payload installation,sha256,e69cbec2c6a28dca27558736ea04f1b998ed42c2e70cf2934b12330df04bf3be,Source: MalwareBazaar
+2024-08-15,Payload installation,filename,PO-08142024.exe,Source: MalwareBazaar
+2024-08-15,Payload installation,md5,6e9c47a4a54d4f31dc3be616a5207996,Source: MalwareBazaar
+2024-08-15,Payload installation,sha1,27172fbd827c92c449062f365c45809b25efb7bf,Source: MalwareBazaar
+2024-08-15,Payload installation,sha256,7aedd5e4277e592d13cb250945dac96a7b4877de807904f7caa9d8ffb14963a5,Source: MalwareBazaar
+2024-08-15,Payload installation,filename,PaymentAdvice_SWIFT_AUG_13_USD37700.com,Source: MalwareBazaar
+2024-08-15,Payload installation,md5,ebbcc2a9a8d868868ee8c860005b9794,Source: MalwareBazaar
+2024-08-15,Payload installation,sha1,6264f83aca6e5523779eb03497fda2076f4a5b53,Source: MalwareBazaar
+2024-08-15,Payload installation,sha256,a09899438c089467b58320df779be4ac4b546c24f856f2e12d5be537adaa487d,Source: MalwareBazaar

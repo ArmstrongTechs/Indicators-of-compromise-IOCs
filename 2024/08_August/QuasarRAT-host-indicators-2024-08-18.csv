@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-08-18]
+| UUID: 2d0d0c92-e8f4-483b-ac52-7e5bcf93ef9d
+| Date: 2024-08-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-18,Payload installation,filename,Bootstrapper.exe,Source: MalwareBazaar
+2024-08-18,Payload installation,md5,53327dca23173e9e9bae9d780786ba78,Source: MalwareBazaar
+2024-08-18,Payload installation,sha1,1108be5863af8152dce9d7534cd217f44bfa12d3,Source: MalwareBazaar
+2024-08-18,Payload installation,sha256,93fd2544b315e84b2fd26cca70b84cbdcff3e02cc01b83a7abac2f99d56b19d0,Source: MalwareBazaar

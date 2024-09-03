@@ -1,0 +1,48 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook as .z email attachment
+| UUID: e31cd27b-5e78-4dbc-a342-1ee992a4a984
+| Date: 2024-08-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-27,Network activity,domain,www.angelenterprise.biz,
+2024-08-27,Network activity,domain,www.complexity.pub,
+2024-08-27,Network activity,domain,www.dyme.tech,
+2024-08-27,Network activity,domain,www.easyanalytics.site,
+2024-08-27,Network activity,domain,www.fvti.cloud,
+2024-08-27,Network activity,domain,www.jyourwd.store,
+2024-08-27,Network activity,domain,www.kryto.top,
+2024-08-27,Network activity,domain,www.lilibetmed.online,
+2024-08-27,Network activity,domain,www.masteriocp.online,
+2024-08-27,Network activity,domain,www.mbwd.store,
+2024-08-27,Network activity,domain,www.mobilbalap36.buzz,
+2024-08-27,Network activity,domain,www.monos.shop,
+2024-08-27,Network activity,domain,www.nadorapartments.online,
+2024-08-27,Network activity,domain,www.nevsehir-nakliyat.xyz,
+2024-08-27,Network activity,domain,www.soliro.life,
+2024-08-27,Network activity,domain,www.sorriragora.online,
+2024-08-27,Network activity,domain,www.terrearcenciel.online,
+2024-08-27,Network activity,domain,www.theaji.shop,
+2024-08-27,Network activity,domain,www.windexpert.org,
+2024-08-27,Network activity,domain,www.www00437.email,
+2024-08-27,Payload delivery,malware-sample,Payment proof(PAID).PDF.z|366c236b90cb44671ff2ae4005cc4c4a,
+2024-08-27,Payload delivery,filename,Payment proof(PAID).PDF.z,
+2024-08-27,Payload delivery,md5,366c236b90cb44671ff2ae4005cc4c4a,
+2024-08-27,Payload delivery,sha1,6b32302ab2093000163d02bb89bb12db739a02f0,
+2024-08-27,Payload delivery,sha256,247f92f58bf9eea10954cfd17ae102165c2c5758159183927167be139d8f7c0c,
+2024-08-27,Other,size-in-bytes,435915,
+2024-08-27,Payload delivery,malware-sample,Payment proof(PAID).exe|a0e1030b0002d26a5aa7770b076a86ef,
+2024-08-27,Payload delivery,filename,Payment proof(PAID).exe,
+2024-08-27,Payload delivery,md5,a0e1030b0002d26a5aa7770b076a86ef,
+2024-08-27,Payload delivery,sha1,2b1d46e58eacf14f3f63fc64e1a9d950b47e5d45,
+2024-08-27,Payload delivery,sha256,e99dfc08c5ef50c923aa461264723b3c1041f1cfe76373ed42466e9d23f37f3f,
+2024-08-27,Other,size-in-bytes,670416,
+2024-08-27,Payload delivery,malware-sample,LIlrOCKSKJSYW133.bin|e47d100447a4796215f0549c5cab96f7,
+2024-08-27,Payload delivery,filename,LIlrOCKSKJSYW133.bin,
+2024-08-27,Payload delivery,md5,e47d100447a4796215f0549c5cab96f7,
+2024-08-27,Payload delivery,sha1,853930e06b81bbcee4e0b0df4356a9b1fc9c5603,
+2024-08-27,Payload delivery,sha256,08f32ffe9240bf231303249a1b6627a302a146a72505fcf05c7f9cc6480af605,
+2024-08-27,Other,size-in-bytes,288320,

@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Zloader host indicators [2024-08-20]
+| UUID: 7e6da069-eb05-46f9-bb24-c8e9ef4369c1
+| Date: 2024-08-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-20,Payload installation,filename,ExeFile (393).exe,Source: MalwareBazaar
+2024-08-20,Payload installation,md5,09874cbb134851ff3b971960916ce5bb,Source: MalwareBazaar
+2024-08-20,Payload installation,sha1,42d32698f9513024f024eb6d1efcd9532ac1f622,Source: MalwareBazaar
+2024-08-20,Payload installation,sha256,74c8670a8285e6783e6a5c44b43b7399078c36bd80a386f00f810da0e6a45533,Source: MalwareBazaar
+2024-08-21,Payload installation,filename,74c8670a8285e6783e6a5c44b43b7399078c36bd80a386f00f810da0e6a45533_dump.exe,Source: MalwareBazaar
+2024-08-21,Payload installation,md5,4414a7af27f8a26b48af7f3dd4259b40,Source: MalwareBazaar
+2024-08-21,Payload installation,sha1,67f733252b3973d6b33594f6e9f6e107597ae23d,Source: MalwareBazaar
+2024-08-21,Payload installation,sha256,97179aa99e2c4d95d226268057774f5431b0763497b7000fe683c91a70a61071,Source: MalwareBazaar

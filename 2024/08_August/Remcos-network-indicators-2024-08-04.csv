@@ -1,0 +1,15 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos network indicators [2024-08-04]
+| UUID: bf7a245e-2261-421d-b934-b925446fcc3b
+| Date: 2024-08-04
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-04,Network activity,url,http://185.56.80.26/a.exe,Source: urlhaus
+2024-08-05,Network activity,url,http://tradeit.gg.checkthetraffic.com/qQzKlvfTXSenjmZG142.bin,Source: urlhaus
+2024-08-05,Network activity,url,http://www.checkthetraffic.com/qQzKlvfTXSenjmZG142.bin,Source: urlhaus
+2024-08-05,Network activity,url,http://www.checkthetraffic.com/SzwINtsEperzovTABQ55.bin,Source: urlhaus
+2024-08-05,Network activity,url,http://tradeit.gg.checkthetraffic.com/SzwINtsEperzovTABQ55.bin,Source: urlhaus

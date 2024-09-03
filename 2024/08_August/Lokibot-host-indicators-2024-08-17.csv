@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-08-17]
+| UUID: 764bf1e0-1633-432d-a0cb-7ef643883a14
+| Date: 2024-08-17
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-17,Payload installation,filename,Estado de cuenta .xls,Source: MalwareBazaar
+2024-08-17,Payload installation,md5,f02a4a7ed56a2150fb68a369ffe1f53b,Source: MalwareBazaar
+2024-08-17,Payload installation,sha1,86a9da461c8764eed23c957690a7ebe1ba2ea74f,Source: MalwareBazaar
+2024-08-17,Payload installation,sha256,2983de32f64ddd243cfef3b4efa51de6c3a9565de211d51551fdb1d7e6a81aba,Source: MalwareBazaar
+2024-08-17,Payload installation,filename,FedEx Invoice - 7848749048575.exe,Source: MalwareBazaar
+2024-08-17,Payload installation,md5,5953963046133560cdd678479c39cad1,Source: MalwareBazaar
+2024-08-17,Payload installation,sha1,0dee9eb9b2f30f6eb00104fd45b06bbb02751c0e,Source: MalwareBazaar
+2024-08-17,Payload installation,sha256,d9e1a2fcf6f37d422bd254c1231f2fc785bea5208aa8e71f8720249d3b369823,Source: MalwareBazaar
+2024-08-18,Payload installation,filename,d9e1a2fcf6f37d422bd254c1231f2fc785bea5208aa8e71f8720249d3b369823_payload.exe,Source: MalwareBazaar
+2024-08-18,Payload installation,md5,f8ee8e7439e2d2d3b349bef5a1c8d336,Source: MalwareBazaar
+2024-08-18,Payload installation,sha1,8ed998b87607879fe459673dfc35fab235caf70f,Source: MalwareBazaar
+2024-08-18,Payload installation,sha256,6914cfc39719a58e5d2757e6413590189f8ccd7e6183f45f794931be7638802d,Source: MalwareBazaar

@@ -1,0 +1,20 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00997 [Fraude] [Phishing]
+| UUID: 5bcd6e76-0624-4c0c-9d6f-c5c310389ad1
+| Date: 2024-08-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-24,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+Se trata de una página web falsa que se hace pasar por Zimbra, usando sin autorización el nombre de este producto en emails de phishing, los que redirigen a un sitio malicioso para robar datos de sus usuarios.Lo anterior constituye una falsificación de marca que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2024-08-24,Network activity,ip-src,151.101.66.188,IP sitio falso
+2024-08-24,Network activity,ip-src|port,187.174.208.148|34962,IP SMTP
+2024-08-24,Payload delivery,email-subject,(#437382118) Actualizar cuenta,Asunto Correo
+2024-08-24,Payload delivery,email-src,aiglesias@fiscaliaedomex.gob.mx,Correo de salida
+2024-08-24,Payload delivery,url,https://zim-ffd38f.webflow.io/,URL sitio falso
+2024-08-24,External analysis,attachment,2024-08-23_15h37_10.png,
+2024-08-24,External analysis,attachment,2024-08-23_15h37_40.png,

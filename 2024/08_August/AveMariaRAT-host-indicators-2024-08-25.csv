@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AveMariaRAT host indicators [2024-08-25]
+| UUID: f77f44bf-1e49-4ecc-a18f-2a1258d050e8
+| Date: 2024-08-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-25,Payload installation,filename,TbiG.exe,Source: MalwareBazaar
+2024-08-25,Payload installation,md5,63316fbe9cf350587c0ba8e107b72aeb,Source: MalwareBazaar
+2024-08-25,Payload installation,sha1,face0bdd6337c3f224dfd5a5088fcc821fd4f3eb,Source: MalwareBazaar
+2024-08-25,Payload installation,sha256,7ebbd7733c41e5d8d4071ac4bccca6f76577d8dda2ef2a6723b90414f444454a,Source: MalwareBazaar
+2024-08-25,Payload installation,filename,5e4fa07bf0f249c715efac189ccd912b2c47f3117db72d2a96f9cc87080a910e,Source: MalwareBazaar
+2024-08-25,Payload installation,md5,5ff5712069f1f56f5f7ce88bca97ba2e,Source: MalwareBazaar
+2024-08-25,Payload installation,sha1,2e4fcebc6f2cf1f4d7662f84aaf73ff189629cdb,Source: MalwareBazaar
+2024-08-25,Payload installation,sha256,5e4fa07bf0f249c715efac189ccd912b2c47f3117db72d2a96f9cc87080a910e,Source: MalwareBazaar

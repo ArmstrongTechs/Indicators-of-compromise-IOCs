@@ -1,0 +1,84 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: The declarations in the attachment completed and signed - From: account@logistirior.pro"" Campaign"
+| UUID: f45a0f11-7de6-4c0e-8b3c-058f999723a6
+| Date: 2024-08-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-27,Payload delivery,email-src,account@logistirior.pro,Source email: from account@logistirior.pro - subject: The declarations in the attachment completed and signed
+2024-08-27,Payload delivery,email-src-display-name,Adrian Cristea,Source email: from account@logistirior.pro - subject: The declarations in the attachment completed and signed
+2024-08-27,Payload delivery,email-body,"Hello,
+
+- The declarations in the attachment completed and signed 
+
+- Certificates of conformity 
+
+- The commercial invoice issued by the company with the transport value
+highlighted separately but not with zero value + their translation. 
+
+Thank you, 
+
+Sincerely, 
+
+--
+ADRIAN CRISTEA 
+
+FIELD SALES EXECUTIVE 
+
+DHL INTERNATIONAL ROMANIA 
+
+Calea Floreasca 169 A, 
+
+Bucharest,  014459 
+
+Romania
+Phone: +40 21 2221777 
+
+Mobile: +40 0 743305024",Source email: from account@logistirior.pro - subject: The declarations in the attachment completed and signed
+2024-08-27,Payload delivery,email-subject,The declarations in the attachment completed and signed,Source: from account@logistirior.pro - subject: The declarations in the attachment completed and signed
+2024-08-27,Payload delivery,filename|sha256,M12_20240821_0.xls|fcd70e52a1999d722bf450c56645b083bcf71e104b7610f3322a3de14c70db72,Malspam attachment - source: from account@logistirior.pro - subject: The declarations in the attachment completed and signed mime: application/vnd.ms-excel
+2024-08-27,Payload delivery,filename|ssdeep,M12_20240821_0.xls|12288:L39tAACiTEGrVm5TF/Rc+yCZbqbZ+RWyTW/kmGnPi0py71iAI8tyGhN/:L4ATxrk5TF/S+yCZbqbZMWyTWsN1yNIu,Malspam attachment - source: from account@logistirior.pro - subject: The declarations in the attachment completed and signed mime: application/vnd.ms-excel
+2024-08-27,Payload delivery,filename|sha1,M12_20240821_0.xls|feaccec633556123633a1cb180f41400958c34ab,Malspam attachment - source: from account@logistirior.pro - subject: The declarations in the attachment completed and signed mime: application/vnd.ms-excel
+2024-08-27,Payload delivery,filename|sha512,M12_20240821_0.xls|bf22b088091d12c93deae0ae42aa56484d8b89f5ea849f470ea48bb382bd304b166edb187173c5fd5ca4e5475383ed6aaee195413d6de06166021da9c0f3bf85,Malspam attachment - source: from account@logistirior.pro - subject: The declarations in the attachment completed and signed mime: application/vnd.ms-excel
+2024-08-27,Payload delivery,filename|md5,M12_20240821_0.xls|94a6ad154ce2a06fdd87848c11eee24f,Malspam attachment - source: from account@logistirior.pro - subject: The declarations in the attachment completed and signed mime: application/vnd.ms-excel
+2024-08-27,Network activity,ip-dst|port,45.90.89.98|8243,Source: Network activity from remcos.exe
+2024-08-27,Payload delivery,filename|md5,REWS.txt|71c331c44cccc0d0b28f81fa5aacd581,Extracted from http://15.235.47.55/4509/REWS.txt; mime: text/plain
+2024-08-27,Payload delivery,filename|sha1,REWS.txt|07fd32e2914d2ded916441d12f7bbb1788e891ed,Extracted from http://15.235.47.55/4509/REWS.txt; mime: text/plain
+2024-08-27,Payload delivery,filename|sha256,REWS.txt|fe5c472375696bf668b3b528e9effd5f9dfb1a2108bcc6e243a091f1afc5c794,Extracted from http://15.235.47.55/4509/REWS.txt; mime: text/plain
+2024-08-27,Payload delivery,filename|sha512,REWS.txt|56018cfc48b02ca0cf129eb5a02ec8fc2f0828f7fb2e6fd3b5791c218cc65c5f4fc1efa3cbef24b5d594373bf234343d552d2fc75f30f8f3c414c7f5171b1a3d,Extracted from http://15.235.47.55/4509/REWS.txt; mime: text/plain
+2024-08-27,Payload delivery,filename|ssdeep,REWS.txt|12288:WYkOTDFNXjOsggjpM3IzJquTTYuDu6pELjN/nwVNNv:3/VNlVjpRJ7TTYuDfcjN/wD5,Extracted from http://15.235.47.55/4509/REWS.txt; mime: text/plain
+2024-08-27,Payload delivery,filename|imphash,dnlib.dll|dae02f32a21e03ce65412f6e56942daa,Extracted from vbs.jpg; mime: application/x-dosexec
+2024-08-27,Payload delivery,filename|md5,dnlib.dll|d783b01173fc303ec28a741b88fe1a3d,Extracted from vbs.jpg; mime: application/x-dosexec
+2024-08-27,Payload delivery,filename|sha1,dnlib.dll|8651f84aff7278b82746f57bdb88712e11c1ef66,Extracted from vbs.jpg; mime: application/x-dosexec
+2024-08-27,Payload delivery,filename|sha256,dnlib.dll|ea3b07a2356a7bfb92144f621ba551677a138c31d684072d69a4d37c1a378bb3,Extracted from vbs.jpg; mime: application/x-dosexec
+2024-08-27,Payload delivery,filename|sha512,dnlib.dll|ed8afde25389348acc6694a2b0f29b392d9d55b89be9c462cb22b2235b4f11feda65797883be3f64bb12b53e2a5320a6c5a9591dac6a9ba326ae9964c8f110d0,Extracted from vbs.jpg; mime: application/x-dosexec
+2024-08-27,Payload delivery,filename|ssdeep,dnlib.dll|12288:h4FP/ea1J+Br7J7cgldmMKrG6H1wtW/PYtvGj9OPI85TG+r1v7fmYKJ3XRZ:t/jcgyDbVwtWnYIj9z+r1v7fPMnRZ,Extracted from vbs.jpg; mime: application/x-dosexec
+2024-08-27,Network activity,url,http://15.235.47.55/4509/REWS.txt,Source: Network activity from newbuttersmoothreversethings.tiff
+2024-08-27,Network activity,url,http://15.235.47.55/4509/gbv/thisisacutebuttersmoothchocolatemixebutterbunwhichreallysmoothandaamazingfeelgivenformetogetmebacktwith_______sheisbuttersmoothgirl.doc,Source: Network activity; Redirection from https://n9x.co/gpcwJZ
+2024-08-27,Network activity,url,http://15.235.47.55/4509/newbuttersmoothreversethings.tIF,Source: Network activity from thisisacutebuttersmoothchocolatemixebutterbunwhichreallysmoothandaamazingfeelgivenformetogetmebacktwith_______sheisbuttersmoothgirl.doc
+2024-08-27,Network activity,url,https://ia803104.us.archive.org/27/items/vbs_20240726_20240726/vbs.jpg,Source: Network activity from newbuttersmoothreversethings.tiff
+2024-08-27,Network activity,url,https://n9x.co/gpcwJZ,Source: Network activity from M12_20240821_0.xls
+2024-08-27,Payload delivery,filename|md5,newbuttersmoothreversethings.tiff|93857bd5c5e192f479e7051139df21fa,Downloaded from http://15.235.47.55/4509/newbuttersmoothreversethings.tIF; mime: text/plain
+2024-08-27,Payload delivery,filename|sha1,newbuttersmoothreversethings.tiff|7747a35042e6c7eff5919def4596a13d072e0075,Downloaded from http://15.235.47.55/4509/newbuttersmoothreversethings.tIF; mime: text/plain
+2024-08-27,Payload delivery,filename|sha256,newbuttersmoothreversethings.tiff|326db3240e33e0b88cfdb88209e0a13ae340e98d81a2d7caabca5bbb8ddba1ca,Downloaded from http://15.235.47.55/4509/newbuttersmoothreversethings.tIF; mime: text/plain
+2024-08-27,Payload delivery,filename|sha512,newbuttersmoothreversethings.tiff|111f2ccc0a94f1ff8ec3c6b73f160d080bc17cc4aac975ed7d8c883a73c7bccaef93bece25cb1f7583104f900eb18ecd8f6e4bed9932b69fe1746b9d6983ded5,Downloaded from http://15.235.47.55/4509/newbuttersmoothreversethings.tIF; mime: text/plain
+2024-08-27,Payload delivery,filename|ssdeep,newbuttersmoothreversethings.tiff|3072:JxJKdhHVR3mxTsZTgt5p9GwjdDPCLZ+zDpMlrtpk8tiG:JxJ8VxmFXzDelxpttiG,Downloaded from http://15.235.47.55/4509/newbuttersmoothreversethings.tIF; mime: text/plain
+2024-08-27,Payload delivery,filename|imphash,remcos.exe|1389569a3a39186f3eb453b501cfe688,Extracted from REWS.txt; mime: application/x-dosexec
+2024-08-27,Payload delivery,filename|md5,remcos.exe|fbfed304aa0320505a322b92eb198d68,Extracted from REWS.txt; mime: application/x-dosexec
+2024-08-27,Payload delivery,filename|sha1,remcos.exe|033eb7a422a4d4d5e61d537a4b8225b335ec153c,Extracted from REWS.txt; mime: application/x-dosexec
+2024-08-27,Payload delivery,filename|sha256,remcos.exe|e9e4c938b340a17f41010be30d4db8ef9c0bceb7743b74b3a348b0f631647cda,Extracted from REWS.txt; mime: application/x-dosexec
+2024-08-27,Payload delivery,filename|sha512,remcos.exe|d4ebaa88fdac70c8dfe486ffd6796848f7f2e9ca89baf5131dde3e9e58b85f7d9eb96da33c00f7500903bc065e0bfc87eb34823f7428c6989424c82c14520a41,Extracted from REWS.txt; mime: application/x-dosexec
+2024-08-27,Payload delivery,filename|ssdeep,remcos.exe|12288:wTlrYw1RUh3NFn+N5WfIQIjbs/ZBOoT4:ApRUh3NDfIQIjeZ,Extracted from REWS.txt; mime: application/x-dosexec
+2024-08-27,Payload delivery,filename|md5,thisisacutebuttersmoothchocolatemixebutterbunwhichreallysmoothandaamazingfeelgivenformetogetmebacktwith_______sheisbuttersmoothgirl.doc|972a59032c2fff4694784d259a161589,Downloaded from http://15.235.47.55/4509/gbv/thisisacutebuttersmoothchocolatemixebutterbunwhichreallysmoothandaamazingfeelgivenformetogetmebacktwith_______sheisbuttersmoothgirl.doc; mime: text/rtf
+2024-08-27,Payload delivery,filename|sha1,thisisacutebuttersmoothchocolatemixebutterbunwhichreallysmoothandaamazingfeelgivenformetogetmebacktwith_______sheisbuttersmoothgirl.doc|68ac01e11ca601f28558c653044a52e767d5038f,Downloaded from http://15.235.47.55/4509/gbv/thisisacutebuttersmoothchocolatemixebutterbunwhichreallysmoothandaamazingfeelgivenformetogetmebacktwith_______sheisbuttersmoothgirl.doc; mime: text/rtf
+2024-08-27,Payload delivery,filename|sha256,thisisacutebuttersmoothchocolatemixebutterbunwhichreallysmoothandaamazingfeelgivenformetogetmebacktwith_______sheisbuttersmoothgirl.doc|8050bf9f3e5bbe4f9e459f3b6a891bacb69c38a97de239444f878ebcb2e27689,Downloaded from http://15.235.47.55/4509/gbv/thisisacutebuttersmoothchocolatemixebutterbunwhichreallysmoothandaamazingfeelgivenformetogetmebacktwith_______sheisbuttersmoothgirl.doc; mime: text/rtf
+2024-08-27,Payload delivery,filename|sha512,thisisacutebuttersmoothchocolatemixebutterbunwhichreallysmoothandaamazingfeelgivenformetogetmebacktwith_______sheisbuttersmoothgirl.doc|d481a601df8cc0c3b6bb588ceaf3c38b46657a76ba47db56c51d2893d22502f2abbbd93fa764552342d93b18d9ffa9f23fb4be78012635758307cf4215ea4417,Downloaded from http://15.235.47.55/4509/gbv/thisisacutebuttersmoothchocolatemixebutterbunwhichreallysmoothandaamazingfeelgivenformetogetmebacktwith_______sheisbuttersmoothgirl.doc; mime: text/rtf
+2024-08-27,Payload delivery,filename|ssdeep,thisisacutebuttersmoothchocolatemixebutterbunwhichreallysmoothandaamazingfeelgivenformetogetmebacktwith_______sheisbuttersmoothgirl.doc|384:ymORHcWYXZ4mpGMof2x6pmf1iHDwo3LN2BQqg61X5RAXGF:+RHcj6mpYRwo52BNfLuXo,Downloaded from http://15.235.47.55/4509/gbv/thisisacutebuttersmoothchocolatemixebutterbunwhichreallysmoothandaamazingfeelgivenformetogetmebacktwith_______sheisbuttersmoothgirl.doc; mime: text/rtf
+2024-08-27,Payload delivery,filename|md5,vbs.jpg|ea9833e16cdad80a6d93c76f21b7923d,Downloaded from https://ia803104.us.archive.org/27/items/vbs_20240726_20240726/vbs.jpg; mime: image/jpeg
+2024-08-27,Payload delivery,filename|sha1,vbs.jpg|36d45aa76ef6985319cb006d511ccb8de3d3d3bd,Downloaded from https://ia803104.us.archive.org/27/items/vbs_20240726_20240726/vbs.jpg; mime: image/jpeg
+2024-08-27,Payload delivery,filename|sha256,vbs.jpg|572f15cfc87b50c3f32e63f08e32bab2fea7663b1892d84d2c53025d89e6d158,Downloaded from https://ia803104.us.archive.org/27/items/vbs_20240726_20240726/vbs.jpg; mime: image/jpeg
+2024-08-27,Payload delivery,filename|sha512,vbs.jpg|24a5b44f2866b52fa9bee456afffb920cbaeb851a0602001df5316e863ac29e3caea6a335e2b5ac07aaaece98aa10dde814e3170c602b7ecf671f0d90b7a3963,Downloaded from https://ia803104.us.archive.org/27/items/vbs_20240726_20240726/vbs.jpg; mime: image/jpeg
+2024-08-27,Payload delivery,filename|ssdeep,vbs.jpg|24576:hTYZHfhgDs30InKh/z0ZcgymMFCg42xAC5uWvaOXNITMbBEsJM50GGWy:uZHfhgkK3wbO7,Downloaded from https://ia803104.us.archive.org/27/items/vbs_20240726_20240726/vbs.jpg; mime: image/jpeg

@@ -1,0 +1,34 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: MalSpam cases - August/2024
+| UUID: f387f74a-06b6-4b18-82fa-1e950b0403cb
+| Date: 2024-08-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-23,Network activity,url,https://cbvchurch.org/css/res444.php?,Fake voicemail email
+2024-08-23,Network activity,url,https://francinethepug.com/res444.php?,Fake voicemail email
+2024-08-23,Network activity,url,http://xss.report/c/mookaah,Blind XSS material
+2024-08-23,Antivirus detection,text,1,
+2024-08-23,External analysis,link,https://www.virustotal.com/gui/url/aHR0cDovLzZ3dW8xMWVhOXB1Zms3YjgxY2J6ZWwzanc1aWlqczZ3dW8xMWVhOXB1Zms3YjgxY2J6ZWwzanc1aWlqcy5zMy13ZWJzaXRlLXVzLWVhc3QtMS5hbWF6b25hd3MuY29tLw,
+2024-08-23,Network activity,url,http://6wuo11ea9pufk7b81cbzel3jw5iijs6wuo11ea9pufk7b81cbzel3jw5iijs.s3-website-us-east-1.amazonaws.com/,
+2024-08-23,Other,text,Exchange-Secure access,
+2024-08-23,Other,text,https://aaqkaguwyjfhzme0ltu0ogqtngm.web.app/,
+2024-08-23,Other,datetime,2024-08-22T21:06:40.000000+0200,
+2024-08-23,Other,text,"{'metadatas': {'viewport': ['width=device-width, initial-scale=1.0']}, 'targeted': 'No target brand Found', 'links': 'No links in url', 'redirection_chain': ['http://6wuo11ea9pufk7b81cbzel3jw5iijs6wuo11ea9pufk7b81cbzel3jw5iijs.s3-website-us-east-1.amazonaws.com/'], 'trackers': 'No tracker Found'}",
+2024-08-23,Antivirus detection,text,15,
+2024-08-23,External analysis,link,https://www.virustotal.com/gui/url/aHR0cHM6Ly93d3ctY21wcm8tYXV0aC5jb20,
+2024-08-23,Network activity,url,https://www-cmpro-auth.com,
+2024-08-23,Other,text,Attention Required! | Cloudflare,
+2024-08-23,Other,text,https://www-cmpro-auth.com/,
+2024-08-23,Other,datetime,2024-08-01T12:47:02.000000+0200,
+2024-08-23,Other,text,"{'metadatas': {'robots': ['noindex, nofollow'], 'viewport': ['width=device-width,initial-scale=1']}, 'targeted': 'No target brand Found', 'links': ['https://www.cloudflare.com/5xx-error-landing'], 'redirection_chain': ['https://www-cmpro-auth.com/'], 'trackers': 'No tracker Found'}",
+2024-08-23,Antivirus detection,text,0,
+2024-08-23,External analysis,link,https://www.virustotal.com/gui/url/aHR0cHM6Ly91cGRhdGUtY21wcm9mZXNzaW9uZWwuY29tLw,
+2024-08-23,Network activity,url,https://update-cmprofessionel.com/,
+2024-08-23,Other,text,Attention Required! | Cloudflare,
+2024-08-23,Other,text,https://update-cmprofessionel.com/,
+2024-08-23,Other,datetime,2024-08-23T12:19:57.000000+0200,
+2024-08-23,Other,text,"{'metadatas': {'robots': ['noindex, nofollow'], 'viewport': ['width=device-width,initial-scale=1']}, 'targeted': 'No target brand Found', 'links': ['https://www.cloudflare.com/5xx-error-landing'], 'redirection_chain': ['https://update-cmprofessionel.com/'], 'trackers': 'No tracker Found'}",

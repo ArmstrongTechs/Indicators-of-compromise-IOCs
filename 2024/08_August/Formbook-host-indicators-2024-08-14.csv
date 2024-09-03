@@ -1,0 +1,66 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-08-14]
+| UUID: ff812075-bf2c-4ce2-9a6c-308a032a5a58
+| Date: 2024-08-15
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-14,Payload installation,filename,CV Forner Eugenia.zip,Source: MalwareBazaar
+2024-08-14,Payload installation,md5,83da7c614b726901cb43f6339efa6470,Source: MalwareBazaar
+2024-08-14,Payload installation,sha1,056a34a25e819d71e681010b532a8b76a1248225,Source: MalwareBazaar
+2024-08-14,Payload installation,sha256,3ca510d27e60658f881bffcd41ec0a95565aafcc44242b35c314d03386747e3c,Source: MalwareBazaar
+2024-08-14,Payload installation,filename,CV Forner Eugenia.exe,Source: MalwareBazaar
+2024-08-14,Payload installation,md5,776e40ee059f29f59274c8f63b367afb,Source: MalwareBazaar
+2024-08-14,Payload installation,sha1,2a4c3dd216d86e9ba47ce1ddbc8373a7324ce0ed,Source: MalwareBazaar
+2024-08-14,Payload installation,sha256,05ae71f8d500864c8f34318787c707f2d6d5e6ef963502d7be952cc685dde996,Source: MalwareBazaar
+2024-08-14,Payload installation,filename,Purchase Order.zip,Source: MalwareBazaar
+2024-08-14,Payload installation,md5,8d83635d593a4cf8864a13fccd30b1df,Source: MalwareBazaar
+2024-08-14,Payload installation,sha1,040f06a747c50713ece638e0e8d4d4f0a722fd12,Source: MalwareBazaar
+2024-08-14,Payload installation,sha256,6529155f19914e180d4a69b8a77aa56b33968884ae3431fb7579bb427710b939,Source: MalwareBazaar
+2024-08-14,Payload installation,filename,Purchase Order 20247002.zip,Source: MalwareBazaar
+2024-08-14,Payload installation,md5,4b8277e2d3036ee23a76688ef3b62802,Source: MalwareBazaar
+2024-08-14,Payload installation,sha1,0dce3b4141a94cb3e8d60a688e79b66d7157d0a6,Source: MalwareBazaar
+2024-08-14,Payload installation,sha256,851f9a99455a7684dbf0674cbce5ee50ce5812ca2ec6a40608de1fbd04d009ce,Source: MalwareBazaar
+2024-08-14,Payload installation,filename,HazChem NEW ORDERFOB$ _Bangkok_ PORT.rar,Source: MalwareBazaar
+2024-08-14,Payload installation,md5,c540017b99839c0b708f9afd5c463ed1,Source: MalwareBazaar
+2024-08-14,Payload installation,sha1,d11a2606b64171bcd963f7d708a2508be8fcff24,Source: MalwareBazaar
+2024-08-14,Payload installation,sha256,aada9b7322a4f33171f1ef4382a897f56836cf59f2c2f9ad9659a520c4420614,Source: MalwareBazaar
+2024-08-14,Payload installation,filename,SOA 23.24.zip,Source: MalwareBazaar
+2024-08-14,Payload installation,md5,6e5fbb77e494b8b07f46935171d63e98,Source: MalwareBazaar
+2024-08-14,Payload installation,sha1,e0767ec6896f35eee829d50f0b5d68eb09663c09,Source: MalwareBazaar
+2024-08-14,Payload installation,sha256,c04a51a1b283573969893bf5bc3aca5412122420d13fd02d4c6488075d3f6374,Source: MalwareBazaar
+2024-08-14,Payload installation,filename,payment scancopy202008.exe,Source: MalwareBazaar
+2024-08-14,Payload installation,md5,c8f4c73eafb6b1f6d3dbaa9b30431386,Source: MalwareBazaar
+2024-08-14,Payload installation,sha1,e02b96221f71dd9800cf2468cb6868d75e1e4cd5,Source: MalwareBazaar
+2024-08-14,Payload installation,sha256,5016169696173409d745b16bac6e191128ccc3dddc4411b94474d750cc272d7b,Source: MalwareBazaar
+2024-08-14,Payload installation,filename,payment scancopy202008.pdf.z,Source: MalwareBazaar
+2024-08-14,Payload installation,md5,a901ce4c98396b2fc43b7bdac4de80fb,Source: MalwareBazaar
+2024-08-14,Payload installation,sha1,359ab95af4c85a34ea3063b416ad6fd7959ed784,Source: MalwareBazaar
+2024-08-14,Payload installation,sha256,46775b662a4163dc03c8a251255f534f42a06f17bfb02bea1cf287e0fccb0928,Source: MalwareBazaar
+2024-08-14,Payload installation,filename,Copia de pago bancario.exe,Source: MalwareBazaar
+2024-08-14,Payload installation,md5,eaf7d1ed229a770a4ee4acb0f502b4bb,Source: MalwareBazaar
+2024-08-14,Payload installation,sha1,cb5328da24d6c4958fb0c37f00747376cf38cb1b,Source: MalwareBazaar
+2024-08-14,Payload installation,sha256,8a2b18e511eb04d2f2b6aaefe5616ecdf27645a6724f3e0bd57bc85acab7addc,Source: MalwareBazaar
+2024-08-14,Payload installation,filename,MT103 swift copy.exe,Source: MalwareBazaar
+2024-08-14,Payload installation,md5,5bd6fc793026df7e9afeea69d8ad2d06,Source: MalwareBazaar
+2024-08-14,Payload installation,sha1,15d698923e1e9cc1269fcd2677b8d4cc976b29ba,Source: MalwareBazaar
+2024-08-14,Payload installation,sha256,3a8cd4cbcabcc59b3b845e3db862425d9a2dbec034ff2ccd87e9ad219357488f,Source: MalwareBazaar
+2024-08-14,Payload installation,filename,MT103 swift copy.pdf.z,Source: MalwareBazaar
+2024-08-14,Payload installation,md5,03557669e42395a4c6441765944d85bb,Source: MalwareBazaar
+2024-08-14,Payload installation,sha1,a4673edde2093c58b21312f02b581bc6aad1d8a3,Source: MalwareBazaar
+2024-08-14,Payload installation,sha256,ebe83c00c0a4fcd1ce9f79c9d414f92d1674ccd943f2a200ba846f00ad154554,Source: MalwareBazaar
+2024-08-14,Payload installation,filename,Contract Documents.zip,Source: MalwareBazaar
+2024-08-14,Payload installation,md5,d19e399e495e483d204aeddbad16f464,Source: MalwareBazaar
+2024-08-14,Payload installation,sha1,9b0a67df31e6029e150a35514273a7896ff44d0e,Source: MalwareBazaar
+2024-08-14,Payload installation,sha256,cb3a7ec8195467c5ad88623a68614cbc054088e61836b081e8ae3e929718ecb0,Source: MalwareBazaar
+2024-08-15,Payload installation,filename,z42ordemdecomprapdf.exe,Source: MalwareBazaar
+2024-08-15,Payload installation,md5,15c4948711c3ac6250ff98d0e5272b27,Source: MalwareBazaar
+2024-08-15,Payload installation,sha1,545a473d3a8fc3810fbb0ff04e2d4d28ab95bedb,Source: MalwareBazaar
+2024-08-15,Payload installation,sha256,573d8ee9678cef8163e96937a6a5a4f14a5ade12f5646ab05550c0038c770e5d,Source: MalwareBazaar
+2024-08-15,Payload installation,filename,Shipping document_pdf.exe,Source: MalwareBazaar
+2024-08-15,Payload installation,md5,eb8721d784425fcd54baf7fdcfff7028,Source: MalwareBazaar
+2024-08-15,Payload installation,sha1,069d8bd1938f64fdfd4aa56696b1b20b7766aa03,Source: MalwareBazaar
+2024-08-15,Payload installation,sha256,e58ae069280b8875bf22da45ff66c63f31aa477c8272682c0b55138aa03c526f,Source: MalwareBazaar

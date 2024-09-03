@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Ransomware Group LockBit host indicators [2024-08-16]
+| UUID: 815c7fe1-05ce-4b22-b550-a5bc3aab9777
+| Date: 2024-08-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-16,Payload installation,filename,zbi.exe,Source: MalwareBazaar
+2024-08-16,Payload installation,md5,6edfb62405f50d7fb16882ca9b16ed36,Source: MalwareBazaar
+2024-08-16,Payload installation,sha1,73c346267e9527ca5886bf8a90b77f9ebceb58fe,Source: MalwareBazaar
+2024-08-16,Payload installation,sha256,315d043b99f988ce9d9f69d7225292eb44623a97c1a029933b62ede699fa9f13,Source: MalwareBazaar

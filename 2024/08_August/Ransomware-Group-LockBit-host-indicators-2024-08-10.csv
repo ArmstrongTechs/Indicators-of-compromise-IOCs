@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Ransomware Group LockBit host indicators [2024-08-10]
+| UUID: d96f102c-5cd9-42d9-830c-b2a7c9d3e47d
+| Date: 2024-08-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-10,Payload installation,filename,SecuriteInfo.com.Variant.Razy.458328.5318.7411,Source: MalwareBazaar
+2024-08-10,Payload installation,md5,95d8ef6aaeae33dae91636b2bde473b8,Source: MalwareBazaar
+2024-08-10,Payload installation,sha1,6e79574a1fd0af774f985b3fcf646039d30cc7e8,Source: MalwareBazaar
+2024-08-10,Payload installation,sha256,05f9891bb4ca2b87b476e3d3f415e329a547d3cb65741b908cd570eb96575767,Source: MalwareBazaar

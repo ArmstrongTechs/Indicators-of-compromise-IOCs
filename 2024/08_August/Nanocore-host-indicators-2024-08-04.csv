@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Nanocore host indicators [2024-08-04]
+| UUID: 239ad1b9-9bee-4bd5-b04f-dcaba54a4cb5
+| Date: 2024-08-04
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-04,Payload installation,filename,Account activation request-List of Dormant ac.exe,Source: MalwareBazaar
+2024-08-04,Payload installation,md5,6fc5dfa94c6baaf54e5413b643ae72e6,Source: MalwareBazaar
+2024-08-04,Payload installation,sha1,20325d4e07ddd04aba0eb6b6e426ab0ca1282420,Source: MalwareBazaar
+2024-08-04,Payload installation,sha256,ee556a159fee1cb48604262ca59aa12928567e78523eed65d31727094ff07925,Source: MalwareBazaar
+2024-08-05,Payload installation,filename,27AA8AD8930FA0D076510CFB6573CE74.exe,Source: MalwareBazaar
+2024-08-05,Payload installation,md5,27aa8ad8930fa0d076510cfb6573ce74,Source: MalwareBazaar
+2024-08-05,Payload installation,sha1,26da6ec9efcd8b95c2d744373532afd12d26bf8f,Source: MalwareBazaar
+2024-08-05,Payload installation,sha256,91dc640360851a1e69261fe72d9fa570a73e6d9465c8ebf971dbe840493b890d,Source: MalwareBazaar

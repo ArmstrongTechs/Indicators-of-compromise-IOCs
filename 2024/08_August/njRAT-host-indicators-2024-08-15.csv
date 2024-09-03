@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2024-08-15]
+| UUID: f4dc0502-a8a3-4b9c-8c05-550071d8d17d
+| Date: 2024-08-15
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-15,Payload installation,filename,FedEX Arrival - AWB# 102235508763.exe,Source: MalwareBazaar
+2024-08-15,Payload installation,md5,4123adc7fb7ebd593662bdf2c415afd6,Source: MalwareBazaar
+2024-08-15,Payload installation,sha1,9b429517289adb669897f3b8c9b5fd0f5be570d4,Source: MalwareBazaar
+2024-08-15,Payload installation,sha256,04bcf38fe795bd3884ba28e2b28d7848cdaf880b057d9d8263629901220fdf7f,Source: MalwareBazaar
+2024-08-15,Payload installation,filename,0dcc21bdebe05957ca2922be486abe22.exe,Source: MalwareBazaar
+2024-08-15,Payload installation,md5,0dcc21bdebe05957ca2922be486abe22,Source: MalwareBazaar
+2024-08-15,Payload installation,sha1,8bcbd8a839a58e0050c17221e6a1cc775f07586b,Source: MalwareBazaar
+2024-08-15,Payload installation,sha256,73304b5c73a1c90b192c8748348509c213890807d3ca34b08c8fb84652b0cbd3,Source: MalwareBazaar

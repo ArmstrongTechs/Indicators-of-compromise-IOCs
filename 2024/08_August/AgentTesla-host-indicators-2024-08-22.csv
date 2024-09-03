@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-08-22]
+| UUID: 43810d7b-59eb-4207-8f96-fa61f3cab224
+| Date: 2024-08-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-22,Payload installation,filename,PAGO DE DEPÓSITO - PO512316.exe,Source: MalwareBazaar
+2024-08-22,Payload installation,md5,0ebef0bd0eb57e4c16826a928a67c0ae,Source: MalwareBazaar
+2024-08-22,Payload installation,sha1,58144085499296ea71c8bd8912a26a307e595038,Source: MalwareBazaar
+2024-08-22,Payload installation,sha256,481df98eb8c3a7423395f99287742f814ae7497473a8daf5f38fcce2664e8048,Source: MalwareBazaar
+2024-08-22,Payload installation,filename,SecuriteInfo.com.Win32.MalwareX-gen.1615.29113,Source: MalwareBazaar
+2024-08-22,Payload installation,md5,22472b6702c2b1835b018ac7a00ac134,Source: MalwareBazaar
+2024-08-22,Payload installation,sha1,f0ea58c91c858c75dd93db38b76cd1e2b2237b59,Source: MalwareBazaar
+2024-08-22,Payload installation,sha256,10f0f9ee32494b68132fb2b33c3b6ff4c34c98b6b11e215b1f4de0570f37af5e,Source: MalwareBazaar
+2024-08-22,Payload installation,filename,5831205-POS.exe,Source: MalwareBazaar
+2024-08-22,Payload installation,md5,cf30d7842cee35c1e4d15a00e9b920dc,Source: MalwareBazaar
+2024-08-22,Payload installation,sha1,4a1eb10d5887567417c3caa6a9883ea24e6757e6,Source: MalwareBazaar
+2024-08-22,Payload installation,sha256,0134e10653d086ff4aa1b1f708f4d93bce34bd2537c58d29fc576e141b51ed12,Source: MalwareBazaar
+2024-08-22,Payload installation,filename,RFQ#003110-Al Nasr.exe,Source: MalwareBazaar
+2024-08-22,Payload installation,md5,e45384835a3165dd378344d664a3523a,Source: MalwareBazaar
+2024-08-22,Payload installation,sha1,d58beb385b09e276eedfd5f0472d01a7293cf248,Source: MalwareBazaar
+2024-08-22,Payload installation,sha256,2dc71df189b524221912ee8aedf8dab43bea8080526c1260b2567a07455f0c46,Source: MalwareBazaar
+2024-08-22,Payload installation,filename,7z.exe,Source: MalwareBazaar
+2024-08-22,Payload installation,md5,654010478bd5384421502d6bc0be267c,Source: MalwareBazaar
+2024-08-22,Payload installation,sha1,e32bd4cae173c01e8e3ff301bbd36737a145c74b,Source: MalwareBazaar
+2024-08-22,Payload installation,sha256,deb43e7f95ff24a190394c9c92b56c33d31fd10c9a52c19694c5d45b2a60b7b5,Source: MalwareBazaar

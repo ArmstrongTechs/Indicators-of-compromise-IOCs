@@ -1,0 +1,27 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: 密码今天过期 [REDACTED] - From: info@disb.co.jp"" Campaign"
+| UUID: b4112b97-8cb5-4675-b808-163003d82332
+| Date: 2024-08-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-14,Payload delivery,url,http://a1016021.xsph.ru/2wq1/u2p/?x=x&a=[REDACTED],URL source: from info@disb.co.jp - subject: 密码今天过期 [REDACTED]
+2024-08-14,Payload delivery,domain,a1016021.xsph.ru,Attr source: http://a1016021.xsph.ru/2wq1/u2p/?x=x&a=[REDACTED]
+2024-08-14,Payload delivery,email-src,info@disb.co.jp,Source email: from info@disb.co.jp - subject: 密码今天过期 [REDACTED]
+2024-08-14,Payload delivery,email-src-display-name,[REDACTED],Source email: from info@disb.co.jp - subject: 密码今天过期 [REDACTED]
+2024-08-14,Payload delivery,email-body,"维护服务访问
+你好 [REDACTED]您的 [REDACTED]密码今天到期 .
+要验证您的帐户并保留当前密码，请遵循以下所有要求。
+
+保持当前密码 [REDACTED]
+[REDACTED] © 2024
+
+574 Chagnhe Rd, Binjiang District, Hangzhou, Zhejiang
+
+China.
+310052.",Source email: from info@disb.co.jp - subject: 密码今天过期 [REDACTED]
+2024-08-14,Payload delivery,email-subject,密码今天过期 [REDACTED],Source: from info@disb.co.jp - subject: 密码今天过期 [REDACTED]
+2024-08-14,Network activity,url,http://a1016021.xsph.ru/,URL source: from info@disb.co.jp - subject: 密码今天过期 [REDACTED]

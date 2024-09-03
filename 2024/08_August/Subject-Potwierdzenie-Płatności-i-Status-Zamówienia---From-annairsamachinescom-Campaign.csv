@@ -1,0 +1,60 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Potwierdzenie Płatności i Status Zamówienia - From: anna@irsamachines.com"" Campaign"
+| UUID: abb1d37c-3862-4a3e-9ee8-bb22ca816084
+| Date: 2024-08-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-21,Payload delivery,email-src,anna@irsamachines.com,Source email: from anna@irsamachines.com - subject: Potwierdzenie Płatności i Status Zamówienia
+2024-08-21,Payload delivery,email-src-display-name,anna@irsamachines.com,Source email: from anna@irsamachines.com - subject: Potwierdzenie Płatności i Status Zamówienia
+2024-08-21,Payload delivery,email-body,"Szanowny Panie,
+
+
+
+
+ZaÅÄ
+czamy potwierdzenia pÅatnoÅci. ProszÄ je sprawdziÄ. Uprzejmie prosimy o informacjÄ, gdy zamÃ³wienie bÄdzie gotowe.
+
+
+
+
+Z powaÅ¼aniem,
+
+Anna Nowak
+
+DziaÅ Finansowy
+
+Tel: +48 570 069 266",Source email: from anna@irsamachines.com - subject: Potwierdzenie Płatności i Status Zamówienia
+2024-08-21,Payload delivery,email-subject,Potwierdzenie Płatności i Status Zamówienia,Source: from anna@irsamachines.com - subject: Potwierdzenie Płatności i Status Zamówienia
+2024-08-21,Payload delivery,filename|md5,Potwierdzenie Przelewu.7z|3a762f346946eee118797e5ecc33083e,Malspam attachment - source: from anna@irsamachines.com - subject: Potwierdzenie Płatności i Status Zamówienia mime: application/x-7z-compressed
+2024-08-21,Payload delivery,filename|sha1,Potwierdzenie Przelewu.7z|f9ece78674ab20bcb953504912068059cfe5dc6b,Malspam attachment - source: from anna@irsamachines.com - subject: Potwierdzenie Płatności i Status Zamówienia mime: application/x-7z-compressed
+2024-08-21,Payload delivery,filename|sha256,Potwierdzenie Przelewu.7z|2b867c48221118867857f5b200dff50c36b40759a6a4632e109921ecdf66db82,Malspam attachment - source: from anna@irsamachines.com - subject: Potwierdzenie Płatności i Status Zamówienia mime: application/x-7z-compressed
+2024-08-21,Payload delivery,filename|sha512,Potwierdzenie Przelewu.7z|08aeb707eb61334ca0d5ea779ed6d4f5bb72f308acf99deaec6affa0a948ec3637aaeb658e7a65067e9aad1c6f987594c731b9129c0f94406b887841980d7acd,Malspam attachment - source: from anna@irsamachines.com - subject: Potwierdzenie Płatności i Status Zamówienia mime: application/x-7z-compressed
+2024-08-21,Payload delivery,filename|ssdeep,Potwierdzenie Przelewu.7z|768:06cl3jpsOQ1BdIpc61RUHDoM9WxQHWKPWKBT+t1AUTioH50FZ8OoqFpp/w:06CTp7Q1BKpc61sX9WxQHWMBGeq3HyDK,Malspam attachment - source: from anna@irsamachines.com - subject: Potwierdzenie Płatności i Status Zamówienia mime: application/x-7z-compressed
+2024-08-21,Payload delivery,filename|md5,Potwierdzenie Przelewu.vbs|d396027509735b6a47e6435893e211e1,Extracted from Potwierdzenie Przelewu.7z; mime: text/plain
+2024-08-21,Payload delivery,filename|sha1,Potwierdzenie Przelewu.vbs|6604382b5c45dfc53093c4eb37ee7bd9859b3a9c,Extracted from Potwierdzenie Przelewu.7z; mime: text/plain
+2024-08-21,Payload delivery,filename|sha256,Potwierdzenie Przelewu.vbs|5000f9d493b4c777b64715686e6aedb6a20ccc6ac69f81dfed313ee3eafaf776,Extracted from Potwierdzenie Przelewu.7z; mime: text/plain
+2024-08-21,Payload delivery,filename|sha512,Potwierdzenie Przelewu.vbs|46948fe59bec805b6cb4a8519a87fcb3ee411a2b3249daeb317c5060dd35d3b0d858cb5b8b91103f334b3f398f4a526974e50d1b0c6e05d2f3dfe1c537edebb5,Extracted from Potwierdzenie Przelewu.7z; mime: text/plain
+2024-08-21,Payload delivery,filename|ssdeep,Potwierdzenie Przelewu.vbs|3072:v1QX3artRsaT3tttttttttttttttttttattttttttttttttttttttn0ZlDrOm1t/:jTL7iW3,Extracted from Potwierdzenie Przelewu.7z; mime: text/plain
+2024-08-21,Payload delivery,filename|md5,ecstassy.txt|82c1dd61a6ff3e89080b598bcf854773,Downloaded from https://transfer.adttemp.com.br/q25kC/ecstassy.txt; mime: text/plain
+2024-08-21,Payload delivery,filename|sha1,ecstassy.txt|8c6b173ef7a83881ec097802905cf08770dc46df,Downloaded from https://transfer.adttemp.com.br/q25kC/ecstassy.txt; mime: text/plain
+2024-08-21,Payload delivery,filename|sha256,ecstassy.txt|5cd4d993ea646e617c7f7cf632e990dfaee870b662e98c7b3c378b0e1400e2ae,Downloaded from https://transfer.adttemp.com.br/q25kC/ecstassy.txt; mime: text/plain
+2024-08-21,Payload delivery,filename|sha512,ecstassy.txt|263c56d580b860b5406c0823068962170f8bc9bcc5a9b162c2f802aff288c6f58e2b1d4768aca15b13f2c3059d9104b064697d8e485f16c346e9bd50beb151d6,Downloaded from https://transfer.adttemp.com.br/q25kC/ecstassy.txt; mime: text/plain
+2024-08-21,Payload delivery,filename|ssdeep,ecstassy.txt|12288:blzifttNFkiTr3W4ueYbxAgJLPZn7f/KiHiEDO0a:blufpeiHRuJbugJLh7KiCEKv,Downloaded from https://transfer.adttemp.com.br/q25kC/ecstassy.txt; mime: text/plain
+2024-08-21,Network activity,url,https://transfer.adttemp.com.br/q25kC/ecstassy.txt,Source: Network activity from x.exe
+2024-08-21,Network activity,domain,transfer.adttemp.com.br,Source: Network activity from x_exe_dump.bin
+2024-08-21,Payload delivery,filename|imphash,x.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Dropped by Potwierdzenie Przelewu.vbs; mime: application/x-dosexec
+2024-08-21,Payload delivery,filename|md5,x.exe|9c1b8f0f121942b76dde89f107c1418c,Dropped by Potwierdzenie Przelewu.vbs; mime: application/x-dosexec
+2024-08-21,Payload delivery,filename|sha1,x.exe|47f2ffe5dcfa1ceadde5e9a5e204dcc82aebeb96,Dropped by Potwierdzenie Przelewu.vbs; mime: application/x-dosexec
+2024-08-21,Payload delivery,filename|sha256,x.exe|ac8fae852adbf67a64e496e34b0bf681a3602ff0f6216e742f08754c36cd06a2,Dropped by Potwierdzenie Przelewu.vbs; mime: application/x-dosexec
+2024-08-21,Payload delivery,filename|sha512,x.exe|cfeee0ce26f7c3bc994cfa3a8b273138afd8ad405eaf62d1dd9c4a4d9c8d91a14852a9a4d8316c6568a45e9265f08a1b925f378ca0eaaee4248d646d7f41a881,Dropped by Potwierdzenie Przelewu.vbs; mime: application/x-dosexec
+2024-08-21,Payload delivery,filename|ssdeep,x.exe|1536:lFlK5cGKKay3nqhAPhKePM3CEF/7GmqbMY7usiY9hk:lF45cGpa6nqMkeM7GmCMY7pdk,Dropped by Potwierdzenie Przelewu.vbs; mime: application/x-dosexec
+2024-08-21,Payload delivery,filename|imphash,x_exe_dump.bin|5336b88f8194523f05b84e7576025da7,Extracted from x.exe; mime: application/x-dosexec
+2024-08-21,Payload delivery,filename|md5,x_exe_dump.bin|fcf067ed1b1ba8f73637eeea0f47d7f6,Extracted from x.exe; mime: application/x-dosexec
+2024-08-21,Payload delivery,filename|sha1,x_exe_dump.bin|4a38aae712a9a59fa50140450077b64ef4d8ad89,Extracted from x.exe; mime: application/x-dosexec
+2024-08-21,Payload delivery,filename|sha256,x_exe_dump.bin|870f0e3bd13b2b395051ed77f067e9c7f8cc783dd230720f1a49e4c5fa8fe3c5,Extracted from x.exe; mime: application/x-dosexec
+2024-08-21,Payload delivery,filename|sha512,x_exe_dump.bin|ce502dfd41264eb17173485a47d49ecf3f3b03ec6af39fc20568aeb131f5a3585a0c27fd1b645296000f59be8c7726a63b91e171a6853f375263bf7e566ede71,Extracted from x.exe; mime: application/x-dosexec
+2024-08-21,Payload delivery,filename|ssdeep,x_exe_dump.bin|6144:YnDsEmcW6v1cpg36fSUK1Mc54JWC1My6PzPpGuEnwBd0y:YgEmcW6vaK2cyiyOPpr9Bm,Extracted from x.exe; mime: application/x-dosexec

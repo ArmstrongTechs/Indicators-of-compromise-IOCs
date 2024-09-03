@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Fake booking.com website - Lookyloo Capture (https://booking-0ef4-8213-ae7f-3fec3e22.1facc.pw/?stays=superb-apartment-to-rent-in-central-nijmegen&sid=9648547963&id=376818034&awg_dvm=FCgjGHuw8y)
+| UUID: e7ec6346-b312-48da-ba1c-8004d3e80eb1
+| Date: 2024-08-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-23,External analysis,link,https://lookyloo.circl.lu/tree/5fd79eb8-0e6e-4f7a-8ca8-9380e41eb407,
+2024-08-23,External analysis,attachment,screenshot_landing_page.png,
+2024-08-23,External analysis,link,https://urlscan.io/result/c12083f9-1ab1-434c-9435-82d674ed64bb/,
+2024-08-23,Network activity,url,https://booking-0ef4-8213-ae7f-3fec3e22.1facc.pw/?stays=superb-apartment-to-rent-in-central-nijmegen&sid=9648547963&id=376818034&awg_dvm=FCgjGHuw8y,
+2024-08-23,Network activity,hostname,booking-0ef4-8213-ae7f-3fec3e22.1facc.pw,
+2024-08-23,Network activity,domain,1facc.pw,
+2024-08-23,Payload delivery,filename,file.bin,
+2024-08-23,Other,size-in-bytes,21615,
+2024-08-23,Other,float,5.4868477660806,
+2024-08-23,Payload delivery,md5,d296c42315858d4e43f8ac1b41cd785e,
+2024-08-23,Payload delivery,sha1,b8af8103f21e5f73a572c291eb0e801a347b7567,
+2024-08-23,Payload delivery,sha256,25a96d0dc318058ded4060a840fbdb3c873febeda344e9bc9994a6995d1140cc,
+2024-08-23,Payload delivery,sha512,d6c15ff40de6f591795ff10d8fdd083cb0ceda7c641f9f54195d076ad9a5cd137f064699ba9d8e26173e7ba709a3f0ebf9c0b841d7761b6cecbe02ad63d4a227,
+2024-08-23,Payload delivery,malware-sample,file.bin|d296c42315858d4e43f8ac1b41cd785e,
+2024-08-23,Artifacts dropped,mime-type,text/html,
+2024-08-23,Payload delivery,ssdeep,192:SIXwo35EAOwSgnDdMB0c32JyhEFjxdrfqQa6LnwZewpKSzduOXRgMgflTsAu0Qh0:SIA05leK8jRex39,

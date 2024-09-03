@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: EastWind campaign: new CloudSorcerer attacks on government organizations in Russia
+| UUID: d84d38cc-1e9e-4edf-9f55-8be68e877583
+| Date: 2024-08-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-17,External analysis,link,https://securelist.com/eastwind-apt-campaign/113345/,
+2024-08-17,Other,comment,The backdoor that uses Dropbox and is delivered via email can be found by looking for relatively large DLL files (> 5 MB) located in the directory %PUBLIC%\ Regular access to the Dropbox cloud in network traffic can serve as an additional indicator of this backdoor’s operation.,
+2024-08-17,Other,comment,"The GrewApacha Trojan can be detected by searching for an unsigned file named msedgeupdate.dll in the file system. This file also reaches several megabytes in size.
+The PlugY implant that is delivered using the CloudSorcerer backdoor launches a process named msiexec.exe for each user signed to the OS, and also creates named pipes with the name template \.\PIPE\Y. The presence of these two indicators in the system is strong evidence of an infection.",
+2024-08-17,Payload delivery,md5,1f5c0e926e548de43e0039858de533fc,
+2024-08-17,Payload delivery,sha1,426bbf43f783292743c9965a7631329d77a51b61,
+2024-08-17,Payload delivery,sha256,668f61df2958f30c6a0f1356463e14069b3435fb4e8417a948b6738f5f340dd9,
+2024-08-17,Payload delivery,sha1,fccdc059f92f3e08325208f91d4e6c08ae646a78,
+2024-08-17,Payload delivery,sha256,e2f87428a855ebc0cda614c6b97e5e0d65d9ddcd3708fd869c073943ecdde1c0,
+2024-08-17,Payload delivery,md5,f6245f64eaad550fd292cfb1e23f0867,
+2024-08-17,Payload delivery,md5,bed245d61b4928f6d6533900484cafc5,
+2024-08-17,Payload delivery,sha1,e1cf6334610e0afc01e5de689e33190d0c17ccd4,
+2024-08-17,Payload delivery,sha256,5071022aaa19d243c9d659e78ff149fe0398cf7d9319fd33f718d8e46658e41c,
+2024-08-17,Payload delivery,md5,d0f7745c80baf342cd218cf4f592ea00,
+2024-08-17,Payload delivery,sha1,c0e4dbaffd0b81b5688ae8e58922cdaa97c8de25,
+2024-08-17,Payload delivery,sha256,bd747692ab5db013cd4c4cb8ea9cafa7577c95bf41aa2629a7fea875f6dcbc41,

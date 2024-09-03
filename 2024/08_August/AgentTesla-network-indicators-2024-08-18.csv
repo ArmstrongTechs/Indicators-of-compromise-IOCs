@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla network indicators [2024-08-18]
+| UUID: 45bf55a8-6af0-4104-bdff-315ca7620eab
+| Date: 2024-08-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-18,Network activity,url,http://192.3.101.141/MPDW-constraints.vbs,Source: urlhaus
+2024-08-18,Network activity,url,http://192.3.216.142/wednesdayfileequitossMPDW-constraints.vbs,Source: urlhaus
+2024-08-18,Network activity,url,http://107.172.31.13/traints.vbs,Source: urlhaus

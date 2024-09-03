@@ -1,0 +1,48 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook GuLoader - email attachment
+| UUID: 3d7083ee-1ae5-4d41-8905-f1bde7333f5d
+| Date: 2024-08-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-27,Artifacts dropped,filename,%WINDIR%\hjemmehjlpen.lnk,NSIS dropped file
+2024-08-27,Artifacts dropped,filename,%LOCALAPPDATA%\unphysical\Anticiperes\clayson.for,NSIS dropped file
+2024-08-27,Artifacts dropped,filename,%LOCALAPPDATA%\unphysical\Anticiperes\Overaccentuate.Sub,NSIS dropped file
+2024-08-27,Artifacts dropped,filename,%LOCALAPPDATA%\unphysical\Anticiperes\overenskomsters.txt,NSIS dropped file
+2024-08-27,Artifacts dropped,filename,%LOCALAPPDATA%\unphysical\Anticiperes\Overtest.ecc,NSIS dropped file
+2024-08-27,Artifacts dropped,filename,%LOCALAPPDATA%\unphysical\Anticiperes\srheden.wha,NSIS dropped file
+2024-08-27,Artifacts dropped,filename,%LOCALAPPDATA%\unphysical\Anticiperes\Taknemlighedens.Gly159,NSIS dropped file
+2024-08-27,Artifacts dropped,filename,%LOCALAPPDATA%\unphysical\Anticiperes\tempereres.dis,NSIS dropped file
+2024-08-27,Artifacts dropped,filename,%LOCALAPPDATA%\unphysical\Anticiperes\vignetter.pon,NSIS dropped file
+2024-08-27,Artifacts dropped,filename,%USERPROFILE%\lapmejse\Cleon,NSIS dropped file
+2024-08-27,Artifacts dropped,regkey,HKLM\delagtiggrendes\Uninstall\Clerisies187\Vinterfrakkens182,NSIS artifact
+2024-08-27,Artifacts dropped,regkey,HKCU\Audifonen\markab\ostracods\Drain229,NSIS artifact
+2024-08-27,Network activity,url,https://papershop.com.ec/hqtqqsNSTo56.bin,GuLoader payload URL
+2024-08-27,Network activity,url,https://crix.ro/hqtqqsNSTo56.bin,GuLoader payload URL
+2024-08-27,Payload delivery,malware-sample,MSLO Povpraševanje po naročiluMaric7474774673883.7z|dc3e15980a7039b3c5b8a3da5148c990,
+2024-08-27,Payload delivery,filename,MSLO Povpraševanje po naročiluMaric7474774673883.7z,
+2024-08-27,Payload delivery,md5,dc3e15980a7039b3c5b8a3da5148c990,
+2024-08-27,Payload delivery,sha1,2111a58eb88e627bbec3cf9e45c793601f0a70ed,
+2024-08-27,Payload delivery,sha256,dcb235f6d86c69e5cbb48a73e967b4d7a9aaf6228a5cc266eb92581cf9224c81,
+2024-08-27,Other,size-in-bytes,549113,
+2024-08-27,Payload delivery,malware-sample,MSLO Povpraševanje po naročiluMaric7474774673883.exe|a11e458eeeb9ed63a1acc78ef71cd314,
+2024-08-27,Payload delivery,filename,MSLO Povpraševanje po naročiluMaric7474774673883.exe,
+2024-08-27,Payload delivery,md5,a11e458eeeb9ed63a1acc78ef71cd314,
+2024-08-27,Payload delivery,sha1,37cc9b36ee02d6a096e919632a1aeaa44d789af1,
+2024-08-27,Payload delivery,sha256,4fdf9f20ee91cb56d4ca697b331bb77b495586ca11a66e6a2218ca217090c4e2,
+2024-08-27,Other,size-in-bytes,662706,
+2024-08-27,Payload delivery,malware-sample,payload.bin|012bb04d5ef0a77a9c13e2133eb119fd,
+2024-08-27,Payload delivery,filename,payload.bin,
+2024-08-27,Payload delivery,md5,012bb04d5ef0a77a9c13e2133eb119fd,
+2024-08-27,Payload delivery,sha1,1e70f4fc382a006d428014ea259d7d432a4ca27f,
+2024-08-27,Payload delivery,sha256,3cdd206fd010df729a0a1f16c21cec77b57b8e278a74f6d18adf3c942ef53c4f,
+2024-08-27,Other,size-in-bytes,271424,
+2024-08-27,Payload installation,malware-sample,57E83EA4-formbook.exe|e14306a52c5e0ee6e8c4ded9334fc793,
+2024-08-27,Payload installation,filename,57E83EA4-formbook.exe,
+2024-08-27,Payload installation,md5,e14306a52c5e0ee6e8c4ded9334fc793,
+2024-08-27,Payload installation,sha1,d0636ef14a911f4caf33be11fb6de1aeeb6ee9f5,
+2024-08-27,Payload installation,sha256,ab90678a0f7161e899ecc8e651dada3e55c844f2cca3c19923a1e675e921d1af,
+2024-08-27,Other,size-in-bytes,271360,

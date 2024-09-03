@@ -1,0 +1,16 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Styx Stealer
+| UUID: a167352e-ca18-4ea3-905d-7dec3b2d649c
+| Date: 2024-08-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-21,Payload delivery,sha256,9ea494b525c4676e63f943e2d1dba751c377b9138613003c80d14ddfaed6883e,
+2024-08-21,Payload delivery,sha256,019b1767e76539b91fdb7f3feb76457f8ca509dec83bbb0ecddbe49139da25a3,
+2024-08-21,Payload delivery,sha256,088bc96742dd7eaab4563a1830b9ca74cc2fa7a933b1b89485ddfc09b18f1bae,
+2024-08-21,Network activity,domain,playerenterprises.org,
+2024-08-21,Network activity,domain,styxcrypter.com,
+2024-08-21,External analysis,vulnerability,CVE-2023-36025,

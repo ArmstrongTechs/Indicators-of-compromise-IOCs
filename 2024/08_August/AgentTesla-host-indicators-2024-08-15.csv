@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-08-15]
+| UUID: 135a5ee1-db62-4b75-9ee8-4ccd5be6150b
+| Date: 2024-08-15
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-15,Payload installation,filename,1f18e6c2757cc8ed24b3a244dc8202d5.hta,Source: MalwareBazaar
+2024-08-15,Payload installation,md5,1f18e6c2757cc8ed24b3a244dc8202d5,Source: MalwareBazaar
+2024-08-15,Payload installation,sha1,6b9aa0d6a9c949f25234076a3e8447c5a4b914c6,Source: MalwareBazaar
+2024-08-15,Payload installation,sha256,e481886eecf9a9f77bbc995f8f057c12d018a16783f11b0b26a8f7c0a3de31d8,Source: MalwareBazaar
+2024-08-15,Payload installation,filename,New Order .xlam,Source: MalwareBazaar
+2024-08-15,Payload installation,md5,81288b157f57a1d41ae95ca3c81a2114,Source: MalwareBazaar
+2024-08-15,Payload installation,sha1,97631816b04a2f94fd881401b7431fa3452280f7,Source: MalwareBazaar
+2024-08-15,Payload installation,sha256,1c29e118bb0314391a924866dce2fdf09d1b9a88bbe3e0acb4193579b8402dfd,Source: MalwareBazaar
+2024-08-15,Payload installation,filename,Shipping Documents.exe,Source: MalwareBazaar
+2024-08-15,Payload installation,md5,6d88ac981f6a5f01b876adcd800953f1,Source: MalwareBazaar
+2024-08-15,Payload installation,sha1,03606fac4d5d30c8bf2fa7a5546eb3aed7e10ed8,Source: MalwareBazaar
+2024-08-15,Payload installation,sha256,ad9b8625f2d2b98ff577f78aaf80cd4ab30b640680135cbb2328a3ffbb1623bb,Source: MalwareBazaar

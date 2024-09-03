@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-08-13]
+| UUID: a0f28f88-34bf-4093-b6fb-d357a885993c
+| Date: 2024-08-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-13,Payload installation,filename,trucking instruction.exe,Source: MalwareBazaar
+2024-08-13,Payload installation,md5,c2a8ae31dd5f47469b99f87cfc7ca9d1,Source: MalwareBazaar
+2024-08-13,Payload installation,sha1,718318cc6c0fae04d5ce34b23cfe7fc02eae5670,Source: MalwareBazaar
+2024-08-13,Payload installation,sha256,8abcfd656a9dc10d4d469f3ecbfe377c84a30d04400ed926e89545ae3662fc1d,Source: MalwareBazaar
+2024-08-13,Payload installation,filename,Request For Quotation.scr,Source: MalwareBazaar
+2024-08-13,Payload installation,md5,5d774a4f55272e014e662a552587cb0e,Source: MalwareBazaar
+2024-08-13,Payload installation,sha1,ee5384e9a49b28d6f4ee05907830799e64a28cf5,Source: MalwareBazaar
+2024-08-13,Payload installation,sha256,e16b7dc4ec80b1ad431e900156069100ba2e6035e0605535d2a247d2d4b86786,Source: MalwareBazaar
+2024-08-13,Payload installation,filename,PO#3200122530.exe,Source: MalwareBazaar
+2024-08-13,Payload installation,md5,6dd468332c0d022c12fbcd74d0f6e2ca,Source: MalwareBazaar
+2024-08-13,Payload installation,sha1,197636709cce70a5062f1f28f7edc463a8a16817,Source: MalwareBazaar
+2024-08-13,Payload installation,sha256,91295d32f1f0cb4dc6c664e8e75f5bfcc10956186fd3c837877cb99542bbb826,Source: MalwareBazaar
+2024-08-13,Payload installation,filename,zpOaKaueaKlis.exe,Source: MalwareBazaar
+2024-08-13,Payload installation,md5,0be3ef93262bad1722def36f0756397d,Source: MalwareBazaar
+2024-08-13,Payload installation,sha1,ec71f0d2673e13057edb06c3cabb9467559873e3,Source: MalwareBazaar
+2024-08-13,Payload installation,sha256,fbe048c713eda8c6d74504c440ecba4507760aed537fbba6171a4566b6452455,Source: MalwareBazaar
+2024-08-14,Payload installation,filename,COTIZACION-13-08-24.exe,Source: MalwareBazaar
+2024-08-14,Payload installation,md5,d4845c534c9b98fdef93172c373302cc,Source: MalwareBazaar
+2024-08-14,Payload installation,sha1,4630b4e22439ef363ae367a7b4d01ce21047fe74,Source: MalwareBazaar
+2024-08-14,Payload installation,sha256,9b36314e5306f0ceeb40d97b4df985e8fde6c78c77667dd32ab6bc42ea32361d,Source: MalwareBazaar

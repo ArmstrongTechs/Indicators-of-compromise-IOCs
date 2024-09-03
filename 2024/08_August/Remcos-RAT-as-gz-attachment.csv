@@ -1,0 +1,29 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos RAT as .gz attachment
+| UUID: 3245c94d-71fa-4168-96c6-7d79bb2c1a7e
+| Date: 2024-08-26
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-26,Network activity,ip-dst|port,23.95.235.18|2557,C2
+2024-08-26,Payload delivery,malware-sample,Current Order.gz|5d5bd67032543b3cb6e5f3d42ca9ff6a,
+2024-08-26,Payload delivery,filename,Current Order.gz,
+2024-08-26,Payload delivery,md5,5d5bd67032543b3cb6e5f3d42ca9ff6a,
+2024-08-26,Payload delivery,sha1,81ceaea400ce06aebb408a52da6c78a614a884d9,
+2024-08-26,Payload delivery,sha256,38e648745b80ba06d4cf552d66ce1eaf785f3f0d6227456f7b98992813c65e05,
+2024-08-26,Other,size-in-bytes,924439,
+2024-08-26,Payload delivery,malware-sample,Quotation.exe|cdb69b8ba072c5f100f77ec813cd6fe1,
+2024-08-26,Payload delivery,filename,Quotation.exe,
+2024-08-26,Payload delivery,md5,cdb69b8ba072c5f100f77ec813cd6fe1,
+2024-08-26,Payload delivery,sha1,c48d54f79964609107605eb7825ce37248e2ef93,
+2024-08-26,Payload delivery,sha256,32baa04a60d8519bd22b795520643e9e9f282741739054e2db44996a31cb3d11,
+2024-08-26,Other,size-in-bytes,1452032,
+2024-08-26,Payload delivery,malware-sample,400000.exe|6e6ae7b2fa58c2d5ecb8345ad58b11b9,
+2024-08-26,Payload delivery,filename,400000.exe,
+2024-08-26,Payload delivery,md5,6e6ae7b2fa58c2d5ecb8345ad58b11b9,
+2024-08-26,Payload delivery,sha1,351548e8e666a3341ba2d113b2784e224ed4c065,
+2024-08-26,Payload delivery,sha256,119c9c67cce121cb6e0f6718092c966252d826af76e9c2a3c4095da49a5563e1,
+2024-08-26,Other,size-in-bytes,532480,

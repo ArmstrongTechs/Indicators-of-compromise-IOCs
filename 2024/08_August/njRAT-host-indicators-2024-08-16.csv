@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2024-08-16]
+| UUID: 4a6e373a-4335-4da5-b2bf-b702f13b23d3
+| Date: 2024-08-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-16,Payload installation,filename,HSBC Advice_ACH Credit.com,Source: MalwareBazaar
+2024-08-16,Payload installation,md5,86f6d5340660600317dc3481647ebe32,Source: MalwareBazaar
+2024-08-16,Payload installation,sha1,c3ae7e6c0f47a1b9b434bcf315f638a5a1bf8345,Source: MalwareBazaar
+2024-08-16,Payload installation,sha256,be097d80233fd20b30cdacd88fbb4baef2ceabc7e45daead33b675ff4dcc4005,Source: MalwareBazaar

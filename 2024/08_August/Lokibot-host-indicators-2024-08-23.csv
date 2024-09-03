@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-08-23]
+| UUID: 3257bbaa-8447-4e9a-8123-1e297eee1308
+| Date: 2024-08-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-23,Payload installation,filename,FedEx_AWB#53052032046.exe,Source: MalwareBazaar
+2024-08-23,Payload installation,md5,62fe99f8cb2b1509d892598a17ed9459,Source: MalwareBazaar
+2024-08-23,Payload installation,sha1,96db51d788e67579941fbabea7864776c8df43b9,Source: MalwareBazaar
+2024-08-23,Payload installation,sha256,7e10d81df9a9375a62ba1fab5eaee1db35d6f1ddf942518a534e0607f6032f84,Source: MalwareBazaar
+2024-08-23,Payload installation,filename,Törölt fizetési megbízás.cmd,Source: MalwareBazaar
+2024-08-23,Payload installation,md5,148edb6ca3c6cae9047ad33eff160ba8,Source: MalwareBazaar
+2024-08-23,Payload installation,sha1,ac90b0e8c2565e0fdf4d6657bb75ca7971ce3503,Source: MalwareBazaar
+2024-08-23,Payload installation,sha256,4ebeb928e56c30dc2fa722e5ae1e41181bfae00ce0466226bcb7d17a7dbaaae7,Source: MalwareBazaar

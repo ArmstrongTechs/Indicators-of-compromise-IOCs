@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: NetWire host indicators [2024-08-03]
+| UUID: c780936b-4f6a-4792-8121-4e1163688245
+| Date: 2024-08-03
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-03,Payload installation,filename,1722665588f6a10a8d47978db043c0d88290ea59d87f6f171d81ce7d2c526450e0e458c96a643.dat-decoded,Source: MalwareBazaar
+2024-08-03,Payload installation,md5,70e861048b8ead49d3b57d864f6bfd06,Source: MalwareBazaar
+2024-08-03,Payload installation,sha1,3aec782b57d4f925bdfdb5ed6d7fb0b2d35aa7ab,Source: MalwareBazaar
+2024-08-03,Payload installation,sha256,914cc7f0a4c7df6fb793b2f75e91fe6003fb146e2bd1024c49a4ab6cfe0c162c,Source: MalwareBazaar

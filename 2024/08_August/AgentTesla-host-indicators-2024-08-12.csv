@@ -1,0 +1,46 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-08-12]
+| UUID: 68cfdf7c-e156-4555-818f-7044252fb1df
+| Date: 2024-08-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-12,Payload installation,filename,SecuriteInfo.com.W32.Autoit.G.gen.Eldorado.30770.24366,Source: MalwareBazaar
+2024-08-12,Payload installation,md5,3d25e699fbb95f30cb37605420c890ac,Source: MalwareBazaar
+2024-08-12,Payload installation,sha1,e20a526555eee50bf6b7234a0190d3d0ba11ddc3,Source: MalwareBazaar
+2024-08-12,Payload installation,sha256,8ff06b7ffaef041d09e370aba1600ba41b75b259e8359856f526af984df973cf,Source: MalwareBazaar
+2024-08-12,Payload installation,filename,SecuriteInfo.com.Win.Packed.Noon-10034509-0.4166.18811,Source: MalwareBazaar
+2024-08-12,Payload installation,md5,94f77c1f6d2b95da3b403c39faa91b78,Source: MalwareBazaar
+2024-08-12,Payload installation,sha1,5f721f019d30418f14526af510310855bc3c34d3,Source: MalwareBazaar
+2024-08-12,Payload installation,sha256,992c1fa1d6584c711280bd3a519018a88c7766728ca0b51024484d9a83ef6d9c,Source: MalwareBazaar
+2024-08-12,Payload installation,filename,SecuriteInfo.com.Win32.PWSX-gen.26005.8091,Source: MalwareBazaar
+2024-08-12,Payload installation,md5,28831523d4d165b40311e4447aedb37a,Source: MalwareBazaar
+2024-08-12,Payload installation,sha1,084854a80fa821628fac1e8ccf9a8cc601598c5a,Source: MalwareBazaar
+2024-08-12,Payload installation,sha256,42ea2959f92f9405095a311f2b521eae1c2cbfd17140699710f22db8af6cd1c2,Source: MalwareBazaar
+2024-08-12,Payload installation,filename,Arrival Notice - BL 713410220035.PDF.exe,Source: MalwareBazaar
+2024-08-12,Payload installation,md5,b9ee0c2ba1d0961eb00aa101730ec076,Source: MalwareBazaar
+2024-08-12,Payload installation,sha1,66e5bde292ad6d8a6c7227c376d5c7e3e7a68e2a,Source: MalwareBazaar
+2024-08-12,Payload installation,sha256,0f497b23b90b11f7b6b2f7b8e3aff0618fb3325eed93ac43e4046b82af8d1257,Source: MalwareBazaar
+2024-08-12,Payload installation,filename,DHL DOCS0000.pdf.exe,Source: MalwareBazaar
+2024-08-12,Payload installation,md5,ff0c39560bbe39e434266a93dffaa680,Source: MalwareBazaar
+2024-08-12,Payload installation,sha1,b553242c24301d7afef118b4eb87bc0d4489b182,Source: MalwareBazaar
+2024-08-12,Payload installation,sha256,c081714907fc943cff0b637123039aff0237a226de4fb171cf430ed7c1da1163,Source: MalwareBazaar
+2024-08-12,Payload installation,filename,SWIFT_SO-P1010922.exe,Source: MalwareBazaar
+2024-08-12,Payload installation,md5,e1013a0c3f62c7328bb5bb1dcf36725b,Source: MalwareBazaar
+2024-08-12,Payload installation,sha1,a885580cbc511001e86f45dabde85c4f55a4f312,Source: MalwareBazaar
+2024-08-12,Payload installation,sha256,1ab579b1885b4f9c7627e10ebf641995cdf3e217f6686118dafb5eddcf4d0265,Source: MalwareBazaar
+2024-08-12,Payload installation,filename,SecuriteInfo.com.Trojan.AutoIt.1430.29949.19414,Source: MalwareBazaar
+2024-08-12,Payload installation,md5,90d6c1ca1e9f623d25f7909779fe8e13,Source: MalwareBazaar
+2024-08-12,Payload installation,sha1,bc99635e757e3eeb1f330c75c732b4697b17693d,Source: MalwareBazaar
+2024-08-12,Payload installation,sha256,a4cc3b0c3fdbc7b3d58a3f3906b706c61e3d9191f4fe11d7243fa3dded2e9ec0,Source: MalwareBazaar
+2024-08-13,Payload installation,filename,ARRIVAL NOTICE.exe,Source: MalwareBazaar
+2024-08-13,Payload installation,md5,70e2e8e0e4af94e41c25c6576234f27b,Source: MalwareBazaar
+2024-08-13,Payload installation,sha1,803f302773e43fadaa72613718905369ac47c20c,Source: MalwareBazaar
+2024-08-13,Payload installation,sha256,f9898f9bbef6d022dd0ce4343009f8d8ec465322ec384723e565a7ff0db259e7,Source: MalwareBazaar
+2024-08-13,Payload installation,filename,SecuriteInfo.com.Trojan.AutoIt.1430.18669.10479,Source: MalwareBazaar
+2024-08-13,Payload installation,md5,198422fbae29b65c629b01d48190ae58,Source: MalwareBazaar
+2024-08-13,Payload installation,sha1,2bfb45ec29f4b01d64330f4ea692887ba70ee3ec,Source: MalwareBazaar
+2024-08-13,Payload installation,sha256,b04f7ff1cfec978b59c749c0d4a9256d676aefc546c6141f3ddad13fc32d088e,Source: MalwareBazaar

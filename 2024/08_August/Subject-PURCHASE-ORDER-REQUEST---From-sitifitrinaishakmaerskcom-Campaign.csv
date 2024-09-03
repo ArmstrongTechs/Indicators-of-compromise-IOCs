@@ -1,0 +1,84 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: PURCHASE ORDER REQUEST - From: siti.fitrina.ishak@maersk.com"" Campaign"
+| UUID: 3369496b-0d1a-471b-ae63-485f1d2f2711
+| Date: 2024-08-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-28,Payload delivery,email-src,siti.fitrina.ishak@maersk.com,Source email: from siti.fitrina.ishak@maersk.com - subject: PURCHASE ORDER REQUEST; Spoofing
+2024-08-28,Payload delivery,email-src-display-name,Sales manager,Source email: from siti.fitrina.ishak@maersk.com - subject: PURCHASE ORDER REQUEST
+2024-08-28,Payload delivery,email-body,"Dear Sir/Ms,..
+
+Please confirm the receipt of this mail as we have sent several emails 
+to your esteemed company.
+
+Find attach 2 pages of our purchase order request for the month of 
+August,
+
+kindly send us PI signed and stamped also do advice bank details for 50% 
+down payment processing.
+
+Best Regards,
+
+Mukhammad Akhmedov
+
+Sales manager
+
+BNZ Industrial Support - HILTI AG official partner in Uzbekistan
+
+Bobur Str. 40E, Tashkent |UZBEKISTAN
+
+M +998 90 051 54 34   E [REDACTED] l  W www.bnzuz.com [1]
+
+
+
+Links:
+------
+[1] http://www.bnzuz.com/",Source email: from siti.fitrina.ishak@maersk.com - subject: PURCHASE ORDER REQUEST
+2024-08-28,Payload delivery,email-subject,PURCHASE ORDER REQUEST,Source: from siti.fitrina.ishak@maersk.com - subject: PURCHASE ORDER REQUEST
+2024-08-28,Payload delivery,filename|md5,PURCHASE ORDER.xla|ecbe7ea86fa6953f128935e4f43f52f2,Malspam attachment - source: from siti.fitrina.ishak@maersk.com - subject: PURCHASE ORDER REQUEST mime: application/vnd.ms-excel
+2024-08-28,Payload delivery,filename|sha1,PURCHASE ORDER.xla|4916a3f361da187af84749456431de9d9310937d,Malspam attachment - source: from siti.fitrina.ishak@maersk.com - subject: PURCHASE ORDER REQUEST mime: application/vnd.ms-excel
+2024-08-28,Payload delivery,filename|sha256,PURCHASE ORDER.xla|e009b7e5fc302eb9ecb23292d4f68b370aa392aa6390e8a33d36da5c90a10b11,Malspam attachment - source: from siti.fitrina.ishak@maersk.com - subject: PURCHASE ORDER REQUEST mime: application/vnd.ms-excel
+2024-08-28,Payload delivery,filename|sha512,PURCHASE ORDER.xla|0175a1ca7742a0c8f5c1784eef2180edd40810fdd3fe96f24c53f4d7d0d5a831be8a5a5f3d935f56f43b001e18b15ffc3d4c2e144aa673b55072f0aa5f6a8288,Malspam attachment - source: from siti.fitrina.ishak@maersk.com - subject: PURCHASE ORDER REQUEST mime: application/vnd.ms-excel
+2024-08-28,Payload delivery,filename|ssdeep,PURCHASE ORDER.xla|12288:HAcYYzikO7kmuBkE9kqcgtx2CBRF/dBteYJWhMSPXIGWLSd:HVOykE9kqcgnJnNWyM,Malspam attachment - source: from siti.fitrina.ishak@maersk.com - subject: PURCHASE ORDER REQUEST mime: application/vnd.ms-excel
+2024-08-28,Payload delivery,filename|md5,972a59032c2fff4694784d259a161589.doc|972a59032c2fff4694784d259a161589,Downloaded from http://15.235.47.55/4509/gbv/thisisacutebuttersmoothchocolatemixebutterbunwhichreallysmoothandaamazingfeelgivenformetogetmebacktwith_______sheisbuttersmoothgirl.doc; mime: text/rtf
+2024-08-28,Payload delivery,filename|sha1,972a59032c2fff4694784d259a161589.doc|68ac01e11ca601f28558c653044a52e767d5038f,Downloaded from http://15.235.47.55/4509/gbv/thisisacutebuttersmoothchocolatemixebutterbunwhichreallysmoothandaamazingfeelgivenformetogetmebacktwith_______sheisbuttersmoothgirl.doc; mime: text/rtf
+2024-08-28,Payload delivery,filename|sha256,972a59032c2fff4694784d259a161589.doc|8050bf9f3e5bbe4f9e459f3b6a891bacb69c38a97de239444f878ebcb2e27689,Downloaded from http://15.235.47.55/4509/gbv/thisisacutebuttersmoothchocolatemixebutterbunwhichreallysmoothandaamazingfeelgivenformetogetmebacktwith_______sheisbuttersmoothgirl.doc; mime: text/rtf
+2024-08-28,Payload delivery,filename|sha512,972a59032c2fff4694784d259a161589.doc|d481a601df8cc0c3b6bb588ceaf3c38b46657a76ba47db56c51d2893d22502f2abbbd93fa764552342d93b18d9ffa9f23fb4be78012635758307cf4215ea4417,Downloaded from http://15.235.47.55/4509/gbv/thisisacutebuttersmoothchocolatemixebutterbunwhichreallysmoothandaamazingfeelgivenformetogetmebacktwith_______sheisbuttersmoothgirl.doc; mime: text/rtf
+2024-08-28,Payload delivery,filename|ssdeep,972a59032c2fff4694784d259a161589.doc|384:ymORHcWYXZ4mpGMof2x6pmf1iHDwo3LN2BQqg61X5RAXGF:+RHcj6mpYRwo52BNfLuXo,Downloaded from http://15.235.47.55/4509/gbv/thisisacutebuttersmoothchocolatemixebutterbunwhichreallysmoothandaamazingfeelgivenformetogetmebacktwith_______sheisbuttersmoothgirl.doc; mime: text/rtf
+2024-08-28,Payload delivery,filename|md5,REWS.txt|71c331c44cccc0d0b28f81fa5aacd581,Downloaded from http://15.235.47.55/4509/REWS.txt; mime: text/plain
+2024-08-28,Payload delivery,filename|sha1,REWS.txt|07fd32e2914d2ded916441d12f7bbb1788e891ed,Downloaded from http://15.235.47.55/4509/REWS.txt; mime: text/plain
+2024-08-28,Payload delivery,filename|sha256,REWS.txt|fe5c472375696bf668b3b528e9effd5f9dfb1a2108bcc6e243a091f1afc5c794,Downloaded from http://15.235.47.55/4509/REWS.txt; mime: text/plain
+2024-08-28,Payload delivery,filename|sha512,REWS.txt|56018cfc48b02ca0cf129eb5a02ec8fc2f0828f7fb2e6fd3b5791c218cc65c5f4fc1efa3cbef24b5d594373bf234343d552d2fc75f30f8f3c414c7f5171b1a3d,Downloaded from http://15.235.47.55/4509/REWS.txt; mime: text/plain
+2024-08-28,Payload delivery,filename|ssdeep,REWS.txt|12288:WYkOTDFNXjOsggjpM3IzJquTTYuDu6pELjN/nwVNNv:3/VNlVjpRJ7TTYuDfcjN/wD5,Downloaded from http://15.235.47.55/4509/REWS.txt; mime: text/plain
+2024-08-28,Payload delivery,filename|imphash,dumped_vbs_jpg_.bin|dae02f32a21e03ce65412f6e56942daa,Extracted from vbs.jpg; mime: application/x-dosexec
+2024-08-28,Payload delivery,filename|md5,dumped_vbs_jpg_.bin|d783b01173fc303ec28a741b88fe1a3d,Extracted from vbs.jpg; mime: application/x-dosexec
+2024-08-28,Payload delivery,filename|sha1,dumped_vbs_jpg_.bin|8651f84aff7278b82746f57bdb88712e11c1ef66,Extracted from vbs.jpg; mime: application/x-dosexec
+2024-08-28,Payload delivery,filename|sha256,dumped_vbs_jpg_.bin|ea3b07a2356a7bfb92144f621ba551677a138c31d684072d69a4d37c1a378bb3,Extracted from vbs.jpg; mime: application/x-dosexec
+2024-08-28,Payload delivery,filename|sha512,dumped_vbs_jpg_.bin|ed8afde25389348acc6694a2b0f29b392d9d55b89be9c462cb22b2235b4f11feda65797883be3f64bb12b53e2a5320a6c5a9591dac6a9ba326ae9964c8f110d0,Extracted from vbs.jpg; mime: application/x-dosexec
+2024-08-28,Payload delivery,filename|ssdeep,dumped_vbs_jpg_.bin|12288:h4FP/ea1J+Br7J7cgldmMKrG6H1wtW/PYtvGj9OPI85TG+r1v7fmYKJ3XRZ:t/jcgyDbVwtWnYIj9z+r1v7fPMnRZ,Extracted from vbs.jpg; mime: application/x-dosexec
+2024-08-28,Network activity,url,http://15.235.47.55/4509/REWS.txt,Source: Network activity from newbuttersmoothreversethings.tiff
+2024-08-28,Network activity,url,http://15.235.47.55/4509/gbv/thisisacutebuttersmoothchocolatemixebutterbunwhichreallysmoothandaamazingfeelgivenformetogetmebacktwith_______sheisbuttersmoothgirl.doc,Source: Network activity from https://kutt.uk/GM9eal
+2024-08-28,Network activity,url,http://15.235.47.55/4509/newbuttersmoothreversethings.tIF,Source: Network activity from 972a59032c2fff4694784d259a161589.doc
+2024-08-28,Network activity,url,https://ia803104.us.archive.org/27/items/vbs_20240726_20240726/vbs.jpg,Source: Network activity from newbuttersmoothreversethings.tiff
+2024-08-28,Network activity,url,https://kutt.uk/GM9eal,Source: Network activity from PURCHASE ORDER.xla
+2024-08-28,Payload delivery,filename|md5,newbuttersmoothreversethings.tiff|93857bd5c5e192f479e7051139df21fa,Downloaded from http://15.235.47.55/4509/newbuttersmoothreversethings.tIF; mime: text/plain
+2024-08-28,Payload delivery,filename|sha1,newbuttersmoothreversethings.tiff|7747a35042e6c7eff5919def4596a13d072e0075,Downloaded from http://15.235.47.55/4509/newbuttersmoothreversethings.tIF; mime: text/plain
+2024-08-28,Payload delivery,filename|sha256,newbuttersmoothreversethings.tiff|326db3240e33e0b88cfdb88209e0a13ae340e98d81a2d7caabca5bbb8ddba1ca,Downloaded from http://15.235.47.55/4509/newbuttersmoothreversethings.tIF; mime: text/plain
+2024-08-28,Payload delivery,filename|sha512,newbuttersmoothreversethings.tiff|111f2ccc0a94f1ff8ec3c6b73f160d080bc17cc4aac975ed7d8c883a73c7bccaef93bece25cb1f7583104f900eb18ecd8f6e4bed9932b69fe1746b9d6983ded5,Downloaded from http://15.235.47.55/4509/newbuttersmoothreversethings.tIF; mime: text/plain
+2024-08-28,Payload delivery,filename|ssdeep,newbuttersmoothreversethings.tiff|3072:JxJKdhHVR3mxTsZTgt5p9GwjdDPCLZ+zDpMlrtpk8tiG:JxJ8VxmFXzDelxpttiG,Downloaded from http://15.235.47.55/4509/newbuttersmoothreversethings.tIF; mime: text/plain
+2024-08-28,Payload delivery,filename|md5,vbs.jpg|ea9833e16cdad80a6d93c76f21b7923d,Downloaded from https://ia803104.us.archive.org/27/items/vbs_20240726_20240726/vbs.jpg; mime: image/jpeg
+2024-08-28,Payload delivery,filename|sha1,vbs.jpg|36d45aa76ef6985319cb006d511ccb8de3d3d3bd,Downloaded from https://ia803104.us.archive.org/27/items/vbs_20240726_20240726/vbs.jpg; mime: image/jpeg
+2024-08-28,Payload delivery,filename|sha256,vbs.jpg|572f15cfc87b50c3f32e63f08e32bab2fea7663b1892d84d2c53025d89e6d158,Downloaded from https://ia803104.us.archive.org/27/items/vbs_20240726_20240726/vbs.jpg; mime: image/jpeg
+2024-08-28,Payload delivery,filename|sha512,vbs.jpg|24a5b44f2866b52fa9bee456afffb920cbaeb851a0602001df5316e863ac29e3caea6a335e2b5ac07aaaece98aa10dde814e3170c602b7ecf671f0d90b7a3963,Downloaded from https://ia803104.us.archive.org/27/items/vbs_20240726_20240726/vbs.jpg; mime: image/jpeg
+2024-08-28,Payload delivery,filename|ssdeep,vbs.jpg|24576:hTYZHfhgDs30InKh/z0ZcgymMFCg42xAC5uWvaOXNITMbBEsJM50GGWy:uZHfhgkK3wbO7,Downloaded from https://ia803104.us.archive.org/27/items/vbs_20240726_20240726/vbs.jpg; mime: image/jpeg
+2024-08-28,Payload delivery,filename|md5,remcos.exe|fbfed304aa0320505a322b92eb198d68,Extracted from REWS.txt; mime: application/x-dosexec
+2024-08-28,Payload delivery,filename|sha1,remcos.exe|033eb7a422a4d4d5e61d537a4b8225b335ec153c,Extracted from REWS.txt; mime: application/x-dosexec
+2024-08-28,Payload delivery,filename|sha256,remcos.exe|e9e4c938b340a17f41010be30d4db8ef9c0bceb7743b74b3a348b0f631647cda,Extracted from REWS.txt; mime: application/x-dosexec
+2024-08-28,Payload delivery,filename|sha512,remcos.exe|d4ebaa88fdac70c8dfe486ffd6796848f7f2e9ca89baf5131dde3e9e58b85f7d9eb96da33c00f7500903bc065e0bfc87eb34823f7428c6989424c82c14520a41,Extracted from REWS.txt; mime: application/x-dosexec
+2024-08-28,Payload delivery,filename|imphash,remcos.exe|1389569a3a39186f3eb453b501cfe688,Extracted from REWS.txt; mime: application/x-dosexec
+2024-08-28,Payload delivery,filename|ssdeep,remcos.exe|12288:wTlrYw1RUh3NFn+N5WfIQIjbs/ZBOoT4:ApRUh3NDfIQIjeZ,Extracted from REWS.txt; mime: application/x-dosexec
+2024-08-29,Network activity,ip-dst|port,45.90.89.98|8243,Source: Network activity from remcos.exe

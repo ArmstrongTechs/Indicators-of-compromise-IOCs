@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot malspam - email attachment
+| UUID: 5737a8a4-e5fa-46d7-8fa1-5d283d7c388a
+| Date: 2024-08-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-14,Network activity,url,http://104.248.205.66/index.php/modify.php?edit=1,Lokibot C2
+2024-08-14,Network activity,ip-dst|port,104.248.205.66|80,
+2024-08-14,Payload delivery,malware-sample,Plačilni nalog.cmd|91342878e0e4ec8ad26dd45b1b8c10fb,
+2024-08-14,Payload delivery,filename,Plačilni nalog.cmd,
+2024-08-14,Payload delivery,md5,91342878e0e4ec8ad26dd45b1b8c10fb,
+2024-08-14,Payload delivery,sha1,511acbd2407302d194fac59840574916e39a94da,
+2024-08-14,Payload delivery,sha256,0237272af7668ba9c023c1f756d1d23b4b92ce196f6f4b34f0c71c8a5e80edc6,
+2024-08-14,Other,size-in-bytes,539656,
+2024-08-14,Payload delivery,malware-sample,Plačilni nalog.tar|56c524332e4dfca0adc23c08be3c915c,
+2024-08-14,Payload delivery,filename,Plačilni nalog.tar,
+2024-08-14,Payload delivery,md5,56c524332e4dfca0adc23c08be3c915c,
+2024-08-14,Payload delivery,sha1,b87b576b166398d553983a0a42d9cf3b6f17614c,
+2024-08-14,Payload delivery,sha256,7c9d54229cc9a08ddffa5b061c85078013b4f15a25e8cb975e88f302a6579368,
+2024-08-14,Other,size-in-bytes,516640,
+2024-08-14,Payload installation,malware-sample,F3C4B0E0-lokibot.exe|d195d9b266df9f1fb4b6e5b28f39f840,
+2024-08-14,Payload installation,filename,F3C4B0E0-lokibot.exe,
+2024-08-14,Payload installation,md5,d195d9b266df9f1fb4b6e5b28f39f840,
+2024-08-14,Payload installation,sha1,813d036fbd42074f8ce8c8e5b2f09a1b84900b71,
+2024-08-14,Payload installation,sha256,fa36ec7029a4145902e1ca5fb9eb358d217450503f01ef10c4cce3f17067b4da,
+2024-08-14,Other,size-in-bytes,106496,

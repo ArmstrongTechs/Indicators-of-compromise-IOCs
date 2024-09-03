@@ -1,0 +1,21 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Fake booking.com service website gathering PII including passport
+| UUID: 489836ca-1176-4799-a698-877dc53b085f
+| Date: 2024-08-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-23,Network activity,ip-dst,93.157.63.150,Initial IP used for the setup of the malicious domains
+2024-08-23,Network activity,domain,1fcaa.sbs,
+2024-08-23,Network activity,domain,1fcca.pw,
+2024-08-23,Payload delivery,email-src,michael.gutbier@posteo.com,
+2024-08-23,Network activity,url,https://booking-0ef4-8213-ae7f-3fec3e22.1facc.pw/,
+2024-08-23,Other,text,pw,
+2024-08-23,Other,text,booking-0ef4-8213-ae7f-3fec3e22,
+2024-08-23,Other,text,/,
+2024-08-23,Network activity,hostname,booking-0ef4-8213-ae7f-3fec3e22.1facc.pw,
+2024-08-23,Other,text,1facc,
+2024-08-23,Network activity,domain,1facc.pw,

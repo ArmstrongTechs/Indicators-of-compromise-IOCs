@@ -1,0 +1,16 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Redis bruteforce Attackers [2024-08-01]
+| UUID: b3c4e22e-1771-442d-b6d9-32d4cbff86da
+| Date: 2024-08-01
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-02,Network activity,ip-src,172.168.153.179,Source: alienvault
+2024-08-02,Network activity,ip-src,87.236.176.97,Source: alienvault
+2024-08-02,Network activity,ip-src,106.124.141.198,Source: alienvault
+2024-08-02,Network activity,ip-src,87.236.176.78,Source: alienvault
+2024-08-02,Network activity,ip-src,185.142.236.34,Source: alienvault
+2024-08-02,Network activity,ip-src,87.236.176.76,Source: alienvault

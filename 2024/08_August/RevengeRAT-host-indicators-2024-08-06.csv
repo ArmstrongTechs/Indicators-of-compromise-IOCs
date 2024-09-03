@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: RevengeRAT host indicators [2024-08-06]
+| UUID: 7dc99a35-d2cf-462e-9ecd-dea9be812630
+| Date: 2024-08-06
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-08-07,Payload installation,filename,detalhes relevantes.ppam,Source: MalwareBazaar
+2024-08-07,Payload installation,md5,145d6e35667384492691a6126aafb7f9,Source: MalwareBazaar
+2024-08-07,Payload installation,sha1,c5ea7454057d62517ed3ffa842948b9d6b7ebdc8,Source: MalwareBazaar
+2024-08-07,Payload installation,sha256,be04b4d5018ac364eff7c93f1c211a1e03d59c49a6c2fecc406254b89716d4f4,Source: MalwareBazaar
+2024-08-07,Payload installation,filename,LinhasSumarizadas_2024046175.ppam,Source: MalwareBazaar
+2024-08-07,Payload installation,md5,433bdbd638bb73e32bbd0f09f5b65615,Source: MalwareBazaar
+2024-08-07,Payload installation,sha1,9ada46ba3bf29a15c2fab966b34ff84eafc80e16,Source: MalwareBazaar
+2024-08-07,Payload installation,sha256,c9d30547f95342adddd7fc858c2b26bd7161e7c74d507659047810368cf09425,Source: MalwareBazaar
+2024-08-07,Payload installation,filename,OmnibeesReservas_2024046175.ppam,Source: MalwareBazaar
+2024-08-07,Payload installation,md5,20d950e2c3dfc7f4ed68900accdbe44c,Source: MalwareBazaar
+2024-08-07,Payload installation,sha1,641722745cdfc41f32fa2c47dda5d0c3e708de10,Source: MalwareBazaar
+2024-08-07,Payload installation,sha256,2343875e27c07a7b34b6e97c716568204881cd0588ca1f040774aa088504a605,Source: MalwareBazaar
