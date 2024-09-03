@@ -1,0 +1,37 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Downloaders Grabbed From Honeypot Logs (Week 25/2024)
+| UUID: 47153615-4b53-4019-a0c6-14726b697de8
+| Date: 2024-06-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-14,Payload delivery,url,http://43.231.232.101/GGbins.sh,
+2024-06-14,Payload delivery,url,http://15.204.223.194/Kaiten.mips,
+2024-06-14,Network activity,ip-dst,43.231.232.101,
+2024-06-17,Payload delivery,url,http://158.255.213.225/wget,
+2024-06-17,Payload delivery,url,http://158.255.213.225/mipsel,
+2024-06-17,Payload delivery,url,http://158.255.213.225/superh,
+2024-06-17,Payload delivery,url,http://158.255.213.225/risc,
+2024-06-17,Payload delivery,url,http://158.255.213.225/arc,
+2024-06-17,Payload delivery,url,http://158.255.213.225/mips,
+2024-06-17,Payload delivery,url,http://158.255.213.225/powerpc,
+2024-06-17,Payload delivery,url,http://158.255.213.225/arm6,
+2024-06-17,Payload delivery,url,http://158.255.213.225/arm5,
+2024-06-17,Payload delivery,url,http://158.255.213.225/arm7,
+2024-06-17,Payload delivery,url,http://158.255.213.225/arm4,
+2024-06-17,Payload delivery,url,http://158.255.213.225/sparc,
+2024-06-17,Payload delivery,url,http://158.255.213.225/powerpc64,
+2024-06-17,Network activity,ip-dst,158.255.213.225,
+2024-06-22,Payload delivery,url,http://211.184.58.163:33310/.i,
+2024-06-22,Payload delivery,url,https://raw.githubusercontent.com/aaaaa214432/w/main/Hajime-linux-arm,
+2024-06-22,Payload delivery,url,http://142.171.195.145/HIT;,
+2024-06-22,Payload delivery,url,http://142.171.195.145/HIT,
+2024-06-22,Payload delivery,url,http://156.146.53.101,
+2024-06-22,Payload delivery,url,tftp://5.235.253.130/.i,
+2024-06-22,Network activity,ip-dst,211.184.58.163,
+2024-06-22,Network activity,ip-dst,142.171.195.145,
+2024-06-22,Network activity,ip-dst,156.146.53.101,
+2024-06-22,Network activity,ip-dst,5.235.253.130,

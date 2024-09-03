@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AveMariaRAT host indicators [2024-06-14]
+| UUID: 5bfa629e-4c53-455a-a214-2620bb78db8c
+| Date: 2024-06-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-14,Payload installation,filename,ESTADO_DE_CUENTA.xll,Source: MalwareBazaar
+2024-06-14,Payload installation,md5,6ace04bf02cae95e5237b8047ccbac53,Source: MalwareBazaar
+2024-06-14,Payload installation,sha1,5529bd662f335b91a4a0eea8b53b39b419269a06,Source: MalwareBazaar
+2024-06-14,Payload installation,sha256,26351c3679d0ab48f8fb8503b165237c1f4b194a2ceb16df788b53b3875bf9b7,Source: MalwareBazaar

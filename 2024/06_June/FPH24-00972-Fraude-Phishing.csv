@@ -1,0 +1,19 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00972 [Fraude] [Phishing]
+| UUID: 41a2cd72-b9b3-42a0-a308-59306d7f6f23
+| Date: 2024-06-11
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-11,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+En esta campaña, los delincuentes envían un email fraudulento con un falso aviso de falta de almacenamiento. ¡No hagas clic!En el email malicioso, los delincuentes indican falsamente a la víctima lo siguiente:&quot;Su correo electrónico ha excedido el límite de almacenamiento establecido por el administrador y no puede enviar ni recibir mensajes nuevos hasta que verifique su correo electrónico. Para verificar su correo electrónico haga clic aquí&quot;El correo electrónico incluye un enlace a un formulario para capturar credenciales de usuarios.",Resumen
+2024-06-11,Network activity,ip-src|port,200.6.120.54|36844,IP SMTP
+2024-06-11,Network activity,ip-src,34.117.60.144,IP sitio falso
+2024-06-11,Payload delivery,email-src,edith.bustos@ssarauco.cl,Correo de salida
+2024-06-11,Payload delivery,url,https://lawsonochuko.wixsite.com/validar,URL sitio falso
+2024-06-11,External analysis,attachment,2024-06-11_11h28_51.png,
+2024-06-11,External analysis,attachment,2024-06-11_11h29_20.png,

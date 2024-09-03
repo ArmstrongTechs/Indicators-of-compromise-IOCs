@@ -1,0 +1,34 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Agent Tesla malspam - email attachment
+| UUID: 614e45ee-b29f-4ae3-bc9e-c4220c75b72d
+| Date: 2024-06-26
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-26,Artifacts dropped,filename,%APPDATA%\plQRnonsft\plQRnonsft.exe,
+2024-06-26,Artifacts dropped,regkey,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run\plQRnonsft,
+2024-06-26,Artifacts dropped,regkey,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\plQRnonsft,
+2024-06-26,Network activity,hostname,mail.oserfech.eu,Agent Tesla data exfiltration host (SMTP)
+2024-06-26,Network activity,email-src,admin@oserfech.eu,
+2024-06-26,Network activity,email-dst,nonso@oserfech.eu,
+2024-06-26,Payload delivery,malware-sample,Scaaned_Products_Specifications‮s﻿x﻿l﻿x﻿..exe|68870c1548aaef1ebb33b4bc324a40f8,
+2024-06-26,Payload delivery,filename,Scaaned_Products_Specifications‮s﻿x﻿l﻿x﻿..exe,
+2024-06-26,Payload delivery,md5,68870c1548aaef1ebb33b4bc324a40f8,
+2024-06-26,Payload delivery,sha1,92b3d71abe0ce4d3afc5973a20456ac547fe5f60,
+2024-06-26,Payload delivery,sha256,5e7a31b88c9972678a7f64c36f42d7a0172e3f1672db3aeccc5c7e5c575524c0,
+2024-06-26,Other,size-in-bytes,1703444,
+2024-06-26,Payload delivery,malware-sample,Scaaned_Products_Specifications‮s﻿x﻿l﻿x﻿.rar|cff2d50e6268b1ecd12ebd7e880fdf87,
+2024-06-26,Payload delivery,filename,Scaaned_Products_Specifications‮s﻿x﻿l﻿x﻿.rar,
+2024-06-26,Payload delivery,md5,cff2d50e6268b1ecd12ebd7e880fdf87,
+2024-06-26,Payload delivery,sha1,180a5e7c650d02b437fcb5abe98fabc93ede08da,
+2024-06-26,Payload delivery,sha256,e97f3a6509a904071f9caad377086b99030d3a8ec0dc75551cb16459ce8c0b38,
+2024-06-26,Other,size-in-bytes,612294,
+2024-06-26,Payload installation,malware-sample,267ef629-e3a3-4a20-b34f-7771995f95d3.exe|219c3f0110d5da67f914866a0fa8d332,
+2024-06-26,Payload installation,filename,267ef629-e3a3-4a20-b34f-7771995f95d3.exe,
+2024-06-26,Payload installation,md5,219c3f0110d5da67f914866a0fa8d332,
+2024-06-26,Payload installation,sha1,1337ca27ef8590a7a17be2f1634d6c7cfaf56fa0,
+2024-06-26,Payload installation,sha256,e87d77fdb48833ba147c5939485675f4fea137f1b28276d6a53508ab0c5ae64f,
+2024-06-26,Other,size-in-bytes,250880,

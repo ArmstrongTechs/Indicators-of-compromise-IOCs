@@ -1,0 +1,12 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla network indicators [2024-06-21]
+| UUID: 565688ca-21f0-434a-96a0-823f259d21bc
+| Date: 2024-06-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-21,Network activity,url,http://23.95.235.16/5656/nom/noha.doc,Source: urlhaus
+2024-06-21,Network activity,url,https://ipfs.io/ipfs/QmU99jUVU4mWEyUw7e6kKW8mHeocJZoEM5nUeB87FDFPEh,Source: urlhaus

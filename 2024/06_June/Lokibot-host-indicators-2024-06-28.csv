@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-06-28]
+| UUID: a9900323-516e-4c0a-8ddf-75751d1429e8
+| Date: 2024-06-28
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-28,Payload installation,filename,UTN RFP_24-0676·pdf.exe,Source: MalwareBazaar
+2024-06-28,Payload installation,md5,46d344ac5d61310c1cd684df5c0fce60,Source: MalwareBazaar
+2024-06-28,Payload installation,sha1,8c880aea409374355474de41f8d9541c4100679c,Source: MalwareBazaar
+2024-06-28,Payload installation,sha256,99a956bbed42d1b5d3a07068d0ceee00a3259f34c94cfa182e68483b5fd7ccce,Source: MalwareBazaar

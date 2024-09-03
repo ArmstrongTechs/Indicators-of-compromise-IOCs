@@ -1,0 +1,140 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: New North-Korean based backdoor packs a punch
+| UUID: 9ca40e0a-5249-4de0-885b-aa85bb7414c3
+| Date: 2024-06-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-23,External analysis,link,https://cyberarmor.tech/new-north-korean-based-backdoor-packs-a-punch/,
+2024-06-23,External analysis,link,https://cyberarmor.tech/wp-content/uploads/2024/06/New-North-Korean-based-backdoor-packs-a-punch.pdf,
+2024-06-24,Payload delivery,filename,vjVr53p.yOOL,Payload (encoded)
+2024-06-24,Payload delivery,filename,zT1fbtn.oN5L,Payload
+2024-06-24,Artifacts dropped,windows-service-name,CacheDB,Payload persistence
+2024-06-24,Network activity,url,http://download.uberlingen.com/index.php,C2 server
+2024-06-24,Network activity,url,http://en.uberlingen.com/index.php,C2 server
+2024-06-24,Network activity,url,http://imagedownload.ignorelist.com/index.php,C2 server
+2024-06-24,Network activity,url,http://download-attachments.mooo.com/down.php?ctx=bin&id=danielinternal,Dropper download server
+2024-06-24,Network activity,url,http://playboys.chickenkiller.com/index.php,C2 server
+2024-06-24,Network activity,user-agent,"Mozilla / 5.0 (Windows NT 10.0; Win64; x64) AppleWebKit / 537.36 (KHTML, like Gecko) Chrome / 109.0.3729.169 Safari / 537.36",Payload UA
+2024-06-24,Network activity,ip-dst,67.217.62.219,Resolved IP from C2 servers
+2024-06-24,Payload installation,yara,"import ""pe""
+rule NikiCert
+{
+meta:
+	description = ""Identifies Nexaweb digital certificate used in (likely) Kimsuky campaign.""
+	author = ""@bartblaze, @nsquar3""
+	date = ""2024-06""
+	tlp = ""White""
+	hash_a = ""cca1705d7a85fe45dce9faec5790d498427b3fa8e546d7d7b57f18a925fdfa5d""
+	hash_b = ""000e2926f6e094d01c64ff972e958cd38590299e9128a766868088aa273599c7""
+	reference = ""https://cyberarmor.tech/new-north-korean-based-backdoor-packs-a-punch/""
+
+condition:
+	uint16(0) == 0x5A4D and
+    for any i in (0 .. pe.number_of_signatures) : (
+		pe.signatures[i].serial == ""03:15:e1:37:a6:e2:d6:58:f0:7a:f4:54:c6:3a:0a:f2""
+    )
+}",
+2024-06-24,Payload installation,yara,"rule NikiGo
+{
+meta:
+	description = ""Identifies NikiGo, a Go dropper by (likely) Kimsuky.""
+	author = ""@bartblaze, @nsquar3""
+	date = ""2024-06""
+	tlp = ""White""
+	hash = ""000e2926f6e094d01c64ff972e958cd38590299e9128a766868088aa273599c7""
+	reference = ""https://cyberarmor.tech/new-north-korean-based-backdoor-packs-a-punch/""
+
+strings:
+	$go = ""Go build ID:""
+
+	$func1 = ""main.ParseCommandLine"" ascii wide fullword
+	$func2 = ""main.RunCmd"" ascii wide fullword
+	$func3 = ""main.HttpGet"" ascii wide fullword
+	$func4 = ""main.SelfDel"" ascii wide fullword
+	$func5 = ""main.RandomBytes"" ascii wide fullword
+
+	$pdb_src = ""C:/Users/niki/go/src/niki/auxiliary/engine-binder/main.go"" ascii wide
+	$pdb_path = ""/Users/niki/go/src/niki/auxiliary/engine-binder/"" ascii wide
+	
+condition:
+	uint16(0) == 0x5A4D and $go and (
+	all of ($func*) or
+	any of ($pdb*)
+	)
+}",
+2024-06-24,Payload installation,yara,"rule NikiHTTP
+{
+meta:
+	description = ""Identifies NikiHTTP, a versatile backdoor by (likely) Kimsuky.""
+	author = ""@bartblaze, @nsquar3""
+	date = ""2024-06""
+	tlp = ""White""
+	hash_a = ""3314b6ea393e180c20db52448ab6980343bc3ed623f7af91df60189fec637744""
+	hash_b = ""c94a5817fcd6a4ea93d47d70b9f2b175923a8b325234a77f127c945ae8649874""
+	reference = ""https://cyberarmor.tech/new-north-korean-based-backdoor-packs-a-punch/""
+
+strings:
+	$cmd = {4? 8d 0d be 2f 03 00 4? 85 c0 4? 8d 15 8c 2f 03 00}
+	$str_1 = ""%s%sc %s >%s 2>&1"" ascii wide
+	$str_2 = ""%s%sc %s 2>%s"" ascii wide
+	$str_3 = ""%s:info"" ascii wide
+	
+	//D:\02.data\03.atk-tools\engine\niki\httpSpy\..\bin\httpSpy.pdb
+	$pdb_full = ""\\02.data\\03.atk-tools\\"" ascii wide
+	$pdb_httpspy = ""\\bin\\httpSpy.pdb"" ascii wide
+		
+	$code = { 0f 57 c0 4? 89 7? ?? 33 c0 c7 4? ?? 68 00 00 00 0f 11 4? ?? c7 4? ?? 01 00 00 00 66 4? 89 7? 00 0f 11 4? ?? 4? 89 4? ?? 0f 11 4? ?? c7 44 ?? ?? 53 71 80 60 0f 11 4? ?? c7 44 ?? ?? 71 79 7c 5c 0f 11 4? ?? c7 44 ?? ?? 6d 80 74 63 0f 11 4? ?? 88 44 ?? ?? 0f 11 4? ?? 0f 1f 44 00 00 }
+
+condition:
+	uint16(0) == 0x5A4D and (
+	$cmd or (2 of ($str_*)) or
+	any of ($pdb_*) or $code
+	)
+}",
+2024-06-24,Artifacts dropped,pdb,D:\02.data\03.atk-tools\engine\niki\httpSpy\..\bin\httpSpy.pdb,
+2024-06-24,External analysis,link,https://github.com/bartblaze/Yara-rules,
+2024-06-24,Payload delivery,sha256,4f463f3fe541288d16ffd89f81d83d7e9e7e5a5e476850eac48c782a61a26bc0,RAR archive containing JSE dropper
+2024-06-24,Payload delivery,sha1,df3dd9685d47b0b79d81fb049df3e5a5f2e19db6,
+2024-06-24,Payload delivery,md5,6951bdbd78deb691b9a12de360f31628,
+2024-06-24,Payload delivery,filename,Safety Manager JD (General Dynamics HR Division II).zip,
+2024-06-24,Payload delivery,sha256,24a42a912c6ad98ab3910cb1e031edbdf9ed6f452371d5696006c9cf24319147,JSE Dropper
+2024-06-24,Payload delivery,md5,8346d90508b5d41d151b7098c7a3e868,
+2024-06-24,Payload delivery,sha1,20ea6517f4490dc504756299263a06b1cc8e87e0,
+2024-06-24,Payload delivery,filename,Safety Manager JD (General Dynamics HR Division II).jse,
+2024-06-24,Payload delivery,sha1,5dd9f817d184115d17da659f59641d0cac65db3d,
+2024-06-24,Payload delivery,md5,6e5d5a8d06452852f1ccbc9b6dbab3eb,
+2024-06-24,Payload delivery,sha256,f58a9905aad4d82a89a787017f1a357309caa01e2da081d76671f3319c66aa74,
+2024-06-24,Payload delivery,filename,System Safety Manager JD (General Dynamics HR Division II).pdf,
+2024-06-24,Payload delivery,sha256,3314b6ea393e180c20db52448ab6980343bc3ed623f7af91df60189fec637744,Payload
+2024-06-24,Payload delivery,md5,537806c02659a12c5b21efa51b2322c1,
+2024-06-24,Payload delivery,sha1,c90a00b80670da65da968e0503f41b433888b9d2,
+2024-06-24,Payload delivery,filename,zT1fbtn.oN5L,
+2024-06-24,Payload delivery,filename,httpSpy.dll,Internal filename
+2024-06-24,Payload delivery,sha256,a637d9836285254831c80fdd407f4dae440ad382a23ca12abae2d721cffe913f,Payload
+2024-06-24,Payload delivery,md5,8d948bb863ea38ecb46b7e78d1b1abfa,
+2024-06-24,Payload delivery,sha1,d2b7e3c736a38c56ec3d7d3779fb463a3e472a3a,
+2024-06-24,Payload delivery,filename,httpSpy.dll,Internal filename
+2024-06-24,Payload delivery,filename,icon.ini,
+2024-06-24,Payload delivery,sha256,faca8b6f046dad8f0e27a75fa2dc5477d3ccf44adced64481ef1b0dd968b4b0e,Dropper (ZIP)
+2024-06-24,Payload delivery,md5,b75816a259098d39e5b666a867edf708,
+2024-06-24,Payload delivery,sha1,3775bf222c77eea4683941bd7c51e801f35e07de,
+2024-06-24,Payload delivery,filename,Job Description (LM HR Division II).zip,
+2024-06-24,Payload delivery,sha256,cca1705d7a85fe45dce9faec5790d498427b3fa8e546d7d7b57f18a925fdfa5d,Dropper
+2024-06-24,Payload delivery,md5,73d2899aade924476e58addf26254c2e,
+2024-06-24,Payload delivery,sha1,3671eaf95ce83f769ee2bd73f5c1c9e85b34fee1,
+2024-06-24,Payload delivery,sha256,5b3cc9cced1ef0cb0bba5549cc2ac09c49ae10554d2409ea16bc5e118d278c15,Payload
+2024-06-24,Payload delivery,md5,27d4ff7439694041ef86233c2b804e1f,
+2024-06-24,Payload delivery,sha1,0e42f20eb0aab1a4570b0e96b36ceb88f2c82643,
+2024-06-24,Payload delivery,filename,desktop.ini,
+2024-06-24,Payload delivery,sha256,000e2926f6e094d01c64ff972e958cd38590299e9128a766868088aa273599c7,Dropper (Golang)
+2024-06-24,Payload delivery,md5,aa8936431f7bc0fabb0b9efb6ea153f9,
+2024-06-24,Payload delivery,sha1,e9f134a3f4bc5bec1f71906c37f325808b9da2d9,
+2024-06-24,Payload delivery,filename,Automation Manager JD(LM HR II).scr,
+2024-06-24,Payload delivery,sha256,162b24784dd0dd19c2ce08961a9b836b5ff645d1d02da9c18616a0d348467e61,Payload
+2024-06-24,Payload delivery,md5,a8ed2e894dd32e31dc7a19b5c27686c5,
+2024-06-24,Payload delivery,sha1,5d40a3422b4d5fa9c77eb5c6fd7605c26fa7f0e7,
+2024-06-24,Payload delivery,filename,desktop.ini,

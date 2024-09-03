@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Distribution of AgentTesla via Spoofed Domain and Order Inquiry Theme
+| UUID: 0b77724f-7cc3-4eae-b459-9cfe1798d294
+| Date: 2024-06-02
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-03,Payload delivery,email-reply-to,caroline.evonik@corporate-evonik.com,Mail address used for communication with adversary.
+2024-06-03,Payload delivery,email-subject,Inquiry to place an Order,
+2024-06-03,Payload delivery,email-src-display-name,Caroline,
+2024-06-03,Payload delivery,email-src,caroline@tawazon.pro,

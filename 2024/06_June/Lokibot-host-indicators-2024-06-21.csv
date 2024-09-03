@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-06-21]
+| UUID: d0306cfc-81e5-4935-afb9-4b568b11cd2d
+| Date: 2024-06-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-21,Payload installation,filename,PurchaseXOrderXNo.4036041334.docx,Source: MalwareBazaar
+2024-06-21,Payload installation,md5,e1d91cae0bc5e4510f6a07c38ed9db1f,Source: MalwareBazaar
+2024-06-21,Payload installation,sha1,0d1288b1c6ca2e30910712c5e0d881a8b54caaa2,Source: MalwareBazaar
+2024-06-21,Payload installation,sha256,15479d24a288ccce5ac421de34259518026761dde5f452bc1756fb557b09cfee,Source: MalwareBazaar
+2024-06-22,Payload installation,filename,alphaa.scr.exe,Source: MalwareBazaar
+2024-06-22,Payload installation,md5,d19365fc2ccc333df073965250733847,Source: MalwareBazaar
+2024-06-22,Payload installation,sha1,d09522e390f0d64fa599d65dae741f673f797504,Source: MalwareBazaar
+2024-06-22,Payload installation,sha256,9d788eeec1761ce8aa745c4488a6676d89ed690b5d71a4df06c9ff55d82e1d8c,Source: MalwareBazaar

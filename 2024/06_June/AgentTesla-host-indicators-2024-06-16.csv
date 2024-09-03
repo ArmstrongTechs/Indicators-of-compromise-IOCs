@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-06-16]
+| UUID: 729f3a43-0b9a-4e4b-aa4b-46425b8844ee
+| Date: 2024-06-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-16,Payload installation,filename,Invitation to Bid No.98PM01letter No. 8283 J-80-PM-MRQ-8025-PDF.exe,Source: MalwareBazaar
+2024-06-16,Payload installation,md5,1194e62491f4f10fcf9350468f24008c,Source: MalwareBazaar
+2024-06-16,Payload installation,sha1,0763182ea5268195e565382d2067036477d37d25,Source: MalwareBazaar
+2024-06-16,Payload installation,sha256,5b58d926eed5092379ee1a476cb4faa6b5ea3f8ad79e8c2e0c52c0b91784bc38,Source: MalwareBazaar

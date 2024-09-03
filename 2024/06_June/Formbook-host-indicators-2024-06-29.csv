@@ -1,0 +1,34 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-06-29]
+| UUID: 1e1eaa09-bd51-4674-8940-66e3f3384051
+| Date: 2024-06-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-29,Payload installation,filename,Request for Quotation - e092876.exe,Source: MalwareBazaar
+2024-06-29,Payload installation,md5,b000167fdbac9194bece6ecbca4883f7,Source: MalwareBazaar
+2024-06-29,Payload installation,sha1,13ffe895f1622a0aa98c9859df991a2d2a1be156,Source: MalwareBazaar
+2024-06-29,Payload installation,sha256,788bf2c07ca9619f9e388dc1a068aa4d6c3eb804ea375fb6b575ebe3154e6c54,Source: MalwareBazaar
+2024-06-29,Payload installation,filename,Fiyat ARH-4532817-PO 45328174563.exe,Source: MalwareBazaar
+2024-06-29,Payload installation,md5,bf419752c9d2cdb915bba91c641ad2b3,Source: MalwareBazaar
+2024-06-29,Payload installation,sha1,25b9365ef4ff79cc6abb793c1a2aafe2ab030153,Source: MalwareBazaar
+2024-06-29,Payload installation,sha256,d2b5d02ad0207f69484b73eae658c2c08b747b4b3125e8856c5f0df261217f1e,Source: MalwareBazaar
+2024-06-29,Payload installation,filename,Fiyat ARH-4532817-PO 45328174563.exe,Source: MalwareBazaar
+2024-06-29,Payload installation,md5,66c62f7ac4962d146413ce0b0449c962,Source: MalwareBazaar
+2024-06-29,Payload installation,sha1,d64b467e8fae4a5f69fe425f474bff6d1ce98308,Source: MalwareBazaar
+2024-06-29,Payload installation,sha256,c0e6cea1456ebc9c970e4cfc70ad112501a744373e25c74ae318e9654f852da5,Source: MalwareBazaar
+2024-06-29,Payload installation,filename,DHL AWB COMMERCAIL INVOICE AND TRACKING DETAILS.exe,Source: MalwareBazaar
+2024-06-29,Payload installation,md5,a8d1735c5702af0faf5cc806f6b0a5e0,Source: MalwareBazaar
+2024-06-29,Payload installation,sha1,2379a9d51228b5dbad2b7a38dccd0afdf68ac489,Source: MalwareBazaar
+2024-06-29,Payload installation,sha256,2c38956763bb9c8df8d9eb32a8f30252e3e4ac0249f650f609d0036a16e01b9e,Source: MalwareBazaar
+2024-06-29,Payload installation,filename,Recibo de envío de DHL_Guía de embarque Doc_PRG211003417144356060.PDF.exe,Source: MalwareBazaar
+2024-06-29,Payload installation,md5,437ab2592608e8c710d9165cff2bacae,Source: MalwareBazaar
+2024-06-29,Payload installation,sha1,935c5fe81f335ec3132c79b9f8e1e21c242a235d,Source: MalwareBazaar
+2024-06-29,Payload installation,sha256,5d1c2ac36ca274835d9025eb9e3f7a113cf57509898e02cb9add7a97824cea59,Source: MalwareBazaar
+2024-06-30,Payload installation,filename,Wave.exe,Source: MalwareBazaar
+2024-06-30,Payload installation,md5,2bebcc27d5c495d9b776162968f42b07,Source: MalwareBazaar
+2024-06-30,Payload installation,sha1,bfa471133b6a8b74b35fa054e62871c6ce05f873,Source: MalwareBazaar
+2024-06-30,Payload installation,sha256,dcf95d14fbf8ed9cef6cf7be3e71a753d5334c1be5deaba771d8354f5bd0f5e6,Source: MalwareBazaar

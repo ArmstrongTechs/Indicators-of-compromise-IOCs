@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-06-06]
+| UUID: bb95a80b-84b7-4c51-a873-f33dbe3f1cc7
+| Date: 2024-06-06
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-06,Payload installation,filename,Maersk_SVRhXM4JeryzaVE.exe,Source: MalwareBazaar
+2024-06-06,Payload installation,md5,df3163b64cb2001df0d95727cd777b21,Source: MalwareBazaar
+2024-06-06,Payload installation,sha1,6e9a749fd099ba82f6b2b8eeac94933f40449438,Source: MalwareBazaar
+2024-06-06,Payload installation,sha256,f06d778eb278b9611ef39826907f9e083fb392e90fb313a9549d3b67971b1ae8,Source: MalwareBazaar
+2024-06-06,Payload installation,filename,Maersks_Quotation.exe,Source: MalwareBazaar
+2024-06-06,Payload installation,md5,7e7cf728c28c04d181a53b7a1f1040ec,Source: MalwareBazaar
+2024-06-06,Payload installation,sha1,adaaae1fc339becd50905220a5fd1b88b3b8baf0,Source: MalwareBazaar
+2024-06-06,Payload installation,sha256,6968fe8fcbbb5e1b6577634abf33c41d1fec5feb5eba4146595520e636d3291b,Source: MalwareBazaar
+2024-06-06,Payload installation,filename,DHL_AWB# 28069051363.exe,Source: MalwareBazaar
+2024-06-06,Payload installation,md5,ec3c91bb3c92359b9a924dd7e5983455,Source: MalwareBazaar
+2024-06-06,Payload installation,sha1,0d023380f0b5260aeeabfb2546e084f3dd836cc1,Source: MalwareBazaar
+2024-06-06,Payload installation,sha256,9899fb189451ad957e854a2c5d0244b1d9b48951c76ef4a310ba8d11ca3d7ff2,Source: MalwareBazaar
+2024-06-06,Payload installation,filename,DHL 송장.pdf.exe,Source: MalwareBazaar
+2024-06-06,Payload installation,md5,0f49bb0c2a604fa78ec0bd36b0a7f364,Source: MalwareBazaar
+2024-06-06,Payload installation,sha1,5753b5b6e57c521670d901f441f8e2c65292542e,Source: MalwareBazaar
+2024-06-06,Payload installation,sha256,060ad64d6e63aedbc2250c784d91852e3c2e113aca058565c8988d1930220a83,Source: MalwareBazaar

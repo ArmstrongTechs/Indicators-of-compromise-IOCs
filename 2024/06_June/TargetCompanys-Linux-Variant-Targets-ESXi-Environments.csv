@@ -1,0 +1,24 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: TargetCompany’s Linux Variant Targets ESXi Environments
+| UUID: 2b0d7032-80e1-4400-bcee-007359e1fbc9
+| Date: 2024-07-01
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-01,Payload delivery,sha1,dffa99b9fe6e7d3e19afba38c9f7ec739581f656,
+2024-07-01,Payload delivery,filename,Ransom.Linux.TARGETCOMP.YXEEQT,
+2024-07-01,Payload delivery,sha1,2b82b463dab61cd3d7765492d7b4a529b4618e57,
+2024-07-01,Payload delivery,filename,Trojan.SH.TARGETCOMP.THEAGBD,
+2024-07-01,Payload delivery,sha1,9779aa8eb4c6f9eb809ebf4646867b0ed38c97e1,
+2024-07-01,Payload delivery,filename,Ransom.Win64.TARGETCOMP.YXECMT,
+2024-07-01,Payload delivery,sha1,3642996044cd85381b19f28a9ab6763e2bab653c,
+2024-07-01,Payload delivery,filename,Ransom.Win64.TARGETCOMP.YXECFT,
+2024-07-01,Payload delivery,sha1,4cdee339e038f5fc32dde8432dc3630afd4df8a2,
+2024-07-01,Payload delivery,filename,Ransom.Win32.TARGETCOMP.SMYXCLAZ,
+2024-07-01,Payload delivery,sha1,0f6bea3ff11bb56c2daf4c5f5c5b2f1afd3d5098,
+2024-07-01,Network activity,url,http://111.10.231.151:8168/general/vmeet/upload/temp/x.sh,
+2024-07-01,Network activity,url,http://111.10.231.151:8168/general/vmeet/upload/temp/x,
+2024-07-01,Network activity,url,http://111.10.231.151:8168/general/vmeet/upload/temp/post.php,

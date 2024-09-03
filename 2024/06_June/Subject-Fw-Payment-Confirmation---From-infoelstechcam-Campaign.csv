@@ -1,0 +1,47 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Fw: Payment Confirmation - From: info@elstech.cam"" Campaign"
+| UUID: 13f6d10a-e2df-4d91-a463-f19287b99a33
+| Date: 2024-06-12
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-12,Payload delivery,email-src,info@elstech.cam,Source email: from info@elstech.cam - subject: Fw: Payment Confirmation
+2024-06-12,Payload delivery,email-src-display-name,Daniella,Source email: from info@elstech.cam - subject: Fw: Payment Confirmation
+2024-06-12,Payload delivery,email-body,"Good morning,
+
+Please find attached remittance slip, the payment will reflect on you account in two working days depending on your bank.
+
+Best Regards.
+Daniella Accounting
+Elstech LLC
+
+ 
+  
+
+    
+
+ 
+ 
+   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ This e-mail may contain confidential and/or privileged information.. The information is intended for the addressee only. If you are not the addressee, any disclosure, copy, distribution or use of the contents of this message is prohibited. If you have received this electronic message in error, please destroy the original message and all copies.
+
+ 
+   This email has been sent from a virus-free computer protected by Avast.
+ www.avast.com",Source email: from info@elstech.cam - subject: Fw: Payment Confirmation
+2024-06-12,Payload delivery,email-subject,Fw: Payment Confirmation,Source: from info@elstech.cam - subject: Fw: Payment Confirmation
+2024-06-12,Payload delivery,filename|sha256,scan230524.zip|f1e8b28f0127dee71e7a7a50b8ad839a889c261bbaa6e15a62a690ac6e5dab89,Malspam attachment - source: from info@elstech.cam - subject: Fw: Payment Confirmation mime: application/zip
+2024-06-12,Payload delivery,filename|ssdeep,scan230524.zip|12288:icsoDYredFcP93heQ6wXuOMeYEy2BYCwa+NBsIUopivWCWlnsOxQlu:Bkm49F6PP92BOUot/lnfOu,Malspam attachment - source: from info@elstech.cam - subject: Fw: Payment Confirmation mime: application/zip
+2024-06-12,Payload delivery,filename|sha1,scan230524.zip|3719f79bec740f5938a24c15c6744e1f58503417,Malspam attachment - source: from info@elstech.cam - subject: Fw: Payment Confirmation mime: application/zip
+2024-06-12,Payload delivery,filename|sha512,scan230524.zip|e4287d8d386be68723d0f033db6e1265fea52f83428de079d4091e7a1e32d6c2196ceaf1b0942e614c51fbb4765077d48bc2422a333c2cea73afbafa40c466cb,Malspam attachment - source: from info@elstech.cam - subject: Fw: Payment Confirmation mime: application/zip
+2024-06-12,Payload delivery,filename|md5,scan230524.zip|00f8782a7479b3ef8cad160348eb718e,Malspam attachment - source: from info@elstech.cam - subject: Fw: Payment Confirmation mime: application/zip
+2024-06-12,Payload delivery,filename|sha1,scan230524.scr|3b6ba7a3706a0980b0ff5f7d671a58e82554e554,Archive contents - source: scan230524.zip mime: application/x-dosexec
+2024-06-12,Payload delivery,filename|imphash,scan230524.scr|f34d5f2d4577ed6d9ceec516c1f5a744,Archive contents - source: scan230524.zip mime: application/x-dosexec
+2024-06-12,Payload delivery,filename|ssdeep,scan230524.scr|12288:jtI2P9v0Q6wluOMIA+y2LYmw44BBcIaoDGPcCW510CEwI:jtIq9l6PV72Lyao9/5G,Archive contents - source: scan230524.zip mime: application/x-dosexec
+2024-06-12,Payload delivery,filename|sha256,scan230524.scr|0939938762d2fc71692c741069e6936263062606267c15134e03b003fab93d61,Archive contents - source: scan230524.zip mime: application/x-dosexec
+2024-06-12,Payload delivery,filename|sha512,scan230524.scr|f9437e2a3b88941e2a923d59f47a6fcfef367f87d458d51de9fb51f0d4258c7feab4363ab82c21d6c39a17344d29e018fac33c2ee35f5ffde54d1bd69fb6c8c8,Archive contents - source: scan230524.zip mime: application/x-dosexec
+2024-06-12,Payload delivery,filename|md5,scan230524.scr|73d3e083bf0961604847bebcfa8c4146,Archive contents - source: scan230524.zip mime: application/x-dosexec
+2024-06-12,Network activity,url,ftp://ftp.prokemsc.com,Source: Network activity from scan230524.scr; data exfiltration via FTP
+2024-06-12,Network activity,email,ama@prokemsc.com,Source: Network activity from scan230524.scr; data exfiltration via FTP

@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2024-06-22]
+| UUID: 7c812870-e01c-45ef-a69b-0979b42bda7a
+| Date: 2024-06-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-22,Payload installation,filename,W091.exe,Source: MalwareBazaar
+2024-06-22,Payload installation,md5,2985fc26d5f8ad003d24abd34368d6f2,Source: MalwareBazaar
+2024-06-22,Payload installation,sha1,2884dd1a864147dfe3be5abe60ff2ddb05dcbd8f,Source: MalwareBazaar
+2024-06-22,Payload installation,sha256,3d6fb00c157c2f2a685f9e0465a67f83f8bada6604a6f9e43cf5c841dcb00b47,Source: MalwareBazaar
+2024-06-22,Payload installation,filename,BVSYd4tm.exe,Source: MalwareBazaar
+2024-06-22,Payload installation,md5,bb7170cddabbe302e36414eb9ecae880,Source: MalwareBazaar
+2024-06-22,Payload installation,sha1,6a1a0a3f40ff9b81c8e75436fc1465aaca719d63,Source: MalwareBazaar
+2024-06-22,Payload installation,sha256,fc2631c62f5aadf52a4f83289493d04a5ab8a108d004eb6a55eacbf98df41f08,Source: MalwareBazaar

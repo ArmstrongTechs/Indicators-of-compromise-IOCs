@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-06-18]
+| UUID: c472caa7-292a-4603-b55c-400cece5ba74
+| Date: 2024-06-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-18,Payload installation,filename,1b27e622f4edbbdd8fc93a0d1c129607.exe,Source: MalwareBazaar
+2024-06-18,Payload installation,md5,1b27e622f4edbbdd8fc93a0d1c129607,Source: MalwareBazaar
+2024-06-18,Payload installation,sha1,3e7b42dd10c01f632f158cc96701f6ba49ebec48,Source: MalwareBazaar
+2024-06-18,Payload installation,sha256,164e19d48c8d3ed423d4d4c68dff47899f375b6ef4f2a27005562e16b3a8d33f,Source: MalwareBazaar
+2024-06-19,Payload installation,filename,Apex-ghostware-apex-hacks.zip,Source: MalwareBazaar
+2024-06-19,Payload installation,md5,56819905506b605b88d2e6513c91bc25,Source: MalwareBazaar
+2024-06-19,Payload installation,sha1,f64b5b5cdb72eabd3ba9ddcd3fbfa2a7211caa6c,Source: MalwareBazaar
+2024-06-19,Payload installation,sha256,4e85fc6b1d7119195b46633bd051c65074eebf181d8f9cd142ecc0e7a9bcc3b8,Source: MalwareBazaar

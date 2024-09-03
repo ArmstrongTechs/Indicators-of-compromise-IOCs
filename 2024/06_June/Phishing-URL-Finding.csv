@@ -1,0 +1,38 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Phishing URL Finding
+| UUID: acd24fd5-a787-44f3-8d64-d18515624845
+| Date: 2024-06-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-29,Network activity,ip-src,213.238.180.244,IP
+2024-06-29,Network activity,hostname,tc-adl.org,Host name or IP address of the phishing attack
+2024-06-29,Network activity,url,https://tc-adl.org/b/public/signup,Source URL
+2024-06-29,Other,text,Electronic Judicial Services System Iran,Target of the attack
+2024-06-29,Other,text,Yes,
+2024-06-29,External analysis,attachment,Screenshot.png,Screenshot of the phishing attack
+2024-06-29,Other,text,Istanbul,
+2024-06-29,Other,text,34096,
+2024-06-29,Other,text,Istanbul,
+2024-06-29,Other,text,TR,
+2024-06-29,Other,float,41.0138,
+2024-06-29,Other,float,28.9497,
+2024-06-29,Network activity,hostname,hostmaster.poyrazhosting.com.tr,
+2024-06-29,Network activity,ip-dst,213.238.180.244,
+2024-06-29,Network activity,AS,210574,
+2024-06-29,Other,text,YUNUS EMRE ATILGAN trading as POYRAZ HOSTING,
+2024-06-29,Network activity,domain,tc-adl.org,
+2024-06-29,Attribution,whois-registrar,NAMECHEAP INC,
+2024-06-29,Other,text,1068,
+2024-06-29,Other,text,org,
+2024-06-29,Other,text,Public Interest Registry,
+2024-06-29,Network activity,hostname,ns10.eliss.site,
+2024-06-29,Network activity,hostname,ns11.eliss.site,
+2024-06-29,Attribution,whois-creation-date,2024-06-23 01:34:41,
+2024-06-29,Other,datetime,2024-06-23T01:34:45.000000+0000,
+2024-06-29,Other,datetime,2025-06-23T01:34:41.000000+0000,
+2024-06-29,Other,datetime,2024-06-29T13:34:48.000000+0000,
+2024-06-29,Other,datetime,2024-06-29T13:45:14.000000+0000,

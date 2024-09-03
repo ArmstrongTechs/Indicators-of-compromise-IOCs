@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-06-27]
+| UUID: 1f5b2037-d741-41b8-b554-9d7890413695
+| Date: 2024-06-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-27,Payload installation,filename,Quote Request (Tupy S.A.) 523AM - 924BR·pdf.exe,Source: MalwareBazaar
+2024-06-27,Payload installation,md5,93a658e985408e0538044b8b91a2729c,Source: MalwareBazaar
+2024-06-27,Payload installation,sha1,c1f250915cb43fc6a46d29dc28a1f09881fe0ded,Source: MalwareBazaar
+2024-06-27,Payload installation,sha256,1789a36b829cd09dc4fd24323a0d1bb900494714b4cc7083af651630f2c42d2f,Source: MalwareBazaar
+2024-06-27,Payload installation,filename,Document BT24·pdf.exe,Source: MalwareBazaar
+2024-06-27,Payload installation,md5,55d49f5f1c74dc50dd5ca4b0298a9e5d,Source: MalwareBazaar
+2024-06-27,Payload installation,sha1,594dd375a711937812fa7c93ec57eed34fa50edb,Source: MalwareBazaar
+2024-06-27,Payload installation,sha256,aac1416d21318d7eec4ecc4e87d91cfbee0b5d569ff9642070c9947c4c59265e,Source: MalwareBazaar
+2024-06-27,Payload installation,filename,SecuriteInfo.com.W32.MSIL_Agent.IGJ.gen.Eldorado.22518.20282,Source: MalwareBazaar
+2024-06-27,Payload installation,md5,e4979c53302e30f656edf76043b5944a,Source: MalwareBazaar
+2024-06-27,Payload installation,sha1,0da3297c718121717f9379d6bb27a1c236060c18,Source: MalwareBazaar
+2024-06-27,Payload installation,sha256,3b253bddd8e49b0353b44254fdc82c53c1614f5c2d09e2fde95698ad3a7815a0,Source: MalwareBazaar
+2024-06-28,Payload installation,filename,RFQQUOTE.exe,Source: MalwareBazaar
+2024-06-28,Payload installation,md5,43aa439728e895604786378cc1cc9577,Source: MalwareBazaar
+2024-06-28,Payload installation,sha1,c483d8f082b5061b97696a2e38dc14189d3ad2e2,Source: MalwareBazaar
+2024-06-28,Payload installation,sha256,386e207d9e5d4cf9c0b19777baf11453dc49d344a40638f4e0258649610fe095,Source: MalwareBazaar

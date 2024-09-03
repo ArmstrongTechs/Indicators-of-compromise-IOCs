@@ -1,0 +1,32 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Agent Tesla v .img priponki (SMTP exfil)
+| UUID: 1f3b0323-d2d6-40db-9f0d-b2a5d595e945
+| Date: 2024-06-12
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-12,Network activity,url,https://topartbisztro.hu/qgtALHSmqNdkVSvzmCF87.bin,Payload delivery
+2024-06-12,Network activity,domain,mail.mosir.ehost.pl,SMTP exfil server
+2024-06-12,Network activity,email-src,it@mosir.ehost.pl,SMTP Exfil
+2024-06-12,Network activity,email-dst,data@mosir.ehost.pl,SMTP Exfil
+2024-06-12,Payload delivery,malware-sample,doc023571961541.img|2b4c91f0463c79ca8269ae0d3a2c8ade,
+2024-06-12,Payload delivery,filename,doc023571961541.img,
+2024-06-12,Payload delivery,md5,2b4c91f0463c79ca8269ae0d3a2c8ade,
+2024-06-12,Payload delivery,sha1,1a0ccf5d0710e0c99d5fe67ee64f60974d8bf152,
+2024-06-12,Payload delivery,sha256,3046dd3c67642f42e6065304d939f1465c077a4fa3f994057c9e5c02b7e0b8e5,
+2024-06-12,Other,size-in-bytes,1441792,
+2024-06-12,Payload delivery,malware-sample,doc023571961541.bat|68714e4899f9df48f622348626e23c64,
+2024-06-12,Payload delivery,filename,doc023571961541.bat,
+2024-06-12,Payload delivery,md5,68714e4899f9df48f622348626e23c64,
+2024-06-12,Payload delivery,sha1,306b11b4834743aac0792259466c639fab83b3f4,
+2024-06-12,Payload delivery,sha256,19b87d8cacb5c4ef80c62f25834497fe96304fb15420c0573ac71d136bbe0da1,
+2024-06-12,Other,size-in-bytes,885837,
+2024-06-12,Payload delivery,malware-sample,qgtALHSmqNdkVSvzmCF87.bin|c2fada69bfd414c6b18cfc9551c10411,
+2024-06-12,Payload delivery,filename,qgtALHSmqNdkVSvzmCF87.bin,
+2024-06-12,Payload delivery,md5,c2fada69bfd414c6b18cfc9551c10411,
+2024-06-12,Payload delivery,sha1,960df59c00849f5d3ba004553f9b7367ad7b3f78,
+2024-06-12,Payload delivery,sha256,9af10e4dfb674aa425e7c5514dd4cdee5b119e5145a60d228eeb32d80accde1a,
+2024-06-12,Other,size-in-bytes,246336,

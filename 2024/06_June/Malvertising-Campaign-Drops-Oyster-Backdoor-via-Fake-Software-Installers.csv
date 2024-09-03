@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Malvertising Campaign Drops Oyster Backdoor via Fake Software Installers
+| UUID: 1bd3c7cc-0161-4ebd-8995-d8f64fea6f23
+| Date: 2024-06-17
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-18,Payload delivery,sha256,9601f3921c2cd270b6da0ba265c06bae94fd7d4dc512e8cb82718eaa24accc43,
+2024-06-18,Payload delivery,sha256,574c70e84ecdad901385a1ebf38f2ee74c446034e97c33949b52f3a2fddcd822,
+2024-06-18,Payload delivery,sha256,cfc2fe7236da1609b0db1b2981ca318bfd5fbbb65c945b5f26df26d9f948cbb4,
+2024-06-18,Payload delivery,sha256,82b246d8e6ffba1abaffbd386470c45cef8383ad19394c7c0622c9e62128cb94,
+2024-06-18,Payload delivery,sha256,b53f3c0cd32d7f20849850768da6431e5f876b7bfa61db0aa0700b02873393fa,
+2024-06-18,Network activity,url,micrsoft-teams-download.com,
+2024-06-18,Network activity,url,prodfindfeatures.com,
+2024-06-18,Network activity,url,impresoralaser.pro,

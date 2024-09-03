@@ -1,0 +1,21 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00979 [Fraude] [Phishing]
+| UUID: cbe0ffa6-cd91-44e7-bb63-80bdf7fda96a
+| Date: 2024-06-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-25,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+Se trata de una nueva campaña de phishing a través de email, que suplanta a Líder BCI.En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente:&quot;Tenemos un Avance para que pases el mes sin preocupaciones aqui:&quot;El correo electrónico fraudulento incluye un enlace a un formulario malicioso usado para capturar credenciales de los usuarios.",Resumen
+2024-06-25,Network activity,ip-src,112.175.79.23,IP SMTP
+2024-06-25,Network activity,ip-src,172.67.138.151,IP sitio falso
+2024-06-25,Payload delivery,email-src,apache@localhost.localdomain,Correo de salida
+2024-06-25,Payload delivery,email-subject,Aumento Disponible,Asunto correo
+2024-06-25,Payload delivery,url,https://liderbciserviciosfinancieros-cl.lider-cl.sbs/1719331114/login/index.html,URL sitio falso
+2024-06-25,Payload delivery,url,https://tarjetaliderbci.cuposchile.info/lider/?https://tarjetaliderbci.cl/contenidos/creditos/detalle/284/avance,URL redirección
+2024-06-25,External analysis,attachment,2024-06-25_12h07_53.png,
+2024-06-25,External analysis,attachment,2024-06-25_12h07_22.png,

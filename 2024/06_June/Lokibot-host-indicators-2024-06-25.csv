@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-06-25]
+| UUID: 9848c5da-aa55-4570-b899-487e18f446ef
+| Date: 2024-06-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-25,Payload installation,filename,SWU5109523I.exe,Source: MalwareBazaar
+2024-06-25,Payload installation,md5,1af02455b4d35d282469dde4144cbd07,Source: MalwareBazaar
+2024-06-25,Payload installation,sha1,bcd8d182b9d8036ce3b31c4fac14cb1d074e45ff,Source: MalwareBazaar
+2024-06-25,Payload installation,sha256,2407da1627f35dafc162c06c93c95d612ac0349488241d297152e41d0f8af7a0,Source: MalwareBazaar
+2024-06-25,Payload installation,filename,SWU5109523I.7z,Source: MalwareBazaar
+2024-06-25,Payload installation,md5,36284d227825c61d94b0b0ae6984d94c,Source: MalwareBazaar
+2024-06-25,Payload installation,sha1,b74f9df6926ec26227026a0e346edf7bee2d23a7,Source: MalwareBazaar
+2024-06-25,Payload installation,sha256,6628f1123f4f18db8b6e612037714c9b0e314a495df027b2ba99aa9dfe87a71e,Source: MalwareBazaar

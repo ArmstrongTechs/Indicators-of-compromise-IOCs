@@ -1,0 +1,34 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-06-27]
+| UUID: 7b4b9aab-89d1-47a9-9558-463615774f31
+| Date: 2024-06-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-27,Payload installation,filename,AirWaybill_Document Pdf.exe,Source: MalwareBazaar
+2024-06-27,Payload installation,md5,2b0ade9bff0f64153eb7db5fe0e912a7,Source: MalwareBazaar
+2024-06-27,Payload installation,sha1,097afa105974609aa0e92e2081d69e0722bb661c,Source: MalwareBazaar
+2024-06-27,Payload installation,sha256,5fd6c4eb4268bb1305c9b5150b0132ff5aaec930549f63bb3ad52392d711e8ce,Source: MalwareBazaar
+2024-06-27,Payload installation,filename,PO 3652340.pdf.7z,Source: MalwareBazaar
+2024-06-27,Payload installation,md5,02251662fb3b9a426559e4e8d81dd5a5,Source: MalwareBazaar
+2024-06-27,Payload installation,sha1,5803d25fd63ed937182e85d669923fb00d4f3e93,Source: MalwareBazaar
+2024-06-27,Payload installation,sha256,661ec2851796f8e3b3599cd7667bbeea233411cd04899422c826f377c4677354,Source: MalwareBazaar
+2024-06-27,Payload installation,filename,27062024-322copy.exe,Source: MalwareBazaar
+2024-06-27,Payload installation,md5,a37f4e7d2f3ac6c995f1986fcc9bb48f,Source: MalwareBazaar
+2024-06-27,Payload installation,sha1,4e922eccec03db2683096b531801c73227e5ff42,Source: MalwareBazaar
+2024-06-27,Payload installation,sha256,76f267de8fd5fa4744fb8294ee9a4765afeba03b36244527feca60a32df155af,Source: MalwareBazaar
+2024-06-27,Payload installation,filename,PO 3652340.pdf.exe,Source: MalwareBazaar
+2024-06-27,Payload installation,md5,2be4399b8d378c67c59765963d6be95b,Source: MalwareBazaar
+2024-06-27,Payload installation,sha1,00f0311c185585bf89456117fe82b0b1254c8fc8,Source: MalwareBazaar
+2024-06-27,Payload installation,sha256,acc92a65ca022b4655bab496f447640dfe74055e9fbfcdf63e3e681ddf6b3bb8,Source: MalwareBazaar
+2024-06-27,Payload installation,filename,27062024-322copy.img,Source: MalwareBazaar
+2024-06-27,Payload installation,md5,5c893b03b1a2fdf52bd4c6cb333f9c02,Source: MalwareBazaar
+2024-06-27,Payload installation,sha1,b91986e93e5258c46bc3aa1eadbb4c5b716877b9,Source: MalwareBazaar
+2024-06-27,Payload installation,sha256,22353112183fd96e23f5a134378ad7856f7a02c064d838a292ef65261ac5a98b,Source: MalwareBazaar
+2024-06-27,Payload installation,filename,RFQ - 5002172340000.exe,Source: MalwareBazaar
+2024-06-27,Payload installation,md5,ed1c2108155d80d9efc4de780bf418f4,Source: MalwareBazaar
+2024-06-27,Payload installation,sha1,601daced216cf387ca562a8a82f84efcd9396b85,Source: MalwareBazaar
+2024-06-27,Payload installation,sha256,04f766e96c08641a7ee07a0186ea7cdfbdd069ed1dbc73e6f88ea8ce97d97e8d,Source: MalwareBazaar

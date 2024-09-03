@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-06-30]
+| UUID: 56fb429e-2ba3-4d61-aea8-7056f8492020
+| Date: 2024-07-01
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-01,Payload installation,filename,arrival notice_pdf.exe,Source: MalwareBazaar
+2024-07-01,Payload installation,md5,0a45cffdcecf877a9c48a8e66d15784c,Source: MalwareBazaar
+2024-07-01,Payload installation,sha1,3726e50adb2798cee3ac320ff6af9d9c449734f0,Source: MalwareBazaar
+2024-07-01,Payload installation,sha256,67111d8a726c358c56341c8aabc479e49de68e1806a7ef70d348d8a915990e67,Source: MalwareBazaar

@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-06-04]
+| UUID: 2efbee64-1adc-44aa-a54c-26f29d6b9930
+| Date: 2024-06-05
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-05,Payload installation,filename,staff records.exe,Source: MalwareBazaar
+2024-06-05,Payload installation,md5,f9c728c1291940d7c9434b90fafab1e7,Source: MalwareBazaar
+2024-06-05,Payload installation,sha1,317de5cea87244d26eab28492f94e3d4510d0d59,Source: MalwareBazaar
+2024-06-05,Payload installation,sha256,0fde9e8fc25981ecfa8b50415b78ed0b61daa5b224bfcc2f0afea6e9c40097f1,Source: MalwareBazaar
+2024-06-05,Payload installation,filename,gunzipped.exe,Source: MalwareBazaar
+2024-06-05,Payload installation,md5,5b69e26300ba5035ce6f6d8979061b34,Source: MalwareBazaar
+2024-06-05,Payload installation,sha1,dd4d666e576592867437bb7b6e9766e3e81f1930,Source: MalwareBazaar
+2024-06-05,Payload installation,sha256,08cdc9e60803ba426c8fe8a281fcedc8c9990d8cc3b706eb613f34cbaeb23bf0,Source: MalwareBazaar

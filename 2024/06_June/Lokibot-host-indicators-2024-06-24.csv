@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-06-24]
+| UUID: 3a6050c9-525f-4165-a090-675ad0331bac
+| Date: 2024-06-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-24,Payload installation,filename,PLANT PROJECT PROPOSAL BID_24-0676·pdf.exe,Source: MalwareBazaar
+2024-06-24,Payload installation,md5,76e2017ac06cb371534484026354166b,Source: MalwareBazaar
+2024-06-24,Payload installation,sha1,675b71298410de5703fdc9bcd81b29de0ff8a326,Source: MalwareBazaar
+2024-06-24,Payload installation,sha256,659a432dd59291bab8b1bb3c78c3d26c8080cbb255e5407f504fe6e24f175352,Source: MalwareBazaar

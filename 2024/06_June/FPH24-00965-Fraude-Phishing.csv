@@ -1,0 +1,19 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00965 [Fraude] [Phishing]
+| UUID: c9cb81a0-e08e-470f-b6a7-ad860142acbb
+| Date: 2024-06-05
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-06,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+En esta campaña, delincuentes envían un email falso que simula ser una supuesta actualización de las cuentas de correo electrónico. ¡No hagas clic!En el email malicioso, los delincuentes indican falsamente a la víctima lo siguiente:&quot;En nuestro intento de mejorar la seguridad y la calidad de nuestros servicios de correo electrónico, actualizaremos todas las cuentas de correo electrónico en nuestra base de datos. Esta actualización solo tomará unos minutos y durante esta actualización puede experimentar una ligera interrupción del servicio, lo que significa que enviar y recibir correos electrónicos puede tardar un poco o ser imposible.&quot;El correo electrónico incluye un enlace a un formulario diseñado para capturar credenciales de usuarios.",Resumen
+2024-06-06,Network activity,ip-src,162.255.116.72,IP sitio falso
+2024-06-06,Network activity,ip-src,181.210.30.114,IP SMTP
+2024-06-06,Payload delivery,email-subject,Anuncio del sistema,Asunto correo
+2024-06-06,Payload delivery,url,https://webcenicansenc.wapka.co/,URL sitio falso
+2024-06-06,External analysis,attachment,2024-06-04_11h24_34.png,
+2024-06-06,External analysis,attachment,2024-06-04_11h25_44.png,

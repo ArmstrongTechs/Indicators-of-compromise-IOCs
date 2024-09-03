@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-06-12]
+| UUID: ca3c1f25-e7c7-43c1-81b7-e5401b70a71b
+| Date: 2024-06-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-12,Payload installation,filename,1ebc16b09f9f1cdf224a0b50333c95ae.exe,Source: MalwareBazaar
+2024-06-12,Payload installation,md5,1ebc16b09f9f1cdf224a0b50333c95ae,Source: MalwareBazaar
+2024-06-12,Payload installation,sha1,33c77f6b12a89171f91a212b233a43d4dfd9be71,Source: MalwareBazaar
+2024-06-12,Payload installation,sha256,4e5e207318513ffd66653a5106a121d2790a98dc25a103c67c3476b142612915,Source: MalwareBazaar
+2024-06-12,Payload installation,filename,1a0e513aabba1cb6179aff86bf78fc30.exe,Source: MalwareBazaar
+2024-06-12,Payload installation,md5,1a0e513aabba1cb6179aff86bf78fc30,Source: MalwareBazaar
+2024-06-12,Payload installation,sha1,853c503fb985ac0163cc336e35e3deed82038dfe,Source: MalwareBazaar
+2024-06-12,Payload installation,sha256,349ffb723c954fcec9d2e46d2314f01f35edb4cbfd603f7cdd17955b5ebe018b,Source: MalwareBazaar
+2024-06-13,Payload installation,filename,WINDOWS SECURITY.EXE,Source: MalwareBazaar
+2024-06-13,Payload installation,md5,9e14775490cee79c73cb45c2f24f7a73,Source: MalwareBazaar
+2024-06-13,Payload installation,sha1,ddd6c7485a5e64a66a0a7598777abdafa7a63950,Source: MalwareBazaar
+2024-06-13,Payload installation,sha256,d53df5b6b080ba24773ca16c7a8b70eeb783ead278712e0c5b44abc84805e60e,Source: MalwareBazaar
+2024-06-13,Payload installation,filename,2lz.exe,Source: MalwareBazaar
+2024-06-13,Payload installation,md5,12f9b68ed66fed9a1e3c1c2319c837c6,Source: MalwareBazaar
+2024-06-13,Payload installation,sha1,e423cbd003c718b6fa268de83806dae6a9fe88c3,Source: MalwareBazaar
+2024-06-13,Payload installation,sha256,7c5919ffcd3234d3c520120fbbeb9204e11ca3adfbfc175175a1e087492cbbba,Source: MalwareBazaar

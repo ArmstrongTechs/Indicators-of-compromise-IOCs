@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-06-05]
+| UUID: 11181033-5c28-4353-9f58-844fd28e913f
+| Date: 2024-06-05
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-05,Payload installation,filename,staff records.exe,Source: MalwareBazaar
+2024-06-05,Payload installation,md5,b511b0274759a20e0e3ef09e8a8e7717,Source: MalwareBazaar
+2024-06-05,Payload installation,sha1,60ef9a156c1e4845367a4ef2d9363ff1f0ae2636,Source: MalwareBazaar
+2024-06-05,Payload installation,sha256,310cb005c21c57556ce727e947b156d61715adea6d73c342902c8620f287643d,Source: MalwareBazaar

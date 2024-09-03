@@ -1,0 +1,19 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00976 [Fraude] [Phishing]
+| UUID: c8be7d59-88d1-44c6-9f82-416fcfe63df6
+| Date: 2024-06-17
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-18,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+Se trata de una nueva campaña de phishing a través de email, que suplanta a Líder BCI.En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente:&quot;Tenemos un SuperAvance Aprobado super conveniente para ti . No esperes mas!,con el 50% de Dscto en la tasa de interes solicitalo ya!.&quot;El correo electrónico fraudulento incluye un enlace a un formulario malicioso usado para capturar credenciales de los usuarios.",Resumen
+2024-06-18,Network activity,ip-src,144.217.96.196,IP sitio falso
+2024-06-18,Network activity,ip-src,194.233.80.39,IP SMTP
+2024-06-18,Payload delivery,email-subject,"Fwd:No te quedes corto, tienes un SUPERAVANCE APROBADO! con el 50% dcto",Asunto del correo
+2024-06-18,Payload delivery,url,https://liderbci.serviciosfinancieros-cl.evosys.com.gt/,URL sitio falso
+2024-06-18,Payload delivery,url,https://sam-tech.jp/tarjetaliderbci/superavance-autq/,URL redireccion
+2024-06-18,Payload delivery,email-src,www@vmi1082800.contaboserver.net,Correo de salida

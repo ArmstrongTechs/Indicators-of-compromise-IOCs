@@ -1,0 +1,46 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Network-Based Indicators of UNC3886 Espionage Operations
+| UUID: 50485cd6-6ef7-4183-8df3-88585acd597e
+| Date: 2024-06-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-25,Network activity,ip-dst,8.222.218.20,
+2024-06-25,Network activity,ip-dst,8.222.216.144,
+2024-06-25,Network activity,ip-dst,8.219.131.77,
+2024-06-25,Network activity,ip-dst,8.219.0.112,
+2024-06-25,Network activity,ip-dst,8.210.75.218,
+2024-06-25,Network activity,ip-dst,8.210.103.134,
+2024-06-25,Network activity,ip-dst,47.252.54.82,
+2024-06-25,Network activity,ip-dst,47.251.46.35,
+2024-06-25,Network activity,ip-dst,47.246.68.13,
+2024-06-25,Network activity,ip-dst,47.243.116.155,
+2024-06-25,Network activity,ip-dst,47.241.56.157,
+2024-06-25,Network activity,ip-dst,45.77.106.183,
+2024-06-25,Network activity,ip-dst,45.32.252.98,
+2024-06-25,Network activity,ip-dst,207.246.64.38,
+2024-06-25,Network activity,ip-dst,149.28.122.119,
+2024-06-25,Network activity,ip-dst,155.138.161.47,
+2024-06-25,Network activity,ip-dst,154.216.2.149,
+2024-06-25,Network activity,ip-dst,103.232.86.217,
+2024-06-25,Network activity,ip-dst,103.232.86.210,
+2024-06-25,Network activity,ip-dst,103.232.86.209,
+2024-06-25,Network activity,ip-dst,58.64.204.165,
+2024-06-25,Network activity,ip-dst,58.64.204.142,
+2024-06-25,Network activity,ip-dst,58.64.204.139,
+2024-06-25,Network activity,ip-dst,165.154.7.145,
+2024-06-25,Network activity,ip-dst,165.154.135.108,
+2024-06-25,Network activity,ip-dst,165.154.134.40,
+2024-06-25,Network activity,ip-dst,152.32.231.251,
+2024-06-25,Network activity,ip-dst,152.32.205.208,
+2024-06-25,Network activity,ip-dst,152.32.144.15,
+2024-06-25,Network activity,ip-dst,152.32.129.162,
+2024-06-25,Network activity,ip-dst,123.58.207.86,
+2024-06-25,Network activity,ip-dst,123.58.196.34,
+2024-06-25,Network activity,ip-dst,118.193.63.40,
+2024-06-25,Network activity,ip-dst,118.193.61.71,
+2024-06-25,Network activity,ip-dst,118.193.61.178,
+2024-06-25,External analysis,url,https://cloud.google.com/blog/topics/threat-intelligence/uncovering-unc3886-espionage-operations?hl=en,

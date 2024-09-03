@@ -1,0 +1,41 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla in email (xls) attachment - SMTP exfil
+| UUID: c4f31394-b61c-4f13-8057-3fc5437f4942
+| Date: 2024-06-04
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-05,Payload delivery,url,https://ln.run:443/qDLvL,
+2024-06-05,Payload delivery,hostname,ln.run,
+2024-06-05,Payload delivery,url,http://107.173.143.28/xampp/mcff/lionsarekingofjunglewhounderstandhowfastweareworkingonthejungleasakinglionsalwaysdoingattitudetounderstandheistheonlykinghave__entireworldkingsofjungle.doc,
+2024-06-05,Payload delivery,ip-dst,107.173.143.28,
+2024-06-05,Payload delivery,url,http://107.173.143.28/20055/igcc.exe,
+2024-06-05,Network activity,hostname,us2.smtp.mailhostbox.com,
+2024-06-05,Network activity,email,wethem@aklaneah-sa.com,
+2024-06-05,Payload delivery,malware-sample,20055.xls|da661ecf5a13944be08d4f39d7060b31,
+2024-06-05,Payload delivery,filename,20055.xls,
+2024-06-05,Payload delivery,md5,da661ecf5a13944be08d4f39d7060b31,
+2024-06-05,Payload delivery,sha1,f4f2a2dbebd38c5f4e0694d20e77d045f9521762,
+2024-06-05,Payload delivery,sha256,f4e8de91a95148d69be9d136d4c137be513fb9afce19178d727e8d4102474690,
+2024-06-05,Other,size-in-bytes,314880,
+2024-06-05,Payload delivery,malware-sample,qDLvL|6781a0a5abf2165abf919905d302fad5,
+2024-06-05,Payload delivery,filename,qDLvL,
+2024-06-05,Payload delivery,md5,6781a0a5abf2165abf919905d302fad5,
+2024-06-05,Payload delivery,sha1,27030e5da2074aed190aabb34062cd7c98c15ff9,
+2024-06-05,Payload delivery,sha256,e6b4ddcb82f3e9c6e014cdb42530f31440aa0b59dde38b0a568e865a5b362933,
+2024-06-05,Other,size-in-bytes,42600,
+2024-06-05,Payload delivery,malware-sample,lionsarekingofjunglewhounderstandhowfastweareworkingonthejungleasakinglionsalwaysdoingattitudetounderstandheistheonlykinghave__entireworldkingsofjungle.doc|6781a0a5abf2165abf919905d302fad5,
+2024-06-05,Payload delivery,filename,lionsarekingofjunglewhounderstandhowfastweareworkingonthejungleasakinglionsalwaysdoingattitudetounderstandheistheonlykinghave__entireworldkingsofjungle.doc,
+2024-06-05,Payload delivery,md5,6781a0a5abf2165abf919905d302fad5,
+2024-06-05,Payload delivery,sha1,27030e5da2074aed190aabb34062cd7c98c15ff9,
+2024-06-05,Payload delivery,sha256,e6b4ddcb82f3e9c6e014cdb42530f31440aa0b59dde38b0a568e865a5b362933,
+2024-06-05,Other,size-in-bytes,42600,
+2024-06-05,Payload delivery,malware-sample,igcc.exe|01c92d0c5eeee2d1d15b6386f36b8af8,
+2024-06-05,Payload delivery,filename,igcc.exe,
+2024-06-05,Payload delivery,md5,01c92d0c5eeee2d1d15b6386f36b8af8,
+2024-06-05,Payload delivery,sha1,0fbba5a141171113e892023ebae2b5512ffd3209,
+2024-06-05,Payload delivery,sha256,60984a2e8b3c0a183ee80e1acdc4c50db06a95dcd626aa76fad49988a7e6ffeb,
+2024-06-05,Other,size-in-bytes,772096,

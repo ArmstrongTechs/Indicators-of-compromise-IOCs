@@ -1,0 +1,12 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook network indicators [2024-06-06]
+| UUID: 8b8959eb-b7e9-4732-9a76-11d7db04fb1d
+| Date: 2024-06-06
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-06,Network activity,url,https://onedrive.live.com/download?resid=A4646BA1085ABB03%21117&authkey=!AEercQGUE0fevEg,Source: urlhaus
+2024-06-06,Network activity,url,https://rentry.co/gp98m7wa/raw,Source: urlhaus

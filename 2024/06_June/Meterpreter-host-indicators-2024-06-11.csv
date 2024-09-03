@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Meterpreter host indicators [2024-06-11]
+| UUID: a3a330db-f6bd-4f24-b604-5e9cf1a06dc1
+| Date: 2024-06-11
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-11,Payload installation,filename,CapeTest.exe,Source: MalwareBazaar
+2024-06-11,Payload installation,md5,8f53bb998efb79f55275edb88d775fcc,Source: MalwareBazaar
+2024-06-11,Payload installation,sha1,fc36af99119ba2065e61f972f0bbe3e14cc6c0b0,Source: MalwareBazaar
+2024-06-11,Payload installation,sha256,c6a250ed299f5843a54dd22901f5fcb844fe4b200728a2e015130d6fceacba88,Source: MalwareBazaar

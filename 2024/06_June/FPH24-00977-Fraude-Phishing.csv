@@ -1,0 +1,17 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00977 [Fraude] [Phishing]
+| UUID: 451dc997-ac7e-4322-bd9c-4b16959aab7c
+| Date: 2024-06-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-25,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+Se trata de una nueva campaña de phishing a través de SMS (smishing), que suplanta a BancoEstado.En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente:&quot;BancoEstado, tienes aprobado El Bono Invierno 2024, esta disponible en tu cuenta revisa aqui: [URL]&quot;El mensaje de texto fraudulento incluye un enlace a un formulario malicioso usado para capturar credenciales de los usuarios.",Resumen
+2024-06-25,Network activity,ip-src,104.21.88.95,IP sitio falso
+2024-06-25,Payload delivery,url,https://bonodeinvierno2024.com/?estado,URL sitio falso
+2024-06-25,External analysis,attachment,Imagen_de_WhatsApp_2024-06-21_a_las_11.46.26_21807fee.jpg,
+2024-06-25,External analysis,attachment,2024-06-21_11h48_20.png,

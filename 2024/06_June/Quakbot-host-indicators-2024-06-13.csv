@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Quakbot host indicators [2024-06-13]
+| UUID: 3962f89c-3fb6-4e1b-b5d7-bf14d3e3aede
+| Date: 2024-06-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-13,Payload installation,filename,Overdue_9658.iso,Source: MalwareBazaar
+2024-06-13,Payload installation,md5,1a5d350d71f6821006691ac076e026e0,Source: MalwareBazaar
+2024-06-13,Payload installation,sha1,1dfb04e5d3f71b03085b3787e4970281f08bff74,Source: MalwareBazaar
+2024-06-13,Payload installation,sha256,951cc98b54bc4d78ce4f11a3bdbfdaee7777591ffef88bb2557ebecbb1909013,Source: MalwareBazaar

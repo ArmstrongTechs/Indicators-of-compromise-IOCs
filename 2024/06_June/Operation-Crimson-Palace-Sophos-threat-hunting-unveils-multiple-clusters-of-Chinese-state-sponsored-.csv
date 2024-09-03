@@ -1,0 +1,140 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Operation Crimson Palace: Sophos threat hunting unveils multiple clusters of Chinese state-sponsored activity targeting Southeast Asian government
+| UUID: f48f7c30-fe6f-4854-b27e-f86a308da714
+| Date: 2024-06-08
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-08,Network activity,ip-src,146.190.93.250,CCoreDoor C2
+2024-06-08,Network activity,ip-src,198.13.47.158,PocoProxy C2
+2024-06-08,Network activity,ip-src,64.176.50.42,PocoProxy C2
+2024-06-08,Network activity,ip-src,158.247.241.188,PocoProxy C2
+2024-06-08,Network activity,ip-src,139.180.217.105,PocoProxy C2
+2024-06-08,Network activity,ip-src,45.130.229.181,Cobalt Strike C2
+2024-06-08,Network activity,ip-src,185.201.8.187,Cobalt Strike C2
+2024-06-08,Network activity,ip-src,89.44.197.74,Merlin C2
+2024-06-08,Network activity,ip-src,185.195.237.123,RUDEBIRD C2; EAGERBEE C2
+2024-06-08,Network activity,ip-src,195.123.247.50,RUDEBIRD C2
+2024-06-08,Network activity,ip-src,172.67.130.71,PhantomNet C2
+2024-06-08,Network activity,ip-src,45.90.58.103,PhantomNet C2; RUDEBIRD C2
+2024-06-08,Network activity,ip-src,185.195.237.121,PhantomNet C2
+2024-06-08,Network activity,ip-src,104.21.3.57,PhantomNet C2
+2024-06-08,Network activity,ip-src,185.82.217.164,PhantomNet C2
+2024-06-08,Network activity,ip-src,195.123.245.79,PhantomNet C2
+2024-06-08,Network activity,ip-src,154.39.137.29,PowHeartBeat C2
+2024-06-08,Network activity,ip-src,147.139.47.141,PowHeartBeat C2
+2024-06-08,Network activity,ip-src,185.167.116.30,PhantomNet C2; EAGERBEE C2
+2024-06-08,Network activity,ip-src,91.220.202.143,EAGERBEE C2
+2024-06-08,Network activity,ip-src,139.162.18.97,dllhost.exe
+2024-06-08,Network activity,ip-src,103.56.5.224,swprv.dll C2
+2024-06-08,Network activity,ip-src,49.157.28.114,swprv.dll C2
+2024-06-08,Network activity,ip-src,141.136.44.219,Havoc C2
+2024-06-08,Network activity,ip-src,145.14.158.235,Havoc C2
+2024-06-08,Network activity,ip-src,107.148.41.114,Havoc C2
+2024-06-08,Network activity,ip-src,66.42.56.233,Havoc C2 / XiebroC2
+2024-06-08,Network activity,ip-src,45.15.143.151,Havoc C2
+2024-06-08,Network activity,ip-src,198.244.237.13,Havoc C2 payload host
+2024-06-08,Network activity,ip-src,123.253.35.100,swprv.dll C2
+2024-06-08,Network activity,ip-src,178.128.221.202,mios.exe C2
+2024-06-08,Network activity,ip-src,192.142.18.15,Interacted with webshell (VPN subnet)
+2024-06-08,Network activity,ip-src,192.142.18.27,Interacted with webshell (VPN subnet)
+2024-06-08,Network activity,ip-src,192.142.18.25,Dropped webshell (VPN subnet)
+2024-06-08,Network activity,ip-src,191.96.53.132,Havoc C2 / XiebroC2
+2024-06-08,Network activity,ip-src,45.9.191.183,Havoc C2 / XiebroC2
+2024-06-08,Network activity,ip-src,45.77.46.245,Havoc C2
+2024-06-08,Network activity,ip-src,64.176.37.107,Havoc C2
+2024-06-08,Network activity,domain,cloud.keepasses.com,Merlin C2
+2024-06-08,Network activity,domain,message.ooguy.com,CCoreDoor C2
+2024-06-08,Network activity,domain,gsenergyspeedtest.com,Cobalt Strike C2
+2024-06-08,Network activity,domain,hpupdate.net,Havoc C2
+2024-06-08,Network activity,domain,cancelle.net,swprv.dll C2
+2024-06-08,Network activity,domain,dmsz.org,swprv.dll C2
+2024-06-08,Network activity,domain,gandeste.net,swprv.dll C2
+2024-06-08,Network activity,domain,test1.zhangliyong.cn,Havoc C2 / XiebroC2
+2024-06-08,Payload delivery,sha256,92e2dafb6d91ac7bc725e680d53cfbfcc854033d14f6e4807fd0169c605324d2,3.ps1 (PowerShell script)
+2024-06-08,Payload delivery,sha256,dcc938af8fb2964a1f35adfb221de76ffc0bd0ccaac91455b3638fd4dc33e8c0,EvtxParser.exe (EVTX dump)
+2024-06-08,Payload delivery,sha256,0c3baa012cdb518982ec4ae954b395f3d6b9544ead8e050370219fa584f74f3c,2.vbs (VBS script)
+2024-06-08,Payload delivery,sha256,c679a2453697c51776b8a64d59fb8bf4172906e9a4f91b3872774bd05378d28c,r.vbs (VBS script)
+2024-06-08,Payload delivery,sha256,edd0c859424ab953a92ef20cfc8b938f469253122485915d6de80d314b18b08f,mscorsvc.dll (CCoreDoor)
+2024-06-08,Payload delivery,sha256,55277d86c0707459500dbb16915665ae611d3a4e4597d51599ea8b8fe6f85f29,mscorsvc.dll (CCoreDoor)
+2024-06-08,Payload delivery,sha256,a70e8317a608dd6ea0ad8564b089a153a7e3ab7ef763899d3d806141e820148e,"ntpsapi.dll (signed, benign, ntdll.dll used for EDR unhooking)"
+2024-06-08,Payload delivery,sha256,110c5eec940f3abb8b3a671cd292bc9ef65772168325a7949290e9828353824a,sslwnd64.exe (PhantomNet)
+2024-06-08,Payload delivery,sha256,e9cb02690d987de8d392d0e24b3ccbb294c751dff73962135913c7ec0d8a8064,sslwnd64.exe (PhantomNet)
+2024-06-08,Payload delivery,sha256,c1abc254d231574044ffe7bdd030be04618916f255396197f1151bfec98c04b6,nethood.exe (PhantomNet)
+2024-06-08,Payload delivery,sha256,e8cd237ac43fa0505d858ac8eb800020eeca104a1cd931d3b6d0ef656ee5393d,oci.dll (PhantomNet)
+2024-06-08,Payload delivery,sha256,173bb620ed2eee6b356e128da88e173eb1b69253ecd616f8f984087688c089fd,"X64.dll (PhantomNet, renamed to oci.dll)"
+2024-06-08,Payload delivery,sha256,c06065d3de3bfb37168a5d94baf1c675f831a201937ef774a36c2ea2bf6fc49e,wlbsctrl.dll (EAGERBEE)
+2024-06-08,Payload delivery,sha256,b05b92fd84cc3e3bd6378cadbe9b8b2cb926c42383e6194be1df44d1b9202fc1,TSVIPSrv.dll (EAGERBEE)
+2024-06-08,Payload delivery,sha256,951c7f8fdb6cfc8b362615ab1eec4a07dc8fccfd3a7ecda8255908a93b6a1f21,TSVIPSrv.dll (EAGERBEE)
+2024-06-08,Payload delivery,sha256,01544aeb502163c4fb7bac483430059183ce3d11aee78cd4a6c7074c5289540e,C:\ProgramData\Microsoft\DeviceSync\jli.dll (EAGERBEE)
+2024-06-08,Payload delivery,sha256,47c4a62fe75aa62906f0b110668e17947e905a33759100de21b987879b47183b,C:\ProgramData\Microsoft\Vault\vmnat.dll (Merlin)
+2024-06-08,Payload delivery,sha256,7ed44a0e548ba9a3adc1eb4fbf49e773bd9c932f95efc13a092af5bed30d3595,pc2msupp.dll (Malicious DLL sideloaded by MOBPOPUP.exe)
+2024-06-08,Payload delivery,sha256,f499f8d9584e5f4474b19324b807a38fec1c1d38d5df2ff4c1e16798311bc25b,MSI64.exe (RUDEBIRD)
+2024-06-08,Payload delivery,sha256,68ee8c2209641a6796e06caa115effcb89f722a5737210b5bebb87a36e5141a8,ba0oddof.dll (CSC compilation artifact from 1.ps1 execution)
+2024-06-08,Payload delivery,sha256,9404f51ccaf4165e6add08344f04b90ae79a045814d6b1de6b6c1e30981faa78,SophosUD.exe (PowHeartBeat)
+2024-06-08,Payload delivery,sha256,0e010a36ff24299592569f7c3fc01c597e158996d94b66eb3bbf757742663e76,SophosUD.exe (PowHeartBeat)
+2024-06-08,Payload delivery,sha256,1b97afb3310b3af944f74c2d715c110cec32ec536c0a9837b8c88df3438b2a63,SophosUD2.exe (PowHeartBeat)
+2024-06-08,Payload delivery,sha256,2a662b58f1dd229e7dba923a4d123658e3c10c0cfcec03748fbe577db81db34d,SensAPI.dll (Malicious DLL sideloaded by ph.exe)
+2024-06-08,Payload delivery,sha256,bbc0fe549a9e902528a125abd13b1f7c53746416d9c9bb91f88877f37a4ce11c,"C:\ProgramData\Microsoft\Windows\svcchost.dll (Malicious DLL sideloaded by renamed vmnat.exe, svcchost.exe)"
+2024-06-08,Payload delivery,sha256,7d6209036d370dbce7a0657f35dedeaa59c15fcfb4d696b9ebdd0fcc773dad50,a8.txt (PocoProxy)
+2024-06-08,Payload delivery,sha256,34294ff52899a63f2dc02e5a8f1488343afdb9702437d409a0869317ccfb4243,s.dat (Malicious file)
+2024-06-08,Payload delivery,sha256,5f3fd50715aabf43cc6edb5f38026a3baa37a7fd7a17ae232fc65e186c83befb,msedge_elf.dll (HUI Loader)
+2024-06-08,Payload delivery,sha256,4fcbc598c5699ea48a1edd8dda065eab210f09ad900ab167cb5abdf9841dd2b7,hideschtasks.exe (Custom binary; remotely creates scheduled tasks)
+2024-06-08,Payload delivery,sha256,755b14ad83da2f2eff8ef8bf83ed74c6d96f6b3b3fde95d4c13d8cb75d861631,log.ini (Masquerading DLL generating C2)
+2024-06-08,Payload delivery,sha256,44e0c61f70f44e3a35ecde9b49a623973727d3aa68922ef4e1ff8dfc74795582,11.log (LSASS credential interceptor)
+2024-06-08,Payload delivery,sha256,a1a8adae91daa96deb01326c702fec388d0fa983f299de3f1bdb8a277df64423,1.dat (Cobalt Strike)
+2024-06-08,Payload delivery,sha256,3a85c36fff48b223f6edd722bc1603a1fd9b00d3e4d46a88151c4b1b696d90d1,sssa.exe (Malicious file)
+2024-06-08,Payload delivery,sha256,62c9b97a849f40f4b5b167b96a54fa1ef03624ac8f2972b641af8ca5d00b5db0,McPvNs.dll (Malicious DLL sideloaded by McPvTray.exe)
+2024-06-08,Payload delivery,sha256,c1d818f18c7160807d9031e024fcc6429476d6455221e3aa988c6245269fbcc8,"rsndispot.sys , EDR evasion"
+2024-06-08,Payload delivery,sha256,ea8c8f834523886b07d87e85e24f124391d69a738814a0f7c31132b6b712ed65,"rspot.sys, EDR evasion"
+2024-06-08,Payload delivery,sha256,f788d5c2c1bb2d88db09b727b3841155daf43ba81802b5faffec72640451fa4f,tpyrced_ambs.exe
+2024-06-08,Payload delivery,sha256,ad346007f28c4b6d409c95f55e750e249db4b168cd7061baa128f826df948e10,443.txt (PocoProxy)
+2024-06-08,Payload delivery,sha256,1ad26a31c5387055610e053dbab8355e1371f89dfa37526f7a3341122526b719,4413.txt (PocoProxy)
+2024-06-08,Payload delivery,sha256,91f40e8659da3dbbb22497b317aa37f26403be86662e359ecddcb4a0c72e154c,chrome.log (PocoProxy)
+2024-06-08,Payload delivery,sha256,cca5ae87cd710a8fbf994addb0abc8bf1deb222214d4831289885de23ca98924,textinputhost.exe (renamed rc.exe)
+2024-06-08,Payload delivery,sha256,c1bec59afd3c6071b461bb480ff88ba7e36759a949f4850cc26f0c18e4c811a0,TextInputHost.dat
+2024-06-08,Payload delivery,sha256,f682323a2c543abbe12c21a77ee93b49444381fa33f76c67363c84764ca4c675,sc.cfg
+2024-06-08,Payload delivery,sha256,506b21588541243f3ddd5acb759bf20a3bf06fd2fea455066866154bc5e59721,appmgmt.dll (Stowaway)
+2024-06-08,Payload delivery,sha256,4ae29b8124f6221dab934ac04afed2acc8b17c6b35120d568bad8658cbca01c6,check.exe (NUPAKAGE)
+2024-06-08,Payload delivery,sha256,56f0c8047203147d9b9a888ebac8f33b14ae198182a13913a0f93652dfe2052a,appmgmt.dll (Stowaway)
+2024-06-08,Payload delivery,sha256,b708dd11942c3e87a8987bdf83f7ea603425ae75fc25a306f54f1087df4198b4,swprvs.dll
+2024-06-08,Payload delivery,sha256,f830c3771d35237b4a63b946d7a0d187f5aaa4240e965d74070b7d72b6fba210,winbridge.dll
+2024-06-08,Payload delivery,sha256,58a7be39056c2084bbb4aec9843db732dfe115ec4ee0c7cc4cf8884621b5142d,C:\ProgramData\mios.exe (Malicious File) used in conjuction with cmdline containing  '172.19.120.60 65211' and '178.128.221.202 443'
+2024-06-08,Payload delivery,sha256,776d427a19d8389464f855b2f70e0ac11e896162a9f9b50bcb23f0f0aea5044f,C:\Windows\Help\Help\mscorsvc.dll (Malicious DLL)
+2024-06-08,Payload delivery,sha256,430bf24c9a7843895cb266b440c1f911ae600a7e6b8f3885d1c000622da52b2b,C:\ProgramData\mscorsvc.dll (Malicious DLL)
+2024-06-08,Payload delivery,sha256,a22b8ef40b8abe2bd7161f425484e82207f322fef1d0562de5bf98e2f642b477,"C:\Windows\Temp\ntpsapi.dll (EDR unhooking, benign version of ntdll.dll)"
+2024-06-08,Payload delivery,sha256,cc19c785702eea660a1dd7cbf9e4fef80b41384e8bd6ce26b7229e0251f24272,C:\windows\syswow64\WWindows.Data.Devices.Config.dll (SharpHound/BloodHound)
+2024-06-08,Payload delivery,sha256,e65645af3894ec55f0b55472302d288e860a10d97bc19b699facc400f778c4ee,locale.nlp (ATK/DonutLdr-A)
+2024-06-08,Payload delivery,sha256,fa7d4fb4b43e1672c7f4656cd4275c330c2e13aff8451d68e4f305e5e5aea395,C:\Windows\debug\net.LOG (Havoc)
+2024-06-08,Payload delivery,sha256,52e248b9fb32ac3aaa4be4b41c66f1e7d9f2d4605aae98f20584f21ea1f33202,swprv.dll (Malicious DLL sideloaded by swprv service)
+2024-06-08,Payload delivery,sha256,e5620b4b6371b786c72e830dc24012354642b7067bd5902da7073ce0421456b7,iscsiexe.dll (MSiSCSI payload)
+2024-06-08,Payload delivery,sha256,6d94049b24c6ac2373d3b517515fcaeeb392458342bbb5ad4c4316e124805b5b,version.dll (Malicious DLL sideloaded by swi_update.exe)
+2024-06-08,Payload delivery,sha256,3cc8e21798462468d3bc05ddef35a558fe0dff268c433d42bd01385155084f53,"DecrptDumper.exe (Malicious File, no execution data)"
+2024-06-08,Payload delivery,sha256,da9a53ff7486cf128e5ba80e66fcf3b1d8993d553bd9634ae8e90cbab31fd8da,c:\windows\help\prow.xml (Havoc)
+2024-06-08,Payload delivery,sha256,8b16a3a3047f0eb93ef2b55613a76a9f5f19506428895a5ffbb3c1c44780aad7,~docpdf.tmp (Havoc)
+2024-06-08,Payload delivery,sha256,75403191ee834075ab5334e92bda8aab267545a03ed5ed3508db36f21f4acf50,C:/PerfLogs/libcef.dll (Havoc)
+2024-06-08,Payload delivery,sha256,609fc96700f49f7fdfa71248e642a4dfcd8b3d35f6da3b7c2ce7daad25a844a9,<REDACTED>DOC20231100001603KMAP.pdf (webshell)
+2024-06-08,Payload delivery,sha256,e4b7a1372233aef6d495743bb726fcd5037d4e90e043085498c21587335d36c7,C:/Windows/System32/wbem/ncobjapi.dll
+2024-06-08,Payload delivery,sha256,5f959f480a66a33d37d9a0ef6c8f7d0059625ca2a8ae9236b49b194733622655,<REDACTED>DOC20231200001924KMAP.aspx
+2024-06-08,Payload delivery,sha256,bdcedd81555c9c2eb9f4329626c27ec8c7b91a0f2a9f6e0c55dbcd3f99e82b5d,111 (Shellcode loader)
+2024-06-08,Payload delivery,sha256,4995b91badc8f9bf549548a734d3c14fa2a1c21080743484028b5362440808a0,C:/Windows/Vss/Writers/Application/libcef.dll (Shellcode Loader for Havoc)
+2024-06-08,Payload delivery,sha256,4dd0debf03eeb938fbaca1f1fd391523358c23cbf18959a149c29133cc3c9cae,C:/Windows/Vss/Writers/Application/libcef.dll (Shellcode Loader for Havoc)
+2024-06-08,Payload delivery,sha256,101bf8dcdd414f09ba46cdecbd96e8606c79b0e76b6a2ce040395e775cb4da86,<REDACTED>DOC20231200001922KMAP.asp (webshell)
+2024-06-08,Payload delivery,sha256,9ccf0e46f6aadbb20f4c269d8ac85cc9b4e6ce56bf226d45eda4347a20785c88,<REDACTED>DOC20231200002062KMAP.php (webshell)
+2024-06-08,Payload delivery,sha256,1622ef497f2b767a43e25bcd9a9a629cbe7bed49cb27dc4f08fe0863730580d9,log.ini (Havoc)
+2024-06-08,Payload delivery,sha256,5298c1aadac203285c8a95a4e3f62ec14b984729bf768a405c8028291e34fe1b,1.exe (Invoke WMI)
+2024-06-08,Payload delivery,sha256,299b1e82f6941cc049a16c7854230fb37c97af32e2cf5cb335495f42446dc43f,"msedge_elf.dll (Shellcode Loader, Havoc)"
+2024-06-08,Payload delivery,sha256,c36173f28bfd99db86533d5fdb0ce4dd565488ca56d4b9df1997ee9201b3b704,"chrome.exe (Shellcode Loader, Havoc)"
+2024-06-08,Payload delivery,sha256,8d54da0f807d771edb1197e463cdff8848651e14745c4c468386c31953c340ff,"msedge_elf.dll (Shellcode Loader, Havoc)"
+2024-06-08,Payload delivery,sha256,71ccc2c30dc43f20833c3e54d1fe86f8b68263d876461a3f7f7f8702e92cbe81,C:/ProgramData/conhost.exe (Alcatraz Git Project EDR Evasion)
+2024-06-08,Payload delivery,sha256,d86790104f59b89edbdb1478f320d4589155d465d4710bcb57ff015383eefb38,C:\Windows\Vss\Writers\Application\libcef.dll
+2024-06-08,Payload delivery,sha256,2892aa48e12e72ba25c4caa9471b41ce316624ff98ed79f56e3c6b3a51026504,C:\Windows\Vss\Writers\libcef.dll
+2024-06-08,Payload delivery,sha256,2b7602cc1521101d116995e3e2ddfe0943349806378a0d40add81ba64e359b6c,C:\PerfLogs\vcruntime140.dll
+2024-06-08,Payload delivery,sha256,c6e1bf2b7ac0fd3c34761099d2ec17fccd0604e2e62e94f297943260d15368ce,C:\PerfLogs\jli.dll
+2024-06-08,Payload delivery,sha256,b32de9f4f2a9bd08063c72fa84d5d44be5a3bf7859bfb6ceaf093cd03ff0240f,C:\PerfLogs\pt.exe (unsigned executable with certificate stating that it is MS Edge)
+2024-06-08,Payload delivery,sha256,f30b04a9ebc95c50fdc116260068d4d8da8005104b6366c29d0f24dbbf798957,C:\Users\Public\r2.exe (Unknown threat file)
+2024-06-08,Payload delivery,sha256,fbe0851792629f86b1d5a599a6bc29d82b3248462bebd8e47ee698e4f510308f,C:\PerfLogs\msedge_elf.dll
+2024-06-08,External analysis,link,https://news.sophos.com/en-us/2024/06/05/operation-crimson-palace-sophos-threat-hunting-unveils-multiple-clusters-of-chinese-state-sponsored-activity-targeting-southeast-asia/,

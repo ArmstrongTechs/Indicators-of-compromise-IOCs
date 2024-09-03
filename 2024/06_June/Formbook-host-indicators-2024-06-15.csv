@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-06-15]
+| UUID: 70cbdd6d-be13-4bca-8d34-6509db298519
+| Date: 2024-06-15
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-15,Payload installation,filename,Magma Middle East Oil & Gas Request For Quotation.exe,Source: MalwareBazaar
+2024-06-15,Payload installation,md5,88325c041ceeb171c6aba3c16217ead8,Source: MalwareBazaar
+2024-06-15,Payload installation,sha1,20a1799951576ffa42b44a9d167d88de4251a091,Source: MalwareBazaar
+2024-06-15,Payload installation,sha256,a50745dac3f937c5d3a94bb5cedbe20821365c6f711f5d16bd44805ee2909852,Source: MalwareBazaar
+2024-06-15,Payload installation,filename,RFQ - 872219700.exe,Source: MalwareBazaar
+2024-06-15,Payload installation,md5,ae71820f8b18694d0cd16d2b3b1845a2,Source: MalwareBazaar
+2024-06-15,Payload installation,sha1,2e73e7c5378204cbf1b3c86cb8113f07c9d36cb6,Source: MalwareBazaar
+2024-06-15,Payload installation,sha256,f8f1a1e6c0e2434c90e90939850b6ada68132ae0d065e9099c833880be84f928,Source: MalwareBazaar
+2024-06-15,Payload installation,filename,Magma Middle East Oil & Gas - RFQ.exe,Source: MalwareBazaar
+2024-06-15,Payload installation,md5,082edd9de95d89234c4ce966cb8ef0c2,Source: MalwareBazaar
+2024-06-15,Payload installation,sha1,5339fd0536ff85f1178fcd8950fd2276abdc9f58,Source: MalwareBazaar
+2024-06-15,Payload installation,sha256,4b0097a52abd8d9ba97a33d29154f929af53f2e33d7d5fcfee7e6f48b4f37d1d,Source: MalwareBazaar

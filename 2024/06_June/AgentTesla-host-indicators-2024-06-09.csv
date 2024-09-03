@@ -1,0 +1,42 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-06-09]
+| UUID: edf47f7d-27ad-48c1-abab-43955dbb5961
+| Date: 2024-06-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-09,Payload installation,filename,d09ddbd38b06d082c36ba91814c4ea12,Source: MalwareBazaar
+2024-06-09,Payload installation,md5,d09ddbd38b06d082c36ba91814c4ea12,Source: MalwareBazaar
+2024-06-09,Payload installation,sha1,63c78b2dbc4000e322547520b58b666676c3ee4d,Source: MalwareBazaar
+2024-06-09,Payload installation,sha256,c1dc498ac1f64dcf63b7c536c5e95e2561054a3ae4e95df36975426032f680ac,Source: MalwareBazaar
+2024-06-09,Payload installation,filename,Revised invoice.exe,Source: MalwareBazaar
+2024-06-09,Payload installation,md5,bbf053237d91844a971521dab438f529,Source: MalwareBazaar
+2024-06-09,Payload installation,sha1,6d281685b802068a7f43e4950a5dbf1f5ef0cdf5,Source: MalwareBazaar
+2024-06-09,Payload installation,sha256,0fd8da5d6fb04b52cfbc2074c9d5382a7b10ab501913b61e31408a2aa16a02e0,Source: MalwareBazaar
+2024-06-09,Payload installation,filename,Revised invoice.zip,Source: MalwareBazaar
+2024-06-09,Payload installation,md5,e76295d21dbdb248afd4afedb2b1aa69,Source: MalwareBazaar
+2024-06-09,Payload installation,sha1,42532c1b77dd7f0f2daf306bbac57e9c45aa942d,Source: MalwareBazaar
+2024-06-09,Payload installation,sha256,df1de76f61b86cf8ce64723b3a0b1656de115890e5080acd113d8a0a3e177c57,Source: MalwareBazaar
+2024-06-09,Payload installation,filename,Shipping documents.zip,Source: MalwareBazaar
+2024-06-09,Payload installation,md5,ba7669eaa5d29bfc1d9fb5790ddcb629,Source: MalwareBazaar
+2024-06-09,Payload installation,sha1,2b4b4d73b7a3229128f4a9feae4df72ca8dbea35,Source: MalwareBazaar
+2024-06-09,Payload installation,sha256,3f24b8845c43b9a8d469b7535e178189b12441426875858edff8c638c8ce31e5,Source: MalwareBazaar
+2024-06-09,Payload installation,filename,bank details.rar,Source: MalwareBazaar
+2024-06-09,Payload installation,md5,442cebf6b5d6fd2e30400d92e2bac444,Source: MalwareBazaar
+2024-06-09,Payload installation,sha1,cb57cd12242814df2c67b0759912a1faeabcaadc,Source: MalwareBazaar
+2024-06-09,Payload installation,sha256,e849d28b8e499a4dac6152ac85d6959ec7267657ae28ba9955f8275fec0a2e46,Source: MalwareBazaar
+2024-06-10,Payload installation,filename,STATEMENT OF ACCOUNT.zip,Source: MalwareBazaar
+2024-06-10,Payload installation,md5,ebe2f8bd55d259f99d600687d44dbbe9,Source: MalwareBazaar
+2024-06-10,Payload installation,sha1,fea96755114994036958ba625c531f46545be384,Source: MalwareBazaar
+2024-06-10,Payload installation,sha256,3b4827cd945dd236a36ac1c96ccb085b4bc71ce3c2da1b5daa12594787de6f47,Source: MalwareBazaar
+2024-06-10,Payload installation,filename,Ship Docs YINGHAI-MANE PO 240786.xlsx.exe,Source: MalwareBazaar
+2024-06-10,Payload installation,md5,9ad1097ef6d23a86d4b9327e54fdc9bc,Source: MalwareBazaar
+2024-06-10,Payload installation,sha1,517d09c1d755f08f3c5bf073d87185a801b68907,Source: MalwareBazaar
+2024-06-10,Payload installation,sha256,df9e1f7fa8d1badaa7afd42cc3aac4ef5aad3a9973ee71059599325284566e67,Source: MalwareBazaar
+2024-06-10,Payload installation,filename,Pre Alert & Debit Note PO20766.zip,Source: MalwareBazaar
+2024-06-10,Payload installation,md5,8c937b60f809b625d52623c33f22771f,Source: MalwareBazaar
+2024-06-10,Payload installation,sha1,f55c6f51c97d0936e2eed586671616687f73f688,Source: MalwareBazaar
+2024-06-10,Payload installation,sha256,c60db852dd9b052c7707d5735a7b8368fe161f68f7ca6b9bfb0e03b14a790c1f,Source: MalwareBazaar

@@ -1,0 +1,25 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Agent Tesla v arhivski priponki .rar (SMTP exfil)
+| UUID: 95f415f1-cb69-4493-a1e2-17ecf1cdab6a
+| Date: 2024-06-12
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-12,Network activity,domain,mail.mbarieservicesltd.com,smtp exfil domain
+2024-06-12,Network activity,email-src,saless@mbarieservicesltd.com,smtp exfil
+2024-06-12,Network activity,email-dst,iinfo@mbarieservicesltd.com,smtp exfil
+2024-06-12,Payload delivery,malware-sample,PURCHASE ORDER-6488-2024.rar|7feca423006ecb869db8c05d72834041,
+2024-06-12,Payload delivery,filename,PURCHASE ORDER-6488-2024.rar,
+2024-06-12,Payload delivery,md5,7feca423006ecb869db8c05d72834041,
+2024-06-12,Payload delivery,sha1,4eae07f3e0f2988737746580d475ad6dddfd80f3,
+2024-06-12,Payload delivery,sha256,52eec2fa1e430a0ae44b9b079d8249419f032e70cdb634bc314a6590c81506a6,
+2024-06-12,Other,size-in-bytes,608145,
+2024-06-12,Payload delivery,malware-sample,PURCHASE ORDER-6488-2024.exe|58725dff916a6fcc19f989d2897850b4,
+2024-06-12,Payload delivery,filename,PURCHASE ORDER-6488-2024.exe,
+2024-06-12,Payload delivery,md5,58725dff916a6fcc19f989d2897850b4,
+2024-06-12,Payload delivery,sha1,5ad121573648aaaa6eb135ae008ffbe0df854543,
+2024-06-12,Payload delivery,sha256,a4957105a7e8613df9f066c3776074662059ca7cdaa35ed4b6b68d7354e43473,
+2024-06-12,Other,size-in-bytes,653312,

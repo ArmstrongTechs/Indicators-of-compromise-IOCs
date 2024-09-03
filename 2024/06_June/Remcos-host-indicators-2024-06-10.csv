@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-06-10]
+| UUID: 3b2cab11-836b-419b-a916-bca45b25cf53
+| Date: 2024-06-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-10,Payload installation,filename,ImmediatePaymentNotification.exe,Source: MalwareBazaar
+2024-06-10,Payload installation,md5,1efdc3f1d20945f78d6cb0294b5020c0,Source: MalwareBazaar
+2024-06-10,Payload installation,sha1,126885f891bb2040d177923ac20fddeaec641db4,Source: MalwareBazaar
+2024-06-10,Payload installation,sha256,fe0f89d0d396ef2fcf0f3511feca351174464a44e4555a97030820628c776b29,Source: MalwareBazaar
+2024-06-10,Payload installation,filename,ICICI Ref No. CMS4213872601.pdf.exe,Source: MalwareBazaar
+2024-06-10,Payload installation,md5,dec965bfa7c35a4b7c9265610a45a7bf,Source: MalwareBazaar
+2024-06-10,Payload installation,sha1,e5d97eb5a5bf91e0b006ce75e6ade7bccfde52b2,Source: MalwareBazaar
+2024-06-10,Payload installation,sha256,43281415b361da4215bb7a4a0a950b2c95c2d772f315d451088ffd53480de73f,Source: MalwareBazaar

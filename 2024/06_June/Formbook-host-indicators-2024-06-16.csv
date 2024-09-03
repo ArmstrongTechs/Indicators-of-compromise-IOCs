@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-06-16]
+| UUID: 2de87f98-dc8d-4090-a947-6d1f2fbe0e1c
+| Date: 2024-06-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-16,Payload installation,filename,NEW ORDER_1.rar,Source: MalwareBazaar
+2024-06-16,Payload installation,md5,eb4489be93d5a163940004bd8ca9963b,Source: MalwareBazaar
+2024-06-16,Payload installation,sha1,fdead7824a2f0c8b7a037303f4d47782cc6e0eb5,Source: MalwareBazaar
+2024-06-16,Payload installation,sha256,63967c45251f1094e81ae4859415409165b2d449d0dea56276b7d9523da3051d,Source: MalwareBazaar

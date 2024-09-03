@@ -1,0 +1,17 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: CND24-00125 [Comunicado] [Comunicado]
+| UUID: aabe237d-0fed-4848-96f9-d79a45fe51be
+| Date: 2024-06-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-28,External analysis,text,"Desde el CSIRT de Gobierno te informamos lo siguiente:
+
+Se ha detectado un ataque de cadena de suministro sobre la popular librería Javascript llamada &quot;polyfill.js&quot;, utilizada originalmente para mejorar la compatibilidad de los sitios web con navegadores antiguos.La versión de esta librería hospedada por el sitio &quot;polyfill.io&quot; y usada por más de 100 mil sitios fue modificada para incluir código malicioso, luego de que el dominio fuese adquirido por una empresa china, según reporta Bleeping Computer.Se recomienda a los encargados de sitios web revisar la existencia de esta librería en sus páginas y aplicar los pasos descritos en &quot;mitigación&quot;.",Resumen
+2024-06-28,Network activity,domain,googie-anaiytics.com,Dominio usado por código malicioso
+2024-06-28,Payload delivery,url,https://cdn.polyfill.io,URL de script malicioso
+2024-06-28,Network activity,domain,kuurza.com,Dominio usado por código malicioso
+2024-06-28,Network activity,domain,polyfill.io,dominio malicioso

@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-06-14]
+| UUID: 99b2e39c-dfad-462f-9020-026f274e3e12
+| Date: 2024-06-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-14,Payload installation,filename,Purchase_Order_SVP_WorldWide2938.exe,Source: MalwareBazaar
+2024-06-14,Payload installation,md5,f9ec63f0a865406059d4269ccbea3e30,Source: MalwareBazaar
+2024-06-14,Payload installation,sha1,3b15f69b034677f7319dff97f19ade04ee190a12,Source: MalwareBazaar
+2024-06-14,Payload installation,sha256,87f8454181377efe56e3f98673de0c6e6edff941175230d3dbafa41a99d1ce48,Source: MalwareBazaar

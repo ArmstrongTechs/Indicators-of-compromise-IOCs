@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-06-20]
+| UUID: e77e4418-0353-4284-8b06-c5bff27caa08
+| Date: 2024-06-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-20,Payload installation,filename,RFQ_TSL104.20221024_pdf.exe,Source: MalwareBazaar
+2024-06-20,Payload installation,md5,52d4890bb4833c61e2055a8efe203c35,Source: MalwareBazaar
+2024-06-20,Payload installation,sha1,1c26ba068c0a9a13cda6f5fb2c5071dd2bcdad50,Source: MalwareBazaar
+2024-06-20,Payload installation,sha256,d3b12d28277fddfab274c465682ab08c526a9046a841bb6762199d6d71e70bc8,Source: MalwareBazaar
+2024-06-20,Payload installation,filename,Challan copy.pdf.exe,Source: MalwareBazaar
+2024-06-20,Payload installation,md5,086ad86cc1560ecd86555678342047fb,Source: MalwareBazaar
+2024-06-20,Payload installation,sha1,0d17bc82703565596221e818b1fb35fa1eea1c99,Source: MalwareBazaar
+2024-06-20,Payload installation,sha256,845c3ba76768948ab3df490599f02d060cd464c6251e16e7847d53707254ee46,Source: MalwareBazaar
+2024-06-20,Payload installation,filename,kyhzi3xskc.exe,Source: MalwareBazaar
+2024-06-20,Payload installation,md5,e93601f9ae811d6f12af581f07ac12bc,Source: MalwareBazaar
+2024-06-20,Payload installation,sha1,2bf4eef571ab584bdd0178dbbd657ee59a71daa6,Source: MalwareBazaar
+2024-06-20,Payload installation,sha256,0ff5577cfd7a88944989af7cca1d21a7ee820521fc3d283808b0824770979f53,Source: MalwareBazaar
+2024-06-21,Payload installation,filename,PO Attached _19556.exe,Source: MalwareBazaar
+2024-06-21,Payload installation,md5,46dc4c1f9a11c29069cf15468fe8820c,Source: MalwareBazaar
+2024-06-21,Payload installation,sha1,a6111bd4654d7d2f4f98292635772b79ef8088fa,Source: MalwareBazaar
+2024-06-21,Payload installation,sha256,211a9298024e92eadf76ffa74b1b090980232da0e26b4a54c00ed7821c308ab8,Source: MalwareBazaar

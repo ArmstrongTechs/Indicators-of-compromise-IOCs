@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00970 [Fraude] [Phishing]
+| UUID: 3ed482ab-bddc-4f25-a573-5795debaf0d0
+| Date: 2024-06-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-11,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+Se trata de una nueva campaña de phishing a través de SMS (smishing), que suplanta a BancoSantander.En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente:&quot;SANTANDER: Tu Cuenta se encuentra bloqueada por motivos de seguridad. Para su activacion debe ingresar aqui:&quot;El mensaje de texto fraudulento incluye un enlace a un formulario malicioso, usado para capturar credenciales de los usuarios.",Resumen
+2024-06-11,Network activity,ip-src,194.147.71.214,IP sitio falso
+2024-06-11,Payload delivery,url,https://kroow.cl/santander,URL redirección
+2024-06-11,Payload delivery,url,https://personas.medsoluciones.cl/personas/index.asp/3732051ef219f88960a35bdbb856b49b,URL sitio falso
+2024-06-11,External analysis,attachment,2024-06-10_14h59_58.png,
+2024-06-11,External analysis,attachment,2024-06-10_14h49_46.png,

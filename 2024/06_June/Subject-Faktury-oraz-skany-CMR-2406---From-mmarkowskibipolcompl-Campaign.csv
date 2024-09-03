@@ -1,0 +1,65 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Faktury oraz skany CMR 24.06 - From: mmarkowski@bipol.com.pl"" Campaign"
+| UUID: c1c3857b-5254-4287-bc40-2ad35ebe8aa0
+| Date: 2024-06-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-24,Payload delivery,email-src,mmarkowski@bipol.com.pl,Source email: from mmarkowski@bipol.com.pl - subject: Faktury oraz skany CMR 24.06
+2024-06-24,Payload delivery,email-src-display-name,[REDACTED],Source email: from mmarkowski@bipol.com.pl - subject: Faktury oraz skany CMR 24.06
+2024-06-24,Payload delivery,email-body,"Dzień dobry, 
+
+W załączniku wiadomości przesyłam faktury oraz skany CMR. 
+
+Pozdrawiam, 
+-- 
+
+
+
+
+
+
+
+
+
+
+[REDACTED] 
+CZŁONEK ZARZĄDU 
+BIPOL FUELS Sp. z o.o . 
+ul. Składowa 10 
+15-399 Białystok 
+NIP: 5423469907 
+t el: 512 017 071 
+
+
+
+PROKURENT 
+P.W. BIPOL [REDACTED] 
+ul. Składowa 10 lok.105 
+15-339 Białystok 
+NIP: 9662151056",Source email: from mmarkowski@bipol.com.pl - subject: Faktury oraz skany CMR 24.06
+2024-06-24,Payload delivery,email-subject,Faktury oraz skany CMR 24.06,Source: from mmarkowski@bipol.com.pl - subject: Faktury oraz skany CMR 24.06
+2024-06-24,Payload delivery,filename|sha256,Faktura oraz skan CMR NL 484-240624-G_pdf                                          .img|3fecbabe59258b628b110cae4c0d3c5ccee1c29845651a421708c9335f2c1e9e,Malspam attachment - source: from mmarkowski@bipol.com.pl - subject: Faktury oraz skany CMR 24.06 mime: application/x-iso9660-image
+2024-06-24,Payload delivery,filename|ssdeep,Faktura oraz skan CMR NL 484-240624-G_pdf                                          .img|768:70RbfaCRavhpfvDAezOuF+LJvFMf1mJiJx6fcndFejZiBUqrjG7R89d:AjaCI5xU9vFMfAJi36fcnTeV1lG9d,Malspam attachment - source: from mmarkowski@bipol.com.pl - subject: Faktury oraz skany CMR 24.06 mime: application/x-iso9660-image
+2024-06-24,Payload delivery,filename|sha1,Faktura oraz skan CMR NL 484-240624-G_pdf                                          .img|93d85f62a938b7ffc6860382286bcce08c302d23,Malspam attachment - source: from mmarkowski@bipol.com.pl - subject: Faktury oraz skany CMR 24.06 mime: application/x-iso9660-image
+2024-06-24,Payload delivery,filename|sha512,Faktura oraz skan CMR NL 484-240624-G_pdf                                          .img|41264f35289145597d4a0144124471057e50929c5af1a4448f1011f8d9b5c97a9a3cba41424cd9feab14ba1064c0ef917f71086b6398f769c19fc0b0aaa417d9,Malspam attachment - source: from mmarkowski@bipol.com.pl - subject: Faktury oraz skany CMR 24.06 mime: application/x-iso9660-image
+2024-06-24,Payload delivery,filename|md5,Faktura oraz skan CMR NL 484-240624-G_pdf                                          .img|fa983d730531b667527ef89b57becadc,Malspam attachment - source: from mmarkowski@bipol.com.pl - subject: Faktury oraz skany CMR 24.06 mime: application/x-iso9660-image
+2024-06-24,Payload delivery,filename|imphash,Faktura oraz skan CMR NL 484-240624-G_pdf                                          .exe|f34d5f2d4577ed6d9ceec516c1f5a744,Extracted from Faktura oraz skan CMR NL 484-240624-G_pdf                                          .img; mime: application/x-dosexec
+2024-06-24,Payload delivery,filename|md5,Faktura oraz skan CMR NL 484-240624-G_pdf                                          .exe|e031aa7ad81148c27a7a669b2af93d35,Extracted from Faktura oraz skan CMR NL 484-240624-G_pdf                                          .img; mime: application/x-dosexec
+2024-06-24,Payload delivery,filename|sha1,Faktura oraz skan CMR NL 484-240624-G_pdf                                          .exe|acc06fbd0c83a9f13ccee4ba108d889780028af4,Extracted from Faktura oraz skan CMR NL 484-240624-G_pdf                                          .img; mime: application/x-dosexec
+2024-06-24,Payload delivery,filename|sha256,Faktura oraz skan CMR NL 484-240624-G_pdf                                          .exe|f06e3df3064482b7ce4f659d7df0d43d82ec27004ae734726340c779f516e12e,Extracted from Faktura oraz skan CMR NL 484-240624-G_pdf                                          .img; mime: application/x-dosexec
+2024-06-24,Payload delivery,filename|sha512,Faktura oraz skan CMR NL 484-240624-G_pdf                                          .exe|921f8a5dd6ac285a8b032e3106db06bb7768377c40904cb69b641db092c16389a6875541cffc12bd42538a6b62a25413a07f3f668797e2fa33e3304b3b95a00f,Extracted from Faktura oraz skan CMR NL 484-240624-G_pdf                                          .img; mime: application/x-dosexec
+2024-06-24,Payload delivery,filename|ssdeep,Faktura oraz skan CMR NL 484-240624-G_pdf                                          .exe|768:QRbfaCRavhpfvDAezOuF+LJvFMf1mJiJx6fcndFejZiBUqrjG7R89d:gjaCI5xU9vFMfAJi36fcnTeV1lG9d,Extracted from Faktura oraz skan CMR NL 484-240624-G_pdf                                          .img; mime: application/x-dosexec
+2024-06-24,Network activity,email-dst,shem.fujiw@gmx.com,Source: Network activity from Xrwwkdjo.mp3; data exfiltration via SMTP
+2024-06-24,Payload delivery,filename|md5,Xrwwkdjo.mp3|28b3deda485fbb506e899fc94ba0dba0,Downloaded from http://103.190.81.204/ZEUS/Xrwwkdjo.mp3; mime: application/octet-stream
+2024-06-24,Payload delivery,filename|sha1,Xrwwkdjo.mp3|74364a1187e774d4b6a4bc831065b47978eb7349,Downloaded from http://103.190.81.204/ZEUS/Xrwwkdjo.mp3; mime: application/octet-stream
+2024-06-24,Payload delivery,filename|sha256,Xrwwkdjo.mp3|e371cc468a97b68bd25d9993edeebcbea293055c0f88aa6748c3636f6ef7dcd8,Downloaded from http://103.190.81.204/ZEUS/Xrwwkdjo.mp3; mime: application/octet-stream
+2024-06-24,Payload delivery,filename|sha512,Xrwwkdjo.mp3|2bfb2cc50d9403b3d4eec9afa40dfc305ebc731ce3e3176717310018b638971f1326a5d19f46ef28aa404ffe69e493bf6a43d1a89f87741b07a00d118af5789f,Downloaded from http://103.190.81.204/ZEUS/Xrwwkdjo.mp3; mime: application/octet-stream
+2024-06-24,Payload delivery,filename|ssdeep,Xrwwkdjo.mp3|49152:VAjliciwUsB3r6KsATomiT+p72ARblYMNAwGimqa2o1cqIOGV+3s:VysZm33HJp73Bhmb1dIXVcs,Downloaded from http://103.190.81.204/ZEUS/Xrwwkdjo.mp3; mime: application/octet-stream
+2024-06-24,Network activity,email-dst,guner@umutdiyalizmerkezi.com,Source: Network activity from Xrwwkdjo.mp3; data exfiltration via SMTP
+2024-06-24,Network activity,url,http://103.190.81.204/ZEUS/Xrwwkdjo.mp3,Source: Network activity from Faktura oraz skan CMR NL 484-240624-G_pdf                                          .exe
+2024-06-24,Network activity,url,https://api.ipify.org/,Source: Network activity from Faktura oraz skan CMR NL 484-240624-G_pdf                                          .exe
+2024-06-24,Network activity,domain,mail.umutdiyalizmerkezi.com,Source: Network activity from Xrwwkdjo.mp3; data exfiltration via SMTP

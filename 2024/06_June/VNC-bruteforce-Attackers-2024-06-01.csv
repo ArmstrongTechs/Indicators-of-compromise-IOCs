@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: VNC bruteforce Attackers [2024-06-01]
+| UUID: e17c112b-c6a5-433f-89eb-c57969e0fe8f
+| Date: 2024-06-01
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-01,Network activity,ip-src,113.212.87.42,Source: alienvault
+2024-06-01,Network activity,ip-src,162.243.150.45,Source: alienvault
+2024-06-01,Network activity,ip-src,80.94.95.237,Source: alienvault

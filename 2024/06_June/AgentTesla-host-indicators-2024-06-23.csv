@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-06-23]
+| UUID: 1e580f43-f533-4620-9eba-c340bb7db754
+| Date: 2024-06-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-23,Payload installation,filename,Unconfirmed 162068.crdownload,Source: MalwareBazaar
+2024-06-23,Payload installation,md5,fd4dd9399b03ab98a66cb209f2ad1440,Source: MalwareBazaar
+2024-06-23,Payload installation,sha1,02659d8448c8ef7327ec39266d6cdb234d557575,Source: MalwareBazaar
+2024-06-23,Payload installation,sha256,07efb09715f126417bd68d7205ebf2f9af09d980b1508bf63c205a8b1e828a53,Source: MalwareBazaar
+2024-06-24,Payload installation,filename,Order of CTS-SFCS-104.exe,Source: MalwareBazaar
+2024-06-24,Payload installation,md5,b60527779e09f5f02b4404fd051cb0c1,Source: MalwareBazaar
+2024-06-24,Payload installation,sha1,8a7e9287ad714c6b29954e553faf52113f9f6d98,Source: MalwareBazaar
+2024-06-24,Payload installation,sha256,6be42d7e8ab6309248ec11a362abd79226faedf4f7b9a110094f303a166b2d93,Source: MalwareBazaar
+2024-06-24,Payload installation,filename,order of CTS-SFCS-104.exe,Source: MalwareBazaar
+2024-06-24,Payload installation,md5,a0b2ebceeea18671cc44366c6b2d6981,Source: MalwareBazaar
+2024-06-24,Payload installation,sha1,1b269868534bc3b1c1657b79567658423cf770d9,Source: MalwareBazaar
+2024-06-24,Payload installation,sha256,d18d881b4d582a792946d651f91f77a1b68b23b2abada7cb9b864ce4da24dbee,Source: MalwareBazaar

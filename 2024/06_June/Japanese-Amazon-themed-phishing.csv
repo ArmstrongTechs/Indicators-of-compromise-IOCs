@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Japanese Amazon themed phishing
+| UUID: c5176c4a-e5c8-4625-b3c0-8d08ad4e93d1
+| Date: 2024-06-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-22,Payload delivery,email-src,amazon-update@bestrefs.com,
+2024-06-22,Network activity,ip-dst,192.210.229.217,
+2024-06-22,Network activity,url,https://www.petaphotography.com/,
+2024-06-22,Network activity,domain,petaphotography.com,

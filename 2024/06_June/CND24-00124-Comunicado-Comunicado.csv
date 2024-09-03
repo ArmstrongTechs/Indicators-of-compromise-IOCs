@@ -1,0 +1,23 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: CND24-00124 [Comunicado] [Comunicado]
+| UUID: ac7f0b69-51b6-4c49-8d22-0fa27c0d4b46
+| Date: 2024-06-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-25,External analysis,text,"Desde el CSIRT de Gobierno te informamos lo siguiente:
+
+El Equipo de Respuesta ante Incidentes de Seguridad Informática (CSIRT) del Gobierno desea informarles sobre una amenaza creciente relacionada con el robo de información confidencial mediante programas maliciosos llamados &quot;infostealers&quot;, en esta ocasión, en particular sobre uno llamado Lumma.¿Qué son los infostealers?Los infostealers son programas maliciosos que roban información personal de su computadora o dispositivo. Esto incluye contraseñas, datos bancarios, y cualquier otra información que se almacene en su navegador o aplicaciones.¿Qué es Lumma?Lumma es un tipo de infostealer muy peligroso. Este programa malicioso puede:Robar contraseñas y datos de acceso.Capturar información guardada en navegadores y aplicaciones de contraseñas.Enviar esta información a delincuentes sin que usted se de cuenta.Descripción breve de LummaLumma es un malware sofisticado que se instala en su dispositivo sin que usted lo note, generalmente a través de correos electrónicos falsos o descargas de programas no confiables. Una vez instalado, Lumma busca y roba información sensible como contraseñas y datos bancarios, y luego envía esta información a criminales que pueden usarla para acceder a sus cuentas y robar su dinero o información personal.¿Cómo protegerse?Para protegerse de estos programas maliciosos, el CSIRT recomienda lo siguiente:Mantenga su software actualizado: Asegúrese de que su computadora, aplicaciones y programas de seguridad estén siempre actualizados. Las actualizaciones incluyen parches de seguridad que ayudan a proteger su dispositivo.Use un buen antivirus: Instale un programa antivirus confiable y manténgalo actualizado. Realice análisis regulares para buscar y eliminar posibles amenazas.Utilice la verificación en dos pasos (2FA): Active la verificación en dos pasos en sus cuentas. Esto agrega una capa adicional de seguridad, ya que además de su contraseña, necesitará otro método de verificación, como un código en su teléfono.Capacitación y concienciación: Infórmese y eduque a sus empleados o familiares sobre los riesgos del malware. Enseñe a reconocer correos electrónicos o mensajes sospechosos que podrían ser intentos de robo de información (phishing).Haga copias de seguridad: Realice copias de seguridad de su información importante y guárdelas en un lugar seguro, separado de su red principal.Monitoree su red y dispositivos: Use herramientas que le ayuden a detectar actividades inusuales en su red o dispositivos, para poder reaccionar rápidamente ante posibles amenazas.",Resumen
+2024-06-25,Payload delivery,filename,softwarevisiotoday_update2.exe,
+2024-06-25,Payload delivery,sha256,024abe2084370d2c946f7a98b26149fc77224a30400a3f7e253075318172f6d9,
+2024-06-25,Payload delivery,filename,Tuataragames Contract for YouTube Partners.pdf.exe,
+2024-06-25,Payload delivery,sha256,0408c89803285bf3084ab770a91b2212ef78ff721dbfc3c30c8ac632e68b16fc,
+2024-06-25,Payload delivery,filename,softwarevisiobox_update4.exe,
+2024-06-25,Payload delivery,sha256,0a5ea83c4ae868bacfac156039b2cfd713d61c15971a19b06447cf618bc24bf2,
+2024-06-25,Payload delivery,filename,bfsvc.exe,
+2024-06-25,Payload delivery,sha256,1f64bc9469a33c77561e22beea18d9bbdd343dae89bc6f02bc85e24873d93f4e,
+2024-06-25,Payload delivery,filename,Solution.exe,
+2024-06-25,Payload delivery,sha256,b748181035fabd4e717bb4d8a5b86343758864353c705b386e111036280905a1,

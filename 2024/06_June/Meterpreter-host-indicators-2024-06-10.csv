@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Meterpreter host indicators [2024-06-10]
+| UUID: 6add06f9-0758-4c76-942e-b209ccaea09d
+| Date: 2024-06-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-10,Payload installation,filename,SecuriteInfo.com.Trojan.Inject4.30337.24780.11592,Source: MalwareBazaar
+2024-06-10,Payload installation,md5,43296c4ac197f6feae234bb99e90ad57,Source: MalwareBazaar
+2024-06-10,Payload installation,sha1,6fe1b66534e85db1e8825b6b7cb9ee9fb621cfbd,Source: MalwareBazaar
+2024-06-10,Payload installation,sha256,5efab529c30f2571bbb2c3d093898cdf296878dd330afc7dfd68bf86c53b7dae,Source: MalwareBazaar

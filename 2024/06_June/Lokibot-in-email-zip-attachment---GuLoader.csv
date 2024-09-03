@@ -1,0 +1,35 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot in email (.zip) attachment - GuLoader
+| UUID: ddc83d71-96be-4a33-8ac8-681791e27169
+| Date: 2024-06-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-24,Payload delivery,other,"""powershell.exe"" -windowstyle hidden ""$Obstacle=Get-Content '%TEMP%\overmandede\Metran\menubilledet\Sideopdelingens\Vegatabilsk.syn';$Sfaeriske=$Obstacle.SubString(46988,3);.$Sfaeriske($Obstacle)""",
+2024-06-24,Artifacts dropped,filename,%TEMP%\overmandede\Metran\menubilledet\Sideopdelingens,
+2024-06-24,Payload delivery,url,https://drive.google.com/uc?export=download&id=15O8GZYEI4Ox46RDq_nBkUSHJak4hEu2-,
+2024-06-24,Network activity,url,http://c.pki.goog/r/gsr1.crl,
+2024-06-24,Network activity,url,http://c.pki.goog/r/r4.crl,
+2024-06-24,Network activity,url,http://45.61.136.239/index.php/ajax.php?view=1,POST
+2024-06-24,Network activity,ip-dst,45.61.136.239,
+2024-06-24,Payload delivery,malware-sample,UM RFP_24-0676·pdf.zip|327f227aa0a582e256a881d4e68482a2,
+2024-06-24,Payload delivery,filename,UM RFP_24-0676·pdf.zip,
+2024-06-24,Payload delivery,md5,327f227aa0a582e256a881d4e68482a2,
+2024-06-24,Payload delivery,sha1,e37d4cbcdc32a4f9227ec9c39dfe6fd6a40b36a6,
+2024-06-24,Payload delivery,sha256,c2c4109fea12595a20c1e9255da8c29f3f87e0815c6c84c24120f8fc7a812507,
+2024-06-24,Other,size-in-bytes,388442,
+2024-06-24,Payload delivery,malware-sample,UM RFP_24-0676·pdf.exe|4015f00ef3731b6caa8862aacc178f2e,
+2024-06-24,Payload delivery,filename,UM RFP_24-0676·pdf.exe,
+2024-06-24,Payload delivery,md5,4015f00ef3731b6caa8862aacc178f2e,
+2024-06-24,Payload delivery,sha1,a95f1a8fef002703f6c303121c36269485cccc50,
+2024-06-24,Payload delivery,sha256,ad2b8c6d46879d5c83c2a89020cf39f29f7344532b26e1ea8c91cbeb7fb3440c,
+2024-06-24,Other,size-in-bytes,478528,
+2024-06-24,Payload delivery,malware-sample,15O8GZYEI4Ox46RDq_nBkUSHJak4hEu2-|4e06dcdc35f74070b8f524ba561b4afe,
+2024-06-24,Payload delivery,filename,15O8GZYEI4Ox46RDq_nBkUSHJak4hEu2-,
+2024-06-24,Payload delivery,md5,4e06dcdc35f74070b8f524ba561b4afe,
+2024-06-24,Payload delivery,sha1,72dc847a71dbf59165ecfb2049de1d5435211e21,
+2024-06-24,Payload delivery,sha256,692aabd9158ca775d785e5da90ee67b4ced3a77b924f77f8108b58a956656ea3,
+2024-06-24,Other,size-in-bytes,106560,

@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos network indicators [2024-06-01]
+| UUID: b5e61f2f-3569-4895-b068-fb2c74c9539f
+| Date: 2024-06-01
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-01,Network activity,url,http://53rf.l.time4vps.cloud/crc/55.exe,Source: urlhaus
+2024-06-01,Network activity,url,http://176.223.130.167/crc/55.exe,Source: urlhaus
+2024-06-01,Network activity,url,http://167.160.166.69/UNjcxSJpGUpG0.bin,Source: urlhaus

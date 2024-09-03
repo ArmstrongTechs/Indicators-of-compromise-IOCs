@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: RaccoonStealer host indicators [2024-06-14]
+| UUID: 661e830c-17fc-41d0-9438-b0a7eb5379d9
+| Date: 2024-06-15
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-15,Payload installation,filename,SecuriteInfo.com.Trojan.Mods.22310.4547,Source: MalwareBazaar
+2024-06-15,Payload installation,md5,b078816404c8c68ada59da24d0a7c72d,Source: MalwareBazaar
+2024-06-15,Payload installation,sha1,d37e10f0ca139fe5bd72b7184330e1d0e4bad051,Source: MalwareBazaar
+2024-06-15,Payload installation,sha256,ab8ab33b38d72f6f41d1be645d3f8a5831384e3a60654d3119f2b1e3c0b0fe5b,Source: MalwareBazaar

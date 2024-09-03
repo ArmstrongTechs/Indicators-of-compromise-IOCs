@@ -1,0 +1,34 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-06-10]
+| UUID: d5ac3da9-3444-4d60-ab73-8949de8c9df7
+| Date: 2024-06-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-10,Payload installation,filename,RE.Re.NEW PURCHASING ORDER.exe,Source: MalwareBazaar
+2024-06-10,Payload installation,md5,47315af1e628b2e863840fd8a7621d2f,Source: MalwareBazaar
+2024-06-10,Payload installation,sha1,c374ab3e20121df9f7fe8fcb2fe76239a1621cd9,Source: MalwareBazaar
+2024-06-10,Payload installation,sha256,18b76adbd8648377f63aba0efb60d285be2c2f28d5eb918291d461b09056f40d,Source: MalwareBazaar
+2024-06-10,Payload installation,filename,xloader.vbs,Source: MalwareBazaar
+2024-06-10,Payload installation,md5,b6ae47c835c261c4b1d06cef2271b5e1,Source: MalwareBazaar
+2024-06-10,Payload installation,sha1,9182bc14013315a23aed4351b47b074ce19ca398,Source: MalwareBazaar
+2024-06-10,Payload installation,sha256,d9b1c5dba2ba0dc348d7a7270adfeb5453fbc3049c1a9bf68b8f172e0157195b,Source: MalwareBazaar
+2024-06-10,Payload installation,filename,PO_WIN69357.vbs,Source: MalwareBazaar
+2024-06-10,Payload installation,md5,351b01c8e7a2da18678ba62a4bfc6d66,Source: MalwareBazaar
+2024-06-10,Payload installation,sha1,bbedb674a2a53c918591608e6ab0b559c97b118d,Source: MalwareBazaar
+2024-06-10,Payload installation,sha256,e2aa7c341e14dcc96e0aa664b56e2bfeb92ad6fcbebbe3a9602939a76dd57b1f,Source: MalwareBazaar
+2024-06-10,Payload installation,filename,CFV20240600121.exe,Source: MalwareBazaar
+2024-06-10,Payload installation,md5,8874212365ef57aeee15045f9ec684eb,Source: MalwareBazaar
+2024-06-10,Payload installation,sha1,f509011e519095509f0368dc9289bdc6a48ebe96,Source: MalwareBazaar
+2024-06-10,Payload installation,sha256,ad27785339182485262a3a4b39d554d00aa73cb1ca437a28b181df2901036404,Source: MalwareBazaar
+2024-06-10,Payload installation,filename,Required quotations data list.exe,Source: MalwareBazaar
+2024-06-10,Payload installation,md5,db1fe196eb54987e46a1ff5a5f785753,Source: MalwareBazaar
+2024-06-10,Payload installation,sha1,46fce7858cf8bca6d1e4c62d23cd27de9c6d298a,Source: MalwareBazaar
+2024-06-10,Payload installation,sha256,8f25bd8cc3d87a0abf3ec733b08cc5378ae09afbec2f4ece2cd1dc386aba925b,Source: MalwareBazaar
+2024-06-10,Payload installation,filename,opp.exe,Source: MalwareBazaar
+2024-06-10,Payload installation,md5,d9d9b943acbbe0394122d68a5ac5919f,Source: MalwareBazaar
+2024-06-10,Payload installation,sha1,1befa767e5ae1f06658563cee6520bb7598999aa,Source: MalwareBazaar
+2024-06-10,Payload installation,sha256,92e0a7687dbabbecadf58d3f706e383909637c8ea4b0f49824f4c3929ff53435,Source: MalwareBazaar

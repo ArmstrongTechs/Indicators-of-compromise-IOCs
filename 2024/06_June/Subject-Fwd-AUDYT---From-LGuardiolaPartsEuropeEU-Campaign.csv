@@ -1,0 +1,94 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Fwd: AUDYT - From: LGuardiola@PartsEurope.EU"" Campaign"
+| UUID: 91dc3c5a-3b81-4d37-9fe9-d2bbdec3e236
+| Date: 2024-06-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-18,Payload delivery,email-src,lguardiola@partseurope.eu,Source email: from LGuardiola@PartsEurope.EU - subject: Fwd: AUDYT; Spoofing
+2024-06-18,Payload delivery,email-src-display-name,[REDACTED],Source email: from LGuardiola@PartsEurope.EU - subject: Fwd: AUDYT
+2024-06-18,Payload delivery,email-body,"Szanowny Kliencie,
+
+
+
+
+Jesteśmy w trakcie audytu i potrzebujemy potwierdzenia załączonych informacji.
+
+
+
+
+
+
+
+[REDACTED]
+Customer Service Agent 
+
+
+
+Parts Europe GmbH
+Conrad-Roentgen-Strasse 2
+54332 Wasserliesch/Trier
+
+Phone: +49 6501 9695-2000
+
+
+
+E-Mail: [REDACTED]Web:    www.partseurope.eu  
+
+
+
+ 
+
+Managing Director:  Paul Langley
+Commercial register: District Court Wittlich, HRB 40711
+
+This message (including any attachments) is confidential and may be privileged. It may be read, copied and used only by the intended recipient. If you have received it in error, please contact the sender (by return E-Mail) immediately and delete this message. Any unauthorized use or dissemination of this message in whole or in part is strictly prohibited.",Source email: from LGuardiola@PartsEurope.EU - subject: Fwd: AUDYT
+2024-06-18,Payload delivery,email-subject,Fwd: AUDYT,Source: from LGuardiola@PartsEurope.EU - subject: Fwd: AUDYT
+2024-06-18,Payload delivery,filename|sha256,Podsumowanie faktur sprzedaży według klienta.pdf|9969e2c482f62d12ef319554a489902c88ec777f51ac6d46dba40860d8d6fb7c,Malspam attachment - source: from LGuardiola@PartsEurope.EU - subject: Fwd: AUDYT mime: application/octet-stream
+2024-06-18,Payload delivery,filename|ssdeep,Podsumowanie faktur sprzedaży według klienta.pdf|12288:x/lYhXFduh9HKww+sdb1wGC+FfYg6Xkr96jJdKWFSZXHRuusK6cspEs5NuirSyI:Vlc1kqwwfb1wGp1AJdKWo1HRbGNyiY,Malspam attachment - source: from LGuardiola@PartsEurope.EU - subject: Fwd: AUDYT mime: application/octet-stream
+2024-06-18,Payload delivery,filename|sha1,Podsumowanie faktur sprzedaży według klienta.pdf|70b07866b226d4a5fd12941dd52067896c1a52e8,Malspam attachment - source: from LGuardiola@PartsEurope.EU - subject: Fwd: AUDYT mime: application/octet-stream
+2024-06-18,Payload delivery,filename|sha512,Podsumowanie faktur sprzedaży według klienta.pdf|ce50bdad98a1b0e1db7198dfc286a66328f45ee3a05ddea4c7aa8b69fe0cab34a61d6437962d79d110225ff0550dfed1918d17642ade4eb7b410b90ab604f77f,Malspam attachment - source: from LGuardiola@PartsEurope.EU - subject: Fwd: AUDYT mime: application/octet-stream
+2024-06-18,Payload delivery,filename|md5,Podsumowanie faktur sprzedaży według klienta.pdf|ea9636858f16de5f66f11b5251d32527,Malspam attachment - source: from LGuardiola@PartsEurope.EU - subject: Fwd: AUDYT mime: application/octet-stream
+2024-06-18,Payload delivery,filename|md5,990e04358805ea1f9d226490bde3490cbd93d397d2b728210b3839f1e8ac7847|f687f930741dba271c3099d89a3bd230,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|sha1,990e04358805ea1f9d226490bde3490cbd93d397d2b728210b3839f1e8ac7847|787fedfe9c010cde164c8643f962b33d32dce8c3,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|sha256,990e04358805ea1f9d226490bde3490cbd93d397d2b728210b3839f1e8ac7847|990e04358805ea1f9d226490bde3490cbd93d397d2b728210b3839f1e8ac7847,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|sha512,990e04358805ea1f9d226490bde3490cbd93d397d2b728210b3839f1e8ac7847|6e65633358a1f012c11b039c8676bd2383a891ea26bd31c9061dbf150fd1f3b7fcebb594b3a3f1fe90ace338f6a7d317571998c59a948bc8fc1037f57762dcd2,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|ssdeep,990e04358805ea1f9d226490bde3490cbd93d397d2b728210b3839f1e8ac7847|6144:jSq5UaMGPmQ7WpvpNjeZdVpRBNtbpC8xEIMn/N3WCI2:jVUbkD7WpvpN2d79iv3WCI2,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|md5,9d16e726449c7db4cbd50565c8f219f5645e73b93371def3455ef629a79cf8dd|3ea7016e7ecb16a6f830585d50ef810e,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|sha1,9d16e726449c7db4cbd50565c8f219f5645e73b93371def3455ef629a79cf8dd|ce7972608ac87b9ea66a2c57d1abf0eb9b0aacf3,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|sha256,9d16e726449c7db4cbd50565c8f219f5645e73b93371def3455ef629a79cf8dd|9d16e726449c7db4cbd50565c8f219f5645e73b93371def3455ef629a79cf8dd,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|sha512,9d16e726449c7db4cbd50565c8f219f5645e73b93371def3455ef629a79cf8dd|32f0f2d327fc6284107ff47354f2fa5c2a8af84ffe535eb4302be0e96cbf2551a13ee3df8828ab7e38229701cba49c2009db874e70062bcdf6f48cc37a840217,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|ssdeep,9d16e726449c7db4cbd50565c8f219f5645e73b93371def3455ef629a79cf8dd|6144:Nz7+R2//DrwmdZgk9fkH3b/lSx1brGaTJPsiDg:NzLQmwk98XTXaT,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|imphash,Podsumowanie faktur sprzedaży według klienta.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Extracted from Podsumowanie faktur sprzedaży według klienta.pdf|; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|md5,Podsumowanie faktur sprzedaży według klienta.exe|d28911156766a73e1029e12d94e7d5de,Extracted from Podsumowanie faktur sprzedaży według klienta.pdf|; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|sha1,Podsumowanie faktur sprzedaży według klienta.exe|016f0fcbe400b59ea981f80593a26e022251a203,Extracted from Podsumowanie faktur sprzedaży według klienta.pdf|; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|sha256,Podsumowanie faktur sprzedaży według klienta.exe|38b60babbacd57b3f21972ca979f76c0753654db2cfa9cdfc97481c6a3f0ba72,Extracted from Podsumowanie faktur sprzedaży według klienta.pdf|; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|sha512,Podsumowanie faktur sprzedaży według klienta.exe|1bbc52c4e175bd2542830169e91f048e595f0d892641e11a435555c66a316ed503234b450e4de575499113405ecbee32ac7ae7cd6750a5796bcc371a554053d7,Extracted from Podsumowanie faktur sprzedaży według klienta.pdf|; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|ssdeep,Podsumowanie faktur sprzedaży według klienta.exe|12288:IFIsPAonBAO0Dngw9s5exGpH+6wGbAFfYt6XkrX6jJQKCFSZqHRuubuCMWOA87Py:6IKj2Dnf9CexGF+6wG8WAJQKCoEHRGc,Extracted from Podsumowanie faktur sprzedaży według klienta.pdf|; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|imphash,Tyrone.dll|dae02f32a21e03ce65412f6e56942daa,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|md5,Tyrone.dll|225cdabc5acd8363c9347ad304c57e46,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|sha1,Tyrone.dll|ce25f5b12fc0934c77a0ed25851718ee4e49271b,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|sha256,Tyrone.dll|4ef8fe0dde6fdfbe0cf496cdd3b3235ee1495c5264f73e467d67d1e42272641f,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|sha512,Tyrone.dll|1cde6e9a430aac5a6cc30ae584e55dc56dd8416080cde572bb3daa048df75e6e8c892bd658bace09921ea6d2b09e7aee6c6819ae81bc63ac7f8f9b18a23223d7,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|ssdeep,Tyrone.dll|12288:88jqjvanmCvuge3aTVtE0c28LmTn/fP7+cPrQHzZF8sHjp1fJ:RNQgeAE0T/nSssf7fJ,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|md5,c4b12039bfed4c8bbb9d1376004da60480e49a379a84c9e60565bbd5caef07b2|144f7fcaaa3b81b0a3706203a7f1add8,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|sha1,c4b12039bfed4c8bbb9d1376004da60480e49a379a84c9e60565bbd5caef07b2|4bc14913fd448b4a2664e1e9ba664a1c6e9a9194,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|sha256,c4b12039bfed4c8bbb9d1376004da60480e49a379a84c9e60565bbd5caef07b2|c4b12039bfed4c8bbb9d1376004da60480e49a379a84c9e60565bbd5caef07b2,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|sha512,c4b12039bfed4c8bbb9d1376004da60480e49a379a84c9e60565bbd5caef07b2|c3f6f18ce9bb3fb71bc41904da7ea9b67a13bdbe8b67e033cbb10dcd0487e2209fcdfbd482bd4770d9fe89933829bed8ac3dd6b03df82c7ba1c88929281df502,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|ssdeep,c4b12039bfed4c8bbb9d1376004da60480e49a379a84c9e60565bbd5caef07b2|384:GXWUXWxx4gyAxXWxx4gyAzBFHj4XCCAkuJ:FnL4gyA8L4gyAzrj4zA3,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|md5,ecf1257cb2839319c722daf5323ba2ed7060368b46f84610b6b6823323297826|cba51dcdec84ac14ce1eaf2ede86f28b,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|sha1,ecf1257cb2839319c722daf5323ba2ed7060368b46f84610b6b6823323297826|2e77e64525600817d96b4d9c497135c989e608ee,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|sha256,ecf1257cb2839319c722daf5323ba2ed7060368b46f84610b6b6823323297826|ecf1257cb2839319c722daf5323ba2ed7060368b46f84610b6b6823323297826,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|sha512,ecf1257cb2839319c722daf5323ba2ed7060368b46f84610b6b6823323297826|5822d709d58fe06af87a0d7d4c698c8482cbd177b3915ead98a8936fe2830253dea4feeaf0cb505a1f166c07f2f14506f936c68b1c753eddd476f6ead586f99b,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Payload delivery,filename|ssdeep,ecf1257cb2839319c722daf5323ba2ed7060368b46f84610b6b6823323297826|384:xTEzTE+aIAF1uNTfEUqwmcewTE+aIAF1uNTfEUqwmceIWesKuyO56vv:yc+GF1uNY+GF1uNRsKLO58,Extracted from Podsumowanie faktur sprzedaży według klienta.exe; mime: application/x-dosexec
+2024-06-18,Network activity,domain,www.witoharmuth.com,Source: Network activity from Tyrone.dll; Decoy domain
+2024-06-18,Network activity,domain,www.binpvae.lol,Source: Network activity from Tyrone.dll; Decoy domain
+2024-06-18,Network activity,domain,ax-0001.ax-msedge.net,Source: Network activity from Tyrone.dll; Decoy domain
+2024-06-18,Network activity,domain,www.magnoliahairandco.com,Source: Network activity from Tyrone.dll; Decoy domain
+2024-06-18,Network activity,domain,www.am1-728585.com,Source: Network activity from Tyrone.dll; Decoy domain
+2024-06-18,Network activity,url,https://duckduckgo.com/chrome_newtab/,Source: Network activity from Tyrone.dll; Decoy
+2024-06-18,Network activity,url,http://www.fontbureau.com/designers/,Source: Network activity from Tyrone.dll; Decoy
+2024-06-18,Network activity,url,https://themeisle.com/,Source: Network activity from Tyrone.dll; Decoy

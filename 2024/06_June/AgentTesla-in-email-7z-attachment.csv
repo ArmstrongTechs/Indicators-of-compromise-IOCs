@@ -1,0 +1,25 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla in email (7z) attachment
+| UUID: 4e99a399-61a9-4f9b-8419-d654c485658d
+| Date: 2024-06-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-24,Network activity,hostname,mail.cup.org.pk,
+2024-06-24,Network activity,email,naseer@cup.org.pk,
+2024-06-24,Network activity,email,procurement@glamourstorepa.com.br,
+2024-06-24,Payload delivery,malware-sample,RFQ_20242406.7z|0903c802c8ce50b9b19141c58047d482,
+2024-06-24,Payload delivery,filename,RFQ_20242406.7z,
+2024-06-24,Payload delivery,md5,0903c802c8ce50b9b19141c58047d482,
+2024-06-24,Payload delivery,sha1,61dd405ee2a1be4a42f035713d1d4791e761d073,
+2024-06-24,Payload delivery,sha256,1dc6449bc15a240fe9d14222ef151ba5daea4d7604ab7f7eec2234490353c308,
+2024-06-24,Other,size-in-bytes,646765,
+2024-06-24,Payload delivery,malware-sample,RFQ_20242406.exe|f30019b913dd4f93b106dd562bf6c45d,
+2024-06-24,Payload delivery,filename,RFQ_20242406.exe,
+2024-06-24,Payload delivery,md5,f30019b913dd4f93b106dd562bf6c45d,
+2024-06-24,Payload delivery,sha1,5742558d2ffd26011f1267501b9b19945f9c796a,
+2024-06-24,Payload delivery,sha256,819a692b5d9e9ae482d6910cae24370a3284296169afa55ee0a353a7ce12c13c,
+2024-06-24,Other,size-in-bytes,733696,

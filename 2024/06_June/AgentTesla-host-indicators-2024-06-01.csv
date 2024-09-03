@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-06-01]
+| UUID: 12010d1b-9fea-49c9-b8c7-5ae021120c9a
+| Date: 2024-06-01
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-01,Payload installation,filename,YapiKrediInternetBankaciligi_Dekont_20240531_266_40240020.exe,Source: MalwareBazaar
+2024-06-01,Payload installation,md5,ee4bf41b907bc392d81019a6a94949bf,Source: MalwareBazaar
+2024-06-01,Payload installation,sha1,0b938cc890947766c5133f46225acee30bf08bc4,Source: MalwareBazaar
+2024-06-01,Payload installation,sha256,15c04e22491f8e845da0adff79abd677fc12388ccea0f7c031c679ef175e3228,Source: MalwareBazaar
+2024-06-01,Payload installation,filename,Docs.zip,Source: MalwareBazaar
+2024-06-01,Payload installation,md5,ee0dccc789317fc926a9d06e27fe01e2,Source: MalwareBazaar
+2024-06-01,Payload installation,sha1,47e9652168172e0aec1bc4955d4f68d72bb63d39,Source: MalwareBazaar
+2024-06-01,Payload installation,sha256,99c95598054ff10c459214c4a202bf2c585c307825cb768c794b6df8093235d8,Source: MalwareBazaar

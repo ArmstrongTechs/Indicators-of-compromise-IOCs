@@ -1,0 +1,49 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Zamówienie 811998290012 - From: info@eisen-lobert.de"" Campaign"
+| UUID: 8e5ada86-7009-493f-9097-1b96d578a75d
+| Date: 2024-06-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-10,Payload delivery,email-src,info@eisen-lobert.de,Source email: from info@eisen-lobert.de - subject: Zamówienie 811998290012; Spoofing
+2024-06-10,Payload delivery,email-src-display-name,[REDACTED],Source email: from info@eisen-lobert.de - subject: Zamówienie 811998290012
+2024-06-10,Payload delivery,email-body,"Dzień dobry,
+
+Proszę o podanie najlepszej oferty (ceny i dostawy) w ramach załączonej 
+listy zamówień.
+
+Dziękuję za twoją uprzejmą odpowiedź.
+
+Pozdrawiam/ Best Regards
+
+UWAGA !!
+Zamiana: nazwy firmy, strony www oraz adresów email
+
+[REDACTED]
+
+[REDACTED]
+ul. Bolesława Gidzińskiego  4
+02-293 Warszawa
+NIP: 527 25 59 155
+NR BDO: 000528258
+tel. +48 22 743 60 80
+tel. +48 669 601 667
+
+[REDACTED][REDACTED][REDACTED]",Source email: from info@eisen-lobert.de - subject: Zamówienie 811998290012
+2024-06-10,Payload delivery,email-subject,Zamówienie 811998290012,Source: from info@eisen-lobert.de - subject: Zamówienie 811998290012
+2024-06-11,Payload delivery,filename|sha256,Zamówienie_nr.811998290012PDF.img|2656f8bd424c465fe4f24b1f2e35ca677bb2979af4e9b775f413582480b77d13,Malspam attachment - source: from info@eisen-lobert.de - subject: Zamówienie 811998290012 mime: application/x-iso9660-image
+2024-06-11,Payload delivery,filename|ssdeep,Zamówienie_nr.811998290012PDF.img|12288:nwUmCHqytsCF+v85dRuFyaFAiWWojbh9Mpw5JNHrU32tWrM9uOAHnI:RTqGX+U5MyOAiGPJ4JA9gI,Malspam attachment - source: from info@eisen-lobert.de - subject: Zamówienie 811998290012 mime: application/x-iso9660-image
+2024-06-11,Payload delivery,filename|sha1,Zamówienie_nr.811998290012PDF.img|36ee65d7ab7939a7bb02707c9cbe9f213be33348,Malspam attachment - source: from info@eisen-lobert.de - subject: Zamówienie 811998290012 mime: application/x-iso9660-image
+2024-06-11,Payload delivery,filename|sha512,Zamówienie_nr.811998290012PDF.img|1e0bec76ead11a95d862596d15191874cc7951f3df73cfe814320d1a7150842d66ebaf6213c26eb964e3df2966abd89b81ffe62959ccdc4bdc1b47ecd568b7d3,Malspam attachment - source: from info@eisen-lobert.de - subject: Zamówienie 811998290012 mime: application/x-iso9660-image
+2024-06-11,Payload delivery,filename|md5,Zamówienie_nr.811998290012PDF.img|56d14b6928add548c8ca30185e127cbd,Malspam attachment - source: from info@eisen-lobert.de - subject: Zamówienie 811998290012 mime: application/x-iso9660-image
+2024-06-11,Payload delivery,filename|imphash,Zamówienie_nr.811998290012PDF.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Extracted from Zamówienie_nr.811998290012PDF.img; mime: application/x-dosexec
+2024-06-11,Payload delivery,filename|md5,Zamówienie_nr.811998290012PDF.exe|d7d56d1b7590ad47f39f512ebeef7f82,Extracted from Zamówienie_nr.811998290012PDF.img; mime: application/x-dosexec
+2024-06-11,Payload delivery,filename|sha1,Zamówienie_nr.811998290012PDF.exe|d00e5b5ca6f616729a251d91b35fbd0d1bc1751a,Extracted from Zamówienie_nr.811998290012PDF.img; mime: application/x-dosexec
+2024-06-11,Payload delivery,filename|sha256,Zamówienie_nr.811998290012PDF.exe|6471b244c80aa0b48201013b69f1b195805946cd3b55282499bcc87dff650856,Extracted from Zamówienie_nr.811998290012PDF.img; mime: application/x-dosexec
+2024-06-11,Payload delivery,filename|sha512,Zamówienie_nr.811998290012PDF.exe|51e3d0df5ed1410d33a98888b1174c06190bc8d1e630537cc3f8af2a29201c0dc885c76f7b514cc3bc55352da759c34e0cc91858097ade69722b6a8a8af1c514,Extracted from Zamówienie_nr.811998290012PDF.img; mime: application/x-dosexec
+2024-06-11,Payload delivery,filename|ssdeep,Zamówienie_nr.811998290012PDF.exe|12288:FwUmCHqytsCF+v85dRuFyaFAiWWojbh9Mpw5JNHrU32tWrM9uOAHnI:/TqGX+U5MyOAiGPJ4JA9gI,Extracted from Zamówienie_nr.811998290012PDF.img; mime: application/x-dosexec
+2024-06-10,Network activity,domain,ftp.rusticpensiune.ro,Source: Extracted from static config of Zamówienie_nr.811998290012PDF.exe; data exfiltration via FTP
+2024-06-10,Network activity,email-dst,ftpadmin@rusticpensiune.ro,Source: Extracted from static config of Zamówienie_nr.811998290012PDF.exe; data exfiltration via FTP

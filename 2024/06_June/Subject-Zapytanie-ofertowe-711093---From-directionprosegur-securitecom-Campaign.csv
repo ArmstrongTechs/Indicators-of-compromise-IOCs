@@ -1,0 +1,106 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Zapytanie ofertowe 711093 - From: direction@prosegur-securite.com"" Campaign"
+| UUID: 9c866ae0-0f1a-4094-83f3-c02b177e4595
+| Date: 2024-06-05
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-04,Payload delivery,email-src,direction@prosegur-securite.com,Source email: from direction@prosegur-securite.com - subject: Zapytanie ofertowe 711093; Spoofing
+2024-06-04,Payload delivery,email-src-display-name,[REDACTED],Source email: from direction@prosegur-securite.com - subject: Zapytanie ofertowe 711093
+2024-06-04,Payload delivery,email-body,"Cześć,
+
+Szukamy zakupu Twojego produktu dla naszego klienta.
+
+Proszę znaleźć dołączone zapytanie dla pierwszego etapu tego zakupu.
+
+Załączony arkusz zawiera docelowe ceny dla większości produktów.
+Podkreśliłem 10 elementów do skupienia się na cenach - pozostałe 
+elementy są opcjonalne do ceny (zastosujemy podobny poziom cen w oparciu 
+o inne ceny).
+
+Proszę wrócić do mnie na lub przed 10/06/2024
+
+Jeśli potrzebujesz więcej czasu, daj mi znać, dopóki nie będziesz 
+potrzebował.
+
+Jeśli masz jakiekolwiek pytania, proszę również dać mi znać.
+
+Z poważaniem / Best regards
+[REDACTED]
+
+GRUPA SPORTEX
+Długa 53 84-300 Mosty
+Poland
+Tel: +48 59 861 25 13
+Fax: +48 59 861 25 13
+web: www.grupasportex.pl [1]
+
+Links:
+------
+[1] http://www.grupasportex.pl",Source email: from direction@prosegur-securite.com - subject: Zapytanie ofertowe 711093
+2024-06-04,Payload delivery,email-subject,Zapytanie ofertowe 711093,Source: from direction@prosegur-securite.com - subject: Zapytanie ofertowe 711093
+2024-06-04,Payload delivery,filename|sha256,RFQ_81153200000634000.tar|e2a42c93356731399004ce0feb49ad7db72e2d5c892a02f9b34beaeede2745ee,Malspam attachment - source: from direction@prosegur-securite.com - subject: Zapytanie ofertowe 711093 mime: application/x-rar
+2024-06-04,Payload delivery,filename|ssdeep,RFQ_81153200000634000.tar|12288:JUHEkoMuuAr+b4kLFeFQwaHEvHhyvjHSoJE0xbl0k1kjhwLT5CvikMRh3fzxJTY2:JUVuh+DZeFQbkP4SQPT1mhWUviJLfD,Malspam attachment - source: from direction@prosegur-securite.com - subject: Zapytanie ofertowe 711093 mime: application/x-rar
+2024-06-04,Payload delivery,filename|sha1,RFQ_81153200000634000.tar|8271576a71ad11a1c3c3dfd5d2ed3bead46c6558,Malspam attachment - source: from direction@prosegur-securite.com - subject: Zapytanie ofertowe 711093 mime: application/x-rar
+2024-06-04,Payload delivery,filename|sha512,RFQ_81153200000634000.tar|feeee81f7691d2502bab7eed2bc8d9888de177e2cad2498ad5ba2a9b810eb7850d0e6e615063f14a314fdf3c9f0ad8b0e330f69b39d6bff4e31feae773b214e1,Malspam attachment - source: from direction@prosegur-securite.com - subject: Zapytanie ofertowe 711093 mime: application/x-rar
+2024-06-04,Payload delivery,filename|md5,RFQ_81153200000634000.tar|535a2144069a0c97a29db066925a6872,Malspam attachment - source: from direction@prosegur-securite.com - subject: Zapytanie ofertowe 711093 mime: application/x-rar
+2024-06-04,Payload delivery,filename|md5,150_Tbznczsvlyu|e783fe87db80e7ed353b7015e43b86fe,Downloaded from https://83mtdg.bl.files.1drv.com/y4mxWtGf7U-n0eqq3poLTDD2KoyNPK9wPR7bU1LWl6WU5iG6WY9jlqvjnl298FexB_BVeYfaiGk8O1wHLiDYZ7ffpUlSwAeDlPMwyuue0fbFSQ3Yx8_1G8KJkmDJJcG1fCTywu9JCvuqBHZ2p_DtVRFeUY0XqX7MmtMPsaEYs5R2vWiwCPIgE2-vVGScveJjQ6fweDCii9Am__2Ed09gni1ow/150_Tbznczsvlyu?download&psid=1; mime: text/plain
+2024-06-04,Payload delivery,filename|sha1,150_Tbznczsvlyu|e9476d1585d7627afc9fd1c838219ec253a0d0a6,Downloaded from https://83mtdg.bl.files.1drv.com/y4mxWtGf7U-n0eqq3poLTDD2KoyNPK9wPR7bU1LWl6WU5iG6WY9jlqvjnl298FexB_BVeYfaiGk8O1wHLiDYZ7ffpUlSwAeDlPMwyuue0fbFSQ3Yx8_1G8KJkmDJJcG1fCTywu9JCvuqBHZ2p_DtVRFeUY0XqX7MmtMPsaEYs5R2vWiwCPIgE2-vVGScveJjQ6fweDCii9Am__2Ed09gni1ow/150_Tbznczsvlyu?download&psid=1; mime: text/plain
+2024-06-04,Payload delivery,filename|sha256,150_Tbznczsvlyu|d16e9fa6512b0b0c8a863797b1c12763de23495b48f03aef71c0c86612677947,Downloaded from https://83mtdg.bl.files.1drv.com/y4mxWtGf7U-n0eqq3poLTDD2KoyNPK9wPR7bU1LWl6WU5iG6WY9jlqvjnl298FexB_BVeYfaiGk8O1wHLiDYZ7ffpUlSwAeDlPMwyuue0fbFSQ3Yx8_1G8KJkmDJJcG1fCTywu9JCvuqBHZ2p_DtVRFeUY0XqX7MmtMPsaEYs5R2vWiwCPIgE2-vVGScveJjQ6fweDCii9Am__2Ed09gni1ow/150_Tbznczsvlyu?download&psid=1; mime: text/plain
+2024-06-04,Payload delivery,filename|sha512,150_Tbznczsvlyu|3abf965b87ba5313bbe9663b6dea25eaa9e9f4edce56492fdaa3f73dd221bb92f8fa1aff32d92a69a88bce2cbe24c426bf494bfd08d5fe81c5941e9929d28ff6,Downloaded from https://83mtdg.bl.files.1drv.com/y4mxWtGf7U-n0eqq3poLTDD2KoyNPK9wPR7bU1LWl6WU5iG6WY9jlqvjnl298FexB_BVeYfaiGk8O1wHLiDYZ7ffpUlSwAeDlPMwyuue0fbFSQ3Yx8_1G8KJkmDJJcG1fCTywu9JCvuqBHZ2p_DtVRFeUY0XqX7MmtMPsaEYs5R2vWiwCPIgE2-vVGScveJjQ6fweDCii9Am__2Ed09gni1ow/150_Tbznczsvlyu?download&psid=1; mime: text/plain
+2024-06-04,Payload delivery,filename|ssdeep,150_Tbznczsvlyu|12288:N63KSXvyxj4MkwvvewuBYRvJ6ZkKBwTO5ki86oEyPRFI/PRoWfWtgKjHa6IGWxmK:436xtHA64fr5ki86wDI/Z1fWP1Wxxd,Downloaded from https://83mtdg.bl.files.1drv.com/y4mxWtGf7U-n0eqq3poLTDD2KoyNPK9wPR7bU1LWl6WU5iG6WY9jlqvjnl298FexB_BVeYfaiGk8O1wHLiDYZ7ffpUlSwAeDlPMwyuue0fbFSQ3Yx8_1G8KJkmDJJcG1fCTywu9JCvuqBHZ2p_DtVRFeUY0XqX7MmtMPsaEYs5R2vWiwCPIgE2-vVGScveJjQ6fweDCii9Am__2Ed09gni1ow/150_Tbznczsvlyu?download&psid=1; mime: text/plain
+2024-06-04,Payload delivery,filename|md5,4c6f8a0dfc35e19e0c496c9dc1563514f62717356f25d60bea5af5eb7820b907|2e0b3bf432f7d07f0aaf4f7d8f83e7a6,Unpacked from Ping_c.pif; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|sha1,4c6f8a0dfc35e19e0c496c9dc1563514f62717356f25d60bea5af5eb7820b907|b462987bce4e54d20c487dcb3b361239599a9dd6,Unpacked from Ping_c.pif; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|sha256,4c6f8a0dfc35e19e0c496c9dc1563514f62717356f25d60bea5af5eb7820b907|4c6f8a0dfc35e19e0c496c9dc1563514f62717356f25d60bea5af5eb7820b907,Unpacked from Ping_c.pif; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|sha512,4c6f8a0dfc35e19e0c496c9dc1563514f62717356f25d60bea5af5eb7820b907|3c6475c7d7c1d6e1cdfde1252e00f7bad0dd1a5ad70343e66810445e734c4bf5f3419c09eb1c2f590386f6d3ee06776f32c71ba3c764395c35b40fbc0bff4d9d,Unpacked from Ping_c.pif; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|ssdeep,4c6f8a0dfc35e19e0c496c9dc1563514f62717356f25d60bea5af5eb7820b907|6144:DCQJ3eE40LI9kBVZdCNDvd43tRB2u2lg9UaoZlYrD0gg+FJie6nvv0vibgjUj1pU:F3ehCI9YbHdv2lhMr3/TidKibYiLz,Unpacked from Ping_c.pif; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|imphash,LOADER.EXE|dd7b5eed6607225c03249c26d14a2571,Unpacked from Ping_c.pif; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|md5,LOADER.EXE|c116d3604ceafe7057d77ff27552c215,Unpacked from Ping_c.pif; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|sha1,LOADER.EXE|452b14432fb5758b46f2897aeccd89f7c82a727d,Unpacked from Ping_c.pif; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|sha256,LOADER.EXE|7bcdc2e607abc65ef93afd009c3048970d9e8d1c2a18fc571562396b13ebb301,Unpacked from Ping_c.pif; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|sha512,LOADER.EXE|9202a00eeaf4c5be94de32fd41bfea40fc32d368955d49b7bad2b5c23c4ebc92dccb37d99f5a14e53ad674b63f1baa6efb1feb27225c86693ead3262a26d66c6,Unpacked from Ping_c.pif; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|ssdeep,LOADER.EXE|1536:lR2rJpByeL+39Ua1ITgA8wpuO5CU4GGMGcT4idU:lR2lg9Ua1egkCU60U,Unpacked from Ping_c.pif; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|md5,Ping_c.mp4|0466b3b65ef634d69a194c9eab42e7fa,Extracted from RFQ_81153200000634000.cmd; mime: text/plain
+2024-06-04,Payload delivery,filename|sha1,Ping_c.mp4|271a52f2ba5d86bf72474a8c18eaac9e979e4ef1,Extracted from RFQ_81153200000634000.cmd; mime: text/plain
+2024-06-04,Payload delivery,filename|sha256,Ping_c.mp4|c9e22eef27cdb925c5330a18209348b11554b63c2a879d3c42e8b9d58502d1cb,Extracted from RFQ_81153200000634000.cmd; mime: text/plain
+2024-06-04,Payload delivery,filename|sha512,Ping_c.mp4|5a83b04da12ac38ec76b75103ed19c73ca8e6dc193d8b93bc27943fb1d4e1680e5b6b8f90a5e2a77f26947daf337a84f0b4079e197920ee586a08b4d3016a1d6,Extracted from RFQ_81153200000634000.cmd; mime: text/plain
+2024-06-04,Payload delivery,filename|ssdeep,Ping_c.mp4|24576:S/LdBT8sRabWGjTUHXDpzsn/MXVwMVtgv1Z0JqD/1lDpJLtF0byVXh8z3MoQegD1:N,Extracted from RFQ_81153200000634000.cmd; mime: text/plain
+2024-06-04,Payload delivery,filename|imphash,Ping_c.pif|ef3f6f0fd8b56aa92a2545a5d0cb763b,Extracted from Ping_c.mp4; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|md5,Ping_c.pif|88d9f00dae116f91df08801ce019dc19,Extracted from Ping_c.mp4; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|sha1,Ping_c.pif|ba722a502c275c5465cb16ecedb7495b2e7816b0,Extracted from Ping_c.mp4; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|sha256,Ping_c.pif|2aa071cd4255c0fa7dc75ebf73965f3393909c02a77b81af5da9048fc98236be,Extracted from Ping_c.mp4; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|sha512,Ping_c.pif|97ed0aa798f6fe93d37376f2f727e046ec22767bae71b8d4d74d83112ffdb5d741796b120dee6e76facf122f8bdedac0e83e56cf01760cd297d7a2ad2cb4f6f4,Extracted from Ping_c.mp4; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|ssdeep,Ping_c.pif|12288:DNQYuQ++HuE93jRSWZvC/Gb7KIkf/zYO54lCvlQ8/qhjqQVDplFTmwijfP:DW1SHuyzRSUcGn9kf7z8CnQVD/F,Extracted from Ping_c.mp4; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|md5,RFQ_81153200000634000.cmd|830d03ed45b651565f7d2f414ed4143c,Extracted from RFQ_81153200000634000.tar; mime: text/plain
+2024-06-04,Payload delivery,filename|sha1,RFQ_81153200000634000.cmd|4d017c6fea92959e3562131fc3c6d915995ddcd2,Extracted from RFQ_81153200000634000.tar; mime: text/plain
+2024-06-04,Payload delivery,filename|sha256,RFQ_81153200000634000.cmd|6237470bf8b4daae56ead2d675ee374072ad14db2b04f0126dae0535effba260,Extracted from RFQ_81153200000634000.tar; mime: text/plain
+2024-06-04,Payload delivery,filename|sha512,RFQ_81153200000634000.cmd|074f81c4a7e7f1bef93879c439d92c2191a5294805eeccc026fb1245460c2a0ba6fbd070c8ff850b867ab5a9ac0e0eafafdf2e5fda9ff699f686a28666d02690,Extracted from RFQ_81153200000634000.tar; mime: text/plain
+2024-06-04,Payload delivery,filename|ssdeep,RFQ_81153200000634000.cmd|49152:omZIVekHAYmaBfa2cLySXFDvh13zo//zhK6x3UGZJyFxCknVgGlL1+I0bHdFE4K9:T,Extracted from RFQ_81153200000634000.tar; mime: text/plain
+2024-06-04,Payload delivery,filename|md5,Tbznczsv.PIF|3408f5f17727eb5b9e8902e9cf834a1a,Moved and renamed from Ping_c.pif; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|sha1,Tbznczsv.PIF|b494e012bb0cd5e0efe1b0db5a69fa7dfbad7e1f,Moved and renamed from Ping_c.pif; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|sha256,Tbznczsv.PIF|e2a5c946054f9915cb9908d3e9ce48dd4516ba5c43d6a82a6a6635f404bb7d95,Moved and renamed from Ping_c.pif; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|sha512,Tbznczsv.PIF|45f5fd0032db8f283e95bae5ae26ff7c5dec2586824449ce59e2ab134d8ec68196bfb00dc590cfe7da2aebbe500a6d15cf7035630f4218885bc1bc7bd8320b26,Moved and renamed from Ping_c.pif; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|ssdeep,Tbznczsv.PIF|6144:taZKNQYSdQ+f22CuEkIiB8jrioxkGggRSMMTdtAHHQ01FC/FOBb7w/IG3AKSy/zH:DNQYuQ++HuE93jRSWZvC/Gb7KIkf/zYu,Moved and renamed from Ping_c.pif; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|md5,Tbznczsv.bat|997f3d1af6cf88547c7fe0cdf516ac0c,Extracted from Ping_c.pif; Run with cmd.exe; mime: text/plain
+2024-06-04,Payload delivery,filename|sha1,Tbznczsv.bat|d9bb666d58d8f33d82d6787f89bb4f21057c8965,Extracted from Ping_c.pif; Run with cmd.exe; mime: text/plain
+2024-06-04,Payload delivery,filename|sha256,Tbznczsv.bat|72c98a4c731ca55cceac4da6af62b6d9923282b5d8d07c6b920594bb85be2499,Extracted from Ping_c.pif; Run with cmd.exe; mime: text/plain
+2024-06-04,Payload delivery,filename|sha512,Tbznczsv.bat|e64d178552b5baf83449ae1631c62becd66729af8faedf612128ed3a2020b0e72ca1b424823f8e105ff79c364b488b06cca55023efac2965a1d0832dccfc16b9,Extracted from Ping_c.pif; Run with cmd.exe; mime: text/plain
+2024-06-04,Payload delivery,filename|ssdeep,Tbznczsv.bat|192:XAhkRytGA7B+/aHExAp8s9WGEcQGdGdX9y:w,Extracted from Ping_c.pif; Run with cmd.exe; mime: text/plain
+2024-06-04,Payload delivery,filename|imphash,easinvoker.exe|3e94ccb6e60fc118db0d61a5306c8825,Unpacked from Ping_c.pif; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|md5,easinvoker.exe|869640d0a3f838694ab4dfea9e2f544d,Unpacked from Ping_c.pif; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|sha1,easinvoker.exe|bdc42b280446ba53624ff23f314aadb861566832,Unpacked from Ping_c.pif; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|sha256,easinvoker.exe|0db4d3ffdb96d13cf3b427af8be66d985728c55ae254e4b67d287797e4c0b323,Unpacked from Ping_c.pif; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|sha512,easinvoker.exe|6e775cfb350415434b18427d5ff79b930ed3b0b3fc3466bc195a796c95661d4696f2d662dd0e020c3a6c3419c2734468b1d7546712ecec868d2bbfd2bc2468a7,Unpacked from Ping_c.pif; mime: application/x-dosexec
+2024-06-04,Payload delivery,filename|ssdeep,easinvoker.exe|1536:dhJfbGY/Bn623Kvv0IzGJyyu2xXibswbTYTjULf1YrfspZPgpzF:dhJfbG6B6yKvv0uWyyu2xXibswbQjUjs,Unpacked from Ping_c.pif; mime: application/x-dosexec
+2024-06-04,Network activity,url,https://83mtdg.bl.files.1drv.com/y4mxWtGf7U-n0eqq3poLTDD2KoyNPK9wPR7bU1LWl6WU5iG6WY9jlqvjnl298FexB_BVeYfaiGk8O1wHLiDYZ7ffpUlSwAeDlPMwyuue0fbFSQ3Yx8_1G8KJkmDJJcG1fCTywu9JCvuqBHZ2p_DtVRFeUY0XqX7MmtMPsaEYs5R2vWiwCPIgE2-vVGScveJjQ6fweDCii9Am__2Ed09gni1ow/150_Tbznczsvlyu?download&psid=1,Source: Effective address of https://onedrive.live.com/download?resid=9BD0E91096B7E386%21117&authkey=!AORSEUMbKHUbcoY
+2024-06-04,Network activity,url,https://onedrive.live.com/download?resid=9BD0E91096B7E386%21117&authkey=!AORSEUMbKHUbcoY,Source: Network activity from Tbznczsv.PIF
+2024-06-04,Payload delivery,filename|md5,vszcnzbT.cmd|ecac4200f2c6ab06102f8fe7b14a96af,Extracted from Ping_c.pif; Run with cmd.exe; mime: text/plain
+2024-06-04,Payload delivery,filename|sha1,vszcnzbT.cmd|82e148655bfe410f80cafb070713259e94ec00cb,Extracted from Ping_c.pif; Run with cmd.exe; mime: text/plain
+2024-06-04,Payload delivery,filename|sha256,vszcnzbT.cmd|067cd486f7b1a9b7ca52a6d2ab25fdd443f839485e4787a768f9c6654e003271,Extracted from Ping_c.pif; Run with cmd.exe; mime: text/plain
+2024-06-04,Payload delivery,filename|sha512,vszcnzbT.cmd|d6c271a9bd0a2ab68ae3270bfca920049a86e8ad4aa66ce9c376a88f02de041a8bf7b24b757aac2f67042c38ff01f4b6f615cd1d1b76fe25974d7ffeb03ba348,Extracted from Ping_c.pif; Run with cmd.exe; mime: text/plain
+2024-06-04,Payload delivery,filename|ssdeep,vszcnzbT.cmd|96:F9Kh1dn1gAysYmvNMU6Wzw1sbpKv87aL9:F9KhjpNf6hBvT,Extracted from Ping_c.pif; Run with cmd.exe; mime: text/plain
+2024-06-05,Network activity,hostname|port,brownselocalsz.duckdns.org|6098,Source: extracted from static config of Ping_c.pif; C2
+2024-06-05,Network activity,hostname|port,klikkancontrolsx.ddnsfree.com|6098,Source: extracted from static config of Ping_c.pif; C2

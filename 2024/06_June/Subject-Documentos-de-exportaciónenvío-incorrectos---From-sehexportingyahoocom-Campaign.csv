@@ -1,0 +1,40 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Documentos de exportación/envío incorrectos - From: sehexporting@yahoo.com"" Campaign"
+| UUID: d0de1ce1-daf4-4f07-83f6-4a52527937c1
+| Date: 2024-06-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-20,Payload delivery,email-src,sehexporting@yahoo.com,Source email: from sehexporting@yahoo.com - subject: Documentos de exportación/envío incorrectos
+2024-06-20,Payload delivery,email-src-display-name,Estilo Asrai,Source email: from sehexporting@yahoo.com - subject: Documentos de exportación/envío incorrectos
+2024-06-20,Payload delivery,email-body,"<html><head>
+<meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"">
+<meta name=""GENERATOR"" content=""MSHTML 10.00.9200.16384""></head>
+<body style=""margin: 0.5em;""><p>Buen d&iacute;a,<br>Por favor revise los documentos adjuntos de exportaci&oacute;n/env&iacute;o que me enviaron la semana pasada. Son incorrectos.<br>Supongo que el error es de la empresa de transporte, as&iacute; que verif&iacute;quelo y env&iacute;eme los documentos de exportaci&oacute;n correctos.</p><p>Esperando respuesta urgentemente.</p><p>Gracias por su comprensi&oacute;n,<br>Saludos,</p><p>estilo asrai,<br>Representante de Log&iacute;stica<br>
+Elegancia Foods Inc.<br>Tel&eacute;fono: 314-995-6546<br>M&oacute;vil: 44 624 5785</p></body></html>",Source email: from sehexporting@yahoo.com - subject: Documentos de exportación/envío incorrectos
+2024-06-20,Payload delivery,email-subject,Documentos de exportación/envío incorrectos,Source: from sehexporting@yahoo.com - subject: Documentos de exportación/envío incorrectos
+2024-06-20,Payload delivery,filename|sha256,documentos de envo___________xlsm.z|fafd851314ce4af40bc0780309ab97318df12e683474a5e5b7856c81f1723356,Malspam attachment - source: from sehexporting@yahoo.com - subject: Documentos de exportación/envío incorrectos mime: application/x-rar
+2024-06-20,Payload delivery,filename|ssdeep,documentos de envo___________xlsm.z|3072:fffvGLxHnxqLrnd9TmVt/Q76Q5H2blaM4lSOVwHkk0TJ8obACO:fff+nxqvL2tKJ2bgMSwESobACO,Malspam attachment - source: from sehexporting@yahoo.com - subject: Documentos de exportación/envío incorrectos mime: application/x-rar
+2024-06-20,Payload delivery,filename|sha1,documentos de envo___________xlsm.z|53573c837a675ed84efdba364c5ca6fc6282cd11,Malspam attachment - source: from sehexporting@yahoo.com - subject: Documentos de exportación/envío incorrectos mime: application/x-rar
+2024-06-20,Payload delivery,filename|sha512,documentos de envo___________xlsm.z|0554722c9375ad6a131c4629e760330e818441da8f21f7e411bbc595139b3631f0f65a67bbbd12c3d7f9e5c1de668bd8522e5f1829b28d675acdbc88f45f7d69,Malspam attachment - source: from sehexporting@yahoo.com - subject: Documentos de exportación/envío incorrectos mime: application/x-rar
+2024-06-20,Payload delivery,filename|md5,documentos de envo___________xlsm.z|878905f116a5090bdb7e32ecf8963793,Malspam attachment - source: from sehexporting@yahoo.com - subject: Documentos de exportación/envío incorrectos mime: application/x-rar
+2024-06-20,Payload delivery,filename|sha1,documentos de envío___________xlsm.exe|12844a806a7fea8ecd56e1fa2cca05d136d2dd7e,Archive contents - source: documentos de envo___________xlsm.z mime: application/x-dosexec
+2024-06-20,Payload delivery,filename|imphash,documentos de envío___________xlsm.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Archive contents - source: documentos de envo___________xlsm.z mime: application/x-dosexec
+2024-06-20,Payload delivery,filename|ssdeep,documentos de envío___________xlsm.exe|12288:WgXvqwlQ904/4ISZ8cNemQtE0ecgI4pu5:Wqqwm9D4ISZtNemQtJBgQ5,Archive contents - source: documentos de envo___________xlsm.z mime: application/x-dosexec
+2024-06-20,Payload delivery,filename|sha256,documentos de envío___________xlsm.exe|2ff74fcd1612681df0dfde60f997141935a1f802bbff47be49f1fcf99b3b3982,Archive contents - source: documentos de envo___________xlsm.z mime: application/x-dosexec
+2024-06-20,Payload delivery,filename|sha512,documentos de envío___________xlsm.exe|973d2e9843b1c3a9fcf13a0c2d48a453437f8d93b5b45f61a1e6ba1123a0b556fc7b3ce1aecbb20a35c117df667c370fcb7a97fece593cbda6c2f85099f497d1,Archive contents - source: documentos de envo___________xlsm.z mime: application/x-dosexec
+2024-06-20,Payload delivery,filename|md5,documentos de envío___________xlsm.exe|27ee0221771b3adbf03377147d9e0d9c,Archive contents - source: documentos de envo___________xlsm.z mime: application/x-dosexec
+2024-06-20,Payload delivery,filename|md5,Vjpyvkyxv.wav|010e0a70c6e8dcec89db920f0853f331,Downloaded from https://nexoproducciones.cl/Vjpyvkyxv.wav; mime: text/plain
+2024-06-20,Payload delivery,filename|sha1,Vjpyvkyxv.wav|bdc2a80517ccad452b26fe2ff0b767016598929e,Downloaded from https://nexoproducciones.cl/Vjpyvkyxv.wav; mime: text/plain
+2024-06-20,Payload delivery,filename|sha256,Vjpyvkyxv.wav|dd58fb9228f0c318fa2ac151be7d55c50149776325f0f01becefc0b3d60bedcc,Downloaded from https://nexoproducciones.cl/Vjpyvkyxv.wav; mime: text/plain
+2024-06-20,Payload delivery,filename|sha512,Vjpyvkyxv.wav|0fa8488b575cd4649ed6fe4a45db93bc9934ae99c4ce0b2df40a83e7e4e69049a97106bae160c1bb99b9635aa94826fbb8dbcf18c18c74ff755baf2045d48b16,Downloaded from https://nexoproducciones.cl/Vjpyvkyxv.wav; mime: text/plain
+2024-06-20,Payload delivery,filename|ssdeep,Vjpyvkyxv.wav|24576:5sx63JlQe4mef/kF+NiCBnPlXQLGguihxLKfvdkEnIcvj/ZuYxsdUvMvrADpq7U4:b,Downloaded from https://nexoproducciones.cl/Vjpyvkyxv.wav; mime: text/plain
+2024-06-20,Network activity,url,https://nexoproducciones.cl/Vjpyvkyxv.wav,Source: Network activity from documentos de envío___________xlsm.exe
+2024-06-20,Network activity,domain,mail.wassadadvogados.com.br,Source: Network activity from Vjpyvkyxv.wav; data exfiltration via SMTP
+2024-06-20,Network activity,email-dst,majicboyyy@wassadadvogados.com.br,Source: Network activity from Vjpyvkyxv.wav; data exfiltration via SMTP
+2024-06-20,Network activity,email-dst,majicman@afprofiters.com,Source: Network activity from Vjpyvkyxv.wav; data exfiltration via SMTP
+2024-06-20,Network activity,url,http://ip-api.com/line/?fields=hosting,Source: Network activity from documentos de envío___________xlsm.exe

@@ -1,0 +1,46 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-06-26]
+| UUID: fa6a1752-c7ec-4911-a8b9-46bc98fcf9db
+| Date: 2024-06-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-26,Payload installation,filename,_Account Receipt.PDF.gz,Source: MalwareBazaar
+2024-06-26,Payload installation,md5,68f7629436bfe2b0e2a6123c7aabb503,Source: MalwareBazaar
+2024-06-26,Payload installation,sha1,0a08b9340907d9e07adfd20d88efc319fbc86c07,Source: MalwareBazaar
+2024-06-26,Payload installation,sha256,1d3f5c50815c1cad2e1593b08355bc3971f7ea8f15b9966acb07a118125a3a8a,Source: MalwareBazaar
+2024-06-26,Payload installation,filename,GG017077 TAE.exe,Source: MalwareBazaar
+2024-06-26,Payload installation,md5,94fb1ce4266862716af422e74afba7f1,Source: MalwareBazaar
+2024-06-26,Payload installation,sha1,4728ec55c662a0baa3958431bec526ce3994fa4b,Source: MalwareBazaar
+2024-06-26,Payload installation,sha256,58c10a33c97079415469992a5a45d92030cb333a4cd10b00ac09e3ae44a3d9ef,Source: MalwareBazaar
+2024-06-26,Payload installation,filename,_Account Receipt.PDF.exe,Source: MalwareBazaar
+2024-06-26,Payload installation,md5,4483befca2da909bb4b9ee08b7e80af2,Source: MalwareBazaar
+2024-06-26,Payload installation,sha1,4a88f7dbbe5a63e5f8bf2470001284a4ffbf9fa3,Source: MalwareBazaar
+2024-06-26,Payload installation,sha256,712c970fa57cebf6ccbe56758bb5c616f103d08a9a1404bac0b7ae3c08d6edeb,Source: MalwareBazaar
+2024-06-26,Payload installation,filename,Shipping Documents.exe,Source: MalwareBazaar
+2024-06-26,Payload installation,md5,b76b226ecb69c4ddbe9b2a3a85b557e4,Source: MalwareBazaar
+2024-06-26,Payload installation,sha1,7bd6ee4fcb442b9ac1cca857a623220ad7a7a848,Source: MalwareBazaar
+2024-06-26,Payload installation,sha256,4100a818ff603e1b37740a46d8c5fb58626e4c096575c4b4eb11492eebecf903,Source: MalwareBazaar
+2024-06-26,Payload installation,filename,Document TOP19928.exe,Source: MalwareBazaar
+2024-06-26,Payload installation,md5,9503c5e38cc3212777d0f35ad86ad949,Source: MalwareBazaar
+2024-06-26,Payload installation,sha1,91e513f38310ec35b6568ab78db72e07baac8e80,Source: MalwareBazaar
+2024-06-26,Payload installation,sha256,76e1f3e24e580448102173c64147b51e13834fba66c34ed3e273e5b54c895fe5,Source: MalwareBazaar
+2024-06-26,Payload installation,filename,Shipping Documents.exe,Source: MalwareBazaar
+2024-06-26,Payload installation,md5,e74c3ebb2cf0daa055220cd284e420cc,Source: MalwareBazaar
+2024-06-26,Payload installation,sha1,ed45af053bdb68ea69321f28f1cec2ecefb7d598,Source: MalwareBazaar
+2024-06-26,Payload installation,sha256,1831a7d7cb0309018b48298dee3d789eb6aed6bee466a4ec2cce27db09e458f3,Source: MalwareBazaar
+2024-06-27,Payload installation,filename,nAMENDED CONTRACT-pdf.img,Source: MalwareBazaar
+2024-06-27,Payload installation,md5,cf296d0ac0f7b6e03444ea1cf3e91ee1,Source: MalwareBazaar
+2024-06-27,Payload installation,sha1,fae87eac2799b7932d7c63c5dbdcb6f34de5200d,Source: MalwareBazaar
+2024-06-27,Payload installation,sha256,a8c03dfe6c66acdf569a445ad9eba5795f699e78bb6c347db55dfbff03daa120,Source: MalwareBazaar
+2024-06-27,Payload installation,filename,z1Order240611-06.exe,Source: MalwareBazaar
+2024-06-27,Payload installation,md5,8d1266682a6427d5850afb6b29ac3e30,Source: MalwareBazaar
+2024-06-27,Payload installation,sha1,259c3a70fe7596b775f154a9be5d168d731ff224,Source: MalwareBazaar
+2024-06-27,Payload installation,sha256,cfc9ee3799a0054e3e18bf0be00e5afe34ee944ec56d2277974cdcbe9ed05d97,Source: MalwareBazaar
+2024-06-27,Payload installation,filename,2bdf60ce1391ccc1a829a41c8b531dd5.exe,Source: MalwareBazaar
+2024-06-27,Payload installation,md5,2bdf60ce1391ccc1a829a41c8b531dd5,Source: MalwareBazaar
+2024-06-27,Payload installation,sha1,8fecb37b06dd016f820cbc55c1446aa34666bf12,Source: MalwareBazaar
+2024-06-27,Payload installation,sha256,06b5199b7753075d90d3adf5d33adcef9b1c3254d0471a70c282e2cc1391f1b1,Source: MalwareBazaar

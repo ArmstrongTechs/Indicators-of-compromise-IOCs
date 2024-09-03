@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-06-30]
+| UUID: f977b382-3eb0-4fa2-967f-8b528f6ff6c4
+| Date: 2024-06-30
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-01,Payload installation,filename,DHL Arrival Notice.exe,Source: MalwareBazaar
+2024-07-01,Payload installation,md5,9ff0ae0fd5ba4d036ccc357d143ab594,Source: MalwareBazaar
+2024-07-01,Payload installation,sha1,ad6925af049beb777a11c63f6c4f25ac022aad73,Source: MalwareBazaar
+2024-07-01,Payload installation,sha256,afec7242f5c41610ecb994d22fc8243a58866ed6c4c11a1544cca10019fe0a07,Source: MalwareBazaar

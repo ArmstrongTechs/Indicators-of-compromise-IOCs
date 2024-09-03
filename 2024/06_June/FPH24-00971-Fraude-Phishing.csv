@@ -1,0 +1,21 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00971 [Fraude] [Phishing]
+| UUID: 1f6e7d3b-05fa-4b18-bf38-e2da82a8f23f
+| Date: 2024-06-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-11,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+Se trata de una nueva campaña de phishing a través de email, que suplanta a Netflix.En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente:&quot;Hola,Hemos notado que es necesario actualizar su método de pago. Para evitar interrupciones en su servicio, actualice su información de pago lo antes posible.&quot;El correo electrónico fraudulento incluye un enlace a un formulario malicioso, usado para capturar credenciales de los usuarios.",Resumen
+2024-06-11,Network activity,ip-src,172.67.171.150,IP sitio falso
+2024-06-11,Network activity,ip-src,54.238.185.72,IP SMTP
+2024-06-11,Payload delivery,email-src,dev@kotsu.do,Correo de salida
+2024-06-11,Payload delivery,url,https://membership-app.com/log/,URL redireccion
+2024-06-11,Payload delivery,url,https://membership-renew.com/login,URL sitio falso
+2024-06-11,Payload delivery,email-subject,Recordatorio: actualice su método de pago.,Asunto correo
+2024-06-11,External analysis,attachment,2024-06-10_15h52_58.png,
+2024-06-11,External analysis,attachment,2024-06-10_15h52_21.png,

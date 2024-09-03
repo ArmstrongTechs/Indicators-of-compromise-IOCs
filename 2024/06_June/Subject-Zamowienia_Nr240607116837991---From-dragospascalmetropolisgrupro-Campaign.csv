@@ -1,0 +1,64 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Zamowienia_Nr.240607116837991 - From: dragos.pascal@metropolisgrup.ro"" Campaign"
+| UUID: bcca58c3-a8d5-4d4b-9a12-202179d1b0b9
+| Date: 2024-06-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-14,Payload delivery,email-src,dragos.pascal@metropolisgrup.ro,Source email: from dragos.pascal@metropolisgrup.ro - subject: Zamowienia_Nr.240607116837991
+2024-06-14,Payload delivery,email-src-display-name,[REDACTED] (AZ Armaturen Polska Sp. z o. o),Source email: from dragos.pascal@metropolisgrup.ro - subject: Zamowienia_Nr.240607116837991
+2024-06-14,Payload delivery,email-body,"Dzien dobry,
+W załaczeniu znajduje sie nasze nowe zamówienie nr. 240607116837991 i 
+przekaż nam najlepsze oferty cenowe.
+
+Prosimy o podanie numeru naszego zamówienia w potwierdzeniach.
+
+Dziekuje za twoja uprzejma odpowiedź.
+
+[REDACTED]
+
+AZ Armaturen Polska Sp. z o. o    . ul. Zakątna 7, 26-300 Opoczno
+
+tel.: 44/ 755 04 30-1, fax: 44/ 755 04 32      [REDACTED]    
+   www.az-armaturen.pl [1]
+
+  [2]
+
+
+
+Links:
+------
+[1] http://www.az-armaturen.pl/
+[2] https://az-armaturen.de/en/achema24/",Source email: from dragos.pascal@metropolisgrup.ro - subject: Zamowienia_Nr.240607116837991
+2024-06-14,Payload delivery,email-subject,Zamowienia_Nr.240607116837991,Source: from dragos.pascal@metropolisgrup.ro - subject: Zamowienia_Nr.240607116837991
+2024-06-14,Payload delivery,filename|sha256,Zamowienia_Nr.240607116837991.img|dee5422a33c466f6ef79d8c6040653cdd814eb786d4f2958bf998a2f37ea8865,Malspam attachment - source: from dragos.pascal@metropolisgrup.ro - subject: Zamowienia_Nr.240607116837991 mime: application/x-iso9660-image
+2024-06-14,Payload delivery,filename|ssdeep,Zamowienia_Nr.240607116837991.img|12288:qLDFgAzEfSkhhjdo0EsiUbqjzwYCel6f92izhZcxsOFytdEf8:qPe8khh5o0v+jzBCHZcxRFb8,Malspam attachment - source: from dragos.pascal@metropolisgrup.ro - subject: Zamowienia_Nr.240607116837991 mime: application/x-iso9660-image
+2024-06-14,Payload delivery,filename|sha1,Zamowienia_Nr.240607116837991.img|03bf726e1a0e452a8adbabf9b6ae967c8637f9a9,Malspam attachment - source: from dragos.pascal@metropolisgrup.ro - subject: Zamowienia_Nr.240607116837991 mime: application/x-iso9660-image
+2024-06-14,Payload delivery,filename|sha512,Zamowienia_Nr.240607116837991.img|f0a2fa632d85e4738a9e47f90f0d2ba9498c8c85f0c3e13d83696271ec35bdc3d1ca9cd9fc4dc403b7fc1c84128a4a5cee49d8c260d8c839c386a975dbce7692,Malspam attachment - source: from dragos.pascal@metropolisgrup.ro - subject: Zamowienia_Nr.240607116837991 mime: application/x-iso9660-image
+2024-06-14,Payload delivery,filename|md5,Zamowienia_Nr.240607116837991.img|2bc8e87875a463f9d530438989f50186,Malspam attachment - source: from dragos.pascal@metropolisgrup.ro - subject: Zamowienia_Nr.240607116837991 mime: application/x-iso9660-image
+2024-06-14,Payload delivery,filename|imphash,LOADER.EXE|dd7b5eed6607225c03249c26d14a2571,Extracted from Zamowienia_Nr.240607116837991.exe; mime: application/x-dosexec
+2024-06-14,Payload delivery,filename|md5,LOADER.EXE|c116d3604ceafe7057d77ff27552c215,Extracted from Zamowienia_Nr.240607116837991.exe; mime: application/x-dosexec
+2024-06-14,Payload delivery,filename|sha1,LOADER.EXE|452b14432fb5758b46f2897aeccd89f7c82a727d,Extracted from Zamowienia_Nr.240607116837991.exe; mime: application/x-dosexec
+2024-06-14,Payload delivery,filename|sha256,LOADER.EXE|7bcdc2e607abc65ef93afd009c3048970d9e8d1c2a18fc571562396b13ebb301,Extracted from Zamowienia_Nr.240607116837991.exe; mime: application/x-dosexec
+2024-06-14,Payload delivery,filename|sha512,LOADER.EXE|9202a00eeaf4c5be94de32fd41bfea40fc32d368955d49b7bad2b5c23c4ebc92dccb37d99f5a14e53ad674b63f1baa6efb1feb27225c86693ead3262a26d66c6,Extracted from Zamowienia_Nr.240607116837991.exe; mime: application/x-dosexec
+2024-06-14,Payload delivery,filename|ssdeep,LOADER.EXE|1536:lR2rJpByeL+39Ua1ITgA8wpuO5CU4GGMGcT4idU:lR2lg9Ua1egkCU60U,Extracted from Zamowienia_Nr.240607116837991.exe; mime: application/x-dosexec
+2024-06-14,Payload delivery,filename|imphash,Zamowienia_Nr.240607116837991.exe|674b7864163aacaf0900e90f4b445ee9,Extracted from Zamowienia_Nr.240607116837991.img; mime: application/x-dosexec
+2024-06-14,Payload delivery,filename|md5,Zamowienia_Nr.240607116837991.exe|3ef8635bae8d12ccdbc2cd20349f0eb7,Extracted from Zamowienia_Nr.240607116837991.img; mime: application/x-dosexec
+2024-06-14,Payload delivery,filename|sha1,Zamowienia_Nr.240607116837991.exe|cd9354db767a6f96c7569c9f981469313515626f,Extracted from Zamowienia_Nr.240607116837991.img; mime: application/x-dosexec
+2024-06-14,Payload delivery,filename|sha256,Zamowienia_Nr.240607116837991.exe|80672ae37732e855be62604f1622d4e5cb0e2e90568af56a28ac310d60988db5,Extracted from Zamowienia_Nr.240607116837991.img; mime: application/x-dosexec
+2024-06-14,Payload delivery,filename|sha512,Zamowienia_Nr.240607116837991.exe|ed7736e89797fac4147201cb28aff4ad9515e7c7b2fa34fccf47e433b7fb57df2a1737d485e9f5ce1b5a91c23c7cfef6458a56b1bfd098ec2c1b144e87083a87,Extracted from Zamowienia_Nr.240607116837991.img; mime: application/x-dosexec
+2024-06-14,Payload delivery,filename|ssdeep,Zamowienia_Nr.240607116837991.exe|12288:sLDFgAzEfSkhhjdo0EsiUbqjzwYCel6f92izhZcxsOFytdEf8:sPe8khh5o0v+jzBCHZcxRFb8,Extracted from Zamowienia_Nr.240607116837991.img; mime: application/x-dosexec
+2024-06-14,Payload delivery,filename|imphash,easinvoker.exe|3e94ccb6e60fc118db0d61a5306c8825,Extracted from Zamowienia_Nr.240607116837991.exe; mime: application/x-dosexec
+2024-06-14,Payload delivery,filename|md5,easinvoker.exe|869640d0a3f838694ab4dfea9e2f544d,Extracted from Zamowienia_Nr.240607116837991.exe; mime: application/x-dosexec
+2024-06-14,Payload delivery,filename|sha1,easinvoker.exe|bdc42b280446ba53624ff23f314aadb861566832,Extracted from Zamowienia_Nr.240607116837991.exe; mime: application/x-dosexec
+2024-06-14,Payload delivery,filename|sha256,easinvoker.exe|0db4d3ffdb96d13cf3b427af8be66d985728c55ae254e4b67d287797e4c0b323,Extracted from Zamowienia_Nr.240607116837991.exe; mime: application/x-dosexec
+2024-06-14,Payload delivery,filename|sha512,easinvoker.exe|6e775cfb350415434b18427d5ff79b930ed3b0b3fc3466bc195a796c95661d4696f2d662dd0e020c3a6c3419c2734468b1d7546712ecec868d2bbfd2bc2468a7,Extracted from Zamowienia_Nr.240607116837991.exe; mime: application/x-dosexec
+2024-06-14,Payload delivery,filename|ssdeep,easinvoker.exe|1536:dhJfbGY/Bn623Kvv0IzGJyyu2xXibswbTYTjULf1YrfspZPgpzF:dhJfbG6B6yKvv0uWyyu2xXibswbQjUjs,Extracted from Zamowienia_Nr.240607116837991.exe; mime: application/x-dosexec
+2024-06-14,Payload delivery,filename|md5,f382c886102c16187b771ac4fc64e478b2f17fc947960340d3f8034361ac0280.dll|291cb400ea82d49f55b4cb69d35dca4f,Extracted from Zamowienia_Nr.240607116837991.exe; mime: application/x-dosexec
+2024-06-14,Payload delivery,filename|sha1,f382c886102c16187b771ac4fc64e478b2f17fc947960340d3f8034361ac0280.dll|08d8eadf3f3211a3888976e0f930e7650bda443f,Extracted from Zamowienia_Nr.240607116837991.exe; mime: application/x-dosexec
+2024-06-14,Payload delivery,filename|sha256,f382c886102c16187b771ac4fc64e478b2f17fc947960340d3f8034361ac0280.dll|f382c886102c16187b771ac4fc64e478b2f17fc947960340d3f8034361ac0280,Extracted from Zamowienia_Nr.240607116837991.exe; mime: application/x-dosexec
+2024-06-14,Payload delivery,filename|sha512,f382c886102c16187b771ac4fc64e478b2f17fc947960340d3f8034361ac0280.dll|870917cf3782b656a76f8cf93e097def92b173db725e6df3489670f0ba6dd7cae8a84ba3149543a847606182e535e32ff6c27bd6a819d2dae30c91eac7d4de96,Extracted from Zamowienia_Nr.240607116837991.exe; mime: application/x-dosexec
+2024-06-14,Payload delivery,filename|ssdeep,f382c886102c16187b771ac4fc64e478b2f17fc947960340d3f8034361ac0280.dll|6144:mCQJ3eE40LI9kBVZdCNDcjnSJw5CjU2lg9UaoZlYrD0gg+FJi:E3ehCI9YbQEuA2lhMr3/Ti,Extracted from Zamowienia_Nr.240607116837991.exe; mime: application/x-dosexec

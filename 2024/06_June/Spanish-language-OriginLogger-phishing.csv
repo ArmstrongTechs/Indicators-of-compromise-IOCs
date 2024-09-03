@@ -1,0 +1,15 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Spanish language OriginLogger phishing
+| UUID: c5b513f8-dc75-4b7f-8a84-407df1dfbdce
+| Date: 2024-06-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-22,Payload delivery,email-src,galicia@grupocolabora.com,
+2024-06-22,Network activity,domain,grupocolabora.com,"""email domain"""
+2024-06-22,Network activity,ip-dst,94.247.31.65,"""email client IP"""
+2024-06-22,Payload delivery,filename|sha256,DF000645--NEW ORDER.exe|63192845f76bc6442b700f56ba267fd39de0469770facfb66e9ee799c0652c74,"""Filename and sha256 hash of the file extracted from the .zip attachment"""
+2024-06-22,Payload delivery,filename|sha256,400000.jsc.exe|8e94a63efccb1b5e833af767d0eb34d8e4515fb12287cf37067a631f012de392,

@@ -1,0 +1,20 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00967 [Fraude] [Phishing]
+| UUID: 3cc09582-a116-441e-9b91-6bce9990c95e
+| Date: 2024-06-06
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-07,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+En esta campaña de phishing, delincuentes envían un email falso que simula ser una supuesta validación de acceso de correos electrónicos, suplantando al Ministerio Secretaría General de Gobierno. ¡No hagas clic!En el email malicioso, los delincuentes indican falsamente a la víctima lo siguiente:&quot;Debe volver a validar su acceso a su correo electrónico. Por favor haga clic en el siguiente enlace para completar el proceso.&quot;El correo electrónico incluye un enlace a un formulario diseñado para capturar credenciales de usuarios.",Resumen
+2024-06-07,Network activity,ip-src,104.21.38.153,IP sitio falso
+2024-06-07,Network activity,ip-src,66.29.159.81,IP SMTP
+2024-06-07,Payload delivery,url,https://a.rs6.net/1/pc?ep=bb9573e6a915e874zaCA5uwbPuu9ocYLEZ9aUg1FTVV3Lv2X77D8CqwuyZPc9SN3qDF4rE-Rsd1XXT4mRkM33lmUCtpfTnoBeyTRlNTzNMcyFy3eo3MXZIWNSKIYEpQgS4OuL_C1E4ejFP-1osSQ4SZDjkvnjCNt9e4iuxaegeoNFiOJZ2mL99ko3Go&c=#{Correo electronico},URL redirección
+2024-06-07,Payload delivery,url,https://spinnereidrei.online/c/#{Correo electronico},URL sitio falso
+2024-06-07,Payload delivery,email-src,ron@xgolfbroadviewhts.com,Correo de salida
+2024-06-07,External analysis,attachment,2024-06-06_14h55_51.png,
+2024-06-07,External analysis,attachment,2024-06-06_14h54_15.png,

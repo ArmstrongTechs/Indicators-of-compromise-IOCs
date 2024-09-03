@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Gh0stRAT network indicators [2024-06-18]
+| UUID: 0714b092-af01-48db-ad0d-ce4798a1abb0
+| Date: 2024-06-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-18,Network activity,url,http://173.248.248.135:7744/1.exe,Source: urlhaus
+2024-06-18,Network activity,url,http://45.207.168.120:7744/22222.zip,Source: urlhaus
+2024-06-18,Network activity,url,http://45.207.168.120:7744/conhostdhfw.exe,Source: urlhaus
+2024-06-18,Network activity,url,http://45.207.168.120:7744/mm.exe,Source: urlhaus

@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-06-20]
+| UUID: 046ee597-5f9b-4044-a1dc-88f0e9cbc50d
+| Date: 2024-06-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-20,Payload installation,filename,gunzipped.exe,Source: MalwareBazaar
+2024-06-20,Payload installation,md5,afc2cf9b291ca4fc649575f1efe5f1cb,Source: MalwareBazaar
+2024-06-20,Payload installation,sha1,2398c35747669b1b83b5b965c1bff80c0f3183bc,Source: MalwareBazaar
+2024-06-20,Payload installation,sha256,331a07b5bb8e8e5182c7db012d7471bced3bd83142be852b44e26c807d0b8d25,Source: MalwareBazaar

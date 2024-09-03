@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-06-02]
+| UUID: e2da76dc-da56-4409-aef4-de2daff403d1
+| Date: 2024-06-02
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-02,Payload installation,filename,Remittance Advice.exe,Source: MalwareBazaar
+2024-06-02,Payload installation,md5,559f3cab0509194acf2da1d3ab633280,Source: MalwareBazaar
+2024-06-02,Payload installation,sha1,cb754e1ec8656382aa99e4c80f431d359bdeab20,Source: MalwareBazaar
+2024-06-02,Payload installation,sha256,8058fdac57a403fa90c6b7d69567bbc0a829599a8e93543cc2e51f9177becb24,Source: MalwareBazaar
+2024-06-02,Payload installation,filename,STATEMENT OF ACCOUNT.exe,Source: MalwareBazaar
+2024-06-02,Payload installation,md5,a6860f38da5460092e32e7d3ad40d73b,Source: MalwareBazaar
+2024-06-02,Payload installation,sha1,35105d4db8c8e4953741b45b66b7dda4557e4513,Source: MalwareBazaar
+2024-06-02,Payload installation,sha256,364c37d1a5142ecaaeabce403a7809a109348f94afd4fc547d862ed9b0f83bee,Source: MalwareBazaar
+2024-06-02,Payload installation,filename,DHL documentos_97866542353647589676846545635434535678908886765354657869780876954.exe,Source: MalwareBazaar
+2024-06-02,Payload installation,md5,ae89ade9f160589390e9c250484ca6b2,Source: MalwareBazaar
+2024-06-02,Payload installation,sha1,4265826ce0e9c88336c44334289c570df5b37309,Source: MalwareBazaar
+2024-06-02,Payload installation,sha256,9897c1f7d4ecf7e68ba31bef6c909543d69c6bbd95a17d061f45ed13f4b92bfd,Source: MalwareBazaar

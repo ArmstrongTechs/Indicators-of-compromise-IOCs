@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Gh0stRAT host indicators [2024-06-12]
+| UUID: bf95245a-d83c-4502-990d-2e2d22b51683
+| Date: 2024-06-12
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-12,Payload installation,filename,Safe表格ejw665.exe,Source: MalwareBazaar
+2024-06-12,Payload installation,md5,cf6319e7dcea991871c79481eb78ec86,Source: MalwareBazaar
+2024-06-12,Payload installation,sha1,eb170436b92fd2f8422fd1b5fa8535a6fadb4e28,Source: MalwareBazaar
+2024-06-12,Payload installation,sha256,768fe2181e2f8595d84ccd19ea882ebb6632482ee4ad4954637289a278d27a85,Source: MalwareBazaar
+2024-06-12,Payload installation,filename,目录表格名单112.exe,Source: MalwareBazaar
+2024-06-12,Payload installation,md5,36f8df08e71052432985b332279f3b5c,Source: MalwareBazaar
+2024-06-12,Payload installation,sha1,589b73f9dd30ace7975b798a03588b15a8992ccb,Source: MalwareBazaar
+2024-06-12,Payload installation,sha256,605fabdc49f1c50f48d967bcbffd7553a1afe58af4607aee5300fdec83ccdcb7,Source: MalwareBazaar
+2024-06-12,Payload installation,filename,表格目录名单178.exe,Source: MalwareBazaar
+2024-06-12,Payload installation,md5,00cc9132003c0c5a282013898577b795,Source: MalwareBazaar
+2024-06-12,Payload installation,sha1,cf9024e742e69b7715a7cdcac7363743ca226cb6,Source: MalwareBazaar
+2024-06-12,Payload installation,sha256,240c056fa0a024742d65a67a8f494658837dded48bf892f6209750b1265bdf7c,Source: MalwareBazaar
+2024-06-13,Payload installation,filename,表格目录名单782.exe,Source: MalwareBazaar
+2024-06-13,Payload installation,md5,40b338eac24f2202caba66cdca062409,Source: MalwareBazaar
+2024-06-13,Payload installation,sha1,800a68f90767a5817198e593cd2d63ef1027804a,Source: MalwareBazaar
+2024-06-13,Payload installation,sha256,cd03561d6e2b4a75d5113465d7c9748aa754e04dfad77e29a2cabc9cb8a58cf7,Source: MalwareBazaar

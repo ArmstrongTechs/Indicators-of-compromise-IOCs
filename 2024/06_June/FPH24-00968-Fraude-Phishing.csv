@@ -1,0 +1,20 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00968 [Fraude] [Phishing]
+| UUID: a01d082f-b1f0-4a1f-9a09-11c73c2504f2
+| Date: 2024-06-07
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-06-08,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+En esta campaña, delincuentes envían un email falso que simula ser una alerta de emails pendientes de envío, y que de hacer clic, dirige a un formulario que suplanta al Ministerio del Interior. ¡No hagas clic!En el email malicioso, los delincuentes indican falsamente a la víctima lo siguiente (en inglés):&quot;Usted tiene 6 mensajes pendientes en su correo electrónico {Correo electronico} por favor Resuelva para evitar la pérdida de correos electrónicos importantes.&quot;El email incluye un enlace a un formulario diseñado para capturar credenciales de usuarios.",Resumen
+2024-06-08,Network activity,ip-src,104.17.96.13,IP sitio falso
+2024-06-08,Network activity,ip-src,185.78.76.238,IP SMTP
+2024-06-08,Payload delivery,email-src,admin@dgqinyong.com.cn,Correo de salida
+2024-06-08,Payload delivery,url,https://cloudflare-ipfs.com/ipfs/bafybeicj4puenhqwhe4q3owaonh4adnwk6moqvmiqu4nyip6gibepxpthi#{Correo electronico},URL sitio falso
+2024-06-08,Payload delivery,email-subject,Incoming emails blocked!,Asunto correo
+2024-06-08,External analysis,attachment,2024-06-07_10h27_06.png,
+2024-06-08,External analysis,attachment,2024-06-07_10h27_48.png,
