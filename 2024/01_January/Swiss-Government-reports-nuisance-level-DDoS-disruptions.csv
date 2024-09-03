@@ -1,0 +1,960 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Swiss Government reports nuisance-level DDoS disruptions
+| UUID: e87f3914-307c-4a68-841f-c0654a699343
+| Date: 2024-01-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-19,Network activity,ip-src,45.133.172.51,counter: 20707 - COGENT-174 - 174 - GB
+2024-01-19,Network activity,ip-src,149.102.229.204,counter: 4556 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,149.102.229.202,counter: 4569 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,149.102.229.207,counter: 4530 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,149.102.229.194,counter: 4909 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,45.133.172.250,counter: 25853 - COGENT-174 - 174 - GB
+2024-01-19,Network activity,ip-src,149.102.229.199,counter: 4603 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,149.102.229.201,counter: 4546 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,37.156.216.132,counter: 5300 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,37.156.216.139,counter: 4773 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,37.156.216.134,counter: 4825 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,37.156.216.133,counter: 4830 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,37.156.216.140,counter: 4915 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,37.156.216.141,counter: 5023 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,37.156.216.135,counter: 4879 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,146.70.222.11,counter: 1506 - M247 - 9009 - CZ
+2024-01-19,Network activity,ip-src,146.70.222.13,counter: 1483 - M247 - 9009 - CZ
+2024-01-19,Network activity,ip-src,146.70.222.12,counter: 1353 - M247 - 9009 - CZ
+2024-01-19,Network activity,ip-src,146.70.222.8,counter: 1438 - M247 - 9009 - CZ
+2024-01-19,Network activity,ip-src,146.70.222.14,counter: 1465 - M247 - 9009 - CZ
+2024-01-19,Network activity,ip-src,146.70.222.9,counter: 1658 - M247 - 9009 - CZ
+2024-01-19,Network activity,ip-src,195.181.172.148,counter: 5109 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,195.181.172.146,counter: 5189 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,195.181.172.154,counter: 5133 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,195.181.172.150,counter: 5126 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,195.181.172.152,counter: 5083 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,195.181.172.153,counter: 4898 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,195.181.172.151,counter: 4957 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,149.102.229.216,counter: 4631 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,149.36.51.148,counter: 7529 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.102.229.212,counter: 4635 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,149.102.229.200,counter: 4512 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,149.36.51.143,counter: 7575 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.51.134,counter: 7730 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.102.229.196,counter: 4648 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,212.102.63.101,counter: 4088 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,149.36.51.154,counter: 7573 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.51.141,counter: 7563 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.102.229.218,counter: 4491 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,212.102.63.116,counter: 4235 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,149.36.51.152,counter: 7535 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.51.139,counter: 7706 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.102.229.211,counter: 4412 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,149.36.51.142,counter: 7521 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,212.102.63.112,counter: 4054 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,149.36.51.137,counter: 7655 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.102.229.206,counter: 4576 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,212.102.63.106,counter: 4201 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,149.36.51.146,counter: 7497 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,212.102.63.107,counter: 4101 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,149.36.51.130,counter: 7841 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,212.102.63.117,counter: 4216 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,212.102.63.123,counter: 4015 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,149.36.51.153,counter: 7282 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.51.131,counter: 7769 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.51.144,counter: 7421 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,138.199.31.142,counter: 7331 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,138.199.31.145,counter: 7382 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,146.70.222.7,counter: 1482 - M247 - 9009 - CZ
+2024-01-19,Network activity,ip-src,149.36.51.140,counter: 7636 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.51.138,counter: 7374 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,37.156.216.138,counter: 4855 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,138.199.31.136,counter: 7340 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,138.199.31.155,counter: 7249 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,138.199.31.153,counter: 7339 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,37.156.216.137,counter: 4909 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,193.239.84.50,counter: 24621 - M247 - 9009 - GB
+2024-01-19,Network activity,ip-src,149.36.51.135,counter: 7578 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,37.156.216.142,counter: 4687 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,138.199.31.140,counter: 7342 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,195.181.172.155,counter: 5003 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,138.199.31.147,counter: 7293 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,195.181.172.147,counter: 5422 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,149.36.51.147,counter: 8244 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.51.150,counter: 7475 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,195.181.172.149,counter: 5098 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,84.17.50.152,counter: 2984 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,84.17.50.142,counter: 3084 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,84.17.50.145,counter: 3008 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,84.17.50.151,counter: 2961 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,45.136.155.236,counter: 3019 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,84.17.50.155,counter: 3168 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,45.136.155.235,counter: 3086 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,84.17.50.140,counter: 2954 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,45.136.155.234,counter: 2970 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,212.102.63.120,counter: 4253 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,84.17.50.141,counter: 2942 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,45.136.155.245,counter: 2926 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,212.102.63.105,counter: 4104 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,45.136.155.233,counter: 2955 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,212.102.63.98,counter: 4077 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,138.199.47.221,counter: 5242 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,45.136.155.243,counter: 3013 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,212.102.63.108,counter: 4188 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,138.199.47.246,counter: 5057 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,138.199.47.233,counter: 5113 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,212.102.63.115,counter: 4163 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,212.102.63.121,counter: 4225 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,138.199.47.222,counter: 4996 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,138.199.47.231,counter: 4955 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,138.199.47.245,counter: 4871 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,138.199.47.235,counter: 5173 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,138.199.31.143,counter: 7377 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,138.199.31.150,counter: 7191 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,138.199.31.138,counter: 7439 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,138.199.31.134,counter: 7691 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,37.156.216.136,counter: 5000 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,138.199.31.149,counter: 7292 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,149.102.229.198,counter: 4638 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,149.102.229.208,counter: 4443 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,138.199.31.154,counter: 7277 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,149.102.229.214,counter: 4529 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,149.102.229.210,counter: 4602 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,138.199.31.144,counter: 7133 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,138.199.31.135,counter: 7334 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,138.199.31.133,counter: 7270 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,149.102.229.209,counter: 4459 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,84.247.116.216,counter: 14764 - INES Bucharest ROMANIA - 12310 - NL
+2024-01-19,Network activity,ip-src,138.199.31.148,counter: 7523 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,45.133.172.73,counter: 22269 - COGENT-174 - 174 - GB
+2024-01-19,Network activity,ip-src,149.36.51.149,counter: 7572 - CDNEXT - 212238 - NL
+2024-01-19,Network activity,ip-src,149.36.51.151,counter: 7443 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,138.199.31.152,counter: 7193 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,138.199.31.139,counter: 7155 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,149.36.51.136,counter: 7481 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,45.133.172.23,counter: 19624 - COGENT-174 - 174 - GB
+2024-01-19,Network activity,ip-src,149.36.51.145,counter: 7401 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,45.133.173.10,counter: 20328 - COGENT-174 - 174 - GB
+2024-01-19,Network activity,ip-src,84.17.50.148,counter: 2981 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,84.17.50.134,counter: 3067 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,84.17.50.135,counter: 2906 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,84.17.50.139,counter: 3033 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,84.17.50.133,counter: 3023 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,84.17.50.136,counter: 3104 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,138.199.47.236,counter: 5086 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,138.199.47.225,counter: 5007 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,45.136.155.247,counter: 3181 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,45.136.155.229,counter: 2934 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,138.199.47.237,counter: 5007 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,212.102.63.99,counter: 4095 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,138.199.47.224,counter: 5073 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,45.136.155.240,counter: 2961 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,212.102.63.122,counter: 4256 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,45.136.155.237,counter: 2864 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,212.102.63.119,counter: 4201 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,45.136.155.239,counter: 3060 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,149.102.229.213,counter: 4565 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,149.102.229.217,counter: 4595 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,191.96.168.202,counter: 13608 - COGENT-174 - 174 - NL
+2024-01-19,Network activity,ip-src,138.199.31.151,counter: 7188 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,149.102.229.215,counter: 4517 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,149.102.229.197,counter: 4300 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,149.36.51.133,counter: 7410 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,37.156.216.131,counter: 5115 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,149.102.229.203,counter: 4304 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,149.102.229.195,counter: 4751 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,138.199.31.137,counter: 7449 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,172.233.56.239,counter: 8584 - AKAMAI-LINODE-AP Akamai Connected Cloud - 63949 - NL
+2024-01-19,Network activity,ip-src,89.149.37.141,counter: 1795 - INES Bucharest ROMANIA - 12310 - DE
+2024-01-19,Network activity,ip-src,139.162.134.137,counter: 8037 - AKAMAI-LINODE-AP Akamai Connected Cloud - 63949 - DE
+2024-01-19,Network activity,ip-src,172.233.56.110,counter: 8856 - AKAMAI-LINODE-AP Akamai Connected Cloud - 63949 - NL
+2024-01-19,Network activity,ip-src,84.17.50.153,counter: 3040 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,172.233.56.218,counter: 8120 - AKAMAI-LINODE-AP Akamai Connected Cloud - 63949 - NL
+2024-01-19,Network activity,ip-src,45.136.155.238,counter: 3034 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,45.136.155.249,counter: 2999 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,84.17.50.144,counter: 3030 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,85.90.247.103,counter: 7763 - AKAMAI-LINODE-AP Akamai Connected Cloud - 63949 - DE
+2024-01-19,Network activity,ip-src,139.162.178.7,counter: 8278 - AKAMAI-LINODE-AP Akamai Connected Cloud - 63949 - DE
+2024-01-19,Network activity,ip-src,45.136.155.251,counter: 3013 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,172.104.156.70,counter: 8551 - AKAMAI-LINODE-AP Akamai Connected Cloud - 63949 - DE
+2024-01-19,Network activity,ip-src,45.136.155.246,counter: 3114 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,172.233.56.123,counter: 7675 - AKAMAI-LINODE-AP Akamai Connected Cloud - 63949 - NL
+2024-01-19,Network activity,ip-src,172.233.56.159,counter: 8002 - AKAMAI-LINODE-AP Akamai Connected Cloud - 63949 - NL
+2024-01-19,Network activity,ip-src,45.136.155.242,counter: 2935 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,138.199.47.241,counter: 4921 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,85.90.247.71,counter: 8302 - AKAMAI-LINODE-AP Akamai Connected Cloud - 63949 - DE
+2024-01-19,Network activity,ip-src,138.199.47.238,counter: 4979 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,138.199.47.230,counter: 4844 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,138.199.47.228,counter: 5084 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,138.199.47.232,counter: 5169 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,149.102.229.205,counter: 4412 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,212.102.63.109,counter: 4284 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,212.102.63.96,counter: 4242 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,212.102.63.103,counter: 4241 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,212.102.63.104,counter: 4127 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,149.102.229.219,counter: 4500 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,212.102.63.100,counter: 4293 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,212.102.63.102,counter: 4209 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,149.36.51.155,counter: 7518 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,138.199.31.146,counter: 7351 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,138.199.31.141,counter: 7488 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,149.36.51.132,counter: 7672 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,84.17.50.143,counter: 3116 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,84.17.50.150,counter: 2983 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,138.199.47.226,counter: 4941 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,212.102.63.97,counter: 4165 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,212.102.63.118,counter: 4181 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,212.102.63.110,counter: 4083 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,194.110.13.46,counter: 13804 - COGENT-174 - 174 - GB
+2024-01-19,Network activity,ip-src,45.136.155.244,counter: 3060 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,45.136.155.232,counter: 3131 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,45.136.155.241,counter: 3150 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,45.136.155.231,counter: 3110 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,212.102.63.111,counter: 4333 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,84.17.50.146,counter: 3039 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,84.17.50.154,counter: 3084 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,138.199.47.243,counter: 5015 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,138.199.47.239,counter: 4994 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,138.199.47.229,counter: 5046 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,212.102.59.205,counter: 8429 - CDN77 ^_^ - 60068 - US
+2024-01-19,Network activity,ip-src,45.88.97.17,counter: 2513 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,45.87.212.93,counter: 5047 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.87.212.91,counter: 5007 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.87.212.89,counter: 5201 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.87.212.86,counter: 5157 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.87.212.90,counter: 5074 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,138.199.47.244,counter: 5118 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,45.88.97.26,counter: 1364 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,45.136.155.227,counter: 3197 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,45.87.212.87,counter: 4972 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.87.212.94,counter: 5082 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.81.152,counter: 1729 - M247 - 9009 - AT
+2024-01-19,Network activity,ip-src,146.70.81.155,counter: 1746 - M247 - 9009 - AT
+2024-01-19,Network activity,ip-src,146.70.81.149,counter: 1855 - M247 - 9009 - AT
+2024-01-19,Network activity,ip-src,146.70.81.154,counter: 1784 - M247 - 9009 - AT
+2024-01-19,Network activity,ip-src,146.70.81.156,counter: 1861 - M247 - 9009 - AT
+2024-01-19,Network activity,ip-src,146.70.81.157,counter: 1768 - M247 - 9009 - AT
+2024-01-19,Network activity,ip-src,146.70.81.147,counter: 1852 - M247 - 9009 - AT
+2024-01-19,Network activity,ip-src,146.70.81.150,counter: 1737 - M247 - 9009 - AT
+2024-01-19,Network activity,ip-src,146.70.81.151,counter: 1789 - M247 - 9009 - AT
+2024-01-19,Network activity,ip-src,45.87.212.92,counter: 5327 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,84.17.50.147,counter: 3021 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,45.87.212.71,counter: 4834 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.87.212.76,counter: 5034 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.81.153,counter: 1787 - M247 - 9009 - AT
+2024-01-19,Network activity,ip-src,45.87.212.70,counter: 4947 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.87.212.73,counter: 4766 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.87.212.78,counter: 4852 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,212.102.63.114,counter: 4146 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,45.87.212.77,counter: 4649 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.136.155.250,counter: 3096 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,45.87.212.88,counter: 5114 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.87.212.74,counter: 4741 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,89.149.17.82,counter: 11548 - INES Bucharest ROMANIA - 12310 - CA
+2024-01-19,Network activity,ip-src,45.87.212.75,counter: 4898 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.87.212.72,counter: 4823 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,84.17.50.149,counter: 3109 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,45.136.155.226,counter: 3201 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,45.136.155.248,counter: 2968 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,216.24.213.12,counter: 8279 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,45.133.172.14,counter: 19372 - COGENT-174 - 174 - GB
+2024-01-19,Network activity,ip-src,84.17.50.138,counter: 3018 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,45.136.155.228,counter: 3093 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,45.88.97.241,counter: 680 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,146.70.105.48,counter: 917 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,193.239.84.58,counter: 19635 - M247 - 9009 - GB
+2024-01-19,Network activity,ip-src,146.70.105.56,counter: 936 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,146.70.105.50,counter: 921 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,146.70.105.49,counter: 950 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,146.70.105.38,counter: 939 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,146.70.105.51,counter: 927 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,146.70.105.46,counter: 941 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,138.199.47.240,counter: 4798 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,146.70.105.44,counter: 908 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,146.70.105.52,counter: 925 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,146.70.105.36,counter: 947 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,146.70.105.58,counter: 962 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,146.70.105.60,counter: 925 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,45.133.172.203,counter: 13472 - COGENT-174 - 174 - GB
+2024-01-19,Network activity,ip-src,146.70.105.61,counter: 940 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,45.133.172.70,counter: 30865 - COGENT-174 - 174 - GB
+2024-01-19,Network activity,ip-src,146.70.105.42,counter: 959 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,146.70.105.59,counter: 938 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,146.70.105.62,counter: 932 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,194.110.13.48,counter: 12243 - COGENT-174 - 174 - GB
+2024-01-19,Network activity,ip-src,146.70.105.55,counter: 924 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,84.17.50.137,counter: 3078 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,37.120.217.180,counter: 471 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,176.125.229.3,counter: 13291 - M247 - 9009 - ME
+2024-01-19,Network activity,ip-src,146.70.105.40,counter: 962 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,146.70.105.39,counter: 1007 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,146.70.105.43,counter: 954 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,146.70.105.41,counter: 951 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,89.149.17.55,counter: 11506 - CDNEXT - 212238 - CA
+2024-01-19,Network activity,ip-src,146.70.105.54,counter: 930 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,146.70.105.57,counter: 929 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,146.70.105.45,counter: 905 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,138.199.47.242,counter: 5067 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,146.70.105.35,counter: 791 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,146.70.105.37,counter: 892 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,45.133.172.24,counter: 30501 - COGENT-174 - 174 - GB
+2024-01-19,Network activity,ip-src,191.96.67.24,counter: 12732 - CDNEXT - 212238 - US
+2024-01-19,Network activity,ip-src,146.70.105.47,counter: 917 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,45.136.155.230,counter: 3024 - CDNEXT - 212238 - TR
+2024-01-19,Network activity,ip-src,91.90.122.19,counter: 7155 - M247 - 9009 - LI
+2024-01-19,Network activity,ip-src,217.138.194.124,counter: 1555 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,217.138.194.123,counter: 1559 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,217.138.194.119,counter: 1540 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.87.212.59,counter: 1487 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.87.212.60,counter: 1477 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,217.138.194.125,counter: 1507 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.87.212.57,counter: 1516 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.87.212.54,counter: 1487 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.87.212.55,counter: 1472 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.87.212.58,counter: 1525 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.81.148,counter: 1872 - M247 - 9009 - AT
+2024-01-19,Network activity,ip-src,217.138.194.120,counter: 1401 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,217.138.194.122,counter: 1479 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.81.158,counter: 1736 - M247 - 9009 - AT
+2024-01-19,Network activity,ip-src,217.138.194.121,counter: 1459 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.89.174.46,counter: 967 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,45.89.174.42,counter: 957 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,45.89.174.40,counter: 945 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,146.70.105.53,counter: 930 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,45.89.174.45,counter: 953 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,217.138.194.118,counter: 1476 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,217.138.194.126,counter: 1496 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.89.174.38,counter: 960 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,193.27.14.183,counter: 2917 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,193.27.14.190,counter: 3015 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,193.27.14.185,counter: 3091 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,193.27.14.184,counter: 2931 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.133.172.47,counter: 31579 - COGENT-174 - 174 - GB
+2024-01-19,Network activity,ip-src,138.199.47.227,counter: 4971 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,45.87.212.62,counter: 1453 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,193.27.14.187,counter: 2829 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.89.174.44,counter: 949 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,45.89.174.39,counter: 930 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,45.87.212.56,counter: 1508 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,193.27.14.186,counter: 2988 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,193.27.14.182,counter: 2995 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.89.174.43,counter: 967 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,89.187.165.122,counter: 1929 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,89.187.165.104,counter: 1978 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,45.87.212.61,counter: 1477 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,89.187.165.116,counter: 1860 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,89.187.165.114,counter: 1970 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,193.27.14.188,counter: 2965 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,89.187.165.121,counter: 1873 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,45.89.174.41,counter: 939 - M247 - 9009 - FR
+2024-01-19,Network activity,ip-src,89.187.165.107,counter: 1878 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,193.161.204.24,counter: 6816 - CREANOVA-AS Oy Creanova Hosting Solutions Ltd. - 51765 - FI
+2024-01-19,Network activity,ip-src,193.161.204.29,counter: 6455 - CREANOVA-AS Oy Creanova Hosting Solutions Ltd. - 51765 - FI
+2024-01-19,Network activity,ip-src,193.161.204.26,counter: 6565 - CREANOVA-AS Oy Creanova Hosting Solutions Ltd. - 51765 - FI
+2024-01-19,Network activity,ip-src,193.161.204.28,counter: 6329 - CREANOVA-AS Oy Creanova Hosting Solutions Ltd. - 51765 - FI
+2024-01-19,Network activity,ip-src,193.161.204.27,counter: 6485 - CREANOVA-AS Oy Creanova Hosting Solutions Ltd. - 51765 - FI
+2024-01-19,Network activity,ip-src,193.27.14.189,counter: 3018 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,89.187.165.119,counter: 1897 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,89.187.165.108,counter: 1961 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,89.187.165.113,counter: 1830 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,89.187.165.123,counter: 1844 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,212.102.39.212,counter: 25719 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,193.161.204.25,counter: 6488 - CREANOVA-AS Oy Creanova Hosting Solutions Ltd. - 51765 - FI
+2024-01-19,Network activity,ip-src,193.161.204.31,counter: 6451 - CREANOVA-AS Oy Creanova Hosting Solutions Ltd. - 51765 - FI
+2024-01-19,Network activity,ip-src,193.161.204.32,counter: 6395 - CREANOVA-AS Oy Creanova Hosting Solutions Ltd. - 51765 - FI
+2024-01-19,Network activity,ip-src,138.199.47.234,counter: 5089 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,89.187.165.117,counter: 1888 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,193.161.204.23,counter: 6674 - CREANOVA-AS Oy Creanova Hosting Solutions Ltd. - 51765 - FI
+2024-01-19,Network activity,ip-src,146.70.107.23,counter: 972 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.107.5,counter: 907 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.107.22,counter: 936 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.107.18,counter: 891 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.107.28,counter: 964 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.107.12,counter: 913 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.107.6,counter: 921 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.107.10,counter: 987 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.107.26,counter: 924 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.107.20,counter: 952 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,89.187.165.111,counter: 1916 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,146.70.107.8,counter: 995 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.107.24,counter: 941 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,89.187.165.110,counter: 1932 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,146.70.107.16,counter: 978 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,89.187.165.101,counter: 1947 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,89.187.165.109,counter: 1977 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,89.187.165.120,counter: 1957 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,146.70.107.17,counter: 945 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.107.21,counter: 969 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.107.11,counter: 952 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.107.9,counter: 1010 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.107.15,counter: 951 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,185.253.96.16,counter: 219 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.37,counter: 233 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.59,counter: 263 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,146.70.107.3,counter: 1004 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,185.253.96.14,counter: 226 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,146.70.107.13,counter: 961 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,185.253.96.35,counter: 261 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.57,counter: 254 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.36,counter: 280 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.212.149.54,counter: 4480 - CREANOVA-AS Oy Creanova Hosting Solutions Ltd. - 51765 - FI
+2024-01-19,Network activity,ip-src,185.253.96.12,counter: 287 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.212.149.55,counter: 4441 - CREANOVA-AS Oy Creanova Hosting Solutions Ltd. - 51765 - FI
+2024-01-19,Network activity,ip-src,185.212.149.53,counter: 4286 - CREANOVA-AS Oy Creanova Hosting Solutions Ltd. - 51765 - FI
+2024-01-19,Network activity,ip-src,185.212.149.51,counter: 4624 - CREANOVA-AS Oy Creanova Hosting Solutions Ltd. - 51765 - FI
+2024-01-19,Network activity,ip-src,89.149.39.150,counter: 14755 - INES Bucharest ROMANIA - 12310 - GB
+2024-01-19,Network activity,ip-src,185.212.149.58,counter: 4433 - CREANOVA-AS Oy Creanova Hosting Solutions Ltd. - 51765 - FI
+2024-01-19,Network activity,ip-src,185.212.149.56,counter: 4459 - CREANOVA-AS Oy Creanova Hosting Solutions Ltd. - 51765 - FI
+2024-01-19,Network activity,ip-src,138.199.47.223,counter: 4921 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,185.253.96.18,counter: 256 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,146.70.107.27,counter: 982 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,185.253.96.21,counter: 274 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.54,counter: 251 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,146.70.107.7,counter: 1007 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,185.253.96.41,counter: 241 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.56,counter: 235 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.24,counter: 257 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.19,counter: 262 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.52,counter: 246 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.49,counter: 228 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.44,counter: 259 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.28,counter: 223 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.30,counter: 248 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.33,counter: 231 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.13,counter: 245 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,146.70.107.29,counter: 968 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,185.253.96.46,counter: 243 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.20,counter: 251 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,84.247.116.198,counter: 1715 - INES Bucharest ROMANIA - 12310 - NL
+2024-01-19,Network activity,ip-src,146.70.107.4,counter: 995 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,185.253.96.34,counter: 250 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,193.161.204.30,counter: 6460 - CREANOVA-AS Oy Creanova Hosting Solutions Ltd. - 51765 - FI
+2024-01-19,Network activity,ip-src,185.253.96.39,counter: 243 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.10,counter: 264 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.27,counter: 244 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,146.70.107.25,counter: 986 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,185.253.96.23,counter: 250 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.31,counter: 276 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.29,counter: 269 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.6,counter: 236 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.40,counter: 244 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,212.102.63.113,counter: 4090 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,185.253.96.7,counter: 240 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.58,counter: 269 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.32,counter: 222 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.50,counter: 260 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.60,counter: 249 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.212.149.50,counter: 4545 - CREANOVA-AS Oy Creanova Hosting Solutions Ltd. - 51765 - FI
+2024-01-19,Network activity,ip-src,185.212.149.59,counter: 4329 - CREANOVA-AS Oy Creanova Hosting Solutions Ltd. - 51765 - FI
+2024-01-19,Network activity,ip-src,146.70.101.62,counter: 1221 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.101.35,counter: 1123 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.101.48,counter: 1121 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.101.36,counter: 1193 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.101.49,counter: 1143 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.101.58,counter: 1170 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.101.60,counter: 1180 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.101.50,counter: 1162 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.101.42,counter: 1241 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.101.52,counter: 1112 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.101.59,counter: 1187 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.101.53,counter: 1089 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.101.37,counter: 1159 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.101.61,counter: 1157 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.133.172.231,counter: 33608 - COGENT-174 - 174 - GB
+2024-01-19,Network activity,ip-src,146.70.101.55,counter: 1155 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.101.40,counter: 1148 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.101.45,counter: 1098 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.101.44,counter: 1176 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.101.43,counter: 1161 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.101.51,counter: 1130 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,185.212.149.52,counter: 4321 - CREANOVA-AS Oy Creanova Hosting Solutions Ltd. - 51765 - FI
+2024-01-19,Network activity,ip-src,146.70.101.56,counter: 1137 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.101.57,counter: 1178 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,45.88.97.9,counter: 687 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,146.70.101.38,counter: 1129 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.101.54,counter: 1071 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.101.41,counter: 1166 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,185.212.149.57,counter: 4244 - CREANOVA-AS Oy Creanova Hosting Solutions Ltd. - 51765 - FI
+2024-01-19,Network activity,ip-src,89.187.165.118,counter: 1926 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,89.149.39.11,counter: 30379 - CDNEXT - 212238 - GB
+2024-01-19,Network activity,ip-src,89.187.165.102,counter: 1892 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,87.249.132.201,counter: 1491 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,87.249.132.205,counter: 1547 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,87.249.132.208,counter: 1476 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,87.249.132.203,counter: 1553 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,87.249.132.207,counter: 1513 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,37.156.216.158,counter: 2257 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,87.249.132.197,counter: 1547 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,37.156.216.157,counter: 2337 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,87.249.132.212,counter: 1541 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,37.156.216.147,counter: 2498 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,87.249.132.211,counter: 1536 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,212.102.35.24,counter: 20903 - CDNEXT - 212238 - NL
+2024-01-19,Network activity,ip-src,37.156.216.155,counter: 2320 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,89.187.168.89,counter: 6214 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,154.47.19.132,counter: 29322 - CDNEXT - 212238 - AT
+2024-01-19,Network activity,ip-src,89.187.168.79,counter: 6302 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,154.47.19.131,counter: 30696 - CDNEXT - 212238 - AT
+2024-01-19,Network activity,ip-src,37.156.216.156,counter: 2377 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,89.187.168.74,counter: 6278 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,89.187.168.86,counter: 6469 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,37.156.216.149,counter: 2354 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,89.187.168.85,counter: 6252 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,154.47.19.130,counter: 31620 - CDNEXT - 212238 - AT
+2024-01-19,Network activity,ip-src,89.187.168.91,counter: 6337 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,89.187.168.81,counter: 6340 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,89.187.165.115,counter: 1938 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,89.187.168.88,counter: 6409 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,89.187.168.70,counter: 6402 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,89.187.168.87,counter: 6533 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,89.187.168.69,counter: 6336 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,89.187.168.71,counter: 6471 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,89.187.168.83,counter: 6336 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,89.187.168.76,counter: 6473 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,149.102.245.73,counter: 5441 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,149.102.245.68,counter: 5291 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,149.102.245.69,counter: 5245 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,149.102.245.72,counter: 5250 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,149.102.245.74,counter: 5225 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,89.187.168.90,counter: 6427 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,89.187.168.78,counter: 6452 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,37.156.216.150,counter: 2386 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,37.156.216.153,counter: 2288 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,181.215.176.51,counter: 23351 - COGENT-174 - 174 - GB
+2024-01-19,Network activity,ip-src,37.156.216.152,counter: 2305 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,84.247.116.92,counter: 10076 - CDNEXT - 212238 - NL
+2024-01-19,Network activity,ip-src,87.249.132.202,counter: 1550 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,87.249.132.206,counter: 1543 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,87.249.132.215,counter: 1464 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,87.249.132.218,counter: 1581 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.102.245.75,counter: 5436 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,89.187.168.84,counter: 6185 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,89.187.168.82,counter: 6501 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,84.17.46.14,counter: 545 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,84.17.46.15,counter: 571 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,89.187.168.75,counter: 6435 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,89.187.168.77,counter: 6217 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,84.17.46.5,counter: 553 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,84.17.46.21,counter: 556 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,84.17.46.18,counter: 536 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,89.187.168.73,counter: 6860 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,84.17.46.19,counter: 443 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,89.187.168.72,counter: 6585 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,146.70.101.47,counter: 1147 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.101.46,counter: 1108 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,37.156.216.151,counter: 2394 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,169.150.197.177,counter: 535 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,169.150.197.178,counter: 601 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,169.150.197.181,counter: 605 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,169.150.197.165,counter: 567 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,169.150.197.167,counter: 568 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,149.102.245.71,counter: 5220 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,87.249.132.204,counter: 1528 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,87.249.132.214,counter: 1396 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,84.17.46.10,counter: 551 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,84.17.46.16,counter: 536 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,84.17.46.11,counter: 598 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,89.187.168.80,counter: 6543 - CDN77 ^_^ - 60068 - AT
+2024-01-19,Network activity,ip-src,84.17.46.24,counter: 565 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,89.187.165.103,counter: 1923 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,84.17.46.27,counter: 557 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,146.70.222.10,counter: 1455 - M247 - 9009 - CZ
+2024-01-19,Network activity,ip-src,169.150.197.175,counter: 555 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,146.70.222.6,counter: 1453 - M247 - 9009 - CZ
+2024-01-19,Network activity,ip-src,45.133.172.205,counter: 31346 - COGENT-174 - 174 - GB
+2024-01-19,Network activity,ip-src,169.150.197.169,counter: 560 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,169.150.197.180,counter: 547 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,169.150.197.172,counter: 517 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,169.150.197.162,counter: 569 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,169.150.197.173,counter: 509 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,149.102.245.70,counter: 5425 - CDNEXT - 212238 - FR
+2024-01-19,Network activity,ip-src,87.249.132.216,counter: 1557 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,87.249.132.210,counter: 1496 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,87.249.132.221,counter: 1466 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,84.17.46.23,counter: 545 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,84.17.46.20,counter: 541 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,84.17.46.22,counter: 534 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,84.17.46.17,counter: 553 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,37.156.216.148,counter: 2548 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,89.187.165.106,counter: 1771 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,216.24.213.56,counter: 96 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,87.249.132.219,counter: 1573 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,84.17.46.26,counter: 514 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,87.249.132.198,counter: 1581 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,87.249.132.200,counter: 1604 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,37.156.216.154,counter: 2324 - RACKRAY UAB Rakrejus - 62282 - JP
+2024-01-19,Network activity,ip-src,84.17.46.7,counter: 486 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,84.17.46.9,counter: 531 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,181.215.176.62,counter: 30554 - COGENT-174 - 174 - GB
+2024-01-19,Network activity,ip-src,84.17.46.12,counter: 554 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,89.187.165.105,counter: 1852 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,169.150.197.171,counter: 562 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,169.150.197.185,counter: 559 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,169.150.197.182,counter: 581 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,84.17.53.27,counter: 1879 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,84.17.53.9,counter: 1795 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,84.17.53.15,counter: 1881 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,84.17.53.13,counter: 1831 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,84.17.53.12,counter: 2015 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,84.17.53.18,counter: 1899 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,84.17.53.11,counter: 1842 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,84.17.53.23,counter: 1939 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,89.187.165.112,counter: 1827 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,84.17.46.8,counter: 539 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,84.17.46.13,counter: 521 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,84.17.42.39,counter: 2281 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.35,counter: 2402 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.52,counter: 2271 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.51,counter: 2304 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.58,counter: 2241 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.54,counter: 2271 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.46.6,counter: 507 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,84.17.42.34,counter: 2352 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.43,counter: 2275 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,169.150.197.174,counter: 575 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,169.150.197.187,counter: 556 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,169.150.197.166,counter: 558 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,169.150.197.168,counter: 607 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,84.17.53.20,counter: 1841 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,169.150.197.183,counter: 623 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,169.150.197.176,counter: 592 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,84.17.53.24,counter: 1907 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,84.17.53.17,counter: 1795 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,84.17.53.14,counter: 1804 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,84.17.42.48,counter: 2192 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.44,counter: 2343 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.42,counter: 2278 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.41,counter: 2197 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.38,counter: 2227 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.49,counter: 2324 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.45,counter: 2415 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.55,counter: 2412 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.57,counter: 2267 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,87.249.132.213,counter: 1535 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,45.133.172.81,counter: 31324 - COGENT-174 - 174 - GB
+2024-01-19,Network activity,ip-src,87.249.132.222,counter: 1514 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,84.17.46.25,counter: 541 - CDN77 ^_^ - 60068 - NL
+2024-01-19,Network activity,ip-src,169.150.197.184,counter: 565 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,84.17.53.22,counter: 1844 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,84.17.53.16,counter: 1835 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,84.17.53.10,counter: 1906 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,84.17.53.7,counter: 1925 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,146.70.101.39,counter: 1088 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,84.17.42.56,counter: 2320 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.53,counter: 2340 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.47,counter: 2286 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,87.249.132.199,counter: 1499 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,87.249.132.220,counter: 1486 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,87.249.132.217,counter: 1516 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,84.17.42.50,counter: 2318 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.40,counter: 2327 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.53.8,counter: 1996 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,162.221.207.104,counter: 2241 - ESECUREDATA - 11831 - CA
+2024-01-19,Network activity,ip-src,162.221.207.103,counter: 2231 - ESECUREDATA - 11831 - CA
+2024-01-19,Network activity,ip-src,162.221.207.105,counter: 2273 - ESECUREDATA - 11831 - CA
+2024-01-19,Network activity,ip-src,162.221.207.98,counter: 2237 - ESECUREDATA - 11831 - CA
+2024-01-19,Network activity,ip-src,162.221.207.99,counter: 2183 - ESECUREDATA - 11831 - CA
+2024-01-19,Network activity,ip-src,162.221.207.100,counter: 2298 - ESECUREDATA - 11831 - CA
+2024-01-19,Network activity,ip-src,162.221.207.106,counter: 2234 - ESECUREDATA - 11831 - CA
+2024-01-19,Network activity,ip-src,169.150.197.170,counter: 570 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,84.17.42.59,counter: 2220 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,87.249.132.209,counter: 1414 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,84.17.53.25,counter: 1863 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,84.17.53.21,counter: 1820 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,45.133.172.248,counter: 21758 - COGENT-174 - 174 - GB
+2024-01-19,Network activity,ip-src,169.150.197.186,counter: 607 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,169.150.197.164,counter: 539 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,84.17.53.19,counter: 1861 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,169.150.197.179,counter: 573 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,217.138.216.246,counter: 672 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,84.17.53.6,counter: 1876 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,84.17.53.5,counter: 1840 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,216.24.213.7,counter: 304 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,169.150.197.163,counter: 586 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,84.17.53.26,counter: 1909 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,84.17.42.36,counter: 2310 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.46,counter: 2269 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.12,counter: 1776 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.8,counter: 1909 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.10,counter: 1884 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.24,counter: 1900 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.26,counter: 1870 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.27,counter: 1836 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.17,counter: 1937 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.20,counter: 1855 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,185.246.210.8,counter: 576 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,185.246.210.12,counter: 591 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,185.246.210.20,counter: 596 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,185.246.210.7,counter: 569 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,185.246.210.24,counter: 585 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,185.246.210.9,counter: 550 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,45.133.172.224,counter: 16199 - COGENT-174 - 174 - GB
+2024-01-19,Network activity,ip-src,84.17.42.16,counter: 1756 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.25,counter: 1901 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.6,counter: 1721 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.5,counter: 1823 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.13,counter: 1834 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.11,counter: 1825 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,146.70.107.14,counter: 965 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,146.70.107.30,counter: 960 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,185.246.210.15,counter: 539 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,185.246.210.27,counter: 614 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,185.246.210.13,counter: 608 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,185.246.210.14,counter: 601 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,185.246.210.19,counter: 601 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,146.70.107.19,counter: 981 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,84.17.42.21,counter: 1937 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.19,counter: 1790 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.18,counter: 1925 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.14,counter: 1887 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,45.88.97.11,counter: 309 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,185.246.210.26,counter: 585 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,185.246.210.16,counter: 561 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,185.246.210.25,counter: 601 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,185.246.210.5,counter: 592 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,185.246.210.22,counter: 641 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,84.17.42.23,counter: 1838 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,84.17.42.7,counter: 1910 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,185.246.210.6,counter: 619 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,185.246.210.23,counter: 616 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,84.17.42.22,counter: 1782 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,185.246.210.17,counter: 634 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,84.17.42.9,counter: 1866 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,185.246.210.10,counter: 582 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,185.246.210.18,counter: 589 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,185.246.210.11,counter: 575 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,45.88.97.38,counter: 40 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,185.246.210.21,counter: 652 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,149.40.61.216,counter: 602 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,149.40.61.219,counter: 572 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,149.40.61.206,counter: 599 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,149.40.61.213,counter: 597 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,149.40.61.210,counter: 588 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,149.40.61.200,counter: 586 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,149.40.61.211,counter: 594 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,84.17.42.15,counter: 1865 - CDN77 ^_^ - 60068 - FR
+2024-01-19,Network activity,ip-src,149.40.61.199,counter: 580 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,149.40.61.217,counter: 563 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,149.40.61.215,counter: 572 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,149.40.61.197,counter: 602 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,149.40.61.208,counter: 570 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,149.40.61.209,counter: 576 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,149.40.61.212,counter: 588 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,149.40.61.207,counter: 589 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,149.40.61.196,counter: 563 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,45.88.97.28,counter: 822 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,149.40.61.218,counter: 620 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,149.40.61.202,counter: 601 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,149.40.61.205,counter: 553 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,185.253.96.51,counter: 222 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.25,counter: 220 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.43,counter: 240 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.42,counter: 238 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,149.40.61.204,counter: 595 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,149.40.61.203,counter: 568 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,185.253.96.61,counter: 258 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.22,counter: 252 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.17,counter: 221 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.9,counter: 246 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.55,counter: 252 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.38,counter: 238 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,45.88.97.24,counter: 19232 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,149.40.61.201,counter: 694 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,149.40.61.198,counter: 590 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,149.40.61.214,counter: 600 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,185.253.96.53,counter: 242 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.45,counter: 237 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.62,counter: 231 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,212.102.39.144,counter: 20947 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,185.253.96.48,counter: 233 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.47,counter: 227 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.11,counter: 256 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,185.253.96.26,counter: 250 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,216.24.216.234,counter: 19935 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,216.24.216.221,counter: 2681 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,212.102.57.141,counter: 472 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,185.253.96.8,counter: 263 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,217.138.216.230,counter: 74 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,185.253.96.15,counter: 244 - M247 - 9009 - NL
+2024-01-19,Network activity,ip-src,45.88.97.34,counter: 960 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,212.102.57.155,counter: 976 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,89.149.37.89,counter: 18764 - INES Bucharest ROMANIA - 12310 - DE
+2024-01-19,Network activity,ip-src,195.78.54.67,counter: 680 - COGENT-174 - 174 - NL
+2024-01-19,Network activity,ip-src,212.102.39.132,counter: 247 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,45.88.97.43,counter: 870 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,216.24.213.19,counter: 736 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,45.88.97.42,counter: 1896 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,89.149.37.24,counter: 224 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,212.102.39.96,counter: 96 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,89.36.76.52,counter: 557 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,212.102.39.139,counter: 18395 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,79.142.79.39,counter: 25060 - ALTUS - 51430 - CH
+2024-01-19,Network activity,ip-src,212.102.39.85,counter: 5824 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,212.102.39.76,counter: 19810 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,191.101.157.242,counter: 3740 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,191.101.157.250,counter: 8033 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,191.101.157.89,counter: 1240 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,191.101.157.80,counter: 8344 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,156.146.62.149,counter: 1368 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,89.149.38.160,counter: 25226 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,156.146.62.42,counter: 952 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,191.101.157.37,counter: 6412 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,191.101.157.226,counter: 4762 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,169.150.197.53,counter: 873 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,181.214.218.44,counter: 16 - COGENT-174 - 174 - BE
+2024-01-19,Network activity,ip-src,169.150.197.5,counter: 468 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,191.101.157.126,counter: 1344 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,89.149.37.54,counter: 17414 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,89.149.37.142,counter: 1416 - INES Bucharest ROMANIA - 12310 - DE
+2024-01-19,Network activity,ip-src,212.102.36.235,counter: 541 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,89.37.173.42,counter: 1154 - BANDWIDTH-AS - 25369 - CH
+2024-01-19,Network activity,ip-src,5.180.138.98,counter: 8 - M247 - 9009 - RU
+2024-01-19,Network activity,ip-src,37.120.236.82,counter: 1374 - M247 - 9009 - BE
+2024-01-19,Network activity,ip-src,156.146.62.35,counter: 393 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,191.101.157.21,counter: 1552 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,89.37.173.46,counter: 236 - BANDWIDTH-AS - 25369 - CH
+2024-01-19,Network activity,ip-src,45.88.97.242,counter: 13248 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,212.102.39.134,counter: 14617 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,89.37.173.36,counter: 1287 - BANDWIDTH-AS - 25369 - CH
+2024-01-19,Network activity,ip-src,84.17.59.81,counter: 445 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,84.17.59.84,counter: 471 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,84.17.59.74,counter: 414 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,84.17.59.83,counter: 499 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,84.17.59.82,counter: 494 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,84.17.59.90,counter: 498 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,84.17.59.70,counter: 390 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,84.17.59.76,counter: 440 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,84.17.59.91,counter: 468 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,84.17.59.72,counter: 484 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,216.24.213.8,counter: 14152 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,84.17.59.85,counter: 500 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,84.17.59.71,counter: 481 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,84.17.59.89,counter: 443 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,84.17.59.79,counter: 441 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,84.17.59.87,counter: 460 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,84.17.59.86,counter: 461 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,84.17.59.73,counter: 474 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,84.17.59.80,counter: 471 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,84.17.59.69,counter: 446 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,84.17.59.75,counter: 469 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,84.17.59.77,counter: 466 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,84.17.59.88,counter: 458 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,84.17.59.78,counter: 465 - CDN77 ^_^ - 60068 - IT
+2024-01-19,Network activity,ip-src,45.88.97.223,counter: 1360 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,156.146.62.52,counter: 188 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,212.102.57.207,counter: 2826 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,156.146.62.55,counter: 983 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,212.102.39.82,counter: 57 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,216.24.216.248,counter: 53 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,89.149.38.82,counter: 2919 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,84.17.53.228,counter: 78 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,191.101.157.81,counter: 2639 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,169.150.197.82,counter: 8674 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,89.37.173.28,counter: 944 - BANDWIDTH-AS - 25369 - CH
+2024-01-19,Network activity,ip-src,146.70.92.66,counter: 207 - M247 - 9009 - DK
+2024-01-19,Network activity,ip-src,86.106.158.112,counter: 949 - BANDWIDTH-AS - 25369 - CH
+2024-01-19,Network activity,ip-src,212.102.39.69,counter: 700 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,212.102.39.152,counter: 80 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,84.17.53.224,counter: 113 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,195.242.213.82,counter: 1454 - M247 - 9009 - CH
+2024-01-19,Network activity,ip-src,212.102.39.131,counter: 1513 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,191.101.157.76,counter: 866 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,84.17.53.87,counter: 672 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,89.37.173.50,counter: 1068 - BANDWIDTH-AS - 25369 - CH
+2024-01-19,Network activity,ip-src,212.102.39.80,counter: 2215 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,191.101.157.63,counter: 601 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,89.149.38.65,counter: 3932 - INES Bucharest ROMANIA - 12310 - CH
+2024-01-19,Network activity,ip-src,138.199.18.141,counter: 9614 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,45.88.97.231,counter: 9 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,191.101.157.66,counter: 15438 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,45.88.97.54,counter: 1663 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,89.149.38.5,counter: 5104 - INES Bucharest ROMANIA - 12310 - CH
+2024-01-19,Network activity,ip-src,156.146.62.136,counter: 13578 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,89.37.173.32,counter: 563 - BANDWIDTH-AS - 25369 - CH
+2024-01-19,Network activity,ip-src,191.101.157.183,counter: 26031 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,191.101.157.88,counter: 25414 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,89.149.37.45,counter: 25359 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,84.17.53.209,counter: 554 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,212.102.57.7,counter: 4919 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,212.102.39.90,counter: 3080 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,216.24.216.250,counter: 2435 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,188.241.120.122,counter: 15 - BANDWIDTH-AS - 25369 - CH
+2024-01-19,Network activity,ip-src,146.70.92.67,counter: 2525 - M247 - 9009 - DK
+2024-01-19,Network activity,ip-src,169.150.197.57,counter: 416 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,79.142.79.53,counter: 14919 - ALTUS - 51430 - CH
+2024-01-19,Network activity,ip-src,89.37.173.20,counter: 642 - BANDWIDTH-AS - 25369 - CH
+2024-01-19,Network activity,ip-src,84.17.53.220,counter: 121 - CDN77 ^_^ - 60068 - CH
+2024-01-19,Network activity,ip-src,216.24.216.244,counter: 593 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,156.146.62.47,counter: 240 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,89.37.173.52,counter: 574 - BANDWIDTH-AS - 25369 - CH
+2024-01-19,Network activity,ip-src,212.102.39.218,counter: 243 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,212.102.39.155,counter: 212 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,216.24.213.10,counter: 656 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,146.70.92.68,counter: 421 - M247 - 9009 - DK
+2024-01-19,Network activity,ip-src,212.102.39.87,counter: 1320 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,89.149.37.178,counter: 3606 - INES Bucharest ROMANIA - 12310 - DE
+2024-01-19,Network activity,ip-src,191.96.227.191,counter: 245 - COGENT-174 - 174 - US
+2024-01-19,Network activity,ip-src,89.149.38.199,counter: 1405 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,212.102.39.205,counter: 693 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,212.102.39.202,counter: 906 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,82.102.24.155,counter: 982 - M247 - 9009 - CH
+2024-01-19,Network activity,ip-src,89.149.38.43,counter: 3333 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,216.24.216.245,counter: 1421 - COGENT-174 - 174 - DE
+2024-01-19,Network activity,ip-src,89.149.38.145,counter: 12600 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,79.142.79.77,counter: 6680 - ALTUS - 51430 - CH
+2024-01-19,Network activity,ip-src,156.146.62.152,counter: 7164 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,154.47.21.177,counter: 25 - CDNEXT - 212238 - NL
+2024-01-19,Network activity,ip-src,79.142.79.41,counter: 7068 - ALTUS - 51430 - CH
+2024-01-19,Network activity,ip-src,89.149.38.144,counter: 11721 - INES Bucharest ROMANIA - 12310 - CH
+2024-01-19,Network activity,ip-src,89.149.38.165,counter: 1240 - INES Bucharest ROMANIA - 12310 - CH
+2024-01-19,Network activity,ip-src,79.142.79.47,counter: 6346 - ALTUS - 51430 - CH
+2024-01-19,Network activity,ip-src,89.149.38.66,counter: 11575 - INES Bucharest ROMANIA - 12310 - CH
+2024-01-19,Network activity,ip-src,139.28.177.74,counter: 995 - M247 - 9009 - DE
+2024-01-19,Network activity,ip-src,169.150.197.152,counter: 1347 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,89.149.38.34,counter: 11601 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,89.149.38.104,counter: 11457 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,212.102.38.214,counter: 3523 - CDN77 ^_^ - 60068 - CZ
+2024-01-19,Network activity,ip-src,212.102.39.78,counter: 64 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,212.102.37.51,counter: 11781 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,212.102.39.84,counter: 6392 - CDNEXT - 212238 - CZ
+2024-01-19,Network activity,ip-src,146.70.81.130,counter: 3426 - M247 - 9009 - AT
+2024-01-19,Network activity,ip-src,156.146.62.198,counter: 6561 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,156.146.62.135,counter: 5524 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,156.146.62.210,counter: 8 - CDNEXT - 212238 - CH
+2024-01-19,Network activity,ip-src,149.36.50.16,counter: 35 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.8,counter: 46 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.11,counter: 41 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.25,counter: 34 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.13,counter: 36 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.21,counter: 41 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.7,counter: 33 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.28,counter: 33 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.24,counter: 36 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.30,counter: 30 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.17,counter: 33 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,79.142.79.56,counter: 5032 - ALTUS - 51430 - CH
+2024-01-19,Network activity,ip-src,149.36.50.19,counter: 46 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.18,counter: 30 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.2,counter: 33 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.14,counter: 33 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.26,counter: 33 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.4,counter: 31 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.15,counter: 40 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.3,counter: 42 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.5,counter: 26 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.27,counter: 25 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.12,counter: 36 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.6,counter: 22 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.29,counter: 47 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.20,counter: 36 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.22,counter: 39 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.23,counter: 34 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.10,counter: 27 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,149.36.50.9,counter: 30 - CDNEXT - 212238 - DE
+2024-01-19,Network activity,ip-src,143.244.39.8,counter: 10062 - CDN77 ^_^ - 60068 - GB
+2024-01-19,Network activity,ip-src,89.37.173.24,counter: 104 - BANDWIDTH-AS - 25369 - CH
+2024-01-19,Network activity,ip-src,79.142.79.54,counter: 296 - ALTUS - 51430 - CH
+2024-01-19,Network activity,ip-src,37.19.217.231,counter: 20 - CDNEXT - 212238 - FR
+2024-01-19,External analysis,link,https://www.cio.inc/blogs/swiss-government-reports-nuisance-level-ddos-disruptions-p-3554,
+2024-01-19,External analysis,link,https://github.com/govcert-ch/CTI/blob/main/20240117_NoName057-DDoS-CH.csv,

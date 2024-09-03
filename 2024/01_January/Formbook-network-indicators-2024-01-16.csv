@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook network indicators [2024-01-16]
+| UUID: 2c2e4f74-f021-4cbd-873c-b316686f7d1c
+| Date: 2024-01-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-16,Network activity,url,http://172.245.208.28/1314/conhost.exe,Source: urlhaus
+2024-01-16,Network activity,url,http://172.245.208.28/guj/gu/beautifulhjcreversehissettingsentireprocessgoodforlaunchtoeverythingfine.doc,Source: urlhaus
+2024-01-16,Network activity,url,https://drive.google.com/uc?export=download&id=105SHbt58-cSXJhujiqMygDNcVs-_WGAc,Source: urlhaus

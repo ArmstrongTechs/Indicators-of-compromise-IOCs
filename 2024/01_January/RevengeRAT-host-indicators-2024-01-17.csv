@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: RevengeRAT host indicators [2024-01-17]
+| UUID: 2d67de9d-84d6-434a-8b6c-d60b8d37ef3f
+| Date: 2024-01-17
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-17,Payload installation,filename,Detalhes Reserva.ppam,Source: MalwareBazaar
+2024-01-17,Payload installation,md5,234504f9fcb3c9515f8034afdbee8571,Source: MalwareBazaar
+2024-01-17,Payload installation,sha1,44bd1cb504fb04bc06eda1b4119b37cd7263f559,Source: MalwareBazaar
+2024-01-17,Payload installation,sha256,649d8fac10370a8922779669c5bbe8e93d4df493991ed8fa98a66de7b7d89560,Source: MalwareBazaar

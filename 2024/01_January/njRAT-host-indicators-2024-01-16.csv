@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2024-01-16]
+| UUID: 40244126-a9e6-4e8a-a5a9-cd9cf5770a21
+| Date: 2024-01-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-16,Payload installation,filename,bSWK.exe,Source: MalwareBazaar
+2024-01-16,Payload installation,md5,7261770666f41d4b65dc9590d0c4a1fd,Source: MalwareBazaar
+2024-01-16,Payload installation,sha1,7149ae39230bbeb78551d012c35e2f4470cd4077,Source: MalwareBazaar
+2024-01-16,Payload installation,sha256,9fcede2fe80c31c00102d9a01cbce1e6110c8d7f473d43111adbcd13fa877132,Source: MalwareBazaar
+2024-01-16,Payload installation,filename,bSWN.exe,Source: MalwareBazaar
+2024-01-16,Payload installation,md5,584546daa2033c86dc8478d932d1a3d6,Source: MalwareBazaar
+2024-01-16,Payload installation,sha1,2b6b2eb17bb356a6fe4255b243e27e04ba6d323b,Source: MalwareBazaar
+2024-01-16,Payload installation,sha256,02e505dc7b4b2c438d1413310777d2092c7f45753c9379f1b47dd4740728dda7,Source: MalwareBazaar
+2024-01-16,Payload installation,filename,bSWO.exe,Source: MalwareBazaar
+2024-01-16,Payload installation,md5,e61c284223d8d5bce2e4f7ab099aa060,Source: MalwareBazaar
+2024-01-16,Payload installation,sha1,120d1eca88f6e978696c1080b44e1c97386df4c9,Source: MalwareBazaar
+2024-01-16,Payload installation,sha256,efdf39be2b87deffd418dd1298b82edced758b1a52d9d57e04b27d845f3f48e5,Source: MalwareBazaar
+2024-01-17,Payload installation,filename,bSX0.exe,Source: MalwareBazaar
+2024-01-17,Payload installation,md5,b8a825c21a22ae4652346ac8c9ac733a,Source: MalwareBazaar
+2024-01-17,Payload installation,sha1,fbed52ea45c38e75f47de112d85acfe214de2776,Source: MalwareBazaar
+2024-01-17,Payload installation,sha256,fdaee92ea99d938b43ee9c1d49fc048f4af9cfd874aefa1370024f8490f70629,Source: MalwareBazaar

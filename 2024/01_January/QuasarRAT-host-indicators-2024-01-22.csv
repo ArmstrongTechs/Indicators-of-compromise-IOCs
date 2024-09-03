@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-01-22]
+| UUID: 78022818-de5d-4b02-a448-844f7c6e2375
+| Date: 2024-01-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-22,Payload installation,filename,Client.exe,Source: MalwareBazaar
+2024-01-22,Payload installation,md5,5ccd609152c098eee751bd9f846b7c40,Source: MalwareBazaar
+2024-01-22,Payload installation,sha1,922a05014dbbba9cacf339ecf6c221cbb6f40aeb,Source: MalwareBazaar
+2024-01-22,Payload installation,sha256,afa824ad9d8f2b1b0d54b0daff8f2363d1543afe214d8a3d7a21a258f1ef671f,Source: MalwareBazaar
+2024-01-22,Payload installation,filename,Client.exe,Source: MalwareBazaar
+2024-01-22,Payload installation,md5,610192e00d62ce9e96a5ca4900cbac61,Source: MalwareBazaar
+2024-01-22,Payload installation,sha1,cd0c73d4a9302990d1a8d274ad2ad4aa58d27cd4,Source: MalwareBazaar
+2024-01-22,Payload installation,sha256,ca3a409333d884580e6ccf5ba616ab5d27dee98e0b991c8e416fa25e9f9dc54e,Source: MalwareBazaar
+2024-01-22,Payload installation,filename,Client.exe,Source: MalwareBazaar
+2024-01-22,Payload installation,md5,5d93b7f3a4c9ce4c09856f416d564b1e,Source: MalwareBazaar
+2024-01-22,Payload installation,sha1,7daf1e1b38741f4bdc9f9b4cef8b249fb8bd8422,Source: MalwareBazaar
+2024-01-22,Payload installation,sha256,4e6e48275b1f3412edc045e1a81d509ddcfe360c06bdd4483fcd5b4fc77b7ef3,Source: MalwareBazaar
+2024-01-22,Payload installation,filename,Client.exe,Source: MalwareBazaar
+2024-01-22,Payload installation,md5,b7c7b264510e9849eb59252cc353f1a3,Source: MalwareBazaar
+2024-01-22,Payload installation,sha1,22e4af10ddf0a7dabe39bcd7e9990bf64219e16e,Source: MalwareBazaar
+2024-01-22,Payload installation,sha256,b70b64872a21f338463d0e6b1f2a45bb186ad711317164192b64e54a19baef85,Source: MalwareBazaar
+2024-01-22,Payload installation,filename,Client.exe,Source: MalwareBazaar
+2024-01-22,Payload installation,md5,dc98281c3cb10d3bb8d095d14dc0f437,Source: MalwareBazaar
+2024-01-22,Payload installation,sha1,5692a08cb97cacfd65bb0907a6ba53b947c19537,Source: MalwareBazaar
+2024-01-22,Payload installation,sha256,76079fc2459713c786108c1543f5fe1eb33f8dcc3500ab5a575a4807c9cf7dff,Source: MalwareBazaar

@@ -1,0 +1,21 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: 8FFR23-01630-01 [Fraude] [Falsificación de Registros o Identidad]
+| UUID: cc6bc9e2-61f7-4ade-b973-f4bb66c4ce7f
+| Date: 2024-01-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-29,Network activity,ip-src,92.205.180.240,Host
+2024-01-29,Payload delivery,url,https://larrainvial.larrainchile.biz/?M7=ap?,URLs
+2024-01-29,Payload delivery,url,https://na4.documents.adobe.com/public/esign?tsid=CBFCIBAACBSCTBABDUAAABACAABAARG,URLs
+2024-01-29,Payload delivery,url,7SCg8yAbUlJiVPEnXjS16jmY-KVpr5PkBOS-JdrEvzVhnfG5CMKy7ZPY9a4_47hpyeLDtVf8JwP2m_,URLs
+2024-01-29,Payload delivery,url,5GLzcmPJD8lB54hHHO6T_s35qq_tWOtyA2revbEIqCyuVoRZ&,URLs
+2024-01-29,External analysis,attachment,8FFR23-01630-01.docx,Informe CSIRT
+2024-01-29,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática del Gobierno de Chile (CSIRT de Gobierno), ha identificado la activación de una página fraudulenta que suplanta a Microsoft 365, la que podría servir para robar credenciales de usuario o datos bancarios.
+
+Lo anterior constituye una falsificación de la marca institucional que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2024-01-29,External analysis,attachment,8FFR23-01630-01.pdf,Informe CSIRT PDF
+2024-01-29,External analysis,attachment,imagen_sitio.png,Captura de Pantalla

@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-01-11]
+| UUID: 885eccfc-4323-4c6d-9078-6964725f7524
+| Date: 2024-01-11
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-11,Payload installation,filename,Електронна позовна вимога.exe,Source: MalwareBazaar
+2024-01-11,Payload installation,md5,04e18fd343fc78769f0518e3d8bc989c,Source: MalwareBazaar
+2024-01-11,Payload installation,sha1,ba072d27d14538c79af5df27a9328002afad5436,Source: MalwareBazaar
+2024-01-11,Payload installation,sha256,3830e8249b95e86065288cb7a00ee9139d9e2fd918ff9c7e427e8684c1481579,Source: MalwareBazaar
+2024-01-11,Payload installation,filename,b67319d5978b2236bb8a735b1838b18b6432cb835fce1b9b08ff2d68e012bc50,Source: MalwareBazaar
+2024-01-11,Payload installation,md5,e2473c2832fb852d2aa8785e90b285a0,Source: MalwareBazaar
+2024-01-11,Payload installation,sha1,663f5fd69dfd51e8608ea5e2231319923db26b1d,Source: MalwareBazaar
+2024-01-11,Payload installation,sha256,b67319d5978b2236bb8a735b1838b18b6432cb835fce1b9b08ff2d68e012bc50,Source: MalwareBazaar
+2024-01-11,Payload installation,filename,5d8702a242d06cfeb840c8a6fbf8d2bdd3f7e2c58f8c1cc0d74135cc9c1baeb4,Source: MalwareBazaar
+2024-01-11,Payload installation,md5,a97f1c6922b2b559c7f9c5114f1b59c3,Source: MalwareBazaar
+2024-01-11,Payload installation,sha1,40fcc0e5f3b23349d5d96a1563948ebe155f9fa9,Source: MalwareBazaar
+2024-01-11,Payload installation,sha256,5d8702a242d06cfeb840c8a6fbf8d2bdd3f7e2c58f8c1cc0d74135cc9c1baeb4,Source: MalwareBazaar
+2024-01-11,Payload installation,filename,17eb1a2f794ad5e02a0d96fcbd42fcfe328eb4a10bdda74d8e5cb1dfc46e4fa6,Source: MalwareBazaar
+2024-01-11,Payload installation,md5,a6849832500aad21faab613bbe7fd37f,Source: MalwareBazaar
+2024-01-11,Payload installation,sha1,cc691ca9bfdd4bcd07d97375559155f0acdf21c2,Source: MalwareBazaar
+2024-01-11,Payload installation,sha256,17eb1a2f794ad5e02a0d96fcbd42fcfe328eb4a10bdda74d8e5cb1dfc46e4fa6,Source: MalwareBazaar

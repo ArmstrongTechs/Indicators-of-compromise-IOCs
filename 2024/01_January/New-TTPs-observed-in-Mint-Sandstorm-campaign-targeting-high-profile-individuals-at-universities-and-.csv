@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: New TTPs observed in Mint Sandstorm campaign targeting high-profile individuals at universities and research orgs
+| UUID: 86ed0c69-e420-4607-bcf8-9101bc260b8f
+| Date: 2024-01-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-20,External analysis,link,https://www.microsoft.com/en-us/security/blog/2024/01/17/new-ttps-observed-in-mint-sandstorm-campaign-targeting-high-profile-individuals-at-universities-and-research-orgs/,
+2024-01-20,Network activity,hostname,east-healthy-dress.glitch.me,
+2024-01-20,Network activity,hostname,coral-polydactyl-dragonfruit.glitch.me,
+2024-01-20,Network activity,hostname,kwhfibejjyxregxmnpcs.supabase.co,
+2024-01-20,Network activity,hostname,epibvgvoszemkwjnplyc.supabase.co,
+2024-01-20,Network activity,hostname,ndrrftqrlblfecpupppp.supabase.co,
+2024-01-20,Network activity,hostname,cloud-document-edit.onrender.com,
+2024-01-20,Network activity,domain,glitch.me,curl command to retrieve a series of malicious files from attacker-controlled subdomains
+2024-01-20,Network activity,domain,supabase.co,curl command to retrieve a series of malicious files from attacker-controlled subdomains
+2024-01-20,Payload delivery,filename,Persistence.vbs,"added a file, typically named a.vbs, to the CurrentVersion\Run registry key"
+2024-01-20,Payload delivery,sha256,f2dec56acef275a0e987844e98afcc44bf8b83b4661e83f89c6a2a72c5811d5f,
+2024-01-20,Payload delivery,filename,MediaPl.dll,

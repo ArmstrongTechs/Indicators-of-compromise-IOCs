@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Aumento del Ransomware Medusa-024
+| UUID: 65b0b35f-9a01-423f-8e61-8d939e3dce74
+| Date: 2024-01-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-19,External analysis,attachment,BOLETÍN 024.pdf,Ransomware Medusa
+2024-01-19,Payload delivery,md5,47386ee20a6a94830ee4fa38b419a6f7,
+2024-01-19,Payload delivery,md5,84b88ac81e4872ff3bf15c72f431d101,
+2024-01-19,Payload delivery,md5,8cd11f34d817a99e4972641caf07951e,
+2024-01-19,Payload delivery,md5,a57f84e3848ab36fd59c94d32284a41e,
+2024-01-19,Payload delivery,md5,e4b7fdabef67a0550877e6439beb093d,
+2024-01-19,Payload delivery,sha1,042ce9ab1afe035e0924753f076fcb20de0d1a1d,
+2024-01-19,Payload delivery,sha1,0823d067541de16325e5454a91b57262365a0705,
+2024-01-19,Payload delivery,sha1,4d5992de4601c4306885c71b0ba197184bb69221,
+2024-01-19,Payload delivery,sha1,db5e29c0729486ba3833426093652451c5fca9b5,
+2024-01-19,Payload delivery,sha1,ee4575cf9818636781677d63236d3dc65652deab,
+2024-01-19,Payload delivery,sha256,4d4df87cf8d8551d836f67fbde4337863bac3ff6b5cb324675054ea023b12ab6,
+2024-01-19,Payload delivery,sha256,657c0cce98d6e73e53b4001eeea51ed91fdcf3d47a18712b6ba9c66d59677980,
+2024-01-19,Payload delivery,sha256,7d68da8aa78929bb467682ddb080e750ed07cd21b1ee7a9f38cf2810eeb9cb95,
+2024-01-19,Payload delivery,sha256,9144a60ac86d4c91f7553768d9bef848acd3bd9fe3e599b7ea2024a8a3115669,
+2024-01-19,Payload delivery,sha256,736de79e0a2d08156bae608b2a3e63336829d59d38d61907642149a566ebd270,

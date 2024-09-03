@@ -1,0 +1,38 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-01-26]
+| UUID: 180f876e-1451-450d-a444-2d66e14669d3
+| Date: 2024-01-26
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-26,Payload installation,filename,NEW Quotation.exe,Source: MalwareBazaar
+2024-01-26,Payload installation,md5,48dc66076a4a7db9937c49ede5a55168,Source: MalwareBazaar
+2024-01-26,Payload installation,sha1,b7c53bb83227c0a3b7e496733bbb34ccde41a95d,Source: MalwareBazaar
+2024-01-26,Payload installation,sha256,0bb832320a92ba68c398f71058c99556988795e84f3838ffa8143921c3ed04c7,Source: MalwareBazaar
+2024-01-26,Payload installation,filename,NEW Quotation.rar,Source: MalwareBazaar
+2024-01-26,Payload installation,md5,cacdebcec94863a5c1cb97b0ff66908a,Source: MalwareBazaar
+2024-01-26,Payload installation,sha1,00f3dbe92dd913ec0357b9e8d67a3a729936bafb,Source: MalwareBazaar
+2024-01-26,Payload installation,sha256,36d1a0de014a469c3f42801a31c0fcbb7ac6eb898df75df89dc5c859360a545b,Source: MalwareBazaar
+2024-01-26,Payload installation,filename,SecuriteInfo.com.W32.MSIL_Kryptik.IYD.gen.Eldorado.20371.19827,Source: MalwareBazaar
+2024-01-26,Payload installation,md5,fb3a881fa28d196bcbd22d534e772bd0,Source: MalwareBazaar
+2024-01-26,Payload installation,sha1,1aa77a83c10996d031532ec60a710d718cacb3e2,Source: MalwareBazaar
+2024-01-26,Payload installation,sha256,dd00caf5d7f9bf6c5286c276edcbf1ab721a439345867a1b42a318b923c34314,Source: MalwareBazaar
+2024-01-26,Payload installation,filename,PO7450913256.exe,Source: MalwareBazaar
+2024-01-26,Payload installation,md5,142803c54e66b5124e26406d9fc0841e,Source: MalwareBazaar
+2024-01-26,Payload installation,sha1,2ff22c0ee56da68d9d964552a6a03df3f9b88ca9,Source: MalwareBazaar
+2024-01-26,Payload installation,sha256,47d396f2913a1a812fa3421d33730da64905cc93d2936d048fc51ec9ea2cabc4,Source: MalwareBazaar
+2024-01-26,Payload installation,filename,PO-4500628950_pdf.uu,Source: MalwareBazaar
+2024-01-26,Payload installation,md5,93ee1905f55de8b73a97bd0e67c6df19,Source: MalwareBazaar
+2024-01-26,Payload installation,sha1,28a8d9ae9932e58652a88bc197dfafb995e99ee8,Source: MalwareBazaar
+2024-01-26,Payload installation,sha256,8fa4fc65d29b35bd463a0ef67ad860de6f2bb3dffb062379182f1a23ed6d4e75,Source: MalwareBazaar
+2024-01-26,Payload installation,filename,rPO-4500628950_pdf.exe,Source: MalwareBazaar
+2024-01-26,Payload installation,md5,a7349364523f7f3637a6665497532953,Source: MalwareBazaar
+2024-01-26,Payload installation,sha1,8912b64beaa943700b80b20da8cc62e11edb0ba2,Source: MalwareBazaar
+2024-01-26,Payload installation,sha256,e5b2ac7f9314971e967c9c606b75dfb9766442b1dac9b9bd5fb7f5c848d5ff6b,Source: MalwareBazaar
+2024-01-27,Payload installation,filename,SecuriteInfo.com.Win32.PWSX-gen.16190.5807,Source: MalwareBazaar
+2024-01-27,Payload installation,md5,6255c9f3e8716c2412e4fad682d80fb8,Source: MalwareBazaar
+2024-01-27,Payload installation,sha1,b27323036c150b22fbabdb7f130a8e7997fe9313,Source: MalwareBazaar
+2024-01-27,Payload installation,sha256,6e3203f5d986a9c7c260f8e1d28f766d1dd242c32f960128c1c3bcae539246dc,Source: MalwareBazaar

@@ -1,0 +1,42 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-01-25]
+| UUID: 50403d31-f578-4877-9b91-63c8cd55e62c
+| Date: 2024-01-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-25,Payload installation,filename,DHL_AWB#6078538091.rar,Source: MalwareBazaar
+2024-01-25,Payload installation,md5,cc1bb48f585b127cb999cc4934114a2d,Source: MalwareBazaar
+2024-01-25,Payload installation,sha1,f9511061ec89df760f3a6e93d69a095b04746d96,Source: MalwareBazaar
+2024-01-25,Payload installation,sha256,91798f96fb8ed05012038c1e235ab94397c1257602caecddf13cc24b1f759070,Source: MalwareBazaar
+2024-01-25,Payload installation,filename,New_Order_302653.exe,Source: MalwareBazaar
+2024-01-25,Payload installation,md5,afa6c15209077af9b318098007490a12,Source: MalwareBazaar
+2024-01-25,Payload installation,sha1,3e25caf77b5317894bc2bd15af5ceeefffd00e96,Source: MalwareBazaar
+2024-01-25,Payload installation,sha256,fff9e202e5905ba82f68b445004980a5a99b78e3e86098bbd7568f8e61fe3260,Source: MalwareBazaar
+2024-01-25,Payload installation,filename,r01-25Arrival.exe,Source: MalwareBazaar
+2024-01-25,Payload installation,md5,bec209eaa0b01e498c6c9ad2125dbf14,Source: MalwareBazaar
+2024-01-25,Payload installation,sha1,09913142c461e6f00db09fbe439d35a8d415a224,Source: MalwareBazaar
+2024-01-25,Payload installation,sha256,f87afdb24721791be0b5b0a400b20a4f6545f8738b6a6665e1b0d09213c43b5f,Source: MalwareBazaar
+2024-01-25,Payload installation,filename,a0141bce3f540415da5bb6ea805c33dc.exe,Source: MalwareBazaar
+2024-01-25,Payload installation,md5,a0141bce3f540415da5bb6ea805c33dc,Source: MalwareBazaar
+2024-01-25,Payload installation,sha1,896463651f759c53fe85457a3d7fec130582a1a6,Source: MalwareBazaar
+2024-01-25,Payload installation,sha256,0cc5a572b55967fe76a1f3c812d09a7b9d792863348bfec9ab8b5738e33dd899,Source: MalwareBazaar
+2024-01-26,Payload installation,filename,PO#08724-UNESIA ALUMINIUM CONT.exe,Source: MalwareBazaar
+2024-01-26,Payload installation,md5,5c2221a61da8050e5da5baddf790a5b9,Source: MalwareBazaar
+2024-01-26,Payload installation,sha1,cef3d9812c636326acce850a264a44484a3194cf,Source: MalwareBazaar
+2024-01-26,Payload installation,sha256,4e2896e826684585620caff4a81205bfe5e549264ed521f8fdc173be03b7e8dc,Source: MalwareBazaar
+2024-01-26,Payload installation,filename,DRAFT.exe,Source: MalwareBazaar
+2024-01-26,Payload installation,md5,70c62cb7d39027086aae679528301d9e,Source: MalwareBazaar
+2024-01-26,Payload installation,sha1,329362b3d7ed99d7bd876e446341dc7e7bf85298,Source: MalwareBazaar
+2024-01-26,Payload installation,sha256,90ce02725d886ba2f6ae19d75257230e7fb80c9d19fa77d715f3e3226bd07125,Source: MalwareBazaar
+2024-01-26,Payload installation,filename,SecuriteInfo.com.Trojan.MSIL.Krypt.1781.13373,Source: MalwareBazaar
+2024-01-26,Payload installation,md5,4805919d84414cc58dc59985b3a8017a,Source: MalwareBazaar
+2024-01-26,Payload installation,sha1,145835cb2464b21f15cd2810a930c26344f0f83e,Source: MalwareBazaar
+2024-01-26,Payload installation,sha256,3dffd110c1dc6c2a1f579ef50a524678e4ba19e28ed1f0716e218bae9745f93c,Source: MalwareBazaar
+2024-01-26,Payload installation,filename,b29fbc48ad3305f4dcab0be3145682a6,Source: MalwareBazaar
+2024-01-26,Payload installation,md5,b29fbc48ad3305f4dcab0be3145682a6,Source: MalwareBazaar
+2024-01-26,Payload installation,sha1,73152dd5e9cdf69d7ae9ff114aa818b2ec0decfb,Source: MalwareBazaar
+2024-01-26,Payload installation,sha256,104ae348871545562f1f0a2712ddb88659fda045dd969affd79fbdc25fc7e2fd,Source: MalwareBazaar

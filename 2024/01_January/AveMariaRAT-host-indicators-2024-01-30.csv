@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AveMariaRAT host indicators [2024-01-30]
+| UUID: 94f5b807-1536-4f6e-88a5-29488ccfcdd4
+| Date: 2024-01-30
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-30,Payload installation,filename,P.O 4700009314.exe,Source: MalwareBazaar
+2024-01-30,Payload installation,md5,e9c78cc0569b16b1e332cd86285620a2,Source: MalwareBazaar
+2024-01-30,Payload installation,sha1,f7c0db3e8139345ab87fb624a1a86274b7bcbc9e,Source: MalwareBazaar
+2024-01-30,Payload installation,sha256,decfb2acfa48419eb5c32541e8b99aa142ed856a2969012374c2a30f8bd7db70,Source: MalwareBazaar
+2024-01-30,Payload installation,filename,unpacked.exe,Source: MalwareBazaar
+2024-01-30,Payload installation,md5,23ca02d6eac5914157aca2a48d95e35b,Source: MalwareBazaar
+2024-01-30,Payload installation,sha1,ff152a0ee7464732af7eb21f586a1c0f1f5ee929,Source: MalwareBazaar
+2024-01-30,Payload installation,sha256,94f836d1cd5bfe8a245a0b66076c86506f53b2fae38ed5da7b2f13cfa07b6cac,Source: MalwareBazaar
+2024-01-30,Payload installation,filename,d1ebfffb918cb931ae8e6ef5546b9efa,Source: MalwareBazaar
+2024-01-30,Payload installation,md5,d1ebfffb918cb931ae8e6ef5546b9efa,Source: MalwareBazaar
+2024-01-30,Payload installation,sha1,325c8470cce00044d8a2ff9281c2ecc4223ab011,Source: MalwareBazaar
+2024-01-30,Payload installation,sha256,82024edb19dae637e9af2940bbbf5e10fc8ad04deece28d610474e993ee3450e,Source: MalwareBazaar
+2024-01-30,Payload installation,filename,product list and specification.xls,Source: MalwareBazaar
+2024-01-30,Payload installation,md5,d372ad70b1aa9e46b21e2ebfcd71f9a0,Source: MalwareBazaar
+2024-01-30,Payload installation,sha1,a7c747634398db8043be97f6ccdf8c56b34c3f14,Source: MalwareBazaar
+2024-01-30,Payload installation,sha256,9fb885a66da2ed08983a46519b97dc55e002913f859dfa1e54917f63e4d7f8f4,Source: MalwareBazaar

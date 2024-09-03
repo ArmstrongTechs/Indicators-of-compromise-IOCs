@@ -1,0 +1,50 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Payment Screenshot - From: sandra.jimenez@micolchon.com"" Campaign"
+| UUID: 0dac4a8b-adc6-4919-acfa-2f98ab5c96b2
+| Date: 2024-01-09
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-09,Payload delivery,email-src,sandra.jimenez@micolchon.com,Source email: from sandra.jimenez@micolchon.com - subject: Payment Screenshot
+2024-01-09,Payload delivery,email-src-display-name,Muhasebe,Source email: from sandra.jimenez@micolchon.com - subject: Payment Screenshot
+2024-01-09,Payload delivery,email-body,"Good morning,
+
+Attached is proof of yesterday's payment.
+
+All the best
+
+Ahmet Murat
+MUHASEBE
+8088094577
+
+Kişisel verileriniz ilişkimiz ve size hizmetlerimizi sunmak için 
+kullanılacaktır. Bu tür veriler sizinle ilişki kurabilmek için 
+gereklidir, bu da bilgilerinizi yasalar çerçevesinde kullanmamıza olanak 
+tanır. Benzer şekilde, hizmetlerimizi sunabilmemiz için bu bilgilere 
+erişmesi gereken kuruluşlar da bilgilerinizden haberdar olabilir. 
+Verilerinizi ilişkimizin süresi boyunca ve yürürlükteki kanunların 
+gerektirdiği süre boyunca saklayacağız. Hakkınızda hangi bilgilere sahip 
+olduğumuzu öğrenmek, yanlışsa düzeltmek ve ilişkimiz sona erdiğinde 
+silmek için istediğiniz zaman bizimle iletişime geçebilirsiniz. Ayrıca 
+bilgilerinizin başka bir kuruluşa aktarılmasını (taşınabilirlik) talep 
+etme hakkına da sahipsiniz. Bu haklardan herhangi birini talep etmek 
+için kimliğinizin fotokopisiyle birlikte adresimize yazılı talepte 
+bulunmalısınız: SOLUCIONES Y SERVICIOS MORGON, S.L, CALLE CAÑADA DEL 
+POZO 2, NAVE 10, 28890, LOECHES, MADRID. Haklarınızın ihmal edildiğini 
+anlarsanız İspanyol Veri Koruma Ajansı'na dava açabilirsiniz.",Source email: from sandra.jimenez@micolchon.com - subject: Payment Screenshot
+2024-01-09,Payload delivery,email-subject,Payment Screenshot,Source: from sandra.jimenez@micolchon.com - subject: Payment Screenshot
+2024-01-09,Payload delivery,filename|sha256,Odeme_Fatura.img|ffed11318575f3071f3dcbd89aa89f542f0885d93a2186a58f0ec0f3b73dc153,Malspam attachment - source: from sandra.jimenez@micolchon.com - subject: Payment Screenshot mime: application/x-iso9660-image
+2024-01-09,Payload delivery,filename|ssdeep,Odeme_Fatura.img|12288:pS+BOhi1LV33sNBMZ/WgsLebIr5d6o3/q/uK8LXxkRmzbUdVGqFLtomp:xBXdMBM5ILebc5hqFLtos,Malspam attachment - source: from sandra.jimenez@micolchon.com - subject: Payment Screenshot mime: application/x-iso9660-image
+2024-01-09,Payload delivery,filename|sha1,Odeme_Fatura.img|a2f30ff73223815be375e8f4a6cb16555d063a22,Malspam attachment - source: from sandra.jimenez@micolchon.com - subject: Payment Screenshot mime: application/x-iso9660-image
+2024-01-09,Payload delivery,filename|sha512,Odeme_Fatura.img|32b1ed42e073d89361ec6d8946a9768f14a362f98dcf0b8919856713950f2db16e12c77f2ea4a98e69b296a53327f2b0b9032a2b7622af28f8675da2a9648713,Malspam attachment - source: from sandra.jimenez@micolchon.com - subject: Payment Screenshot mime: application/x-iso9660-image
+2024-01-09,Payload delivery,filename|md5,Odeme_Fatura.img|bb90a57057369e3072d59d4aa026e52a,Malspam attachment - source: from sandra.jimenez@micolchon.com - subject: Payment Screenshot mime: application/x-iso9660-image
+2024-01-09,Payload delivery,filename|imphash,Odeme_Fatura.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Extracted from Odeme_Fatura.img; mime: application/x-dosexec
+2024-01-09,Payload delivery,filename|md5,Odeme_Fatura.exe|6c6b4b50258f73741044e91698ff2254,Extracted from Odeme_Fatura.img; mime: application/x-dosexec
+2024-01-09,Payload delivery,filename|sha1,Odeme_Fatura.exe|2c5878b20138b1d6844633cd63c40ecc14fa8315,Extracted from Odeme_Fatura.img; mime: application/x-dosexec
+2024-01-09,Payload delivery,filename|sha256,Odeme_Fatura.exe|80da1b7360c8d9aa99ae826402e7232f5b2b1112a81bd29765596a60c8502c66,Extracted from Odeme_Fatura.img; mime: application/x-dosexec
+2024-01-09,Payload delivery,filename|sha512,Odeme_Fatura.exe|5c1b811a904ba1bd4ee825505b2ecb82bacfb31096174f429c05b5f4d8bd9984438167a27bfd75e9bb0330954616d010fde63c1491578fdf2417b17d0851cc30,Extracted from Odeme_Fatura.img; mime: application/x-dosexec
+2024-01-09,Payload delivery,filename|ssdeep,Odeme_Fatura.exe|12288:LS+BOhi1LV33sNBMZ/WgsLebIr5d6o3/q/uK8LXxkRmzbUdVGqFLtomp:nBXdMBM5ILebc5hqFLtos,Extracted from Odeme_Fatura.img; mime: application/x-dosexec
+2024-01-09,Network activity,hostname|port,satgobleien.jumpingcrab.com|5201,Source: Extracted from static config of Odeme_Fatura.exe ; C2

@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Quakbot host indicators [2024-01-26]
+| UUID: 0e80c110-1a5d-4ec2-870f-7a94014b34b8
+| Date: 2024-01-26
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-26,Payload installation,filename,drop.dat,Source: MalwareBazaar
+2024-01-26,Payload installation,md5,f9073d4ac3089ecc2c43b73b3818582e,Source: MalwareBazaar
+2024-01-26,Payload installation,sha1,38813f19e54d28055b2cc4d7030cf608ca5d4c5a,Source: MalwareBazaar
+2024-01-26,Payload installation,sha256,fda2abd24764809fb36d4d2ee7ab5f6e8c06381fe6d9bb191bde62411c96ba92,Source: MalwareBazaar

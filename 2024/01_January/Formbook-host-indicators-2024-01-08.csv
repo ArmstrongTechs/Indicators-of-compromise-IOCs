@@ -1,0 +1,54 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-01-08]
+| UUID: b6cf989d-ba51-45d2-b5d2-1736c34e625f
+| Date: 2024-01-09
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-08,Payload installation,filename,e-dekont.exe,Source: MalwareBazaar
+2024-01-08,Payload installation,md5,1c808f1d1595115996f6abc5e855ae35,Source: MalwareBazaar
+2024-01-08,Payload installation,sha1,61bc2dffa9ed8d6d23768996f10625769659444a,Source: MalwareBazaar
+2024-01-08,Payload installation,sha256,3f72928d0f49086a7a5f96d15e5e3eb0dac7a7927da3717bc6d90d576877c88e,Source: MalwareBazaar
+2024-01-08,Payload installation,filename,Teadlsyldb.exe,Source: MalwareBazaar
+2024-01-08,Payload installation,md5,1aba625ec29e62ba41c4143501fa01ce,Source: MalwareBazaar
+2024-01-08,Payload installation,sha1,401921be358f90932c459495ab958bd69f197499,Source: MalwareBazaar
+2024-01-08,Payload installation,sha256,f85e153151e2d8379d57e66047fa65fff537db0f455effa92a2abb09a70e52fb,Source: MalwareBazaar
+2024-01-08,Payload installation,filename,4010885-MD.exe,Source: MalwareBazaar
+2024-01-08,Payload installation,md5,86fef98248838398a397599ef6f549a7,Source: MalwareBazaar
+2024-01-08,Payload installation,sha1,1030d4cf08385b3d351f2e23ab52f7f49b6ac8f2,Source: MalwareBazaar
+2024-01-08,Payload installation,sha256,c125c422c6534f72a342ec54231c2caaff61cb2f649bb764913ff76e25705d4c,Source: MalwareBazaar
+2024-01-08,Payload installation,filename,97c2d5b8641875634156368989ff410bb6b5cab67c2c5430b73cb47d51982012,Source: MalwareBazaar
+2024-01-08,Payload installation,md5,2f0d1effca8e06f489035a1e1facc192,Source: MalwareBazaar
+2024-01-08,Payload installation,sha1,fd96f6c801e4791c82d2c7cf44c7a829d95a946b,Source: MalwareBazaar
+2024-01-08,Payload installation,sha256,97c2d5b8641875634156368989ff410bb6b5cab67c2c5430b73cb47d51982012,Source: MalwareBazaar
+2024-01-08,Payload installation,filename,5e351a9f1fb3f62d980bd269a1ab3c652126861bf1d2ec773aa3be89980591a0,Source: MalwareBazaar
+2024-01-08,Payload installation,md5,748732cc5e370f4181e352a59ab42acc,Source: MalwareBazaar
+2024-01-08,Payload installation,sha1,5dd9b41b9bfb1a9ef2766dc44da7da6870602977,Source: MalwareBazaar
+2024-01-08,Payload installation,sha256,5e351a9f1fb3f62d980bd269a1ab3c652126861bf1d2ec773aa3be89980591a0,Source: MalwareBazaar
+2024-01-08,Payload installation,filename,f7728e0ce434d6b4537af34339b06d742766e574bce6b41a698725e3b9ec7f73,Source: MalwareBazaar
+2024-01-08,Payload installation,md5,7e3d65d63afb0e80afc873ec966c1c6b,Source: MalwareBazaar
+2024-01-08,Payload installation,sha1,c147a3dbc3985a68620fa8922daa1eb6718f9c82,Source: MalwareBazaar
+2024-01-08,Payload installation,sha256,f7728e0ce434d6b4537af34339b06d742766e574bce6b41a698725e3b9ec7f73,Source: MalwareBazaar
+2024-01-08,Payload installation,filename,PO-4109.exe,Source: MalwareBazaar
+2024-01-08,Payload installation,md5,73cd278009ea95f2ce2d695dc16340c4,Source: MalwareBazaar
+2024-01-08,Payload installation,sha1,dd8e59557b773d1977ac9543024887011e9fbab6,Source: MalwareBazaar
+2024-01-08,Payload installation,sha256,6915569f0193d21234ac6895ea64e29773d50d6d8589f02e778cccabfe5f5e90,Source: MalwareBazaar
+2024-01-08,Payload installation,filename,059f60cd43b55dc2cadcd89ea57b8b7c48ca2677e8dea439ac6a7d7b6d9593bb,Source: MalwareBazaar
+2024-01-08,Payload installation,md5,8a26f72678b24170a5bd7b8ccb370aec,Source: MalwareBazaar
+2024-01-08,Payload installation,sha1,bc362f0825a10feb5f6b44de6e1cf38a4dd3a92b,Source: MalwareBazaar
+2024-01-08,Payload installation,sha256,059f60cd43b55dc2cadcd89ea57b8b7c48ca2677e8dea439ac6a7d7b6d9593bb,Source: MalwareBazaar
+2024-01-09,Payload installation,filename,rBOQof21MCRANEBOAT.exe,Source: MalwareBazaar
+2024-01-09,Payload installation,md5,324fe7bb0bd7a9cf1ed6eec67a5b5a36,Source: MalwareBazaar
+2024-01-09,Payload installation,sha1,eecaa6e3e9952dd83b2339e3c13b6afc9dd08915,Source: MalwareBazaar
+2024-01-09,Payload installation,sha256,10b43fb2634085b6ab64fc9f92be8727a8b0162eb74341297a23f9bdbd89ecd1,Source: MalwareBazaar
+2024-01-09,Payload installation,filename,nBOQ_of_21M_CRANE_BOAT.BZ2,Source: MalwareBazaar
+2024-01-09,Payload installation,md5,f2648af8d69cfc583a4dc722217bb99e,Source: MalwareBazaar
+2024-01-09,Payload installation,sha1,b42eba9d5e4abd964e7b886244bcb67be46ab7bf,Source: MalwareBazaar
+2024-01-09,Payload installation,sha256,3d6540dbfdacad01aeeeee8dac4f7d61e5ea0dd74c19ec8c74585b260009f2a0,Source: MalwareBazaar
+2024-01-09,Payload installation,filename,QUOTATION (hose and valves).exe,Source: MalwareBazaar
+2024-01-09,Payload installation,md5,f868510058800942d885a51e6263fac1,Source: MalwareBazaar
+2024-01-09,Payload installation,sha1,6fcfdc4f6dbd3d0b94ae374df56e3a2c2cfb12ac,Source: MalwareBazaar
+2024-01-09,Payload installation,sha256,8a153debc69f1d51f36df5763d50971a0f6b0ff6d88012abfc619a9633cc2818,Source: MalwareBazaar

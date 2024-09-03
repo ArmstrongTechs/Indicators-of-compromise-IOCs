@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-01-26]
+| UUID: 25edf42a-5100-4172-a44e-db39d11e3206
+| Date: 2024-01-26
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-27,Payload installation,filename,RFQ2412600.exe,Source: MalwareBazaar
+2024-01-27,Payload installation,md5,b117f22372aa1e2991a4069a9275a27e,Source: MalwareBazaar
+2024-01-27,Payload installation,sha1,7c4283f0e1a4fe3f9913ef9f91b406842a3a7b5b,Source: MalwareBazaar
+2024-01-27,Payload installation,sha256,6271c329c4f40cf98e90cfa7016bcf533be22f66c7e20446ea721a9a475e2325,Source: MalwareBazaar
+2024-01-27,Payload installation,filename,RFQ2412600.arj,Source: MalwareBazaar
+2024-01-27,Payload installation,md5,56656f1b125a70fa99a9f47d2a62cf1e,Source: MalwareBazaar
+2024-01-27,Payload installation,sha1,6ce36270cd8cdded26daeac51c4ea702cd5dda37,Source: MalwareBazaar
+2024-01-27,Payload installation,sha256,624478976e937a86f57bea32fdd88f38cd1019ce3a08b324a116a118953a070b,Source: MalwareBazaar
+2024-01-27,Payload installation,filename,Payment Advice.exe,Source: MalwareBazaar
+2024-01-27,Payload installation,md5,4cc0699cfa272fb4881897088904a707,Source: MalwareBazaar
+2024-01-27,Payload installation,sha1,9eb4ec0073ca8524de1c945911753b200ac8dc31,Source: MalwareBazaar
+2024-01-27,Payload installation,sha256,b557e372c22db30990fad3e3226c4ab649d96b40170cb8890ba401d6ec0f3cc6,Source: MalwareBazaar

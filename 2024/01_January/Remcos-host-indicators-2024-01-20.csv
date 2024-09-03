@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-01-20]
+| UUID: aa866874-9963-4564-a77a-a314a8605ab1
+| Date: 2024-01-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-20,Payload installation,filename,QNyJ.exe,Source: MalwareBazaar
+2024-01-20,Payload installation,md5,5680f4b9d8429290fa9e5f80e6e4dac3,Source: MalwareBazaar
+2024-01-20,Payload installation,sha1,d18f43a6b74061648ba33c8447325d1c9e8186aa,Source: MalwareBazaar
+2024-01-20,Payload installation,sha256,2ffc3eca97e5736c881f13458e38408a554e94fa8df23753bf15423a6673e8d4,Source: MalwareBazaar

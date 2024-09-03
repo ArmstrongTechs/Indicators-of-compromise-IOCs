@@ -1,0 +1,15 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla network indicators [2024-01-30]
+| UUID: 0dfc8665-2a1e-4f2f-941d-4074bf48fae4
+| Date: 2024-01-30
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-30,Network activity,url,http://107.175.243.133/3151/conhost.exe,Source: urlhaus
+2024-01-30,Network activity,url,http://192.3.176.145/458/conhost.exe,Source: urlhaus
+2024-01-30,Network activity,url,https://kalnet.top/_errorpages/ugorichzx.exe,Source: urlhaus
+2024-01-30,Network activity,url,http://192.3.176.151/450/conhost.exe,Source: urlhaus
+2024-01-31,Network activity,url,https://kalnet.top/_errorpages/obizx.exe,Source: urlhaus

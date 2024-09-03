@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-01-20]
+| UUID: 6f7f843e-e138-4f31-852f-b3c4cde6a52d
+| Date: 2024-01-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-20,Payload installation,filename,bnn.exe,Source: MalwareBazaar
+2024-01-20,Payload installation,md5,a75a9fe738f5b6b2b34daf99fef72cf5,Source: MalwareBazaar
+2024-01-20,Payload installation,sha1,4e93be3a205b7c085efb0b79fd92103bf4dce15f,Source: MalwareBazaar
+2024-01-20,Payload installation,sha256,370e02c2619bd47c427f97881eafc89167f58084e9f41c9d9edc81318180d405,Source: MalwareBazaar

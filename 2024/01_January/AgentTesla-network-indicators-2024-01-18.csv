@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla network indicators [2024-01-18]
+| UUID: 50e7f5f2-fbc0-481f-8ccd-9744d86af6a1
+| Date: 2024-01-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-18,Network activity,url,http://107.175.243.133/4121/conhost.exe,Source: urlhaus
+2024-01-18,Network activity,url,http://107.175.243.133/1521/conhost.exe,Source: urlhaus
+2024-01-19,Network activity,url,https://pub-97694a1358de4edbb16efd939f516a29.r2.dev/Adobe_acrobat_installer.7z,Source: urlhaus

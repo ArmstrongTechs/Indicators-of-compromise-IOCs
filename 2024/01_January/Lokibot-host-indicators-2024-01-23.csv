@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-01-23]
+| UUID: 80c34a0d-fbd4-4ab2-8a21-388d90a3f8e1
+| Date: 2024-01-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-23,Payload installation,filename,Docu1070622.exe,Source: MalwareBazaar
+2024-01-23,Payload installation,md5,2422ac807e99da5568884ae40303451f,Source: MalwareBazaar
+2024-01-23,Payload installation,sha1,2a7fc3bc403fab0b487eaa0c4e72782d061acb20,Source: MalwareBazaar
+2024-01-23,Payload installation,sha256,a82a88c2b3717a73db75ed3dba0eccfbe4c916841acc73ee3726bbbadf4ef819,Source: MalwareBazaar

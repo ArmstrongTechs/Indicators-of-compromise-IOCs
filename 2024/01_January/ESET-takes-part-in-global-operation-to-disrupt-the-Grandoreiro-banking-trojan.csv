@@ -1,0 +1,35 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: ESET takes part in global operation to disrupt the Grandoreiro banking trojan
+| UUID: a22d9655-bcfe-4a7e-9fec-3cdbc7f1d4d8
+| Date: 2024-01-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-25,Other,comment,cloud providers such as Azure and AWS to host their network infrastructure,
+2024-01-25,Other,comment,"When a Latin American banking trojan successfully compromises a machine, it usually issues an HTTP GET request to a remote server",
+2024-01-25,Other,comment,generated domains are registered via No-IP’s Dynamic DNS service (DDNS),
+2024-01-25,Network activity,ip-dst,20.237.166.161,C2
+2024-01-25,Network activity,ip-dst,20.120.249.43,C2
+2024-01-25,Network activity,ip-dst,52.161.154.239,C2
+2024-01-25,Network activity,ip-dst,167.114.138.249,C2
+2024-01-25,Network activity,ip-dst,66.70.160.251,C2
+2024-01-25,Network activity,ip-dst,167.114.4.175,C2
+2024-01-25,Network activity,ip-dst,18.215.238.53,C2
+2024-01-25,Network activity,ip-dst,54.219.169.167,C2
+2024-01-25,Network activity,ip-dst,3.144.135.247,C2
+2024-01-25,Network activity,ip-dst,77.246.96.204,C2
+2024-01-25,Network activity,ip-dst,185.228.72.38,C2
+2024-01-25,Network activity,ip-dst,62.84.100.225,Distribution serverr
+2024-01-25,Network activity,ip-dst,20.151.89.252,Distribution serverr
+2024-01-25,External analysis,link,https://www.welivesecurity.com/en/eset-research/eset-takes-part-global-operation-disrupt-grandoreiro-banking-trojan/,
+2024-01-25,Payload delivery,sha1,fb32344292ab36080f2d040294f17d39f8b4f3a8,
+2024-01-25,Payload delivery,filename,Notif.FEL.RHKVYIIPFVBCGQJPOQÃ.msi,
+2024-01-25,Payload delivery,sha1,08c7453bd36de1b9e0d921d45aef6d393659fdf5,
+2024-01-25,Payload delivery,filename,RYCB79H7B-7DVH76Y3-67DVHC6T20-CH377DFHVO-6264704.msi,
+2024-01-25,Payload delivery,sha1,a99a72d323ab5911ada7762fbc725665ae01fdf9,
+2024-01-25,Payload delivery,filename,pcre.dll,
+2024-01-25,Payload delivery,sha1,4cdf7883c8a0a83eb381e935cd95a288505aa8b8,
+2024-01-25,Payload delivery,filename,iconv.dll,

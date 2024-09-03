@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Dridex host indicators [2024-01-30]
+| UUID: 2917df8e-ee05-48ab-8b92-e918af8f5916
+| Date: 2024-01-30
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-30,Payload installation,filename,dridex.exe,Source: MalwareBazaar
+2024-01-30,Payload installation,md5,3ea61e934c4fb7421087f10cacb14832,Source: MalwareBazaar
+2024-01-30,Payload installation,sha1,bffb40c2520e923c7174bbc52767b3b87f7364a9,Source: MalwareBazaar
+2024-01-30,Payload installation,sha256,034e193f88a93ebb4ac8ca8da5b3b1429600ef04e5c124457ce0bc1830bae558,Source: MalwareBazaar

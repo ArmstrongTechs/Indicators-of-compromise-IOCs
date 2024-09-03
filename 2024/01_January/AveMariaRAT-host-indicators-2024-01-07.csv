@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AveMariaRAT host indicators [2024-01-07]
+| UUID: a7517261-802f-4ed7-ab1f-fd0148f12e0d
+| Date: 2024-01-07
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-08,Payload installation,filename,Odeme_Fatura.exe,Source: MalwareBazaar
+2024-01-08,Payload installation,md5,7bee43d88ddd5717c4059960d4f7abbb,Source: MalwareBazaar
+2024-01-08,Payload installation,sha1,51768285fb6047a523af3d28e3e8601fa17a181d,Source: MalwareBazaar
+2024-01-08,Payload installation,sha256,913377afa6c3d7afb49a491f830d52a33353349819f0e91157a01dc8336ac5b3,Source: MalwareBazaar

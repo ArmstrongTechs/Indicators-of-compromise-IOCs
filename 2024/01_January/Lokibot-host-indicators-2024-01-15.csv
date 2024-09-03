@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-01-15]
+| UUID: 6f6140cb-9776-42ec-b44b-e0d9997128fe
+| Date: 2024-01-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-16,Payload installation,filename,df93471f10398d10b7a88e0838afb71e.exe,Source: MalwareBazaar
+2024-01-16,Payload installation,md5,df93471f10398d10b7a88e0838afb71e,Source: MalwareBazaar
+2024-01-16,Payload installation,sha1,6a8cf5791eac88359d59d10692ca870e1a2c7989,Source: MalwareBazaar
+2024-01-16,Payload installation,sha256,8acc497c4f5e17c688e441b9358d68af2dd9cdeb9e68ecca9b2929b839acd278,Source: MalwareBazaar
+2024-01-16,Payload installation,filename,Arrival notice.xls,Source: MalwareBazaar
+2024-01-16,Payload installation,md5,4e1a607e7ba84ecb2d824d5665b3ec83,Source: MalwareBazaar
+2024-01-16,Payload installation,sha1,1298a37fcf58abe45a68620aed9232cf5ccd402b,Source: MalwareBazaar
+2024-01-16,Payload installation,sha256,125fad3a26c09faf2d7e7ecb1a9e3f03c35489af0569c2516d73a336d52cc8e9,Source: MalwareBazaar
+2024-01-16,Payload installation,filename,SecuriteInfo.com.NSIS.Injector.0195.tr.9123.24053,Source: MalwareBazaar
+2024-01-16,Payload installation,md5,784559c7325bfc51b99ef299c4279d10,Source: MalwareBazaar
+2024-01-16,Payload installation,sha1,c6026a52bd9d9cc43e8a8329c0ad8d27fb85b806,Source: MalwareBazaar
+2024-01-16,Payload installation,sha256,8edf819407d74e9d1e0bbfa4f77d4266f358f67290c28f64295cff2ba74336d5,Source: MalwareBazaar

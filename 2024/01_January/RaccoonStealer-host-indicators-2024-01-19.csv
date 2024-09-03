@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: RaccoonStealer host indicators [2024-01-19]
+| UUID: d8865d25-5d38-42fe-9102-a9d66eab8060
+| Date: 2024-01-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-19,Payload installation,filename,file,Source: MalwareBazaar
+2024-01-19,Payload installation,md5,eb9d1132e0c967a623fd5d9ebd53d109,Source: MalwareBazaar
+2024-01-19,Payload installation,sha1,c0f5221c4a4d1d75eb7bbb39f9f9b66bb868d615,Source: MalwareBazaar
+2024-01-19,Payload installation,sha256,65a4b913f32f1c9567ec8468ae9689c5b900c54843fab84cdfab441986a5519b,Source: MalwareBazaar

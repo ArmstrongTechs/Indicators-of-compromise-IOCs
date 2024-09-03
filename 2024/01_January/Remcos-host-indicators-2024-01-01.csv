@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-01-01]
+| UUID: 15def03a-2595-4236-afab-a614fd0af5d3
+| Date: 2024-01-01
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-02,Payload installation,filename,KartalPE.dll,Source: MalwareBazaar
+2024-01-02,Payload installation,md5,7204e1344c4569f47991c3e769a78e79,Source: MalwareBazaar
+2024-01-02,Payload installation,sha1,e728d37c1266de90ba96cb13c06aaa9bab02e861,Source: MalwareBazaar
+2024-01-02,Payload installation,sha256,85914b238a5e984b8075c722ef7104172dd8dc53852fad4d8b29e3c3b165bae8,Source: MalwareBazaar

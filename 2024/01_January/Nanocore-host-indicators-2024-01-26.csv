@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Nanocore host indicators [2024-01-26]
+| UUID: 12145ded-4fed-42eb-be7d-7c83b657cb78
+| Date: 2024-01-26
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-26,Payload installation,filename,quotation.scr.exe,Source: MalwareBazaar
+2024-01-26,Payload installation,md5,38699281db788537bea1ce577eb81ea9,Source: MalwareBazaar
+2024-01-26,Payload installation,sha1,39e11046b7c615a047875ca3a0eafd20d583d693,Source: MalwareBazaar
+2024-01-26,Payload installation,sha256,9598d353175682d82d7bbe9eca3d48c97552db2718e77007601f80541b7c8afb,Source: MalwareBazaar
+2024-01-26,Payload installation,filename,gunzipped.exe,Source: MalwareBazaar
+2024-01-26,Payload installation,md5,1dc228ba3845e137debb24d881737242,Source: MalwareBazaar
+2024-01-26,Payload installation,sha1,00af545608674da686d9d84adf056d1c26d8e0fb,Source: MalwareBazaar
+2024-01-26,Payload installation,sha256,4ba298859e61cb9c39d9d4a4d556fe6357ce0901d5d4ac6f78e6e15ced75cccb,Source: MalwareBazaar

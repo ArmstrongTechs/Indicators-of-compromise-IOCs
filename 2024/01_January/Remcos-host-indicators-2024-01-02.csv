@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-01-02]
+| UUID: c7ea778d-f265-4f0b-89c3-75161adfcc7c
+| Date: 2024-01-02
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-02,Payload installation,filename,rfq_new_order_sheet_2024_PO_NoRZODOSKY00000.vbs,Source: MalwareBazaar
+2024-01-02,Payload installation,md5,87982f1f940cc4ad215ce2dd3fe45678,Source: MalwareBazaar
+2024-01-02,Payload installation,sha1,ab69b4663d660eefd6bae607b5f471761c90d934,Source: MalwareBazaar
+2024-01-02,Payload installation,sha256,05f0ff8b8b6a8040947d1e42e4dc6ee89b109634afbd957279a36f758f33067a,Source: MalwareBazaar

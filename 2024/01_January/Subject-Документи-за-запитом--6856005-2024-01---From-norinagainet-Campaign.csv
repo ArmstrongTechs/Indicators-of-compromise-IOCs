@@ -1,0 +1,107 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Документи за запитом: № 6856005 /2024-01 - From: nori@nagai.net"" Campaign"
+| UUID: 85bc0362-8118-4c7b-80ca-d047f6e939f8
+| Date: 2024-01-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-29,Payload delivery,email-src,nori@nagai.net,Source email: from nori@nagai.net - subject: Документи за запитом: № 6856005 /2024-01
+2024-01-29,Payload delivery,email-src-display-name,Захарко Живослав Артемович,Source email: from nori@nagai.net - subject: Документи за запитом: № 6856005 /2024-01
+2024-01-29,Payload delivery,email-body,"Доброго дня, на Ваш запит надсилаю, документи . Прошу повідомити вхідний номер реєстрації прийому кореспонденції.
+ 
+З повагою,
+Мобілізаційний відділ
+Захарко Живослав Артемович",Source email: from nori@nagai.net - subject: Документи за запитом: № 6856005 /2024-01
+2024-01-29,Payload delivery,email-subject,Документи за запитом: № 6856005 /2024-01,Source: from nori@nagai.net - subject: Документи за запитом: № 6856005 /2024-01
+2024-01-29,Payload delivery,filename|sha256,doc_scan.zip|ce3445a8bd61a791913bc2cb02bcb3dea9fc340bf1c984c40cb33ab1a91a2953,Malspam attachment - source: from nori@nagai.net - subject: Документи за запитом: № 6856005 /2024-01 mime: application/zip
+2024-01-29,Payload delivery,filename|ssdeep,doc_scan.zip|24576:ViYuDezKlmZdEwZXXiKNdebbX+p6fNXYiHQyvLqlkFVx:oYuDulPEiXqDIivvLqlAx,Malspam attachment - source: from nori@nagai.net - subject: Документи за запитом: № 6856005 /2024-01 mime: application/zip
+2024-01-29,Payload delivery,filename|sha1,doc_scan.zip|2d87f870cf9508225b07ec61e8a1f73c0853c99a,Malspam attachment - source: from nori@nagai.net - subject: Документи за запитом: № 6856005 /2024-01 mime: application/zip
+2024-01-29,Payload delivery,filename|sha512,doc_scan.zip|dd2cd5adcaed2b864979f7cc3d29a9bf9a4ff826b7050449a97fad8ba0ad139b9d38e4cf900bb2ed1d8fac7d9586dde3dc8777a02744e20a4ac8eb92cc6bde0a,Malspam attachment - source: from nori@nagai.net - subject: Документи за запитом: № 6856005 /2024-01 mime: application/zip
+2024-01-29,Payload delivery,filename|md5,doc_scan.zip|972c4bbf96f756e34689d9c8ebf41105,Malspam attachment - source: from nori@nagai.net - subject: Документи за запитом: № 6856005 /2024-01 mime: application/zip
+2024-01-29,Payload delivery,filename|sha256,scan_word.pdf.part1.rar|56e71ade8e141a6f03b7cdd4c9cfe5543362c7ce66cb416f156580a048383011,Archive contents - source: doc_scan.zip mime: application/x-rar
+2024-01-29,Payload delivery,filename|ssdeep,scan_word.pdf.part1.rar|12288:xqUZAruXak69TJ9vit2SveZrdEwnZp7PnyLTCZVm:4iYuDezKlmZdEwZX,Archive contents - source: doc_scan.zip mime: application/x-rar
+2024-01-29,Payload delivery,filename|sha1,scan_word.pdf.part1.rar|244343eeb885b3a822fc6a25aa627587c81da847,Archive contents - source: doc_scan.zip mime: application/x-rar
+2024-01-29,Payload delivery,filename|sha512,scan_word.pdf.part1.rar|46f0d57b7c8586b7fa4a50d0a2c455d4d0768ce69ef230d031e2212d0339561d78f31ccac07619be81f2dd9414c596d62ee1496108ef7ed84ee1608f61fca413,Archive contents - source: doc_scan.zip mime: application/x-rar
+2024-01-29,Payload delivery,filename|md5,scan_word.pdf.part1.rar|cfd7e5998afa0819b2ffb50c77bad57d,Archive contents - source: doc_scan.zip mime: application/x-rar
+2024-01-29,Payload delivery,filename|sha256,scan_word.pdf.part2.rar|aa44cf74eb3d0a327b89d42df9ca61e0e4c615381dfa049631dc1d7d519547c7,Archive contents - source: doc_scan.zip mime: application/x-rar
+2024-01-29,Payload delivery,filename|ssdeep,scan_word.pdf.part2.rar|12288:USW0vKNdebaM0wbjrr+2WYKb6fNXHYN0eaHQ:uiKNdebbX+p6fNXYiHQ,Archive contents - source: doc_scan.zip mime: application/x-rar
+2024-01-29,Payload delivery,filename|sha1,scan_word.pdf.part2.rar|b77ae807e79158f0891e0d8fe16865b7ecddc80e,Archive contents - source: doc_scan.zip mime: application/x-rar
+2024-01-29,Payload delivery,filename|sha512,scan_word.pdf.part2.rar|269c0ee9da53d648df66f01d0f02c96f9d02b01e7b43275f6112bcf09d86d0678776bf1deb4ec5a8106901614dcd6c0b3840d015ca4307d52443383b788508ff,Archive contents - source: doc_scan.zip mime: application/x-rar
+2024-01-29,Payload delivery,filename|md5,scan_word.pdf.part2.rar|49c533f84b271dc40ca76482ddd4db8b,Archive contents - source: doc_scan.zip mime: application/x-rar
+2024-01-29,Payload delivery,filename|sha256,scan_word.pdf.part3.rar|eb6ca1d1021b1e49b593551309cbe3b95c3739700e6e8e2ce287faf68087b0b6,Archive contents - source: doc_scan.zip mime: application/x-rar
+2024-01-29,Payload delivery,filename|ssdeep,scan_word.pdf.part3.rar|3072:bQWbfrZ8Ggos6dyStpo43dMRH57E4F4R4nMCkyXGCrKLIyYsbKYzM:bQ+DZrdyStpogMjEqMcz2LIyV23,Archive contents - source: doc_scan.zip mime: application/x-rar
+2024-01-29,Payload delivery,filename|sha1,scan_word.pdf.part3.rar|f54e7d1c0d1e9afd9b58fef4fba8b4daa496a779,Archive contents - source: doc_scan.zip mime: application/x-rar
+2024-01-29,Payload delivery,filename|sha512,scan_word.pdf.part3.rar|e6502b6f5373e60d54b0e01b5e4b0f3712fb46ff71c44ad20ebcfdb0e4288214fc5af38f6f83fdfc3921eadf6074ac387ffe52ce61f1ba0107098a13ebfd736f,Archive contents - source: doc_scan.zip mime: application/x-rar
+2024-01-29,Payload delivery,filename|md5,scan_word.pdf.part3.rar|872bd37cf7acaffaadb6de8f0859e767,Archive contents - source: doc_scan.zip mime: application/x-rar
+2024-01-29,Payload delivery,filename|sha256,"""Код 2024.txt.txt'""|d51bb8b70a792fe7bffc023b7d6b081a66dadc22ff58caa7c24ce786b75c0ba9",Archive contents - source: doc_scan.zip mime: text/plain
+2024-01-29,Payload delivery,filename|ssdeep,"""Код 2024.txt.txt'""|6:oqO0qRAEZIZmKXEYVye01v1LZQAfYzenRR3nB:VlE5sEYc1v1VQAfYzORR3B",Archive contents - source: doc_scan.zip mime: text/plain
+2024-01-29,Payload delivery,filename|sha1,"""Код 2024.txt.txt'""|3f9ed1c8fe4b3ff602a835af88c4c3f7f4ec0cdf",Archive contents - source: doc_scan.zip mime: text/plain
+2024-01-29,Payload delivery,filename|sha512,"""Код 2024.txt.txt'""|b9d58ea08b09723bd9c853c188847f5c86121bce03657ff0cbbe2cc52168a2f8485bbb3157e04f7ffe80c62cfc04872ffbd18b3d100034bfcc056af3d9befdfb",Archive contents - source: doc_scan.zip mime: text/plain
+2024-01-29,Payload delivery,filename|md5,"""Код 2024.txt.txt'""|9a526d384e22747a9229c42e8da97e53",Archive contents - source: doc_scan.zip mime: text/plain
+2024-01-29,Payload delivery,filename|imphash,Appointed.pif|cb0b7e6e83da063fd7c111542603cca4,"Created from files Swedish, Pointing, Gotta, Tiles and Curves; AutoIt v3 Script (Beta); mime: application/x-dosexec"
+2024-01-29,Payload delivery,filename|md5,Appointed.pif|848164d084384c49937f99d5b894253e,"Created from files Swedish, Pointing, Gotta, Tiles and Curves; AutoIt v3 Script (Beta); mime: application/x-dosexec"
+2024-01-29,Payload delivery,filename|sha1,Appointed.pif|3055ef803eeec4f175ebf120f94125717ee12444,"Created from files Swedish, Pointing, Gotta, Tiles and Curves; AutoIt v3 Script (Beta); mime: application/x-dosexec"
+2024-01-29,Payload delivery,filename|sha256,Appointed.pif|f58d3a4b2f3f7f10815c24586fae91964eeed830369e7e0701b43895b0cefbd3,"Created from files Swedish, Pointing, Gotta, Tiles and Curves; AutoIt v3 Script (Beta); mime: application/x-dosexec"
+2024-01-29,Payload delivery,filename|sha512,Appointed.pif|aabe1cf076f48f32542f49a92e4ca9f054b31d5a9949119991b897b9489fe775d8009896408ba49ac43ec431c87c0d385daead9dbbde7ef6309b0c97bbaf852a,"Created from files Swedish, Pointing, Gotta, Tiles and Curves; AutoIt v3 Script (Beta); mime: application/x-dosexec"
+2024-01-29,Payload delivery,filename|ssdeep,Appointed.pif|24576:LOo8pEnK4mrqlEZuVZ2HOI+X0l1lMZyYFaeBmyF:LF8p4KpqlEZeXI+X0TVcae3F,"Created from files Swedish, Pointing, Gotta, Tiles and Curves; AutoIt v3 Script (Beta); mime: application/x-dosexec"
+2024-01-29,Payload delivery,filename|md5,Curves|e66c8890c2eb6adba5948d082bd215a6,Extracted from scan_word.pdf.exe; mime: application/octet-stream
+2024-01-29,Payload delivery,filename|sha1,Curves|93a813794b38b728c8a6248c64221a419b026ce4,Extracted from scan_word.pdf.exe; mime: application/octet-stream
+2024-01-29,Payload delivery,filename|sha256,Curves|99e62c44a3dbf370201324564c94be16ffb81b29c543ec5fd6f14e1a3be75e1a,Extracted from scan_word.pdf.exe; mime: application/octet-stream
+2024-01-29,Payload delivery,filename|sha512,Curves|9b7546cee1ba82ff4db0a3598098be91bbd114e4a80116b15ac9ea106fa881b201eee6dda4ee91b2d917ecaab5bc2327dcd34047c60f122f6e0fdacb79e49d17,Extracted from scan_word.pdf.exe; mime: application/octet-stream
+2024-01-29,Payload delivery,filename|ssdeep,Curves|3072:66jKj+wsxjgarB3RZgDWy4ZNogXJ3i2Umb2Oq:664EgarxUaBZ2myoG,Extracted from scan_word.pdf.exe; mime: application/octet-stream
+2024-01-29,Payload delivery,filename|md5,Found|92adb0bcbe73ba9f6c391f2f27625b94,Extracted from scan_word.pdf.exe; mime: text/plain
+2024-01-29,Payload delivery,filename|sha1,Found|69e44431f70f932c8fa9552a5a4a637dfa55f386,Extracted from scan_word.pdf.exe; mime: text/plain
+2024-01-29,Payload delivery,filename|sha256,Found|32f117f4f77e8f51dfb8e95b021ccd59cf43fa7157365a5e51b0973f8643de10,Extracted from scan_word.pdf.exe; mime: text/plain
+2024-01-29,Payload delivery,filename|sha512,Found|0226d471c75f848e5465b9779bede1322b046288e8c4f29f34a52867cb6d8a72bbfc8c9980881e50c21d8aef1c7c3622a1b5f3fa6f2509e2c4a9b55266e5cb46,Extracted from scan_word.pdf.exe; mime: text/plain
+2024-01-29,Payload delivery,filename|ssdeep,Found|6144:jre5lqS2w/S06gUj6FTwdbOZLafo+/VtnqNhmIC:jrMfTmC0fo+/VNiQ,Extracted from scan_word.pdf.exe; mime: text/plain
+2024-01-29,Payload delivery,filename|md5,Gotta|4b090b3cc82489a964c6e67a4c9d3d69,Extracted from scan_word.pdf.exe; mime: application/octet-stream
+2024-01-29,Payload delivery,filename|sha1,Gotta|1deffd6c5556aed0b4ddff4eb1189cb15bfa5bc4,Extracted from scan_word.pdf.exe; mime: application/octet-stream
+2024-01-29,Payload delivery,filename|sha256,Gotta|39b309fcddcdd450263d0606143d3ccba923b987a985b3988e55e40cfc66233e,Extracted from scan_word.pdf.exe; mime: application/octet-stream
+2024-01-29,Payload delivery,filename|sha512,Gotta|3502284f45ae95a8e8a9aa83ad78011dc2777065b3e274706707d909f9408719f8897c5d63585b706463f15d4e0b83fc7827bb1a710382a031d545e25a2bfb4a,Extracted from scan_word.pdf.exe; mime: application/octet-stream
+2024-01-29,Payload delivery,filename|ssdeep,Gotta|6144:H5nZ2tZ6lfA6Gfm608DsvqJX4xNAB+xHFq9q:H5Z2tZ6XKmNvqJWNAB+r,Extracted from scan_word.pdf.exe; mime: application/octet-stream
+2024-01-29,Payload delivery,filename|md5,Impressed|f6fbfbca74295a2aa2c2fc7f15f162fe,Extracted from scan_word.pdf.exe; mime: text/plain
+2024-01-29,Payload delivery,filename|sha1,Impressed|3ac5c7a0d89cb79ebe7a126dcbaa328234d229c2,Extracted from scan_word.pdf.exe; mime: text/plain
+2024-01-29,Payload delivery,filename|sha256,Impressed|b088f39832bacbb97f18e163abb9d4d3aba457101906f86f5afa87f3240611c4,Extracted from scan_word.pdf.exe; mime: text/plain
+2024-01-29,Payload delivery,filename|sha512,Impressed|a9d63168c5cb3f9fb2ea1daf52f57b2efb2cecd278edaa437476e105586401a7fcce2a65eea7c9e4db2e385c65a83f8c75cac38751d2ff6435904b15ca91be9d,Extracted from scan_word.pdf.exe; mime: text/plain
+2024-01-29,Payload delivery,filename|ssdeep,Impressed|192:EixwR1bRQdNzq8HONkX0BMVJlMrKWD1WKWDM:mR1dAq8hX5C,Extracted from scan_word.pdf.exe; mime: text/plain
+2024-01-29,Payload delivery,filename|md5,Kinds|902bc8dfc432f3e9f06079a0a561b2e1,Extracted from scan_word.pdf.exe; mime: text/plain
+2024-01-29,Payload delivery,filename|sha1,Kinds|379bb0d6fddd0dc0ff9f2da83d95ec26cd16009a,Extracted from scan_word.pdf.exe; mime: text/plain
+2024-01-29,Payload delivery,filename|sha256,Kinds|d027275d47004f7b3c06ed5b97ed15dd250b33f58a004c21ccab37732748c40f,Extracted from scan_word.pdf.exe; mime: text/plain
+2024-01-29,Payload delivery,filename|sha512,Kinds|16d867f8449b847959b9fa42b8978edf3e2d42559dee1024eff23903eb74a8fb42179121f4866025df4b6631314b13b904931278a3d7b9a1a471b5b6e5d0b08f,Extracted from scan_word.pdf.exe; mime: text/plain
+2024-01-29,Payload delivery,filename|ssdeep,Kinds|768:oWPgSyUvvRDuVTkj6FuBHt090ew8FuM4MalxZHayN4Af+EAheI/cL3L:o6gSyqwo+0BN0yb8F6xmheIyL,Extracted from scan_word.pdf.exe; mime: text/plain
+2024-01-29,Payload delivery,filename|md5,Med|816953f1ecb70ce5555af02a155a7c09,Extracted from scan_word.pdf.exe; mime: text/plain
+2024-01-29,Payload delivery,filename|sha1,Med|ad4a9521a762b75faa1271bf93353a1abcd1140b,Extracted from scan_word.pdf.exe; mime: text/plain
+2024-01-29,Payload delivery,filename|sha256,Med|a98a852db65e5728d477cd6456b1d68d3d253b6101e4c1c62392cd6df477a3c7,Extracted from scan_word.pdf.exe; mime: text/plain
+2024-01-29,Payload delivery,filename|sha512,Med|00ad0d53ef854694744a1a053f6a3c60c31f89c611aadb759371e25d4345bf5132637c201ce0ff037e50739b8767a8da948e910db874ef1fcc8b4f8cf462dc66,Extracted from scan_word.pdf.exe; mime: text/plain
+2024-01-29,Payload delivery,filename|ssdeep,Med|6144:LaBNkHLwslJu3hoTuSI/AS0Keqwjs29Rs89Cf:IkHs+JuxlS+A/qwA29O89K,Extracted from scan_word.pdf.exe; mime: text/plain
+2024-01-29,Payload delivery,filename|md5,Pointing|147e7f74b55d9a086336d9539ad123af,Extracted from scan_word.pdf.exe; mime: application/octet-stream
+2024-01-29,Payload delivery,filename|sha1,Pointing|6d5943c20d7a608a9af93b4865b77e847167b9fc,Extracted from scan_word.pdf.exe; mime: application/octet-stream
+2024-01-29,Payload delivery,filename|sha256,Pointing|bbd5a4a14168a8626484fc45bad90f972f02b38fcd0556b47b8ff8adcdb66886,Extracted from scan_word.pdf.exe; mime: application/octet-stream
+2024-01-29,Payload delivery,filename|sha512,Pointing|b454fef591acb9c54930ec99386e10d4e7fd4e79a6da073f1b2a5cc18566368a77265556fb98af63e38afe48c01c4fb54400d5582bad4fc16d6178f6362806a1,Extracted from scan_word.pdf.exe; mime: application/octet-stream
+2024-01-29,Payload delivery,filename|ssdeep,Pointing|6144:VgwU0Wyw3mFygyE4mqd12lqlEAehuqN8zwNzlmhPL1r:ar0Wyw20K4mqClqlEZuB1r,Extracted from scan_word.pdf.exe; mime: application/octet-stream
+2024-01-29,Payload delivery,filename|md5,Swedish|186259aa8dcd42b70797b98a38e3abd3,Extracted from scan_word.pdf.exe; mime: application/x-dosexec
+2024-01-29,Payload delivery,filename|sha1,Swedish|8c4c235e0d6be758b9dd7d436bb72099af32ee8c,Extracted from scan_word.pdf.exe; mime: application/x-dosexec
+2024-01-29,Payload delivery,filename|sha256,Swedish|f5c5435ccecb6c6604b5fbb332e3ee1a1d6ff33326ecb779f2a0bed258a88be3,Extracted from scan_word.pdf.exe; mime: application/x-dosexec
+2024-01-29,Payload delivery,filename|sha512,Swedish|563a6470a5fcea3aad83cdce346ba26db9a5206d876436ce852687dc6aa3418f343280c9939bcb05a10f8946819d99509c708b930a57cb1470b1f47c74463622,Extracted from scan_word.pdf.exe; mime: application/x-dosexec
+2024-01-29,Payload delivery,filename|ssdeep,Swedish|3072:pPpU08BjlWTPJth26X7Sn4UfpLUNN9t68cCWlrss4e:LQBk7JjX74cN0lrz/,Extracted from scan_word.pdf.exe; mime: application/x-dosexec
+2024-01-29,Payload delivery,filename|md5,Tiles|4f379c858c6357ae64b1b9fa7b02a19d,Extracted from scan_word.pdf.exe; mime: application/octet-stream
+2024-01-29,Payload delivery,filename|sha1,Tiles|2ed87d3045dcc0d6e306893ccd42b78805e2b916,Extracted from scan_word.pdf.exe; mime: application/octet-stream
+2024-01-29,Payload delivery,filename|sha256,Tiles|5397fca4e74c40f8a0aa713844fda044f6b5c5559425fbbb1155b2cb59f985a0,Extracted from scan_word.pdf.exe; mime: application/octet-stream
+2024-01-29,Payload delivery,filename|sha512,Tiles|413d12283c81c70436e4c6d0a891a34c941a18617fc9eaa2a3c24353f9778f6646f2d9b946fd5fe870ca539221e07e31d78640eb1f581740e0ef6781513eee57,Extracted from scan_word.pdf.exe; mime: application/octet-stream
+2024-01-29,Payload delivery,filename|ssdeep,Tiles|3072:D0ltj0EowPOGU6WS2uLhxjRYH/fA9vtqmcCVs5A3q5eAg0Fuz08XvBNbIaAtbPi:D0lHPOGUWLhxjRYmFqZvEAOz04pmdVq,Extracted from scan_word.pdf.exe; mime: application/octet-stream
+2024-01-29,Payload delivery,filename|md5,a|76ed908e14fced8512c3979445f83d82,"Created from files Found, Med and Kinds; mime: text/plain"
+2024-01-29,Payload delivery,filename|sha1,a|1f04df524703f5a034993e9dd5bd07b6a0899f8a,"Created from files Found, Med and Kinds; mime: text/plain"
+2024-01-29,Payload delivery,filename|sha256,a|ddb4e7bd2fe1117d13547d715edc5578f01741d16c4bcd8a2ecb6d5836f4b94a,"Created from files Found, Med and Kinds; mime: text/plain"
+2024-01-29,Payload delivery,filename|sha512,a|fd57ce1036d5143e9bb0d7a162bcc056772d940eb24b830d3512ab5968ab8d897325bf4fb5b8b3d9ca1347d26b11af74ffe19da13a25fb7499a9c300051d903e,"Created from files Found, Med and Kinds; mime: text/plain"
+2024-01-29,Payload delivery,filename|ssdeep,a|12288:jrMfTmC0fo+/VNihkHs+JuxlS+A/qwA29O896N+A:P0mHomiWHsv3K/qwWk6NV,"Created from files Found, Med and Kinds; mime: text/plain"
+2024-01-29,Network activity,domain,crisisestimatehealtwh.site,Source: Network activity from Appointed.pif a
+2024-01-29,Network activity,url,https://crisisestimatehealtwh.site/,Source: Network activity from Appointed.pif a; C2
+2024-01-29,Payload delivery,filename|imphash,scan_word.pdf.exe|3aa346d8709331035c6d7460981619af,Extracted from scan_word.pdf.part1.rar and scan_word.pdf.part2.rar and scan_word.pdf.part3.rar; mime: application/x-dosexec
+2024-01-29,Payload delivery,filename|md5,scan_word.pdf.exe|fcc897939f337b97a78d541a94e34303,Extracted from scan_word.pdf.part1.rar and scan_word.pdf.part2.rar and scan_word.pdf.part3.rar; mime: application/x-dosexec
+2024-01-29,Payload delivery,filename|sha1,scan_word.pdf.exe|5906e6d4d11804b0ad06c20e1817026aafb014a0,Extracted from scan_word.pdf.part1.rar and scan_word.pdf.part2.rar and scan_word.pdf.part3.rar; mime: application/x-dosexec
+2024-01-29,Payload delivery,filename|sha256,scan_word.pdf.exe|6a7afd800f236e6bf6cdaa2fc93869daade49c2b5698bbb39c3d8ecc13d0fd9c,Extracted from scan_word.pdf.part1.rar and scan_word.pdf.part2.rar and scan_word.pdf.part3.rar; mime: application/x-dosexec
+2024-01-29,Payload delivery,filename|sha512,scan_word.pdf.exe|6b1be7426015c8c8d60ef491623c84287a908925cc5e86c5424e531ef35bd16e2a30a5527cca31d2f8e91c1ed57dd89cbe9ca0e12600d4587c496565d9cd2fa0,Extracted from scan_word.pdf.part1.rar and scan_word.pdf.part2.rar and scan_word.pdf.part3.rar; mime: application/x-dosexec
+2024-01-29,Payload delivery,filename|ssdeep,scan_word.pdf.exe|24576:M+O08Sh4J81pcXgYlzJd2TJHZl6eM8zV440wYZbTdUsKcQTzcQz8kIBG+YMU0GXw:8tzJwT7VoBTdUBPFAHc2,Extracted from scan_word.pdf.part1.rar and scan_word.pdf.part2.rar and scan_word.pdf.part3.rar; mime: application/x-dosexec

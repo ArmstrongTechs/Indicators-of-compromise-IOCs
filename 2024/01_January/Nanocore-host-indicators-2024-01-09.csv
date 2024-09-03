@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Nanocore host indicators [2024-01-09]
+| UUID: 2c426c61-c867-48e2-9625-6560bec77178
+| Date: 2024-01-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-10,Payload installation,filename,S1yVbCSezDHLk4s.exe,Source: MalwareBazaar
+2024-01-10,Payload installation,md5,822d3d6525e20cf06d79a82ef58a5297,Source: MalwareBazaar
+2024-01-10,Payload installation,sha1,5dc805f6b50956c6ab41bae5cba483c727435fcb,Source: MalwareBazaar
+2024-01-10,Payload installation,sha256,6ff9daa15f841bf3600d5a9174ab11b921ca8e8f1c9017a1c18afeb514c0f72e,Source: MalwareBazaar

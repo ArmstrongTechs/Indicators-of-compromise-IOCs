@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-01-30]
+| UUID: 507a4d32-1856-4646-a372-9c71f09248ef
+| Date: 2024-01-30
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-30,Payload installation,filename,Remittance CopyXLS.exe,Source: MalwareBazaar
+2024-01-30,Payload installation,md5,ed014824e2e3caa1cb6258e96ba89fa1,Source: MalwareBazaar
+2024-01-30,Payload installation,sha1,10f5a52982953d002cc23ddc42fe2f0771ad39ad,Source: MalwareBazaar
+2024-01-30,Payload installation,sha256,5f340e428427104f5c36f7c14d7a1f9cb81e62055c4d9664d5f894073a627192,Source: MalwareBazaar

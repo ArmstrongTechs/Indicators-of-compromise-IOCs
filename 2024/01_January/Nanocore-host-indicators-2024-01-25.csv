@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Nanocore host indicators [2024-01-25]
+| UUID: d2730a37-f556-4fb1-8b06-aae82bc4371e
+| Date: 2024-01-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-25,Payload installation,filename,Request For Quotation.scr.exe,Source: MalwareBazaar
+2024-01-25,Payload installation,md5,c6887a484d020149fd2cb421fd69cc2d,Source: MalwareBazaar
+2024-01-25,Payload installation,sha1,b5e80f2574a75cc8918965392287244dc9ef8d8b,Source: MalwareBazaar
+2024-01-25,Payload installation,sha256,4e31d493a6e64c76ff10026b147f95c6f2982860609803d88c8738a26fa3309f,Source: MalwareBazaar
+2024-01-25,Payload installation,filename,PO17276.xlsx,Source: MalwareBazaar
+2024-01-25,Payload installation,md5,8a2d5ad778a0b2c34bde0456319def1f,Source: MalwareBazaar
+2024-01-25,Payload installation,sha1,8de490068af01f3e130c6e7b542eb64297580177,Source: MalwareBazaar
+2024-01-25,Payload installation,sha256,8c3486d9911a83c4c909ec272c6faae3975ba541a3dcfd4eba6e4e29f40f7c74,Source: MalwareBazaar
+2024-01-26,Payload installation,filename,konotaverse2.1.exe,Source: MalwareBazaar
+2024-01-26,Payload installation,md5,e646eccc6a2a4ae885d9d96e8fa83926,Source: MalwareBazaar
+2024-01-26,Payload installation,sha1,5b1c47f1964855303b6de48e224e9baa8a9ae236,Source: MalwareBazaar
+2024-01-26,Payload installation,sha256,00e69bcba637723de4f9a380800be9b813def689a4d150e0879ef43e3c613361,Source: MalwareBazaar
+2024-01-26,Payload installation,filename,649C1188904EC9BAE793C1EA3BAC0F89.exe,Source: MalwareBazaar
+2024-01-26,Payload installation,md5,649c1188904ec9bae793c1ea3bac0f89,Source: MalwareBazaar
+2024-01-26,Payload installation,sha1,2f0dd0cce9a9b60721f3053f6a194ce9caf9b633,Source: MalwareBazaar
+2024-01-26,Payload installation,sha256,9d381423ee9f27108e8df36d255f1cfa33e6873ab0d7827d72b47d548293024b,Source: MalwareBazaar

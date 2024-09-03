@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-01-10]
+| UUID: 6d81bae1-701e-43a9-a7e4-ab821c571fe9
+| Date: 2024-01-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-10,Payload installation,filename,SHIPMENT DHL DOC IMG010342024.exe,Source: MalwareBazaar
+2024-01-10,Payload installation,md5,56beb6709b0a9e5d6536aa9bd8233fc3,Source: MalwareBazaar
+2024-01-10,Payload installation,sha1,6b92fcadd893570f4c5dca4e37b5316024ca09ea,Source: MalwareBazaar
+2024-01-10,Payload installation,sha256,50933a6f60adfa71021386f9060bd9134b9023713ac2f38ec1587b6967442417,Source: MalwareBazaar

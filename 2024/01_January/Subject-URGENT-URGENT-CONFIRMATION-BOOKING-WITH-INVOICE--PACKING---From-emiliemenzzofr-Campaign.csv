@@ -1,0 +1,40 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: URGENT URGENT CONFIRMATION BOOKING WITH INVOICE & PACKING - From: emilie@menzzo.fr"" Campaign"
+| UUID: 37553bb9-1543-4c43-b371-d76ab6541836
+| Date: 2024-01-09
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-09,Payload delivery,email-src,emilie@menzzo.fr,Source email: from emilie@menzzo.fr - subject: URGENT URGENT CONFIRMATION BOOKING WITH INVOICE & PACKING
+2024-01-09,Payload delivery,email-src-display-name,Emilie Levy,Source email: from emilie@menzzo.fr - subject: URGENT URGENT CONFIRMATION BOOKING WITH INVOICE & PACKING
+2024-01-09,Payload delivery,email-body,Dear iod,Source email: from emilie@menzzo.fr - subject: URGENT URGENT CONFIRMATION BOOKING WITH INVOICE & PACKING
+2024-01-09,Payload delivery,email-subject,URGENT URGENT CONFIRMATION BOOKING WITH INVOICE & PACKING,Source: from emilie@menzzo.fr - subject: URGENT URGENT CONFIRMATION BOOKING WITH INVOICE & PACKING
+2024-01-09,Payload delivery,filename|sha256,BOOKING WITH INVOICE & PACKING.pdf.img|fb30e95e9263558a8bc5a682882c25e56f5aa0c5e03ff380dc38ec6560d119db,Malspam attachment - source: from emilie@menzzo.fr - subject: URGENT URGENT CONFIRMATION BOOKING WITH INVOICE & PACKING mime: application/x-iso9660-image
+2024-01-09,Payload delivery,filename|ssdeep,BOOKING WITH INVOICE & PACKING.pdf.img|12288:eVKiZeA57o7gzlkvsL2c9L5uzYuYZkfWMyG+XSkISsaui/P/H:eMikgHpn+zZY2fWMyGpSZui3v,Malspam attachment - source: from emilie@menzzo.fr - subject: URGENT URGENT CONFIRMATION BOOKING WITH INVOICE & PACKING mime: application/x-iso9660-image
+2024-01-09,Payload delivery,filename|sha1,BOOKING WITH INVOICE & PACKING.pdf.img|70e4d9ddce697829389607e2ff0d928f1de1ad75,Malspam attachment - source: from emilie@menzzo.fr - subject: URGENT URGENT CONFIRMATION BOOKING WITH INVOICE & PACKING mime: application/x-iso9660-image
+2024-01-09,Payload delivery,filename|sha512,BOOKING WITH INVOICE & PACKING.pdf.img|702fa1a260d81369d07162a3c4cbd3bc779df98e15db3707b85c13a578418f8118731bd7633977bc9341cce5061341ba0ad1829e99e18ca49758cdc619998248,Malspam attachment - source: from emilie@menzzo.fr - subject: URGENT URGENT CONFIRMATION BOOKING WITH INVOICE & PACKING mime: application/x-iso9660-image
+2024-01-09,Payload delivery,filename|md5,BOOKING WITH INVOICE & PACKING.pdf.img|867756732830d18e9b3536486bd7cf4b,Malspam attachment - source: from emilie@menzzo.fr - subject: URGENT URGENT CONFIRMATION BOOKING WITH INVOICE & PACKING mime: application/x-iso9660-image
+2024-01-09,Payload delivery,filename|sha256,Original Shipping documents.pdf..img|717291dea9df47a17af6cbb7bb89760abfa0d7225c549942ff8b194c8c889131,Malspam attachment - source: from emilie@menzzo.fr - subject: URGENT URGENT CONFIRMATION BOOKING WITH INVOICE & PACKING mime: application/x-iso9660-image
+2024-01-09,Payload delivery,filename|ssdeep,Original Shipping documents.pdf..img|12288:rVKiZeA57o7gzlkvsL2c9L5uzYuYZkfWMyG+XSkISsaui/P/H:rMikgHpn+zZY2fWMyGpSZui3v,Malspam attachment - source: from emilie@menzzo.fr - subject: URGENT URGENT CONFIRMATION BOOKING WITH INVOICE & PACKING mime: application/x-iso9660-image
+2024-01-09,Payload delivery,filename|sha1,Original Shipping documents.pdf..img|7a79ea7885f9f52f6e7a71080f33f331ddc54afe,Malspam attachment - source: from emilie@menzzo.fr - subject: URGENT URGENT CONFIRMATION BOOKING WITH INVOICE & PACKING mime: application/x-iso9660-image
+2024-01-09,Payload delivery,filename|sha512,Original Shipping documents.pdf..img|be242b52ac5a4971cb9573e3207988f4e6304efa618183d55eeae25488dd039f29810f3c398c56c3442f0e96eacada62102b21cded0690921af552fd278d4d8b,Malspam attachment - source: from emilie@menzzo.fr - subject: URGENT URGENT CONFIRMATION BOOKING WITH INVOICE & PACKING mime: application/x-iso9660-image
+2024-01-09,Payload delivery,filename|md5,Original Shipping documents.pdf..img|5fcfd85876691c15dc1fb134afedae86,Malspam attachment - source: from emilie@menzzo.fr - subject: URGENT URGENT CONFIRMATION BOOKING WITH INVOICE & PACKING mime: application/x-iso9660-image
+2024-01-09,Payload delivery,filename|imphash,BOOKING WITH INVOICE & PACKING.pdf.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Extracted from BOOKING WITH INVOICE & PACKING.pdf.img; mime: application/x-dosexec
+2024-01-09,Payload delivery,filename|md5,BOOKING WITH INVOICE & PACKING.pdf.exe|2e3a5e4314b0ea84a21a36303f5d7ee0,Extracted from BOOKING WITH INVOICE & PACKING.pdf.img; mime: application/x-dosexec
+2024-01-09,Payload delivery,filename|sha1,BOOKING WITH INVOICE & PACKING.pdf.exe|1f84a803b0f3e577bf603e9bbec00ad03dc94264,Extracted from BOOKING WITH INVOICE & PACKING.pdf.img; mime: application/x-dosexec
+2024-01-09,Payload delivery,filename|sha256,BOOKING WITH INVOICE & PACKING.pdf.exe|aa29d2e732e21a5c25ec98f04c667008a8ae719a0c9a0458afd8ee9f888987a5,Extracted from BOOKING WITH INVOICE & PACKING.pdf.img; mime: application/x-dosexec
+2024-01-09,Payload delivery,filename|sha512,BOOKING WITH INVOICE & PACKING.pdf.exe|15c2623e2ff61082bd15aca3050afd99e733f2c9e204435aaa84dd5365c122248d7b5de4124b1005f142226e59f72f1d89cade09560068b7144ccf1943929e2e,Extracted from BOOKING WITH INVOICE & PACKING.pdf.img; mime: application/x-dosexec
+2024-01-09,Payload delivery,filename|ssdeep,BOOKING WITH INVOICE & PACKING.pdf.exe|12288:xVKiZeA57o7gzlkvsL2c9L5uzYuYZkfWMyG+XSkISsaui/P/H:xMikgHpn+zZY2fWMyGpSZui3v,Extracted from BOOKING WITH INVOICE & PACKING.pdf.img; mime: application/x-dosexec
+2024-01-09,Payload delivery,filename|imphash,Original Shipping documents.pdf..exe|f34d5f2d4577ed6d9ceec516c1f5a744,Extracted from Original Shipping documents.pdf..img; mime: application/x-dosexec
+2024-01-09,Payload delivery,filename|md5,Original Shipping documents.pdf..exe|2e3a5e4314b0ea84a21a36303f5d7ee0,Extracted from Original Shipping documents.pdf..img; mime: application/x-dosexec
+2024-01-09,Payload delivery,filename|sha1,Original Shipping documents.pdf..exe|1f84a803b0f3e577bf603e9bbec00ad03dc94264,Extracted from Original Shipping documents.pdf..img; mime: application/x-dosexec
+2024-01-09,Payload delivery,filename|sha256,Original Shipping documents.pdf..exe|aa29d2e732e21a5c25ec98f04c667008a8ae719a0c9a0458afd8ee9f888987a5,Extracted from Original Shipping documents.pdf..img; mime: application/x-dosexec
+2024-01-09,Payload delivery,filename|sha512,Original Shipping documents.pdf..exe|15c2623e2ff61082bd15aca3050afd99e733f2c9e204435aaa84dd5365c122248d7b5de4124b1005f142226e59f72f1d89cade09560068b7144ccf1943929e2e,Extracted from Original Shipping documents.pdf..img; mime: application/x-dosexec
+2024-01-09,Payload delivery,filename|ssdeep,Original Shipping documents.pdf..exe|12288:xVKiZeA57o7gzlkvsL2c9L5uzYuYZkfWMyG+XSkISsaui/P/H:xMikgHpn+zZY2fWMyGpSZui3v,Extracted from Original Shipping documents.pdf..img; mime: application/x-dosexec
+2024-01-09,Network activity,url,https://api.ipify.org/,Source: Network activity from BOOKING WITH INVOICE & PACKING.pdf.exe and Original Shipping documents.pdf..exe
+2024-01-09,Network activity,domain,mail.rimiapparelsltd.com,Source: Extracted from static config of BOOKING WITH INVOICE & PACKING.pdf.exe and Original Shipping documents.pdf..exe; data exfiltarion via SMTP
+2024-01-09,Payload delivery,email,esoto@rimiapparelsltd.com,Source: Extracted from static config of BOOKING WITH INVOICE & PACKING.pdf.exe and Original Shipping documents.pdf..exe; data exfiltarion via SMTP
+2024-01-09,Payload delivery,email-dst,daconic@rimiapparelsltd.com,Source: Extracted from static config of BOOKING WITH INVOICE & PACKING.pdf.exe and Original Shipping documents.pdf..exe; data exfiltarion via SMTP

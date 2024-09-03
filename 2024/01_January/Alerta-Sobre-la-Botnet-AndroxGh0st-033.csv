@@ -1,0 +1,42 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Alerta Sobre la Botnet AndroxGh0st-033
+| UUID: 768a3124-db17-45f1-9a20-764d0f0554be
+| Date: 2024-01-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-19,External analysis,attachment,BOLETÍN 033.pdf,Botnet AndroxGh0st
+2024-01-19,Network activity,ip-src,45.95.147.236,
+2024-01-19,Network activity,domain,chainventures.co.uk,
+2024-01-19,Network activity,domain,download.asyncfox.xyz,
+2024-01-19,Network activity,domain,eval-stdin.php.dev,
+2024-01-19,Network activity,domain,main.dsn.ovh,
+2024-01-19,Network activity,domain,mc.rockylinux.si,
+2024-01-19,Network activity,url,https://mc.rockylinux.si/seoforce/triggers/files/evil.txt,
+2024-01-19,Network activity,url,http://116.0.0.0,
+2024-01-19,Network activity,url,http://45.95.147.236/tmp.x86_64,
+2024-01-19,Network activity,url,http://download.asyncfox.xyz/download/xmrig.x86_64,
+2024-01-19,Network activity,url,http://main.dsn.ovh/dns/pwer,
+2024-01-19,Network activity,url,https://chainventures.co.uk/.well-known/aas,
+2024-01-19,Network activity,url,http://raw.githubusercontent.com/0x5a455553/MARIJUANA/master/MARIJUANA.php,
+2024-01-19,Network activity,url,http://tangible-drink.surge.sh/configx.txt,
+2024-01-19,Network activity,url,https://pastebin.com/raw/zw0gAmpC,
+2024-01-19,Payload delivery,md5,1fb78440dc44b0900b27260a16d9771e,
+2024-01-19,Payload delivery,md5,9039ae16e5aaa63d9ffe88dfaf0f5108,
+2024-01-19,Payload delivery,md5,95f745a5db131b1ca34e44848fd52edb,
+2024-01-19,Payload delivery,md5,c1070aca9fcff4a32934e6c8aee4ea48,
+2024-01-19,Payload delivery,sha1,452ec481734a78597b928e29c834d0e43fb2c7e2,
+2024-01-19,Payload delivery,sha1,59ce7486745b08d1adba49f2413133c441194986,
+2024-01-19,Payload delivery,sha1,5fae94432540ade68eabce94140c9a5be153b3c8,
+2024-01-19,Payload delivery,sha1,7d1beb03c32db43f5edd4c28f3c905954e40dbd6,
+2024-01-19,Payload delivery,sha256,0df17ad20bf796ed549c240856ac2bf9ceb19f21a8cae2dbd7d99369ecd317ef,
+2024-01-19,Payload delivery,sha256,23fc51fde90d98daee27499a7ff94065f7ed4ac09c22867ebd9199e025dee066,
+2024-01-19,Payload delivery,sha256,59e90be75e51c86b4b9b69dcede2cf815da5a79f7e05cac27c95ec35294151f4,
+2024-01-19,Payload delivery,sha256,6b5846f32d8009e6b54743d6f817f0c3519be6f370a0917bf455d3d114820bbc,
+2024-01-19,Payload delivery,sha256,bb7070cbede294963328119d1145546c2e26709c5cea1d876d234b991682c0b7,
+2024-01-19,Payload delivery,sha256,ca45a14d0e88e4aa408a6ac2ee3012bf9994b16b74e3c66b588c7eabaaec4d72,
+2024-01-19,Payload delivery,sha256,dcf8f640dd7cc27d2399cce96b1cf4b75e3b9f2dfdf19cee0a170e5a6d2ce6b6,
+2024-01-19,Payload delivery,sha256,de1114a09cbab5ae9c1011ddd11719f15087cc29c8303da2e71d861b0594a1ba,

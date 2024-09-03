@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-01-06]
+| UUID: 68b5c57a-0be6-4ba1-ba08-71c54e2ae100
+| Date: 2024-01-06
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-07,Payload installation,filename,rr990487.exe,Source: MalwareBazaar
+2024-01-07,Payload installation,md5,8b9de2056ab72c6c20d7122903cf2418,Source: MalwareBazaar
+2024-01-07,Payload installation,sha1,ecf61a5d230f13766a594daccc3179e033005708,Source: MalwareBazaar
+2024-01-07,Payload installation,sha256,6fd650e4f7d88a81503ca6a6ba8d21abbdd0a6d14086bfff03d1b5cc89625eaf,Source: MalwareBazaar
+2024-01-07,Payload installation,filename,roc8896yyu45.exe,Source: MalwareBazaar
+2024-01-07,Payload installation,md5,9938ae69afa664236f7cdfbeb0049ee6,Source: MalwareBazaar
+2024-01-07,Payload installation,sha1,6d66ce0dc14c4767f451994a44c42b5c6b572fa2,Source: MalwareBazaar
+2024-01-07,Payload installation,sha256,5c7d5f2261c2faa3edb70a55eb5a53deb84557f80d7fa339d5ec82999f1ed213,Source: MalwareBazaar

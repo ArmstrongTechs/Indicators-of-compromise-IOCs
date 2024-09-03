@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2024-01-07]
+| UUID: 556c955d-e4a3-4f20-b21d-84781be2e6b8
+| Date: 2024-01-08
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-07,Payload installation,filename,aaf00b53df385ee3e4a34e3712ec0636.exe,Source: MalwareBazaar
+2024-01-07,Payload installation,md5,aaf00b53df385ee3e4a34e3712ec0636,Source: MalwareBazaar
+2024-01-07,Payload installation,sha1,f6e75b61bef2a1075eae83790dedb0dc41e26acf,Source: MalwareBazaar
+2024-01-07,Payload installation,sha256,8be7871aecfc2e3039cefaeab9954a4ee7903ece4099bfa295936b030764f521,Source: MalwareBazaar
+2024-01-08,Payload installation,filename,WXRAT.exe,Source: MalwareBazaar
+2024-01-08,Payload installation,md5,0c60b1a48eede7936f7e894984766628,Source: MalwareBazaar
+2024-01-08,Payload installation,sha1,7ce52feaf3ecaf0ad52221cc9459f899b815716e,Source: MalwareBazaar
+2024-01-08,Payload installation,sha256,add8f6dd03aacc83d719d518343a9e3b150b6e23392c491c3ace8362b1c52740,Source: MalwareBazaar
+2024-01-08,Payload installation,filename,c69db7b6cbe628572359bbdbdda07177.exe,Source: MalwareBazaar
+2024-01-08,Payload installation,md5,c69db7b6cbe628572359bbdbdda07177,Source: MalwareBazaar
+2024-01-08,Payload installation,sha1,c0e0e1626fb8895177db8dc7fe446eecfa65df45,Source: MalwareBazaar
+2024-01-08,Payload installation,sha256,0225156af50ee95f9fdbfca0c0fe652d81bae15ce2f0b41e68ef857536c140fc,Source: MalwareBazaar
+2024-01-08,Payload installation,filename,application.exe,Source: MalwareBazaar
+2024-01-08,Payload installation,md5,c625a0c10f7eab35e055a88285b3b319,Source: MalwareBazaar
+2024-01-08,Payload installation,sha1,e452018a33a8290fa79a9503e86c7af82e531f79,Source: MalwareBazaar
+2024-01-08,Payload installation,sha256,361b415e122170dbfa20900a87c66ee32bcb918e45cdc7c6f6da99e132400f75,Source: MalwareBazaar
+2024-01-08,Payload installation,filename,sweating.exe,Source: MalwareBazaar
+2024-01-08,Payload installation,md5,4ab425227b266c9c60dcc447f9b8f0de,Source: MalwareBazaar
+2024-01-08,Payload installation,sha1,ba8469d5f9aa57c9a0b4966909e6c72e86fc9088,Source: MalwareBazaar
+2024-01-08,Payload installation,sha256,f4c51f676fbf02b54592aeffda6f0b342db00d7170f479a7cf0ba40420153322,Source: MalwareBazaar

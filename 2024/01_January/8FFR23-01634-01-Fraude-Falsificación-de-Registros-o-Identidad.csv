@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: 8FFR23-01634-01 [Fraude] [Falsificación de Registros o Identidad]
+| UUID: 65d9f729-46c4-4bcd-a3e9-e92bd1402056
+| Date: 2024-01-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-29,Network activity,ip-src,172.67.155.226,Host
+2024-01-29,Payload delivery,url,https://www.caterpillarchileoutlet.com,URLs
+2024-01-29,External analysis,attachment,8FFR23-01634-01.docx,Informe CSIRT
+2024-01-29,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática del Gobierno de Chile (CSIRT de Gobierno) ha identificado la activación de una página fraudulenta que suplanta a Caterpillar, la que podría servir para robar credenciales de usuario o datos bancarios.
+
+Lo anterior constituye una falsificación de la marca institucional que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2024-01-29,External analysis,attachment,8FFR23-01634-01.pdf,Informe CSIRT PDF
+2024-01-29,External analysis,attachment,imagen_sitio.png,Captura de Pantalla

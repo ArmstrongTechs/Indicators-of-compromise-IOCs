@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-01-30]
+| UUID: 5095c8da-5f3e-4995-9c58-d8ed133ada10
+| Date: 2024-01-30
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-30,Payload installation,filename,Helpertask.exe,Source: MalwareBazaar
+2024-01-30,Payload installation,md5,62be604349ff7f6efcaa163f2ccdfb06,Source: MalwareBazaar
+2024-01-30,Payload installation,sha1,e9c5420cfd65c201b054ad55939474cba4ee502e,Source: MalwareBazaar
+2024-01-30,Payload installation,sha256,15d27a6eed07fe1747835df49e88fd803cdb0518761a4eafc11c694b5a87ecb9,Source: MalwareBazaar
+2024-01-30,Payload installation,filename,Client.exe,Source: MalwareBazaar
+2024-01-30,Payload installation,md5,83f996a5252a30e0e199225fc6eb4b33,Source: MalwareBazaar
+2024-01-30,Payload installation,sha1,f2f9260df531dda677aed101bcaa45f8bcb194bc,Source: MalwareBazaar
+2024-01-30,Payload installation,sha256,6285137b6f585e1829051ffa8355e9a11bb81ec51c4b576a63a1709cb4846675,Source: MalwareBazaar
+2024-01-30,Payload installation,filename,iostream.exe,Source: MalwareBazaar
+2024-01-30,Payload installation,md5,2f3b5b60129dc43350bc54e67d59a4ac,Source: MalwareBazaar
+2024-01-30,Payload installation,sha1,08cdc5d4d0628c619897bf465f279f7d30d42b9f,Source: MalwareBazaar
+2024-01-30,Payload installation,sha256,268934cf9ac4371ad4e8afdc7e354cce287e9f2ce019df0797cc354b3a2efca0,Source: MalwareBazaar
+2024-01-31,Payload installation,filename,Booking_5527_10.exe,Source: MalwareBazaar
+2024-01-31,Payload installation,md5,7d4dc99b0ad90aecfc3278686361f1c5,Source: MalwareBazaar
+2024-01-31,Payload installation,sha1,8cf1664b173fb64dc6a30099617051240842d2a7,Source: MalwareBazaar
+2024-01-31,Payload installation,sha256,2ef3ecd1fa1f4f0bf04bf2b98727fc2b7e36bce45b799a30b38e57c7b89ae824,Source: MalwareBazaar

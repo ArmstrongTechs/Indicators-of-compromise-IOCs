@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-01-26]
+| UUID: 4748562c-af69-4d22-953d-ca80907baa3b
+| Date: 2024-01-26
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-26,Payload installation,filename,aklsjdsad.exe,Source: MalwareBazaar
+2024-01-26,Payload installation,md5,110acf84cc496110193a75f3a75082c7,Source: MalwareBazaar
+2024-01-26,Payload installation,sha1,b3982d18f73e06118ccb3e49c999ff2e68102e2d,Source: MalwareBazaar
+2024-01-26,Payload installation,sha256,36e218a56b1ac20ad3a0f11aa704594c103e497d7ef0bce75279f73b978858c3,Source: MalwareBazaar

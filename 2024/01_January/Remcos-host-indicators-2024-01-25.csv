@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-01-25]
+| UUID: 5c7b2ca1-bfcb-4dc5-9e90-c1f693d917d5
+| Date: 2024-01-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-25,Payload installation,filename,SecuriteInfo.com.Win32.PWSX-gen.22013.6026,Source: MalwareBazaar
+2024-01-25,Payload installation,md5,d60fa5f203a8917e5bc3265af706b9c3,Source: MalwareBazaar
+2024-01-25,Payload installation,sha1,d7e80483b1ac03626a3f42eef201218b69a335ed,Source: MalwareBazaar
+2024-01-25,Payload installation,sha256,683eb38c67e70e0cf2b9f5b2cb2ecb80dd91abd50539e216de7568512d5087c9,Source: MalwareBazaar
+2024-01-26,Payload installation,filename,a9489436209423d6472faa8b2151059d,Source: MalwareBazaar
+2024-01-26,Payload installation,md5,a9489436209423d6472faa8b2151059d,Source: MalwareBazaar
+2024-01-26,Payload installation,sha1,bcefc250e3bb5f83dbbf294a2a5609d61ce3581a,Source: MalwareBazaar
+2024-01-26,Payload installation,sha256,f313ed23323b609ed09075856805772adf3487d3b565429adde2b71793cb73bf,Source: MalwareBazaar

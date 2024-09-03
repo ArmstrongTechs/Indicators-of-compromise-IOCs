@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Gh0stRAT host indicators [2024-01-21]
+| UUID: aa63133a-4f4b-4065-b187-2e1db457ff66
+| Date: 2024-01-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-21,Payload installation,filename,RuntimeBroker.exe,Source: MalwareBazaar
+2024-01-21,Payload installation,md5,9be92b9ccb5d7469e0e136ba9c1685a3,Source: MalwareBazaar
+2024-01-21,Payload installation,sha1,7c79f886d41db8c6940a78eaf176928b698dfe79,Source: MalwareBazaar
+2024-01-21,Payload installation,sha256,d62ee92b65a34ba6023b4f16dd7b8083a14a5d6bf4d99af6e82676f9d468b656,Source: MalwareBazaar

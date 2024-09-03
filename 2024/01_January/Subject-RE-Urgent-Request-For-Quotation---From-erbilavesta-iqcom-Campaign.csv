@@ -1,0 +1,54 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: RE: Urgent Request For Quotation - From: erbil@avesta-iq.com"" Campaign"
+| UUID: f73c7e15-e205-416c-b29e-1c5720907f08
+| Date: 2024-01-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-26,Payload delivery,email-src,erbil@avesta-iq.com,Source email: from erbil@avesta-iq.com - subject: RE: Urgent Request For Quotation
+2024-01-26,Payload delivery,email-body,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"" ""http://www.w3.org/TR/html4/loose.dtd"">
+
+<HTML><HEAD>
+<META name=GENERATOR content=""MSHTML 11.00.9600.18817""></HEAD>
+<body style=""MARGIN: 0.5em"">
+<P>Dear cert<BR><BR><BR><BR>&#1589;&#1576;&#1581; &#1576;&#1582;&#1740;&#1585;</P>
+<P>&#1604;&#1591;&#1601;&#1575; &#1576;&#1585;&#1575;&#1740; &#1605;&#1608;&#1575;&#1585;&#1583; &#1605;&#1608;&#1580;&#1608;&#1583; &#1583;&#1585; &#1601;&#1575;&#1740;&#1604; &#1590;&#1605;&#1740;&#1605;&#1607; &#1606;&#1602;&#1604; &#1602;&#1608;&#1604; &#1705;&#1606;&#1740;&#1583;.</P>
+<P>&nbsp;<BR>&#1576;&#1575; &#1575;&#1581;&#1578;&#1585;&#1575;&#1605; &#1576;&#1587;&#1740;&#1575;&#1585;<BR>&#1593;&#1576;&#1583;&#1575;&#1604;&#1575;&#1576;&#1578;&#1740;&#1606;</P>
+<P>&#1575;&#1586; &#1570;&#1740;&#1601;&#1608;&#1606; &#1605;&#1606; &#1575;&#1585;&#1587;&#1575;&#1604; &#1588;&#1583;</P>
+<P>&nbsp;</P></BODY></HTML>",Source email: from erbil@avesta-iq.com - subject: RE: Urgent Request For Quotation
+2024-01-26,Payload delivery,email-subject,RE: Urgent Request For Quotation,Source: from erbil@avesta-iq.com - subject: RE: Urgent Request For Quotation
+2024-01-26,Payload delivery,filename|sha256,RFQ-20034450Q.ace|9be76aa9bb7063c726bddd5f2c5fe3ea8424533ae3b689cec77623103a42911a,Malspam attachment - source: from erbil@avesta-iq.com - subject: RE: Urgent Request For Quotation mime: application/x-rar
+2024-01-26,Payload delivery,filename|ssdeep,RFQ-20034450Q.ace|12288:ErEdWgxS9kRjpisxbdT7Ofkya6DLf8Fn1RB/ePlILt7016f1lHo6NUrxCT:ErEd3xltimhTq+6PM1/MlINp/Urxq,Malspam attachment - source: from erbil@avesta-iq.com - subject: RE: Urgent Request For Quotation mime: application/x-rar
+2024-01-26,Payload delivery,filename|sha1,RFQ-20034450Q.ace|3ff64113cc4f365481a2a7aef3a3fe7ebce1346a,Malspam attachment - source: from erbil@avesta-iq.com - subject: RE: Urgent Request For Quotation mime: application/x-rar
+2024-01-26,Payload delivery,filename|sha512,RFQ-20034450Q.ace|852089274f4d346e75bd913dc6b3310cf519c934732664ddf5e07285773aa0dd4adfcd146a0da3ff7f067f6a8fbb2b1633ebc6ce458e7dbe72765b228ae4fbe2,Malspam attachment - source: from erbil@avesta-iq.com - subject: RE: Urgent Request For Quotation mime: application/x-rar
+2024-01-26,Payload delivery,filename|md5,RFQ-20034450Q.ace|69dfeb9347a1d76c8f79f71edd7932cd,Malspam attachment - source: from erbil@avesta-iq.com - subject: RE: Urgent Request For Quotation mime: application/x-rar
+2024-01-26,Payload delivery,filename|sha1,RFQ-20034450Q.exe|538890b8fa7de4a066a220c694203845f06c4f9c,Archive contents - source: RFQ-20034450Q.ace mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|imphash,RFQ-20034450Q.exe|948cc502fe9226992dce9417f952fce3,Archive contents - source: RFQ-20034450Q.ace mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|ssdeep,RFQ-20034450Q.exe|24576:fqDEvCTbMWu7rQYlBQcBiT6rprG8a6ubAKDqeLPmbN2:fTvC/MTQYxsWR7a6uLeeLPIN,Archive contents - source: RFQ-20034450Q.ace mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|sha256,RFQ-20034450Q.exe|a3f347e2407b9d46e0299ac135b0a08917d1f72071de4b11b322f178d3ec3ae8,Archive contents - source: RFQ-20034450Q.ace mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|sha512,RFQ-20034450Q.exe|3f77bdf26329f3b9e39975ef682fafd3cec299e7a0323bbbd711d589824f66651ba73c0dbbda35f5b6445f5aecf735f84d56d1924ca98a3bf1565e2678043a4e,Archive contents - source: RFQ-20034450Q.ace mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|md5,RFQ-20034450Q.exe|e02d306738ad0ad6d47bbfa7f630e639,Archive contents - source: RFQ-20034450Q.ace mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|sha256,IMCA IRAN CO.png.z|5034c46c46834e2a72dc2c2d6e03b93c5a5c649f43d26bf99408d2aa7ca634bc,Malspam attachment - source: from erbil@avesta-iq.com - subject: RE: Urgent Request For Quotation mime: application/x-rar
+2024-01-26,Payload delivery,filename|ssdeep,IMCA IRAN CO.png.z|12288:WrEdWgxS9kRjpisxbdT7Ofkya6DLf8Fn1RB/ePlILt7016f1lHo6NUrxCT:WrEd3xltimhTq+6PM1/MlINp/Urxq,Malspam attachment - source: from erbil@avesta-iq.com - subject: RE: Urgent Request For Quotation mime: application/x-rar
+2024-01-26,Payload delivery,filename|sha1,IMCA IRAN CO.png.z|221204dad331560c649d1066f19dd7e47181134b,Malspam attachment - source: from erbil@avesta-iq.com - subject: RE: Urgent Request For Quotation mime: application/x-rar
+2024-01-26,Payload delivery,filename|sha512,IMCA IRAN CO.png.z|c6f91abfb7f97e242bc121e05f1bca66a9da6de7ab038ee0b453f5c7b5fdfd3b8f1f44fda7b26b885e82ed739ffa3dcd137c8daaf9c56fdbf17d848d13037065,Malspam attachment - source: from erbil@avesta-iq.com - subject: RE: Urgent Request For Quotation mime: application/x-rar
+2024-01-26,Payload delivery,filename|md5,IMCA IRAN CO.png.z|6e9e79a63c34fbc544414c52f35b3690,Malspam attachment - source: from erbil@avesta-iq.com - subject: RE: Urgent Request For Quotation mime: application/x-rar
+2024-01-26,Payload delivery,filename|sha1,IMCA IRAN CO.png.exe|538890b8fa7de4a066a220c694203845f06c4f9c,Archive contents - source: IMCA IRAN CO.png.z mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|imphash,IMCA IRAN CO.png.exe|948cc502fe9226992dce9417f952fce3,Archive contents - source: IMCA IRAN CO.png.z mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|ssdeep,IMCA IRAN CO.png.exe|24576:fqDEvCTbMWu7rQYlBQcBiT6rprG8a6ubAKDqeLPmbN2:fTvC/MTQYxsWR7a6uLeeLPIN,Archive contents - source: IMCA IRAN CO.png.z mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|sha256,IMCA IRAN CO.png.exe|a3f347e2407b9d46e0299ac135b0a08917d1f72071de4b11b322f178d3ec3ae8,Archive contents - source: IMCA IRAN CO.png.z mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|sha512,IMCA IRAN CO.png.exe|3f77bdf26329f3b9e39975ef682fafd3cec299e7a0323bbbd711d589824f66651ba73c0dbbda35f5b6445f5aecf735f84d56d1924ca98a3bf1565e2678043a4e,Archive contents - source: IMCA IRAN CO.png.z mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|md5,IMCA IRAN CO.png.exe|e02d306738ad0ad6d47bbfa7f630e639,Archive contents - source: IMCA IRAN CO.png.z mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|imphash,51a4e05a2aef3fb27f0c9e6f22ad3ec102153de3c81fb36ac0469de3dfa552a9.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Extracted from IMCA IRAN CO.png.exe and RFQ-20034450Q.exe; mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|md5,51a4e05a2aef3fb27f0c9e6f22ad3ec102153de3c81fb36ac0469de3dfa552a9.exe|c2438b5bcb8577ffbe190e28cc19e9f9,Extracted from IMCA IRAN CO.png.exe and RFQ-20034450Q.exe; mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|sha1,51a4e05a2aef3fb27f0c9e6f22ad3ec102153de3c81fb36ac0469de3dfa552a9.exe|a189acef3e8a3b21adf4d5a6c067e8bbfe4bc629,Extracted from IMCA IRAN CO.png.exe and RFQ-20034450Q.exe; mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|sha256,51a4e05a2aef3fb27f0c9e6f22ad3ec102153de3c81fb36ac0469de3dfa552a9.exe|51a4e05a2aef3fb27f0c9e6f22ad3ec102153de3c81fb36ac0469de3dfa552a9,Extracted from IMCA IRAN CO.png.exe and RFQ-20034450Q.exe; mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|sha512,51a4e05a2aef3fb27f0c9e6f22ad3ec102153de3c81fb36ac0469de3dfa552a9.exe|fd6b15ebd2143995d09b899226ce2d450ad40b00d582e6f729d285d377ee17ada0ae098d1c1459eeb5f48b6d6b955509578cf2cb619e31a47621e9246427cf05,Extracted from IMCA IRAN CO.png.exe and RFQ-20034450Q.exe; mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|ssdeep,51a4e05a2aef3fb27f0c9e6f22ad3ec102153de3c81fb36ac0469de3dfa552a9.exe|3072:+hq+6eSemgghq6F9TXC1zIneMsxcz/8FIU55hAbJ20M:+A+6eSemgghqcS1k60/8CCAN,Extracted from IMCA IRAN CO.png.exe and RFQ-20034450Q.exe; mime: application/x-dosexec
+2024-01-29,Network activity,email,deepocket@egoamakasolut.shop,Source: Extracted from static config of 51a4e05a2aef3fb27f0c9e6f22ad3ec102153de3c81fb36ac0469de3dfa552a9.exe; data exfiltration via SMTP
+2024-01-29,Network activity,email-dst,deepocket@eleven-end-sun.com,Source: Extracted from static config of 51a4e05a2aef3fb27f0c9e6f22ad3ec102153de3c81fb36ac0469de3dfa552a9.exe; data exfiltration via SMTP
+2024-01-29,Network activity,url,http://ip-api.com/line/?fields=hosting,Source: Network activity from 51a4e05a2aef3fb27f0c9e6f22ad3ec102153de3c81fb36ac0469de3dfa552a9.exe
+2024-01-29,Network activity,domain,mail.gasplants.quest,Source: Extracted from static config of 51a4e05a2aef3fb27f0c9e6f22ad3ec102153de3c81fb36ac0469de3dfa552a9.exe; data exfiltration via SMTP

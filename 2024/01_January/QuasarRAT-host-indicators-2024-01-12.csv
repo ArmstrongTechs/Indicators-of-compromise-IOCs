@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-01-12]
+| UUID: dc5a6b3c-ef82-4196-ba60-28d313727cae
+| Date: 2024-01-12
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-12,Payload installation,filename,Client.exe,Source: MalwareBazaar
+2024-01-12,Payload installation,md5,6bc8d53c37313ed609a7436001b7f86b,Source: MalwareBazaar
+2024-01-12,Payload installation,sha1,0c9d73fc501e7b35c313a25f7454c1a08d8bc880,Source: MalwareBazaar
+2024-01-12,Payload installation,sha256,f17f41323edce0c031d30cb3806fff82a7adb07cbd653e93316eab84b05fcb7f,Source: MalwareBazaar
+2024-01-12,Payload installation,filename,gta_sa.exe,Source: MalwareBazaar
+2024-01-12,Payload installation,md5,75e93cb4b49079936178a1bcbf68c09c,Source: MalwareBazaar
+2024-01-12,Payload installation,sha1,455813ab7bb4c7244e8d5dafd39676bca25c8922,Source: MalwareBazaar
+2024-01-12,Payload installation,sha256,7baf84b2dc1ef0c69fd51ab29dafe3645c7f8dce60b2f18022ec5270f13a1e2a,Source: MalwareBazaar
+2024-01-12,Payload installation,filename,Client.exe,Source: MalwareBazaar
+2024-01-12,Payload installation,md5,382027407b4a0167a036707f5d45e53e,Source: MalwareBazaar
+2024-01-12,Payload installation,sha1,ec962c4c0bd3d4347f41a0cdf7c9164e3712b43c,Source: MalwareBazaar
+2024-01-12,Payload installation,sha256,eb249d8b90aa5fa4627166c0a495f1cdb2a66bf59469a5fb7790a7aad13673fd,Source: MalwareBazaar
+2024-01-12,Payload installation,filename,Client.exe,Source: MalwareBazaar
+2024-01-12,Payload installation,md5,f675d1feef66a26866699b1280b83059,Source: MalwareBazaar
+2024-01-12,Payload installation,sha1,57304b04cb660eb32e1c096ea005613be24751b0,Source: MalwareBazaar
+2024-01-12,Payload installation,sha256,e5bbcc08742357941d284511b0a7e9528ccc6a7bb9fa8d544cadf2b97f19e8da,Source: MalwareBazaar
+2024-01-12,Payload installation,filename,api-ms-win-crt-environment-l1-1-0.exe,Source: MalwareBazaar
+2024-01-12,Payload installation,md5,8c1e7d74c62a687a236a3262f09269d4,Source: MalwareBazaar
+2024-01-12,Payload installation,sha1,896a403897661d3834f540a10678463f4ef4c81d,Source: MalwareBazaar
+2024-01-12,Payload installation,sha256,9e6fa1f280864e2933528e17984bf2d448b003bda842145f34e63cc8a4b337ef,Source: MalwareBazaar

@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-01-18]
+| UUID: 47160dba-78d3-4bec-ad4d-a85def584ad7
+| Date: 2024-01-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-18,Payload installation,filename,ungziped_file,Source: MalwareBazaar
+2024-01-18,Payload installation,md5,a478422522067fbb67b31099db6668bc,Source: MalwareBazaar
+2024-01-18,Payload installation,sha1,749000fbedbc419986a84bd437a5d53c84bd24e6,Source: MalwareBazaar
+2024-01-18,Payload installation,sha256,e60532b82799103e53b59fa601e202ede08fe446bd4e7cbf47e5fcbdd332ccc9,Source: MalwareBazaar
+2024-01-18,Payload installation,filename,Invoice0017861201.exe,Source: MalwareBazaar
+2024-01-18,Payload installation,md5,6f895e1180d285c3e7d44e890afcdd55,Source: MalwareBazaar
+2024-01-18,Payload installation,sha1,194ef6a48fefbdf5f6f1379ca9e78bf86800a16f,Source: MalwareBazaar
+2024-01-18,Payload installation,sha256,5049de29d568f5115a808b6a9570edf70f3bd0f32d82623fdaef3b3ffd1deb2c,Source: MalwareBazaar
+2024-01-19,Payload installation,filename,hostcr.exe,Source: MalwareBazaar
+2024-01-19,Payload installation,md5,334931908f6bb226bec78bbbab2a8626,Source: MalwareBazaar
+2024-01-19,Payload installation,sha1,2add679344806597898b1a6607304f0a8b64aee4,Source: MalwareBazaar
+2024-01-19,Payload installation,sha256,4effb7493819e25c61af5e224d8a774652957b99ec1faca19e1c84bd0c9ff840,Source: MalwareBazaar
+2024-01-19,Payload installation,filename,Запит документів.exe,Source: MalwareBazaar
+2024-01-19,Payload installation,md5,6c15884d821a695faf825f2b53fbd159,Source: MalwareBazaar
+2024-01-19,Payload installation,sha1,a8a85aa437edb8d818ecdf12ee6fd15a171d6cbb,Source: MalwareBazaar
+2024-01-19,Payload installation,sha256,db818294e50a757b1511cb2ac06b678e829c5328e920c5105ec30985e585b2c0,Source: MalwareBazaar

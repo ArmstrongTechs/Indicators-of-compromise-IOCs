@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-01-03]
+| UUID: e5217330-5f6d-485e-bab9-db1d330e8839
+| Date: 2024-01-03
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-03,Payload installation,filename,КОММЕРЧЕСКИЙ ПОСТАВЩИК.exe,Source: MalwareBazaar
+2024-01-03,Payload installation,md5,a48a58a847addb1ee3568eabf32b1b9d,Source: MalwareBazaar
+2024-01-03,Payload installation,sha1,6bbeec62a240953cffc1a084ea59141a1368600a,Source: MalwareBazaar
+2024-01-03,Payload installation,sha256,7b9502c277114c4c5cde1d0ce893041f2a880ce2808855ec74faf47485660d51,Source: MalwareBazaar
+2024-01-03,Payload installation,filename,КОММЕРЧЕСКИЙ ПОСТАВЩИК.zip,Source: MalwareBazaar
+2024-01-03,Payload installation,md5,0b08224e6fb720a5499a11f9d7e8d98f,Source: MalwareBazaar
+2024-01-03,Payload installation,sha1,e75a2a1374973de9496a101f63e8691eb62f4669,Source: MalwareBazaar
+2024-01-03,Payload installation,sha256,2e295fb94ef4918d7f182c9f3878912bda984b38c030aa924bc81b491cfcc028,Source: MalwareBazaar
+2024-01-03,Payload installation,filename,DHL DOC IMG010342024.exe,Source: MalwareBazaar
+2024-01-03,Payload installation,md5,e10c2c5de1c6b8be9f4d6814930fd018,Source: MalwareBazaar
+2024-01-03,Payload installation,sha1,9305c3478e82b8e05395c6010737b2ca50e9a026,Source: MalwareBazaar
+2024-01-03,Payload installation,sha256,f90db97e56f2eb46d2e55a0cd7674997bbc2d644f6370b477fd04edfca7b9cdd,Source: MalwareBazaar
+2024-01-03,Payload installation,filename,rdevuelto_PDF_________________.exe,Source: MalwareBazaar
+2024-01-03,Payload installation,md5,40a0e114a329172f862d6ddc380e4b43,Source: MalwareBazaar
+2024-01-03,Payload installation,sha1,1285eb211d2ed06f7a3d960f5c39baf1312a0f1f,Source: MalwareBazaar
+2024-01-03,Payload installation,sha256,3187b0afed12d7d408ed397bd025fc13c46d627eacc94e20438a4bd0078e4f57,Source: MalwareBazaar
+2024-01-03,Payload installation,filename,ndevuelto.PDF.bz2,Source: MalwareBazaar
+2024-01-03,Payload installation,md5,a0fce989b2a9b6ca8badf69946ffed53,Source: MalwareBazaar
+2024-01-03,Payload installation,sha1,ae0e4e3b711f2cd66b38a6a8b7c93104bd9ae914,Source: MalwareBazaar
+2024-01-03,Payload installation,sha256,2b9f2d8c33d0db891d7310490079017e9dd0a8badb1123d69c6239526865aec8,Source: MalwareBazaar

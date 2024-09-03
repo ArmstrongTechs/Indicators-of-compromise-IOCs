@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Azorult host indicators [2024-01-31]
+| UUID: 682bc410-925d-4af7-9e75-de389f4efcb6
+| Date: 2024-01-31
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-31,Payload installation,filename,DOCU_957735271647895846_PDF.exe,Source: MalwareBazaar
+2024-01-31,Payload installation,md5,31730b69ca484889e8a5c1735857de26,Source: MalwareBazaar
+2024-01-31,Payload installation,sha1,132aa2c7565cb05760ff80752239aac47917097c,Source: MalwareBazaar
+2024-01-31,Payload installation,sha256,b8a5f88f60837143f18dd1494a7195ac283b91d068668d1d34b4994a8148641c,Source: MalwareBazaar
+2024-01-31,Payload installation,filename,LPO_Eco_Environ(ARTWORK).exe,Source: MalwareBazaar
+2024-01-31,Payload installation,md5,91e8ae0f98abcb16814261421bfe1f6b,Source: MalwareBazaar
+2024-01-31,Payload installation,sha1,36c17d7e22c982d4991749f905f70941c5d36825,Source: MalwareBazaar
+2024-01-31,Payload installation,sha256,2b29b24f2a311158a4900bddf41fe482c42e46941a42468b4990fd467fde5f72,Source: MalwareBazaar
+2024-01-31,Payload installation,filename,Ziraat Bankasi Swift.pdf.exe,Source: MalwareBazaar
+2024-01-31,Payload installation,md5,7b197b04dd19f7f18076d041d15ed7ba,Source: MalwareBazaar
+2024-01-31,Payload installation,sha1,01e5a7771040ab842d9331ee873434090995f2bb,Source: MalwareBazaar
+2024-01-31,Payload installation,sha256,412060ef12b49d0e5f5b2b63f4f396236ce606484d16283718d3478db8899e38,Source: MalwareBazaar

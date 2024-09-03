@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Nuevo Paquete npm Malicioso-037
+| UUID: fd22fc53-428d-43fa-b85e-5ac13243ab7a
+| Date: 2024-01-26
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-26,External analysis,attachment,BOLETÍN 037.pdf,npm Malicioso
+2024-02-02,Network activity,ip-dst,172.64.149.23,
+2024-01-26,Network activity,domain,kdark1.com,
+2024-01-26,Payload delivery,sha256,3712af5f9bfbcdbc4fdd6e2831425b39b0eb3aab1c6d61c004fe96d3a57f21f5,

@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: RevengeRAT host indicators [2024-01-22]
+| UUID: 69183a6f-60a9-48c9-b29d-bcd130ea26dd
+| Date: 2024-01-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-22,Payload installation,filename,1705923785cff2635fa98b41644f63490b17d604aeec7301ced829f75981244eca3efb3834387.dat-decoded,Source: MalwareBazaar
+2024-01-22,Payload installation,md5,a0bcffca5a758ec7355bf8029d4c01ee,Source: MalwareBazaar
+2024-01-22,Payload installation,sha1,a29c38218e14a456a812dec912c0be62826fd7f3,Source: MalwareBazaar
+2024-01-22,Payload installation,sha256,4bf21363ac7b93c59eb95d9a3211b0e35dbccab003bdde1a90a69e844289a395,Source: MalwareBazaar

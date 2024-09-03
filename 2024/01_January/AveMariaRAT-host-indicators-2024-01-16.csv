@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AveMariaRAT host indicators [2024-01-16]
+| UUID: e3d24015-d986-453b-8d83-b270491bb89f
+| Date: 2024-01-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-16,Payload installation,filename,Jan New Order.exe,Source: MalwareBazaar
+2024-01-16,Payload installation,md5,287458dba2fcec75a37cbb9fed3f36a3,Source: MalwareBazaar
+2024-01-16,Payload installation,sha1,bc75af8da7b960e458ba8312a97bb15fc7417941,Source: MalwareBazaar
+2024-01-16,Payload installation,sha256,198c5a845975abb97bec91f98df18522db41489cf5b972445600b2c0e3faa828,Source: MalwareBazaar

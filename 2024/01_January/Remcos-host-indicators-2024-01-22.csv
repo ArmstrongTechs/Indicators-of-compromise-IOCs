@@ -1,0 +1,50 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-01-22]
+| UUID: 03c08432-aba4-48e7-87fc-154317f830ab
+| Date: 2024-01-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-22,Payload installation,filename,bTea.exe,Source: MalwareBazaar
+2024-01-22,Payload installation,md5,9b61da2d8f59052fd0af93c1cdea0140,Source: MalwareBazaar
+2024-01-22,Payload installation,sha1,e1a4e0c6c436c16931ae845eed3383140e5a0509,Source: MalwareBazaar
+2024-01-22,Payload installation,sha256,60baa67ddc14257cb00f965efde95d2df191f827a4da9fbf10722c95e01b0922,Source: MalwareBazaar
+2024-01-22,Payload installation,filename,13b7485eb1a3cec4811bf83e746ec541,Source: MalwareBazaar
+2024-01-22,Payload installation,md5,13b7485eb1a3cec4811bf83e746ec541,Source: MalwareBazaar
+2024-01-22,Payload installation,sha1,19d728ada3a45e68fbd442d0c81f56eccc89c3eb,Source: MalwareBazaar
+2024-01-22,Payload installation,sha256,293f48cd034293d6aaf5f4aec8c49a8ca9ce639db7752676138b11dcd6fed385,Source: MalwareBazaar
+2024-01-22,Payload installation,filename,Invoice for Return of Excess Amount (Temmuz) .exe,Source: MalwareBazaar
+2024-01-22,Payload installation,md5,8e2f08deaac5bddbb57f3c5d40ea8bd0,Source: MalwareBazaar
+2024-01-22,Payload installation,sha1,be7842f6e42e7ec89285ef2c65f84952ffebdbd5,Source: MalwareBazaar
+2024-01-22,Payload installation,sha256,59559873eaa5a5b25f029c6768a22d3e84b03b7467cc764ea5f081edc0bfeb58,Source: MalwareBazaar
+2024-01-22,Payload installation,filename,PO--New RFQ.exe,Source: MalwareBazaar
+2024-01-22,Payload installation,md5,c5f3fe9e18ea911125d73a31fbd1ec22,Source: MalwareBazaar
+2024-01-22,Payload installation,sha1,576997da11bf21820ee9eaacca2b1e4b32aa5636,Source: MalwareBazaar
+2024-01-22,Payload installation,sha256,4a1dc08451e4f487bae83a62906f874e9f1378f8bf3115c0b1335febf94382fe,Source: MalwareBazaar
+2024-01-22,Payload installation,filename,8f70e913513b30a144165829ba3261bb.exe,Source: MalwareBazaar
+2024-01-22,Payload installation,md5,8f70e913513b30a144165829ba3261bb,Source: MalwareBazaar
+2024-01-22,Payload installation,sha1,906b4b04b638f9bea41a39649f3a69cac64a9c98,Source: MalwareBazaar
+2024-01-22,Payload installation,sha256,3e32447ea3b5f07c7f6a180269f5443378acb32c5d0e0bf01a5e39264f691587,Source: MalwareBazaar
+2024-01-22,Payload installation,filename,SCAN_DSC0027929829.PDF..exe,Source: MalwareBazaar
+2024-01-22,Payload installation,md5,e2994fd1d2f56f8352ebf4d30b221d8f,Source: MalwareBazaar
+2024-01-22,Payload installation,sha1,8082ac7548eaf7264884c4295e0c1f272c0700d4,Source: MalwareBazaar
+2024-01-22,Payload installation,sha256,08d763ba6c1ef0fb1e1774e9050e6eae1e61cd4149dcb5334f6e73e9afb6cff3,Source: MalwareBazaar
+2024-01-23,Payload installation,filename,acoustic.exe,Source: MalwareBazaar
+2024-01-23,Payload installation,md5,fe4e41fa88292d8be48fddfa6b0c0d7b,Source: MalwareBazaar
+2024-01-23,Payload installation,sha1,d137e7adb171e6500800ac215b7ab5b1747823cd,Source: MalwareBazaar
+2024-01-23,Payload installation,sha256,1f5e25a403ec45bb014587df458dbd7ff7e94a50ec3d89b51fd0b67f1cb97f26,Source: MalwareBazaar
+2024-01-23,Payload installation,filename,curves.exe,Source: MalwareBazaar
+2024-01-23,Payload installation,md5,6ae9e6b744b2779965c89e3bebcefa94,Source: MalwareBazaar
+2024-01-23,Payload installation,sha1,a7b7ee4db5d3934f250e867d450c84aec09c75f8,Source: MalwareBazaar
+2024-01-23,Payload installation,sha256,a4d3d83b3d71b7aaba2dc83f5900ba3d0fdbc8a2a3d7d6fb763c7100d4fd13d6,Source: MalwareBazaar
+2024-01-23,Payload installation,filename,RFQ BCG 10094601152024_pdf(73kb).exe,Source: MalwareBazaar
+2024-01-23,Payload installation,md5,0adde8b59fdacd77b8030d1d7ab5431c,Source: MalwareBazaar
+2024-01-23,Payload installation,sha1,330c569f46366ec660ed3e98bf384bcaeec3fe00,Source: MalwareBazaar
+2024-01-23,Payload installation,sha256,25036e72fbc62c869373fcd4608aa376123e6ef58152abcb8b76dee6fb59f819,Source: MalwareBazaar
+2024-01-23,Payload installation,filename,file,Source: MalwareBazaar
+2024-01-23,Payload installation,md5,d2db828942b57a1d8b75297e3f493ef6,Source: MalwareBazaar
+2024-01-23,Payload installation,sha1,ced1bae10b6c0129dc66d39be471f4cbc203c118,Source: MalwareBazaar
+2024-01-23,Payload installation,sha256,82c88b986554a1a6d92da142508fc764872d62f70770903d406a32b6b19ef9fe,Source: MalwareBazaar

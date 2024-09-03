@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Azorult host indicators [2024-01-16]
+| UUID: 836ee200-c958-43a8-bdda-7573ab149421
+| Date: 2024-01-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-16,Payload installation,filename,e-dekont.exe,Source: MalwareBazaar
+2024-01-16,Payload installation,md5,3977350112167b3fc2411a0f07232ab1,Source: MalwareBazaar
+2024-01-16,Payload installation,sha1,c285f62ccb46fa2c7fa758c95efb5771ba19c2bc,Source: MalwareBazaar
+2024-01-16,Payload installation,sha256,67a6e13cfdbe0a70caa4e47dfce0c4113237a99f8183a70c5943edc842dcccb2,Source: MalwareBazaar
+2024-01-16,Payload installation,filename,IMG988377.exe,Source: MalwareBazaar
+2024-01-16,Payload installation,md5,afaf625b463982c07e5e59d2c6a8bd91,Source: MalwareBazaar
+2024-01-16,Payload installation,sha1,4a061c65b0e93db9ea1fcf3115cee7c0a9db4aa5,Source: MalwareBazaar
+2024-01-16,Payload installation,sha256,64b87998615a25b4895b4c3640d7e53dd3c8893e654985c9f651cc21366ddbad,Source: MalwareBazaar

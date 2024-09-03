@@ -1,0 +1,34 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: ApateWeb: An Evasive Large-Scale Scareware and PUP Delivery Campaign
+| UUID: d5db3326-37a4-44ae-b023-3369bf6dd1ca
+| Date: 2024-02-07
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-08,External analysis,link,https://unit42.paloaltonetworks.com/apateweb-scareware-pup-delivery-campaign/,
+2024-02-08,Network activity,domain,featuresscanner.com,Campaign entry point example
+2024-02-08,Network activity,domain,professionalswebcheck.com,Domains part of centralized infrastructure to track victims
+2024-02-08,Network activity,domain,hightrafficcounter.com,Domains part of centralized infrastructure to track victims
+2024-02-08,Network activity,domain,proftrafficcounter.com,Domains part of centralized infrastructure to track victims
+2024-02-08,Network activity,domain,experttrafficmonitor.com,Domains part of centralized infrastructure to track victims
+2024-02-08,Network activity,ip-dst,192.243.59.20,IP addresses hosting campaign entry point
+2024-02-08,Network activity,ip-dst,192.243.59.13,IP addresses hosting campaign entry point
+2024-02-08,Network activity,ip-dst,192.243.59.12,IP addresses hosting campaign entry point
+2024-02-08,Network activity,ip-dst,192.243.61.227,IP addresses hosting campaign entry point
+2024-02-08,Network activity,ip-dst,192.243.61.225,IP addresses hosting campaign entry point
+2024-02-08,Network activity,ip-dst,173.233.139.164,IP addresses hosting campaign entry point
+2024-02-08,Network activity,ip-dst,173.233.137.60,IP addresses hosting campaign entry point
+2024-02-08,Network activity,ip-dst,173.233.137.52,IP addresses hosting campaign entry point
+2024-02-08,Network activity,ip-dst,173.233.137.44,IP addresses hosting campaign entry point
+2024-02-08,Network activity,ip-dst,173.233.137.36,IP addresses hosting campaign entry point
+2024-02-08,Network activity,domain,tracker-tds.info,Traffic forwarded to adware
+2024-02-08,Network activity,domain,jpadsnow.com,Traffic forwarded to adware
+2024-02-08,Network activity,domain,ad-blocking24.net,Traffic forwarded to adware
+2024-02-08,Network activity,domain,myqenad24.com,Traffic forwarded to adware
+2024-02-08,Payload delivery,sha256,bd62d3808ef29c557da64b412c4422935a641c22e2bdcfe5128c96f2ff5b5e99,PUP download example
+2024-02-08,Network activity,domain,artificius.com,PUP download example
+2024-02-08,Network activity,domain,hoanoola.net,Other campaign domains
+2024-02-08,Network activity,domain,allureoutlayterrific.com,Other campaign domains

@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Turkish espionage campaigns in the Netherlands
+| UUID: e101580d-ed36-40f4-b5ee-5a2d74673742
+| Date: 2024-02-06
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-02-07,External analysis,link,https://www.huntandhackett.com/blog/turkish-espionage-campaigns,
+2024-02-07,Network activity,ip-dst,82.102.19.88,The IP-address is of M247 Europe SRL located in Belgium and was used as VPN by Sea Turtle to logon to a cPanel account.
+2024-02-07,Network activity,ip-dst,62.115.255.163,The IP-address is of Arelion and located in Denmark and was used as VPN by Sea Turtle to logon on to a cPanel account.
+2024-02-07,Network activity,ip-dst,193.34.167.245,The IP-address is of Snel.com and located in the Netherlands. The IP-address was used to logon to a cPanel account and to download the source code of the malware SnappyTCP.
+2024-02-07,Network activity,ip-dst,93.115.22.212,C2
+2024-02-07,Network activity,ip-dst,95.179.176.250,C2
+2024-02-07,Network activity,hostname,lo0.systemctl.network,C2
+2024-02-07,Network activity,hostname,forward.boord.info,The malware SnappyTCP was used by Sea Turtle to establish a command-and-control channel with the domain name.

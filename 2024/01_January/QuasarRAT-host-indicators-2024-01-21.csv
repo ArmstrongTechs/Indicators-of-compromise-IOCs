@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-01-21]
+| UUID: 79cedabb-2abf-4686-b702-8a06a27f5be3
+| Date: 2024-01-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-21,Payload installation,filename,B86BA0844DB442DF61A5889B004E615B.exe,Source: MalwareBazaar
+2024-01-21,Payload installation,md5,b86ba0844db442df61a5889b004e615b,Source: MalwareBazaar
+2024-01-21,Payload installation,sha1,3c6a65bade42081593d651abbda8c5f108be9adb,Source: MalwareBazaar
+2024-01-21,Payload installation,sha256,0790bb235f27fa3843f086dbdaac314c2c1b857e3b2b94c2777578765a7894a0,Source: MalwareBazaar
+2024-01-22,Payload installation,filename,9EEFA45EBC884B3B6FA4349D140963700C9F2C2543840.exe,Source: MalwareBazaar
+2024-01-22,Payload installation,md5,f5c1607e21a0f78df0a54518ebbdcdd2,Source: MalwareBazaar
+2024-01-22,Payload installation,sha1,bc40dc4455ff17ad16c898b4f45c19516d1c9a1a,Source: MalwareBazaar
+2024-01-22,Payload installation,sha256,9eefa45ebc884b3b6fa4349d140963700c9f2c2543840d965b11c7f815346ab9,Source: MalwareBazaar
+2024-01-22,Payload installation,filename,client.exe,Source: MalwareBazaar
+2024-01-22,Payload installation,md5,647815e631362280dc17d0a50fa745ea,Source: MalwareBazaar
+2024-01-22,Payload installation,sha1,87492f294a8decf2e4ecd67a471f13bb31cf030a,Source: MalwareBazaar
+2024-01-22,Payload installation,sha256,eddd85fd74df2ee82c700de8e49284a5043d3e69913c97e66385abcbab75bf49,Source: MalwareBazaar

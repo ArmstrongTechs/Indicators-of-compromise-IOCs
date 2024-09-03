@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-01-26]
+| UUID: c586e62d-066f-4fbc-a8e6-510d44ebefc4
+| Date: 2024-01-26
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-26,Payload installation,filename,SecuriteInfo.com.Variant.Ransom.Loki.1548.16542.13389,Source: MalwareBazaar
+2024-01-26,Payload installation,md5,317b33b1e092be3aac033bd667fd1a16,Source: MalwareBazaar
+2024-01-26,Payload installation,sha1,26ae0a93cb8aa0af425b10f48824e8377327b1f9,Source: MalwareBazaar
+2024-01-26,Payload installation,sha256,9c6493910b2ebd8fc274c1bd93ca54205f124aa1484aa4d17bbe7bee10cd3ff6,Source: MalwareBazaar
+2024-01-26,Payload installation,filename,Biesse_202401024-0056.exe,Source: MalwareBazaar
+2024-01-26,Payload installation,md5,61233a13899cb347debff20ce6722fe5,Source: MalwareBazaar
+2024-01-26,Payload installation,sha1,d8247a04dc1f5673b19c48f530103d7c4a898501,Source: MalwareBazaar
+2024-01-26,Payload installation,sha256,53e1436e016341307df284ea3e14c1a4434c609a30d38faf6a051f73eee5906f,Source: MalwareBazaar
+2024-01-26,Payload installation,filename,9f57d1ca1e1fe4c7758f0c9f2bc93c56.exe,Source: MalwareBazaar
+2024-01-26,Payload installation,md5,9f57d1ca1e1fe4c7758f0c9f2bc93c56,Source: MalwareBazaar
+2024-01-26,Payload installation,sha1,10073f2aeeffe9b9a8d62ce766e80d0846e182b7,Source: MalwareBazaar
+2024-01-26,Payload installation,sha256,0b691be19924fc1d67554420374dd5b5c7372591b491a7e97674e2c0d42bd822,Source: MalwareBazaar
+2024-01-26,Payload installation,filename,9dda72072bb5f352a9100dc0bc6c089f,Source: MalwareBazaar
+2024-01-26,Payload installation,md5,9dda72072bb5f352a9100dc0bc6c089f,Source: MalwareBazaar
+2024-01-26,Payload installation,sha1,261268d043679a90fca1b6489738f5a1df30105e,Source: MalwareBazaar
+2024-01-26,Payload installation,sha256,e78be787cfbb5ab74a1c8c2fb7c33b7fdb644dc616c4505057fe00511353137a,Source: MalwareBazaar
+2024-01-27,Payload installation,filename,Urun_listesi.xls,Source: MalwareBazaar
+2024-01-27,Payload installation,md5,48af925eec832169012cbb1aca53d114,Source: MalwareBazaar
+2024-01-27,Payload installation,sha1,c9fc325376074927134dcc604a301b8d433ca59e,Source: MalwareBazaar
+2024-01-27,Payload installation,sha256,89eb53096ec6248185c7797c802d1bd9b539097f01592bfe5f9e183d753d20ce,Source: MalwareBazaar

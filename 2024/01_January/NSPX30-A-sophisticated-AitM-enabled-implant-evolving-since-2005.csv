@@ -1,0 +1,48 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: NSPX30: A sophisticated AitM-enabled implant evolving since 2005
+| UUID: 59b940bf-3399-4c52-bf62-d4fd0297b63f
+| Date: 2024-01-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-25,External analysis,link,https://www.welivesecurity.com/en/eset-research/que-tipos-de-hackers-existem-e-o-que-os-distingue/,
+2024-01-25,Payload delivery,filename,Z:\Workspace\mm\32\NSPX30\Plugins\plugin\b001.pdb,PDB paths found in plugin samples
+2024-01-25,Payload delivery,filename,Z:\Workspace\Code\MM\X30Pro\trunk\MM\Plugins\hookdll\Release\hookdll.pdb,PDB paths found in plugin samples
+2024-01-25,Other,comment,cmd /c powershell -inputformat none -outputformat none -NonInteractive -Command Set-MpPreference -SubmitSamplesConsent 0,"The installer attempts to disable the submission of samples by Windows Defender, and adds an exclusion rule for the loader DLL msnsp.dll."
+2024-01-25,Other,comment,cmd /c powershell -inputformat none -outputformat none -NonInteractive -Command Add-MpPreference -ExclusionPath “%PROGRAMFILES%\(x86)\Common Files\microsoft shared\TextConv\msnsp.dll”,"The installer attempts to disable the submission of samples by Windows Defender, and adds an exclusion rule for the loader DLL msnsp.dll."
+2024-01-25,Payload delivery,filename,%PROGRAMFILES%\(x86)\Common Files\microsoft shared\TextConv\msnsp.dll,persistent loader DLL
+2024-01-25,Payload delivery,filename,%ALLUSERSPROFILE%\Windows\mshlp.dll,
+2024-01-25,Payload delivery,filename,%ALLUSERSPROFILE%\Windows\WIN.cfg,
+2024-01-25,Payload delivery,sha1,796d05f299f11f1d78fbbb3f6e1f497bc3325164,
+2024-01-25,Payload delivery,filename,comx3.dll.txt,
+2024-01-25,Payload delivery,sha1,82295e138e89f37dd0e51b1723775cbe33d26475,
+2024-01-25,Payload delivery,filename,WIN.cfg,
+2024-01-25,Payload delivery,sha1,44f50a81debf68f4183eaebc08a2a4cd6033dd91,
+2024-01-25,Payload delivery,filename,msfmtkl.dat,
+2024-01-25,Payload delivery,sha1,db6aec90367203caac9d9321fde2a7f2fe2a0fb6,
+2024-01-25,Payload delivery,filename,c001.dat,
+2024-01-25,Payload delivery,sha1,308616371b9ff5830dffc740318fd6ba4260d032,
+2024-01-25,Payload delivery,filename,mshlp.dll,
+2024-01-25,Payload delivery,sha1,9d74fe1862aabae67f9f2127e32b6efa1bc592e9,
+2024-01-25,Payload delivery,filename,c002.dat,
+2024-01-25,Payload delivery,sha1,8296a8e41272767d80df694152b9c26b607d26ee,
+2024-01-25,Payload delivery,filename,c003.dat,
+2024-01-25,Payload delivery,sha1,8936bd9a615dd859e868448cabcd2c6a72888952,
+2024-01-25,Payload delivery,filename,a010.dat,
+2024-01-25,Payload delivery,sha1,af85d79bc16b691f842964938c9619ffd1810c30,
+2024-01-25,Payload delivery,filename,b011.dat,
+2024-01-25,Payload delivery,sha1,240055aa125bd31bf5ba23d6c30133c5121147a5,
+2024-01-25,Payload delivery,filename,msnsp.dll,
+2024-01-25,Payload delivery,sha1,43622b9573413e17985b3a95cbe18cfe01fadf42,
+2024-01-25,Payload delivery,filename,comx3.dll,
+2024-01-25,Payload delivery,sha1,625bef5bd68f75624887d732538b7b01e3507234,
+2024-01-25,Payload delivery,filename,minibrowser_shell.dll,
+2024-01-25,Payload delivery,sha1,acd6cd486a260f84584c9ff7409331c65d4a2f4a,
+2024-01-25,Payload delivery,filename,b010.dat,
+2024-01-25,Network activity,ip-dst,104.193.88.123,
+2024-01-25,Network activity,hostname,www.baidu.com,
+2024-01-25,Network activity,ip-dst,183.134.93.171,
+2024-01-25,Network activity,domain,dl_dir.qq.com,

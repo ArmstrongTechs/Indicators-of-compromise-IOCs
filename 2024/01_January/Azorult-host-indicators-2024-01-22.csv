@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Azorult host indicators [2024-01-22]
+| UUID: 12fca196-34eb-49d7-ba8e-6fe062e01306
+| Date: 2024-01-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-22,Payload installation,filename,IMG_20240122.exe,Source: MalwareBazaar
+2024-01-22,Payload installation,md5,4ecfc2179cc495e4b7b3f75e7c6bd28b,Source: MalwareBazaar
+2024-01-22,Payload installation,sha1,24ae8637aabb0d43db208a67cf9483774058debb,Source: MalwareBazaar
+2024-01-22,Payload installation,sha256,e2ed0fc294f7ba96adc7f11fcfd6b1c92744e352a6c5ec1d845185d688e520ad,Source: MalwareBazaar
+2024-01-22,Payload installation,filename,Ziraat Bankasi Swift Mesaji.pdf.exe,Source: MalwareBazaar
+2024-01-22,Payload installation,md5,bfa3832346460edd9e3c6d500ff362c5,Source: MalwareBazaar
+2024-01-22,Payload installation,sha1,215cf2e028db2fbb1a85bad4f9ee4159c33058c8,Source: MalwareBazaar
+2024-01-22,Payload installation,sha256,5de5eefbec6be9cf392e7dde9cf48df6e20e8b7896f311519b0713976ae6674f,Source: MalwareBazaar
+2024-01-23,Payload installation,filename,DOC6010038709-PO.exe,Source: MalwareBazaar
+2024-01-23,Payload installation,md5,5ad5fcac5705acde3ed51ae6b3c2c0b1,Source: MalwareBazaar
+2024-01-23,Payload installation,sha1,77a26b80323ac8e1f172d8ce980120454ed53939,Source: MalwareBazaar
+2024-01-23,Payload installation,sha256,52dd1ddf925baa01a172d0e420ec8833a10726ee7a7dcfc2a55f1e04f47c6a63,Source: MalwareBazaar

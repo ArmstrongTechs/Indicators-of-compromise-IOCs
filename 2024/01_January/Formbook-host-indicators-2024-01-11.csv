@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-01-11]
+| UUID: 539c9275-3f80-4b79-9e59-c016146dcaab
+| Date: 2024-01-11
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-11,Payload installation,filename,Quotation-3927377773.exe,Source: MalwareBazaar
+2024-01-11,Payload installation,md5,2009622d584babb952a3347a408c6f39,Source: MalwareBazaar
+2024-01-11,Payload installation,sha1,148f131684dc58e044f319f03d4b18f17b3ce592,Source: MalwareBazaar
+2024-01-11,Payload installation,sha256,1b7c29ec3b8b5e6d2ef3535b36990ad6dec6c2cd2800bb237717965b23ca8a16,Source: MalwareBazaar
+2024-01-11,Payload installation,filename,Informe de pago - Transferencia.exe,Source: MalwareBazaar
+2024-01-11,Payload installation,md5,472222b9bc0a918bcd25569e5bfd51f7,Source: MalwareBazaar
+2024-01-11,Payload installation,sha1,ac050ea67abb8f7edcc3da0ca6b53357995b71a7,Source: MalwareBazaar
+2024-01-11,Payload installation,sha256,f08afadff8298941a488a237df4deb8f94f13bf274411548f386d2828f4df636,Source: MalwareBazaar
+2024-01-11,Payload installation,filename,39ee34923fc77f5cacd1210dd87e95c101cfb53b947de24da39f82152afa0f4c,Source: MalwareBazaar
+2024-01-11,Payload installation,md5,c169e1f817ab1c2597390c60cd74d7d7,Source: MalwareBazaar
+2024-01-11,Payload installation,sha1,01d570b7e56e2d725e186956321c13d62fbca565,Source: MalwareBazaar
+2024-01-11,Payload installation,sha256,39ee34923fc77f5cacd1210dd87e95c101cfb53b947de24da39f82152afa0f4c,Source: MalwareBazaar
+2024-01-11,Payload installation,filename,80f1abd5006e75632ccce2516b48be9abf23a9bf80a4dceeee1b73a6b7251b3a,Source: MalwareBazaar
+2024-01-11,Payload installation,md5,3db3bf46cdb740ff8ca988ade9eeba2e,Source: MalwareBazaar
+2024-01-11,Payload installation,sha1,003aa2977a0ac850916f37dad9554fa6ebb64bfa,Source: MalwareBazaar
+2024-01-11,Payload installation,sha256,80f1abd5006e75632ccce2516b48be9abf23a9bf80a4dceeee1b73a6b7251b3a,Source: MalwareBazaar
+2024-01-11,Payload installation,filename,4f2139c9c1c42e293388deb00bcb9591162b58c8107e6cd8a317b40f93a6c836,Source: MalwareBazaar
+2024-01-11,Payload installation,md5,c721b60166a9167d39bea3b521b6c39f,Source: MalwareBazaar
+2024-01-11,Payload installation,sha1,23b63842c7022010d40930160038f3a9c2ae8edc,Source: MalwareBazaar
+2024-01-11,Payload installation,sha256,4f2139c9c1c42e293388deb00bcb9591162b58c8107e6cd8a317b40f93a6c836,Source: MalwareBazaar

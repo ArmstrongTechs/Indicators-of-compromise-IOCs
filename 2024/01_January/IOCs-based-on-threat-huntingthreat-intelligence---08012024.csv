@@ -1,0 +1,12 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: IOCs based on threat hunting/threat intelligence - 08.01.2024
+| UUID: 3bf8c991-4812-49f2-9bab-822030defafa
+| Date: 2024-01-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-10,Network activity,url,https://ktkvisokoddustecaju.com.ba/ipko/,Fake website
+2024-01-10,Network activity,url,https://api.telegram.org/bot6573290325:AAEvelVpIrt8xdhrjrnKW64CrJhhUAdobyU/sendMessage,"Source: Network activity, POST method from https://ktkvisokoddustecaju.com.ba/ipko/; Extortion of credentials"

@@ -1,0 +1,58 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: my subject - From: elle@jaypegams.com"" Campaign"
+| UUID: 44bbad4a-44bb-40a9-bcc6-3d079019ce97
+| Date: 2024-01-31
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-31,Payload delivery,email-src,elle@jaypegams.com,Source email: from elle@jaypegams.com - subject: my subject
+2024-01-31,Payload delivery,email-src-display-name,Elle Clarke,Source email: from elle@jaypegams.com - subject: my subject
+2024-01-31,Payload delivery,email-body,"Hi Good morning,
+ 
+  
+ Please see attached docs and Order sheet for our new JGT Order PO-22385 and confirm for delivery.
+Are there any balances to ship to fill this shipment before I add other stock?
+ 
+ Best Regards,
+ 
+  
+ Elle Clarke
+ Managing Director
+  
+ JAYPE GAMS Trade Ltd,
+ Unit 19, Queensway Industrial Estate,
+ Longbridge Hayes Road,
+ Longport,
+ Stoke-On-Trent,
+ ST6 4DS
+ Tel: 01782 812537
+ Mobile: 07739617276",Source email: from elle@jaypegams.com - subject: my subject
+2024-01-31,Payload delivery,email-subject,my subject,Source: from elle@jaypegams.com - subject: my subject
+2024-01-31,Payload delivery,filename|sha256,PO-2413120.html|167dfdb00479d5b55e4b67953b57c8f424be47570b25d3b89d0e446d80dc3322,Malspam attachment - source: from elle@jaypegams.com - subject: my subject mime: text/html
+2024-01-31,Payload delivery,filename|ssdeep,PO-2413120.html|768:TZZAEjc2je431CfRgd4m2hXJGgaGIlaGIblaGIIGaX3GaGIoGaGIL9+qI+c1R3GE:k,Malspam attachment - source: from elle@jaypegams.com - subject: my subject mime: text/html
+2024-01-31,Payload delivery,filename|sha1,PO-2413120.html|7320d36edab725047214d3151a19be95325af1ad,Malspam attachment - source: from elle@jaypegams.com - subject: my subject mime: text/html
+2024-01-31,Payload delivery,filename|sha512,PO-2413120.html|5e44daaff7f19b4034c1bb2b2cd93353df50e30737b6b4f39195ccbe9017a8ca1fed2ce793630778b4f396102a035e93282df2798c8ebf8c73b60025e8579581,Malspam attachment - source: from elle@jaypegams.com - subject: my subject mime: text/html
+2024-01-31,Payload delivery,filename|md5,PO-2413120.html|c6e33d40ae769fce6afc3ef7674fa4a8,Malspam attachment - source: from elle@jaypegams.com - subject: my subject mime: text/html
+2024-01-31,Payload delivery,filename|imphash,PO-2413120.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Extracted from PO-2413120.rar; mime: application/x-dosexec
+2024-01-31,Payload delivery,filename|md5,PO-2413120.exe|a646d8780c4a48cf5f5ec0ccd5eab607,Extracted from PO-2413120.rar; mime: application/x-dosexec
+2024-01-31,Payload delivery,filename|sha1,PO-2413120.exe|9f11e24a4615fededd4b668fd4d1c1116013dca8,Extracted from PO-2413120.rar; mime: application/x-dosexec
+2024-01-31,Payload delivery,filename|sha256,PO-2413120.exe|6688ddc668fc3e9d44e97f102ec660e216c63729d52eaeb47d16e65de9ede0c6,Extracted from PO-2413120.rar; mime: application/x-dosexec
+2024-01-31,Payload delivery,filename|sha512,PO-2413120.exe|ac3383ee1dafd5cfdbf75c463030700abc96425d9d7871b698e2bbbd8de50b3d2b99f65f95b84fdd28f4078e33f3f90df74c138f278afd26ea7d1a894a95c906,Extracted from PO-2413120.rar; mime: application/x-dosexec
+2024-01-31,Payload delivery,filename|ssdeep,PO-2413120.exe|24576:fkTU/KM/iJAygpTcuBqbuaF1iNNe4Mfo68bshc:YMcAyMZ8XFcNe40ab,Extracted from PO-2413120.rar; mime: application/x-dosexec
+2024-01-31,Payload delivery,filename|md5,PO-2413120.rar|6f65de3ec1a60c73bf3af6a692612e9f,Downloaded from http://server.securemailserverauth.com/PO-2413120.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha1,PO-2413120.rar|2b211248c558a0028f79713e5d3fc10697e80e2e,Downloaded from http://server.securemailserverauth.com/PO-2413120.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha256,PO-2413120.rar|ca20134850ea0f1dc3324b836100ca1bd623a5525bc54d879f0a02b5649a6273,Downloaded from http://server.securemailserverauth.com/PO-2413120.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha512,PO-2413120.rar|ca58e49e3abc4587816a4dbc53a09fe74f14370874dabe3af7a674729f6b50e30f557382c941309b30e80c2ad1c0872241ba6a7d7572808d0081c20c3a97478c,Downloaded from http://server.securemailserverauth.com/PO-2413120.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|ssdeep,PO-2413120.rar|24576:aARUYHGnn0Umfgt3vgDdALFdozvB8jWdPf/niPB5dmScF1WC:aAlHGnAfgt3vQUFdFgviPjdDcnWC,Downloaded from http://server.securemailserverauth.com/PO-2413120.rar; mime: application/x-rar
+2024-01-31,Network activity,url,http://geoplugin.net/json.gp,Source: Network activity from PO-2413120.exe
+2024-01-31,Network activity,url,http://server.securemailserverauth.com/PO-2413120.rar,Source: Network activity from PO-2413120.html
+2024-01-31,Payload delivery,filename|imphash,remcos.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Extracted from PO-2413120.exe; mime: application/x-dosexec
+2024-01-31,Payload delivery,filename|md5,remcos.exe|a646d8780c4a48cf5f5ec0ccd5eab607,Extracted from PO-2413120.exe; mime: application/x-dosexec
+2024-01-31,Payload delivery,filename|sha1,remcos.exe|9f11e24a4615fededd4b668fd4d1c1116013dca8,Extracted from PO-2413120.exe; mime: application/x-dosexec
+2024-01-31,Payload delivery,filename|sha256,remcos.exe|6688ddc668fc3e9d44e97f102ec660e216c63729d52eaeb47d16e65de9ede0c6,Extracted from PO-2413120.exe; mime: application/x-dosexec
+2024-01-31,Payload delivery,filename|sha512,remcos.exe|ac3383ee1dafd5cfdbf75c463030700abc96425d9d7871b698e2bbbd8de50b3d2b99f65f95b84fdd28f4078e33f3f90df74c138f278afd26ea7d1a894a95c906,Extracted from PO-2413120.exe; mime: application/x-dosexec
+2024-01-31,Payload delivery,filename|ssdeep,remcos.exe|24576:fkTU/KM/iJAygpTcuBqbuaF1iNNe4Mfo68bshc:YMcAyMZ8XFcNe40ab,Extracted from PO-2413120.exe; mime: application/x-dosexec
+2024-01-31,Network activity,ip-dst|port,198.27.121.194|2024,Source: Extracted from static config of remcos.exe; C2

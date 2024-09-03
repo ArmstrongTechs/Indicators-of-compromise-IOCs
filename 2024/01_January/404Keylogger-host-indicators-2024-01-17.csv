@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: 404Keylogger host indicators [2024-01-17]
+| UUID: 7fa16d80-4024-468e-ae0b-7a6d4429ad86
+| Date: 2024-01-17
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-17,Payload installation,filename,Τιμολόγιο.doc,Source: MalwareBazaar
+2024-01-17,Payload installation,md5,ae054d4dec2e43a0e66765d280b91668,Source: MalwareBazaar
+2024-01-17,Payload installation,sha1,4ca92b950bc9cc6c54b2b519057170a8b05e8a6e,Source: MalwareBazaar
+2024-01-17,Payload installation,sha256,8bdfeab040508e6ceeb585c27cf6fcdf931ad9b2d0d539fa9cb910d5ac89f423,Source: MalwareBazaar

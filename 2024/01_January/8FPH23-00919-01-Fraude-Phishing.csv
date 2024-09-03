@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: 8FPH23-00919-01 [Fraude] [Phishing]
+| UUID: b5dd1153-9fa1-4c98-addf-ab8f299b722b
+| Date: 2024-01-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-29,Network activity,ip-src,162.241.85.202,Host
+2024-01-29,Payload delivery,url,https://support-appmlbancochile.bovgn5.online/1704727026/bchile-web/persona/login/index.html/login,URLs
+2024-01-29,Payload delivery,url,https://bit.ly/appmibanco,URLs
+2024-01-29,External analysis,attachment,8FPH23-00919-01.docx,Informe CSIRT
+2024-01-29,External analysis,text,"El Equipo de Respuesta ante Incidentes de Seguridad Informática (CSIRT de Gobierno) ha identificado una nueva campaña de phishing vía SMS (smishing), que suplanta al Banco de Chile. En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente: 
+
+“Banco de Chile: Se detecto un ingreso en la App Mi Banco Titular, el 08/01/2024. Si no fuiste tu VERIFICA AQUÍ.”
+
+El correo electrónico incluye un enlace a un formulario para capturar credenciales de usuarios.",Resumen
+2024-01-29,External analysis,attachment,8FPH23-00919-01.pdf,Informe CSIRT PDF
+2024-01-29,External analysis,attachment,image_mensaje.png,Captura de Pantalla
+2024-01-29,External analysis,attachment,imagen_sitio.png,Captura de Pantalla

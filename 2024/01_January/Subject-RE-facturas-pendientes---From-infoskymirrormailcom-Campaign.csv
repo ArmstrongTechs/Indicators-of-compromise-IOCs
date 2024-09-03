@@ -1,0 +1,70 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: RE: facturas pendientes - From: info@skymirrormail.com"" Campaign"
+| UUID: b161b3b1-970b-42e8-b63f-5882f2257696
+| Date: 2024-01-26
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-26,Payload delivery,email-src,info@skymirrormail.com,Source email: from info@skymirrormail.com - subject: RE: facturas pendientes
+2024-01-26,Payload delivery,email-src-display-name,Patricia Olivera Pereira,Source email: from info@skymirrormail.com - subject: RE: facturas pendientes
+2024-01-26,Payload delivery,email-body,"Hola
+
+Adjunto facturas pendientes
+
+Un saludo
+
+Gracias
+
+Un saludo
+
+Patricia Olivera Pereira
+
+Operations Manager
+
+Mail Delivery
+
+Mov. 675 14 67 35
+
+PROTECCIÓN DATOS: Reglamento Europeo de Protección de Datos 2016/679 y 
+Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de los 
+derechos digitales: Responsable: Real Mail Delivery S.L., Av. República 
+Argentina, 24 2ª Planta 41011 Sevilla; Finalidad: Gestionar las 
+comunicaciones relativas a los productos o servicios que presta la 
+empresa; Legitimación: Consentimiento y/o interés legítimo y/o relación 
+contractual; Conservación: Sus datos se conservarán mientras no solicite 
+su supresión; Destinatarios: Los datos podrán ser compartidos con 
+terceros en caso de ser necesario para el correcto desarrollo del 
+servicio o en caso de obligación legal; Derechos: Puede ejercer el 
+acceso, rectificación, supresión, limitación, portabilidad, oposición y 
+a presentar una reclamación ante la AEPD y/o consultar información 
+adicional en empresa.
+
+CONFIDENCIALIDAD: Ley 34/2002 de 11 de Julio de Servicios de la Sociedad 
+de la Información y Comercio Electrónico (LSSI-CE): este e-mail está 
+dirigido a la persona(s) nombrada anteriormente y es de carácter 
+confidencial, personal e intransferible. Si ha recibido este mensaje por 
+equivocación, por favor notifíquelo inmediatamente, por teléfono o 
+mediante e-mail, a la persona que se lo ha enviado y borre el mensaje 
+original junto con sus ficheros anexos sin leerlo o grabarlo total o 
+parcialmente.
+
+Real Mail Delivery S.L.,  se reserva las acciones legales que le 
+correspondan contra todo tercero que acceda de forma ilegítima al 
+contenido de cualquier mensaje externo procedente del mismo.",Source email: from info@skymirrormail.com - subject: RE: facturas pendientes
+2024-01-26,Payload delivery,email-subject,RE: facturas pendientes,Source: from info@skymirrormail.com - subject: RE: facturas pendientes
+2024-01-26,Payload delivery,filename|sha256,5435435435434543_PDF.gz|98bd108464bb17b1770426902adcde980a809043bafca3de44e12dffe1b69fc0,Malspam attachment - source: from info@skymirrormail.com - subject: RE: facturas pendientes mime: application/x-rar
+2024-01-26,Payload delivery,filename|ssdeep,5435435435434543_PDF.gz|12288:rsCjpiw1/nC3E9nysq8QjkysxLLnKvimq0kOqQpyFYXHb:rsCtiwNufsq3QkvH7kOqiyFk,Malspam attachment - source: from info@skymirrormail.com - subject: RE: facturas pendientes mime: application/x-rar
+2024-01-26,Payload delivery,filename|sha1,5435435435434543_PDF.gz|01596bf811b5f6413a1ab10793060b4cc51afcb2,Malspam attachment - source: from info@skymirrormail.com - subject: RE: facturas pendientes mime: application/x-rar
+2024-01-26,Payload delivery,filename|sha512,5435435435434543_PDF.gz|fd9140bb60ffff9f69c180bd43d86c963f913d58be0f43c280a6c1ccb30231de6c0b03eaab66f7e554511689d23af673ba30703264cee14b310c3186967c4ecc,Malspam attachment - source: from info@skymirrormail.com - subject: RE: facturas pendientes mime: application/x-rar
+2024-01-26,Payload delivery,filename|md5,5435435435434543_PDF.gz|b0877bffaf4d3f09340dcb2be58ac4d9,Malspam attachment - source: from info@skymirrormail.com - subject: RE: facturas pendientes mime: application/x-rar
+2024-01-26,Payload delivery,filename|sha1,5435435435434543_PDF.exe|384696ef974cc7c405e8ed63293ab92093b1c4ba,Archive contents - source: 5435435435434543_PDF.gz mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|imphash,5435435435434543_PDF.exe|948cc502fe9226992dce9417f952fce3,Archive contents - source: 5435435435434543_PDF.gz mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|ssdeep,5435435435434543_PDF.exe|24576:yqDEvCTbMWu7rQYlBQcBiT6rprG8aYWKVE9s:yTvC/MTQYxsWR7aYw,Archive contents - source: 5435435435434543_PDF.gz mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|sha256,5435435435434543_PDF.exe|b63ee02bc45b66959b886cdfbd7c3296509e380a2c7e62ffd4526003ce8484b6,Archive contents - source: 5435435435434543_PDF.gz mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|sha512,5435435435434543_PDF.exe|c22ac63541158baa0050a75ab47831c83de8a725bf25a4d51a79db8cc729ebbb828b515a1e6039fd85445e5b1d5eabddd04f594cd72fef35c1d8bb4d41c6462b,Archive contents - source: 5435435435434543_PDF.gz mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|md5,5435435435434543_PDF.exe|f2dd6347a31501f9e0e0acf5eacb01d7,Archive contents - source: 5435435435434543_PDF.gz mime: application/x-dosexec
+2024-01-26,Network activity,url,https://api.ipify.org/,Source: Network activity from 5435435435434543_PDF.exe
+2024-01-26,Network activity,url,https://api.telegram.org/bot5767155588:AAHB9LvDVeE1xTtJ8CU3NshGUKFqep-D9oI/,Source: Extracted from static config of 5435435435434543_PDF.exe; data exfiltration

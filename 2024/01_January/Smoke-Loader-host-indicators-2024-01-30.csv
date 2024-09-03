@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Smoke Loader host indicators [2024-01-30]
+| UUID: 8a819285-d62b-4cbd-a35c-bf8dc6b808a1
+| Date: 2024-01-31
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-30,Payload installation,filename,file,Source: MalwareBazaar
+2024-01-30,Payload installation,md5,ff9a3ddeb084105a6c7e597003788d7b,Source: MalwareBazaar
+2024-01-30,Payload installation,sha1,2014faf33c80fd5a5a187c99a202444263445dd0,Source: MalwareBazaar
+2024-01-30,Payload installation,sha256,24ca31f5b2c38b141f0c22d7f6fdf6cf558c24840cf215fafab0f337afa4bac2,Source: MalwareBazaar
+2024-01-30,Payload installation,filename,file,Source: MalwareBazaar
+2024-01-30,Payload installation,md5,5dd758d30a2785553e5dfc6692cc972e,Source: MalwareBazaar
+2024-01-30,Payload installation,sha1,a73cd082530358e3dce0f60329f8da159c053045,Source: MalwareBazaar
+2024-01-30,Payload installation,sha256,9f5447dd37ee7e006c9978bde29ed18d51a29af6fa7cc1fcfc6cfe5f32de6b8b,Source: MalwareBazaar
+2024-01-30,Payload installation,filename,file,Source: MalwareBazaar
+2024-01-30,Payload installation,md5,582200a724af12a4a525bf2ae4d8b75b,Source: MalwareBazaar
+2024-01-30,Payload installation,sha1,a7dba48a45fa92a8649e7eb26d9b571ee1080644,Source: MalwareBazaar
+2024-01-30,Payload installation,sha256,96ef0fa612962e229cabe7c23fcd099a34fc49e3dc760aafbddc6c44358db341,Source: MalwareBazaar
+2024-01-31,Payload installation,filename,6a684f04b6dc6ed0ca2bc55dec214e78c664aa18ee412fd290e6d543866115a9_dump.exe,Source: MalwareBazaar
+2024-01-31,Payload installation,md5,2bcb27364bcc7a8be2c8d3c73b25f2b6,Source: MalwareBazaar
+2024-01-31,Payload installation,sha1,3c4e4f19b3f5376ff30ddf8af9f9522fb0e6cabc,Source: MalwareBazaar
+2024-01-31,Payload installation,sha256,87023c7633cdf21fe79acaac656f2548af5de2b0ad91f8ae55e54e8490ea1590,Source: MalwareBazaar

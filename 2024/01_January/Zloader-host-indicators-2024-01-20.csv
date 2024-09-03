@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Zloader host indicators [2024-01-20]
+| UUID: b19236f5-a34c-4616-9334-da0c94f44625
+| Date: 2024-01-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-21,Payload installation,filename,UltraApp.exe,Source: MalwareBazaar
+2024-01-21,Payload installation,md5,2f6fcc4884dfa21ee48e463a7a1963f5,Source: MalwareBazaar
+2024-01-21,Payload installation,sha1,2090c12960dee091681a7a3d334d54f2dd6d0bf2,Source: MalwareBazaar
+2024-01-21,Payload installation,sha256,25c8f98b79cf0bfc00221a33d714fac51490d840d13ab9ba4f6751a58d55c78d,Source: MalwareBazaar
+2024-01-21,Payload installation,filename,IonPulse.exe,Source: MalwareBazaar
+2024-01-21,Payload installation,md5,71c72ad0da3af2fca53a729ef977f344,Source: MalwareBazaar
+2024-01-21,Payload installation,sha1,7ace68f544299d8195eabc3e3f71e548eca51e47,Source: MalwareBazaar
+2024-01-21,Payload installation,sha256,16af920dd49010cf297b03a732749bb99cc34996f090cb1e4f16285f5b69ee7d,Source: MalwareBazaar

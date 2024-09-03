@@ -1,0 +1,32 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Phishing URL Finding | urlabuse.com
+| UUID: 19085ac6-8168-44a5-ac60-003a7b3677ed
+| Date: 2024-01-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-24,Network activity,hostname,booking.com-find-1215.com,Host name or IP address of the phishing attack
+2024-01-24,External analysis,attachment,Booking.com.jpg,Screenshot of the phishing attack
+2024-01-24,Network activity,url,https://booking.com-find-1215.com/p/6615825848,Source URL
+2024-01-24,Other,text,Booking.com,Target of the attack
+2024-01-24,Other,text,Yes,
+2024-01-24,Other,text,United States,
+2024-01-24,Other,text,US,
+2024-01-24,Other,float,38,
+2024-01-24,Other,float,-97,
+2024-01-24,Other,text,db_source: GeoOpen-Country-ASN. build_db: 2023-11-20 15:49:14. Latitude and longitude are country average.,
+2024-01-24,Other,text,13335,
+2024-01-24,Other,text,ASNOrganization: CLOUDFLARENET. db_source: GeoOpen-Country-ASN. build_db: 2023-11-20 15:49:14.,
+2024-01-24,Network activity,domain,com-find-1215.com,
+2024-01-24,Attribution,whois-registrar,"COSMOTOWN, INC.",
+2024-01-24,Other,text,1509,
+2024-01-24,Other,text,com,
+2024-01-24,Other,text,Verisign,
+2024-01-24,Network activity,hostname,merlin.ns.cloudflare.com,
+2024-01-24,Network activity,hostname,sarah.ns.cloudflare.com,
+2024-01-24,Attribution,whois-creation-date,2024-01-17 14:45:31,
+2024-01-24,Other,datetime,2024-01-23T10:41:45.000000+0000,
+2024-01-24,Other,datetime,2025-01-17T14:45:31.000000+0000,

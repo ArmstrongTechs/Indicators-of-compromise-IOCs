@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-01-02]
+| UUID: ec99ddb3-e370-4bf0-93cc-dfc0d36dc09c
+| Date: 2024-01-02
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-02,Payload installation,filename,All requests and company profile.exe,Source: MalwareBazaar
+2024-01-02,Payload installation,md5,d50751a023fc8006c2ac9ad4fdcc69e6,Source: MalwareBazaar
+2024-01-02,Payload installation,sha1,373e6180649ffa9932ed313dd251756cbbac2216,Source: MalwareBazaar
+2024-01-02,Payload installation,sha256,03d64134db5f0c1296f16f64b8ef153fe5096753cb6654de01eaa74e988247dd,Source: MalwareBazaar
+2024-01-02,Payload installation,filename,PO_CW20488707-A & CW201.exe,Source: MalwareBazaar
+2024-01-02,Payload installation,md5,3228fe5642312eaf4af9536a14a67baf,Source: MalwareBazaar
+2024-01-02,Payload installation,sha1,a1ce112314ef31a5bfabfd47927e51a79373ced3,Source: MalwareBazaar
+2024-01-02,Payload installation,sha256,bea42a753715b080ac6a74256cd563aef533f837b9dd45797d50c99d2af989fd,Source: MalwareBazaar
+2024-01-02,Payload installation,filename,PS23-107.exe,Source: MalwareBazaar
+2024-01-02,Payload installation,md5,8bc12f4c63c7cd1eac3b317628526489,Source: MalwareBazaar
+2024-01-02,Payload installation,sha1,535425182540ac5b5ea21a13b9357632baf68313,Source: MalwareBazaar
+2024-01-02,Payload installation,sha256,b60d52fb9609a44a180110b46007bfc5f21e16189a667a17eb54e16cb3890c3e,Source: MalwareBazaar
+2024-01-03,Payload installation,filename,b129bac9787c0f54ffa432167609b32e,Source: MalwareBazaar
+2024-01-03,Payload installation,md5,b129bac9787c0f54ffa432167609b32e,Source: MalwareBazaar
+2024-01-03,Payload installation,sha1,59bca808393387b5534ccbe78b2b400466c108b0,Source: MalwareBazaar
+2024-01-03,Payload installation,sha256,7e924017dc6019c756ee6dd390babd32bef51fc7aa0722c18a65b8d2260056d6,Source: MalwareBazaar

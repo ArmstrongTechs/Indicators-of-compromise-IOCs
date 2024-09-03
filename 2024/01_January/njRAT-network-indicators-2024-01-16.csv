@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT network indicators [2024-01-16]
+| UUID: 167495f2-4062-44c2-b991-69ef6d3d8937
+| Date: 2024-01-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-16,Network activity,url,https://wtools.io/paste-code/bSWN,Source: urlhaus
+2024-01-16,Network activity,url,https://wtools.io/paste-code/bSWO,Source: urlhaus
+2024-01-16,Network activity,url,https://wtools.io/paste-code/bSXr,Source: urlhaus
+2024-01-16,Network activity,url,https://wtools.io/paste-code/bSX0,Source: urlhaus

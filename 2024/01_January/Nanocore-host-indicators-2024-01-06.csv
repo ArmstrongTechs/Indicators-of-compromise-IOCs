@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Nanocore host indicators [2024-01-06]
+| UUID: 3e1e3fe9-1488-4932-be41-a88f1b638f02
+| Date: 2024-01-07
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-06,Payload installation,filename,9E7DE6D79CCC935FA7C1B629155CA2EF.exe,Source: MalwareBazaar
+2024-01-06,Payload installation,md5,9e7de6d79ccc935fa7c1b629155ca2ef,Source: MalwareBazaar
+2024-01-06,Payload installation,sha1,09e1a1d16d81e0c7213cd2664bc47e5ce69165ed,Source: MalwareBazaar
+2024-01-06,Payload installation,sha256,52bed4d9c0fdb81bdc4abfd46b47b8f8fa2dcdd570fcdc94f300f087c8b3aa65,Source: MalwareBazaar
+2024-01-06,Payload installation,filename,a632a39ffdce2f2de984c6992d188986.exe,Source: MalwareBazaar
+2024-01-06,Payload installation,md5,a632a39ffdce2f2de984c6992d188986,Source: MalwareBazaar
+2024-01-06,Payload installation,sha1,7a1bb8fea06c819b7e575f9ef431af09151837eb,Source: MalwareBazaar
+2024-01-06,Payload installation,sha256,6800905847788c228e211fd1086dad6a20aa745d1351c0bd43d5f89aa58b1c9e,Source: MalwareBazaar
+2024-01-06,Payload installation,filename,abb84f7bbcc5585765153cd445c8c07d.exe,Source: MalwareBazaar
+2024-01-06,Payload installation,md5,abb84f7bbcc5585765153cd445c8c07d,Source: MalwareBazaar
+2024-01-06,Payload installation,sha1,69707e556ebd88aec6414c0c5a481b235ad2eead,Source: MalwareBazaar
+2024-01-06,Payload installation,sha256,149e9d049c83abff4843e0fab7f6cde552aef61e32a53d61e76f6c5adc3db25f,Source: MalwareBazaar
+2024-01-07,Payload installation,filename,80C6039DC12399E3F771632F0A44C4C3.exe,Source: MalwareBazaar
+2024-01-07,Payload installation,md5,80c6039dc12399e3f771632f0a44c4c3,Source: MalwareBazaar
+2024-01-07,Payload installation,sha1,f609ba2e8bc0d4b395b83f38a4867fcdb9b6bfdd,Source: MalwareBazaar
+2024-01-07,Payload installation,sha256,f6b10c59c9ce33c5c8f6b02c3293fe5d479e59542698c91b15af74bcce50ab8f,Source: MalwareBazaar
+2024-01-07,Payload installation,filename,051ce434ea8ea139cb3fc0cd61b21a99.exe,Source: MalwareBazaar
+2024-01-07,Payload installation,md5,051ce434ea8ea139cb3fc0cd61b21a99,Source: MalwareBazaar
+2024-01-07,Payload installation,sha1,0ebb963dc8226ff95f26b90ae148fd02154ef39b,Source: MalwareBazaar
+2024-01-07,Payload installation,sha256,5aad4e2ad582c6fe27f4f7d2a9c526115cf40f9227385cb9e2c5d160c85bf11b,Source: MalwareBazaar

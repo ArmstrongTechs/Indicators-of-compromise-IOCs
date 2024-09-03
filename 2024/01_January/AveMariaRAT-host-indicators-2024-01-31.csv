@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AveMariaRAT host indicators [2024-01-31]
+| UUID: b5095657-ccc4-409b-b2a6-f9c372823993
+| Date: 2024-01-31
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-31,Payload installation,filename,PO11550.exe,Source: MalwareBazaar
+2024-01-31,Payload installation,md5,9a6dfc5afa64b9579b0eaaa19384008a,Source: MalwareBazaar
+2024-01-31,Payload installation,sha1,96ad170df9b6802ae726acc1efcacf7bf4ffb0ce,Source: MalwareBazaar
+2024-01-31,Payload installation,sha256,b66c5ebef83e48811156c3499b79c798c178d5655d6448403cb070061aba4f4d,Source: MalwareBazaar

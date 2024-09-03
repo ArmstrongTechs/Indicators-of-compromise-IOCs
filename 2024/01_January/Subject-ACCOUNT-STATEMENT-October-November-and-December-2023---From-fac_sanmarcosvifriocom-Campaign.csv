@@ -1,0 +1,75 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: ACCOUNT STATEMENT October, November and December 2023 - From: fac_sanmarcos@vifrio.com"" Campaign"
+| UUID: 2fb7571e-4232-4c5f-89ef-3fcbc0b19728
+| Date: 2024-01-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-19,Payload delivery,email-src,fac_sanmarcos@vifrio.com,"Source: Extracted from static config of Invoices 00005111, 005112,, 005113, 005114,,, 005115.pdf.exe; data exfiltarion via FTP"
+2024-01-19,Payload delivery,email-src-display-name,Adam omer,"Source email: from fac_sanmarcos@vifrio.com - subject: ACCOUNT STATEMENT October, November and December 2023"
+2024-01-19,Payload delivery,email-body,"Good day 
+
+
+I checked your account and found that the attached invoices are still open. 
+
+Could you please review these overdue invoices as an attached notice and provide us with your payment information as soon as possible? 
+
+
+If you have already received all of our payments, you can ignore this message. Otherwise, confirm your payment options: 
+
+
+ACH 
+
+Bank account name: 
+
+Account number: 
+
+ABA: 
+
+Swift Code: 
+
+ADDRESS: 
+
+
+Check 
+
+Safe/Location 
+
+Postal mail 
+
+
+
+Wire 
+
+Bank account name: 
+
+Account number: 
+
+ABA: 
+
+Swift Code: 
+
+ADDRESS: 
+
+
+Thank you, 
+
+Adam Omer 
+Accounts payable","Source email: from fac_sanmarcos@vifrio.com - subject: ACCOUNT STATEMENT October, November and December 2023"
+2024-01-19,Payload delivery,email-subject,"ACCOUNT STATEMENT October, November and December 2023","Source: from fac_sanmarcos@vifrio.com - subject: ACCOUNT STATEMENT October, November and December 2023"
+2024-01-19,Payload delivery,filename|sha256,"Invoices 00005111, 005112,, 005113, 005114,,, 005115.pdf.uue|655687173b603daea09e1a6416dc817799c304bbcb676c60b889afa827458fbd","Malspam attachment - source: from fac_sanmarcos@vifrio.com - subject: ACCOUNT STATEMENT October, November and December 2023 mime: application/x-rar"
+2024-01-19,Payload delivery,filename|ssdeep,"Invoices 00005111, 005112,, 005113, 005114,,, 005115.pdf.uue|12288:RFE7JdrEFHZ2+hbhyKESXkDPCN+9djCSPn85RxSRmUP8cfn3NFc:R2ehcKDUmNIX858NPTNFc","Malspam attachment - source: from fac_sanmarcos@vifrio.com - subject: ACCOUNT STATEMENT October, November and December 2023 mime: application/x-rar"
+2024-01-19,Payload delivery,filename|sha1,"Invoices 00005111, 005112,, 005113, 005114,,, 005115.pdf.uue|3428ac190595c560cd6e60ed8a6cf9de4ad5f553","Malspam attachment - source: from fac_sanmarcos@vifrio.com - subject: ACCOUNT STATEMENT October, November and December 2023 mime: application/x-rar"
+2024-01-19,Payload delivery,filename|sha512,"Invoices 00005111, 005112,, 005113, 005114,,, 005115.pdf.uue|ee4d8e122e859a20eee9721b17ef073ddea955df42a47299c6d5b34ad3e56ac287a256dc8487c2c391ade8c0de760a1705b797305e7329df305759d6083a0b60","Malspam attachment - source: from fac_sanmarcos@vifrio.com - subject: ACCOUNT STATEMENT October, November and December 2023 mime: application/x-rar"
+2024-01-19,Payload delivery,filename|md5,"Invoices 00005111, 005112,, 005113, 005114,,, 005115.pdf.uue|73afc7e400e95343fb8895492a98f281","Malspam attachment - source: from fac_sanmarcos@vifrio.com - subject: ACCOUNT STATEMENT October, November and December 2023 mime: application/x-rar"
+2024-01-19,Payload delivery,filename|sha1,"Invoices 00005111, 005112,, 005113, 005114,,, 005115.pdf.exe|411e4a445f5966874dbd2f89a2a912fa42a2a368","Archive contents - source: Invoices 00005111, 005112,, 005113, 005114,,, 005115.pdf.uue mime: application/x-dosexec"
+2024-01-19,Payload delivery,filename|imphash,"Invoices 00005111, 005112,, 005113, 005114,,, 005115.pdf.exe|948cc502fe9226992dce9417f952fce3","Archive contents - source: Invoices 00005111, 005112,, 005113, 005114,,, 005115.pdf.uue mime: application/x-dosexec"
+2024-01-19,Payload delivery,filename|ssdeep,"Invoices 00005111, 005112,, 005113, 005114,,, 005115.pdf.exe|24576:YqDEvCTbMWu7rQYlBQcBiT6rprG8a5xkJE9eL:YTvC/MTQYxsWR7a5iJ","Archive contents - source: Invoices 00005111, 005112,, 005113, 005114,,, 005115.pdf.uue mime: application/x-dosexec"
+2024-01-19,Payload delivery,filename|sha256,"Invoices 00005111, 005112,, 005113, 005114,,, 005115.pdf.exe|19afd0cac80289a7844838f12c91084acbf7778f0598a1e5160b93cb070f321d","Archive contents - source: Invoices 00005111, 005112,, 005113, 005114,,, 005115.pdf.uue mime: application/x-dosexec"
+2024-01-19,Payload delivery,filename|sha512,"Invoices 00005111, 005112,, 005113, 005114,,, 005115.pdf.exe|a2b8f9dd06cada0af485b72b284a37d34657c3adb0b177ad1385df5e1f15efc5b9bb652721d6cc459971fa28a0b651880cd771c5e9942769daa36add9eeb203d","Archive contents - source: Invoices 00005111, 005112,, 005113, 005114,,, 005115.pdf.uue mime: application/x-dosexec"
+2024-01-19,Payload delivery,filename|md5,"Invoices 00005111, 005112,, 005113, 005114,,, 005115.pdf.exe|90027cbfc4de1bea4288528296f5da2c","Archive contents - source: Invoices 00005111, 005112,, 005113, 005114,,, 005115.pdf.uue mime: application/x-dosexec"
+2024-01-19,Network activity,url,ftp://ftp.siscop.com.co,"Source: Extracted from static config of Invoices 00005111, 005112,, 005113, 005114,,, 005115.pdf.exe; data exfiltarion via FTP"
+2024-01-19,Network activity,email,pedophile@siscop.com.co,"Source: Network activity from Invoices 00005111, 005112,, 005113, 005114,,, 005115.pdf.e"

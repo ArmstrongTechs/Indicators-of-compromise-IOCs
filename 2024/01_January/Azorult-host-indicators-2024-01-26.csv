@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Azorult host indicators [2024-01-26]
+| UUID: c1f473b5-f845-40f2-81a0-e0d214164752
+| Date: 2024-01-26
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-27,Payload installation,filename,SecuriteInfo.com.Win32.PWSX-gen.17580.24236,Source: MalwareBazaar
+2024-01-27,Payload installation,md5,3c870efbe2e2350a62697a545d491a30,Source: MalwareBazaar
+2024-01-27,Payload installation,sha1,5719ab24c8b5f26d7443d7eb7580c0661002697c,Source: MalwareBazaar
+2024-01-27,Payload installation,sha256,3a31af96c5d5bb68be19f9eeb3dc6c3dd09d9c51292f54b51cd6db0960c8a84a,Source: MalwareBazaar

@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-01-04]
+| UUID: 26463b34-c3e2-4e8c-83d2-0abf9d39eb2f
+| Date: 2024-01-04
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-04,Payload installation,filename,585c69928b6bc9b3540a33bf45775fdc,Source: MalwareBazaar
+2024-01-04,Payload installation,md5,585c69928b6bc9b3540a33bf45775fdc,Source: MalwareBazaar
+2024-01-04,Payload installation,sha1,9fe1ea4999b492347fb92ce25cf0ab5f4b724ca3,Source: MalwareBazaar
+2024-01-04,Payload installation,sha256,25b36aa737b21d09321370e76dd2540604e24f5a7f0992df779790a1171d08ec,Source: MalwareBazaar
+2024-01-04,Payload installation,filename,NCR226074.exe,Source: MalwareBazaar
+2024-01-04,Payload installation,md5,d1590c9f8838d546a8bb573d0269c224,Source: MalwareBazaar
+2024-01-04,Payload installation,sha1,7fddd16d3c7b8aa66605b47f52db8f3e4544112b,Source: MalwareBazaar
+2024-01-04,Payload installation,sha256,359834dcc2af3dcbdccb1c13f186c74179a998fe02cbc02afce017c69f717351,Source: MalwareBazaar

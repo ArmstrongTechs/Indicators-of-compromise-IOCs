@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AveMariaRAT host indicators [2024-01-04]
+| UUID: e7f4d28f-a728-4d16-a68d-b56769eb676c
+| Date: 2024-01-04
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-04,Payload installation,filename,Comprobante.exe,Source: MalwareBazaar
+2024-01-04,Payload installation,md5,87de3f8376d531ea65b855a814f12a05,Source: MalwareBazaar
+2024-01-04,Payload installation,sha1,3eb2a0c74d5fb48fdfaf92f318e0eafddbad102d,Source: MalwareBazaar
+2024-01-04,Payload installation,sha256,31b26582627d2978052cdce87ae338c2e78a029f7676365e1583c05528afada0,Source: MalwareBazaar

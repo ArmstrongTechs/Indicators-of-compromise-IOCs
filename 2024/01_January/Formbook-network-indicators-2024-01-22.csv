@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook network indicators [2024-01-22]
+| UUID: acb5c1cc-486b-4e52-8bc3-fd7d8b4c4b97
+| Date: 2024-01-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-22,Network activity,url,http://192.3.176.145/2355/conhost.exe,Source: urlhaus
+2024-01-22,Network activity,url,http://192.3.176.145/prs/microsoftdesignednewthechnologytoupgradeentireprocessinsingleclicktounderstandhowimportantitsisverynicefeaturesforthem.doC,Source: urlhaus
+2024-01-22,Network activity,url,http://107.175.243.133/3804/conhost.exe,Source: urlhaus

@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla network indicators [2024-01-25]
+| UUID: 1425b738-a1a8-40f3-a2ee-12083a4c9646
+| Date: 2024-01-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-25,Network activity,url,http://78.138.46.125/grace.exe,Source: urlhaus
+2024-01-25,Network activity,url,http://107.175.243.133/4030/conhost.exe,Source: urlhaus
+2024-01-26,Network activity,url,http://192.3.176.145/310/conhost.exe,Source: urlhaus
+2024-01-26,Network activity,url,http://170.75.146.110/musicc.exe,Source: urlhaus

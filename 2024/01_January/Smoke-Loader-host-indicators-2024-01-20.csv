@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Smoke Loader host indicators [2024-01-20]
+| UUID: c65d2585-bbd5-4f08-80d7-2f0697599ac9
+| Date: 2024-01-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-20,Payload installation,filename,toolspub1.exe,Source: MalwareBazaar
+2024-01-20,Payload installation,md5,71f8c64c8401696c1b9ac019a41a5560,Source: MalwareBazaar
+2024-01-20,Payload installation,sha1,6a3eb92403f38de5092d1e20649cc0e23cc1d651,Source: MalwareBazaar
+2024-01-20,Payload installation,sha256,6207b75fcdf5bc8bcc175059439eddddb37fe1c2e40b73a680a4374b8a495e9b,Source: MalwareBazaar
+2024-01-21,Payload installation,filename,toolspub1.exe,Source: MalwareBazaar
+2024-01-21,Payload installation,md5,3ab03116a1d5dea017a632acfe5d56fb,Source: MalwareBazaar
+2024-01-21,Payload installation,sha1,d38ba4572555498c08a9c3e7e1826cf337c318e9,Source: MalwareBazaar
+2024-01-21,Payload installation,sha256,0457b012cd995bb807ddba8cca13f5fca914cc05a4466725028dd184776d7b03,Source: MalwareBazaar

@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AveMariaRAT host indicators [2024-01-17]
+| UUID: 7e3443ad-96be-45bd-86f9-f701525a2880
+| Date: 2024-01-17
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-17,Payload installation,filename,Sspwsvctq.exe,Source: MalwareBazaar
+2024-01-17,Payload installation,md5,215834852a24fdc3fb3004d8809cd805,Source: MalwareBazaar
+2024-01-17,Payload installation,sha1,02780d6f70a25456a6a9f9a9e08167bc3be29cf9,Source: MalwareBazaar
+2024-01-17,Payload installation,sha256,1228d2a5da0c294501e973a3de592eedca074276969cc53327edd667f08af002,Source: MalwareBazaar

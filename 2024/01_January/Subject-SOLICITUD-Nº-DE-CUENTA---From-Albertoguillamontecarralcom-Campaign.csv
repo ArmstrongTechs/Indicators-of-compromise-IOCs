@@ -1,0 +1,52 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: SOLICITUD Nº DE CUENTA - From: Albertoguillamon@tecarral.com"" Campaign"
+| UUID: 9a132062-0d16-46a8-9da8-e30882d888d9
+| Date: 2024-01-26
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-26,Payload delivery,email-src,albertoguillamon@tecarral.com,Source email: from Albertoguillamon@tecarral.com - subject: SOLICITUD Nº DE CUENTA
+2024-01-26,Payload delivery,email-src-display-name,ALBERTO GUILLAMON,Source email: from Albertoguillamon@tecarral.com - subject: SOLICITUD Nº DE CUENTA
+2024-01-26,Payload delivery,email-body,"Buenos dias;
+
+  Adjunto factura para su abono.
+
+  Rogamos nos remita nº de cuenta para proceder.
+
+  Nos mantenemos a la espera,
+  Gracias de antemano,
+
+  Un saludo;
+
+Alberto Guillamon
+TECARRAL CARRETILLAS
+www.tecarral.com [1]
+
+DEPARTAMENTO COMERCIAL
+
+TEL 632 896 763
+
+[REDACTED]
+
+
+Links:
+------
+[1] http://www.tecarral.com/",Source email: from Albertoguillamon@tecarral.com - subject: SOLICITUD Nº DE CUENTA
+2024-01-26,Payload delivery,email-subject,SOLICITUD Nº DE CUENTA,Source: from Albertoguillamon@tecarral.com - subject: SOLICITUD Nº DE CUENTA
+2024-01-26,Payload delivery,filename|sha256,Factura número 1 2024000048.gz|0bde5a4010449e1921f66a3991e34efaa8279a02467030f2f6432e2e33673239,Malspam attachment - source: from Albertoguillamon@tecarral.com - subject: SOLICITUD Nº DE CUENTA mime: application/x-rar
+2024-01-26,Payload delivery,filename|ssdeep,Factura número 1 2024000048.gz|12288:slSRYOoQ8V37hOUiryorvITbbhY9vbihT3rOQ+1JgfbuAR+pKKgO77XjDB8KruID:slvO5OojILhSzuT3wJgfbixbvzNhCIJ9,Malspam attachment - source: from Albertoguillamon@tecarral.com - subject: SOLICITUD Nº DE CUENTA mime: application/x-rar
+2024-01-26,Payload delivery,filename|sha1,Factura número 1 2024000048.gz|25c8993d638004224e8b6079b9f5f0de482e1a04,Malspam attachment - source: from Albertoguillamon@tecarral.com - subject: SOLICITUD Nº DE CUENTA mime: application/x-rar
+2024-01-26,Payload delivery,filename|sha512,Factura número 1 2024000048.gz|8b2f1d2fac2addd027afeae7a1f0ed7acfeb62f9400ac984d30dce8d0c44939dd5b0958ab12c72fe7349605df313840321d46d41cfa6e5156f40b8d0d1f19751,Malspam attachment - source: from Albertoguillamon@tecarral.com - subject: SOLICITUD Nº DE CUENTA mime: application/x-rar
+2024-01-26,Payload delivery,filename|md5,Factura número 1 2024000048.gz|c450eb3a1405d01e43d71402fb9ac5b4,Malspam attachment - source: from Albertoguillamon@tecarral.com - subject: SOLICITUD Nº DE CUENTA mime: application/x-rar
+2024-01-26,Payload delivery,filename|sha1,Factura número 1 2024000048.exe|33c73aa7d8efaa428291c4a23b2120ee70dce5ac,Archive contents - source: Factura número 1 2024000048.gz mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|imphash,Factura número 1 2024000048.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Archive contents - source: Factura número 1 2024000048.gz mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|ssdeep,Factura número 1 2024000048.exe|12288:zcg7oWDZsy27B/raxc4vuHx4uLI+UNfKL0pIPujNk02cT2K7CiBJI3I:ggU59/uQiuLI+UUPgNxT2KeQuI,Archive contents - source: Factura número 1 2024000048.gz mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|sha256,Factura número 1 2024000048.exe|e712fd7eb586811bd56a896c39adf1d4bf8cfdec7205adc7965d83ef1b8eee36,Archive contents - source: Factura número 1 2024000048.gz mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|sha512,Factura número 1 2024000048.exe|a8f943b49e29813ff6e2109d437263b09f85036caa1bf2c97fe97aa963388eb3719216e76fe84b9b20a95bf2d3b2d936befe24a3598d63bd68d922200968c55e,Archive contents - source: Factura número 1 2024000048.gz mime: application/x-dosexec
+2024-01-26,Payload delivery,filename|md5,Factura número 1 2024000048.exe|5f808a5f463b99b31a31a9035c57f895,Archive contents - source: Factura número 1 2024000048.gz mime: application/x-dosexec
+2024-01-26,Network activity,email,arantxa.pla@unitecformacion.es,Source: Extracted from static config of Factura número 1 2024000048.exe; data exfiltration via SMTP
+2024-01-26,Network activity,email-dst,callitooffice73@gmail.com,Source: Extracted from static config of Factura número 1 2024000048.exe; data exfiltration via SMTP
+2024-01-26,Network activity,domain,smtp.ionos.es,Source: Extracted from static config of Factura número 1 2024000048.exe; data exfiltration via SMTP

@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: 404Keylogger host indicators [2024-01-19]
+| UUID: 0ca3800a-55a5-4866-bc1f-f35c6e9db19c
+| Date: 2024-01-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-19,Payload installation,filename,oplugmanzx.exe,Source: MalwareBazaar
+2024-01-19,Payload installation,md5,c01ddff87cb5460b7ff35bd70e8e3f80,Source: MalwareBazaar
+2024-01-19,Payload installation,sha1,8f3f90236fa9bfad20b7afa0e9078df93e522e52,Source: MalwareBazaar
+2024-01-19,Payload installation,sha256,4ccdd2e1363c834aca696233e52247cea7545b194d173f3edfc83fa99f61d69e,Source: MalwareBazaar
+2024-01-19,Payload installation,filename,Marmouris_01792PDF.doc,Source: MalwareBazaar
+2024-01-19,Payload installation,md5,86c1360a4788533fb641261ad38a49c6,Source: MalwareBazaar
+2024-01-19,Payload installation,sha1,09adc68f0f1f2dced60240af117282e821fc485e,Source: MalwareBazaar
+2024-01-19,Payload installation,sha256,14f3a738775c7d4b72d7402f900964125378c095e39711ffa0651e9be7ab2926,Source: MalwareBazaar

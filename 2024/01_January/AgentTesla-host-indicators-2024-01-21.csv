@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-01-21]
+| UUID: 4114ff31-74ff-4be4-84f7-6b6d4dfb484d
+| Date: 2024-01-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-22,Payload installation,filename,SecuriteInfo.com.Win32.PWSX-gen.25537.3692,Source: MalwareBazaar
+2024-01-22,Payload installation,md5,445e82fd556f280ef03917fbf7209c6e,Source: MalwareBazaar
+2024-01-22,Payload installation,sha1,4305c76e00ac7dfdfc9d27c1878133861a864e51,Source: MalwareBazaar
+2024-01-22,Payload installation,sha256,970159779b41c4445972cfafbe8e19fb9a803145446a84a41165661588c72fa3,Source: MalwareBazaar

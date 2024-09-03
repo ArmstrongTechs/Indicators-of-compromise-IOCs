@@ -1,0 +1,45 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Invoice № 047972966 -2024-1 - From: micaella@southseasphil.com"" Campaign"
+| UUID: ce730616-72c5-40b2-a40c-8254736c25a9
+| Date: 2024-01-30
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-30,Payload delivery,email-src,micaella@southseasphil.com,Source email: from micaella@southseasphil.com - subject: Invoice № 047972966 -2024-1
+2024-01-30,Payload delivery,email-src-display-name,Nelson Vera,Source email: from micaella@southseasphil.com - subject: Invoice № 047972966 -2024-1
+2024-01-30,Payload delivery,email-body,"Hello, I ask you to pay the debt on your account; if you do not pay by 02/07/2024, we will be forced to go to court to collect the debt from you. Invoice for payment in the Application.
+
+   Sincerely,
+Tax service",Source email: from micaella@southseasphil.com - subject: Invoice № 047972966 -2024-1
+2024-01-30,Payload delivery,email-subject,Invoice № 047972966 -2024-1,Source: from micaella@southseasphil.com - subject: Invoice № 047972966 -2024-1
+2024-01-30,Payload delivery,filename|sha256,invoice.7z|df4d57ca4bf976893cdc2c191a4f0e8858088957072f5bf366f4c2f1d7ab630e,Malspam attachment - source: from micaella@southseasphil.com - subject: Invoice № 047972966 -2024-1 mime: application/x-7z-compressed
+2024-01-30,Payload delivery,filename|ssdeep,invoice.7z|12:s6qV0uxyjfEaJYGS5GQ1nN4BRy5tGkoqgi44PdsGMDQUOpwsgHQc:hqV0iGQ1+ny+kX1FsGMxOeJHQc,Malspam attachment - source: from micaella@southseasphil.com - subject: Invoice № 047972966 -2024-1 mime: application/x-7z-compressed
+2024-01-30,Payload delivery,filename|sha1,invoice.7z|33c22d07af2d1f1028150f0ad4414bbcd9dfab05,Malspam attachment - source: from micaella@southseasphil.com - subject: Invoice № 047972966 -2024-1 mime: application/x-7z-compressed
+2024-01-30,Payload delivery,filename|sha512,invoice.7z|126c2e30402b11771e2fa0a9b67ad1a7d01f6a81ac71bb23b72fc2c43e0624178e7ce0378524862b0f439666bb5519af95f09255263d7bc7f70d5d373a31987d,Malspam attachment - source: from micaella@southseasphil.com - subject: Invoice № 047972966 -2024-1 mime: application/x-7z-compressed
+2024-01-30,Payload delivery,filename|md5,invoice.7z|36f1ed1d1432bd7beae6eae512acaf91,Malspam attachment - source: from micaella@southseasphil.com - subject: Invoice № 047972966 -2024-1 mime: application/x-7z-compressed
+2024-01-30,Network activity,ip-dst,89.23.98.22,Source: Network activity from invoice.pdf.url
+2024-01-30,Payload delivery,filename|md5,Invoice.rar|c30b2828521349febd125c43609c32e8,Extracted from invoice.7z; mime: application/x-rar
+2024-01-30,Payload delivery,filename|sha1,Invoice.rar|6a3b862dbd27f1e067348d4a8d0d411b25740a8d,Extracted from invoice.7z; mime: application/x-rar
+2024-01-30,Payload delivery,filename|sha256,Invoice.rar|69a4251b21e81093ae472ef68bb48d0573e122c29ae1aac58fbf7c73a4e5de87,Extracted from invoice.7z; mime: application/x-rar
+2024-01-30,Payload delivery,filename|sha512,Invoice.rar|59796a3a372b066569f266a6e40240ad6e847df19dd3e502bc9aafb43efc60704df5b1c44f2a7ade0a634fd75378a44d952f747fe26459abc88d71f897390ab2,Extracted from invoice.7z; mime: application/x-rar
+2024-01-30,Payload delivery,filename|ssdeep,Invoice.rar|12:huxyjfEaJYGS5GQ1nN4BRy5tGkoqgi44Pl:hiGQ1+ny+kX1t,Extracted from invoice.7z; mime: application/x-rar
+2024-01-30,Payload delivery,filename|md5,KEY 0783573.txt|97a4c2b9e96ccab40d44226413fffa21,Extracted from invoice.7z; mime: text/plain
+2024-01-30,Payload delivery,filename|sha1,KEY 0783573.txt|7d220285181729cff910ef05235f4c83f950e5dd,Extracted from invoice.7z; mime: text/plain
+2024-01-30,Payload delivery,filename|sha256,KEY 0783573.txt|c1593c241a354d4727b4da88fcb8e8ff8ddf54493e0848e6aef33667b1534ff6,Extracted from invoice.7z; mime: text/plain
+2024-01-30,Payload delivery,filename|sha512,KEY 0783573.txt|27d561791fcbade7694336818d691c63e2752a94fb54c9916ae5a184482ebc1f57e24ad122e6fdae1e5705381f7f2cbcfb66760b5153fa9bafefd85b6e9811e1,Extracted from invoice.7z; mime: text/plain
+2024-01-30,Payload delivery,filename|ssdeep,KEY 0783573.txt|3:E1QAAxjRR3CHCAFGRQW2:E1QbrgGRD2,Extracted from invoice.7z; mime: text/plain
+2024-01-30,Network activity,domain,crisisestimatehealtwh.site,Source: Network activity from lmncr2rs.exe
+2024-01-30,Network activity,url,https://crisisestimatehealtwh.site/,Source: Network activity from lmncr2rs.exe; C2
+2024-01-30,Payload delivery,filename|md5,invoice.pdf.url|daef292265a6adb5848ff1553d5d7364,Extracted from Invoice.rar; mime: text/plain
+2024-01-30,Payload delivery,filename|sha1,invoice.pdf.url|b655138e73e5861d2bf7db8758561c4e4bf76e94,Extracted from Invoice.rar; mime: text/plain
+2024-01-30,Payload delivery,filename|sha256,invoice.pdf.url|c73de9036435ed3a51b4864af55b159901914ddc0e90b0ca7d954a6e500cf26f,Extracted from Invoice.rar; mime: text/plain
+2024-01-30,Payload delivery,filename|sha512,invoice.pdf.url|2476d2ae64556255764d72960dae8800cd4c6733a33b144ea3fa8884c24f7ae44e9d7233532b3d141798905bbdc8ac74fff8ba8ff93ab3a2d02a142526a15e28,Extracted from Invoice.rar; mime: text/plain
+2024-01-30,Payload delivery,filename|ssdeep,invoice.pdf.url|3:HRAbABGQEb4ovsFMcJXpwOVJYMQ6NDRfEH1lKImhGEbTMcjMcJXpwWAHWkAn:HRYFJblvsqewOVJRNDRfEVlKFQEbTWep,Extracted from Invoice.rar; mime: text/plain
+2024-01-30,Payload delivery,filename|md5,lmncr2rs.exe|f17711e37cd632123d2613b2c7bcc9df,Source: File started by shortcut invoice.pdf.url; mime application/x-ms-dos-executable
+2024-01-30,Payload delivery,filename|sha1,lmncr2rs.exe|c9b72a7911d573ac158762b00fa24edc12a56687,Source: File started by shortcut invoice.pdf.url; mime application/x-ms-dos-executable
+2024-01-30,Payload delivery,filename|sha256,lmncr2rs.exe|ecadb83c2cf82bd558dadb53429785761fa81efd539a22cda586fa7e90126d8f,Source: File started by shortcut invoice.pdf.url; mime application/x-ms-dos-executable
+2024-01-30,Payload delivery,filename|sha512,lmncr2rs.exe|3265d9e30321b73b72ef11b4ca66d53177d17d2d3be1c91f6e42282abccf74c2afb09ecfc29abe39dbf338bc0c5216e936b0dbda38045100ee703ce54fa4c769,Source: File started by shortcut invoice.pdf.url; mime application/x-ms-dos-executable
+2024-01-30,Payload delivery,filename|ssdeep,lmncr2rs.exe|49152:euke49b6D3lJHrMyaby7UvJb5pwkZyzwGeUNGwMLv56ix9gdA85ONaOn56BAyIzM:ec49W7DAy4Lb3wkZyk1hwYRz8QsO56mo,Source: File started by shortcut invoice.pdf.url; mime application/x-ms-dos-executable

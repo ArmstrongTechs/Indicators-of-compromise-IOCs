@@ -1,0 +1,38 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Smoke Loader host indicators [2024-01-18]
+| UUID: 9c7ab534-dd76-42e5-b73c-95e73a8ae106
+| Date: 2024-01-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-18,Payload installation,filename,1eeeb5aa7dcd72a9912e8f54c60b07915d4c7fb4180c2e497483357ab9ac8640_dump.exe,Source: MalwareBazaar
+2024-01-18,Payload installation,md5,46404801da9e3f92ceafdde930ca25ff,Source: MalwareBazaar
+2024-01-18,Payload installation,sha1,59bfa3a3fa6f1bf68096fc6fd48ae97d901e47d2,Source: MalwareBazaar
+2024-01-18,Payload installation,sha256,bfb1a7e883dcc4aa32c40f51d5d32926adaa83673cc9413509922c61d9f22523,Source: MalwareBazaar
+2024-01-19,Payload installation,filename,file,Source: MalwareBazaar
+2024-01-19,Payload installation,md5,937a9a861bdd2471626e194df3c4e572,Source: MalwareBazaar
+2024-01-19,Payload installation,sha1,c94e5a5d1b07899c9f5dda3eb00d35e527ce95e6,Source: MalwareBazaar
+2024-01-19,Payload installation,sha256,5e0aaef7a11699f74d8d72c980ebe025a54444f2ed042b5fec52a9f616089d80,Source: MalwareBazaar
+2024-01-19,Payload installation,filename,file,Source: MalwareBazaar
+2024-01-19,Payload installation,md5,ca601143e3801beb25bc5d37c6023d09,Source: MalwareBazaar
+2024-01-19,Payload installation,sha1,c0998a01358054ba5196d5a7e867dc7e06faf592,Source: MalwareBazaar
+2024-01-19,Payload installation,sha256,b52028609b92de2f7a3621621f2d3b3de11f48c16b1d612ad2efebb2af4af2a2,Source: MalwareBazaar
+2024-01-19,Payload installation,filename,SecuriteInfo.com.Win32.RansomX-gen.7366.13162,Source: MalwareBazaar
+2024-01-19,Payload installation,md5,e3dc222d0a34c4b230f538a67bb7265d,Source: MalwareBazaar
+2024-01-19,Payload installation,sha1,d88345aef0e59341e6c4297d2685cb5f08c0aa80,Source: MalwareBazaar
+2024-01-19,Payload installation,sha256,a7f605d4110bba430e02c7c5240e656fb3f1dd7f02dce985e9e5677169c9de55,Source: MalwareBazaar
+2024-01-19,Payload installation,filename,SecuriteInfo.com.Win32.TrojanX-gen.31311.19858,Source: MalwareBazaar
+2024-01-19,Payload installation,md5,e0606af1cf37281e1407ccc449c3d087,Source: MalwareBazaar
+2024-01-19,Payload installation,sha1,acbd7e2e9e28e512b2b283dbd2e42394cdd7e58f,Source: MalwareBazaar
+2024-01-19,Payload installation,sha256,006ab1b11bfdbf1e4a5dd2291e6e63d9f16e2896a5a0bec1ef46000307478ad8,Source: MalwareBazaar
+2024-01-19,Payload installation,filename,SecuriteInfo.com.Win32.TrojanX-gen.7072.18749,Source: MalwareBazaar
+2024-01-19,Payload installation,md5,f289b12b7bd6cc6d1fc9e09d792a5b79,Source: MalwareBazaar
+2024-01-19,Payload installation,sha1,e08c148d0fb6b68679082500d62685d442dff7d8,Source: MalwareBazaar
+2024-01-19,Payload installation,sha256,cb509d8ab6bd2420904a66d6485419a6847da6d7c52e0eff4e8878c30423492b,Source: MalwareBazaar
+2024-01-19,Payload installation,filename,SecuriteInfo.com.Win32.PWSX-gen.5385.30597,Source: MalwareBazaar
+2024-01-19,Payload installation,md5,f165665a2f645d323d4377d4f18ca353,Source: MalwareBazaar
+2024-01-19,Payload installation,sha1,e77218b4be7008e54eb42723899688e9510b81a5,Source: MalwareBazaar
+2024-01-19,Payload installation,sha256,a107d2f396e73863c8c7ca3dada2039bd3c8b4ba3c3d09884f15dd776c86281d,Source: MalwareBazaar

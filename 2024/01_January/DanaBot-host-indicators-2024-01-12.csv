@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: DanaBot host indicators [2024-01-12]
+| UUID: 619ba26d-3d26-4cba-b91e-ab70817b3cb0
+| Date: 2024-01-12
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-12,Payload installation,filename,file,Source: MalwareBazaar
+2024-01-12,Payload installation,md5,922e83e52f23027ae00d4ef9294d71dd,Source: MalwareBazaar
+2024-01-12,Payload installation,sha1,9668d375b80f244cfc1f340188e546485b40de29,Source: MalwareBazaar
+2024-01-12,Payload installation,sha256,a809b6ffd9241ec430d4ab5c866566365b642a9e553f811cbf5f3dc5acdd0ce5,Source: MalwareBazaar

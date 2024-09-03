@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-01-04]
+| UUID: c8ae871e-1df9-457c-b7a2-6bc37e395f8c
+| Date: 2024-01-04
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-04,Payload installation,filename,bookinginfo.exe,Source: MalwareBazaar
+2024-01-04,Payload installation,md5,4e4bc21a1c1a34037e44db52a50086d5,Source: MalwareBazaar
+2024-01-04,Payload installation,sha1,1419003d268ef43d3128c11f92e9533793b07320,Source: MalwareBazaar
+2024-01-04,Payload installation,sha256,59cfbef2d28f5f8df3c98d8525acf710bbad31e3bed87ccb6d8c3d9f5a9d8fe4,Source: MalwareBazaar
+2024-01-05,Payload installation,filename,pftguecif.exe,Source: MalwareBazaar
+2024-01-05,Payload installation,md5,b1f8484ee01a7730938210ea6e851888,Source: MalwareBazaar
+2024-01-05,Payload installation,sha1,4ab9c910cfc9690b7f54eba83e30bc1fe6984297,Source: MalwareBazaar
+2024-01-05,Payload installation,sha256,88f0722c907100ef09049c82032a0ac66afa153d03fb89d378ae65f6e5890a3f,Source: MalwareBazaar

@@ -1,0 +1,143 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Invoice - From: taisei@memotte.com"" Campaign"
+| UUID: 3abd9841-60a0-444d-ab3b-a92b8980c2ac
+| Date: 2024-02-01
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-31,Payload delivery,email-src,taisei@memotte.com,Source email: from taisei@memotte.com - subject: Invoice
+2024-01-31,Payload delivery,email-src-display-name,Hansen Randy,Source email: from taisei@memotte.com - subject: Invoice
+2024-01-31,Payload delivery,email-body,"Hello, I am sending you an invoice for payment in the application, I also notify you that you have arrears in payment, in order to avoid court decisions, I recommend paying the invoice.
+
+ 
+
+ 
+
+Sincerely,
+Pre-trial Settlement Department
+
+Hansen Randy",Source email: from taisei@memotte.com - subject: Invoice
+2024-01-31,Payload delivery,email-subject,Invoice,Source email: from taisei@memotte.com - subject: Invoice
+2024-01-31,Payload delivery,filename|md5,invoice.rar|a1d01d6efa49117a638fb783f0f81684,Malspam attachment - source: from taisei@memotte.com - subject: Invoice mime: application/vnd.rar
+2024-01-31,Payload delivery,filename|sha1,invoice.rar|c2f6d95c8d7d2974d958b43cbeea9e2ae17e561f,Malspam attachment - source: from taisei@memotte.com - subject: Invoice mime: application/vnd.rar
+2024-01-31,Payload delivery,filename|sha256,invoice.rar|87249e1b561ed492233437aec7293cd0d7520188a4638c4d2bb53dd9f2d5d81e,Malspam attachment - source: from taisei@memotte.com - subject: Invoice mime: application/vnd.rar
+2024-01-31,Payload delivery,filename|sha512,invoice.rar|75958bf65f69404111ea633312033c7af8e28071853b5944b6186535d4a486d48aa54a5a2ef8d54bd24b8b16cd5b3ef5ae7519d20c863da5592978d50ce16715,Malspam attachment - source: from taisei@memotte.com - subject: Invoice mime: application/vnd.rar
+2024-01-31,Payload delivery,filename|ssdeep,invoice.rar|24576:6k3lUFyUAqn309yBjbrTCa+TXvLMWy0aDw6U1cMVdAfw9jyYoG:nL1q309gbrTMXvry0P1JAo5,Malspam attachment - source: from taisei@memotte.com - subject: Invoice mime: application/vnd.rar
+2024-01-31,Payload delivery,filename|md5,Invoice.part1.rar|2ca26102c71a2c10571233c565881284,Extracted from invoice.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha1,Invoice.part1.rar|8312fede20253b5f031bda6f92fcbc58ef6e86ea,Extracted from invoice.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha256,Invoice.part1.rar|6087932ccb8b9ca6e4691501e2ee9810d41922a1e2a119d064fe36e48bcbef22,Extracted from invoice.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha512,Invoice.part1.rar|ec104c561699114936dd0be4220980c013a982c37c7a8b8a1a6bca5a5beac8344e04ecb0a277cf98b20d8ce5ca65bbb4d7361f1689d544747b1a7e56961e67d7,Extracted from invoice.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|ssdeep,Invoice.part1.rar|12288:03knnZnXU3eP6qPBHBFG46+J7Eq/f30BfyByhS9brY2kP/SqNf9flV3:Jk3lUFyUAqn309yBjbrTCa+T,Extracted from invoice.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|md5,Invoice.part2.rar|22c8a0f546d8a28e42265affbe02b74f,Extracted from invoice.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha1,Invoice.part2.rar|c02c14e2982784256b6e5aef309639cea8473e8d,Extracted from invoice.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha256,Invoice.part2.rar|90a846c2cd01d5379679e77442dfca2d2e5dd2d0d8e6f57276a375623d3dc1b4,Extracted from invoice.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha512,Invoice.part2.rar|1434ed1dd7e6d25be1cabc3edd9a3438c1b3bb8ab073e1c5a82769a541c4867c7af4d39f32f5ce7a93e148a7d216b18cdababcb5d71defb4297e4ecbd00d5101,Extracted from invoice.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|ssdeep,Invoice.part2.rar|12288:hv3oGk72BpGukWy6LraYuhOF2HU1w3MVdAfw9j4BYo/:hvLMWy0aDw6U1cMVdAfw9jyYo/,Extracted from invoice.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|md5,invoice.part1.rar|24ecc8589a4ae6166005c4362637e488,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha1,invoice.part1.rar|01c9b02888530354e8074235b82dcda0b5a03ad2,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha256,invoice.part1.rar|2a105ccf000dace83acf3042b03505a738611ca5e73881204b9eee2d110b6083,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha512,invoice.part1.rar|73e29e5543521aa7259a1e13b52c69d6f6498a26398a786c9c04b8133ce0685e4ca6dbade3babbd88f48e02d6641ee45d206b020f3789c44de756a24f8b91da8,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|ssdeep,invoice.part1.rar|6144:zOhDz1nd0n8YGxINLEa7JMd3cT4C07m1P6qPBHBrZ:23knnZnXU3eP6qPBHBF,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|md5,invoice.part2.rar|8995437672bc642e5c6a912255ec6a81,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha1,invoice.part2.rar|18a4fee279b5866c83faf809bfd653c50fae4e1f,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha256,invoice.part2.rar|33d9ca04edc70db181af7005bf438c4bb523c70ccd483abf7bca4a93a096b27f,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha512,invoice.part2.rar|5967c656201a5c79c1236f93862c2a4f717b4bbf8dff3946f2e1e68aa7f10bc344a42ae6cbee612fa54c723b06b2dc1620285b1524698828c6a6ba119697d481,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|ssdeep,invoice.part2.rar|6144:t8r7Q76+aX8vVFREqFZf3khNBSmyByVf+Xb4s9brFa2kP/SR:246+J7Eq/f30BfyByhS9brY2kP/S,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|md5,invoice.part3.rar|03bbf9cfa9eea9ecb3028896f408f73d,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha1,invoice.part3.rar|d44b246357a4114be82d97c749b9f9358322ab9b,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha256,invoice.part3.rar|494c95b39b33381a2052977114daa6f4d597b15771708426a641b1b8631fb3b2,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha512,invoice.part3.rar|8d57feba0a7a9b0b01764b6fa88cce1943c505268efda841092c13da52e09f3c2523815a7fe8cf2b1eaec864db1ad3cee87702e5a526efcee8ea57bb98e4c9b4,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|ssdeep,invoice.part3.rar|6144:grpf9flV3D9Vev3oGkTvxPgnt0wZvWYZGuJ:gNf9flV3uv3oGk72BpGu,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|md5,invoice.part4.rar|8da19a95e36fb9618e0b1956cbec2e02,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha1,invoice.part4.rar|ffcda965dc920a4f1563a4f660047511b471523d,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha256,invoice.part4.rar|24be9a81ace842ff0339d100d04d6dc9beed47dbfeaa9ce870d30d3b628efcce,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha512,invoice.part4.rar|be6b696dba24ebeacfdf498469938ec5a353d09b0a929a36b313eae1ffb2a2c7f3c95ca8b26eb38057bf8ed72ee25b8c5f6f9b6339593531b05b802500141173,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|ssdeep,invoice.part4.rar|6144:C7dswT6/TraYudf7o2IFPeHfgMx4Jz8Aq1xG:8Wy6LraYuhOF2HU1w3,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|md5,invoice.part5.rar|825f6c3a69f59f4aaa95dde3b3550bd8,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha1,invoice.part5.rar|9ff0ee4d067100d651708d68e425d21bf27615da,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha256,invoice.part5.rar|ad6bc819e086cc89ebfd518c854ee3ea6dad0002f96c4363238b03d57e326d3a,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|sha512,invoice.part5.rar|418379756861ed6db44fbc05ddca17ce2d2f5ca52e69ef5112567725cbeb75c651ffc93c07abf029906dc1a674230b5d3213a21ba72a1cfa43abfd09c256b5af,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|ssdeep,invoice.part5.rar|1536:SLUqTGXTYvl07llnUXYwT6UiC7UOw/ecFU4WI/EDnW429IU81MOwIMl:qUqkagllnfw2VC7Ua4WI/EjB29I/Ml,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: application/x-rar
+2024-01-31,Payload delivery,filename|md5,access code 8873.txt|ff26b8bf6827a4b705d937ab513224e3,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: text/plain
+2024-01-31,Payload delivery,filename|sha1,access code 8873.txt|082e0a08a78c26ade44d3370437f5f2d4f18071b,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: text/plain
+2024-01-31,Payload delivery,filename|sha256,access code 8873.txt|a21ffbb354a6d5a5aeabd94a4aea330abc349d9948374d02b298298bc25cc5f6,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: text/plain
+2024-01-31,Payload delivery,filename|sha512,access code 8873.txt|ed4ba94bbc6f9e5ba5e43a31fd18b84f6019d84733c9e90c344d884ff53dc1b7e6d0f95b5659013dbee18333ce5fbe339d39ae3d1288585fa2e1613da1449dc8,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: text/plain
+2024-01-31,Payload delivery,filename|ssdeep,access code 8873.txt|3:wdXVKngsCg2QV4HpR0HCAFGR6W:QcgRXQCLgGR9,Extracted from Invoice.part1.rar and Invoice.part2.rar; mime: text/plain
+2024-01-31,Payload delivery,filename|md5,invoice.exe|434b34c920d1ed40672194147c83984f,"Extracted from invoice.part1.rar, invoice.part2.rar, invoice.part3.rar, invoice.part4.rar and invoice.part5.rar; mime: application/x-ms-dos-executable"
+2024-01-31,Payload delivery,filename|sha1,invoice.exe|00bfa4dee5fadc7df78796d57d08cf2db5f9d6cc,"Extracted from invoice.part1.rar, invoice.part2.rar, invoice.part3.rar, invoice.part4.rar and invoice.part5.rar; mime: application/x-ms-dos-executable"
+2024-01-31,Payload delivery,filename|sha256,invoice.exe|26d5e0f903dc8dd308e47442fdbc5ec877a49c09e48e66d47590fc4ffc47e8f9,"Extracted from invoice.part1.rar, invoice.part2.rar, invoice.part3.rar, invoice.part4.rar and invoice.part5.rar; mime: application/x-ms-dos-executable"
+2024-01-31,Payload delivery,filename|sha512,invoice.exe|73dd46ea180769b93e5529eba3a734d578b249e7c39b928ca7bbe90890c0cc293c2809c56f0954d004df637fe144090d758ce749e48f2722fd918546b792ea7d,"Extracted from invoice.part1.rar, invoice.part2.rar, invoice.part3.rar, invoice.part4.rar and invoice.part5.rar; mime: application/x-ms-dos-executable"
+2024-01-31,Payload delivery,filename|ssdeep,invoice.exe|12288:LPcAuEoF9u3EGPaRUm/uTBmpeh+ytjYRWWqfWuCMOHDy1PooI8S4PFGSYNpQdOfX:iMEaaRnmYAgpj4IM/wv4gNtILKZ5,"Extracted from invoice.part1.rar, invoice.part2.rar, invoice.part3.rar, invoice.part4.rar and invoice.part5.rar; mime: application/x-ms-dos-executable"
+2024-01-31,Payload delivery,filename|imphash,invoice.exe|7d9029530789fe80b2caff1ced94c117,"Extracted from invoice.part1.rar, invoice.part2.rar, invoice.part3.rar, invoice.part4.rar and invoice.part5.rar; mime: application/x-ms-dos-executable"
+2024-01-31,Payload delivery,filename|md5,Bathrooms|da0391f6b258b56d49f86aa5edcb6fae,Dropped by invoice.exe; mime text/plain
+2024-01-31,Payload delivery,filename|sha1,Bathrooms|6f3dc86a9f6f53fcd10da91b3bdf052426646420,Dropped by invoice.exe; mime text/plain
+2024-01-31,Payload delivery,filename|sha256,Bathrooms|11f1687de994cc7911ce004dd99559f04d14ffd491de7f3831faec79a5d901e1,Dropped by invoice.exe; mime text/plain
+2024-01-31,Payload delivery,filename|sha512,Bathrooms|bc02b97bf574651dc621835db1aa105519e69ece9bfd4bbe73fa01661b27a9f819c595191c4a0b69df64b063f9d23dbfcb7937b277dfc4a1d37676e8ba02e2a4,Dropped by invoice.exe; mime text/plain
+2024-01-31,Payload delivery,filename|ssdeep,Bathrooms|384:rSiN1RcjpsrFBScPXDnY4rTqqiJ/a3IEpqcPYZ4rTq2dHaSA6kWYTR8parmh:nNEsrFBfXDnY4rTqqiJ/a3IEpnYZ4rT9,Dropped by invoice.exe; mime text/plain
+2024-01-31,Payload delivery,filename|md5,Dns|451c9e294cef59c22cae54fc123e63d9,Dropped by invoice.exe; mime text/plain
+2024-01-31,Payload delivery,filename|sha1,Dns|1221a258ef86f54cb3e7c48a57553e8175b915a4,Dropped by invoice.exe; mime text/plain
+2024-01-31,Payload delivery,filename|sha256,Dns|41a05d5d15240d62d1f455ae70eb6a2241fc695c27193ffcdc1def81d657b5b7,Dropped by invoice.exe; mime text/plain
+2024-01-31,Payload delivery,filename|sha512,Dns|0360da347e30a08e09552fbc3d1054d1d718ec0300f92ef28b14e573bd17bb805301b08801773201596414a68941302dede81bc20812a5bb5468b7e362e9707b,Dropped by invoice.exe; mime text/plain
+2024-01-31,Payload delivery,filename|ssdeep,Dns|6144:XCWAeFgKzpGuT9aRzlGwD561o1wDpTabZTkUYSCRYsD//CWEtq:XCVSgK9bY568w8by3//Cq,Dropped by invoice.exe; mime text/plain
+2024-01-31,Payload delivery,filename|md5,Hour|a019bb2b7a90e9bae3104c87b3807146,Dropped by invoice.exe; mime text/plain
+2024-01-31,Payload delivery,filename|sha1,Hour|bc2e131825f91aff77a77ecbe9f63295b887b9b7,Dropped by invoice.exe; mime text/plain
+2024-01-31,Payload delivery,filename|sha256,Hour|2c1695cd883c74a43d516a57585c3685f28c87e74d60738f5dde2667d718555c,Dropped by invoice.exe; mime text/plain
+2024-01-31,Payload delivery,filename|sha512,Hour|6a48cb56aa7831e3e3c5530d855c02c4b01470c7ab912e2e634399cdf5edd92b4d94092c0d0af29bec74221c17e58e8d0f348f344f600cad51c1b8033825ba91,Dropped by invoice.exe; mime text/plain
+2024-01-31,Payload delivery,filename|ssdeep,Hour|1536:0HShY7ocx/2ttZCIIh8dUSyLBVskm4VsMjsw66Dwgr/N:JW7oc2nZ9I6ddyLBVskm4VsUjZDtZ,Dropped by invoice.exe; mime text/plain
+2024-01-31,Payload delivery,filename|md5,Operator|56aba4343b9ce405a6adba161e61c3ed,Dropped by invoice.exe; mime text/plain
+2024-01-31,Payload delivery,filename|sha1,Operator|1443fd4b6891140c3db969af794403966ca35331,Dropped by invoice.exe; mime text/plain
+2024-01-31,Payload delivery,filename|sha256,Operator|7e0ba437a3171ada5edeb7577759c4422781c674bf1f2211d811d026bcd5b2bd,Dropped by invoice.exe; mime text/plain
+2024-01-31,Payload delivery,filename|sha512,Operator|c173c3986f3c6ba9f6539e767e1940fb4c1a2d4d99734e620464923097b6bafc8d4ebbb647031eb041516bbf0dae448a3545223da1d4a67a936269f0267ecc9c,Dropped by invoice.exe; mime text/plain
+2024-01-31,Payload delivery,filename|ssdeep,Operator|6144:H2XtHYLXVKC88710XGvcGn4unMBv9myQcStnfBaOerNfP:H2ENR0XGEMf89NLgBzerdP,Dropped by invoice.exe; mime text/plain
+2024-01-31,Payload delivery,filename|md5,Compound|4d7e8b7b74560b2e889fab7865831144,Dropped by invoice.exe; mime application/x-ms-dos-executable
+2024-01-31,Payload delivery,filename|sha1,Compound|c3cbb231978cf0db0c747909aee2eab6151e705a,Dropped by invoice.exe; mime application/x-ms-dos-executable
+2024-01-31,Payload delivery,filename|sha256,Compound|e216710be5dd8fc05d451cfd457a752c4d253c44860877e5bca4578f1484519c,Dropped by invoice.exe; mime application/x-ms-dos-executable
+2024-01-31,Payload delivery,filename|sha512,Compound|f43b909fc6e4a7eae0b608b829fe8b582ae94de8c4d544027e5c3c7399bff36a3005026600c31359ac1861b1cf13de3e899a59896f0874f1fd7026f4c29a5f44,Dropped by invoice.exe; mime application/x-ms-dos-executable
+2024-01-31,Payload delivery,filename|ssdeep,Compound|3072:pPpU08BjlWTPJth26X7Sn4UfpLUNN9t68cCWlrss4M5iRq3U0Pe3vHUY:LQBk7JjX74cN0lrztgwU0Wj,Dropped by invoice.exe; mime application/x-ms-dos-executable
+2024-01-31,Payload delivery,filename|md5,Emotions|580a90fcee6e10a893537c4f771567a0,Dropped by invoice.exe; mime application/octet-stream
+2024-01-31,Payload delivery,filename|sha1,Emotions|c9d81a1b16a2d3b32a9a155bacdc78c7081097b9,Dropped by invoice.exe; mime application/octet-stream
+2024-01-31,Payload delivery,filename|sha256,Emotions|7caf611055c9856c124dde993c89198bd6bc276e8d000ed98c946d2680aa11e3,Dropped by invoice.exe; mime application/octet-stream
+2024-01-31,Payload delivery,filename|sha512,Emotions|732a69035fe0ed9a9eedad1a70626fd0f85d23fcbcaaaaa5f44457157857d27a4475f0cc94729448cf19891e912392794fb3e9493785a29eab575a5d8457e4e6,Dropped by invoice.exe; mime application/octet-stream
+2024-01-31,Payload delivery,filename|ssdeep,Emotions|3072:zO7vHZnBfzHl8Dz5YaZYvlfA6Gfza6iyY5tVGvH7fsUQwHJJX4xF5r:o5nZ2tZ6lfA6Gfm608DsvqJX4xD,Dropped by invoice.exe; mime application/octet-stream
+2024-01-31,Payload delivery,filename|md5,Injection|ac1262c690c9ffa132b284fe8f60a529,Dropped by invoice.exe; mime application/octet-stream
+2024-01-31,Payload delivery,filename|sha1,Injection|2897ccbb8addd687507dbcfca904eef22f4c8bfa,Dropped by invoice.exe; mime application/octet-stream
+2024-01-31,Payload delivery,filename|sha256,Injection|eae586960418f7d3390c98a43632d4baf4bf17d3951a7074b5e93bcef555bd2c,Dropped by invoice.exe; mime application/octet-stream
+2024-01-31,Payload delivery,filename|sha512,Injection|c1a87e1916b7bdff19c67e58cdb14b48d8381a2a507877b115ba4ea7db1f1b8bbaff3f1f91836cf2e8e4dd0fdde2c239853a1f6eae924cac6c8e7621be141e19,Dropped by invoice.exe; mime application/octet-stream
+2024-01-31,Payload delivery,filename|ssdeep,Injection|3072:DS4/33SrF7etHufKE5Kmqd1UhlqRWO/9EAehuqCkrwzW3Nzl8F5hPLaLWysRU:Gw3mFygyE4mqd12lqlEAehuqN8zwNzlf,Dropped by invoice.exe; mime application/octet-stream
+2024-01-31,Payload delivery,filename|md5,Participants|2c322983409a6bb0838c29f17b95fb47,Dropped by invoice.exe; mime application/octet-stream
+2024-01-31,Payload delivery,filename|sha1,Participants|cac652aeabbc7db652909e82eb5d224e2511ddee,Dropped by invoice.exe; mime application/octet-stream
+2024-01-31,Payload delivery,filename|sha256,Participants|a568017abfd6aeb2d7cce8aac2a0a8e56b1bbd880dac5a6051ea41766043a9b7,Dropped by invoice.exe; mime application/octet-stream
+2024-01-31,Payload delivery,filename|sha512,Participants|26ecbff56ff626fd328e2fae44635f08bd96b15635704e401912cdc9e7d8bee70f9dccaefbbf16c3585fa2d96c396096c5019c1ccbbf2e3fda87c98f266a78ff,Dropped by invoice.exe; mime application/octet-stream
+2024-01-31,Payload delivery,filename|ssdeep,Participants|3072:d6jKj+wsxjgarB3RZgDWy4ZNogXJ3i2Umb2Oq:d64EgarxUaBZ2myoG,Dropped by invoice.exe; mime application/octet-stream
+2024-02-01,Payload delivery,filename|md5,Dust.pif|848164d084384c49937f99d5b894253e,"Created from files Compound, Injection, Emotions, Worm and Participants; AutoIt v3 Script (Beta); mime: application/x-dosexec"
+2024-02-01,Payload delivery,filename|sha1,Dust.pif|3055ef803eeec4f175ebf120f94125717ee12444,"Created from files Compound, Injection, Emotions, Worm and Participants; AutoIt v3 Script (Beta); mime: application/x-dosexec"
+2024-02-01,Payload delivery,filename|sha256,Dust.pif|f58d3a4b2f3f7f10815c24586fae91964eeed830369e7e0701b43895b0cefbd3,"Created from files Compound, Injection, Emotions, Worm and Participants; AutoIt v3 Script (Beta); mime: application/x-dosexec"
+2024-02-01,Payload delivery,filename|sha512,Dust.pif|aabe1cf076f48f32542f49a92e4ca9f054b31d5a9949119991b897b9489fe775d8009896408ba49ac43ec431c87c0d385daead9dbbde7ef6309b0c97bbaf852a,"Created from files Compound, Injection, Emotions, Worm and Participants; AutoIt v3 Script (Beta); mime: application/x-dosexec"
+2024-02-01,Payload delivery,filename|ssdeep,Dust.pif|24576:LOo8pEnK4mrqlEZuVZ2HOI+X0l1lMZyYFaeBmyF:LF8p4KpqlEZeXI+X0TVcae3F,"Created from files Compound, Injection, Emotions, Worm and Participants; AutoIt v3 Script (Beta); mime: application/x-dosexec"
+2024-02-01,Payload delivery,filename|imphash,Dust.pif|cb0b7e6e83da063fd7c111542603cca4,"Created from files Compound, Injection, Emotions, Worm and Participants; AutoIt v3 Script (Beta); mime: application/x-dosexec"
+2024-02-01,Payload delivery,filename|md5,x|6f6e0b9751461d0bbc2f2374f5384d55,"Created from files Operator, Dns and Hour; mime: text/plain"
+2024-02-01,Payload delivery,filename|sha1,x|8cd8fc3ee6477a04e905c2256555f5438c2bbc5c,"Created from files Operator, Dns and Hour; mime: text/plain"
+2024-02-01,Payload delivery,filename|sha256,x|0279ce5902dca6a0bc5e5098929eac5e528e835b1d07fa247f8360a2e88d51c1,"Created from files Operator, Dns and Hour; mime: text/plain"
+2024-02-01,Payload delivery,filename|sha512,x|f8d8d1094e563369ebdd9c143046fae920134c179d2101579f2d8cc83fa40fbfa35b58b626b8cb2b8fa775af69f3cf23d713fa20cc52aefb2bc4060cfdd942bc,"Created from files Operator, Dns and Hour; mime: text/plain"
+2024-02-01,Payload delivery,filename|ssdeep,x|12288:H2ENR0XGEMf89NLgBzerdPCVSgK9bY568w8by3//Ca6o0Lx:xgRmYgIdPKSgxR,"Created from files Operator, Dns and Hour; mime: text/plain"
+2024-02-01,Network activity,domain,brickabsorptiondullyi.site,Source: Network activity from Dust.pif x; C2
+2024-02-01,Network activity,domain,retainfactorypunishjkw.site,Source: Network activity from Dust.pif x; C2
+2024-02-01,Network activity,domain,communicationinchoicer.site,Source: Network activity from Dust.pif x; C2
+2024-02-01,Network activity,domain,carvewomanflavourwop.site,Source: Network activity from Dust.pif x; C2
+2024-02-01,Network activity,domain,vesselspeedcrosswakew.site,Source: Network activity from Dust.pif x; C2
+2024-02-01,Network activity,domain,cooperatecliqueobstac.site,Source: Network activity from Dust.pif x; C2
+2024-02-01,Network activity,domain,racerecessionrestrai.site,Source: Network activity from Dust.pif x; C2
+2024-02-01,Network activity,domain,braidfadefriendklypk.site,Source: Network activity from Dust.pif x; C2
+2024-02-01,Network activity,domain,crisisestimatehealtwh.site,Source: Network activity from Dust.pif x; C2
+2024-02-01,Network activity,url,https://brickabsorptiondullyi.site/,Source: Network activity from Dust.pif x; C2
+2024-02-01,Network activity,url,https://retainfactorypunishjkw.site/,Source: Network activity from Dust.pif x; C2
+2024-02-01,Network activity,url,https://communicationinchoicer.site/,Source: Network activity from Dust.pif x; C2
+2024-02-01,Network activity,url,https://carvewomanflavourwop.site/,Source: Network activity from Dust.pif x; C2
+2024-02-01,Network activity,url,https://vesselspeedcrosswakew.site/,Source: Network activity from Dust.pif x; C2
+2024-02-01,Network activity,url,https://cooperatecliqueobstac.site/,Source: Network activity from Dust.pif x; C2
+2024-02-01,Network activity,url,https://racerecessionrestrai.site/,Source: Network activity from Dust.pif x; C2
+2024-02-01,Network activity,url,https://braidfadefriendklypk.site/,Source: Network activity from Dust.pif x; C2
+2024-02-01,Network activity,url,https://crisisestimatehealtwh.site/,Source: Network activity from Dust.pif x; C2

@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-01-05]
+| UUID: daed68f6-6b34-433e-a6ab-3f0fffd62ede
+| Date: 2024-01-05
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-05,Payload installation,filename,SecuriteInfo.com.W32.MSIL_Agent.GXH.gen.Eldorado.21748.1972,Source: MalwareBazaar
+2024-01-05,Payload installation,md5,cc8376cea9336a97ac76e52ad86dab44,Source: MalwareBazaar
+2024-01-05,Payload installation,sha1,5c6bcce410b28b15be0bbde30dd3589a9902eded,Source: MalwareBazaar
+2024-01-05,Payload installation,sha256,8a52d87aa80812e9d072f7f197f320f8a7d253ddc1a6070b014cb35189d3fddd,Source: MalwareBazaar
+2024-01-06,Payload installation,filename,734731fb57c9124655772e6f7ee580ac.hta,Source: MalwareBazaar
+2024-01-06,Payload installation,md5,734731fb57c9124655772e6f7ee580ac,Source: MalwareBazaar
+2024-01-06,Payload installation,sha1,e26233bdd4cee7aaede2e8d36ca504593791c14a,Source: MalwareBazaar
+2024-01-06,Payload installation,sha256,9e9028eafe847837290a41f3e3bf73f603b915d26dafa5ba7fa47938463e4b00,Source: MalwareBazaar
+2024-01-06,Payload installation,filename,895c4252655b97ae8088b596b911cf91.hta,Source: MalwareBazaar
+2024-01-06,Payload installation,md5,895c4252655b97ae8088b596b911cf91,Source: MalwareBazaar
+2024-01-06,Payload installation,sha1,0324eeb1213fb5afcb263cef2a7dabf91fba8b33,Source: MalwareBazaar
+2024-01-06,Payload installation,sha256,91da2e363bda0f0ee453afb95cb908997c915c38b75d2ad3b4a92d8e001c462e,Source: MalwareBazaar
+2024-01-06,Payload installation,filename,2cad2d0a5d89eb2ea395b05b1d382a93.hta,Source: MalwareBazaar
+2024-01-06,Payload installation,md5,2cad2d0a5d89eb2ea395b05b1d382a93,Source: MalwareBazaar
+2024-01-06,Payload installation,sha1,1fae7ff69680128866ceb84caaaca6bbda2c499f,Source: MalwareBazaar
+2024-01-06,Payload installation,sha256,0a8a89c16d0087796640faa387e0cc528b03e6dead937cc329e46887afd2e6b6,Source: MalwareBazaar
+2024-01-06,Payload installation,filename,630e9c4728f909924e7dc05a08490594.hta,Source: MalwareBazaar
+2024-01-06,Payload installation,md5,630e9c4728f909924e7dc05a08490594,Source: MalwareBazaar
+2024-01-06,Payload installation,sha1,21dedb899267d6c3b38ad91666c2980fa08a559b,Source: MalwareBazaar
+2024-01-06,Payload installation,sha256,0cea7d2fb0500acccdc53a33887f51f63ac2af96275e7b7090f3977e31626191,Source: MalwareBazaar

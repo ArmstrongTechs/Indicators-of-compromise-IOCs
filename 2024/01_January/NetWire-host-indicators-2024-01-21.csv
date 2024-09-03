@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: NetWire host indicators [2024-01-21]
+| UUID: cd906b44-efd3-4330-a2ff-5206501cca18
+| Date: 2024-01-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-01-22,Payload installation,filename,ZtYZsBiAkiYv.exe,Source: MalwareBazaar
+2024-01-22,Payload installation,md5,3b25677fa8107108e47bf97e9df675a6,Source: MalwareBazaar
+2024-01-22,Payload installation,sha1,fb4c79542cf166a2f7b099b65c43db58b6a01e68,Source: MalwareBazaar
+2024-01-22,Payload installation,sha256,c14f7a70a3083113154ae0242fd0e14b4c54056cfdb419ec46f3e0471bf0827a,Source: MalwareBazaar
