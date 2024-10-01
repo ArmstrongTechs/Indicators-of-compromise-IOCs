@@ -1,0 +1,34 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 216382
+| Info: DoppelPaymer Ransomware Campaign - Large Organization Targeting
+| Reference: https://172.19.111.72/events/view/216382
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-09,Payload delivery,sha256,801b04a1504f167c25f568f8d7cbac13bdde6440a609d0dcd64ebe225c197f9b,
+2024-09-09,Payload delivery,sha256,813d8020f32fefe01b66bea0ce63834adef2e725801b4b761f5ea90ac4facd3a,
+2024-09-09,External analysis,link,https://www.virustotal.com/file/bd2c2cf0631d881ed382817afcce2b093f4e412ffb170a719e2762f250abfea4/analysis/1572941327/,
+2024-09-09,Payload delivery,md5,b365af317ae730a67c936f21432b9c71,
+2024-09-09,Payload delivery,sha1,a0bdfac3ce1880b32ff9b696458327ce352e3b1d,
+2024-09-09,Payload delivery,sha256,bd2c2cf0631d881ed382817afcce2b093f4e412ffb170a719e2762f250abfea4,
+2024-09-09,External analysis,link,https://www.virustotal.com/file/801b04a1504f167c25f568f8d7cbac13bdde6440a609d0dcd64ebe225c197f9b/analysis/1572911981/,
+2024-09-09,Payload delivery,md5,9141d1d189afc2e300121e71a211c925,
+2024-09-09,Payload delivery,sha1,ee5ac27425616878a932516000c04dedbde5b715,
+2024-09-09,External analysis,link,https://www.virustotal.com/file/813d8020f32fefe01b66bea0ce63834adef2e725801b4b761f5ea90ac4facd3a/analysis/1572871065/,
+2024-09-09,Payload delivery,md5,47bc14f741779c3a7450adeeb66bb7e8,
+2024-09-09,Payload delivery,sha1,980842b405d6df5385503044e102ad4a5d8b8573,
+2024-09-09,External analysis,link,https://www.virustotal.com/file/0f97f6d53fff47914174bc3a05fb016e2c02ed0b43c827e5e5aadba2d244aecc/analysis/1572870275/,
+2024-09-09,Payload delivery,md5,6365fe1d37545c71cbe2719ac7831bdd,
+2024-09-09,Payload delivery,sha1,9356d660cebd2604ec4e72967f44678741331d5a,
+2024-09-09,Payload delivery,sha256,0f97f6d53fff47914174bc3a05fb016e2c02ed0b43c827e5e5aadba2d244aecc,
+2024-09-09,External analysis,link,https://www.virustotal.com/file/d4a0fe56316a2c45b9ba9ac1005363309a3edc7acf9e4df64d326a0ff273e80f/analysis/1572966461/,
+2024-09-09,Payload delivery,md5,68f9b52895f4d34e74112f3129b3b00d,
+2024-09-09,Payload delivery,sha1,c5e2018bf7c0f314fed4fd7fe7e69fa2e648359e,
+2024-09-09,Payload delivery,sha256,d4a0fe56316a2c45b9ba9ac1005363309a3edc7acf9e4df64d326a0ff273e80f,
+2024-09-09,External analysis,link,https://www.virustotal.com/file/70211a3f90376bbc61f49c22a63075d1d4ddd53f0aefa976216c46e6ba39a9f4/analysis/1572960759/,
+2024-09-09,Payload delivery,md5,1b5c3c458e31bede55145d0644e88d75,
+2024-09-09,Payload delivery,sha1,a21c84c6bf2e21d69fa06daaf19b4cc34b589347,
+2024-09-09,Payload delivery,sha256,70211a3f90376bbc61f49c22a63075d1d4ddd53f0aefa976216c46e6ba39a9f4,
+2024-09-09,Network activity,url,https://www.crowdstrike.com/blog/doppelpaymer-ransomware-and-dridex-2/,
+2024-09-09,Payload delivery,sha256,bfb7e62ba4ad5975e68a1beefb045cb72e056911fd7a8b070a15029dfcbbefe1,
+2024-09-09,Payload delivery,sha256,51d8618ec86159327e883615ad8989c7638172cf801f65ab0367e5b2e6af596a,

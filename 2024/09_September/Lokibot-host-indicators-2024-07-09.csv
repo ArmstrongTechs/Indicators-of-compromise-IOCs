@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-07-09]
+| UUID: 71b5b39b-17c3-4ed8-ac1c-edac3f053321
+| Date: 2024-07-09
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-09,Payload installation,filename,bUXxykcTPKqVTCw.exe,Source: MalwareBazaar
+2024-07-09,Payload installation,md5,e5a6e7bbc815a510e258bc8c3c28a8e8,Source: MalwareBazaar
+2024-07-09,Payload installation,sha1,1aec295b216472b8daeaed42794955a85ec9f9db,Source: MalwareBazaar
+2024-07-09,Payload installation,sha256,8a28668302df8fea6ea0361fd4823410aea2dcd86934736e977b356ab9052a62,Source: MalwareBazaar
+2024-07-09,Payload installation,filename,eyIFanijo.exe,Source: MalwareBazaar
+2024-07-09,Payload installation,md5,a06d563641bb76a56d398568ea0e9795,Source: MalwareBazaar
+2024-07-09,Payload installation,sha1,dc81eb51de4d8ffbf0bbbcbdb3f3c6980d09e416,Source: MalwareBazaar
+2024-07-09,Payload installation,sha256,e4c4990451cfa8c8a75a65d68c8dc7efde67ba3cdca812636895f8488005da54,Source: MalwareBazaar
+2024-07-09,Payload installation,filename,Formularderambursare202400090704892.cmd.exe,Source: MalwareBazaar
+2024-07-09,Payload installation,md5,1dc5f66bc079586ec34caa1539e9a3c1,Source: MalwareBazaar
+2024-07-09,Payload installation,sha1,da62edb620350c10918998b0cb2172b3733a8f5d,Source: MalwareBazaar
+2024-07-09,Payload installation,sha256,4785d17feedabdb54660fcda356392d29749d4fb8130667e68d48c75735f418a,Source: MalwareBazaar
+2024-07-09,Payload installation,filename,vV389MGvCt9jWzm.exe,Source: MalwareBazaar
+2024-07-09,Payload installation,md5,5cc4c28bcb6afcd6f0cbf9fe72e62905,Source: MalwareBazaar
+2024-07-09,Payload installation,sha1,a01adb1d5428cb9c8ed9204753d5769b815c1503,Source: MalwareBazaar
+2024-07-09,Payload installation,sha256,4f0243930267af37170243d384fc111b2ca3da9a3497cb7862485d7b62d71607,Source: MalwareBazaar
+2024-07-10,Payload installation,filename,Ibbubapquce.exe,Source: MalwareBazaar
+2024-07-10,Payload installation,md5,caec53ed7ab971ac19643d395f40a95e,Source: MalwareBazaar
+2024-07-10,Payload installation,sha1,8459f1a2a1f3a1e1695eec0fbcb1a4baabdb86ac,Source: MalwareBazaar
+2024-07-10,Payload installation,sha256,0f3fcd1903a9b4ac99cdc7ed5e32f591ce28312d8fe8981e7b66a61e92b4a573,Source: MalwareBazaar

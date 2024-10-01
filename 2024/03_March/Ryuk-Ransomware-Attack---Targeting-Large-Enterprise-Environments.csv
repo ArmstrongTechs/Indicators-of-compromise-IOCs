@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 216390
+| Info: Ryuk Ransomware Attack - Targeting Large Enterprise Environments
+| Reference: https://172.19.111.72/events/view/216390
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-09,Payload delivery,sha256,795db7bdad1befdd3ad942be79715f6b0c5083d859901b81657b590c9628790f,
+2024-09-09,Payload delivery,sha256,501e925e5de6c824b5eeccb3ccc5111cf6e312258c0877634935df06b9d0f8b9,
+2024-09-09,Payload delivery,sha256,fe909d18cf0fde089594689f9a69fbc6d57b69291a09f3b9df1e9b1fb724222b,
+2024-09-09,Payload delivery,sha256,ac648d11f695cf98993fa519803fa26cd43ec32a7a8713bfa34eb618659aff77,
+2024-09-09,Payload delivery,sha256,5e2c9ec5a108af92f177cabe23451d20e592ae54bb84265d1f972fcbd4f6a409,
+2024-09-09,Payload delivery,sha256,78c6042067216a5d47f4a338dd951848b122bbcbcd3e61290b2f709543448d90,

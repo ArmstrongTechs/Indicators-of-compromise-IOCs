@@ -1,0 +1,11 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: RevengeRAT network indicators [2024-07-19]
+| UUID: 92dc8c24-f08e-4232-8d41-f30bd5d6d467
+| Date: 2024-07-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-19,Network activity,url,https://firebasestorage.googleapis.com/v0/b/srmaster-3e0e8.appspot.com/o/REVENGER.jpg?alt=media&token=f4f35bff-72c6-4f56-ae67-ea2379366dd5,Source: urlhaus

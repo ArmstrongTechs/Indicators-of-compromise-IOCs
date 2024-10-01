@@ -1,0 +1,25 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 216398
+| Info: Darkside Ransomware Attack - Targeting Large Enterprises and VMware ESXi Systems
+| Reference: https://172.19.111.72/events/view/216398
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-09,Payload delivery,sha256,68872cc22fbdf0c2f69c32ac878ba9a7b7cf61fe5dd0e3da200131b8b23438e7,
+2024-09-09,Payload delivery,sha256,05459376bbe170c277739cab4e425530aff0a15616297b63f0ad665c3ce0f18a,
+2024-09-09,Payload delivery,sha256,0839aabe5fd63b16844a27b3c586c02a044d119010a1a40ee4035501c34eae0d,
+2024-09-09,Network activity,domain,temisleyes.com,
+2024-09-09,Network activity,domain,catsdegree.com,
+2024-09-09,Network activity,domain,securebestapp20.com,
+2024-09-09,Network activity,domain,baroquetees.com,
+2024-09-09,Payload delivery,filename,Typed_history.zip,
+2024-09-09,Network activity,domain,appdata.zip,
+2024-09-09,Payload delivery,filename,IE_Passwords.zip,
+2024-09-09,Payload delivery,filename,partmgr.sys,
+2024-09-09,Payload delivery,filename,dark_side12.exe,
+2024-09-09,Payload delivery,filename,PtSOiqqkXpXNZOefCjSkFqjvaCz0V.exe,
+2024-09-09,Payload delivery,filename,YjOceqfs33FexMiLv.exe,
+2024-09-09,Payload delivery,filename,2hpMblUnWXZu6evLUDvqaVs.exe,
+2024-09-09,Payload delivery,filename,Du82I6x4zeQgl7WXe2pM11aUq.exe,
+2024-09-09,Payload delivery,filename,EmMLKGPlGxRg49uvvk.exe,
+2024-09-09,Payload delivery,filename,ZUn54xjYkbDTBMgsXJwdZwmcg2f.exe,

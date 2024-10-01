@@ -1,0 +1,15 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 217425
+| Info: Detecting the Chaos Version of DeathGrip Ransomware with YARA
+| Reference: https://172.19.111.72/events/view/217425
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-24,Payload delivery,sha1,2d566a2b94fc8b16b97200392db1bbe714c31289,
+2024-09-24,Payload delivery,sha1,560065e8fbc3eb7743c74d3300d73db16141fd1f,
+2024-09-24,Payload delivery,sha1,96c375b9c57292db73c7ef2f2df16cf7be1604bb,
+2024-09-24,Payload delivery,sha1,d24fc282fb660945b87e1c41860a031f6e7ec9f6,
+2024-09-24,Payload delivery,filename,dropper.bat,
+2024-09-24,Payload delivery,sha1,fc9548f91123e05196dad6bcab11d29abd01500c,
+2024-09-24,Network activity,url,https://master-repogen.vercel.app/file/server.scr,
+2024-09-24,Network activity,url,https://master-repogen.vercel.app/file/tmk.scr,

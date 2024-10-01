@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 213546
+| Info: Suspicious IP VPN Thailand in September 2024
+| Reference: https://172.19.111.72/events/view/213546
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-02,Network activity,ip-dst,47.121.129.129,
+2024-09-02,Network activity,ip-dst,146.70.112.189,
+2024-09-02,Network activity,ip-dst,185.218.221.89,
+2024-09-02,Network activity,ip-dst,192.162.184.172,
+2024-09-02,Network activity,ip-dst,192.162.184.212,
+2024-09-02,Network activity,ip-dst,45.145.127.9,
+2024-09-02,Network activity,ip-dst,82.176.91.3,
+2024-09-02,Network activity,ip-dst,109.207.129.128,
+2024-09-02,Network activity,ip-dst,146.70.57.35,
+2024-09-02,Network activity,ip-dst,45.39.230.146,
+2024-09-02,Network activity,ip-dst,38.180.21.23,
+2024-09-02,Network activity,ip-dst,212.102.54.135,
+2024-09-02,Network activity,ip-dst,213.253.117.147,
+2024-09-02,Network activity,ip-dst,154.47.23.108,
+2024-09-02,Network activity,ip-dst,107.173.147.72,

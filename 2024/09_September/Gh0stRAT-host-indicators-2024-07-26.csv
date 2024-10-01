@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Gh0stRAT host indicators [2024-07-26]
+| UUID: bf97416f-d6d7-41f7-8bbe-14fe103c7cc6
+| Date: 2024-07-26
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-26,Payload installation,filename,setup搜狗拼音输入法_11_4002071.exe,Source: MalwareBazaar
+2024-07-26,Payload installation,md5,60a87e7be6cdde4f59a92b656adc3acb,Source: MalwareBazaar
+2024-07-26,Payload installation,sha1,a8d4b15249ee568a38b6b5a29fd4db9d3fe2ff34,Source: MalwareBazaar
+2024-07-26,Payload installation,sha256,5cc140e5dc2a73a4e5f3c1f728257b3a8398e7523a44c449c58efc347fbc9a91,Source: MalwareBazaar
+2024-07-27,Payload installation,filename,FU0wkbMW.zip,Source: MalwareBazaar
+2024-07-27,Payload installation,md5,9c730db04cff982f7761e4420a28b1b7,Source: MalwareBazaar
+2024-07-27,Payload installation,sha1,f6bae2bea41d9e5bd2cd58e6d3346c06644f4fe6,Source: MalwareBazaar
+2024-07-27,Payload installation,sha256,582d3f10dd3418ace9cb48d71b3fb7e8aa91b1870e4e9e6d3c4dc77f42b0cf0d,Source: MalwareBazaar

@@ -1,0 +1,25 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AutoIT compiled AgentTesla
+| UUID: e32db8dd-a7fe-4de0-8b3c-3b7a2031ec51
+| Date: 2024-07-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-24,Network activity,url,ftp://ftp.wapination.net,
+2024-07-24,Network activity,domain,ftp.wapination.net,
+2024-07-24,Network activity,ip-dst,108.179.234.136,
+2024-07-24,Payload delivery,malware-sample,Shipping Documents_pdf.zip|23d0be4077abd1abe32250c91e0cd200,
+2024-07-24,Payload delivery,filename,Shipping Documents_pdf.zip,
+2024-07-24,Payload delivery,md5,23d0be4077abd1abe32250c91e0cd200,
+2024-07-24,Payload delivery,sha1,4e33ad4c144b6f9064f5cc4e17e67dbb83118713,
+2024-07-24,Payload delivery,sha256,e14f3c80cd7fac04c4433b4b4339846a0459745473f642cbbb2d2227c7a47212,
+2024-07-24,Other,size-in-bytes,749725,
+2024-07-24,Payload delivery,malware-sample,Shipping Documents_pdf.exe|50e6e94907fc16f102299c659ba822d3,
+2024-07-24,Payload delivery,filename,Shipping Documents_pdf.exe,
+2024-07-24,Payload delivery,md5,50e6e94907fc16f102299c659ba822d3,
+2024-07-24,Payload delivery,sha1,b96807ab5a591c38f0d1405f553a4da030b8643e,
+2024-07-24,Payload delivery,sha256,95cc26903867ce68cb392ca3fe5ad21e371b8b6b2f1540137d0c6d26e9ca69c7,
+2024-07-24,Other,size-in-bytes,1203200,

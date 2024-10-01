@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-07-20]
+| UUID: dd75b43b-c109-417f-aac0-3d3188932ecd
+| Date: 2024-07-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-21,Payload installation,filename,crowdstrike-hotfix.zip,Source: MalwareBazaar
+2024-07-21,Payload installation,md5,1e84736efce206dc973acbc16540d3e5,Source: MalwareBazaar
+2024-07-21,Payload installation,sha1,fef212ec979f2fe2f48641160aadeb86b83f7b35,Source: MalwareBazaar
+2024-07-21,Payload installation,sha256,c44506fe6e1ede5a104008755abf5b6ace51f1a84ad656a2dccc7f2c39c0eca2,Source: MalwareBazaar

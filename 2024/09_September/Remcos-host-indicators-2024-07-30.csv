@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-07-30]
+| UUID: fc6e97d5-785e-4eb8-8690-7e2ab3f5f514
+| Date: 2024-07-30
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-30,Payload installation,filename,SecuriteInfo.com.TrojanLoader.MSIL.DaVinci.Heur.7969.25195,Source: MalwareBazaar
+2024-07-30,Payload installation,md5,aa176d8fd589fcb2cee00dbbbd6388ea,Source: MalwareBazaar
+2024-07-30,Payload installation,sha1,f4eba4b5b9c4af502c36279dde4ce4b3b6cf2597,Source: MalwareBazaar
+2024-07-30,Payload installation,sha256,a85df9ae1792ac726d8486058b5f1ddb89f232930cb3c7172291fe3adee3220d,Source: MalwareBazaar
+2024-07-30,Payload installation,filename,cf3ae921fc075c967cac5a5e384849bc,Source: MalwareBazaar
+2024-07-30,Payload installation,md5,cf3ae921fc075c967cac5a5e384849bc,Source: MalwareBazaar
+2024-07-30,Payload installation,sha1,aa1ef73f7b20a698c7d5bdffaf0d49daa3cc6628,Source: MalwareBazaar
+2024-07-30,Payload installation,sha256,7f7c0a8e3904766b34045e77f1eb2ae131dbcba2b9db93a882245cae5bb8efd9,Source: MalwareBazaar
+2024-07-30,Payload installation,filename,Impeachable.exe,Source: MalwareBazaar
+2024-07-30,Payload installation,md5,f37e27368c12a73dc8e791a1a60c929f,Source: MalwareBazaar
+2024-07-30,Payload installation,sha1,3f1f1592e70c46c77fdf603ec4e61fc5a179d6b2,Source: MalwareBazaar
+2024-07-30,Payload installation,sha256,d09e5aa4e74c009e6ec6b80ff7fe4da43eeb4640104c54036f40755f55767118,Source: MalwareBazaar

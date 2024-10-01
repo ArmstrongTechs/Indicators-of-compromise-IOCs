@@ -1,0 +1,89 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook malspam via email attachment
+| UUID: 73f516c9-b386-4035-8d43-9095b181feb9
+| Date: 2024-07-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-16,Artifacts dropped,filename,%PUBLIC%\Libraries\CLEAN.COM,
+2024-07-16,Network activity,url,https://mbsngradnja.com/255_Bflivzyfoqr,Download URL
+2024-07-16,Network activity,url,https://aquadream.rs/255_Bflivzyfoqr,Download URL
+2024-07-16,Network activity,url,https://b-trend.hu/255_Bflivzyfoqr,Download URL
+2024-07-16,Network activity,domain,mbsngradnja.com,
+2024-07-16,Network activity,domain,aquadream.rs,
+2024-07-16,Network activity,domain,b-trend.hu,
+2024-07-16,Artifacts dropped,filename,%PUBLIC%\Bflivzyf.url,
+2024-07-16,Artifacts dropped,filename,%PUBLIC%\Libraries\Bflivzyf,
+2024-07-16,Artifacts dropped,filename,%PUBLIC%\Libraries\Bflivzyf.PIF,
+2024-07-16,Artifacts dropped,filename,%PUBLIC%\Libraries\fyzvilfB.pif,
+2024-07-16,Artifacts dropped,filename,%PUBLIC%\Libraries\PNO,
+2024-07-16,Persistence mechanism,regkey,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\Bflivzyf,
+2024-07-16,Network activity,domain,www.almouranipainting.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.cataloguia.shop,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.zaparielectric.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.whcqsc.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.ioco.in,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.aduredmond.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.vavada611a.fun,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.humtivers.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.jewellerytml.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.mcapitalparticipacoes.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.inhlcq.shop,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.solanamall.xyz,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.moviepropgroup.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.thegenesis.ltd,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.cyberxdefend.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.skinbykoco.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.entermintlead.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.honestaireviews.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.wyclhj7gqfustzp.buzz,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.w937xb.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.bakuusa.online,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.sabong-web.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.52cg2.club,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.jasonnutter.golf,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.odbet555.app,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.vipmotoryatkiralama.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.auravibeslighting.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.pulsesautos.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.imdcaam.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.vivaness.club,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.bovverbadges.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.giaydonghai.online,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.aditi-jobs.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.numericalsemantics.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.shoprazorlaser.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.lovedacademy.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.gets-lnds.io,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.teyo293.xyz,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.banditsolana.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.delivery-jobs-76134.bond,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.ppp5716.buzz,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.zjmeterial.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.de-ponqk.top,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.bntyr76rhg.top,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.servicepmgtl.world,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.nailtimelocust.top,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.paperappa.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.80sos.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.daysofbetting.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.slaytheday.fun,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.travauxdefou.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.bx2zyg.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.thecoxnews.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.qriskaq.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.top-dao.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.krstockly1.shop,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.roiwholesale.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.pajero777ads.click,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.twistedrubytx.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.thesovreignkingdomofmaui.info,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.cataclysmicgamingapparel.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.verxop.xyz,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.xn--kwra1023b.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.winterclairee.com,Formbook decoy C2 domain
+2024-07-16,Network activity,domain,www.sukhiclothing.com,Formbook actual C2 domain
+2024-07-16,Network activity,url,http://www.sukhiclothing.com/dn03/,Formbook C2 URL

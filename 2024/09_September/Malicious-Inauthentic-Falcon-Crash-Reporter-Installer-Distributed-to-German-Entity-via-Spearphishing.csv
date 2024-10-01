@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Malicious Inauthentic Falcon Crash Reporter Installer Distributed to German Entity via Spearphishing Website
+| UUID: b04ab590-aba2-4b73-a6b3-1331c8d5367c
+| Date: 2024-07-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-28,External analysis,link,https://www.crowdstrike.com/blog/malicious-inauthentic-falcon-crash-reporter-installer-spearphishing/,
+2024-07-28,Payload delivery,sha256,82ef869e8f7accde731f8c289f19436347a30af1d53c8f61bde5bac8bc91ad1a,
+2024-07-28,Network activity,url,http://{German Entity}.it.com/crowdstrike/,Spearphishing URL
+2024-07-28,Network activity,url,http://{German Entity}.it.com/crowdstrike/media/disabled.svg,Obfuscated version of Crowdstrike_crash_reporter_v1.1-R7.zip
+2024-07-28,Network activity,ip-dst,4.180.4.19,Spearphishing domain IPv4
+2024-07-28,Payload delivery,sha256,a7516a15e1857996373191795c79244c8f5c8deb1f17ba5dbadeac28e18ec1c7,
+2024-07-28,Payload delivery,filename,CrowdStrike_Crash_Reporter_Setup_8.R3.exe,
+2024-07-28,Payload delivery,sha256,41143b2e4bbb9279ba0bbb375748530cc4887cc965967e5c0cc9a39dc44937d6,
+2024-07-28,Payload delivery,filename,Crowdstrike_crash_reporter_v1.1-R7.zip,
+2024-07-28,Payload delivery,sha256,99bb0f05fd135218a5c4b8cac42e58274086b543d001d7227c8f6a2b7722f425,
+2024-07-28,Payload delivery,sha256,82ef869e8f7accde731f8c289f19436347a30af1d53c8f61bde5bac8bc91ad1a,
+2024-07-28,Payload delivery,filename,Java8Runtime.exe,

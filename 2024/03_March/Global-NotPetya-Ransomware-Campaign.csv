@@ -1,0 +1,16 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 216386
+| Info: Global NotPetya Ransomware Campaign
+| Reference: https://172.19.111.72/events/view/216386
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-09,Payload delivery,md5,71b6a493388e7d0b40c83ce903bc6b04,
+2024-09-09,Payload delivery,sha256,027cc450ef5f8c5f653329641ec1fed91f694e0d229928963b30f6b0d7d3a745,
+2024-09-09,Payload delivery,md5,2813d34f6197eb4df42c886ec7f234a1,
+2024-09-09,Payload delivery,sha256,eae9771e2eeb7ea3c6059485da39e77b8c0c369232f01334954fbac1c186c998,
+2024-09-09,Payload delivery,md5,7e37ab34ecdcc3e77e24522ddfd4852d,
+2024-09-09,Payload delivery,sha256,02ef73bd2458627ed7b397ec26ee2de2e92c71a0e7588f78734761d8edbdcd9f,
+2024-09-09,Payload delivery,filename,dllhost.dat,
+2024-09-09,Payload delivery,md5,aeee996fd3484f28e5cd85fe26b6bdcd,
+2024-09-09,Payload delivery,sha256,f8dbabdfa03068130c277ce49c60e35c029ff29d9e3c74c362521f3fb02670d5,

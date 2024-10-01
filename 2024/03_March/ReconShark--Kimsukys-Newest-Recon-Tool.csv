@@ -1,0 +1,25 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 217435
+| Info: ReconShark – Kimsuky’s Newest Recon Tool
+| Reference: https://172.19.111.72/events/view/217435
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-25,Payload delivery,filename,docx.bat,
+2024-09-25,Payload delivery,sha256,6aa86e6c5ca97af149bf22c4deb7b0456727a4c5e67b508c9518e8c8e1b79795,
+2024-09-25,Network activity,url,https://mngrdp.site/simba/d.php?na=battmp,
+2024-09-25,Network activity,url,https://mngrdp.site/simba/def.hta,
+2024-09-25,Payload delivery,md5,7ca1a603a7440f1031c666afbe44afc8,
+2024-09-25,Payload delivery,md5,1dd007b44034bb3ce127b553873171e5,
+2024-09-25,Payload delivery,md5,aa8bd550de4f4dee6ab0bfca82848d44,
+2024-09-25,Payload delivery,md5,49bac05068a79314e00c28b163889263,
+2024-09-25,Payload delivery,sha256,ec9cc1940fe395867f5bab06016920f7194d753ae8cfa331bea0a44ecc8ef7cf,
+2024-09-25,Payload delivery,md5,75ec9f68a5b62705c115db5119a78134,
+2024-09-25,Payload delivery,sha1,41e39162ae3a6370b1100be2b35bb09e2cbe9782,
+2024-09-25,Payload delivery,sha1,7514fd9e5667fc5085373704fe2ea959258c7595,
+2024-09-25,Payload delivery,sha1,4150b40c00d8ab2e960aa059159149af3f9ada09,
+2024-09-25,Payload delivery,md5,56fa059cf7dc562ce0346b943e8f58bb,
+2024-09-25,Payload delivery,sha256,b3ab0b19478336a8c17ee9fd28ab6463df206b23f69c7e3b5eacc3efb11a0a95,
+2024-09-25,Payload delivery,md5,e86a24d9f3a42bbb8edc0ca1f8b3715c,
+2024-09-25,Payload delivery,md5,a12757387f178a0ec092fb5360e4f473,
+2024-09-25,Payload delivery,md5,b5080c0d123ce430f1e28c370a0fa18b,

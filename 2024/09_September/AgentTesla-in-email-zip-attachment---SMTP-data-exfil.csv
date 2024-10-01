@@ -1,0 +1,25 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla in email (zip) attachment - SMTP data exfil
+| UUID: 69fcffac-a013-42c5-b098-af36463c115f
+| Date: 2024-07-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-11,Network activity,email,info@pannwhite.co.uk,
+2024-07-11,Network activity,email,kimberly.monnar@vlkramsolar.net,
+2024-07-11,Network activity,domain,terminal4.veeblehosting.com,
+2024-07-11,Payload delivery,malware-sample,NEW ORDER.zip|89016dbd74ec0c287465b81e79871f5c,
+2024-07-11,Payload delivery,filename,NEW ORDER.zip,
+2024-07-11,Payload delivery,md5,89016dbd74ec0c287465b81e79871f5c,
+2024-07-11,Payload delivery,sha1,1385d93b64f2e6835052e5f219b3ded179cbffe0,
+2024-07-11,Payload delivery,sha256,e23585277f208bd4563ce467798ea0cfedb077a8e89cfe3609c294a54e770a12,
+2024-07-11,Other,size-in-bytes,627400,
+2024-07-11,Payload delivery,malware-sample,NEW ORDER.exe|9d10b8a649fd115c297d41f1f7a4b226,
+2024-07-11,Payload delivery,filename,NEW ORDER.exe,
+2024-07-11,Payload delivery,md5,9d10b8a649fd115c297d41f1f7a4b226,
+2024-07-11,Payload delivery,sha1,3462a4ce08abe9a965903a8fbf0b7135328a008d,
+2024-07-11,Payload delivery,sha256,fc4c4a671af565561ec3049912d3d278cb2f64f2c96332b4ea18a24abc3f4102,
+2024-07-11,Other,size-in-bytes,1060352,

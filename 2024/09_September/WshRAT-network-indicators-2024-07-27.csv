@@ -1,0 +1,12 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: WshRAT network indicators [2024-07-27]
+| UUID: 5bb8b9ac-0b3f-45e8-bc26-71aeda3d2da1
+| Date: 2024-07-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-27,Network activity,url,https://raw.githubusercontent.com/KoMasinfo/IDcb/main/CBS_applcation_details_072602024_xlsx.rar,Source: urlhaus
+2024-07-27,Network activity,url,https://ddfcbb9325637bcdeff.mxttbszhh1.free.hr/oauth/pdf/Monetary_Funding_Sheet_2024.pdf,Source: urlhaus

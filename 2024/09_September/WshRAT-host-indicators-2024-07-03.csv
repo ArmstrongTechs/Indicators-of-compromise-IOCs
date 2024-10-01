@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: WshRAT host indicators [2024-07-03]
+| UUID: 999f34aa-a6c6-4575-9e4f-cb2f028efd57
+| Date: 2024-07-03
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-04,Payload installation,filename,PO-24701248890.001,Source: MalwareBazaar
+2024-07-04,Payload installation,md5,e4cd2b729635b5a64e077624718ea67e,Source: MalwareBazaar
+2024-07-04,Payload installation,sha1,dddc562b51a1a95baca1266ef6aaa3ce6456520f,Source: MalwareBazaar
+2024-07-04,Payload installation,sha256,7343cacdbcfb79ebe64f5665de57eab07bc671ebbe536fb42d48dd92eb909912,Source: MalwareBazaar

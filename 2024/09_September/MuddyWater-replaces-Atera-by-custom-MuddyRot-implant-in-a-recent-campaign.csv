@@ -1,0 +1,73 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: MuddyWater replaces Atera by custom MuddyRot implant in a recent campaign
+| UUID: 01ae246a-a5af-4f86-94b4-b574812e56e9
+| Date: 2024-07-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-19,External analysis,link,https://blog.sekoia.io/muddywater-replaces-atera-by-custom-muddyrot-implant-in-a-recent-campaign/,
+2024-07-19,Artifacts dropped,mutex,DocumentUpdater,
+2024-07-19,Payload delivery,filename,documentsmanagerreporter.exe,
+2024-07-19,Payload delivery,sha256,94278fa01900fdbfb58d2e373895c045c69c01915edc5349cd6f3e5b7130c472,MuddyRot related codes
+2024-07-19,Payload delivery,sha256,b8703744744555ad841f922995cef5dbca11da22565195d05529f5f9095fbfca,MuddyRot related codes
+2024-07-19,Payload delivery,sha256,73c677dd3b264e7eb80e26e78ac9df1dba30915b5ce3b1bc1c83db52b9c6b30e,MuddyRot related codes
+2024-07-19,Payload delivery,sha256,960d4c9e79e751be6cad470e4f8e1d3a2b11f76f47597df8619ae41c96ba5809,MuddyRot related codes
+2024-07-19,Network activity,ip-dst,91.235.234.202,
+2024-07-19,Network activity,ip-dst,146.19.143.14,
+2024-07-19,Payload installation,yara,"rule apt_MuddyWater_MuddyRot_strings {
+  meta:
+        id = ""f7bc195a-0e60-4495-b78a-78f101543700""
+        version = ""1.0""
+        malware = ""MuddyRot""
+        intrusion_set = ""MuddyWater""
+        description = ""Detects RotRot backdoor based on strings permutations""
+        source = ""Sekoia.io""
+        creation_date = ""2024-06-10""
+        classification = ""TLP:WHITE""
+  strings:
+    $s1 = ""qsphsbnebub""
+    $s2 = ""rtqitcofcvc""
+    $s3 = ""surjudpgdwd""
+    $s4 = ""tvskveqhexe""
+    $s5 = ""uwtlwfrifyf""
+    $s6 = ""vxumxgsjgzg""
+
+    $t1 = ""MpbeMjcsbs""
+    $t2 = ""NqcfNkdtct""
+    $t3 = ""OrdgOleudu""
+    $t4 = ""PsehPmfvev""
+    $t5 = ""QtfiQngwfw""
+    $t6 = ""RugjRohxgx""
+
+    $u1 = ""UfsnjobufKpcPckfdu""
+    $u2 = ""VgtokpcvgLqdQdlgev""
+    $u3 = ""WhuplqdwhMreRemhfw""
+    $u4 = ""XivqmrexiNsfSfnigx""
+    $u5 = ""YjwrnsfyjOtgTgojhy""
+    $u6 = ""ZkxsotgzkPuhUhpkiz""
+
+  condition:
+    uint16be(0) == 0x4d5a and
+    filesize > 100KB and filesize < 300KB and
+    any of ($s*) and any of ($t*) and any of ($u*)
+}",
+2024-07-19,Payload installation,yara,"rule apt_MuddyWater_malicious_pdf {
+    meta:
+        id = ""77983aea-47cb-4436-b773-faf7be430339""
+        version = ""1.0""
+        intrusion_set = ""MuddyWater""
+        description = ""Detects malicious PDF used by MuddyWater""
+        source = ""Sekoia.io""
+        creation_date = ""2024-06-10""
+        classification = ""TLP:WHITE""
+    strings:
+        $ = ""egnyte.com/fl/""
+        $ = ""/Type/Pages/Count 1""
+    condition:
+        uint32be(0) == 0x25504446 and
+        filesize < 300KB and
+        all of them
+}",

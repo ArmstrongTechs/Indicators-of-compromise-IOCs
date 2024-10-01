@@ -1,0 +1,42 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 217412
+"| Info: Quad7 botnet targets more SOHO and VPN routers, media servers"
+| Reference: https://172.19.111.72/events/view/217412
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-23,Network activity,ip-dst,142.11.205.164,
+2024-09-23,Network activity,ip-dst,23.254.201.175,
+2024-09-23,Network activity,ip-dst,151.236.20.185,
+2024-09-23,Network activity,ip-dst,151.236.20.211,
+2024-09-23,Payload delivery,md5,98d3764862b182417c910a96e0fbfe71,
+2024-09-23,Payload delivery,md5,c8e229bed1659f1613c1016b3345ef08,
+2024-09-23,Payload delivery,md5,29e6df5bb30ed8fd12c09d9b6890ab4f,
+2024-09-23,Payload delivery,md5,69ced04a2ec895084d3aab1086216d32,
+2024-09-23,Network activity,ip-dst|port,158.247.194.125|80,On port 80
+2024-09-23,Network activity,ip-dst|port,45.77.44.119|80,On port 80
+2024-09-23,Network activity,ip-dst|port,151.236.20.30|80,On port 80
+2024-09-23,Network activity,ip-dst|port,103.140.239.63|80,On port 80
+2024-09-23,Network activity,ip-dst|port,103.57.248.202|81,On port 81
+2024-09-23,Payload delivery,md5,408152285671bbd0e6e63bd71d6abaaf,
+2024-09-23,Payload delivery,md5,5efc7d824851be9ec90a97d889a40d23,
+2024-09-23,Payload delivery,md5,f42849076e24b7827218f7a25bc11ccc,
+2024-09-23,Payload delivery,md5,92093dd7ba6ae8fe34a215c4c4bd1cd4,
+2024-09-23,Payload delivery,md5,e6f6a6de285d7c2361c32b1f29a6c3f6,
+2024-09-23,Payload delivery,md5,b3b09819f820a4ecd31f82f369000af2,
+2024-09-23,Payload delivery,md5,3c4b3d1480952d6ddfe434fef07054f7,
+2024-09-23,Payload delivery,filename,fsy.bin,
+2024-09-23,Payload delivery,md5,cdb37db4543dde5ca2bd98a43699828f,
+2024-09-23,Payload delivery,md5,22633ef920f0093e3d720e7bbeb9fec8,
+2024-09-23,Payload delivery,md5,d617f43163cb0f355dbf63058aa82d1d,
+2024-09-23,Payload delivery,md5,150d444848a02be230ed9fbf3692d226,
+2024-09-23,Payload delivery,md5,43ea387b8294cc4d0baaef6d26ff7c72,
+2024-09-23,Payload delivery,md5,4d9067e7cf517158337123a30a9bd0e3,
+2024-09-23,Payload delivery,md5,8542a3cbe232fe78baa0882736c61926,
+2024-09-23,Payload delivery,md5,777d6f907da38365924a0c2a12e973c5,
+2024-09-23,Payload delivery,md5,470c6ee61b4314721a8cc9ebafe8fef8,
+2024-09-23,Payload delivery,md5,1b08725acc371f6b7d05bb72d0c2d759,
+2024-09-23,Payload delivery,md5,40b5ac87ff87634c48fdd2cf64ccb66b,
+2024-09-23,Payload delivery,md5,199045538d9c139f9cf562d5b76a5cd5,
+2024-09-23,Payload delivery,md5,4b8e97260d9ef6ca774675be682d9c8c,
+2024-09-23,Payload delivery,md5,5b0a28631ca106c31e1d5e81d8e25297,

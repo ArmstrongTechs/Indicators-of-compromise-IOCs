@@ -1,0 +1,20 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: STRRAT - Java basedRAT
+| UUID: d6bc5e14-650c-4541-8cc1-872f33e7c194
+| Date: 2024-07-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-30,Network activity,url,http://jbfrost.live/strigoi/server/?hwid=1&lid=m&ht=5,
+2024-07-30,Network activity,domain,jbfrost.live,
+2024-07-30,Network activity,ip-dst,141.98.10.79,
+2024-07-30,Network activity,ip-dst|port,141.98.10.79|1500,
+2024-07-30,Payload delivery,malware-sample,PO-#00774554553663.jar|4a0b95e278f0a59bcff16500edc25568,
+2024-07-30,Payload delivery,filename,PO-#00774554553663.jar,
+2024-07-30,Payload delivery,md5,4a0b95e278f0a59bcff16500edc25568,
+2024-07-30,Payload delivery,sha1,35bf164377b6cdb43551935404452283cf7e7b97,
+2024-07-30,Payload delivery,sha256,7dbd3729dd6c23e0329158520fa3cfcd3d78126f901aacad8a249a2166638fcc,
+2024-07-30,Other,size-in-bytes,409655,

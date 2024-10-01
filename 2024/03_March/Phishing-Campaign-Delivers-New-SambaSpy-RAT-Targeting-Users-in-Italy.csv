@@ -1,0 +1,36 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 217423
+| Info: Phishing Campaign Delivers New SambaSpy RAT Targeting Users in Italy
+| Reference: https://172.19.111.72/events/view/217423
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-23,Payload delivery,md5,e6be6bc2f8e27631a7bfd2e3f06494aa,
+2024-09-23,Payload delivery,md5,1ec21bd711b491ad47d5c2ef71ff1a10,
+2024-09-23,Payload delivery,md5,d153006e00884edf7d48b9fe05d83cb4,
+2024-09-23,Payload delivery,md5,0f3b46d496bbf47e8a2485f794132b48,
+2024-09-23,Network activity,domain,officediraccoltaanabelacosta.net,
+2024-09-23,Network activity,domain,belliniepecuniaimmobili.com,
+2024-09-23,Network activity,domain,immobilibelliniepecunia.xyz,
+2024-09-23,Network activity,domain,immobilibelliniepecunia.online,
+2024-09-23,Network activity,domain,immobilibelliniepecunia.site,
+2024-09-23,Network activity,domain,bpecuniaimmobili.online,
+2024-09-23,Network activity,domain,bpecuniaimmobili.info,
+2024-09-23,Network activity,domain,belliniepecuniaimmobilisrl.shop,
+2024-09-23,Network activity,domain,belliniepecuniaimmobilisrl.online,
+2024-09-23,Network activity,domain,belliniepecuniaimmobilisrl.xyz,
+2024-09-23,Network activity,hostname,belliniepecuniaimmobili.com.br,
+2024-09-23,Network activity,domain,bpecuniaimmobili.xyz,
+2024-09-23,Network activity,domain,immobilibelliniepecunia.shop,
+2024-09-23,Network activity,domain,immobilibelliniepecunia.me,
+2024-09-23,Network activity,domain,immobiliarebelliniepecunia.info,
+2024-09-23,Network activity,domain,immobiliarebelliniepecunia.online,
+2024-09-23,Network activity,domain,lamsnajs.site,
+2024-09-23,Network activity,domain,appsabs.site,
+2024-09-23,Network activity,domain,qpps.site,
+2024-09-23,Network activity,domain,lskbd.site,
+2024-09-23,Network activity,domain,serverakp.site,
+2024-09-23,Network activity,domain,wedmail.site,
+2024-09-23,Network activity,hostname,66d68ce73c83226a.ngrok.app,
+2024-09-23,Network activity,url,https://1drv.ms/b/s!AnMKZoF8QfODa92x201yr0GDysk?e=ZnX3Rm,
+2024-09-23,Network activity,url,https://moduloj.lamsnajs.site/Modulo32.jpg,

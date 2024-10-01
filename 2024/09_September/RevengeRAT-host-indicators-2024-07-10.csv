@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: RevengeRAT host indicators [2024-07-10]
+| UUID: 49d01a06-209f-45ed-a898-149674374eb7
+| Date: 2024-07-11
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-11,Payload installation,filename,COMPROVANTE DE PAGAMENTO.ppam,Source: MalwareBazaar
+2024-07-11,Payload installation,md5,01c730f1624626e5e1494f27ffb17605,Source: MalwareBazaar
+2024-07-11,Payload installation,sha1,9028b0f9752bb5be30e24153c0d0e463f358f71c,Source: MalwareBazaar
+2024-07-11,Payload installation,sha256,677e627bb513c3cffe86522797f6350e98de398681851ebc7a33afc583390448,Source: MalwareBazaar

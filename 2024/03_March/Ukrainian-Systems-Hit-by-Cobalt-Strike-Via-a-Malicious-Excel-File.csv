@@ -1,0 +1,35 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 217410
+| Info: Ukrainian Systems Hit by Cobalt Strike Via a Malicious Excel File
+| Reference: https://172.19.111.72/events/view/217410
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-23,Network activity,domain,goudieelectric.shop,
+2024-09-23,Network activity,domain,simonandschuster.shop,
+2024-09-23,Payload delivery,md5,6e6c39f498d0231417f6fa75e27b3008,
+2024-09-23,Payload delivery,sha256,4da99f963c26bcc4537ba0437c9cc1445be8bea64067d34308dda6c2e49c8c65,
+2024-09-23,Payload delivery,md5,6857da89a25728b066dcf7f47d25455b,
+2024-09-23,Payload delivery,sha256,0f3bdbc64446555c6ff611b02f2e64250fcaf39b78237ae4cca7c74d94731b32,
+2024-09-23,Payload delivery,md5,c0dc96834b07ec32bc67d3bce7b60a28,
+2024-09-23,Payload delivery,sha256,3b7702a3c2434f8677dddcd44b8ab09bd23129df98ce76929d5731d156398c32,
+2024-09-23,Payload delivery,md5,552d020c3c090c7b297a8f23f7c48648,
+2024-09-23,Payload delivery,sha256,4d9cca1d75d4691e794dfe9efb9eef6e9e64b4e978ad17831b459d4bb6722829,
+2024-09-23,Payload delivery,md5,a85c94825f1420dd15cd80851e89efb1,
+2024-09-23,Payload delivery,sha256,5061bf0d671aacb5fc8e89918c6e5dc5e0b8cb14020422ca73ca5941a7f34b98,
+2024-09-23,Payload delivery,md5,4d8bc51e52067f4b983e4f60d5618a15,
+2024-09-23,Payload delivery,sha256,7f89ec40687564ad7bae34c3f9cddcea28624b3ecf4807e3cef9911d850aecf8,
+2024-09-23,Payload delivery,md5,d43e0c177c7de3d311706609fecdabb8,
+2024-09-23,Payload delivery,sha256,1de7d03db87618e20b85c4e30e040168f26e4a0bdc98943736ef9a2c5f648e23,
+2024-09-23,Payload delivery,md5,4f173e82336aec538124bc1f6a8435b2,
+2024-09-23,Payload delivery,sha256,52fe07167694935a5a6441c1e6de73b08f786f736057034de766a7fa3866e576,
+2024-09-23,Payload delivery,sha256,4cedec3e1a2f72a917ad9a59ebe116ed50c3268567946d1e493c8163486b888b,
+2024-09-23,Payload delivery,sha256,c0c455cd3e18be14d2e34cf4e3fb98e7ab0a75ef04b6049ff9f7b306d62704b8,
+2024-09-23,Payload delivery,sha256,88c97af92688d03601e4687b290d4d7f9f29492612e29f714f26a9278c6eda5b,
+2024-09-23,Payload delivery,sha256,815c1571356cf328a18e0b1f3779d52e5ba11e5e4aac2d216b79bb387963c2be,
+2024-09-23,Payload delivery,sha256,9649d58a220ed2b4474a37d6eac5f055e696769f87baf58b1d3d0b5da69cbce5,
+2024-09-23,Payload delivery,sha256,af8104e567c6d614547acb36322ad2ed6469537cd1d78ae1be65fbde1d578abc,
+2024-09-23,Payload delivery,sha256,de1bceb00c23e468f4f49a79ec69ec8ad3ed622a3ffc08f84c0481ad0f6f592b,
+2024-09-23,Payload delivery,sha256,6f4642a203541426d504608eed7927718207f29be2922a4c9aa7e022f22e0deb,
+2024-09-23,Payload delivery,sha256,d90f6e12a917ba42f7604362fafc4e74ed3ce3ffca41ed5d3456de28b2d144bf,
+2024-09-23,Payload delivery,sha256,d9b16f077cd6e00137ba208031d22fd6423d0ef303883ad4b6f78638693f2044,

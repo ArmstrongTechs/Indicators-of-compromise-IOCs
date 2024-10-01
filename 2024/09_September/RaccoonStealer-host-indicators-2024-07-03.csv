@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: RaccoonStealer host indicators [2024-07-03]
+| UUID: b01319b3-b1f2-4d0e-927d-097aaee44219
+| Date: 2024-07-03
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-04,Payload installation,filename,DriverDllX32.dll,Source: MalwareBazaar
+2024-07-04,Payload installation,md5,b496f3cbd15442c39d2139b466cfe43b,Source: MalwareBazaar
+2024-07-04,Payload installation,sha1,f061aa49f58e084f1bb7a3aecdff5634f63fa792,Source: MalwareBazaar
+2024-07-04,Payload installation,sha256,404cb730e6ecdecfc4326666ba096d596b673c5a7093c58828c3c05e3ab4c446,Source: MalwareBazaar

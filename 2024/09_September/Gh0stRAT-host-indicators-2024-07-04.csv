@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Gh0stRAT host indicators [2024-07-04]
+| UUID: 08fc1a7e-c672-40b9-9cf1-8a4c502c2c5f
+| Date: 2024-07-04
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-04,Payload installation,filename,svohost.exe,Source: MalwareBazaar
+2024-07-04,Payload installation,md5,15d520c0449be451ebc0fe3884fb0be1,Source: MalwareBazaar
+2024-07-04,Payload installation,sha1,5005f12bccee6cfe6781c925749eeae92f4f039a,Source: MalwareBazaar
+2024-07-04,Payload installation,sha256,36ca73fac0f3955bf525b4c7c72f1a5630be6f66f5726801ca3976829f8ce94b,Source: MalwareBazaar
+2024-07-04,Payload installation,filename,复古攻略.exe,Source: MalwareBazaar
+2024-07-04,Payload installation,md5,b4616e8edec84cdb65e9753e97b0f803,Source: MalwareBazaar
+2024-07-04,Payload installation,sha1,5ca1fdf11531cd40a11790b465ad88c461400b98,Source: MalwareBazaar
+2024-07-04,Payload installation,sha256,6c82b1e394b7da24e62f03c745c0ceb907f49f0a43d032f9b3bc53ef8179e7a2,Source: MalwareBazaar

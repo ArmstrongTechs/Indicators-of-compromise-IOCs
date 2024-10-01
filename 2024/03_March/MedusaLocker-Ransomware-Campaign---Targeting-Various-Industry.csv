@@ -1,0 +1,24 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 216393
+| Info: MedusaLocker Ransomware Campaign - Targeting Various Industry
+| Reference: https://172.19.111.72/events/view/216393
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-09,Payload delivery,sha256,dde3c98b6a370fb8d1785f3134a76cb465cd663db20dffe011da57a4de37aa95,
+2024-09-09,Payload delivery,md5,19ddac9782acd73f66c5fe040e86ddee,
+2024-09-09,Payload delivery,sha1,24ceba1e2951cde8e41939da21c6ba3030fc531d,
+2024-09-09,Payload delivery,sha256,7f030311455fcb347452578a32082320fc6dce1b6b6a17ed7557157062236fde,
+2024-09-09,Payload delivery,md5,7646b22cc6ac64de1e2378e6cd44d3a6,
+2024-09-09,Payload delivery,md5,1f88b4e979121aeee2294af82cc72dae,
+2024-09-09,Payload delivery,ssdeep,12288:vN3K5e8nbwFigzk6VVMqX8aQNRMcauV9B/rtiPnA40Q8:hCXbwFigzkQVdXvlcayDh49,
+2024-09-09,Payload delivery,filename,19ddac9782acd73f66c5fe040e86ddee.exe,
+2024-09-09,Payload delivery,filename,exe6.jpg.exe,
+2024-09-09,Payload delivery,filename,Malware.bin,
+2024-09-09,Payload delivery,filename,#Malware.bin,
+2024-09-09,Payload delivery,filename,Medusa.bin,
+2024-09-09,Payload delivery,filename,medusa4.exe,
+2024-09-09,Payload delivery,filename,svchostt.exe,
+2024-09-09,Payload delivery,filename,dde3c98b6a370fb8d1785f3134a76cb465cd663db20dffe011da57a4de37aa95.exe,
+2024-09-09,Payload delivery,filename,387.mal,
+2024-09-09,Payload delivery,filename,fix.exe,

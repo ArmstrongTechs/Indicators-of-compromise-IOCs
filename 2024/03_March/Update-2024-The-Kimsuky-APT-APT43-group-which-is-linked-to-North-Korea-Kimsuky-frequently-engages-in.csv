@@ -1,0 +1,11 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 217434
+"| Info: Update 2024 The Kimsuky APT [APT43] group, which is linked to North Korea. Kimsuky frequently engages in cyber-espionage activities, targeting entities such as government officials, diplomats, and universities, often using phishing emails with malicious documents"
+| Reference: https://172.19.111.72/events/view/217434
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-25,Payload delivery,sha256,fd65c7a42458d05219cd6dad15b8ba28712a2d52e2f10a2060341aa03aedbab8,
+2024-09-25,Network activity,url,http://main.dkwis.kro.kr:8000/0918_uri_skle/dksleks?na=myapp,
+2024-09-25,Network activity,url,http://main.dkwis.kro.kr:8000/0918_uri_skle/dksleks?na=myappfest,
+2024-09-25,Network activity,url,http://121.66.72.110/0918_uri_skle/dksdlf?na=comline,

@@ -1,0 +1,36 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook in email (zip) attachment - GuLoader
+| UUID: d96524c0-fa94-4959-8e3a-cb12e48f3951
+| Date: 2024-07-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-10,Payload delivery,url,http://se.bphx0.ru.com/.xx/KPMSGcfMpqHmM182.bin,
+2024-07-10,Payload delivery,domain,se.bphx0.ru.com,
+2024-07-10,Payload delivery,malware-sample,Teledyne Technologies Company.zip|da5fe3a5f569085584d45cfaed1e9ade,
+2024-07-10,Payload delivery,filename,Teledyne Technologies Company.zip,
+2024-07-10,Payload delivery,md5,da5fe3a5f569085584d45cfaed1e9ade,
+2024-07-10,Payload delivery,sha1,cecaa9aaf07a0f7f9b3ebd9dfbba6692666f26ec,
+2024-07-10,Payload delivery,sha256,9ff9a5847611d663fde8e8face659a4ad8283ff4b0d9bea0415ee3090e5c5116,
+2024-07-10,Other,size-in-bytes,426489,
+2024-07-10,Payload delivery,malware-sample,PO VEEST2024-25016.xlsx|43833393b399b9c3ffb3fa54dddf70ce,
+2024-07-10,Payload delivery,filename,PO VEEST2024-25016.xlsx,
+2024-07-10,Payload delivery,md5,43833393b399b9c3ffb3fa54dddf70ce,
+2024-07-10,Payload delivery,sha1,63b2403b6ca0ecdb75645ff24fba5f7c69a0706a,
+2024-07-10,Payload delivery,sha256,4f2890801a7e8aecd34c4dcdf0767614335a8de5645798d23bbc4f209f46843a,
+2024-07-10,Other,size-in-bytes,1660206,
+2024-07-10,Payload delivery,malware-sample,PinnacesMax.exe|6da97627f53ef956b4e000fb9f150553,
+2024-07-10,Payload delivery,filename,PinnacesMax.exe,
+2024-07-10,Payload delivery,md5,6da97627f53ef956b4e000fb9f150553,
+2024-07-10,Payload delivery,sha1,32edd8d768bf703a5742ff52fdb56f4ef9f42d88,
+2024-07-10,Payload delivery,sha256,e0452ab52309304cd0da107eabf8cf7e15887f977a0e59c22166bcb7383f10d5,
+2024-07-10,Other,size-in-bytes,566944,
+2024-07-10,Payload delivery,malware-sample,KPMSGcfMpqHmM182.bin|7a7ad2d8f7934070abb398e7776d8dea,
+2024-07-10,Payload delivery,filename,KPMSGcfMpqHmM182.bin,
+2024-07-10,Payload delivery,md5,7a7ad2d8f7934070abb398e7776d8dea,
+2024-07-10,Payload delivery,sha1,0503b997190b447fe536ead29ffe33129dde1f2e,
+2024-07-10,Payload delivery,sha256,a74e45f60ed3a6b5502395a6dae205eabf0c676ddbd57f066149b2184f05d9b6,
+2024-07-10,Other,size-in-bytes,286272,

@@ -1,0 +1,33 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: The Growing Misuse of Selenium Grid for Cryptomining and Proxyjacking
+| UUID: 50c06876-872b-49ea-bee6-5c4596334f43
+| Date: 2024-10-01
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-10-01,Payload delivery,sha256,6f1ac1e711e662edad32713c135ce29562d636794cf5a21a44bbb34955610f0a,
+2024-10-01,Network activity,ip-dst,54.187.140.5,
+2024-10-01,Network activity,ip-dst,173.212.220.247,
+2024-10-01,Network activity,ip-dst,193.168.143.199,
+2024-10-01,Network activity,ip-dst,198.211.126.180,
+2024-10-01,Network activity,ip-dst,154.213.187.153,
+2024-10-01,Network activity,url,http://173.212.220.247/burjdubai/.jblae/pl,
+2024-10-01,Network activity,url,http://173.212.220.247/burjdubai/.jblae/y,
+2024-10-01,Network activity,ip-dst,95.216.88.55,
+2024-10-01,Network activity,ip-dst,146.70.120.58,
+2024-10-01,Network activity,ip-dst,50.7.74.173,
+2024-10-01,Network activity,hostname,www.os7mj54hx4pwvwobohhh6.com,
+2024-10-01,Network activity,ip-dst,129.13.131.140,
+2024-10-01,Network activity,hostname,www.xt3tiue7xxeahd5lbz.com,
+2024-10-01,Network activity,ip-dst,199.58.81.140,
+2024-10-01,Network activity,hostname,www.kdzdpvltoaqw.com,
+2024-10-01,Network activity,ip-dst,212.47.244.38,
+2024-10-01,Network activity,hostname,www.fkxwama7ebnluzontqx2lq.com,
+2024-10-01,Payload delivery,sha256,31ee4c9984f3c21a8144ce88980254722fd16a0724afb16408e1b6940fd599da,
+2024-10-01,Payload delivery,sha256,22e4a57ac560ebe1eff8957906589f4dd5934ee555ebcc0f7ba613b07fad2c13,
+2024-10-01,Payload delivery,sha256,44e83f84a5d5219e2f7c3cf1e4f02489cae81361227f46946abe4b8d8245b879,
+2024-10-01,Payload delivery,sha256,95aa55faacc54532fdf4421d0c29ab62e082a60896d9fddc9821162c16811144,
+2024-10-01,Payload delivery,sha256,96969a8a68dadb82dd3312eee666223663ccb1c1f6d776392078e9d7237c45f2,

@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-07-24]
+| UUID: 4914e665-7466-47da-aa23-dc41a008c781
+| Date: 2024-07-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-25,Payload installation,filename,LisectAVT_2403002A_58.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,63d3c17ff9b9214de51e945469d86971,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,98106e541e481a89a79e223002538c3ea64ad3e7,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,aa6c83030311d0713f469e1a90a8e26d6ea7f3305224e16e42314139fecb29ee,Source: MalwareBazaar

@@ -1,0 +1,19 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 216397
+| Info: Dharma Ransomware Campaign - Widespread Targeting Across Industries
+| Reference: https://172.19.111.72/events/view/216397
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-09,Payload delivery,sha256,6027f17a47211be6e3857248b8f8f41f1043567db3e47cab0e7bfa885fa88573,
+2024-09-09,Payload delivery,sha256,94444c2578d0a0d3a92b6645d6becb00c162ad2c4713acbe0a4089b82690040a,
+2024-09-09,Payload delivery,sha256,9e4ea5558329a599ca09d0723f5a2b94ea4787dee328c986a6281f196e3c0c96,
+2024-09-09,Payload delivery,sha256,3809cdff75c027fec328c5f8888fd64d7a0083f106f34ce18b8b5e8cad43c2ef,
+2024-09-09,Payload delivery,sha256,c65a028335ec08f18f1a3dd519db8551d8bdb46cc2d104f27d8174c468cbfdaa,
+2024-09-09,Payload delivery,sha256,c0989a630ee8a9cb3d52bd2deeca5cf833b1a6e5091efc65ac4c22131f741ac8,
+2024-09-09,Payload delivery,sha256,78c2c5d3c2deda91cc2c4bd3556114afeee2e1a3674fe9748bf49655804b23d8,
+2024-09-09,Payload delivery,sha256,bde9f4a03fa197586d9111dc01e7ad46272b8ed9df2fd84b39504dd2d77d4100,
+2024-09-09,Payload delivery,sha256,470d818cc121cfda6a7e92e8b606d2f8cb47a91ded7b89244040d2b023897647,
+2024-09-09,Payload delivery,sha256,c317f73b842a4dd8c8e08843f8430533a46173643ff1220ad0602c59600aa69c,
+2024-09-09,Payload delivery,sha256,9b2a4aa628edfb5c65c4966888232f4006a015f6e01dbc5f6d9b8cc46f554014,
+2024-09-09,Payload delivery,filename,payload.exe,

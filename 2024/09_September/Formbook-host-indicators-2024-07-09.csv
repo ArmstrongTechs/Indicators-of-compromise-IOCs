@@ -1,0 +1,38 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-07-09]
+| UUID: 16a19cd5-c64a-4451-a40c-f2251abff79f
+| Date: 2024-07-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-09,Payload installation,filename,NL 20240709112230.vbs,Source: MalwareBazaar
+2024-07-09,Payload installation,md5,3670209822cb4c91318d37a4fab1b479,Source: MalwareBazaar
+2024-07-09,Payload installation,sha1,8697c20f27ab079f6f1c57ed533c71a62ef4114c,Source: MalwareBazaar
+2024-07-09,Payload installation,sha256,59d62d05f9e650108c7ded3a9760805e3d5394d4d2c7b44ad6487092356f0d2e,Source: MalwareBazaar
+2024-07-09,Payload installation,filename,Inquiry PR#27957.bat,Source: MalwareBazaar
+2024-07-09,Payload installation,md5,9972524538c9f43a23ad683da0a1a97a,Source: MalwareBazaar
+2024-07-09,Payload installation,sha1,4fe56974a8a9db66fb9026b0c817a84111cb834b,Source: MalwareBazaar
+2024-07-09,Payload installation,sha256,499ef83eee9cef5efa3dfc22fc88a6962289722a65626ec1630721e930784287,Source: MalwareBazaar
+2024-07-09,Payload installation,filename,PI Revised.exe,Source: MalwareBazaar
+2024-07-09,Payload installation,md5,e35fdbc7f271be982419483ff59e3b82,Source: MalwareBazaar
+2024-07-09,Payload installation,sha1,71dde08b6a4b490f90fe5c862af9b598a88dbba0,Source: MalwareBazaar
+2024-07-09,Payload installation,sha256,1eddb0c0fe21e1a1c1e7cbca6a89c3b2859c5747b08b0de0967de5169ed5d63d,Source: MalwareBazaar
+2024-07-09,Payload installation,filename,5.exe,Source: MalwareBazaar
+2024-07-09,Payload installation,md5,28c67d5a3ab5e3a2692a1bbae82dca30,Source: MalwareBazaar
+2024-07-09,Payload installation,sha1,48e89864694d416b368e479373155f41b66c2b03,Source: MalwareBazaar
+2024-07-09,Payload installation,sha256,a704517a86211b98704065b621b0d9edd4ef353ff6cbe1abc387e80e58af8313,Source: MalwareBazaar
+2024-07-09,Payload installation,filename,SP0006-B01 INQ24-01.exe,Source: MalwareBazaar
+2024-07-09,Payload installation,md5,19cd1d62be21a06b856fceb9d9d72108,Source: MalwareBazaar
+2024-07-09,Payload installation,sha1,0e6e592f857478615180013c56bd518f1e29ec33,Source: MalwareBazaar
+2024-07-09,Payload installation,sha256,dd087fb7ccc20cb91b320ae2d01dee72667dd61d576c948a496934ff2b480097,Source: MalwareBazaar
+2024-07-10,Payload installation,filename,DY3AojqquRfcmp5.exe,Source: MalwareBazaar
+2024-07-10,Payload installation,md5,248dd4b74e1c5bb0b98bf460803f5855,Source: MalwareBazaar
+2024-07-10,Payload installation,sha1,1db70ff693138a4e149c676f827984d606237b33,Source: MalwareBazaar
+2024-07-10,Payload installation,sha256,41f33dccdb9abc41c8804f0df10d053561eb7539f809dc9161acc6bfcdb40ae5,Source: MalwareBazaar
+2024-07-10,Payload installation,filename,SecuriteInfo.com.Trojan.AutoIt.1410.29656.17169,Source: MalwareBazaar
+2024-07-10,Payload installation,md5,51bd52b1bfad31d2a9d0249c018bbe97,Source: MalwareBazaar
+2024-07-10,Payload installation,sha1,a1266f7588efa0721e73f61164c98e87025f3666,Source: MalwareBazaar
+2024-07-10,Payload installation,sha256,b6a95d098be3142bb2c4b5f11fa6f3a692ef12e60a04fc8d3eec6e95a4685e54,Source: MalwareBazaar

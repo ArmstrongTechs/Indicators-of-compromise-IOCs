@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 217418
+| Info: Detecting UULoader  An Emerging and Evasive Malicious Installer  with Sigma
+| Reference: https://172.19.111.72/events/view/217418
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-23,Payload delivery,sha256,c675f276611ef53f8b74b8eb7b33590de19b07fc4b3b6d846ebca6f63a056ff7,
+2024-09-23,Payload delivery,sha256,092ca5a50a0bf1d8f7b4e38fd80474f31f1d4eb8036ac13e101421b5df1687db,
+2024-09-23,Payload delivery,sha256,e8d2a953c4423dc1836165d3cb734418f5276aa5ed46297d03bf01dbc78c8e70,
+2024-09-23,Payload delivery,sha256,4b25b4306cf8da05456484178e8e935d9f9a66f2e385b080e36cd652ab6880bc,
+2024-09-23,Payload delivery,sha256,8710fb677082dccbf4c17bd1ca8aa582f6abdaee0289bfd555f41cc8812bc983,
+2024-09-23,Payload delivery,sha256,6323f27aeea70f673334b9c759a3eb0bff116051b109a0b6bd6fb7fe73b5cd4e,

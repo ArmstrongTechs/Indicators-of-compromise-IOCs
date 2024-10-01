@@ -1,0 +1,27 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 217431
+| Info: UNC5537 Targets Snowflake Instances For Data Theft and Extortion
+| Reference: https://172.19.111.72/events/view/217431
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-25,Network activity,ip-dst,102.165.16.161,
+2024-09-25,Network activity,ip-dst,102.165.16.0/24,
+2024-09-25,Network activity,ip-dst,185.248.85.59,
+2024-09-25,Network activity,ip-dst,185.248.85.0/24,
+2024-09-25,Network activity,ip-dst,146.70.117.56,
+2024-09-25,Network activity,ip-dst,146.70.96.0/19,
+2024-09-25,Network activity,ip-dst,104.129.24.115,
+2024-09-25,Network activity,ip-dst,104.129.24.0/22,
+2024-09-25,Network activity,ip-dst,194.230.147.127,
+2024-09-25,Network activity,ip-dst,194.230.128.0/17,
+2024-09-25,Network activity,ip-dst,45.27.26.205,
+2024-09-25,Network activity,ip-dst,45.16.0.0/12,
+2024-09-25,Network activity,ip-dst,45.134.140.144,
+2024-09-25,Network activity,ip-dst,45.134.140.0/24,
+2024-09-25,Network activity,ip-dst,96.44.191.140,
+2024-09-25,Network activity,ip-dst,96.44.176.0/20,
+2024-09-25,Network activity,ip-dst,184.147.100.29,
+2024-09-25,Network activity,ip-dst,184.144.0.0/14,
+2024-09-25,Network activity,ip-dst,146.70.165.227,
+2024-09-25,Network activity,ip-dst,146.70.160.0/19,

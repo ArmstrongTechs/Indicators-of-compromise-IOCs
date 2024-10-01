@@ -1,0 +1,41 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-07-24]
+| UUID: caa3f3c2-42e0-4525-bfa5-5a3615e23513
+| Date: 2024-07-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-24,Payload installation,filename,FACTURA09876567890000.bat,Source: MalwareBazaar
+2024-07-24,Payload installation,md5,8967dfc4ac3e7430249a90e80d582319,Source: MalwareBazaar
+2024-07-24,Payload installation,sha1,7ce421ecb941e60337f41da358d23d0348a4a074,Source: MalwareBazaar
+2024-07-24,Payload installation,sha256,9f6b2a0d2aef8aa1d11f543aea46b0821b378e695920b966507761c83ec09de3,Source: MalwareBazaar
+2024-07-24,Payload installation,filename,HDEBERTAD3423.exe,Source: MalwareBazaar
+2024-07-24,Payload installation,md5,7f409fdbf293c9c3ce17a1e540739e24,Source: MalwareBazaar
+2024-07-24,Payload installation,sha1,ae25b94e4e8c95a5439947b195b1bd2d2f07fa7a,Source: MalwareBazaar
+2024-07-24,Payload installation,sha256,52183f225975e6fa1a0c7f7917d43911deccf1375e4defa83852d06cb39c5d61,Source: MalwareBazaar
+2024-07-24,Payload installation,filename,Quotation.txz,Source: MalwareBazaar
+2024-07-24,Payload installation,md5,7cad5fe29e9c6ec840ffa59e1605797c,Source: MalwareBazaar
+2024-07-24,Payload installation,sha1,93a8501ad075829e3b160812ff572db628128ea5,Source: MalwareBazaar
+2024-07-24,Payload installation,sha256,f63ff6fa4ae65577ee42bf6db32b83f581211a94a43d3dfe3e58ef24da69479d,Source: MalwareBazaar
+2024-07-24,Payload installation,filename,Quotation.exe,Source: MalwareBazaar
+2024-07-24,Payload installation,md5,3dc93db22f80681d7d49143038d8ff8a,Source: MalwareBazaar
+2024-07-24,Payload installation,sha1,3726fd2ed48dd31b57e11c1d670e1544626eeee0,Source: MalwareBazaar
+2024-07-24,Payload installation,sha256,38e861d71b9182f040db8d503b709b57f1b73ba9cfa64abffbf57fa49457b6d0,Source: MalwareBazaar
+2024-07-24,Payload installation,filename,f6bf8ada032d17192526ffebb48aed79,Source: MalwareBazaar
+2024-07-24,Payload installation,md5,f6bf8ada032d17192526ffebb48aed79,Source: MalwareBazaar
+2024-07-24,Payload installation,sha1,362cb802e430115288638c9d613f00412f1b2519,Source: MalwareBazaar
+2024-07-24,Payload installation,sha256,153e11471f85de3df5135b0445014698333ff40a9d6c488d291d6517eb19800d,Source: MalwareBazaar
+2024-07-24,Payload installation,filename,r722晚)HBLLMSI.scr,Source: MalwareBazaar
+2024-07-24,Payload installation,md5,995e20db533a2ae4f14b8ccc7a94a17b,Source: MalwareBazaar
+2024-07-24,Payload installation,sha1,b4dd9fbacd892b7c69cec499969399343a484205,Source: MalwareBazaar
+2024-07-24,Payload installation,sha256,1b754a8b7d0c1d3be17f751d327b38961c3d6ea3b8769c9c8edb1f318dfd0787,Source: MalwareBazaar
+2024-07-24,Payload installation,filename,af0b876a436452a6e998fc622493aaa4553bcc53864d66a6a6d5d476a85902eb_dump1.exe,Source: MalwareBazaar
+2024-07-24,Payload installation,md5,87b596dacf0d6b3d57e6213d974ba376,Source: MalwareBazaar
+2024-07-24,Payload installation,sha1,71b89be1b7777072f51503d122449190b948df97,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,LisectAVT_2403002C_25.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,5d2347df31907613cb1e99f90d569dfc,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,3e1584f65fa72b8b3f2f7efd8567e213b712c573,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,a9ad4072875b4858f0e89f118d27066cbbba11aae141f4a44c1783e5448bc4a9,Source: MalwareBazaar

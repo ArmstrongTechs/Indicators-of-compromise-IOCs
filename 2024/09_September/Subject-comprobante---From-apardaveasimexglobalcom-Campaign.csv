@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: comprobante - From: apardave@asimexglobal.com"" Campaign"
+| UUID: 1cf3e7ef-e3c5-472d-b760-a0d709b856ab
+| Date: 2024-07-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-10,Payload delivery,email-src,apardave@asimexglobal.com,Source email: from apardave@asimexglobal.com - subject: comprobante
+2024-07-10,Payload delivery,email-src-display-name,Adolfo Pardave,Source email: from apardave@asimexglobal.com - subject: comprobante
+2024-07-10,Payload delivery,email-body,"<HTML><HEAD>
+<META name=GENERATOR content=""MSHTML 11.00.10570.1001""></HEAD>
+<BODY>
+<P>Buen d&iacute;a.</P>
+<P>Adjunto el comprobante bancario del pago de hoy.</P>
+<P>saludos</P></BODY></HTML>",Source email: from apardave@asimexglobal.com - subject: comprobante
+2024-07-10,Payload delivery,email-subject,comprobante,Source: from apardave@asimexglobal.com - subject: comprobante
+2024-07-10,Payload delivery,filename|sha256,comprobante.xlsx|cc94855354f4ed99fd6e77d34221db1a22f57b44c5bae1be6298460ed2e50b16,Malspam attachment - source: from apardave@asimexglobal.com - subject: comprobante mime: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2024-07-10,Payload delivery,filename|ssdeep,comprobante.xlsx|12288:5ML7nvXmv3+8BJasmxqy7XzC4UzNfUHaahdhlAxB9vcfE9GinOevABg:gmv3H5mxXnUzKaahjkGM9G8Oe0g,Malspam attachment - source: from apardave@asimexglobal.com - subject: comprobante mime: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2024-07-10,Payload delivery,filename|sha1,comprobante.xlsx|5e4d2dce97f202dd3e347e1356b903e19cef2134,Malspam attachment - source: from apardave@asimexglobal.com - subject: comprobante mime: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2024-07-10,Payload delivery,filename|sha512,comprobante.xlsx|99e096dd23297e05e244b16dde6c52833f63a73861f08c7377cdae3188226785507a3cfd896c9078c82e7190f067f4d9c764fd3fbc9c7e10d29f76bb138ed27f,Malspam attachment - source: from apardave@asimexglobal.com - subject: comprobante mime: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2024-07-10,Payload delivery,filename|md5,comprobante.xlsx|0aaf231a470bda8026eef82bfe28f273,Malspam attachment - source: from apardave@asimexglobal.com - subject: comprobante mime: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2024-07-10,Network activity,url,http://192.3.216.148/controlfireeeeefileeee.exe,Source: Network activity from comprobante.xlsx
+2024-07-10,Network activity,domain,mail.controlfire.com.mx,Source: Network activity from payload downloaded from http://192.3.216.148/controlfireeeeefileeee.exe; data exfiltration via SMTP

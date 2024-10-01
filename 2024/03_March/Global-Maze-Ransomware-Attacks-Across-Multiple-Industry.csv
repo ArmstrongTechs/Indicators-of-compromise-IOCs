@@ -1,0 +1,19 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 216394
+| Info: Global Maze Ransomware Attacks Across Multiple Industry
+| Reference: https://172.19.111.72/events/view/216394
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-09,Payload delivery,md5,2332f770b014f21bcc63c7bee50d543a,
+2024-09-09,Payload delivery,md5,ce3a5898e2b2933fd5216b27fceacad0,
+2024-09-09,Payload delivery,md5,54c9a5fc6149007e9b727fcccdafbbd4,
+2024-09-09,Payload delivery,md5,8afc9f287ef0f3495b259e497b30f39e,
+2024-09-09,Payload delivery,sha1,21ef6f89c9604acdd15ec430343ada05640cb869,
+2024-09-09,Payload delivery,sha1,444a65738b68246edc5439d4b93b5eab69ab21ae,
+2024-09-09,Payload delivery,sha1,503f44e1634b7cfad812c7be2a15f0fe4d9a1b58,
+2024-09-09,Payload delivery,sha1,bba18a946f11439c766478236b33b3bfcdc2c4fc,
+2024-09-09,Payload delivery,sha256,1156e9951df46c4854cf9bc5bb96101b0b923c4e10adcffc286a0a1078fcb3da,
+2024-09-09,Payload delivery,sha256,7164f1dc836de4ec126ead001b406acd6196618c63addda9c5a3f323df4e462b,
+2024-09-09,Payload delivery,sha256,04e22ab46a8d5dc5fea6c41ea6fdc913b793a4e33df8f0bc1868b72b180c0e6e,
+2024-09-09,Payload delivery,sha256,639af330da2d4389a6ecb1c3e26e5449c3c4fae7f198d158cbcdadc9466d1bcc,

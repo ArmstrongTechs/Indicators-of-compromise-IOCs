@@ -1,0 +1,33 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: People’s Republic of China (PRC) Ministry of State Security APT40 Tradecraft in Action
+| UUID: f3074d33-41a6-5445-82c1-5f1b3fd12609
+| Date: 2024-07-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-10,Payload delivery,md5,87c88f06a7464db2534bc78ec2b915de,
+2024-07-10,Payload delivery,filename,Index_jsp$ProxyEndpoint$Attach.class,
+2024-07-10,Other,size-in-bytes,597,
+2024-07-10,Payload delivery,md5,5bf7560d0a638e34035f85cd3788e258,
+2024-07-10,Payload delivery,filename,Nova_jsp$TomcatListenerMemShellFromThread.class,
+2024-07-10,Payload delivery,md5,e2175f91ce3da2e8d46b0639e941e13f,
+2024-07-10,Payload delivery,filename,Index_jsp$ProxyEndpoint.class,
+2024-07-10,Payload delivery,md5,9f89f069466b8b5c9bf25c9374a4daf8,
+2024-07-10,Payload delivery,filename,Index_jsp$ProxyEndpoint$1.class,
+2024-07-10,Payload delivery,md5,187d6f2ed2c80f805461d9119a5878ac,
+2024-07-10,Payload delivery,filename,Index_jsp$ProxyEndpoint$2.class,
+2024-07-10,Payload delivery,md5,ed7178cec90ed21644e669378b3a97ec,
+2024-07-10,Payload delivery,filename,Nova_jsp.class,
+2024-07-10,Payload delivery,md5,64454645a9a21510226ab29e01e76d39,
+2024-07-10,Payload delivery,filename,Index_jsp.java,
+2024-07-10,Payload delivery,md5,6a9bc68c9bc5cefaf1880ae6ffb1d0ca,
+2024-07-10,Payload delivery,filename,Index_jsp.class,
+2024-07-10,Payload delivery,md5,26a5a7e71a601be991073c78d513dee3,
+2024-07-10,Payload delivery,filename,horizon.jsp,
+2024-07-10,Payload delivery,md5,e02be0dc614523ddd7a28c9e9d500cff,
+2024-07-10,Payload delivery,filename,Nova_jsp.java,
+2024-07-10,External analysis,link,https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-190a,
+2024-07-10,Other,text,People’s Republic of China (PRC) Ministry of State Security APT40 Tradecraft in Action,

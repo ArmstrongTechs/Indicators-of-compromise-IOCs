@@ -1,0 +1,10 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 217426
+| Info: DEV-0139 Campaign Delivers PondRAT Backdoors to Linux and MacOS Systems Using Poisoned Python Packages
+| Reference: https://172.19.111.72/events/view/217426
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-24,Network activity,domain,rebelthumb.net,
+2024-09-24,Network activity,domain,jdkgradle.com,
+2024-09-24,Payload delivery,sha256,0b5db31e47b0dccfdec46e74c0e70c6a1684768dbacc9eacbb4fd2ef851994c7,

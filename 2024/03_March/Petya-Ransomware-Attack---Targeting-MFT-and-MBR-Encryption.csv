@@ -1,0 +1,24 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 216396
+| Info: Petya Ransomware Attack - Targeting MFT and MBR Encryption
+| Reference: https://172.19.111.72/events/view/216396
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-09,Payload delivery,filename,BUILDER.exe,
+2024-09-09,Network activity,url,Mono/.Net,
+2024-09-09,Persistence mechanism,regkey,2015\Projects\Mischa,
+2024-09-09,Persistence mechanism,regkey,builder\Petya,
+2024-09-09,Persistence mechanism,regkey,BUILDER\obj\Debug\Petya,
+2024-09-09,Payload delivery,filename,BUILDER.pdb,
+2024-09-09,Payload delivery,sha256,26b4699a7b9eeb16e76305d843d4ab05e94d43f3201436927e13b3ebafa90739,
+2024-09-09,Payload delivery,sha256,019a6fda29af707476b2c58e5b6bbf306e8c248671c8f4dc7424e474018376a1,
+2024-09-09,Payload delivery,sha256,542a38bf52afa6a4a008089a6fbf22c9d68ef5d6c634dd2c0773d859a8ae2bbf,
+2024-09-09,Payload delivery,sha256,0c8b0d0d099721bde8b26f699bf577adf4fea7e50a755833fbb75d8489596010,
+2024-09-09,Payload delivery,sha256,4c1dc737915d76b7ce579abddaba74ead6fdb5b519a1ea45308b8c49b950655c,
+2024-09-09,Payload delivery,filename,4C1DC737915D76B7CE579ABDDABA74EAD6FDB5B519A1EA45308B8C49B950655C.BIN,
+2024-09-09,Payload delivery,filename,gtaV.bin.exe,
+2024-09-09,Payload delivery,filename,guys.exe,
+2024-09-09,Payload delivery,filename,1).bin,
+2024-09-09,Payload delivery,filename,_cache_gtaV.bin.exe,
+2024-09-09,Payload delivery,filename,petya.exe,

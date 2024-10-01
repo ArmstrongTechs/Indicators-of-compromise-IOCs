@@ -1,0 +1,10 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 214927
+| Info: Sample of GoldDigger Android Banking Trojan Impersonating Scotiabank
+| Reference: https://172.19.111.72/events/view/214927
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-05,Network activity,domain,scotiabanker.cc,
+2024-09-05,Network activity,domain,scotiabankp.cc,
+2024-09-05,Payload delivery,sha256,c1d3a087d85cc5135b467defddb01840559b4968c064d9d650a278b1a26a977b,

@@ -1,0 +1,54 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-07-29]
+| UUID: 144185da-0c54-4f92-894f-787e68630f8e
+| Date: 2024-07-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-29,Payload installation,filename,Shipmernt copy.exe,Source: MalwareBazaar
+2024-07-29,Payload installation,md5,e4c3b459a57aad379f4ebaf0fc8f5fbe,Source: MalwareBazaar
+2024-07-29,Payload installation,sha1,c8922c360af8a69f1e75996dd989d359991fb980,Source: MalwareBazaar
+2024-07-29,Payload installation,sha256,15299cddb4e03bc2bbc2e2c057c1abf3ab063a5839e7fc933939797aa5c38fb5,Source: MalwareBazaar
+2024-07-29,Payload installation,filename,PO67-00021 jpg.exe,Source: MalwareBazaar
+2024-07-29,Payload installation,md5,c460a4f93b607f2a90457f7c69fe5fc9,Source: MalwareBazaar
+2024-07-29,Payload installation,sha1,d1c27f2b8de0439080123889adf06861ca00e7a7,Source: MalwareBazaar
+2024-07-29,Payload installation,sha256,b6cd2923b2592b7a5f6fbeb01c61a851a471db6a76ed3e67156c31ee9dc38aa5,Source: MalwareBazaar
+2024-07-29,Payload installation,filename,Shipping Documents.exe,Source: MalwareBazaar
+2024-07-29,Payload installation,md5,bfda75e77354753e1d1b56fc2a2dd2de,Source: MalwareBazaar
+2024-07-29,Payload installation,sha1,ffb4a8a481c34fb95c134ef3441d0686392eeb6f,Source: MalwareBazaar
+2024-07-29,Payload installation,sha256,11c37fead8b02d4646499109187b632dc2ec2f49d842e7aabb3bb93d7ce3d538,Source: MalwareBazaar
+2024-07-29,Payload installation,filename,shipping doc.exe,Source: MalwareBazaar
+2024-07-29,Payload installation,md5,3253e2ac0b62c9057a1bc7aa165ce75e,Source: MalwareBazaar
+2024-07-29,Payload installation,sha1,2f82b691c22228df5c3a0ad27710fea9bae9c8ea,Source: MalwareBazaar
+2024-07-29,Payload installation,sha256,8fd943a29bbcacc76cd3168fb253b6090f73dd22f63c0459c627236f05f75101,Source: MalwareBazaar
+2024-07-29,Payload installation,filename,Surat kuasa nomor p7 tanggal 29072024.xlsx.exe,Source: MalwareBazaar
+2024-07-29,Payload installation,md5,329c76dae1ad0b6c8b0bdf4c838c8a76,Source: MalwareBazaar
+2024-07-29,Payload installation,sha1,30213f87a0f18aa04779521b1738fca7ebe242d0,Source: MalwareBazaar
+2024-07-29,Payload installation,sha256,f23b4ef6474d33537a357ba849a44a965428e70ec28368a3c8279702d56e7c32,Source: MalwareBazaar
+2024-07-29,Payload installation,filename,Revised Invoice.vbe,Source: MalwareBazaar
+2024-07-29,Payload installation,md5,87cc7fe7325e9b1327195d1cd4caee76,Source: MalwareBazaar
+2024-07-29,Payload installation,sha1,5a8ec7417854c2384126c6588b5cf9a4e4758a77,Source: MalwareBazaar
+2024-07-29,Payload installation,sha256,2836a8f43c3c1f3ff54a727eb37d80817f9c0ea872cea98bc6860eada04e7708,Source: MalwareBazaar
+2024-07-29,Payload installation,filename,Arrival Notice.exe,Source: MalwareBazaar
+2024-07-29,Payload installation,md5,0b57b5fceb2fb53e4834b46a231da6e6,Source: MalwareBazaar
+2024-07-29,Payload installation,sha1,acbf70a46cceb1299b5f878467c01a5545eba654,Source: MalwareBazaar
+2024-07-29,Payload installation,sha256,ff155d8b9a7c9df0c77f203a547157f25b89aec97f2807081c74c7735602507c,Source: MalwareBazaar
+2024-07-30,Payload installation,filename,09099627362726.exe,Source: MalwareBazaar
+2024-07-30,Payload installation,md5,c21e0ebfe77c17060a0f59f62d1c933e,Source: MalwareBazaar
+2024-07-30,Payload installation,sha1,ea1e1ccf756d5249f368c507f2da9e3f055e15e7,Source: MalwareBazaar
+2024-07-30,Payload installation,sha256,5be62b72710d004fbc66143167da9b5f1d5a575b859cab3de4bc6687f69d2fa1,Source: MalwareBazaar
+2024-07-30,Payload installation,filename,INQUIRY#46789-JULY24_Materials.exe,Source: MalwareBazaar
+2024-07-30,Payload installation,md5,d3adeb59b4c191c14417ec0e398a1dfa,Source: MalwareBazaar
+2024-07-30,Payload installation,sha1,c2b275948c1f3bf33ca9b9dbb54495c6bcbff53d,Source: MalwareBazaar
+2024-07-30,Payload installation,sha256,77bb97dead96a6e73471c16ac40ddfba5e0b6feac47fc51c336a4254b7e25925,Source: MalwareBazaar
+2024-07-30,Payload installation,filename,AWB.exe,Source: MalwareBazaar
+2024-07-30,Payload installation,md5,634ac70916d184e0a4981cb313d86c39,Source: MalwareBazaar
+2024-07-30,Payload installation,sha1,53bb78f0cd585513b67d5e8debdf56327989786d,Source: MalwareBazaar
+2024-07-30,Payload installation,sha256,feb7b9b695fa6e3d5c9d19b4309aaadada0b15529364e17781e91553dc7e3406,Source: MalwareBazaar
+2024-07-30,Payload installation,filename,shipping doc.exe,Source: MalwareBazaar
+2024-07-30,Payload installation,md5,4ca1da81505ddb349641683b13ba148e,Source: MalwareBazaar
+2024-07-30,Payload installation,sha1,980c6134993174f4797ffd2232cc3368604b00ba,Source: MalwareBazaar
+2024-07-30,Payload installation,sha256,a2494f6dfc0726f3ada24c21185c0554d50f1ecc13bc434a47d0a0bad5d9e767,Source: MalwareBazaar

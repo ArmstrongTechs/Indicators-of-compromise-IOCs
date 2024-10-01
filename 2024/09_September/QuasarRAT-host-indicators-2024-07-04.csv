@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-07-04]
+| UUID: 1acadb64-163f-450d-8b68-db6b771c95fe
+| Date: 2024-07-04
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-05,Payload installation,filename,04c30859516960ad61fcda864c16ea84.exe,Source: MalwareBazaar
+2024-07-05,Payload installation,md5,04c30859516960ad61fcda864c16ea84,Source: MalwareBazaar
+2024-07-05,Payload installation,sha1,c5893f23d34826eb061cbff517843793f13b0e6a,Source: MalwareBazaar
+2024-07-05,Payload installation,sha256,e4fcf1f6b71043e7c7c32f6954a0a1972696fa1bb9b6543ead14e85626890a11,Source: MalwareBazaar
+2024-07-05,Payload installation,filename,xRAT 2.exe,Source: MalwareBazaar
+2024-07-05,Payload installation,md5,fec8c33eda89a51808b52c3df2cb19d6,Source: MalwareBazaar
+2024-07-05,Payload installation,sha1,1a845c5fe91346d2c217a683c1479885643efecc,Source: MalwareBazaar
+2024-07-05,Payload installation,sha256,a71d5cbad432ffbddff485ec8fcfb60f5eecac7e59aaf6d4d1e92052e2a3c40b,Source: MalwareBazaar
+2024-07-05,Payload installation,filename,9d697a19004e86acede9ee1bef4ff664.exe,Source: MalwareBazaar
+2024-07-05,Payload installation,md5,9d697a19004e86acede9ee1bef4ff664,Source: MalwareBazaar
+2024-07-05,Payload installation,sha1,6193e527615492a1525f10172fefd69460170484,Source: MalwareBazaar
+2024-07-05,Payload installation,sha256,ac1fa54c26a22f25b1d78ab15315f48339eca43645162de8ad9c77d83a7c7f0a,Source: MalwareBazaar

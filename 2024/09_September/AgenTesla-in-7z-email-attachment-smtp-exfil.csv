@@ -1,0 +1,16 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgenTesla in .7z email attachment (smtp exfil)
+| UUID: a976b972-6d15-4449-abde-522a43d9e0ec
+| Date: 2024-07-03
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-03,Payload delivery,malware-sample,P-O_03072024.exe|6e786900b48e4cb9b7696d186fe2e601,
+2024-07-03,Payload delivery,filename,P-O_03072024.exe,
+2024-07-03,Payload delivery,md5,6e786900b48e4cb9b7696d186fe2e601,
+2024-07-03,Payload delivery,sha1,76f8fbc6e82453bf3b4769e7ea56bbb792bd409f,
+2024-07-03,Payload delivery,sha256,764383701d3baf35c316f19dcd0926a6818769e5c659aab5d2db7586fea3df6e,
+2024-07-03,Other,size-in-bytes,768512,

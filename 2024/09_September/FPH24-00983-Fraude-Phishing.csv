@@ -1,0 +1,21 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00983 [Fraude] [Phishing]
+| UUID: f7ac880d-d00f-4a32-901a-dfddcc79ca41
+| Date: 2024-07-11
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-12,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+Se trata de una nueva campaña de phishing a través de email, que suplanta a Líder BCI.En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente:&quot;Tenemos un SuperAvance Aprobado super conveniente para ti . No esperes mas!,con el 50% de Dscto en la tasa de interes solicitalo ya!.&quot;El correo electrónico fraudulento incluye un enlace a un formulario malicioso usado para capturar credenciales de los usuarios.",Resumen
+2024-07-12,Network activity,ip-src,144.217.96.196,IP sitio falso
+2024-07-12,Network activity,ip-src,195.154.164.40,IP SMTP
+2024-07-12,Payload delivery,url,https://liderbci-serviciosfinancieros-cl.evosys.com.gt/,URL sitio falso
+2024-07-12,Payload delivery,url,https://sabaarmeh.ir/tarjetaliderbci/superavance-wrup/,URL redirección
+2024-07-12,Payload delivery,email-src,sugarbaby@host1.onlineaudience.co.uk,Correo de salida
+2024-07-12,Payload delivery,email-subject,Tienes un SUPERAVANCE APROBADO! con el 50% dcto,Asunto del correo
+2024-07-12,External analysis,attachment,2024-07-11_15h28_03.png,
+2024-07-12,External analysis,attachment,2024-07-11_16h12_09.png,

@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-07-23]
+| UUID: 0d1a1265-3ba9-437f-bc58-a30bc99ba2f5
+| Date: 2024-07-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-24,Payload installation,filename,17217823862eb632fc7d34e74738954b9759cb00e549b63a7beb37128ab350b4d321af771d904.dat-decoded,Source: MalwareBazaar
+2024-07-24,Payload installation,md5,523ea2568eca5a56e58c4de748c42fce,Source: MalwareBazaar
+2024-07-24,Payload installation,sha1,867cbd78e117705f56f19c6133995afce65445ec,Source: MalwareBazaar
+2024-07-24,Payload installation,sha256,fbe788dd0db451b33c60b855c9aa18af0d2b87140cfa25a0a78be290d10089cc,Source: MalwareBazaar
+2024-07-24,Payload installation,filename,Comprovante-Pagamento_66a04578f18a3.js,Source: MalwareBazaar
+2024-07-24,Payload installation,md5,b6a25e375639218f83e044bd89fb604f,Source: MalwareBazaar
+2024-07-24,Payload installation,sha1,18d75540fe2674a7b9925977425980120f210cb0,Source: MalwareBazaar
+2024-07-24,Payload installation,sha256,8f3478dc58734aa71c8f670478db1df0306c31dbe318ed1907b3e3c29705e904,Source: MalwareBazaar
+2024-07-24,Payload installation,filename,17217831671683454f6df61f6caa23ed5f4cc5b8f04491a526221f21a1ce37a4fd58746cbb470.dat-decoded,Source: MalwareBazaar
+2024-07-24,Payload installation,md5,e5286e2060d3ec013c80407ba1086f46,Source: MalwareBazaar
+2024-07-24,Payload installation,sha1,f699f0c9bc8c0c80156ecaa646c914ae21b6c3df,Source: MalwareBazaar
+2024-07-24,Payload installation,sha256,ace5504608d43d701becbb246abe3c7b0483fd3904c13a5677084e6f98ef0271,Source: MalwareBazaar

@@ -1,0 +1,12 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 217408
+"| Info: Umbral Stealer is a Windows-based information stealer, released as an open-source project on GitHub"
+| Reference: https://172.19.111.72/events/view/217408
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-23,Network activity,hostname,gulf.moneroocean.stream,
+2024-09-23,Payload delivery,sha256,9847293a0884f10d049ad0f0dcd5dd09625e85effe5f00f33ab42c09be313836,
+2024-09-23,Payload delivery,sha256,7e9fc9546b1c8892e6ddb754bdea3a38a892c186c8f6969e2780d3edfac6eb46,
+2024-09-23,Payload delivery,sha256,639a212bfefa5d7da9a6a25a583c205e68fbd87d99cf18de3d03575fcd4212a1,
+2024-09-23,Payload delivery,sha256,f8c4c78a6da5c9550176026a1c4d58bdb019aed98e810d40e86723e32ce1c977,

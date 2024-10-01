@@ -1,0 +1,10 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 215212
+| Info: RedHotel Deploys New Backdoor KTLVdoor
+| Reference: https://172.19.111.72/events/view/215212
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-06,Payload delivery,sha256,d18019064e5903dcf7c29921c10a7a90176cccd55d9cf3ba1e3e9805c1364df1,
+2024-09-06,Payload delivery,sha256,c0b1deaa2598936c284684b50a652f98771a129e882f382ac011d5ab984fd132,
+2024-09-06,Payload delivery,sha256,18e2b7df374a838a57ebf3186b13a26e523cf964afde50b7ba765ed4d5509670,

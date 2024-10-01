@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-07-29]
+| UUID: bc6591ad-d47e-4150-82ac-b9bbd43b3889
+| Date: 2024-07-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-29,Payload installation,filename,Request for Quotation RFQ 0036-2024 Commercial Proposal 2024 07 15.001.img.exe,Source: MalwareBazaar
+2024-07-29,Payload installation,md5,cfe05392605f333a1ed9abc7fe992635,Source: MalwareBazaar
+2024-07-29,Payload installation,sha1,60e56713191a5ff83cc905debd5a76c80fcd77de,Source: MalwareBazaar
+2024-07-29,Payload installation,sha256,38ab1533c224b90043299dc9b2a42bf456d0521de6d89a8eeb44336771943c3f,Source: MalwareBazaar

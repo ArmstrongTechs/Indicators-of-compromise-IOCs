@@ -1,0 +1,40 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Phishing URL Finding
+| UUID: 67b71bca-b367-4393-bf98-6919f89d290a
+| Date: 2024-07-01
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-02,Network activity,ip-src,148.66.137.114,IP
+2024-07-01,Network activity,hostname,jjindustries.in,Host name or IP address of the phishing attack
+2024-07-01,External analysis,attachment,Adliran.jpg,Screenshot of the phishing attack
+2024-07-01,Network activity,url,https://jjindustries.in/555/Edinborg/,Source URL
+2024-07-02,Other,text,Electronic Judicial Services System Iran,Target of the attack
+2024-07-02,Other,text,Yes,
+2024-07-02,Other,text,United States,
+2024-07-02,Other,text,US,
+2024-07-02,Other,float,38,
+2024-07-02,Other,float,-97,
+2024-07-02,Other,text,db_source: GeoOpen-Country-ASN. build_db: 2023-11-20 15:49:14. Latitude and longitude are country average.,
+2024-07-02,Other,text,26496,
+2024-07-02,Other,text,ASNOrganization: AS-26496-GO-DADDY-COM-LLC. db_source: GeoOpen-Country-ASN. build_db: 2023-11-20 15:49:14.,
+2024-07-02,Network activity,domain,jjindustries.in,
+2024-07-02,Attribution,whois-registrar,"GoDaddy.com, LLC",
+2024-07-02,Other,text,146,
+2024-07-02,Other,text,in,
+2024-07-02,Other,text,registry.in,
+2024-07-02,Other,text,abuse@registry.in,
+2024-07-02,Network activity,hostname,ns55.domaincontrol.com,
+2024-07-02,Network activity,hostname,ns56.domaincontrol.com,
+2024-07-02,Attribution,whois-creation-date,2005-02-16 06:44:57,
+2024-07-02,Other,datetime,2023-02-14T23:48:45.000000+0000,
+2024-07-02,Other,datetime,2025-02-16T06:44:57.000000+0000,
+2024-07-02,Other,datetime,2024-07-01T12:39:04.000000+0000,
+2024-07-02,Network activity,hostname,jjindustries.in,Host name or IP address of the phishing attack
+2024-07-02,External analysis,attachment,Adliran.jpg,Screenshot of the phishing attack
+2024-07-02,Network activity,url,https://jjindustries.in/021/@cardotp/,Source URL
+2024-07-02,Other,text,Electronic Judicial Services System Iran,Target of the attack
+2024-07-02,Other,text,Yes,

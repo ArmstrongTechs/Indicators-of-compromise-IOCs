@@ -1,0 +1,46 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-07-10]
+| UUID: c585f334-7d1e-4161-b34f-7b96d789cdce
+| Date: 2024-07-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-10,Payload installation,filename,Request for Quotation.vbs,Source: MalwareBazaar
+2024-07-10,Payload installation,md5,c998450f5ca1f5d3c6b18bee9c34ca4f,Source: MalwareBazaar
+2024-07-10,Payload installation,sha1,c46f9123c25d147500bb4d4cc796f788b1a0b61c,Source: MalwareBazaar
+2024-07-10,Payload installation,sha256,e5afac656b172e5b3437fd30be6ff56f1a5008464e784ab588a3a81fb151c265,Source: MalwareBazaar
+2024-07-10,Payload installation,filename,ATTACHMENT OF PAYMENT.exe,Source: MalwareBazaar
+2024-07-10,Payload installation,md5,b64d7e5636c126c52529d7b5a9b908b3,Source: MalwareBazaar
+2024-07-10,Payload installation,sha1,60c5d9ccdd051757dc6427698ee356be414531de,Source: MalwareBazaar
+2024-07-10,Payload installation,sha256,4906ddcb0d832b5f376ebc13a4633f540b32e2e6e1e3d1ba6dc19fbb5894f022,Source: MalwareBazaar
+2024-07-10,Payload installation,filename,Packing list PL#9589-SL2024-03.exe,Source: MalwareBazaar
+2024-07-10,Payload installation,md5,4ad3b13b0cdbd3489eb6d7a5a3097087,Source: MalwareBazaar
+2024-07-10,Payload installation,sha1,84f3b92c998bb87a22f9360f9392d89c48fff834,Source: MalwareBazaar
+2024-07-10,Payload installation,sha256,7c2e9cf8736d5385f3e8bbf3f2a227654d9bd5bc5a62cb5a2797efbfab730479,Source: MalwareBazaar
+2024-07-10,Payload installation,filename,thong bao hang den 20233_7758797443.scr,Source: MalwareBazaar
+2024-07-10,Payload installation,md5,a0118a3cddf21d595f3bf9e4bc3852e0,Source: MalwareBazaar
+2024-07-10,Payload installation,sha1,ef7e6d08b5449b1916ba4f4a6398b8aaf92a6773,Source: MalwareBazaar
+2024-07-10,Payload installation,sha256,e99c78b791adc8b4b317e5c8a3a6666a5f62e29c8ebc6d19b3999d647f39a320,Source: MalwareBazaar
+2024-07-10,Payload installation,filename,1720591325f5478047ee3721bf0b0649bb42cc34e9e6a69a5014cf6e24bdb38eff5f9aa4a6227.dat-decoded,Source: MalwareBazaar
+2024-07-10,Payload installation,md5,3b5b4b45e6beb94f7598b7dd02acc32d,Source: MalwareBazaar
+2024-07-10,Payload installation,sha1,1d7fbf2cc01a132ebf0dca52aee4f88280a20055,Source: MalwareBazaar
+2024-07-10,Payload installation,sha256,a1cf25d1db64f0770a13d3179a2709f08c231b5133c7f2adb2fa450bc69c887b,Source: MalwareBazaar
+2024-07-10,Payload installation,filename,Bestellung 0030520574.exe,Source: MalwareBazaar
+2024-07-10,Payload installation,md5,0df48abd5460019ce957fcfd08dc4f1f,Source: MalwareBazaar
+2024-07-10,Payload installation,sha1,a8f90879c4b3ebc3c83e6b76ed8e2b53d11ab100,Source: MalwareBazaar
+2024-07-10,Payload installation,sha256,ab92bcdeac6ebabe41a3e5114379fe8ba179f665ed9811fac701c29c74b37bbc,Source: MalwareBazaar
+2024-07-10,Payload installation,filename,Windows audio updater.js,Source: MalwareBazaar
+2024-07-10,Payload installation,md5,bc80530079fd263dd26e267d797cd4ad,Source: MalwareBazaar
+2024-07-10,Payload installation,sha1,54215542d4c17815915c2aa3efe76605b394092f,Source: MalwareBazaar
+2024-07-10,Payload installation,sha256,2eeec947de3dee177c0a5ff2727e98953d0285f174b43074fee0a6e909c1593a,Source: MalwareBazaar
+2024-07-10,Payload installation,filename,MV ALEXOS_VESSEL'S DESC.docx.scr,Source: MalwareBazaar
+2024-07-10,Payload installation,md5,8471ce8ac7dcc6c32352e94febfdf38c,Source: MalwareBazaar
+2024-07-10,Payload installation,sha1,42034c19ad0a642db142d7a8315c070b684d72e5,Source: MalwareBazaar
+2024-07-10,Payload installation,sha256,d9af97e029e98b7502110beee9913df5132c5e1ad620e6b8124bd395c72131d9,Source: MalwareBazaar
+2024-07-11,Payload installation,filename,KWOTASIE.exe,Source: MalwareBazaar
+2024-07-11,Payload installation,md5,31ca0fd14af9b89c0aacd1a1c7dfd7e4,Source: MalwareBazaar
+2024-07-11,Payload installation,sha1,67a33810ae059e722bbc5203fa644e5e550d5995,Source: MalwareBazaar
+2024-07-11,Payload installation,sha256,86d0b3c927b629f98bb72beebcdee8a831df152a6a2cedb0d65270c23069037c,Source: MalwareBazaar

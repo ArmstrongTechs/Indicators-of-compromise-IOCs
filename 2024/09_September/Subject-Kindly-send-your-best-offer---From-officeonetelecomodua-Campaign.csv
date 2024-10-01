@@ -1,0 +1,58 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Kindly send your best offer - From: office@onetelecom.od.ua"" Campaign"
+| UUID: 2bee6285-870e-4554-af2e-87d556333412
+| Date: 2024-07-30
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-30,Payload delivery,email-src,office@onetelecom.od.ua,Source email: from office@onetelecom.od.ua - subject: Kindly send your best offer
+2024-07-30,Payload delivery,email-src-display-name,Rosa Oliveira,Source email: from office@onetelecom.od.ua - subject: Kindly send your best offer
+2024-07-30,Payload delivery,email-body,"<HTML><HEAD>
+<META name=GENERATOR content=""MSHTML 11.00.10570.1001""></HEAD>
+<BODY>
+<P><FONT size=4>Hello there,</FONT></P>
+<P><FONT size=4>I would like to request on your end a formal quotation. Kindly indicate in your quotation the following:</FONT></P>
+<P><FONT size=4>- quote validity<BR>- payment terms<BR>- delivery lead time<BR>- alternative offer (if applicable)</FONT></P>
+<P><FONT size=4>Your immediate response is highly appreciated.</FONT></P>
+<P><FONT size=4>Our updated order lists and company profile are enclosed for your convenience. kindly send us your best offer.</FONT></P>
+<P><FONT size=4>Best Regards</FONT></P>
+<P><STRONG><FONT size=4>Rosa Oliveira<BR>Senior Manager<BR>Salamanca Retails</FONT></STRONG></P></BODY></HTML>",Source email: from office@onetelecom.od.ua - subject: Kindly send your best offer
+2024-07-30,Payload delivery,email-subject,Kindly send your best offer,Source: from office@onetelecom.od.ua - subject: Kindly send your best offer
+2024-07-30,Payload delivery,filename|sha256,Company Profile.doc|294b6e8f46b8f50a7931a5cc33856608eb9c17f77876223ff0db729b3db55f75,Malspam attachment - source: from office@onetelecom.od.ua - subject: Kindly send your best offer mime: application/octet-stream
+2024-07-30,Payload delivery,filename|ssdeep,Company Profile.doc|768:TQYHQIe1ZwfFCpyu2RLuxdWwR5JpVYCWwiqcEpqjWWCqeWNDL41oaYcVmVBZj2DH:Bwp1Vcu2RLVwzDVW1qSCeJLajYcQdIbj,Malspam attachment - source: from office@onetelecom.od.ua - subject: Kindly send your best offer mime: application/octet-stream
+2024-07-30,Payload delivery,filename|sha1,Company Profile.doc|c97c064cf730992af7faf8599feca46657d635ee,Malspam attachment - source: from office@onetelecom.od.ua - subject: Kindly send your best offer mime: application/octet-stream
+2024-07-30,Payload delivery,filename|sha512,Company Profile.doc|ab19ad4e141142e1f3d2f3b636ea11639948d6c8ac9590d9fc55e08c9e3902e34cc7cff433b2d2b75a6a14265321f5cb8d3ee98587412a4499e2226902e4faf3,Malspam attachment - source: from office@onetelecom.od.ua - subject: Kindly send your best offer mime: application/octet-stream
+2024-07-30,Payload delivery,filename|md5,Company Profile.doc|605969339268dbd0dd90168901b24fe8,Malspam attachment - source: from office@onetelecom.od.ua - subject: Kindly send your best offer mime: application/octet-stream
+2024-07-30,Payload delivery,filename|sha256,Order List.doc|22194d1ef7681a2f5757e6f13fa6dc8a8b625c7e47af435af320c2ef2142944c,Malspam attachment - source: from office@onetelecom.od.ua - subject: Kindly send your best offer mime: application/octet-stream
+2024-07-30,Payload delivery,filename|ssdeep,Order List.doc|1536:OW0yca0u2RLVwzDVW1qSCeJLajYcQdIbS/rk0eQy4Sx2ButMrp:7NcgIUDVwq1eJ4bXbSjTefSLrp,Malspam attachment - source: from office@onetelecom.od.ua - subject: Kindly send your best offer mime: application/octet-stream
+2024-07-30,Payload delivery,filename|sha1,Order List.doc|18c12aba63fc6dffac840899a2c78408ef5b90ed,Malspam attachment - source: from office@onetelecom.od.ua - subject: Kindly send your best offer mime: application/octet-stream
+2024-07-30,Payload delivery,filename|sha512,Order List.doc|68b19b0e9407e32bc2b3c8cf08d625023275dbbf2f85e687152c9a4cce9f2f1364b6d9850f672b7a94c034d0d45846d6b7fed178f116740928cf109515ad3655,Malspam attachment - source: from office@onetelecom.od.ua - subject: Kindly send your best offer mime: application/octet-stream
+2024-07-30,Payload delivery,filename|md5,Order List.doc|863a3b71e9552a89db6ff645ca5a3dd1,Malspam attachment - source: from office@onetelecom.od.ua - subject: Kindly send your best offer mime: application/octet-stream
+2024-07-30,Payload delivery,filename|imphash,Under.dll|dae02f32a21e03ce65412f6e56942daa,Extracted from lo.jpeg; mime: application/x-dosexec
+2024-07-30,Payload delivery,filename|md5,Under.dll|66ec22638c14b07929f333be26c3b8a9,Extracted from lo.jpeg; mime: application/x-dosexec
+2024-07-30,Payload delivery,filename|sha1,Under.dll|ff084962ff4698cdef918a6f2b87b848ce1f0f55,Extracted from lo.jpeg; mime: application/x-dosexec
+2024-07-30,Payload delivery,filename|sha256,Under.dll|ab9e0c66bfbcf263bb82b85f4b5f64a83c53ca354aed14c549714a4b5bda40bc,Extracted from lo.jpeg; mime: application/x-dosexec
+2024-07-30,Payload delivery,filename|sha512,Under.dll|ebf5e50306a8d519918c53039081522f7be4c37c6ad5ce280946659bb68d797f96aea6a1ec8362c0d80fe77492f34da2426bc06114cf49a18b5e8e6224c550dc,Extracted from lo.jpeg; mime: application/x-dosexec
+2024-07-30,Payload delivery,filename|ssdeep,Under.dll|768:BGbw53tcxXhbv7a1gSA3/mJGqFRa4Y6JlQAsCyyCZXmE0o+pYHJU2Gzb:BIhhFeJt3NY4LcZXJTHab,Extracted from lo.jpeg; mime: application/x-dosexec
+2024-07-30,Payload delivery,filename|imphash,ca6dfcec2bbedebb30e4fb9a96e26ffb75f332f47b10b8ec169b9ee89c17293a|0239fd611af3d0e9b0c46c5837c80e09,Extracted from lo.jpeg; mime: application/x-dosexec
+2024-07-30,Payload delivery,filename|md5,ca6dfcec2bbedebb30e4fb9a96e26ffb75f332f47b10b8ec169b9ee89c17293a|6e7454c29712ec507b9469cb9bd7d353,Extracted from lo.jpeg; mime: application/x-dosexec
+2024-07-30,Payload delivery,filename|sha1,ca6dfcec2bbedebb30e4fb9a96e26ffb75f332f47b10b8ec169b9ee89c17293a|8c26a821133c74fb04ca65655b1b36be678c3043,Extracted from lo.jpeg; mime: application/x-dosexec
+2024-07-30,Payload delivery,filename|sha256,ca6dfcec2bbedebb30e4fb9a96e26ffb75f332f47b10b8ec169b9ee89c17293a|ca6dfcec2bbedebb30e4fb9a96e26ffb75f332f47b10b8ec169b9ee89c17293a,Extracted from lo.jpeg; mime: application/x-dosexec
+2024-07-30,Payload delivery,filename|sha512,ca6dfcec2bbedebb30e4fb9a96e26ffb75f332f47b10b8ec169b9ee89c17293a|5e8e55d8a83b54a17183f82b8524e612bc3a9baddf5572493a99dd56df77ef8c79aa0fcb7b2ca72d3368712fd831f71afd44406e37fc8a8b291619f9da9dc3d3,Extracted from lo.jpeg; mime: application/x-dosexec
+2024-07-30,Payload delivery,filename|ssdeep,ca6dfcec2bbedebb30e4fb9a96e26ffb75f332f47b10b8ec169b9ee89c17293a|1536:czvQSZpGS4/31A6mQgL2eYCGDwRcMkVQd8YhY0/EqfIzmd:nSHIG6mQwGmfOQd8YhY0/EqUG,Extracted from lo.jpeg; mime: application/x-dosexec
+2024-07-30,Network activity,url,http://alphastand.top/alien/fre.php,Source: Network activity from ca6dfcec2bbedebb30e4fb9a96e26ffb75f332f47b10b8ec169b9ee89c17293a
+2024-07-30,Network activity,url,http://alphastand.trade/alien/fre.php,Source: Network activity from ca6dfcec2bbedebb30e4fb9a96e26ffb75f332f47b10b8ec169b9ee89c17293a
+2024-07-30,Network activity,url,http://alphastand.win/alien/fre.php,Source: Network activity from ca6dfcec2bbedebb30e4fb9a96e26ffb75f332f47b10b8ec169b9ee89c17293a
+2024-07-30,Network activity,url,http://kbfvzoboss.bid/alien/fre.php,Source: Network activity from ca6dfcec2bbedebb30e4fb9a96e26ffb75f332f47b10b8ec169b9ee89c17293a
+2024-07-30,Network activity,url,http://stema-it.cfd/Lchost/PWS/fre.php,Source: Network activity from ca6dfcec2bbedebb30e4fb9a96e26ffb75f332f47b10b8ec169b9ee89c17293a
+2024-07-30,Network activity,url,https://transfer.adttemp.com.br/7eGCm/lo.jpeg,Source: Network activity from Company Profile.doc
+2024-07-30,Network activity,url,https://transfer.adttemp.com.br/xG89K/njnnoi887.jpeg,Source: Network activity from Order List.doc
+2024-07-30,Payload delivery,filename|imphash,lo.jpeg|f34d5f2d4577ed6d9ceec516c1f5a744,Downloaded from https://transfer.adttemp.com.br/7eGCm/lo.jpeg; mime: application/x-dosexec
+2024-07-30,Payload delivery,filename|md5,lo.jpeg|2b839e8e219a1d73bf61bc7d5649586f,Downloaded from https://transfer.adttemp.com.br/7eGCm/lo.jpeg; mime: application/x-dosexec
+2024-07-30,Payload delivery,filename|sha1,lo.jpeg|f6f4178329104a4ff2c4da1419b254eee89d0d72,Downloaded from https://transfer.adttemp.com.br/7eGCm/lo.jpeg; mime: application/x-dosexec
+2024-07-30,Payload delivery,filename|sha256,lo.jpeg|6ee8bdde3dc187110676a3527668dadcaf8b184020b3e4c1b172476d13df99f6,Downloaded from https://transfer.adttemp.com.br/7eGCm/lo.jpeg; mime: application/x-dosexec
+2024-07-30,Payload delivery,filename|sha512,lo.jpeg|d248bfff52ef98eaa1b6f8f317babab5278f9b3f7953a973f4852c048082c6c0597e69b0afc51756cd6560b34d14d18be06e079094dfdac7fd3fb7e87150d238,Downloaded from https://transfer.adttemp.com.br/7eGCm/lo.jpeg; mime: application/x-dosexec
+2024-07-30,Payload delivery,filename|ssdeep,lo.jpeg|12288:x02R7CViBSpf4V9tI6z4LaE4M08mle9tnDT8u8xKyojgXcurQy:LJ7V9iMczTm4XkKyYeV,Downloaded from https://transfer.adttemp.com.br/7eGCm/lo.jpeg; mime: application/x-dosexec

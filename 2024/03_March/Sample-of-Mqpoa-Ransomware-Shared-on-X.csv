@@ -1,0 +1,10 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 217424
+| Info: Sample of Mqpoa Ransomware Shared on X
+| Reference: https://172.19.111.72/events/view/217424
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-23,Payload delivery,sha256,4948a38883a9d1732ec690e720bdf5301394fc4a26f5d76e4c88198af7772676,
+2024-09-23,Payload delivery,email-src,mqpoa098@onionmail.org,
+2024-09-23,Payload delivery,email-src,mqpoa123@onionmail.org,

@@ -1,0 +1,21 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-00992 [Fraude] [Phishing]
+| UUID: 69f51777-d585-4a64-b27c-c08978746ea0
+| Date: 2024-07-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-26,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+Se trata de una nueva campaña de phishing a través de email, que suplanta a BancoEstado.En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente:&quot;BancoEstado, le informa que ha detectado actividad inusual en su cuenta por lo que hemos Suspendido el servicio de su banca hasta actualizar sus datos.Te informamos el detalle y Codigo de bloqueo: K3900011.Debido a este bloqueo no podras realizar ningun tipo de operaciones; su tarjeta sera bloqueada por motivo de seguridad de nuestra banca en linea, para garantizar el correcto funcionamiento del servicio, confirme los datos requeridos completando los datos. &quot;BANCOESTADO&quot;.&quot;El correo electrónico fraudulento incluye un enlace a un formulario malicioso usado para capturar credenciales de los usuarios.",Resumen
+2024-07-26,Network activity,ip-src,45.85.249.228,IP SMTP
+2024-07-26,Network activity,ip-src,95.217.147.111,IP sitio falso
+2024-07-26,Payload delivery,email-src,apache@vmi2021567.contaboserver.net,Correo de salida
+2024-07-26,Payload delivery,email-subject,Aviso Cuenta Temporalmente Suspendida!,Asunto correo
+2024-07-26,Payload delivery,url,https://portal-stahomesfoga.com/1721922159/imagenes/_personas/home/default.asp,URL sitio falso
+2024-07-26,Payload delivery,url,https://smshomstradofogacl.com/activacion/cuenta-kprf/,URL redirección
+2024-07-26,External analysis,attachment,2024-07-25_11h50_46.png,
+2024-07-26,External analysis,attachment,2024-07-25_11h51_33.png,

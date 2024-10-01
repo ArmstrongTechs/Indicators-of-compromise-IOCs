@@ -1,0 +1,9 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 217422
+| Info: New Phishing Campaign Impersonates GitHub to Deliver Lumma Stealer via ClickFix-Like Attack
+| Reference: https://172.19.111.72/events/view/217422
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-23,Payload delivery,sha256,d737637ee5f121d11a6f3295bf0d51b06218812b5ec04fe9ea484921e905a207,
+2024-09-23,Payload delivery,sha256,ffee1e842c0a7932d3d3905a6677f35f3ea29dfb48661e537d28eb8b7212669d,

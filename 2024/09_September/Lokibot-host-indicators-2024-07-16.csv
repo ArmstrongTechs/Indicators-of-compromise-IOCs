@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-07-16]
+| UUID: 5d7b8f2a-4bdc-44ff-9621-99401919be0b
+| Date: 2024-07-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-16,Payload installation,filename,gunzipped.exe,Source: MalwareBazaar
+2024-07-16,Payload installation,md5,dd4f5cbd58b0f61c045bb5dd0a843fa5,Source: MalwareBazaar
+2024-07-16,Payload installation,sha1,689376a01eedaa37df77f054efbcb48ab637856d,Source: MalwareBazaar
+2024-07-16,Payload installation,sha256,a11e5e97a308ee046545cfe0167079f89968f9a1d7ae0b8a9dbc7dc39cbe2e09,Source: MalwareBazaar
+2024-07-16,Payload installation,filename,rud.scr,Source: MalwareBazaar
+2024-07-16,Payload installation,md5,8a43a10dc1358f554584a7e8c5dfdf1a,Source: MalwareBazaar
+2024-07-16,Payload installation,sha1,421b526ab7b03c4fb1529af55074b4cf1fba30af,Source: MalwareBazaar
+2024-07-16,Payload installation,sha256,1a295933a80907bda689b231e5295eae86bd19b21964ee8669ceb5598c9d714d,Source: MalwareBazaar
+2024-07-16,Payload installation,filename,Purchase Order.exe,Source: MalwareBazaar
+2024-07-16,Payload installation,md5,cdad057bf858cecb47bcf67d3b9fe985,Source: MalwareBazaar
+2024-07-16,Payload installation,sha1,0e51ac74967a4771cc5b0e0fa16039da7d1ad97b,Source: MalwareBazaar
+2024-07-16,Payload installation,sha256,05f763c6293bbf6ea3cb055043265326f6d714b30b7032a6fcbe236bf46233d9,Source: MalwareBazaar

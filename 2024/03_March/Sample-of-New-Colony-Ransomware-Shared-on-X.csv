@@ -1,0 +1,10 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 217413
+| Info: Sample of New Colony Ransomware Shared on X
+| Reference: https://172.19.111.72/events/view/217413
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-23,Payload delivery,sha256,d940c011420b9813374d2cdb2444c1b52d3b8e82401c61a948b97955ec4bcf50,
+2024-09-23,Payload delivery,email-src,support2022@cock.li,
+2024-09-23,Payload delivery,email-src,colony69@cock.li,

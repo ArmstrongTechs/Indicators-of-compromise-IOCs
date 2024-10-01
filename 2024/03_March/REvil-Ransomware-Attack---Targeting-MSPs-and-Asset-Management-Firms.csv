@@ -1,0 +1,19 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 216395
+"| Info: ""REvil Ransomware Attack - Targeting MSPs and Asset Management Firms"
+| Reference: https://172.19.111.72/events/view/216395
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-09,Payload delivery,sha1,20d90f04dcc07e1faa09aa1550f343c9472f7ec6,
+2024-09-09,Payload delivery,sha1,10682d08a18715a79ee23b58fdb6ee44c4e28c61,
+2024-09-09,Payload delivery,sha1,169abe89f4eab84275c88890460a655d647e5966,
+2024-09-09,Payload delivery,sha1,2a75db73888c77e48b77b72d3efb33ab53ccb754,
+2024-09-09,Payload delivery,sha1,58d835c3d204d012ee5a4e3c05a06e60b4316d0e,
+2024-09-09,Payload delivery,sha1,ce0c8814d7630f8636ffd73f8408a36dc0e1ca4d,
+2024-09-09,Payload delivery,sha1,2e86ce5b29c7316e624ea44ee406ba6cb2d0d254,
+2024-09-09,Payload delivery,sha1,341ad6a639fb7ea6d3fcfaf976cd78619bf0c35d,
+2024-09-09,Payload delivery,sha1,5bc65c73cae94509905c6a4ba657a61360bb96f2,
+2024-09-09,Payload delivery,sha1,6ee656604df8760981db003ae9dce5232d01da72,
+2024-09-09,Payload delivery,sha1,75a8ee1cba41ff1e0bc042d54657b3b76b7275ea,
+2024-09-09,Payload delivery,sha1,783bebb04eda5a88851aa741133ae49c29f44415,

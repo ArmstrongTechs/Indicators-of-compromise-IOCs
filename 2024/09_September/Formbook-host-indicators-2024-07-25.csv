@@ -1,0 +1,37 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-07-25]
+| UUID: 67f40e10-7f04-4892-adb8-c498555e328b
+| Date: 2024-07-26
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-25,Payload installation,filename,swift advice.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,46f3c05fb8ef1d1d4c54ab255825f886,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,4a958b1945c76c858381bf61e929ba9befb511bc,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,6988dc81c0fb10da50630e348e3c73ff80ecaadd25acfb669b0c4df2e3d73461,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,winiti.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,076d40b4c480dbd3a0e84260aab18cff,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,96fdb7283defa520e95d03b15c942b8bdbef8f2d,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,6ef3b7843981b66e6d7099c61920925c3d260a3bebf20fcda5711e824acc526a,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,Quotation.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,1284b898470f13f5f615c4d562b92666,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,3fa527bdc6286149ed113a43fdb6f41600b0c9a5,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,a48cdc0d3eba13833042481401cd178b9a7cd2f06f874784a3a98027a9329f66,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,stock request.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,1c8e4a042ca236786b20ec1f0498c5a5,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,7ee68140c5a26af5579ac2a75fd33a08d68322d6,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,67370db3fe16cdf66095443b4e08df054d30f2c97d0767eba9c73afc562153ee,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,order#O_0140724.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,d18127f4bb0627f6d965171abd8cb956,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,7d980ae4048f3d94fba3149577e612db826b067c,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,Quotation.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,e5834e14777d7df91dc61f75c796e07a,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,1307720fcf7f9df9dc5d3f7393229b92f56b2480,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,acf03676e5dd002d0dc94a2b50e83dda78d287ee9b07ad2c9659688310015820,Source: MalwareBazaar
+2024-07-26,Payload installation,filename,JPG_TTRN101921929240724_PDA _ SOA_Payment Reference TR-37827392-2024-07.exe,Source: MalwareBazaar
+2024-07-26,Payload installation,md5,c2ba6d34f3e6c6b3af5448fd1a7796ad,Source: MalwareBazaar
+2024-07-26,Payload installation,sha1,446e5056b83d01fec8cbd18e371c999e90338564,Source: MalwareBazaar
+2024-07-26,Payload installation,sha256,2036747a3fdc79b8c1394e66b36ae1080ad22db75f08dc9cf91e8fac3dc5fe51,Source: MalwareBazaar

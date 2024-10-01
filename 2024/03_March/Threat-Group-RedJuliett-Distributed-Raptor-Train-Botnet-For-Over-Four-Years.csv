@@ -1,0 +1,11 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 217428
+| Info: Threat Group RedJuliett Distributed Raptor Train Botnet For Over Four Years
+| Reference: https://172.19.111.72/events/view/217428
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-24,Network activity,domain,w8510.com,
+2024-09-24,Network activity,domain,k3121.com,
+2024-09-24,Network activity,domain,b2047.com,
+2024-09-24,Payload delivery,sha256,c490586fbf90d360cf3b2f9e2dc943809441df3dfd64dadad27fc9f5ee96ec74,

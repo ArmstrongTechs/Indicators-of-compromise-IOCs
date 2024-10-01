@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AveMariaRAT host indicators [2024-07-16]
+| UUID: 75c620d3-2edf-4165-b8a5-176f26470861
+| Date: 2024-07-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-17,Payload installation,filename,PAYMENT SWIFT.XLs.exe,Source: MalwareBazaar
+2024-07-17,Payload installation,md5,a452cb957faccb5351a3f79c4e8c28cb,Source: MalwareBazaar
+2024-07-17,Payload installation,sha1,29ed22ee52e7a686038dd0e8ca8e6ab40effa502,Source: MalwareBazaar
+2024-07-17,Payload installation,sha256,92bb55062b69033f0347dac093ba3b7c63d9c810aea3e4f5aee5ea2fc2f8f4b7,Source: MalwareBazaar

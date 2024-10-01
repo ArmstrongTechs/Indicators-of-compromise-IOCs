@@ -1,0 +1,10 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 214390
+| Info: Instance of Dice Ransomware Shared on X
+| Reference: https://172.19.111.72/events/view/214390
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-03,Payload delivery,email-src,ccfarmy@tutanota.com,
+2024-09-03,Payload delivery,email-src,ccfarmy@protonmail.com,
+2024-09-03,Payload delivery,sha256,65e035d7abaafd2e8b11981292b07f65da440ec739b92dfd3d5d29b46a95c497,

@@ -1,0 +1,17 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 216387
+| Info: BitPaymer Ransomware
+| Reference: https://172.19.111.72/events/view/216387
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-09,Payload delivery,sha256,c7f8c6e833243519cdc8dd327942d62a627fe9c0793d899448938a3f10149481,
+2024-09-09,Payload delivery,sha256,17526923258ff290ff5ca553248b5952a65373564731a2b8a0cff10e56c293a4,
+2024-09-09,Payload delivery,sha256,282b7a6d1648e08c02846820324d932ccc224affe94793e9d63ff46818003636,
+2024-09-09,Payload delivery,sha256,8943356b0288b9463e96d6d0f4f24db068ea47617299071e6124028a8160db9c,
+2024-09-09,Payload delivery,sha256,f0e600bdca5c6a5eae155cc82aad718fe68d7571b7c106774b4c731baa01a50c,
+2024-09-09,Payload delivery,sha256,b44e61de54b97c0492babbf8c56fad0c1f03cb2b839bad8c1c8d3bcd0591a010,
+2024-09-09,Payload delivery,sha256,13209680c091e180ed1d9a87090be9c10876db403c40638a24b5bc893fd87587,
+2024-09-09,Payload delivery,sha256,91c0c6ab8a1fe428958f33da590bdd52baec868c7011461da8a8972c3d989d42,
+2024-09-09,Payload delivery,sha256,f1d69b69f53af9ea83fe8281e5c1745737fd42977597491f942755088c994d8e,
+2024-09-09,Payload delivery,sha256,39e7a9b0ea00316b232b3d0f8c511498ca5b6aee95abad0c3f1275ef029a0bef,

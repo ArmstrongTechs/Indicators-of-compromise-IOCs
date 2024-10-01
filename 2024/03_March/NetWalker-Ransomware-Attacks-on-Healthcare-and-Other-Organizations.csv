@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 216389
+| Info: NetWalker Ransomware Attacks on Healthcare and Other Organizations
+| Reference: https://172.19.111.72/events/view/216389
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-09,Payload delivery,filename,%USERPROFILE%\Desktop\a5df26c1.exe,
+2024-09-09,Payload delivery,filename,%WINDIR%\system32\explorer.exe,
+2024-09-09,Payload delivery,filename,%WINDIR%\system32\vssadmin.exe,
+2024-09-09,Payload delivery,filename,\??\%WINDIR%\conhost.exe,
+2024-09-09,Payload delivery,filename,%WINDIR%\system32\notepad.exe,
+2024-09-09,Payload delivery,filename,%USERPROFILE%\Desktop\A8DCE-Readme.txt,
+2024-09-09,Payload delivery,sha256,f4656a9af30e98ed2103194f798fa00fd1686618e3e62fba6b15c9959135b7be,
+2024-09-09,Payload delivery,filename,%APPDATA%\a5df26c1\a5df26c1.exe,
+2024-09-09,Persistence mechanism,regkey,HKLM\Software\Microsoft\Windows\CurrentVersion\Run\a5df26c1,
+2024-09-09,Persistence mechanism,regkey,HKLM\Software\a5df26c1\a5df26c1,
+2024-09-09,Payload delivery,filename,psexec.exe,
+2024-09-09,Payload delivery,filename,%ALLUSERSPROFILE%\rundl1.exe,
+2024-09-09,Persistence mechanism,regkey,files*\windows,
+2024-09-09,Payload delivery,filename,%WINDIR%\system32\WScript.exe,
+2024-09-09,Payload delivery,filename,%USERPROFILE%\Desktop\CORONAVIRUS_COVID-19.vbs,

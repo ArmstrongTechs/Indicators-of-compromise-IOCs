@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-07-15]
+| UUID: 651c31bf-082a-4b0b-9ad1-ee2a79c04d9a
+| Date: 2024-07-15
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-15,Payload installation,filename,INV-JULY2024_FUJ03288440.exe,Source: MalwareBazaar
+2024-07-15,Payload installation,md5,b21f4fc545315c6ce736186ba896bc2b,Source: MalwareBazaar
+2024-07-15,Payload installation,sha1,93a84626fc065e803769e711c7f53cc5badac215,Source: MalwareBazaar
+2024-07-15,Payload installation,sha256,afe8d155653226189e7ea885670ee4be38bc8d672519765ab64b4c5c43435eee,Source: MalwareBazaar

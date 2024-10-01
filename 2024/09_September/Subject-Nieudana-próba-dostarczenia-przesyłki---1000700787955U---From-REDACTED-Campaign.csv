@@ -1,0 +1,31 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Nieudana próba dostarczenia przesyłki - 1000700787955U - From: [REDACTED]"" Campaign"
+| UUID: 84d47ecd-572d-457a-b5b9-100019386d7f
+| Date: 2024-07-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-10,Payload delivery,email-src,[redacted]@op.pl,Source email: from [REDACTED] - subject: Nieudana próba dostarczenia przesyłki - 1000700787955U
+2024-07-10,Payload delivery,email-src-display-name,Kurier DPD,Source email: from [REDACTED] - subject: Nieudana próba dostarczenia przesyłki - 1000700787955U
+2024-07-10,Payload delivery,email-body,[REDACTED],Source email: from [REDACTED] - subject: Nieudana próba dostarczenia przesyłki - 1000700787955U
+2024-07-10,Payload delivery,email-subject,Nieudana próba dostarczenia przesyłki - 1000700787955U,Source: from [REDACTED] - subject: Nieudana próba dostarczenia przesyłki - 1000700787955U
+2024-07-10,Payload delivery,filename|sha256,1000700787955U.html|19737ddda6f516295d26041510b741f92a058ee042d0fc1566e2a47cc0693bf3,Malspam attachment - source: from [REDACTED] - subject: Nieudana próba dostarczenia przesyłki - 1000700787955U mime: application/octet-stream
+2024-07-10,Payload delivery,filename|ssdeep,1000700787955U.html|1536:jqfC7OVOSq1X6+pP4G+DdbIy56KuTtHYqeUP6sEZcXKrWJDFp7q4nucQ7gtHqidM:MC2JqgD,Malspam attachment - source: from [REDACTED] - subject: Nieudana próba dostarczenia przesyłki - 1000700787955U mime: application/octet-stream
+2024-07-10,Payload delivery,filename|sha1,1000700787955U.html|463b17783e764b228878e368375b0c152f8fed86,Malspam attachment - source: from [REDACTED] - subject: Nieudana próba dostarczenia przesyłki - 1000700787955U mime: application/octet-stream
+2024-07-10,Payload delivery,filename|sha512,1000700787955U.html|b7721d7b3f3a5d60f9fc8357510c7f2a40fdf7e39093441db043add163594c4b2a996e7f05d1e98044ab0580ff2ccb4115a55568236e0b74984c85c988bd4ee8,Malspam attachment - source: from [REDACTED] - subject: Nieudana próba dostarczenia przesyłki - 1000700787955U mime: application/octet-stream
+2024-07-10,Payload delivery,filename|md5,1000700787955U.html|9f365e1a401b76edb0b00b8d8a3822e9,Malspam attachment - source: from [REDACTED] - subject: Nieudana próba dostarczenia przesyłki - 1000700787955U mime: application/octet-stream
+2024-07-10,Payload delivery,filename|md5,1000700787955U.vbs|d9c3fb24ad9cd476e72df557a5189b7b,Extracted from signed_doc-1000700787955U.zip; mime: text/plain
+2024-07-10,Payload delivery,filename|sha1,1000700787955U.vbs|9b4142d358e0954501e72172df496f210e1f6fb1,Extracted from signed_doc-1000700787955U.zip; mime: text/plain
+2024-07-10,Payload delivery,filename|sha256,1000700787955U.vbs|01f31e82e6594b6ce4dbb882fdd719d66b557c36b9c6c3c9945594f7f7586ea0,Extracted from signed_doc-1000700787955U.zip; mime: text/plain
+2024-07-10,Payload delivery,filename|sha512,1000700787955U.vbs|59e6eb1ce9ccda734d6572a0e3ac2c9b27be23a01a78773c30354f2e4424891dfb75e1786b89cd43d37c13d80217273e300553efc03f796dc23eb9d7a5544ad1,Extracted from signed_doc-1000700787955U.zip; mime: text/plain
+2024-07-10,Payload delivery,filename|ssdeep,1000700787955U.vbs|384:wnneFQO1804eZlS6CzljWTuEbbrYZ+PM9iTAcfyNo7OpE5:weCOW04eZc6CzlFEPrYZ+PM9iTAcfyNg,Extracted from signed_doc-1000700787955U.zip; mime: text/plain
+2024-07-10,Network activity,url,https://s4.histats.com/stats/0.php?4880403&@f16&@g1&@h1&@i1&@vhttps://histats.com/d_opened,Source: Network activity from 1000700787955U.vbs
+2024-07-10,Network activity,domain,mx01-dpd-polska.info,Source: Network activity from 1000700787955U.vbs
+2024-07-10,Payload delivery,filename|md5,signed_doc-1000700787955U.zip|87ca53678532e22b21047e65abe9587f,Dropped by 1000700787955U.html; mime: application/zip
+2024-07-10,Payload delivery,filename|sha1,signed_doc-1000700787955U.zip|e8881aac2a81f393493cf7ec2ad45c2347847eb2,Dropped by 1000700787955U.html; mime: application/zip
+2024-07-10,Payload delivery,filename|sha256,signed_doc-1000700787955U.zip|dbf8c40b823e7e3f89ae65c5ef5212d3cbcce08728e4d118435d011d10418acb,Dropped by 1000700787955U.html; mime: application/zip
+2024-07-10,Payload delivery,filename|sha512,signed_doc-1000700787955U.zip|0ede38768693e298057dffeb2f5fb26b0c7cff446528bff3848b88e88b5b1c2e522352e15b3e90dedd7241c3bddad7fbdbe72d784ec6a4e11329b962f6cfa625,Dropped by 1000700787955U.html; mime: application/zip
+2024-07-10,Payload delivery,filename|ssdeep,signed_doc-1000700787955U.zip|384:jnneFQO1804eZlS6CzljWTuEbbrYZ+PM9iTAcfyNo7OpE4:jeCOW04eZc6CzlFEPrYZ+PM9iTAcfyNp,Dropped by 1000700787955U.html; mime: application/zip

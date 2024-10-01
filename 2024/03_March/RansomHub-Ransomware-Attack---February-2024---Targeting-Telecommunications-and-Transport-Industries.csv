@@ -1,0 +1,29 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 216399
+| Info: RansomHub Ransomware Attack - February 2024 - Targeting Telecommunications and Transport Industries
+| Reference: https://172.19.111.72/events/view/216399
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-09,Network activity,ip-dst,185.107.95.50,
+2024-09-09,Network activity,ip-dst,194.26.192.219,
+2024-09-09,Network activity,domain,sx32e6kbfm6y3owtq4ioz4g3qq6ln2zkn5fcqvfgcrlsg74spzq3o6id.onion,
+2024-09-09,Network activity,domain,davtdavm734bl4hkr3sr4dvfzpdzuzei2zrcor4vte4a3xuok2rxcmyd.onion,
+2024-09-09,Network activity,domain,ransomxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion,
+2024-09-09,Network activity,domain,ugyof7gozuslh5jgtkbd3rgsmdr7ztd7tbnolqcajczesoxa5tdbx5id.onion,
+2024-09-09,Payload delivery,filename,sample2.exe,
+2024-09-09,Payload delivery,filename,sample1.exe,
+2024-09-09,Payload delivery,md5,0cd4b7a48220b565eb7bd59f172ea278,
+2024-09-09,Payload delivery,sha1,a7ca950c6dadd02ab8fafdba8f984266fc2f9b7c,
+2024-09-09,Payload delivery,sha256,7539bd88d9bb42d280673b573fc0f5783f32db559c564b95ae33d720d9034f5a,
+2024-09-09,Payload delivery,sha256,fb78afe826a14d4e0cc883fcdb6fe339e45a3fe728e575137b231aec6418a18f,
+2024-09-09,Payload delivery,sha256,ea9f0bd64a3ef44fe80ce1a25c387b562a6b87c4d202f24953c3d9204386cf00,
+2024-09-09,Payload delivery,sha256,8f59b4f0f53031c555ef7b2738d3a94ed73568504e6c07aa1f3fa3f1fd786de7,
+2024-09-09,Payload delivery,sha256,3dabecacc40e2904beba9372e95cf25cec8bb021c080f5d892fbf2eeb0e97006,
+2024-09-09,Payload delivery,sha256,34e479181419efd0c00266bef0210f267beaa92116e18f33854ca420f65e2087,
+2024-09-09,Payload delivery,sha256,02e9f0fbb7f3acea4fcf155dc7813e15c1c8d1c77c3ae31252720a9fa7454292,
+2024-09-09,Network activity,url,http://sx32e6kbfm6y3owtq4ioz4g3qq6ln2zkn5fcqvfgcrlsg74spzq3o6id.onion/,
+2024-09-09,Network activity,url,http://ransomxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion.ly,
+2024-09-09,Network activity,url,http://ugyof7gozuslh5jgtkbd3rgsmdr7ztd7tbnolqcajczesoxa5tdbx5id.onion/,
+2024-09-09,Network activity,url,http://ransomxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion/,
+2024-09-09,Network activity,url,http://davtdavm734bl4hkr3sr4dvfzpdzuzei2zrcor4vte4a3xuok2rxcmyd.onion/,

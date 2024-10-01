@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-07-20]
+| UUID: b0a79e15-a46b-4238-9779-4b646d23a689
+| Date: 2024-07-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-20,Payload installation,filename,setup.exe,Source: MalwareBazaar
+2024-07-20,Payload installation,md5,9167d3b0a23d7297adec5765d95085e8,Source: MalwareBazaar
+2024-07-20,Payload installation,sha1,aac8386cbce54562957aadb0dc7fe8e6e231cae3,Source: MalwareBazaar
+2024-07-20,Payload installation,sha256,30c381a042e571d4d749f7aff6e1b17d77100ad35368c9a67136c1b5436c79cb,Source: MalwareBazaar
+2024-07-20,Payload installation,filename,SynapseV3_betaRelease.exe,Source: MalwareBazaar
+2024-07-20,Payload installation,md5,47ded5abcb50869f822f2f871de0e264,Source: MalwareBazaar
+2024-07-20,Payload installation,sha1,b3d459fc6aef445528d51b7c52eb2655eec73e5d,Source: MalwareBazaar
+2024-07-20,Payload installation,sha256,f72153dbb753423e630840ed3674c6a0ce27b4ff5d1790a5bbb6d5707f9ed41e,Source: MalwareBazaar
+2024-07-20,Payload installation,filename,Client-built.exe,Source: MalwareBazaar
+2024-07-20,Payload installation,md5,8ab4c5f5caede18056fc1c0574d3217c,Source: MalwareBazaar
+2024-07-20,Payload installation,sha1,b0f5340184e1224a37a36a8cdc7bc0d0cbe07395,Source: MalwareBazaar
+2024-07-20,Payload installation,sha256,f99ecbd9f26048dbb962f1711199e5f5d00ac8bbd87f539dd5a99631a15fadba,Source: MalwareBazaar

@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-07-10]
+| UUID: 963830a0-be26-449f-bce3-e25d45e8f4b2
+| Date: 2024-07-11
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-10,Payload installation,filename,vqO8iWhR6d7nscs.exe,Source: MalwareBazaar
+2024-07-10,Payload installation,md5,41c7bccf13d6a63c3ab0846b8c0b0ffa,Source: MalwareBazaar
+2024-07-10,Payload installation,sha1,2305ddcf8cebf5ac8bbdb040e94572844bcf1b96,Source: MalwareBazaar
+2024-07-10,Payload installation,sha256,9ca4491594bed34f77e581987fb61a0085c1311d94b8118bee73b4f08710da5c,Source: MalwareBazaar
+2024-07-10,Payload installation,filename,"Packing List,BL & Final Invoice.xls",Source: MalwareBazaar
+2024-07-10,Payload installation,md5,4afe5f193bbd9b656d67cafd0fd6d960,Source: MalwareBazaar
+2024-07-10,Payload installation,sha1,038909d0d08a77de28f7f75d61fa4419bf975a00,Source: MalwareBazaar
+2024-07-10,Payload installation,sha256,dee188a1e94375c2ca0b7f82bb3f2d12ccfebd302fdf7ce1b21a15ca3c2e55d2,Source: MalwareBazaar
+2024-07-10,Payload installation,filename,a554456e1e06f544244e44e7b23d869f.exe,Source: MalwareBazaar
+2024-07-10,Payload installation,md5,a554456e1e06f544244e44e7b23d869f,Source: MalwareBazaar
+2024-07-10,Payload installation,sha1,08cb3cf3384ec48bd96f87dda6dfef17e80182e9,Source: MalwareBazaar
+2024-07-10,Payload installation,sha256,06a66d13076422b3fae0da8a08324fbcf9a2dbc6fa042ee72e90058690f47dc3,Source: MalwareBazaar
+2024-07-11,Payload installation,filename,Purchase Order.exe,Source: MalwareBazaar
+2024-07-11,Payload installation,md5,6b3cd623626ab815d5f59d87e8408275,Source: MalwareBazaar
+2024-07-11,Payload installation,sha1,96bac856b48ff62eee4416efb605dbedbcea5748,Source: MalwareBazaar
+2024-07-11,Payload installation,sha256,619b4e680f74f6c69a48837fd9ee5851be850035c46c12aaf0669139d1061de8,Source: MalwareBazaar

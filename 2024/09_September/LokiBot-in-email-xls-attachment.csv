@@ -1,0 +1,34 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: LokiBot in email (xls) attachment
+| UUID: 0a4a3968-e381-4953-af1e-65d0259a6aec
+| Date: 2024-07-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-22,Payload delivery,url,http://tny.wtf/iFpoP,
+2024-07-22,Payload delivery,domain,tny.wtf,
+2024-07-22,Payload delivery,url,http://198.46.178.229/55433/winiti.exe,
+2024-07-22,Payload delivery,ip-src,198.46.178.229,
+2024-07-23,Network activity,url,http://dashboardproducts.info/bally/fre.php,POST
+2024-07-23,Network activity,domain,dashboardproducts.info,C2
+2024-07-22,Payload delivery,malware-sample,SCAN-HSBC-PAYMENT-ADVICE.xls|32eb79369e1e7e135906f146b9d35457,
+2024-07-22,Payload delivery,filename,SCAN-HSBC-PAYMENT-ADVICE.xls,
+2024-07-22,Payload delivery,md5,32eb79369e1e7e135906f146b9d35457,
+2024-07-22,Payload delivery,sha1,cf00749dc8097014fa6f94dba1b400e600cd92d8,
+2024-07-22,Payload delivery,sha256,9634a4f19306cf8e57396c40e99612888f2663cfe261e3640b836ad488cfe95b,
+2024-07-22,Other,size-in-bytes,769024,
+2024-07-22,Payload delivery,malware-sample,iFpoP|29b3fc11ab9d647ec19d3e02364355b2,
+2024-07-22,Payload delivery,filename,iFpoP,
+2024-07-22,Payload delivery,md5,29b3fc11ab9d647ec19d3e02364355b2,
+2024-07-22,Payload delivery,sha1,bcacc163004990d917d6402942e3e34609fa33e5,
+2024-07-22,Payload delivery,sha256,2f7014c598a900f828893aeb0c0724d9f48c37c6987dfc12847525df174e0e81,
+2024-07-22,Other,size-in-bytes,89973,
+2024-07-22,Payload delivery,malware-sample,winiti.exe|76188ff11410c30f8bcf87e54716da87,
+2024-07-22,Payload delivery,filename,winiti.exe,
+2024-07-22,Payload delivery,md5,76188ff11410c30f8bcf87e54716da87,
+2024-07-22,Payload delivery,sha1,cd4b8cba14b20a96173de8935d621d07be695373,
+2024-07-22,Payload delivery,sha256,d633c3149b5fe0cdbbfde073531e2ce72a623443f133603f17bf5242d3af18fa,
+2024-07-22,Other,size-in-bytes,580608,

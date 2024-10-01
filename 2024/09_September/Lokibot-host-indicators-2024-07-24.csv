@@ -1,0 +1,34 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-07-24]
+| UUID: 50b832d6-1843-43bc-8a08-fa22f366e139
+| Date: 2024-07-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-24,Payload installation,filename,SecuriteInfo.com.W32.Lokibot.N.gen.Eldorado.28246.8151,Source: MalwareBazaar
+2024-07-24,Payload installation,md5,0fa0517e3da3d0e14ca73aa140573a37,Source: MalwareBazaar
+2024-07-24,Payload installation,sha1,90b0c522ef09a57c9ba31a95db898115a810a0c2,Source: MalwareBazaar
+2024-07-24,Payload installation,sha256,5a4f747f9f958dade617f220d9cc236f53f31f1627e758a399c5ad30fd7eeda3,Source: MalwareBazaar
+2024-07-24,Payload installation,filename,62e622661a968df60428fb599c2008c35b47079cf1d9cd8be611f671a9b21f4c.exe,Source: MalwareBazaar
+2024-07-24,Payload installation,md5,771b54897012d3d29b5baaff3abad9a0,Source: MalwareBazaar
+2024-07-24,Payload installation,sha1,8242f2121425bca742b800d3cfb1882120d40051,Source: MalwareBazaar
+2024-07-24,Payload installation,sha256,4f547e1db3db224956a2de52f3486aa4faa87aefd481bf8a58f69c6423cb60af,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,92A0A235D12853B42BAE99BE49104351C3BB10AFC8C8B0E401DE27D3981EF6BD.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,16318c33d45ad97cde0d6a19d6b556cd,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,06dc7948776286af0e962a328d5eaea3db862541,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,243d8dc0e3a5ad9027b0bd90ddd2bc850e2837acefa54bfb3047e1cf8fa7fa45,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,C5FB4D13BB4B34F9670BC238A047B53C4392B299139C3DA8B2B70BA9DDD3DB2D.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,dbdc2f5b2f7b338a4673cb4b5b207d72,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,9d939273f145ee1d05d226d44e1256ea45625e4f,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,d74ebe06d17fc8e347dda04ca17006fa2f24deb7df06617feb13bffdc9bee476,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,C57B86BE5A9FA166A946D78D8B63D9817FF3E14DF83ABD88B654BD66167696DE.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,2922c109e30c924b0bc979434cc36f52,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,4230742e046551ddc3145baf6ef5dcf99ba394f2,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,28766d53e02141d8332cdb160ebbc4bee6df26596d0c041e15aae650d6613d32,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,LisectAVT_2403002C_23.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,625e9c7c84a6a483a495626a23875a4b,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,73ce99fbd50d348305465ea209f5c87c52fba0b3,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,0895613dd4462d19ca353caea2efdf89d0fb8f1918e73d1ac74ec8a5fbfb827b,Source: MalwareBazaar

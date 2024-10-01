@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-07-28]
+| UUID: 3094b634-1e6e-45e4-a34e-a9a33ab0e577
+| Date: 2024-07-28
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-28,Payload installation,filename,Payment Advice-DPEB08-2SDC - SS25 Price C246SH32.exe,Source: MalwareBazaar
+2024-07-28,Payload installation,md5,f0a32a05a16f6c1a40ea9bd68a155924,Source: MalwareBazaar
+2024-07-28,Payload installation,sha1,60b08e3589394870c41b46912b5937d2f785b5a0,Source: MalwareBazaar
+2024-07-28,Payload installation,sha256,4e25695bab3ab85fc29d5ec8858b9caefe193916eabe0d7bfc18059cb23c6757,Source: MalwareBazaar
+2024-07-29,Payload installation,filename,Wave.exe,Source: MalwareBazaar
+2024-07-29,Payload installation,md5,df016abe8bfe2653c1dca38309260358,Source: MalwareBazaar
+2024-07-29,Payload installation,sha1,253c95a2b7f13d39b9a03ba9a52785258e439340,Source: MalwareBazaar
+2024-07-29,Payload installation,sha256,328b42682ffc73069ed31d0a9360aaf75e756cc2e51a280ef9849b9e836a990d,Source: MalwareBazaar

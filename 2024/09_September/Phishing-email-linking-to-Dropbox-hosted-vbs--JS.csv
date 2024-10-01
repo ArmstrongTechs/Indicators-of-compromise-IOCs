@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Phishing email linking to Dropbox hosted vbs & JS
+| UUID: 67e60e8c-af22-4f6f-b152-9fc0b7e5f382
+| Date: 2024-07-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-16,Payload delivery,email-subject,Enquiry - Dubai,Email Subject
+2024-07-16,Network activity,ip-src,190.183.195.12,
+2024-07-16,Payload delivery,email-src,oramirez@gigared.com.ar,
+2024-07-16,Network activity,url,https://www.dropbox.com/scl/fi/6scjkw4zb95h8vci1usjy/Enquiry-Dubai.vbs?rlkey=e2zh5lfzlgbrz2qv6yt26im0s&st=ag3jba89&dl=1,
+2024-07-16,Payload delivery,filename|sha256,Enquiry - Dubai.vbs|6139a5421000f643069ae01b724c08621f555a4cc0d12b17426bb7bf99c7670b,
+2024-07-16,Network activity,url,https://www.dropbox.com/scl/fi/dtmd8295vc4yqxwvo0cvn/Enquiry-Dubai.js?rlkey=rm2kst5fgw1kv8dhcbm9jriid&st=b8ho5gv7&dl=1,
+2024-07-16,Network activity,url,https://pastecode.dev/raw/6l7qjjrz/paste1.txt,
+2024-07-16,Payload delivery,filename|sha256,Enquiry - Dubai.js|2f81bcc1306e59f8961f494d89682320db99db259b897919626275f35b7a98c1,

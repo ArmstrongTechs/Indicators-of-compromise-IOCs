@@ -1,0 +1,9 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 214980
+| Info: New Cicada3301 Ransomware Targets Windows and Linux Systems
+| Reference: https://172.19.111.72/events/view/214980
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-05,Payload delivery,sha256,7b3022437b637c44f42741a92c7f7ed251845fd02dda642c0a47fde179bd984e,
+2024-09-05,Network activity,ip-dst,91.92.249.203,

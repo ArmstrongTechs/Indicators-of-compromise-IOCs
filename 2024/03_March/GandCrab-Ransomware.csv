@@ -1,0 +1,15 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 216391
+| Info: GandCrab Ransomware
+| Reference: https://172.19.111.72/events/view/216391
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-09,Payload delivery,sha256,5a1ab27b99f3fe6cbe825f2743c77347a7339783f8a22d99a54be2d07b94c1a8,
+2024-09-09,Payload delivery,sha256,0741e7c0b02f6ef0b28d00a7467bf91edb0cb0f6f20dc1fbed76119c7ae79b4f,
+2024-09-09,Payload delivery,sha256,329b3ddbf1c00b7767f0ec39b90eb9f4f8bd98ace60e2f6b6fbfb9adf25e3ef9,
+2024-09-09,Payload delivery,sha256,bd16b703cd20e622e3e70e71bb4c68d1d1a3e14462f4b09978bbbb14e41625dc,
+2024-09-09,Payload delivery,sha256,d7ffa0d8566702474790d7cbbbf9d51e9937d82582f82e1a00ddb1c489700d62,
+2024-09-09,Payload delivery,sha256,d860bdf0d56a66f0e1b502067d07bdb595f60ef8c43de6b9caf5492a429426d6,
+2024-09-09,Payload delivery,sha256,f70d73b6c3f61f412567bf74d4f1fba052ddccf0f8b2e61a6c69de9c8c5e6ec1,
+2024-09-09,Payload delivery,sha256,fb136c8360d1a5ab80f61109c55c5a788aa1d8796d1e75aca8c1a762b598d3f4,

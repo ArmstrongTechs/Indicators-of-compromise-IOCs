@@ -1,0 +1,58 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-07-12]
+| UUID: 6941d620-6e42-498a-8982-68e1467e0493
+| Date: 2024-07-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-12,Payload installation,filename,09090.exe,Source: MalwareBazaar
+2024-07-12,Payload installation,md5,251d4058ed16f117fc65c14e103c08a6,Source: MalwareBazaar
+2024-07-12,Payload installation,sha1,c698d40e2f9dcf3dc50a7d3df135cc898ab5dc70,Source: MalwareBazaar
+2024-07-12,Payload installation,sha256,ca420eee99c83accda5d248b743f2c1aa1496a426879699eda3bbb33c5961c7b,Source: MalwareBazaar
+2024-07-12,Payload installation,filename,RFQ#TLPO10-24-RFQ#TLPO12-24-RFQ#TLPO14-24.rar,Source: MalwareBazaar
+2024-07-12,Payload installation,md5,3956cba8df617a81effcb63a47b9c1aa,Source: MalwareBazaar
+2024-07-12,Payload installation,sha1,2f17a7b33abcd97adc55a62e64306a2485af448e,Source: MalwareBazaar
+2024-07-12,Payload installation,sha256,d1aa0d4fe0206708d5a3fbbff6aebb88916282319d820914383865bb00200cc4,Source: MalwareBazaar
+2024-07-12,Payload installation,filename,vNrcPvMYLZmn2cc.exe,Source: MalwareBazaar
+2024-07-12,Payload installation,md5,8e9b751ecbb040e9893199329566c826,Source: MalwareBazaar
+2024-07-12,Payload installation,sha1,dee40b465783386a418bd5c4dc529b07659e1827,Source: MalwareBazaar
+2024-07-12,Payload installation,sha256,0b2881dffc8cd0c36764d955f9478964c95822672da0f5ba29a5af5c16059b16,Source: MalwareBazaar
+2024-07-12,Payload installation,filename,PO RFQ-HL51L05....exe,Source: MalwareBazaar
+2024-07-12,Payload installation,md5,d67825bcb9dac14a0d3f6bc54de023a1,Source: MalwareBazaar
+2024-07-12,Payload installation,sha1,953e7d8648012147dac67223af2ca3fc92d84225,Source: MalwareBazaar
+2024-07-12,Payload installation,sha256,075c3cdd24b65c7237271228a2757a4880e778d791689dbaf1652068cc032b2e,Source: MalwareBazaar
+2024-07-12,Payload installation,filename,payment advice.exe,Source: MalwareBazaar
+2024-07-12,Payload installation,md5,0f69847ce2652ade7ac61eab6864ba4b,Source: MalwareBazaar
+2024-07-12,Payload installation,sha1,8cf5fb9e24a0ef55f0821a974bdbc65a455e8414,Source: MalwareBazaar
+2024-07-12,Payload installation,sha256,300185691a83ec8f644453f6007b1506b2a21e4718dfef7f2c3d3ceb4f890544,Source: MalwareBazaar
+2024-07-12,Payload installation,filename,z46Ordendecompraurgente___s__x__l__x___.exe,Source: MalwareBazaar
+2024-07-12,Payload installation,md5,8a380b585835b98c5b44204c7511c663,Source: MalwareBazaar
+2024-07-12,Payload installation,sha1,c0239e54dde27b616190dac68575ca49bf29cdea,Source: MalwareBazaar
+2024-07-12,Payload installation,sha256,c4e016f81ae94b30829cde12b6f2e5491b389042dffbe1d4f2568b53b08ac338,Source: MalwareBazaar
+2024-07-12,Payload installation,filename,QUOTATION_JULQTRA071244PDF.scr.exe,Source: MalwareBazaar
+2024-07-12,Payload installation,md5,b98463427ff48025b05cd711c1b2c830,Source: MalwareBazaar
+2024-07-12,Payload installation,sha1,861716752d1451a79da086cd8d4717786cc4f99e,Source: MalwareBazaar
+2024-07-12,Payload installation,sha256,6725da896273bada4c8384565b8d157f602357b386d8bceaf72b28899ed09fa8,Source: MalwareBazaar
+2024-07-13,Payload installation,filename,OrderPI.exe,Source: MalwareBazaar
+2024-07-13,Payload installation,md5,cc8d02e1fe7f46e0ef80728a20659038,Source: MalwareBazaar
+2024-07-13,Payload installation,sha1,481777eb05f14b227ec2cf875c22cbd878132d4a,Source: MalwareBazaar
+2024-07-13,Payload installation,sha256,b1352a6d15922a859937a191d75c7feecfd66a6b648e56382acb5174c797e190,Source: MalwareBazaar
+2024-07-13,Payload installation,filename,BL.exe,Source: MalwareBazaar
+2024-07-13,Payload installation,md5,997a2af7a155f889bc190fe63fd934d9,Source: MalwareBazaar
+2024-07-13,Payload installation,sha1,2730292d90d51e300935b1393ed7ab762dd3649b,Source: MalwareBazaar
+2024-07-13,Payload installation,sha256,6be3d2aba5d4ae48d24eb0fee3a63eca888be4a2b34648b83e78411984c9d1a6,Source: MalwareBazaar
+2024-07-13,Payload installation,filename,Inquiry Files QjbUlWXxzMnwc5Ik.bat,Source: MalwareBazaar
+2024-07-13,Payload installation,md5,2f58ed4bfb0a59c7e32001861697886c,Source: MalwareBazaar
+2024-07-13,Payload installation,sha1,8810970847a7a3b60b36cf1544be7cc4792ac39e,Source: MalwareBazaar
+2024-07-13,Payload installation,sha256,e8167dae28a414969cbe3535e3f37f496f44a94d41e3c0ca507a31091422b91b,Source: MalwareBazaar
+2024-07-13,Payload installation,filename,docs_pdf.exe,Source: MalwareBazaar
+2024-07-13,Payload installation,md5,4a7d2fd983aa91d5d3b7bec3c430a825,Source: MalwareBazaar
+2024-07-13,Payload installation,sha1,34d5c4c7e639a9cd89dc857dc2322f3a86962a3e,Source: MalwareBazaar
+2024-07-13,Payload installation,sha256,b193b97622b50825390d67d4bc9ae41c2da72c2c7f2beeb3b9fb0666fe892ae1,Source: MalwareBazaar
+2024-07-13,Payload installation,filename,Ticket Receipt and Fine.exe,Source: MalwareBazaar
+2024-07-13,Payload installation,md5,3d0257f3b89012fc88087b77ceecf50f,Source: MalwareBazaar
+2024-07-13,Payload installation,sha1,59118559fee4ef72669e9bdcdfb59fee3223a04a,Source: MalwareBazaar
+2024-07-13,Payload installation,sha256,d2944ccc7a3e0b9ca0ff84c52abaa3d05c00f6cfc6ff0e669cc152fbb79fd961,Source: MalwareBazaar

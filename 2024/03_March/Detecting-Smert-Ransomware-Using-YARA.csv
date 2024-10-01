@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| IOCs Event ID: 213545
+| Info: Detecting Smert Ransomware Using YARA
+| Reference: https://172.19.111.72/events/view/213545
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-02,Payload delivery,sha256,201c60a9f34c5f0e1d1c289505129af66885affba7da11bc63d05a99efa373f9,
+2024-09-02,Payload delivery,sha256,0e0549f24df1a39e73571392c2140b2f37c8dc2f3048a131eedb56257313176f,
+2024-09-02,Payload delivery,sha256,cd2956b443fe41a96cd3d6acfd4932f77482c27e65ee8acd92af58629e233b53,
+2024-09-02,Payload delivery,sha256,b6a29f656a71657d48b6db75e9b929da8358bc937cdfee714fa4f6111f286488,
+2024-09-02,Payload delivery,sha256,47410a45b194902d1013c632ae915b9cfcb24a1ac739b27fd07b05b032650dfb,
+2024-09-02,Payload delivery,sha256,def9977aea5ec8d9f39c8691deb63b53b00648a22b8a9b3e527e8014aa346eb9,
+2024-09-02,Payload delivery,sha256,3ba4653e91658f2b39ab9cdd722703ed9c348d3a6e219bd1b20764df9294a529,
+2024-09-02,Payload delivery,sha256,f786fca1b12e0571e8e70b0a5631e6580a88a401998f09177b5ceaa0aca4b25b,
+2024-09-02,Payload delivery,sha256,5f34856bdbb5dae28dfa973096be5fe30b69227c676c667f7e37f6451439d11b,
+2024-09-02,Payload delivery,sha256,e7f04f0ee06f2addd4f33ecddfd4981d5f7a05f0a596d02acb630cb5377beac0,
+2024-09-02,Payload delivery,sha256,9e98c9335528c966fbe9e11c53fdba7a7cd5c9760518df8e2563327f267ef813,

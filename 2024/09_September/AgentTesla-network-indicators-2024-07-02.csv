@@ -1,0 +1,12 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla network indicators [2024-07-02]
+| UUID: 6a63ead4-665a-45a5-a1c8-56b281e21367
+| Date: 2024-07-02
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-02,Network activity,url,http://192.210.215.11/zoom/don701.exe,Source: urlhaus
+2024-07-02,Network activity,url,https://hartac.co.za/wp-content/plugins/dac83144a70c491c9bb53bbf00eb4cc1/xt/mmd/pilnmAc2.6.exe,Source: urlhaus

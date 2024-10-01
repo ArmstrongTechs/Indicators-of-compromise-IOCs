@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Azorult host indicators [2024-07-25]
+| UUID: e62a4b53-0500-4913-b4b6-7535ef139319
+| Date: 2024-07-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-25,Payload installation,filename,HSBC_PAYMENT.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,012a8c2d8d89f5a899644738b1dbeddf,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,0b2c6fdc0a100726884d239429fef4bba6208071,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,81645015b100a9f7759fa73ef49879ff9be5795c3b073516c3e1a040af057c7f,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,HSBC_PAYMENT.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,4f7f20d7e243b1dd4f3ce28e7367f76f,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,426479e19a29e17607f0c159021fd965dbb42302,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,938b42f084ea40da98cbb0d6cab7f424f1c7e9d6580f67634995a01facb4d98b,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,ESPLS-RFQ_2400282.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,516a26f5978b8c97c755dd1d4292ffb6,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,6cf511da5aa396b7ff854a68869536aa6b2c55b5,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,49f9ac550d9df149caa708bd58d9886e6322a176b8ad723b8032ad5bc3ba9c84,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,MGL6070111-PDF.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,0be9332786cd2b5d41edf5746bd4d351,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,44443541dd2e4a40820f23d9057a92a27dfdc823,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,65645a7b022d73d26cf94f50e0c9eaa224911bf8443b0366bcc671be27dbb9bc,Source: MalwareBazaar
+2024-07-25,Payload installation,filename,PMTI00002112.exe,Source: MalwareBazaar
+2024-07-25,Payload installation,md5,5e1fb9afc29c8dfb357b46be649ab88f,Source: MalwareBazaar
+2024-07-25,Payload installation,sha1,aa539b2ad8551f23b1d6adc9b967a62edd2be41d,Source: MalwareBazaar
+2024-07-25,Payload installation,sha256,cd39bffc74d996c25ba6b6edde8601677b6d248fc9adf77376a56e9283b653b5,Source: MalwareBazaar

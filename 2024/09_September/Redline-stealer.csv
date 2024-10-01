@@ -1,0 +1,23 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Redline stealer
+| UUID: f06a0e35-8d38-43c7-a6cf-9b450b8ca55f
+| Date: 2024-07-17
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-17,Network activity,ip-dst|port,2.58.56.186|1912,C2
+2024-07-17,Payload delivery,malware-sample,AWB_ref#907853880911pdf.gz|5eb24538d07d6af7cd7a4508d9b2cb2d,
+2024-07-17,Payload delivery,filename,AWB_ref#907853880911pdf.gz,
+2024-07-17,Payload delivery,md5,5eb24538d07d6af7cd7a4508d9b2cb2d,
+2024-07-17,Payload delivery,sha1,5b405d6d1cff28553e477358c0366c6fa0143ee5,
+2024-07-17,Payload delivery,sha256,5b1fd67c5b115a313df26e95ac4dd93f1eef074bc0747a2e6e9eae7dfa3567a6,
+2024-07-17,Other,size-in-bytes,930084,
+2024-07-17,Payload delivery,malware-sample,AWB_ref#907853880911pdf.exe|2f7d974e500469811c13715c9290db42,
+2024-07-17,Payload delivery,filename,AWB_ref#907853880911pdf.exe,
+2024-07-17,Payload delivery,md5,2f7d974e500469811c13715c9290db42,
+2024-07-17,Payload delivery,sha1,bf2922e8cdbb47292c63768441deb397740e97d0,
+2024-07-17,Payload delivery,sha256,a40712b73cd11c8dfe6cb16ba2e9f2749f0a9c154ec5d800cd805b1438843253,
+2024-07-17,Other,size-in-bytes,1137152,

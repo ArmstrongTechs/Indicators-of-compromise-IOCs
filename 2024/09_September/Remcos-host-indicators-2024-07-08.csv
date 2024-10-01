@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-07-08]
+| UUID: 92d7e67e-2a8b-4861-a1bb-80bd5fc941cb
+| Date: 2024-07-08
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-08,Payload installation,filename,"GZD24070024-HBL - 931677(WIS36)-308-12814975,76,308-12823182,3326,308-12831767,1774,6329,6332-INV.pdf.scr",Source: MalwareBazaar
+2024-07-08,Payload installation,md5,a04586c228da78e0da0262392eed4097,Source: MalwareBazaar
+2024-07-08,Payload installation,sha1,208be9fa01682e0c85556999eef9496a0cde215a,Source: MalwareBazaar
+2024-07-08,Payload installation,sha256,aa5728008a7a4b1173fc74eb5e41666688baddefbb2d5214d46cd6815646b5f3,Source: MalwareBazaar
+2024-07-08,Payload installation,filename,Raiffeisen Bank International AG _Zahlungshinweis.pdf.bat,Source: MalwareBazaar
+2024-07-08,Payload installation,md5,1ea48c61b1d13c6e0721aeb7f18e214a,Source: MalwareBazaar
+2024-07-08,Payload installation,sha1,7ee631c0095ea585bd4dd00f89cf0a46ba0ff42d,Source: MalwareBazaar
+2024-07-08,Payload installation,sha256,59558d5bc10450ec63904f60f61b13f2e2feba2160c02bdd50eba25cd1b3b355,Source: MalwareBazaar
+2024-07-09,Payload installation,filename,35738a72cf2a1956c4c3efc371293c0e.exe,Source: MalwareBazaar
+2024-07-09,Payload installation,md5,35738a72cf2a1956c4c3efc371293c0e,Source: MalwareBazaar
+2024-07-09,Payload installation,sha1,70ba794dba9b44e9773dc110afdd83dfb0fbf793,Source: MalwareBazaar
+2024-07-09,Payload installation,sha256,f97691d405f1255b2d966ef6f581f160c6a708e5581a7d79e97b9bd70260d0b6,Source: MalwareBazaar
+2024-07-09,Payload installation,filename,32fb3f5609afb68ba6dbb7b470e56feb.exe,Source: MalwareBazaar
+2024-07-09,Payload installation,md5,32fb3f5609afb68ba6dbb7b470e56feb,Source: MalwareBazaar
+2024-07-09,Payload installation,sha1,62f1d9c329dcd8deb1888ecb0664bdd774886fa8,Source: MalwareBazaar
+2024-07-09,Payload installation,sha256,2e8f25978abc50fec94b06de6a551953a21faeac624ef6983d6df036d239a302,Source: MalwareBazaar

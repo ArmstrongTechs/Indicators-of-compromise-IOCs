@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-07-14]
+| UUID: 4a7a50fa-8be6-4526-9932-ac16284d56f3
+| Date: 2024-07-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-07-14,Payload installation,filename,5046511eb489387b7a835a990ea3b36b77185f3fad905511c4bce30aa654c60b_dump.exe,Source: MalwareBazaar
+2024-07-14,Payload installation,md5,472052db7a344b5dba08aec26d6bdf6f,Source: MalwareBazaar
+2024-07-14,Payload installation,sha1,72d44235387e2ce08665b8976424e802a672c65f,Source: MalwareBazaar
+2024-07-14,Payload installation,sha256,5aef1b0e1673044cc7a46a3ea02e4caf2ec853acdf50e3d9a72aa9ac0fb1f88f,Source: MalwareBazaar
+2024-07-14,Payload installation,filename,BBVA Colombia__ Aviso de Pago.pdf.bat,Source: MalwareBazaar
+2024-07-14,Payload installation,md5,c2da662bc20a9050c70e76eb1add5878,Source: MalwareBazaar
+2024-07-14,Payload installation,sha1,a7b8e17adf10d88c9791cbf9b14c8a7823ea384b,Source: MalwareBazaar
+2024-07-14,Payload installation,sha256,b9fbf6a6545fcc42cb88d3261d5ab2e9c1a61f2efd0955ee9426d78418eb6a73,Source: MalwareBazaar
