@@ -1,0 +1,23 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Kimsuky APT Group Deploys New KLogEXE and FPSpy Variant
+| UUID: 5dce38bf-b158-49fa-a57b-1be7d7d5b0e2
+| Date: 2024-09-30
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-09-30,Payload delivery,sha256,990b7eec4e0d9a22ec0b5c82df535cf1666d9021f2e417b49dc5110a67228e27,
+2024-09-30,Payload delivery,sha256,a173a425d17b6f2362eca3c8ea4de9860b52faba414bbb22162895641dda0dc2,
+2024-09-30,Payload delivery,sha256,faf666019333f4515f241c1d3fcfc25c67532463245e358b90f9e498fe4f6801,
+2024-09-30,Payload delivery,sha256,c69cd6a9a09405ae5a60acba2f9770c722afde952bd5a227a72393501b4f5343,
+2024-09-30,Payload delivery,sha256,2e768cee1c89ad5fc89be9df5061110d2a4953b336309014e0593eb65c75e715,
+2024-09-30,Network activity,hostname,mail.apollo-page.r-e.kr,
+2024-09-30,Network activity,hostname,nidlogin.apollo.r-e.kr,
+2024-09-30,Network activity,hostname,bitjoker2024.000webhostapp.com,
+2024-09-30,Network activity,hostname,www.vic.apollo-star7.kro.kr,
+2024-09-30,Network activity,ip-dst,152.32.138.167,
+2024-09-30,Network activity,url,http://mail.apollo-page.r-e.kr/wp-content/include.php?_sys_=7,
+2024-09-30,Network activity,url,http://mail.apollo-page.r-e.kr/plugin/include.php?_sys_=7,
+2024-09-30,Network activity,url,https://nidlogin.apollo.r-e.kr/cmd/index.php?_idx_=7,
