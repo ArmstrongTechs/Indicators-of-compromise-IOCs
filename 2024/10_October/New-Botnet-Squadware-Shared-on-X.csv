@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: New Botnet Squadware Shared on X
+| UUID: 9780ebda-e314-495d-9408-54ce9009564f
+| Date: 2024-10-02
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-10-02,Payload delivery,domain,socket.squadware.dev,
+2024-10-02,Payload delivery,domain,cnc.squadware.dev,
+2024-10-02,Payload delivery,domain,socket.infinyx.us,
+2024-10-02,Payload delivery,sha256,d7bece4b8b7eab33488a5ade41981d63f5217f5451d381daabc98758970a8282,
