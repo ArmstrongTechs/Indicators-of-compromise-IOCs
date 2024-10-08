@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Detecting Patchwork's Nexe Backdoor using Sigma
+| UUID: d23415ac-b9c1-40e0-a406-bfeb94278a9d
+| Date: 2024-10-07
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-10-07,Network activity,url,https://shianchi.scapematic.info/jhgfd/jkhxvcf,
+2024-10-07,Network activity,url,https://jihang.scapematic.info/eqhgrh/uybvjxosg,
+2024-10-07,Payload delivery,sha256,d7b278d20f47203da07c33f646844e74cb690ed802f2ba27a74e216368df7db9,

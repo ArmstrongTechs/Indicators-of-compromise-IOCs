@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: New TeamTNT Cryptojacking Campaign Targets CentOS Servers with Rootkit
+| UUID: 80f3b216-b1ec-46a8-a75e-aae24a1f4fb0
+| Date: 2024-10-07
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-10-07,Network activity,ip-dst,65.108.48.150,
+2024-10-07,Payload delivery,filename,/etc/.system/rtm/xmrig.log,
+2024-10-07,Payload delivery,filename,/var/tmp/…/dia/diamorphine.ko,
+2024-10-07,Payload delivery,filename,/var/tmp/.alsp,
