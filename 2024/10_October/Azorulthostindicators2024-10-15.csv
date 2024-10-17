@@ -1,12 +1,11 @@
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
-| Title: Phishing findings
-| UUID: e21323ff-db2b-432a-a4be-4f4e8df374c7
-| Date: 2024-10-14
+| Title: Azorult host indicators [2024-10-15]
+| UUID: 0b8bdd46-01b9-425d-994f-be9042c2630b
+| Date: 2024-10-15
 "| Author: Armstrong Techs, Research Lab"
 | References: https://www.armstrongtechs.com/
 | TLP:CLEAR
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
 
 Date,Category,Type,Value,Comment
-2024-10-14,Network activity,domain,nkbm-otp.com,
-2024-10-14,Network activity,url,https://nkbm-otp.com/otpbanka.si/,
+2024-10-15,Payload installation,filename,AWB-002024563.XLS.lnk,Source: MalwareBazaar

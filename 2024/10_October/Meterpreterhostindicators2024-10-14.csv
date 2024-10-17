@@ -1,6 +1,6 @@
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
-| Title: Phishing findings
-| UUID: e21323ff-db2b-432a-a4be-4f4e8df374c7
+| Title: Meterpreter host indicators [2024-10-14]
+| UUID: ee55c031-4e92-4c4b-99b7-6a2848f9a17c
 | Date: 2024-10-14
 "| Author: Armstrong Techs, Research Lab"
 | References: https://www.armstrongtechs.com/
@@ -8,5 +8,4 @@
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
 
 Date,Category,Type,Value,Comment
-2024-10-14,Network activity,domain,nkbm-otp.com,
-2024-10-14,Network activity,url,https://nkbm-otp.com/otpbanka.si/,
+2024-10-14,Payload installation,filename,file,Source: MalwareBazaar
