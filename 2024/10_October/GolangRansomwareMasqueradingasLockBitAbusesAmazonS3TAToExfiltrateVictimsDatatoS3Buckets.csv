@@ -1,0 +1,11 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Golang Ransomware Masquerading as LockBit Abuses Amazon S3TA To Exfiltrate Victim’s Data to S3 Buckets
+| UUID: 78e8ed88-5bbe-49c7-80c3-f4a0ab279b47
+| Date: 2024-10-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-10-24,Payload delivery,sha256,1350b1dce81952d9cca595eab8c77ea29ba46f7aa4df28f066110b14895a630c,
