@@ -1,0 +1,15 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Open Directory Hosts Thunder Botnet Loader
+| UUID: 5696fe44-e6ea-42db-8a29-52b3480ae2c3
+| Date: 2024-11-05
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-11-05,Payload delivery,sha256,982f9e0f089b91ba79df723435099df15c72e1201a45010ee60226ab136c93bf,
+2024-11-05,Payload delivery,sha256,0de84a64210891912706931ef5fa6ff573ec19c789485d45efbbecc41679ac6f,
+2024-11-05,Payload delivery,sha256,4b0fdadca84b6edecce2ceda2a5ab2e19b257ef6662a972cdf1506c3c0ebc67f,
+2024-11-05,Network activity,url,http://194.163.169.206/botnets/thunderLoader,
+2024-11-05,Network activity,url,http://cf0.pw/0/etc/cron.hourly/0,

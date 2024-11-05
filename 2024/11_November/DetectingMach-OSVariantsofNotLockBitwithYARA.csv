@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Detecting Mach-OS Variants of NotLockBit with YARA
+| UUID: ad42899c-0442-4097-ab85-7978f2277f44
+| Date: 2024-11-05
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-11-05,Payload delivery,sha256,14fe0071e76b23673569115042a961136ef057848ad44cf35d9f2ca86bd90d31,
+2024-11-05,Payload delivery,sha256,2e62c9850f331799f1e4893698295d0b069ab04529a6db1bfc4f193fe6aded2c,
+2024-11-05,Payload delivery,sha256,aca17ec46730f5677d0d0a995b65504e97dce65da699fac1765db1933c97c7ec,
