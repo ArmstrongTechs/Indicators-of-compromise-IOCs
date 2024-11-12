@@ -1,0 +1,28 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: .RunningRAT's Campaign Pivots to Crypto Mining Operations Delivering XMRig
+| UUID: 2f891420-f5d9-4aa0-a8e3-fe5dee542912
+| Date: 2024-11-11
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-11-11,Network activity,ip-dst,139.162.102.163,
+2024-11-11,Network activity,ip-dst,24.199.123.1,
+2024-11-11,Payload delivery,filename,me.exe,
+2024-11-11,Payload delivery,sha256,b10884a495070c2f9ee183bbbb6d1b8f7351fc75d094f4bb212c38c859a6e867,
+2024-11-11,Payload delivery,filename,kill.exe,
+2024-11-11,Payload delivery,sha256,c55a1c1e2d0623fd7c5b2224e2e5a7b6f053f997080fb4f3d37a37d1b9ce807a,
+2024-11-11,Network activity,domain,xmrig.zip,
+2024-11-11,Payload delivery,sha256,27a823c06e68b5f32c2331ef89de4f1de1773f39449a3509b3f397c3c4376cad,
+2024-11-11,Payload delivery,filename,xmr-normal.bat,
+2024-11-11,Payload delivery,sha256,e8d595834bb500f0bb3ad688fe7307e3a182229f3ef16a16549c9797cf1d8985,
+2024-11-11,Payload delivery,filename,xmr-unban.bat,
+2024-11-11,Payload delivery,sha256,175d861d8f1337df6a0aafb845c2b7967d0c1ecd8c230e345d75d557440f15e5,
+2024-11-11,Payload delivery,filename,config.json,
+2024-11-11,Payload delivery,sha256,54409f5edb22b2c84de1ff5e6a76dd4b34d5acde60a0777f16251ccf4849929f,
+2024-11-11,Payload delivery,filename,WinRing0x64.sys,
+2024-11-11,Payload delivery,sha256,11bd2c9f9e2397c9a16e0990e4ed2cf0679498fe0fd418a3dfdac60b5c160ee5,
+2024-11-11,Payload delivery,filename,xmrig.exe,
+2024-11-11,Payload delivery,sha256,b69bf007797fdfecc90c5511dde776dc6c18c48cddec2804753533dbee4af80d,
