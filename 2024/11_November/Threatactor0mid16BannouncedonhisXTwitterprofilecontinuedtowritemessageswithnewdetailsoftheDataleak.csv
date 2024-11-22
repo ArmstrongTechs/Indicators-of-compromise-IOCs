@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: Threat actor 0mid16B announced on his X (Twitter) profile , continued to write messages with new details of the Data leak."
+| UUID: 2726ffba-ac8d-4abd-b177-7f2c606295bd
+| Date: 2024-11-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-11-21,Payload delivery,email-src,0mid16b@protonmail.com,
+2024-11-21,Network activity,url,https://x.com/0mid16B,
+2024-11-21,Network activity,domain,0mid16bmatrix.org,
