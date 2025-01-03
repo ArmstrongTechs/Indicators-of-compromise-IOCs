@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-12-30]
+| UUID: 5bbbd77d-6442-4046-9832-6dd29ed79ec8
+| Date: 2024-12-30
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-30,Payload installation,filename,TT copt mt103.pdf.exe,Source: MalwareBazaar
+2024-12-30,Payload installation,md5,c10d464c3c3cffc66e7d9473d6c0489e,Source: MalwareBazaar
+2024-12-30,Payload installation,sha1,68a86d6c0144c3e77b4b4d921f6a9aea0f8ba5cd,Source: MalwareBazaar
+2024-12-30,Payload installation,sha256,9bd03d5adeab12d68f22e7f8967b8b49c8b17c933eead9bda7929ca71a3ec051,Source: MalwareBazaar
+2024-12-31,Payload installation,filename,Air Shipment Inv NGA.r15,Source: MalwareBazaar
+2024-12-31,Payload installation,md5,ad2195f556fa1d5b7ab3d9c6d2017c18,Source: MalwareBazaar
+2024-12-31,Payload installation,sha1,092886d106328b0a2768e7c226baa67f464f1a0d,Source: MalwareBazaar
+2024-12-31,Payload installation,sha256,10a5c426563a9bb54230c3bffda24df9685d14d2a3a84cfccb61e92a4045dad6,Source: MalwareBazaar

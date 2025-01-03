@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Sample of VirLock Ransomware Shared on X
+| UUID: 1adb67a9-f2d4-44da-99f8-1dff5049a940
+| Date: 2025-01-02
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-02,Payload delivery,sha256,59f60edf22186c9145b9bc6336d1ee91fc0927310fe0a7c9794bcce61a240be9,
+2025-01-02,Payload delivery,sha256,e50c3745851bc51e5658f515930991696432c6725fdc43cf529184f04670f8a4,
+2025-01-02,Payload delivery,sha256,db7610651d1d01263f60f371fda82ddb4d7230a951c563c3eab9298ce423b0d9,
+2025-01-02,Payload delivery,sha256,ee5e0a414167c2aca961a616274767c4295659517a814d1428248bd53c6e829a,
+2025-01-02,Payload delivery,sha256,59d889a2bf392f4b117340832b4c73425a7fb1de6c2f83a1aaa779d477c7c6cc,
+2025-01-02,Network activity,ip-dst,200.87.164.69,
+2025-01-02,Network activity,ip-dst,200.119.204.12,
+2025-01-02,Network activity,ip-dst,190.186.45.170,

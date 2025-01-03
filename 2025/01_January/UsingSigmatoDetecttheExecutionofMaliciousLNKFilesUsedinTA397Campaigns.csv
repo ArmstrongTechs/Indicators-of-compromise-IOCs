@@ -1,0 +1,20 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Using Sigma to Detect the Execution of Malicious LNK Files Used in TA397 Campaigns
+| UUID: f2848d47-d3c1-4ef1-a1a1-6a09721aa7d9
+| Date: 2025-01-02
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-02,Network activity,domain,academymusica.com,
+2025-01-02,Network activity,domain,jacknwoods.com,
+2025-01-02,Network activity,domain,samsnewlooker.com,
+2025-01-02,Network activity,ip-dst,38.180.142.228,
+2025-01-02,Network activity,ip-dst,185.244.151.84,
+2025-01-02,Network activity,ip-dst,96.9.215.155,
+2025-01-02,Payload delivery,sha256,10cec5a84943f9b0c635640fad93fd2a2469cc46aae5e43a4604c903d139970f,
+2025-01-02,Payload delivery,sha256,c7ab300df27ad41f8d9e52e2d732f95479f4212a3c3d62dbf0511b37b3e81317,
+2025-01-02,Payload delivery,sha256,f6c77098906f5634789d7fd7ff294bfd95325d69f1be96be1ee49ff161e07733,
+2025-01-02,Payload delivery,sha256,53a653aae9678075276bdb8ccf5eaff947f9121f73b8dcf24858c0447922d0b1,

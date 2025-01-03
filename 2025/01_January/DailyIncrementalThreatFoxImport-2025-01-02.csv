@@ -1,0 +1,574 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Daily Incremental ThreatFox Import - 2025-01-02
+| UUID: 9517b28e-8685-4da7-8b3c-6dd073a43306
+| Date: 2025-01-02
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-02,Network activity,domain,bot.lingfengfs.com,"botnet_cc
+100
+https://search.censys.io/hosts/134.122.169.57+bot.lingfengfs.com"
+2025-01-02,Network activity,domain,account.fortinet.app,"botnet_cc
+100
+https://search.censys.io/hosts/3.136.231.230+account.fortinet.app"
+2025-01-02,Network activity,ip-dst|port,167.235.250.66|8090,"botnet_cc
+100
+https://search.censys.io/hosts/167.235.250.66"
+2025-01-02,Network activity,ip-dst|port,18.201.102.245|55410,"botnet_cc
+100
+https://search.censys.io/hosts/18.201.102.245"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|8443,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|10084,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|6544,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|6009,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|443,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|627,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|56454,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|3390,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|500,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|32400,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|36682,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|3299,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|18604,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|28147,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|1194,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|14036,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|32671,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|80,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|8545,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|2762,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|11829,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|2078,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|5000,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|995,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|5006,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|82,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|4072,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,86.124.24.8|21,"botnet_cc
+100
+https://search.censys.io/hosts/86.124.24.8"
+2025-01-02,Network activity,ip-dst|port,2.58.56.77|80,"botnet_cc
+100
+https://search.censys.io/hosts/2.58.56.77"
+2025-01-02,Network activity,ip-dst|port,193.83.7.1|4444,"botnet_cc
+100
+https://search.censys.io/hosts/193.83.7.1"
+2025-01-02,Network activity,url,http://cj15501.tw1.ru/c39768a5.php,"botnet_cc
+100"
+2025-01-02,Network activity,ip-dst|port,192.238.134.113|4433,"botnet_cc
+100"
+2025-01-02,Network activity,url,http://pw334.castledev.ru/L1nc0In.php,"botnet_cc
+100"
+2025-01-02,Network activity,domain,ntsteallers.com,"botnet_cc
+100
+https://search.censys.io/hosts/104.21.46.165+ntsteallers.com"
+2025-01-02,Network activity,ip-dst|port,195.66.213.24|80,"botnet_cc
+100
+https://search.censys.io/hosts/195.66.213.24"
+2025-01-02,Network activity,ip-dst|port,134.122.169.57|80,"botnet_cc
+100
+https://search.censys.io/hosts/134.122.169.57"
+2025-01-02,Network activity,ip-dst|port,178.215.224.65|80,"botnet_cc
+100
+https://search.censys.io/hosts/178.215.224.65"
+2025-01-02,Network activity,ip-dst|port,172.190.218.195|8089,"botnet_cc
+100
+https://search.censys.io/hosts/172.190.218.195"
+2025-01-02,Network activity,ip-dst|port,198.167.199.130|19132,"botnet_cc
+100
+https://search.censys.io/hosts/198.167.199.130"
+2025-01-02,Network activity,ip-dst|port,162.216.243.15|7707,"botnet_cc
+100
+https://search.censys.io/hosts/162.216.243.15"
+2025-01-02,Network activity,ip-dst|port,185.195.65.40|31337,"botnet_cc
+100
+https://search.censys.io/hosts/185.195.65.40"
+2025-01-02,Network activity,ip-dst|port,120.48.116.118|9876,"botnet_cc
+100
+https://search.censys.io/hosts/120.48.116.118"
+2025-01-02,Network activity,url,http://f1069581.xsph.ru/L1nc0In.php,"botnet_cc
+100"
+2025-01-02,Network activity,url,http://a1068999.xsph.ru/L1nc0In.php,"botnet_cc
+100"
+2025-01-02,Network activity,url,http://62.109.1.101/PhpLine/Defaultbaselocal/BigloadProviderlowLine/multiline5Game/MultiupdateVm6/Secure1/Linuxdumpdownloads/asyncwordpressVoiddb8/universalexternallow/dump0Linux/1GeoPublicLow/flower0temporary/9cpu/PythonPacketgame.php,"botnet_cc
+100"
+2025-01-02,Network activity,url,http://797441cm.n9shteam2.top/Videouploads.php,"botnet_cc
+100"
+2025-01-02,Network activity,url,https://37.27.214.36,"botnet_cc
+100"
+2025-01-02,Network activity,url,https://65.109.242.14,"botnet_cc
+100"
+2025-01-02,Network activity,domain,h7h7h7.online,"botnet_cc
+100"
+2025-01-02,Network activity,domain,slot.buyaiphoneonline.com,"botnet_cc
+100
+https://infosec.exchange/@monitorsg/113757494288058880"
+2025-01-02,Network activity,url,https://wildspiritzm.top/YTZhZjliODdlYTI4/,"botnet_cc
+100"
+2025-01-02,Network activity,url,https://hamkarada24.top/OWRmM2UzMTBiNjg4/,"botnet_cc
+100"
+2025-01-02,Network activity,ip-dst|port,89.208.231.155|80,"botnet_cc
+100
+https://www.shodan.io/host/89.208.231.155"
+2025-01-02,Network activity,ip-dst|port,18.118.61.33|80,"botnet_cc
+100
+https://www.shodan.io/host/18.118.61.33"
+2025-01-02,Network activity,ip-dst|port,152.42.180.173|443,"botnet_cc
+100
+https://www.shodan.io/host/152.42.180.173"
+2025-01-02,Network activity,ip-dst|port,34.213.47.69|443,"botnet_cc
+100
+https://www.shodan.io/host/34.213.47.69"
+2025-01-02,Network activity,ip-dst|port,142.132.190.156|443,"botnet_cc
+100
+https://www.shodan.io/host/142.132.190.156"
+2025-01-02,Network activity,ip-dst|port,34.154.11.138|443,"botnet_cc
+100
+https://www.shodan.io/host/34.154.11.138"
+2025-01-02,Network activity,ip-dst|port,142.132.190.156|8181,"botnet_cc
+100
+https://www.shodan.io/host/142.132.190.156"
+2025-01-02,Network activity,ip-dst|port,35.89.139.12|443,"botnet_cc
+100
+https://www.shodan.io/host/35.89.139.12"
+2025-01-02,Network activity,ip-dst|port,142.93.139.164|443,"botnet_cc
+100
+https://www.shodan.io/host/142.93.139.164"
+2025-01-02,Network activity,ip-dst|port,189.1.227.239|8443,"botnet_cc
+100
+https://www.shodan.io/host/189.1.227.239"
+2025-01-02,Network activity,ip-dst|port,43.198.12.208|80,"botnet_cc
+100
+https://www.shodan.io/host/43.198.12.208"
+2025-01-02,Network activity,ip-dst|port,47.237.202.96|443,"botnet_cc
+100
+https://www.shodan.io/host/47.237.202.96"
+2025-01-02,Network activity,ip-dst|port,165.232.151.250|443,"botnet_cc
+100
+https://www.shodan.io/host/165.232.151.250"
+2025-01-02,Network activity,ip-dst|port,60.204.234.238|80,"botnet_cc
+100
+https://search.censys.io/hosts/60.204.234.238"
+2025-01-02,Network activity,ip-dst|port,34.214.45.212|443,"botnet_cc
+100
+https://www.shodan.io/host/34.214.45.212"
+2025-01-02,Network activity,ip-dst|port,104.129.181.195|1433,"botnet_cc
+100
+https://www.shodan.io/host/104.129.181.195"
+2025-01-02,Network activity,ip-dst|port,104.129.181.195|1443,"botnet_cc
+100
+https://www.shodan.io/host/104.129.181.195"
+2025-01-02,Network activity,ip-dst|port,34.154.249.225|443,"botnet_cc
+100
+https://www.shodan.io/host/34.154.249.225"
+2025-01-02,Network activity,ip-dst|port,64.176.81.87|443,"botnet_cc
+100
+https://www.shodan.io/host/64.176.81.87"
+2025-01-02,Network activity,ip-dst|port,47.239.236.221|443,"botnet_cc
+100
+https://www.shodan.io/host/47.239.236.221"
+2025-01-02,Network activity,ip-dst|port,161.35.73.220|443,"botnet_cc
+100
+https://www.shodan.io/host/161.35.73.220"
+2025-01-02,Network activity,ip-dst|port,185.82.126.147|4433,"botnet_cc
+100
+https://www.shodan.io/host/185.82.126.147"
+2025-01-02,Network activity,ip-dst|port,161.35.73.220|8443,"botnet_cc
+100
+https://www.shodan.io/host/161.35.73.220"
+2025-01-02,Network activity,ip-dst|port,185.82.126.147|443,"botnet_cc
+100
+https://www.shodan.io/host/185.82.126.147"
+2025-01-02,Network activity,ip-dst|port,18.175.147.93|8443,"botnet_cc
+100
+https://www.shodan.io/host/18.175.147.93"
+2025-01-02,Network activity,ip-dst|port,18.132.191.71|80,"botnet_cc
+100
+https://www.shodan.io/host/18.132.191.71"
+2025-01-02,Network activity,ip-dst|port,18.175.147.93|443,"botnet_cc
+100
+https://www.shodan.io/host/18.175.147.93"
+2025-01-02,Network activity,ip-dst|port,209.38.192.207|8443,"botnet_cc
+100
+https://www.shodan.io/host/209.38.192.207"
+2025-01-02,Network activity,ip-dst|port,85.208.139.120|443,"botnet_cc
+100
+https://www.shodan.io/host/85.208.139.120"
+2025-01-02,Network activity,ip-dst|port,180.131.145.103|443,"botnet_cc
+100
+https://www.shodan.io/host/180.131.145.103"
+2025-01-02,Network activity,ip-dst|port,202.66.172.124|7001,"botnet_cc
+100
+https://www.shodan.io/host/202.66.172.124"
+2025-01-02,Network activity,ip-dst|port,216.23.184.169|443,"botnet_cc
+100
+https://www.shodan.io/host/216.23.184.169"
+2025-01-02,Network activity,ip-dst|port,202.66.172.124|7000,"botnet_cc
+100
+https://www.shodan.io/host/202.66.172.124"
+2025-01-02,Network activity,ip-dst|port,8.215.48.214|443,"botnet_cc
+100
+https://www.shodan.io/host/8.215.48.214"
+2025-01-02,Network activity,ip-dst|port,196.2.1.141|443,"botnet_cc
+100
+https://www.shodan.io/host/196.2.1.141"
+2025-01-02,Network activity,ip-dst|port,103.225.27.226|443,"botnet_cc
+100
+https://www.shodan.io/host/103.225.27.226"
+2025-01-02,Network activity,ip-dst|port,103.225.27.226|80,"botnet_cc
+100
+https://www.shodan.io/host/103.225.27.226"
+2025-01-02,Network activity,ip-dst|port,52.41.235.46|443,"botnet_cc
+100
+https://www.shodan.io/host/52.41.235.46"
+2025-01-02,Network activity,ip-dst|port,1.14.160.224|80,"botnet_cc
+100
+https://www.shodan.io/host/1.14.160.224"
+2025-01-02,Network activity,ip-dst|port,101.34.82.117|9443,"botnet_cc
+100
+https://www.shodan.io/host/101.34.82.117"
+2025-01-02,Network activity,ip-dst|port,101.36.122.50|8888,"botnet_cc
+100
+https://www.shodan.io/host/101.36.122.50"
+2025-01-02,Network activity,ip-dst|port,103.231.74.38|8443,"botnet_cc
+100
+https://www.shodan.io/host/103.231.74.38"
+2025-01-02,Network activity,ip-dst|port,108.165.57.5|8889,"botnet_cc
+100
+https://www.shodan.io/host/108.165.57.5"
+2025-01-02,Network activity,ip-dst|port,111.229.148.68|1443,"botnet_cc
+100
+https://www.shodan.io/host/111.229.148.68"
+2025-01-02,Network activity,ip-dst|port,80.76.49.123|8031,"botnet_cc
+100
+https://www.shodan.io/host/80.76.49.123"
+2025-01-02,Network activity,ip-dst|port,79.132.128.110|444,"botnet_cc
+100
+https://www.shodan.io/host/79.132.128.110"
+2025-01-02,Network activity,ip-dst|port,38.61.0.81|443,"botnet_cc
+100
+https://search.censys.io/hosts/38.61.0.81"
+2025-01-02,Network activity,ip-dst|port,47.99.93.43|80,"botnet_cc
+100
+https://www.shodan.io/host/47.99.93.43"
+2025-01-02,Network activity,ip-dst|port,60.205.123.140|1111,"botnet_cc
+100
+https://www.shodan.io/host/60.205.123.140"
+2025-01-02,Network activity,ip-dst|port,45.155.250.85|444,"botnet_cc
+100
+https://www.shodan.io/host/45.155.250.85"
+2025-01-02,Network activity,ip-dst|port,47.76.49.150|8991,"botnet_cc
+100
+https://www.shodan.io/host/47.76.49.150"
+2025-01-02,Network activity,ip-dst|port,47.92.214.161|6666,"botnet_cc
+100
+https://www.shodan.io/host/47.92.214.161"
+2025-01-02,Network activity,ip-dst|port,43.139.216.112|4321,"botnet_cc
+100
+https://www.shodan.io/host/43.139.216.112"
+2025-01-02,Network activity,ip-dst|port,38.181.47.247|9008,"botnet_cc
+100
+https://www.shodan.io/host/38.181.47.247"
+2025-01-02,Network activity,ip-dst|port,42.193.230.26|6666,"botnet_cc
+100
+https://www.shodan.io/host/42.193.230.26"
+2025-01-02,Network activity,ip-dst|port,192.3.160.167|80,"botnet_cc
+100
+https://www.shodan.io/host/192.3.160.167"
+2025-01-02,Network activity,ip-dst|port,206.238.199.133|8443,"botnet_cc
+100
+https://www.shodan.io/host/206.238.199.133"
+2025-01-02,Network activity,ip-dst|port,147.45.47.88|4433,"botnet_cc
+100
+https://www.shodan.io/host/147.45.47.88"
+2025-01-02,Network activity,ip-dst|port,154.205.137.203|443,"botnet_cc
+100
+https://www.shodan.io/host/154.205.137.203"
+2025-01-02,Network activity,ip-dst|port,124.222.124.9|8011,"botnet_cc
+100
+https://www.shodan.io/host/124.222.124.9"
+2025-01-02,Network activity,ip-dst|port,137.184.183.6|8443,"botnet_cc
+100
+https://www.shodan.io/host/137.184.183.6"
+2025-01-02,Network activity,ip-dst|port,123.249.45.6|8011,"botnet_cc
+100
+https://www.shodan.io/host/123.249.45.6"
+2025-01-02,Network activity,ip-dst|port,113.44.67.52|9443,"botnet_cc
+100
+https://www.shodan.io/host/113.44.67.52"
+2025-01-02,Network activity,ip-dst|port,118.25.91.151|80,"botnet_cc
+100
+https://www.shodan.io/host/118.25.91.151"
+2025-01-02,Network activity,ip-dst|port,118.25.91.151|8443,"botnet_cc
+100
+https://www.shodan.io/host/118.25.91.151"
+2025-01-02,Network activity,ip-dst|port,47.95.169.24|60000,"botnet_cc
+100
+https://search.censys.io/hosts/47.95.169.24"
+2025-01-02,Network activity,ip-dst|port,111.230.246.41|60000,"botnet_cc
+100
+https://search.censys.io/hosts/111.230.246.41"
+2025-01-02,Network activity,ip-dst|port,37.27.214.36|443,"botnet_cc
+100
+https://search.censys.io/hosts/37.27.214.36"
+2025-01-02,Network activity,ip-dst|port,81.70.236.142|9092,"botnet_cc
+100
+https://www.shodan.io/host/81.70.236.142"
+2025-01-02,Network activity,ip-dst|port,102.117.160.152|7443,"botnet_cc
+100
+https://search.censys.io/hosts/102.117.160.152"
+2025-01-02,Network activity,ip-dst|port,117.72.90.62|60000,"botnet_cc
+100
+https://search.censys.io/hosts/117.72.90.62"
+2025-01-02,Network activity,ip-dst|port,51.75.72.230|3333,"botnet_cc
+100
+https://search.censys.io/hosts/51.75.72.230"
+2025-01-02,Network activity,ip-dst|port,172.105.41.81|443,"botnet_cc
+100
+https://search.censys.io/hosts/172.105.41.81"
+2025-01-02,Network activity,ip-dst|port,103.16.117.92|3333,"botnet_cc
+100
+https://search.censys.io/hosts/103.16.117.92"
+2025-01-02,Network activity,ip-dst|port,146.103.40.91|3333,"botnet_cc
+100
+https://search.censys.io/hosts/146.103.40.91"
+2025-01-02,Network activity,ip-dst|port,82.156.175.18|8888,"botnet_cc
+100
+https://search.censys.io/hosts/82.156.175.18"
+2025-01-02,Network activity,ip-dst|port,83.229.127.87|443,"botnet_cc
+100
+https://www.shodan.io/host/83.229.127.87"
+2025-01-02,Network activity,ip-dst|port,18.232.155.135|443,"botnet_cc
+100
+https://www.shodan.io/host/18.232.155.135"
+2025-01-02,Network activity,ip-dst|port,207.148.104.88|8443,"botnet_cc
+100
+https://www.shodan.io/host/207.148.104.88"
+2025-01-02,Network activity,ip-dst|port,54.167.251.151|443,"botnet_cc
+100
+https://www.shodan.io/host/54.167.251.151"
+2025-01-02,Network activity,ip-dst|port,54.199.51.106|443,"botnet_cc
+100
+https://www.shodan.io/host/54.199.51.106"
+2025-01-02,Network activity,ip-dst|port,54.206.151.199|443,"botnet_cc
+100
+https://www.shodan.io/host/54.206.151.199"
+2025-01-02,Network activity,ip-dst|port,54.238.39.64|443,"botnet_cc
+100
+https://www.shodan.io/host/54.238.39.64"
+2025-01-02,Network activity,ip-dst|port,95.169.196.118|1337,"botnet_cc
+50
+https://www.shodan.io/host/95.169.196.118"
+2025-01-02,Network activity,ip-dst|port,174.138.76.181|8443,"botnet_cc
+100
+https://www.shodan.io/host/174.138.76.181"
+2025-01-02,Network activity,ip-dst|port,47.238.194.253|80,"botnet_cc
+100
+https://www.shodan.io/host/47.238.194.253"
+2025-01-02,Network activity,ip-dst|port,18.166.178.41|80,"botnet_cc
+100
+https://www.shodan.io/host/18.166.178.41"
+2025-01-02,Network activity,ip-dst|port,106.75.18.52|9001,"botnet_cc
+100
+https://www.shodan.io/host/106.75.18.52"
+2025-01-02,Network activity,ip-dst|port,69.174.100.12|2404,"botnet_cc
+100"
+2025-01-02,Network activity,ip-dst|port,198.23.227.140|8099,"botnet_cc
+50
+https://www.shodan.io/host/198.23.227.140#8099"
+2025-01-02,Network activity,ip-dst|port,45.204.218.173|80,"botnet_cc
+50
+https://www.shodan.io/host/45.204.218.173"
+2025-01-02,Network activity,ip-dst|port,193.168.173.66|139,"botnet_cc
+100"
+2025-01-02,Network activity,ip-dst|port,162.241.62.63|21,"botnet_cc
+100
+https://app.any.run/tasks/1b00352a-963c-49a7-8b7c-2fb2c5243fc4#"
+2025-01-02,Network activity,ip-dst|port,152.42.226.16|59060,"botnet_cc
+50"
+2025-01-02,Network activity,ip-dst|port,107.178.108.41|587,"botnet_cc
+100
+https://app.any.run/tasks/7497880c-fb2d-4a40-aa6d-57222069de70"
+2025-01-02,Network activity,ip-dst|port,45.200.149.249|2601,"botnet_cc
+75"
+2025-01-02,Network activity,url,https://h7h7h7.online/,"botnet_cc
+100"
+2025-01-02,Network activity,url,https://37.27.214.36/,"botnet_cc
+100"
+2025-01-02,Network activity,ip-dst|port,103.74.93.242|8443,"botnet_cc
+100
+https://search.censys.io/hosts/103.74.93.242"
+2025-01-02,Network activity,ip-dst|port,172.81.133.87|8008,"botnet_cc
+100
+https://search.censys.io/hosts/172.81.133.87"
+2025-01-02,Network activity,ip-dst|port,198.167.199.224|19132,"botnet_cc
+100
+https://search.censys.io/hosts/198.167.199.224"
+2025-01-02,Network activity,ip-dst|port,45.204.218.173|8089,"botnet_cc
+100
+https://search.censys.io/hosts/45.204.218.173"
+2025-01-02,Network activity,ip-dst|port,103.37.40.78|56005,"botnet_cc
+100
+https://search.censys.io/hosts/103.37.40.78"
+2025-01-02,Network activity,ip-dst|port,81.214.76.68|3001,"botnet_cc
+100
+https://search.censys.io/hosts/81.214.76.68"
+2025-01-02,Network activity,ip-dst|port,198.23.227.140|7710,"botnet_cc
+100
+https://search.censys.io/hosts/198.23.227.140"
+2025-01-02,Network activity,ip-dst|port,81.214.76.68|3003,"botnet_cc
+100
+https://search.censys.io/hosts/81.214.76.68"
+2025-01-02,Network activity,ip-dst|port,81.214.76.68|3004,"botnet_cc
+100
+https://search.censys.io/hosts/81.214.76.68"
+2025-01-02,Network activity,ip-dst|port,81.214.76.68|3002,"botnet_cc
+100
+https://search.censys.io/hosts/81.214.76.68"
+2025-01-02,Network activity,ip-dst|port,5.180.96.152|443,"botnet_cc
+100
+https://search.censys.io/hosts/5.180.96.152"
+2025-01-02,Network activity,ip-dst|port,91.235.143.28|8080,"botnet_cc
+100
+https://search.censys.io/hosts/91.235.143.28"
+2025-01-02,Network activity,ip-dst|port,103.67.163.105|3435,"botnet_cc
+100
+https://search.censys.io/hosts/103.67.163.105"
+2025-01-02,Network activity,ip-dst|port,187.224.155.169|8181,"botnet_cc
+100
+https://search.censys.io/hosts/187.224.155.169"
+2025-01-02,Network activity,ip-dst|port,116.203.13.109|443,"botnet_cc
+100"
+2025-01-02,Network activity,ip-dst|port,34.1.142.70|80,"botnet_cc
+100"
+2025-01-02,Network activity,url,http://185.81.68.147/data.php,"botnet_cc
+100"
+2025-01-02,Network activity,url,https://sectionobligationpow.site/api,"botnet_cc
+100"
+2025-01-02,Network activity,ip-dst|port,8.217.37.213|8088,"botnet_cc
+100"
+2025-01-02,Network activity,ip-dst|port,119.91.64.209|2096,"botnet_cc
+100"
+2025-01-02,Network activity,ip-dst|port,185.241.126.68|8443,"botnet_cc
+100"
+2025-01-02,Network activity,ip-dst|port,87.120.115.8|3306,"botnet_cc
+100"
+2025-01-02,Network activity,ip-dst|port,141.147.143.12|443,"botnet_cc
+100"
+2025-01-02,Network activity,ip-dst|port,101.201.54.74|2222,"botnet_cc
+100
+https://search.censys.io/hosts/101.201.54.74"
+2025-01-02,Network activity,ip-dst|port,45.141.26.234|7000,"botnet_cc
+100"
+2025-01-02,Network activity,domain,home.fiveth5vs.top,"botnet_cc
+100"
+2025-01-02,Network activity,domain,eighth8vs.top,"botnet_cc
+100"
+2025-01-02,Network activity,domain,home.oneth1vs.top,"botnet_cc
+100"
+2025-01-02,Network activity,domain,nineth9vs.top,"botnet_cc
+100"
+2025-01-02,Network activity,domain,sixth6vs.top,"botnet_cc
+100"
+2025-01-02,Network activity,url,http://185.148.3.216/5fr5gthkjdg71,"payload_delivery
+100
+https://app.any.run/tasks/5f2f1d23-4c0c-454a-9c25-7884c697628e"
+2025-01-02,Network activity,ip-dst|port,185.148.3.216|4000,"botnet_cc
+100
+https://app.any.run/tasks/5f2f1d23-4c0c-454a-9c25-7884c697628e"
+2025-01-02,Network activity,ip-dst|port,185.172.175.125|505,"botnet_cc
+100"
+2025-01-02,Network activity,domain,abolhb.com,"botnet_cc
+75"
+2025-01-02,Network activity,url,http://event.windowserrorapis.com:8443/jquery-3.3.1.min.js,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/1e5c0566095b5fd64e3d75f7370e99ffc3dd100fd1e5d28087f2f4ab1ceea319/"
+2025-01-02,Network activity,url,http://45.116.78.127:443/jquery-3.3.1.min.js,"botnet_cc
+75
+https://bazaar.abuse.ch/sample/d2f3bf1f985fdd93088380843143d235c55b7188b99d7e728a1c49f8cbeb0a9e/"
+2025-01-02,Network activity,ip-dst|port,43.136.177.76|6666,"botnet_cc
+100"
+2025-01-02,Network activity,ip-dst|port,23.226.57.67|4433,"botnet_cc
+100"
+2025-01-02,Network activity,url,https://mirugby.com/5op9.js,"payload_delivery
+100
+https://infosec.exchange/@monitorsg/113758439045486107"
+2025-01-02,Network activity,domain,mirugby.com,"payload_delivery
+100
+https://infosec.exchange/@monitorsg/113758439045486107"
+2025-01-02,Network activity,url,https://mirugby.com/js.php,"payload_delivery
+100
+https://infosec.exchange/@monitorsg/113758439045486107"
+2025-01-02,Network activity,ip-dst|port,103.37.40.76|56005,"botnet_cc
+100
+https://search.censys.io/hosts/103.37.40.76"
+2025-01-02,Network activity,ip-dst|port,103.37.40.76|56003,"botnet_cc
+100
+https://search.censys.io/hosts/103.37.40.76"
+2025-01-02,Network activity,ip-dst|port,117.18.13.97|80,"botnet_cc
+100
+https://search.censys.io/hosts/117.18.13.97"
+2025-01-02,Network activity,ip-dst|port,93.183.78.36|63655,"botnet_cc
+100"
+2025-01-02,Network activity,url,http://mnudybh4unh.top/1.php,"payload_delivery
+100
+https://infosec.exchange/@monitorsg/113758909596280066"
+2025-01-02,Network activity,ip-dst|port,185.65.68.247|6522,"botnet_cc
+100"

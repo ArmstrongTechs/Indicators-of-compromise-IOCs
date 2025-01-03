@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: RDP bruteforce Attackers [2024-12-31]
+| UUID: ca64c694-8278-4296-8351-4ed1e252c967
+| Date: 2024-12-31
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-01,Network activity,ip-src,185.42.12.81,Source: alienvault
+2025-01-01,Network activity,ip-src,65.49.1.10,Source: alienvault
+2025-01-01,Network activity,ip-src,81.19.135.171,Source: alienvault
+2025-01-01,Network activity,ip-src,205.210.31.178,Source: alienvault
