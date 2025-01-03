@@ -1,0 +1,20 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH25-01036 [Fraude] [Phishing]
+| UUID: d0ff6ccb-16aa-4693-a679-353adafd5397
+| Date: 2025-01-02
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-03,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+Se trata de una nueva campaña de phishing a través de SMS, que suplanta a Netflix.En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente:&quot;No se pudo procesar tu ultimo pago. Tu cuenta quedara inactiva el 03/01. Reactivala ahora en: {URL}.&quot;El correo electrónico fraudulento incluye un enlace a un formulario malicioso, usado para capturar credenciales de los usuarios.",Resumen
+2025-01-03,Network activity,ip-src,193.143.1.99,IP sitio falso
+2025-01-03,Payload delivery,url,https://netflix-pay.com/how/calcul.php,URL redirección
+2025-01-03,Payload delivery,url,https://netflix-pay.com/index.php,URL sitio falso
+2025-01-03,Payload delivery,url,netflix-pay.com,URL redirección
+2025-01-03,External analysis,attachment,Imagen_de_WhatsApp_2025-01-02_a_las_11.13.15_9f2ab66f.jpg,
+2025-01-03,External analysis,attachment,Imagen_de_WhatsApp_2025-01-02_a_las_11.18.04_7c8484e4.jpg,
+2025-01-03,External analysis,attachment,Imagen_de_WhatsApp_2025-01-02_a_las_11_H5WN5Pr.18.37_7e68c74f.jpg,

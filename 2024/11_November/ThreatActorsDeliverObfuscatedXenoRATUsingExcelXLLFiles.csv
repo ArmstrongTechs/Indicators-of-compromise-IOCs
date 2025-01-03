@@ -1,0 +1,25 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Threat Actors Deliver Obfuscated Xeno RAT Using Excel XLL Files
+| UUID: db180745-204d-45ea-a10b-4c3157b1a03f
+| Date: 2024-11-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-11-21,Payload delivery,filename,ayment_Details.gz.zip,
+2024-11-21,Payload delivery,sha256,7fddca3e05425b8ec73f701334a57532f9b6bc626f8402de5135de91b8a0b59e,
+2024-11-21,Payload delivery,filename,Payment_Details.xll,
+2024-11-21,Payload delivery,sha256,48a60db5241e6ecadbb9705ed014ba58ea9608d5ae0264db04fe70201fd1b152,
+2024-11-21,Payload delivery,filename,Pago.pdf,
+2024-11-21,Payload delivery,sha256,7a0e40d4c39eae8f7415cb44504e04c1baf41f57e797308f026409c7353ed03d,
+2024-11-21,Payload delivery,filename,cfgdf.bat,
+2024-11-21,Payload delivery,sha256,18abc987c2a04a7c576d7a5c86588467cbf6cc2bb15eadbc60c0336e2fff11d8,
+2024-11-21,Payload delivery,filename,cvghfy.sfx.exe,
+2024-11-21,Payload delivery,sha256,72722737a28ed8371130b181f99a12bd7f43b9cb9043e7a1257c08394e57e17b,
+2024-11-21,Payload delivery,filename,cvghfy.exe,
+2024-11-21,Payload delivery,sha256,46affe6213f26e1a5446134c994e14d3f3f500e3c88f7867e3102c4b171cead1,
+2024-11-21,Payload delivery,filename,Original.exe,
+2024-11-21,Payload delivery,sha256,18aa15aaf6886e277aea1333b546be83a56bccdfa7a64ce5243ebed2dd2541fb,
+2024-11-21,Network activity,ip-dst|port,87.120.116.115|1391,On port 1391

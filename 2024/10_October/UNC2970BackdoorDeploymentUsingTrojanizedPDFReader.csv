@@ -1,0 +1,31 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: UNC2970 Backdoor Deployment Using Trojanized PDF Reader
+| UUID: e9ab6e3d-43d9-43df-97e9-d9f167ee5a9e
+| Date: 2024-10-08
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-10-08,Payload delivery,filename,Development.pdf,
+2024-10-08,Payload delivery,md5,28a75771ebdb96d9b49c9369918ca581,
+2024-10-08,Payload delivery,filename,libmupdf.dll,
+2024-10-08,Payload delivery,md5,57e8a7ef21e7586d008d4116d70062a6,
+2024-10-08,Payload delivery,md5,f3baee9c48a2f744a16af30220de5066,
+2024-10-08,Persistence mechanism,regkey,%APPDATA%\Roaming\Microsoft\BDEUI,
+2024-10-08,Payload delivery,filename,Launcher\wtsapi32.dll,
+2024-10-08,Payload delivery,md5,006cbff5d248ab4a1d756bce989830b9,
+2024-10-08,Payload delivery,filename,%APPDATA%\Roaming\Thumbs.ini,
+2024-10-08,Payload delivery,md5,0b77dcee18660bdccaf67550d2e00b00,
+2024-10-08,Payload delivery,md5,b707f8e3be12694b4470255e2ee58c81,
+2024-10-08,Payload delivery,filename,binhex.dll,
+2024-10-08,Payload delivery,md5,cd6dbf51da042c34c6e7ff7b1641837d,
+2024-10-08,Payload delivery,md5,eca8eb8871c7d8f0c6b9c3ce581416ed,
+2024-10-08,Network activity,url,https://graph.microsoft.com/v1.0/me/drive/root:/path/upload/world/266A25710006EF92,
+2024-10-08,Network activity,domain,heropersonas.com,
+2024-10-08,Network activity,url,https://dstvdtt.co.za/wp-content/plugins/social-pug/assets/lib.php,
+2024-10-08,Network activity,url,https://cmasedu.com/wp-content/plugins/kirki/inc/script.php,
+2024-10-08,Network activity,url,https://bmtpakistan.com/solution/wp-content/plugins/one-click-demo-import/assets/asset.php,
+2024-10-08,Network activity,url,https://verisoftsystems.com/wp-content/plugins/optinmonster/views/upgrade-link-style.php,
+2024-10-08,Network activity,url,https://www.clinicabaru.co/wp-content/plugins/caldera-forms/ui/viewer-two/viewer-2.php,

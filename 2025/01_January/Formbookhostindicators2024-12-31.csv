@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-12-31]
+| UUID: 5178ab94-043b-4a82-ba39-cc7ff8c2b263
+| Date: 2024-12-31
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-31,Payload installation,filename,DHL KULI500796821_PO200000035_SCAN.exe,Source: MalwareBazaar
+2024-12-31,Payload installation,md5,da6c6ad36b02e101143d4a9067052821,Source: MalwareBazaar
+2024-12-31,Payload installation,sha1,355c9841fdc962e79142ef1c285bebb167c10e0b,Source: MalwareBazaar
+2024-12-31,Payload installation,sha256,079e0791ef0b94ae0974d6e11a041717933017e0e34d3f1aca6f23c63e8700db,Source: MalwareBazaar
+2024-12-31,Payload installation,filename,KHANA.exe,Source: MalwareBazaar
+2024-12-31,Payload installation,md5,dbb3429469b70a6acf52453740f30438,Source: MalwareBazaar
+2024-12-31,Payload installation,sha1,d2f8e6767edd7db10303be9201ef7a408aa3b4ef,Source: MalwareBazaar
+2024-12-31,Payload installation,sha256,4cf7e80d75cfb9d92f50e61d9fac8f3b859217364a0ada66448b5e3486116f18,Source: MalwareBazaar

@@ -1,0 +1,12 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Detecting Termite Ransomware Using YARA
+| UUID: dd6cdf1e-5104-4e27-a63f-6bf01ab0a0ce
+| Date: 2025-01-02
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-02,Payload delivery,sha256,30a8cf3e6863030c762b468bf48d679f3dd053a80793770443938fa18de89617,
+2025-01-02,Payload delivery,sha256,f0ec54b9dc2e64c214e92b521933cee172283ff5c942cf84fae4ec5b03abab55,

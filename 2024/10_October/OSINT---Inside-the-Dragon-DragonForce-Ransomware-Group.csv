@@ -1,0 +1,33 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: OSINT - Inside the Dragon: DragonForce Ransomware Group
+| UUID: b0454a71-cd8b-440b-bf27-1a52800b2579
+| Date: 2024-10-01
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-10-01,Network activity,ip-dst,185.73.125.8,
+2024-10-01,Network activity,ip-dst,94.232.46.202,
+2024-10-01,Network activity,ip-dst,69.4.234.20,
+2024-10-01,Network activity,ip-dst,2.147.68.96,
+2024-10-01,Network activity,ip-dst,185.59.221.75,
+2024-10-01,Payload delivery,filename,aug\socks.exe,
+2024-10-01,Payload delivery,md5,97b70e89b5313612a9e7a339ee82ab67,
+2024-10-01,Payload delivery,filename,%TEMP%\2\a65.exe,
+2024-10-01,Payload delivery,md5,a50637f5f7a3e462135c0ae7c7af0d91,
+2024-10-01,Payload delivery,filename,%TEMP%\2\netscanold.exe,
+2024-10-01,Payload delivery,md5,bb7c575e798ff5243b5014777253635d,
+2024-10-01,Payload delivery,filename,df.exe,
+2024-10-01,Payload delivery,md5,c111476f7b394776b515249ecb6b20e6,
+2024-10-01,External analysis,link,https://www.group-ib.com/blog/dragonforce-ransomware/,
+2024-10-01,Other,text,"In light of the escalating frequency and complexity of ransomware attacks, are security leaders confident in their organization’s defenses? According to Group-IB’s Hi-Tech Crime Trends 2023/2024 Report, ransomware will have an increasingly significant impact in 2024 and beyond. Key trends driving this include the expansion of the Ransomware-as-a-Service (RaaS) market, the proliferation of stolen data on Dedicated Leak Sites (DLS), and a rise in affiliate programs.
+
+Furthermore, the evolution of ransomware variants is outpacing the advancements in cyber defence, leaving organizations unprepared for the threats on the horizon. To stay ahead, businesses must stay updated on the most pressing cybersecurity threats, and prominent threat actors that have recently emerged and continue to pose significant risks this year and in the future.
+
+In this blog, we delve into the inner workings of the DragonForce ransomware group. Discovered in August 2023, DragonForce has been targeting companies in critical sectors using a variant of a leaked LockBit3.0 builder, and more recently in July 2024 with their own variant of ransomware.",
+2024-10-01,Other,text,Blog,
+2024-10-01,Payload delivery,md5,a50637f5f7a3e462135c0ae7c7af0d91,
+2024-10-01,Network activity,ip-dst,185.73.125.8,
+2024-10-01,Other,text,http://185.73.125.8/,

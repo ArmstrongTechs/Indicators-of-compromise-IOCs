@@ -1,0 +1,12 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: A threat actor is looking for ways to reuse a red team tool, which identifies and fixes vulnerabilities in an organization's security infrastructure, to continuously serve malicious purposes. The actor has observed the use of EDRSilencer, a red team tool that can interfere with Endpoint Detection and Response (EDR) solutions by exploiting the Windows Filtering Platform (WFP)"
+| UUID: 4107666a-206e-4200-b22d-92a74f83f309
+| Date: 2024-11-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-11-20,Payload delivery,sha256,721af117726af1385c08cc6f49a801f3cf3f057d9fd26fcec2749455567888e7,
+2024-11-20,Payload delivery,filename,HackTool.Win64.EDRSilencer.REDT,

@@ -1,0 +1,86 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Redis bruteforce Attackers [2025-01-02]
+| UUID: 80db7a54-018a-4279-8355-63f1434419a4
+| Date: 2025-01-02
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-03,Network activity,ip-src,167.94.138.36,Source: alienvault
+2025-01-03,Network activity,ip-src,185.247.137.103,Source: alienvault
+2025-01-03,Network activity,ip-src,185.247.137.108,Source: alienvault
+2025-01-03,Network activity,ip-src,185.247.137.78,Source: alienvault
+2025-01-03,Network activity,ip-src,185.247.137.91,Source: alienvault
+2025-01-03,Network activity,ip-src,185.247.137.94,Source: alienvault
+2025-01-03,Network activity,ip-src,8.153.105.168,Source: alienvault
+2025-01-03,Network activity,ip-src,48.217.211.229,Source: alienvault
+2025-01-03,Network activity,ip-src,87.236.176.101,Source: alienvault
+2025-01-03,Network activity,ip-src,88.214.25.64,Source: alienvault
+2025-01-03,Network activity,ip-src,87.236.176.108,Source: alienvault
+2025-01-03,Network activity,ip-src,87.236.176.79,Source: alienvault
+2025-01-03,Network activity,ip-src,87.236.176.84,Source: alienvault
+2025-01-03,Network activity,ip-src,87.236.176.90,Source: alienvault
+2025-01-03,Network activity,ip-src,5.101.0.66,Source: alienvault
+2025-01-03,Network activity,ip-src,185.247.137.122,Source: alienvault
+2025-01-03,Network activity,ip-src,203.6.229.120,Source: alienvault
+2025-01-03,Network activity,ip-src,87.236.176.110,Source: alienvault
+2025-01-03,Network activity,ip-src,87.236.176.140,Source: alienvault
+2025-01-03,Network activity,ip-src,8.130.77.167,Source: alienvault
+2025-01-03,Network activity,ip-src,87.236.176.123,Source: alienvault
+2025-01-03,Network activity,ip-src,87.236.176.142,Source: alienvault
+2025-01-03,Network activity,ip-src,87.236.176.118,Source: alienvault
+2025-01-03,Network activity,ip-src,87.236.176.144,Source: alienvault
+2025-01-03,Network activity,ip-src,87.236.176.116,Source: alienvault
+2025-01-03,Network activity,ip-src,87.236.176.115,Source: alienvault
+2025-01-03,Network activity,ip-src,185.247.137.140,Source: alienvault
+2025-01-03,Network activity,ip-src,87.236.176.137,Source: alienvault
+2025-01-03,Network activity,ip-src,185.247.137.134,Source: alienvault
+2025-01-03,Network activity,ip-src,87.236.176.121,Source: alienvault
+2025-01-03,Network activity,ip-src,165.227.86.236,Source: alienvault
+2025-01-03,Network activity,ip-src,87.236.176.129,Source: alienvault
+2025-01-03,Network activity,ip-src,185.247.137.107,Source: alienvault
+2025-01-03,Network activity,ip-src,137.184.215.98,Source: alienvault
+2025-01-03,Network activity,ip-src,207.90.244.18,Source: alienvault
+2025-01-03,Network activity,ip-src,3.142.47.109,Source: alienvault
+2025-01-03,Network activity,ip-src,167.94.146.49,Source: alienvault
+2025-01-03,Network activity,ip-src,198.235.24.108,Source: alienvault
+2025-01-03,Network activity,ip-src,87.236.176.81,Source: alienvault
+2025-01-03,Network activity,ip-src,185.247.137.129,Source: alienvault
+2025-01-03,Network activity,ip-src,206.189.226.193,Source: alienvault
+2025-01-03,Network activity,ip-src,167.94.146.51,Source: alienvault
+2025-01-03,Network activity,ip-src,185.247.137.90,Source: alienvault
+2025-01-03,Network activity,ip-src,91.238.181.33,Source: alienvault
+2025-01-03,Network activity,ip-src,47.237.166.20,Source: alienvault
+2025-01-03,Network activity,ip-src,51.81.144.42,Source: alienvault
+2025-01-03,Network activity,ip-src,104.40.85.15,Source: alienvault
+2025-01-03,Network activity,ip-src,147.185.132.231,Source: alienvault
+2025-01-03,Network activity,ip-src,161.35.59.131,Source: alienvault
+2025-01-03,Network activity,ip-src,199.45.154.138,Source: alienvault
+2025-01-03,Network activity,ip-src,147.182.162.74,Source: alienvault
+2025-01-03,Network activity,ip-src,157.245.140.249,Source: alienvault
+2025-01-03,Network activity,ip-src,198.235.24.223,Source: alienvault
+2025-01-03,Network activity,ip-src,4.156.236.151,Source: alienvault
+2025-01-03,Network activity,ip-src,67.205.132.255,Source: alienvault
+2025-01-03,Network activity,ip-src,67.205.138.98,Source: alienvault
+2025-01-03,Network activity,ip-src,52.39.109.64,Source: alienvault
+2025-01-03,Network activity,ip-src,185.247.137.98,Source: alienvault
+2025-01-03,Network activity,ip-src,69.164.217.74,Source: alienvault
+2025-01-03,Network activity,ip-src,149.202.132.199,Source: alienvault
+2025-01-03,Network activity,ip-src,71.6.134.231,Source: alienvault
+2025-01-03,Network activity,ip-src,104.40.57.37,Source: alienvault
+2025-01-03,Network activity,ip-src,193.46.255.73,Source: alienvault
+2025-01-03,Network activity,ip-src,13.83.41.180,Source: alienvault
+2025-01-03,Network activity,ip-src,206.189.228.222,Source: alienvault
+2025-01-03,Network activity,ip-src,87.236.176.91,Source: alienvault
+2025-01-03,Network activity,ip-src,44.220.188.163,Source: alienvault
+2025-01-03,Network activity,ip-src,91.238.181.32,Source: alienvault
+2025-01-03,Network activity,ip-src,44.243.253.85,Source: alienvault
+2025-01-03,Network activity,ip-src,57.152.78.142,Source: alienvault
+2025-01-03,Network activity,ip-src,172.168.152.23,Source: alienvault
+2025-01-03,Network activity,ip-src,45.79.172.21,Source: alienvault
+2025-01-03,Network activity,ip-src,206.189.224.97,Source: alienvault
+2025-01-03,Network activity,ip-src,167.94.138.201,Source: alienvault
+2025-01-03,Network activity,ip-src,87.236.176.80,Source: alienvault
+2025-01-03,Network activity,ip-src,87.236.176.92,Source: alienvault

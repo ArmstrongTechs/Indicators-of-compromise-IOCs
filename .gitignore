@@ -6,4 +6,8 @@ p2_event-list/
 p3_export_iocs/
 p4_git-upload-iocs/
 event_id.txt
+.env
+.secret
+setup.sh
+auto-iocs.sh
 >>>>>>> 7af29ef402da1b41cb487fa399eb090c99ae6064

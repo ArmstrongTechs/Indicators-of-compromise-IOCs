@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2025-01-01]
+| UUID: 1bc1217d-8f16-49a4-94e6-a04b4b0f1904
+| Date: 2025-01-01
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-02,Payload installation,filename,TT copt mt103.pdf.r00,Source: MalwareBazaar
+2025-01-02,Payload installation,md5,a66f13bf9dab0bab6a3446e1a80f48fb,Source: MalwareBazaar
+2025-01-02,Payload installation,sha1,e4f4ebf7d25a30ae18098f1adbc67b522d5335ea,Source: MalwareBazaar
+2025-01-02,Payload installation,sha256,47a8e5c27218e4ec11d4fb2f16d993c2c84a686407d417ed023199149e465d59,Source: MalwareBazaar
+2025-01-02,Payload installation,filename,Invoice for AWB 22123.r15,Source: MalwareBazaar
+2025-01-02,Payload installation,md5,6ec95577b1d102e4e02371c31a872e86,Source: MalwareBazaar
+2025-01-02,Payload installation,sha1,a2b8d4cf7b920f09af650ed277a2f928717677c1,Source: MalwareBazaar
+2025-01-02,Payload installation,sha256,b0bbd2542bc257b4494e679157edbb972ae9250e4cbe08f256fa296bea934ffb,Source: MalwareBazaar

@@ -1,0 +1,21 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Preventing The More_eggs Backdoor From Hatching
+| UUID: 998be9f8-5ec0-4e4e-8338-57b2c03986f6
+| Date: 2024-10-03
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-10-03,Payload delivery,sha224,5131dbacb92fce5a59ac92893fa059c16cf8293e9abc26f2a61f9edd,
+2024-10-03,Payload delivery,sha224,624afe730923440468cae991383dd1f7be1dadf65fa4cb2b21e3e5a9,
+2024-10-03,Payload delivery,sha256,ccf8276b55398030b6b7269136c5ee26a5c422d68793dc9ec5adee79a057c7f4,
+2024-10-03,Payload delivery,sha256,f2196309bc97e22447f6e168a9afbbb4291edd1cca51bf3789939c3618a63ec0,
+2024-10-03,Payload delivery,sha256,3beda3377b060a89b41553485e06e42b69d10610f21a4a443f75b39605397271,
+2024-10-03,Payload delivery,sha224,d207aebf701c7fb44fe06993f020ac3527680c7fa8492a0b5f6154ca,
+2024-10-03,Network activity,url,https://1212055764.johncboins.com/some/036e91fc8cc899cc20f7e011fa6a0861/sbosf,
+2024-10-03,Network activity,url,http://36hbhv.johncboins.com/fjkabrhhg,
+2024-10-03,Network activity,url,https://webmail.raysilkman.com,
+2024-10-03,Payload delivery,email-src,fayereed11@gmail.com,
+2024-10-03,Persistence mechanism,regkey,"HKCU\Environment /t 1 /v userinitmprlogonscript /d cscripT -e:jsCript ""%APPDATA%\ Microsoft\D30F38D93CA9185.txt",

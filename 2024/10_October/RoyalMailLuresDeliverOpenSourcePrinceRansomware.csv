@@ -1,0 +1,21 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Royal Mail Lures Deliver Open Source Prince Ransomware
+| UUID: 116586b8-7a96-4eb8-a77b-d91555d0f19e
+| Date: 2024-10-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-10-22,Payload delivery,email-src,tedra_yrigollen@proton.me,
+2024-10-22,Payload delivery,email-src,chitra_mcintire@proton.me,
+2024-10-22,Payload delivery,email-src,indiracasciato@proton.me,
+2024-10-22,Payload delivery,sha256,ad1983a13a06919c9b8da04727ea3c210e9d19e0598c0811e4b8355b5a98589e,
+2024-10-22,Payload delivery,sha256,e2a187babf980f024b94fa2cb4a93948d70c1e15bed1eccf975ab6c562754149,
+2024-10-22,Payload delivery,sha256,226b653e57484de58148b455b714dcb551a52eda5a3a6d8210095aab96d782df,
+2024-10-22,Payload delivery,filename,invoice.pdf,
+2024-10-22,Payload delivery,filename,package.pdf,
+2024-10-22,Network activity,url,https://www.dropbox.com/scl/fi/mu7msnqo874aordmf8fde/DELIVERY-0762219.zip?rlkey=lvn0m26gns2vyrqq7ywmvbzui&st=1ztiqago&dl=1,
+2024-10-22,Network activity,url,https://www.dropbox.com/scl/fi/km75dn4jxaa43o8jhfcrj/PACKAGE-0074752.zip?rlkey=rbehnzefvtuo179mi2y9j2gic&st=i2ahwky6&dl=1,
+2024-10-22,Financial fraud,btc,bc1qszvk94jc7tmlac6we7ktkz09p924h6ahaq4qnz,

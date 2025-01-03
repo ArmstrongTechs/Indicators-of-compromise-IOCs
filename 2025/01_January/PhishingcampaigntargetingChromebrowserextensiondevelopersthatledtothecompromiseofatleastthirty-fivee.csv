@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Phishing campaign targeting Chrome browser extension developers that led to the compromise of at least thirty-five extensions to inject data-stealing code
+| UUID: 6208b553-07c2-4d0c-b702-12e5c22c69bc
+| Date: 2025-01-03
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-03,Network activity,domain,supportchromestore.com,
+2025-01-03,Network activity,domain,forextensions.com,
+2025-01-03,Network activity,domain,chromeforextension.com,

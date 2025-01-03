@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Using Sigma to Detect the Download of MSI Files Used to Deliver BumbleBee Loader
+| UUID: acdeee60-6e32-49b2-a104-d7114e7f4e4a
+| Date: 2024-11-04
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-11-04,Payload delivery,sha256,106c81f547cfe8332110520c968062004ca58bcfd2dbb0accd51616dd694721f,
+2024-11-04,Network activity,url,http://193.242.145.138/mid/w1/Midjourney.msi,
+2024-11-04,Payload delivery,filename,README.md,
