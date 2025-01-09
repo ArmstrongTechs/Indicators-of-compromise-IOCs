@@ -1,6 +1,6 @@
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
-| Title: Phishing findings
-| UUID: 9712d1f7-9fbb-4ee1-8ffc-56940b56f8d1
+| Title: Phishing URL findings
+| UUID: 4607fd25-1209-40fa-9ab5-d04b92fe31ad
 | Date: 2025-01-06
 "| Author: Armstrong Techs, Research Lab"
 | References: https://www.armstrongtechs.com/
@@ -8,4 +8,5 @@
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
 
 Date,Category,Type,Value,Comment
-2025-01-06,Network activity,url,https://gabrielacontre.69-48-179-239.cprapid.com/short/,
+2025-01-07,Network activity,url,https://vlnted-gb.confirm9152.info/id/267015188,Source URL
+2025-01-07,Network activity,domain,vlnted-gb.confirm9152.info,Source Domain

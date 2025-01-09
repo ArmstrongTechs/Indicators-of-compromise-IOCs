@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Malicious npm Package Deploys Quasar RAT to Target Windows Systems
+| UUID: 4ff228df-78df-4776-9d00-5ee0a046e5a0
+| Date: 2025-01-09
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-09,Network activity,domain,captchacdn.com,On port 7000
+2025-01-09,Network activity,ip-dst,154.216.17.47,
+2025-01-09,Network activity,url,https[://]jujuju.lat/files/kk.cmd,
+2025-01-09,Payload delivery,sha256,9c3d53c7723bfdd037df85de4c26efcd5e6f4ad58cc24f7a38a774bf22de3876,

@@ -1,0 +1,20 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: A new, malicious campaign is making the rounds online and it starts simple: Unwitting targets receive a direct message (DM) on a Discord server asking about their interest in beta testing a new videogame (targets can also receive a text message or an email). Often, the message comes from the “developer” themselves, as asking whether you can try a game that they personally made is a common method to lure victims. If interested, the victim will receive a download link and a password for the archive containing the promised installe"
+| UUID: 16ed4d50-a851-43f4-937e-cd28b9ae5c79
+| Date: 2025-01-06
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-06,Network activity,domain,dualcorps.fr,
+2025-01-06,Network activity,domain,leyamor.com,
+2025-01-06,Network activity,domain,crystalsiege.com,
+2025-01-06,Network activity,domain,crystalsiege.online,
+2025-01-06,Network activity,hostname,dungeonofdestiny.pages.dev,
+2025-01-06,Network activity,hostname,mazenugame.blogspot.com,
+2025-01-06,Payload delivery,filename,mazenugames.[]blogspot.com,
+2025-01-06,Network activity,hostname,yemozagame.blogspot.com,
+2025-01-06,Network activity,hostname,domenubeta.blogspot.com,
+2025-01-06,Network activity,hostname,domenugame.blogspot.com,

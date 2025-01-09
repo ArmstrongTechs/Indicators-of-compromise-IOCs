@@ -1,6 +1,6 @@
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
-| Title: Phishing findings
-| UUID: 9712d1f7-9fbb-4ee1-8ffc-56940b56f8d1
+| Title: Redis bruteforce Attackers [2025-01-06]
+| UUID: e3084465-a62b-4747-8729-5f1868ac082a
 | Date: 2025-01-06
 "| Author: Armstrong Techs, Research Lab"
 | References: https://www.armstrongtechs.com/
@@ -8,4 +8,5 @@
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
 
 Date,Category,Type,Value,Comment
-2025-01-06,Network activity,url,https://gabrielacontre.69-48-179-239.cprapid.com/short/,
+2025-01-07,Network activity,ip-src,167.94.138.168,Source: alienvault
+2025-01-07,Network activity,ip-src,157.230.14.224,Source: alienvault

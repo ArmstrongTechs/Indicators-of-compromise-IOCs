@@ -1,6 +1,6 @@
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
-| Title: Phishing findings
-| UUID: 9712d1f7-9fbb-4ee1-8ffc-56940b56f8d1
+| Title: VNC bruteforce Attackers [2025-01-06]
+| UUID: e5118654-371d-4182-971b-554d0bcbd268
 | Date: 2025-01-06
 "| Author: Armstrong Techs, Research Lab"
 | References: https://www.armstrongtechs.com/
@@ -8,4 +8,4 @@
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
 
 Date,Category,Type,Value,Comment
-2025-01-06,Network activity,url,https://gabrielacontre.69-48-179-239.cprapid.com/short/,
+2025-01-07,Network activity,ip-src,104.248.69.157,Source: alienvault

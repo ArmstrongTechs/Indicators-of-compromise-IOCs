@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2025-01-06]
+| UUID: e20bb3fc-f198-4a50-96ca-dcbb4c68056f
+| Date: 2025-01-06
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-06,Payload installation,filename,2024 tagihan.exe,Source: MalwareBazaar
+2025-01-06,Payload installation,md5,870b700a93942a80deae8eafd7fef972,Source: MalwareBazaar
+2025-01-06,Payload installation,sha1,6daf90b72e9cf81a4b31669d03d753a7b3ab83ba,Source: MalwareBazaar
+2025-01-06,Payload installation,sha256,d2196a161741acc9a33cab7859e04c625ee492f31dc96a17c57cacb2517f61c7,Source: MalwareBazaar
+2025-01-06,Payload installation,filename,2024 tagihan.pdf.rar,Source: MalwareBazaar
+2025-01-06,Payload installation,md5,f5d982e4b7fb78e864c37fc70697e7e4,Source: MalwareBazaar
+2025-01-06,Payload installation,sha1,8a9d80db9f26cceb860577334b38f3f7914f2944,Source: MalwareBazaar
+2025-01-06,Payload installation,sha256,294f18c24c0c96940257afbfd341e4728e9cd071da0e9519ea7bdd31f80f9fbf,Source: MalwareBazaar
+2025-01-07,Payload installation,filename,SAL987656700.exe,Source: MalwareBazaar
+2025-01-07,Payload installation,md5,a885a9c7468691538b78d54852b5a59c,Source: MalwareBazaar
+2025-01-07,Payload installation,sha1,1b2340a366a6b28ac9d30f31bacef95afd0de595,Source: MalwareBazaar
+2025-01-07,Payload installation,sha256,d2d196a12c822020c4042d607be77746951b6cb3c16201ff21ca8e9c5c786209,Source: MalwareBazaar
+2025-01-07,Payload installation,filename,SAL987656700.doc.xz,Source: MalwareBazaar
+2025-01-07,Payload installation,md5,3fb192ad0a058bd5bae43fbbc5c4c614,Source: MalwareBazaar
+2025-01-07,Payload installation,sha1,7c2fa2ed23a99a52e3df0df4c6fc04e77d76589a,Source: MalwareBazaar
+2025-01-07,Payload installation,sha256,604d52dc3b6056ad0090d858a4ecae497fe1c0bfea2fd67576cfba4f389333f6,Source: MalwareBazaar
