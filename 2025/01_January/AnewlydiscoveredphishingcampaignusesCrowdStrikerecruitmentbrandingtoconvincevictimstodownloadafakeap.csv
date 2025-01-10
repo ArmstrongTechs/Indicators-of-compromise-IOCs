@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: A newly discovered phishing campaign uses CrowdStrike recruitment branding to convince victims to download a fake application, which serves as a downloader for the XMRig cryptomine"
+| UUID: 290f6e6d-d3f7-44a4-91eb-f3aa9e569664
+| Date: 2025-01-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-10,Network activity,domain,cscrm-hiring.com,
+2025-01-10,Network activity,url,https://cscrm-hiring.com/cs-applicant-crm-installer.zip,
+2025-01-10,Network activity,ip-dst,93.115.172.41,
+2025-01-10,Network activity,url,http://93.115.172.41/private/aW5zdHJ1Y3Rpb25zCg==.txt,
+2025-01-10,Network activity,ip-dst|port,93.115.172.41|1300,On port 1300
+2025-01-10,Payload delivery,sha256,96558bd6be9bcd8d25aed03b996db893ed7563cf10304dffe6423905772bbfa1,
+2025-01-10,Payload delivery,sha256,62f3a21db99bcd45371ca4845c7296af81ce3ff6f0adcaee3f1698317dd4898b,
+2025-01-10,Payload delivery,sha256,7c370211602fcb54bc988c40feeb3c45ce249a8ac5f063b2eb5410a42adcc030,
+2025-01-10,Persistence mechanism,filename,%TEMP%\System\temp.zip,
+2025-01-10,Persistence mechanism,filename,%TEMP%\System\process.exe,
+2025-01-10,Persistence mechanism,filename,%LOCALAPPDATA%\System32\config.exe,
+2025-01-10,Persistence mechanism,filename,%LOCALAPPDATA%\System32\process.exe,
+2025-01-10,Persistence mechanism,regkey,%APPDATA%\Microsoft\Windows\Start,
+2025-01-10,Persistence mechanism,filename,Menu\Programs\Maintenance\info.txt,
+2025-01-10,Persistence mechanism,filename,Menu\Programs\Startup\startup.bat,
+2025-01-10,Persistence mechanism,regkey,HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\config,

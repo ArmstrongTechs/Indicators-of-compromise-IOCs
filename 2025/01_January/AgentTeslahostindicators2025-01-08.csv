@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2025-01-08]
+| UUID: 9db257b0-568f-4793-a7f8-189e521ec35d
+| Date: 2025-01-08
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-08,Payload installation,filename,TR98760H.exe,Source: MalwareBazaar
+2025-01-08,Payload installation,md5,6a52dd7596c5dad865e414e58d84eb9d,Source: MalwareBazaar
+2025-01-08,Payload installation,sha1,62437efb5194184f5db6647a81c7a14bcbb498e9,Source: MalwareBazaar
+2025-01-08,Payload installation,sha256,dea077180d1a981a1a9bd8f901bc177236825f173e5e2394161811797933fdc2,Source: MalwareBazaar
+2025-01-08,Payload installation,filename,proforma invoice pdf.exe,Source: MalwareBazaar
+2025-01-08,Payload installation,md5,b67477603738159b912b0aa9c197897f,Source: MalwareBazaar
+2025-01-08,Payload installation,sha1,51a14b917e8393a3c1ded172bb04c494fdd727e3,Source: MalwareBazaar
+2025-01-08,Payload installation,sha256,67cc97b2f5e9d35039589c92c7f6fda7831af0f259ddf248fb166664e4027b91,Source: MalwareBazaar

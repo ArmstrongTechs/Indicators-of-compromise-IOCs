@@ -1,0 +1,15 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Spyware distributed through Amazon Appstore
+| UUID: 262e2b7b-fa51-4471-acf2-0bb21ef75aa0
+| Date: 2025-01-09
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-09,Network activity,url,https://www.amazon.com/PT-Visionet-Data-Internasional-CalculationVsn/dp/B0DK1B7ZM5/,
+2025-01-09,Network activity,url,https://firebaseinstallations.googleapis.com/v1/projects/testmlwr-d4dd7,
+2025-01-09,Network activity,url,https://6708c6e38e86a8d9e42ffe93.mockapi.io/,
+2025-01-09,Network activity,hostname,testmlwr-d4dd7.appspot.com,
+2025-01-09,Payload delivery,sha256,8477891c4631358c9f3ab57b0e795e1dcf468d94a9c6b6621f8e94a5f91a3b6a,

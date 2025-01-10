@@ -1,12 +1,11 @@
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
-| Title: Scam URL findings
-| UUID: 189c8fcf-9951-47ee-ba0e-71e4ae8a91ba
-| Date: 2025-01-08
+| Title: QuasarRAT network indicators [2025-01-07]
+| UUID: c8eed9df-217a-4e67-88fa-54c740cb40c4
+| Date: 2025-01-07
 "| Author: Armstrong Techs, Research Lab"
 | References: https://www.armstrongtechs.com/
 | TLP:CLEAR
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
 
 Date,Category,Type,Value,Comment
-2025-01-08,Network activity,url,https://rabotaophome.com/eu?,Scam website
-2025-01-08,External analysis,attachment,screenshot.png,
+2025-01-08,Network activity,url,https://github.com/apoxyies/deeneme/raw/refs/heads/main/RuntimeBroker.exe,Source: urlhaus

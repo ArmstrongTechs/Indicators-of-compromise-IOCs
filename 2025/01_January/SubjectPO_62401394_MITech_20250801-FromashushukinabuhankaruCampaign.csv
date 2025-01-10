@@ -1,0 +1,62 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: PO_62401394_MITech_20250801 - From: a.shushukina@buhanka.ru"" Campaign"
+| UUID: 66cfd187-2f99-417a-9f92-af18320f7f70
+| Date: 2025-01-08
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-08,Payload delivery,email-src,a.shushukina@buhanka.ru,Source email: from a.shushukina@buhanka.ru - subject: PO_62401394_MITech_20250801
+2025-01-08,Payload delivery,email-src-display-name,Алена Шушукина,Source email: from a.shushukina@buhanka.ru - subject: PO_62401394_MITech_20250801
+2025-01-08,Payload delivery,email-body,"Dear, informacje",Source email: from a.shushukina@buhanka.ru - subject: PO_62401394_MITech_20250801
+2025-01-08,Payload delivery,email-subject,PO_62401394_MITech_20250801,Source: from a.shushukina@buhanka.ru - subject: PO_62401394_MITech_20250801
+2025-01-08,Payload delivery,filename|sha256,PO_62401394_MITech_20250601.Pdf.7z|c4e873025fcc7de66cbc168b42854cf4f9a25ad9d191789b3535c3c8964ae5a9,Malspam attachment - source: from a.shushukina@buhanka.ru - subject: PO_62401394_MITech_20250801 mime: application/x-rar
+2025-01-08,Payload delivery,filename|ssdeep,PO_62401394_MITech_20250601.Pdf.7z|6144:yqE3fTKKTD8AO4ian0X8XnfkELz0v9DaMaM8Q9Cb2wf1wVO7UcwVIWj7G9cVy:sbs4iiz0FDaMavf0O7Fwjj7Gec,Malspam attachment - source: from a.shushukina@buhanka.ru - subject: PO_62401394_MITech_20250801 mime: application/x-rar
+2025-01-08,Payload delivery,filename|sha1,PO_62401394_MITech_20250601.Pdf.7z|93013588d948e07f26e9538ba026d96ddee75139,Malspam attachment - source: from a.shushukina@buhanka.ru - subject: PO_62401394_MITech_20250801 mime: application/x-rar
+2025-01-08,Payload delivery,filename|sha512,PO_62401394_MITech_20250601.Pdf.7z|792cf0551fed9e993a925fe70b3cb4f6ff7b491e358d12ed8d547ed8fa6f248fabc2da7eb97bf85571a9cf4f024b663e817f3de1938a511154d35325d2984aab,Malspam attachment - source: from a.shushukina@buhanka.ru - subject: PO_62401394_MITech_20250801 mime: application/x-rar
+2025-01-08,Payload delivery,filename|md5,PO_62401394_MITech_20250601.Pdf.7z|e2a65e04e535a9a2e441ad8814243f3c,Malspam attachment - source: from a.shushukina@buhanka.ru - subject: PO_62401394_MITech_20250801 mime: application/x-rar
+2025-01-08,Payload delivery,filename|sha1,PO_62401394_MITech_20250601.exe|4ad60b0dc750db8e158eeb6c020638f476c3298a,Archive contents - source: PO_62401394_MITech_20250601.Pdf.7z mime: application/x-dosexec
+2025-01-08,Payload delivery,filename|ssdeep,PO_62401394_MITech_20250601.exe|6144:F8ls/dPZs9JZY9iOKuxO9oTDFgxTFLVwkBDSiQ3ro+Z:F/dhQJqiOKsPDOZLGeDk3r,Archive contents - source: PO_62401394_MITech_20250601.Pdf.7z mime: application/x-dosexec
+2025-01-08,Payload delivery,filename|sha256,PO_62401394_MITech_20250601.exe|fb2a72faafc798d6d34f0a05f3603a36a66b684967e325051c8913ef0e118fa0,Archive contents - source: PO_62401394_MITech_20250601.Pdf.7z mime: application/x-dosexec
+2025-01-08,Payload delivery,filename|sha512,PO_62401394_MITech_20250601.exe|fc6835806cdbf60b231680c085a81c9ec766c3aec98b9864525adb2b8d0a62edb83dcefe5e329fa0ae02716986a77921ce7bf13e3d2b698ac9f24b0c37d2c342,Archive contents - source: PO_62401394_MITech_20250601.Pdf.7z mime: application/x-dosexec
+2025-01-08,Payload delivery,filename|md5,PO_62401394_MITech_20250601.exe|b01928cd0befa10c1c43b3339e03bd8d,Archive contents - source: PO_62401394_MITech_20250601.Pdf.7z mime: application/x-dosexec
+2025-01-08,Payload delivery,filename|md5,86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe|e6a0fe6802619dcfe31616f794840472,Extracted from PO_62401394_MITech_20250601.exe; mime: application/x-dosexec
+2025-01-08,Payload delivery,filename|sha1,86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe|42254ad9f884bcda2a86aca277b9692410b3456e,Extracted from PO_62401394_MITech_20250601.exe; mime: application/x-dosexec
+2025-01-08,Payload delivery,filename|sha256,86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe|86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257,Extracted from PO_62401394_MITech_20250601.exe; mime: application/x-dosexec
+2025-01-08,Payload delivery,filename|sha512,86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe|b5a593b169c036a9c986222adc998d8c0b1be9524469a9e40934b76644d7be2c109414af9801f2a02fe7dbfecd837d7b749b31e7f718bcfac4ca9467a5365eda,Extracted from PO_62401394_MITech_20250601.exe; mime: application/x-dosexec
+2025-01-08,Payload delivery,filename|ssdeep,86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe|6144:6c5jBMwnAwTaY8MBmj2PJ2IhvNqDUkvW9JcDn8aSa/Ozy3kZ:/LMw7koJ2Ih9t9yDnzbj,Extracted from PO_62401394_MITech_20250601.exe; mime: application/x-dosexec
+2025-01-08,Network activity,domain,adadev.info,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,al-madinatraders.shop,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,allsalewatermost.shop,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,autonomousoid.pro,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,champs-cloud.systems,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,chiro.live,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,cifasnc.info,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,deadshoy.tech,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,denture-prices.click,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,ebsmadrid.store,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,erexolsk.shop,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,gayhxi.info,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,gern.dev,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,grimbo.boats,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,investshares.net,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,j84gc174d.shop,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,jrcov55qgcxp5fwa.top,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,lonfor.website,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,missvet.net,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,moyu19.pro,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,nextlevel.finance,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,nosolofichas.online,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,odvfr.info,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,promocao.info,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,sagaswap.xyz,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,samehadaku.red,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,sob.rip,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,sonixingenuine.shop,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,surev.tech,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,u75lmwdgp0du.homes,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,woodsplace.net,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,wuyyv4tq.top,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
+2025-01-08,Network activity,domain,x3kwqc5tye4vl90y.top,Source: Network activity from 86c2dc97a9391346d77f7193aa4fc189540a61a524169676481cc652b63ec257.exe; Decoy domain
