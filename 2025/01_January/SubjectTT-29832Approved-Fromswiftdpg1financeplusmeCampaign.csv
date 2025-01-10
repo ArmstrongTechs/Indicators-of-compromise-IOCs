@@ -1,0 +1,374 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: TT-29832 Approved - From: swiftdpg1@financeplus.me"" Campaign"
+| UUID: 2d9c360d-a353-4fcd-9034-ef0b45da1887
+| Date: 2025-01-07
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-07,Payload delivery,email-src,swiftdpg1@financeplus.me,Source email: from swiftdpg1@financeplus.me - subject: TT-29832 Approved
+2025-01-07,Payload delivery,email-src-display-name,Swift Alliance,Source email: from swiftdpg1@financeplus.me - subject: TT-29832 Approved
+2025-01-07,Payload delivery,email-body,"﻿<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <!-- Keep the placeholders below intact -->
+    <meta name=""generator"" content=""vSNETvfarObYwF7MmeNSxmoeZVjCmsZ9SvdkpEY4cBIXj9Vs8idvVWOdb9uDowsahUtGZFIDFnduCD0FVjqjPE"">
+    <meta name=""version"" content=""JIhCoqjqaZAOHRJyfuV4WrBd9PzIr1aArMiiSJUWQuEfNktk85b0jgb1pCNkuxkb31IgNaGsiFqBhwh"">
+    <meta name=""build"" content=""gXOzX7xd5CcQQWHEOcm5ubAT6440SKmZJt0gfNYLoIk2Gy"">
+    <meta name=""timestamp"" content=""iCYSNwnKIrRPFHotn2UzBSTVzUR0ahMFibctyMPCyot49bYolmBog"">
+    <meta name=""session"" content=""Q7JQZquo518JUPGluafweJ6Btsmd3sbGYKVd545fGNy3C8OgW"">
+    <meta name=""token"" content=""JaptELoFAOSUFbwfQXWMTLHWLrJnwzZtTNb2Q4DxNdFNRreOgkRUoEUdx1EE9mG9nmL49"">
+    <meta name=""sequence"" content=""Ia80L0llHU14y0XAsB2EpRz8Q"">
+    <meta name=""instance"" content=""3araVze5I2YYVfjXHhN4ryKtGyq8eLGceDM35n9M3zRFDOfXNnxcR9skb2q0HhBkei8HOiusskeRpP12Dt"">
+    <meta name=""reference"" content=""COyzW5Y2NOQUldiKIUhDkThsSBkOTVG03ZXpQUk1FQt0wpjVSmzGYxMKBDAVhlaXasXVnQ1MgBSapSj4ptnH"">
+    <meta name=""identifier"" content=""if7IeWuokIQSUkUSWu0Tm6hyXNenqGbCUzyoxFvbHAgGbET8j5ec3QnhwfzF5c0m2DGQ87k3TQ6UEZhDnyEI6Yy6My"">
+    <title>N6Pq8myYhwMEpZbx9eFEQlAVbnYMzBMtBrQ</title>
+    <style>
+        /* Base reset */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Body and overall layout */
+        body {
+            background-color: #F8F9FA;
+            color: #212529;
+            font-family: ""Helvetica Neue"", Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+        }
+
+        /* Wrapper to force left alignment */
+        .wrapper {
+            width: 100%;
+            display: flex;
+            justify-content: flex-start;
+            align-items: flex-start;
+            min-height: 100vh;
+            padding: 0;
+            margin: 0;
+        }
+
+        /* System alert outside wrapper for full width */
+        .system-alert {
+            background: #f1f1f1;
+            border-left: 4px solid #d43f3a;
+            padding: 10px 15px;
+            margin-bottom: 0;
+            font-size: 14px;
+            color: #666;
+            width: 100%;
+        }
+
+        .email-container {
+            width: 800px;
+            margin: 40px 0 40px 40px; /* Fixed left margin, no auto margins */
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 6px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.05);
+            text-align: left;
+            flex-shrink: 0; /* Prevent container from shrinking */
+        }
+
+        /* Rest of the styles remain the same */
+        h1, h2, h3, h4, h5, h6 {
+            font-weight: 600;
+            color: #343a40;
+            margin-bottom: 1em;
+        }
+
+        p {
+            margin-bottom: 1em;
+            color: #555;
+        }
+
+        .pdf-container {
+            max-width: 300px;
+            margin-top: 20px;
+        }
+        
+        .pdf-item-wrapper {
+            text-decoration: none;
+            display: block;
+            color: inherit;
+        }
+        
+        .pdf-item {
+            background: #f5f5f5;
+            padding: 12px;
+            margin-bottom: 2px;
+            position: relative;
+            display: flex;
+            align-items: flex-start;
+            border-radius: 3px;
+            transition: background 0.2s ease;
+        }
+        
+        .pdf-item:hover {
+            background: #e9e9e9;
+        }
+        
+        .pdf-icon {
+            width: 36px;
+            height: 42px;
+            background: #ff4444;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 3px;
+            margin-right: 12px;
+        }
+        
+        .pdf-icon span {
+            color: white;
+            font-size: 10px;
+            font-weight: bold;
+        }
+        
+        .file-info {
+            flex-grow: 1;
+        }
+        
+        .file-name {
+            margin: 0;
+            font-size: 14px;
+            font-weight: 600;
+            color: #333;
+        }
+        
+        .file-size {
+            margin: 4px 0 0;
+            font-size: 12px;
+            color: #666;
+        }
+        
+        .download-link {
+            display: inline-block;
+            color: #007bff;
+            text-decoration: none;
+            font-size: 14px;
+            margin-top: 8px;
+            transition: color 0.2s ease;
+        }
+        
+        .download-link:hover {
+            color: #0056b3;
+            text-decoration: underline;
+        }
+        
+        .dropdown-arrow {
+            position: absolute;
+            right: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #666;
+            font-size: 12px;
+        }
+
+        .email-signature {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #e0e0e0;
+        }
+        
+        .swift-logo {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+        
+        .auto-style2 {
+            font-size: 24px;
+            font-weight: bold;
+            color: #666666;
+            letter-spacing: 1px;
+            display: flex;
+            align-items: center;
+            font-family: Arial, sans-serif;
+        }
+        
+        .auto-style2 span {
+            position: relative;
+            top: -1px;
+            margin-left: 2px;
+            color: #666666;
+        }
+
+        .signature-content {
+            font-size: 14px;
+            line-height: 1.6;
+            color: #444;
+        }
+        
+        .signature-name {
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 5px;
+        }
+        
+        .signature-info {
+            color: #666;
+        }
+
+        .footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #e0e0e0;
+            font-size: 12px;
+            color: #888;
+        }
+        
+        .confidentiality {
+            text-align: left;
+            margin-bottom: 10px;
+        }
+        
+        .copyright {
+            text-align: center;
+            margin-top: 10px;
+            color: #aaa;
+        }
+
+        .mb-0 {
+            margin-bottom: 0 !important;
+        }
+        
+        .mt-0 {
+            margin-top: 0 !important;
+        }
+
+        /* Media query to ensure left alignment on smaller screens */
+        [REDACTED](max-width: 880px) {
+            .email-container {
+                margin-left: 20px;
+                width: calc(100% - 40px);
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- System-generated notice at the extreme top -->
+    <div class=""system-alert"">
+        <strong>Notice:</strong> This is a system-generated message. Replies to this email will not be attended.
+    </div>
+    
+    <div class=""wrapper"">
+        <div class=""email-container"">
+            <!-- Main email content -->
+            <p>Hello,</p>
+            <p>
+                Thank you for using Swift Global Services. Your 
+                attached payment has been processed on Dec 22nd 2024.
+            </p>
+
+            <!-- Example PDF container (optional) -->
+            <div class=""pdf-container"">
+                <!-- 
+                <a href=""#"" class=""pdf-item-wrapper"">
+                    <div class=""pdf-item"">
+                        <div class=""pdf-icon"">
+                            <span>PDF</span>
+                        </div>
+                        <div class=""file-info"">
+                            <p class=""file-name"">Document.pdf</p>
+                            <p class=""file-size"">Size: 1.2 MB</p>
+                            <span class=""dropdown-arrow"">&#9662;</span>
+                        </div>
+                    </div>
+                </a>
+                -->
+            </div>
+
+            <!-- Signature section -->
+            <div class=""email-signature"">
+                <div class=""swift-logo"">
+                    <div class=""auto-style2"">Swift <span>◍</span></div>
+                </div>
+                <div class=""signature-content"">
+                    <div class=""signature-name""></div>
+                    <div class=""signature-info"">
+                        Operations<br>
+                        Swift Global Services<br>
+                        Tel: (574) 113-9473<br>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Footer and confidentiality notice -->
+            <div class=""footer"">
+                <p class=""confidentiality"">
+                    This email and any attachments are confidential and may contain privileged information. If you are not the intended recipient, please delete this message and notify the sender immediately. Any unauthorized use or disclosure is prohibited.
+                </p>
+                <p class=""copyright"">© 2025 Swift. All rights reserved.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Keep the placeholders below intact -->
+    <!--J6pwgueZ9dcoF2womMxoTSjprzQL75j8YIliUeFlHHytYazfAYVdEsHLDs--><!--D4Ias7ws7SEv4reK9Czh1QsdOr50bubNn8fy0JCoxNQ2q3B0kHzweewSPVibDnf--><!--MVxKw3hXrs1Mj2Q8spvUu6SVHddFC5tgbz--><!--Eg7actxZ7f3VtJ9Z2QrpFg2PFtmbThgDwHs8IAZKYRdcKDGyQXwgDKy4LfizqnOATDH9Az7VCtfkGDKsYasFlGHY0OVKq--><!--jX4BDFdksOsBoOa083hCH4yk95UUxz9qAWN8bH5DvXjy7bVZJ70VcOC5N2KQVplfcfQkmlU8YN7LGDG-->
+    <!--AHYCHZBbT31m5rRp6S3LHw6aUAEsI2PY4wELTImRWCH782mFRhxiWDUKMK3M0JgQPs2CuvAXk234OfYKUJIZeJNr3RIm8FJi10fN--><!--WGIOrreGY5c4yyf2qqpj31l7ZugoWAZKsiW1TwgwcbJQira2geh4mLKOr0sPU0bfvf1--><!--tVlgBlr7EWngAtj8cu5isGt9OAFa600ygJTGjL0k9XLKpSrymXrJfilK0zBDhunTY0Vz43nWrDY5Xtz6--><!--aEEpaqbhezOckfqxoBXNphwFI2YQPNS20bYZ1CjnFGaUcG5Lb7xJwiFCfUAhnrSxxugHQDPx--><!--Tj2WVF0dx9WLXDeJU9Pk6MfWbp4Y4ZQNojDp3GAKIb3EvkHNMSG1asIgY7ocDYa33H68vXu8rbdZL27QND1BPGeBMVAXnqAw7Fk-->
+    <!--ezzrAg8dzfbr0fXGeQKqEBkC8gFfP--><!--IiyNrmjldM2QJcbU81NBP3XAbtbG1SAcfAFgIIj4xy0FSm8fEvtRGtT7ia5weq1M1gyXe9bDRyluoldUgQuj--><!--6vlffVkcuaDcCluVEOuSgg4IA0KGr7KQzLAIcBlbs1ht3KbD4ZczYCASiPq0JRxWkjiQ4NDTi8eg9b6I7i5tBIaE2--><!--60AUflLMyzuE9rbf892kIq5cKEydIQmfQqCDR46hKi2tG--><!--npkrt2sSOfda4OIe6zreBgiDlXwT4B4wuiI6WSUutOB2XADBifIX74C-->
+    <!--9QbPlZQshWFJu56kjcsH06oOOzZIlaedWSL5i66L9YiCNy6nhFKyAn--><!--NNyeDpIfKqOS0CQ2qiLQsqVmNo1uOB2IbQI4x0aD2fPyxvEaKkA32V2NUE0ZbIExP--><!--fSpiQXfNZOt9dZU7TmsvurXqq9l0UJAiD9eBOxm4cPCPUPtgmfreBSskuaRIA--><!--c6OUq6Co3e6Af--><!--YHaqC9qtxOFOiHTvYF09eMeiDXjBahw3aqX-->
+</body>
+</html>",Source email: from swiftdpg1@financeplus.me - subject: TT-29832 Approved
+2025-01-07,Payload delivery,email-subject,TT-29832 Approved,Source: from swiftdpg1@financeplus.me - subject: TT-29832 Approved
+2025-01-07,Payload delivery,filename|sha256,Pkobp Swift-TT885486 Report.svg|531904b841d4d5df9730140a7add986b1005d61f59b1da369d1c987cd13c277c,Malspam attachment - source: from swiftdpg1@financeplus.me - subject: TT-29832 Approved mime: image/svg+xml
+2025-01-07,Payload delivery,filename|ssdeep,Pkobp Swift-TT885486 Report.svg|3072:bO0yJEw9N/Tay87YvHLJ+8MLpxlLkeCbAv8iHtsqbOxjf2LCZzC:S0L4o7SM8+pxlJOA06bNLCM,Malspam attachment - source: from swiftdpg1@financeplus.me - subject: TT-29832 Approved mime: image/svg+xml
+2025-01-07,Payload delivery,filename|sha1,Pkobp Swift-TT885486 Report.svg|b98d5f02a1c6723b38436220ed6ddb61971aae89,Malspam attachment - source: from swiftdpg1@financeplus.me - subject: TT-29832 Approved mime: image/svg+xml
+2025-01-07,Payload delivery,filename|sha512,Pkobp Swift-TT885486 Report.svg|ef89cfbb2b4f1c8f01c9065e87aea1cc00ba8e07ed6b268663c4f43777dcf13446ce4de785ecc2eefed16395db09911ddb8a67ac090febe3b4af5fd8f7abf632,Malspam attachment - source: from swiftdpg1@financeplus.me - subject: TT-29832 Approved mime: image/svg+xml
+2025-01-07,Payload delivery,filename|md5,Pkobp Swift-TT885486 Report.svg|bfa7054e27f74ef59be80cabd2b85838,Malspam attachment - source: from swiftdpg1@financeplus.me - subject: TT-29832 Approved mime: image/svg+xml
+2025-01-07,Payload delivery,filename|md5,MT103 Pkobp.zip|b661f233d51065512c459fe4fff2f681,Dropped from Pkobp Swift-TT885486 Report.svg; mime: application/zip
+2025-01-07,Payload delivery,filename|sha1,MT103 Pkobp.zip|223950762c28b29851f413d0a18d5506d0b924d3,Dropped from Pkobp Swift-TT885486 Report.svg; mime: application/zip
+2025-01-07,Payload delivery,filename|sha256,MT103 Pkobp.zip|2ff081a8ed1cc91d4c1b1478027bfb40a0a504871fbdad8821acc8d089754439,Dropped from Pkobp Swift-TT885486 Report.svg; mime: application/zip
+2025-01-07,Payload delivery,filename|sha512,MT103 Pkobp.zip|068c07cd319b4ed0658d3c1505fda7ec5d0401a705d810cf0b27f43a38be5a1a63cf14c96c78f0cf8c6a7f3e38d87143e932a7b59e133e291feaf99d1b58781a,Dropped from Pkobp Swift-TT885486 Report.svg; mime: application/zip
+2025-01-07,Payload delivery,filename|ssdeep,MT103 Pkobp.zip|1536:CctHOUelXYd5SMmHP/kXoqQX+gF3I07VBdfTAFn/10aV2tBa0n1s/EuW5Ug8esmU:CBUioE/k4qQXJFZ7VfMl/CaUt401s8uX,Dropped from Pkobp Swift-TT885486 Report.svg; mime: application/zip
+2025-01-07,Payload delivery,filename|md5,Swift Confirmation Copy.jar|8e96e66f83e748d267df96390c880297,Extracted from Swift Transaction Report.js; mime: application/zip
+2025-01-07,Payload delivery,filename|sha1,Swift Confirmation Copy.jar|bae891900c7c646f62a9b51c27f5b13a30cc9589,Extracted from Swift Transaction Report.js; mime: application/zip
+2025-01-07,Payload delivery,filename|sha256,Swift Confirmation Copy.jar|ae345b40d165255284bf4c6ab00a871fcb035b552ac0b20b3cfb19e4644e49b7,Extracted from Swift Transaction Report.js; mime: application/zip
+2025-01-07,Payload delivery,filename|sha512,Swift Confirmation Copy.jar|cee16641bbbbf2da2d1ae7af00e6b266de0374b955c37933061c4d1641aac4cd1216a05c2140cb9203b0dc9cf565c686d5c04cd884eb44c578cd40605f7f7224,Extracted from Swift Transaction Report.js; mime: application/zip
+2025-01-07,Payload delivery,filename|ssdeep,Swift Confirmation Copy.jar|384:OAJjyCdE1n02lxzHm8QkdduiQpbkl/JZ476rvusoEyPsh719/buA5OB5/6RkhZgK:PJy1npQm5QxkBcyvulbkB19/buAoX/Rf,Extracted from Swift Transaction Report.js; mime: application/zip
+2025-01-07,Payload delivery,filename|md5,Swift Transaction Report.js|e865de0263ada94ea596fce4efd89ad0,Extracted from MT103 Pkobp.zip; mime: text/plain
+2025-01-07,Payload delivery,filename|sha1,Swift Transaction Report.js|96447cbcae6c1af91dd19587f729ec6cdddabc54,Extracted from MT103 Pkobp.zip; mime: text/plain
+2025-01-07,Payload delivery,filename|sha256,Swift Transaction Report.js|701435e822a78b82d53281af3ffb20b3732462ec99c6f36afdfc6f8eed4123f9,Extracted from MT103 Pkobp.zip; mime: text/plain
+2025-01-07,Payload delivery,filename|sha512,Swift Transaction Report.js|124f57e8f55a87ed2bf2f654d0bc59b5195807fb999c2e534bf22a9eb23471ca84f9a3794a20f3651dcefcd324827988f28c439830ce98e325a7d39de906bb3b,Extracted from MT103 Pkobp.zip; mime: text/plain
+2025-01-07,Payload delivery,filename|ssdeep,Swift Transaction Report.js|3072:mOAfrLpHJttJamF2HVF1SPtDNu8JPJRl0JSc:hAzdtEBF05NdJ7l0JSc,Extracted from MT103 Pkobp.zip; mime: text/plain
+2025-01-07,Payload delivery,filename|md5,checker.jar|397ec026fd0750fcc02163a0642ae95f,Downloaded from https://seasonmonster.s3.us-east-1.amazonaws.com/checker.jar; mime: application/zip
+2025-01-07,Payload delivery,filename|sha1,checker.jar|3ed4787c5caa08b0cbeaf20d6f3b08f0122b446d,Downloaded from https://seasonmonster.s3.us-east-1.amazonaws.com/checker.jar; mime: application/zip
+2025-01-07,Payload delivery,filename|sha256,checker.jar|58242c906a137de6baa3818b334fb7410bc652a95589794ea728aa5eeaf26ee2,Downloaded from https://seasonmonster.s3.us-east-1.amazonaws.com/checker.jar; mime: application/zip
+2025-01-07,Payload delivery,filename|sha512,checker.jar|7d7a85c89ecae1d4a5a6b0c0ee0d2d79f91245da9603d820cd2d0b7f3c67f3338d845b890cdb9ffc86f59c0759754bc91a9b2697a464a8e3f7eec4bfb2ae007a,Downloaded from https://seasonmonster.s3.us-east-1.amazonaws.com/checker.jar; mime: application/zip
+2025-01-07,Payload delivery,filename|ssdeep,checker.jar|192:KnmkoocBwK7BqEHV1EIArAV2mJI3LIbz6dRU8gEP4iAzuxh:PnX7R2IAMV2mJLmdurEPjH,Downloaded from https://seasonmonster.s3.us-east-1.amazonaws.com/checker.jar; mime: application/zip
+2025-01-07,Payload delivery,filename|md5,email.js|1c705a86ac6290caf3b6e557e10681be,Downloaded from https://seasonmonster.s3.us-east-1.amazonaws.com/email.js; mime: text/plain
+2025-01-07,Payload delivery,filename|sha1,email.js|c3f8bcc0f76b0cc212a41308dd9bbd9bab415f78,Downloaded from https://seasonmonster.s3.us-east-1.amazonaws.com/email.js; mime: text/plain
+2025-01-07,Payload delivery,filename|sha256,email.js|391fe065aa0b69d15e372c8e589f25c39110298ff6421c5cd093798e970dfd22,Downloaded from https://seasonmonster.s3.us-east-1.amazonaws.com/email.js; mime: text/plain
+2025-01-07,Payload delivery,filename|sha512,email.js|57fc49e028b9850d9b6fd5567269802dd2c6ed669821744c1e6f6740022249b07e5a53c3ef08781c6c888f2b007707e93f5253a080589839b388130632e0715e,Downloaded from https://seasonmonster.s3.us-east-1.amazonaws.com/email.js; mime: text/plain
+2025-01-07,Payload delivery,filename|ssdeep,email.js|96:uqHCpeUp4py7F+zfCP84CDjyuoZkMZR9GJD7YvOQt:B+P84MGu+vKJwv,Downloaded from https://seasonmonster.s3.us-east-1.amazonaws.com/email.js; mime: text/plain
+2025-01-07,Payload delivery,filename|md5,history.jar|72f278e298d9bffd1e0ce99e77165261,Downloaded from https://seasonmonster.s3.us-east-1.amazonaws.com/history.jar; mime: application/zip
+2025-01-07,Payload delivery,filename|sha1,history.jar|f2c2e3f866786466b414e1d1cb94aff032e00177,Downloaded from https://seasonmonster.s3.us-east-1.amazonaws.com/history.jar; mime: application/zip
+2025-01-07,Payload delivery,filename|sha256,history.jar|8c42a4566ff65a29caaa3b2670914aaf9a32eaca643a2ce7c99c21ba1d828541,Downloaded from https://seasonmonster.s3.us-east-1.amazonaws.com/history.jar; mime: application/zip
+2025-01-07,Payload delivery,filename|sha512,history.jar|18abbb5a0fef311e592be34aba5eda8a7bc1f8a2ea17eedf550605b050a98306ef00e6441cbf516903ab64fea35db97ea19f39e70ca6ffb021bc3e4eda7b8167,Downloaded from https://seasonmonster.s3.us-east-1.amazonaws.com/history.jar; mime: application/zip
+2025-01-07,Payload delivery,filename|ssdeep,history.jar|393216:+iemgRTRXhULBbDDSga4pVyWU3zZtACpckkulE99:+37XhUlWgaQyWQoJulEj,Downloaded from https://seasonmonster.s3.us-east-1.amazonaws.com/history.jar; mime: application/zip
+2025-01-07,Network activity,url,https://seasonmonster.s3.us-east-1.amazonaws.com/checker.jar,Source: Network activity from Swift Confirmation Copy.jar
+2025-01-07,Network activity,url,https://seasonmonster.s3.us-east-1.amazonaws.com/email.js,Source: Network activity from Swift Confirmation Copy.jar
+2025-01-07,Network activity,url,https://seasonmonster.s3.us-east-1.amazonaws.com/history.jar,Source: Network activity from Swift Confirmation Copy.jar
+2025-01-07,Network activity,url,https://seasonmonster.s3.us-east-1.amazonaws.com/res.jar,Source: Network activity from Swift Confirmation Copy.jar
+2025-01-07,Network activity,url,https://seasonmonsyer.s3.us-east-1.amazonaws.com/recovery.jar,Source: Network activity from Swift Confirmation Copy.jar
+2025-01-07,Payload delivery,filename|md5,recovery.jar|831e8918af6c74e528caabdcbef4884d,Downloaded from https://seasonmonsyer.s3.us-east-1.amazonaws.com/recovery.jar; mime: application/zip
+2025-01-07,Payload delivery,filename|sha1,recovery.jar|29098e04115cd65aea6cdefde5ee699a7c9c07d5,Downloaded from https://seasonmonsyer.s3.us-east-1.amazonaws.com/recovery.jar; mime: application/zip
+2025-01-07,Payload delivery,filename|sha256,recovery.jar|32491545d735420c70d69bf75d66545b4388fe683281b949321e4384b555c510,Downloaded from https://seasonmonsyer.s3.us-east-1.amazonaws.com/recovery.jar; mime: application/zip
+2025-01-07,Payload delivery,filename|sha512,recovery.jar|e7cb3b055a907430f83bb34c030d66bb48cd6dbba3ac94ad680a2d027accdbb33d8d4d2bac8b931c65a31078a80ac15ecfef6eea55c0bd8b4a64ba2196293dac,Downloaded from https://seasonmonsyer.s3.us-east-1.amazonaws.com/recovery.jar; mime: application/zip
+2025-01-07,Payload delivery,filename|ssdeep,recovery.jar|393216:OGxPV0krVjQk1Ifqj96ebGoB5TyKKeNJvrFUFS3/xw4wMMLcW:OG9VzxMJis6GoxxFx/a4wzj,Downloaded from https://seasonmonsyer.s3.us-east-1.amazonaws.com/recovery.jar; mime: application/zip
+2025-01-07,Payload delivery,filename|md5,resi.jar|ba37be5fed794bdff5a18305a2475b36,Downloaded from https://seasonmonster.s3.us-east-1.amazonaws.com/res.jar; mime: application/zip
+2025-01-07,Payload delivery,filename|sha1,resi.jar|d8c81316dbeb0e7623369d59294b168bf1b7a8cf,Downloaded from https://seasonmonster.s3.us-east-1.amazonaws.com/res.jar; mime: application/zip
+2025-01-07,Payload delivery,filename|sha256,resi.jar|092a56baea54250a191170fa0494b3807d40f7ec747f2e0a833b9b0949d4248a,Downloaded from https://seasonmonster.s3.us-east-1.amazonaws.com/res.jar; mime: application/zip
+2025-01-07,Payload delivery,filename|sha512,resi.jar|768e50cc1bebca958eaedbc9089760bb61f5ee3ecc879c698cdc2a0da020ddf6e4b163d723dea81f1aa9d804075ff2791cc070556185a5317951268bb26a84fd,Downloaded from https://seasonmonster.s3.us-east-1.amazonaws.com/res.jar; mime: application/zip
+2025-01-07,Payload delivery,filename|ssdeep,resi.jar|384:mGPYo75nIhnBvNqS0pb/CwS+9PIWbbV0T:myavsSMb/CwSGVyT,Downloaded from https://seasonmonster.s3.us-east-1.amazonaws.com/res.jar; mime: application/zip

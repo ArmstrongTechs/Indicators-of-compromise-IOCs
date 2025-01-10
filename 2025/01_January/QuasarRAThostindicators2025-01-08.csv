@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2025-01-08]
+| UUID: faacfdab-a6fb-427f-bd77-a811537ef1fc
+| Date: 2025-01-08
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-08,Payload installation,filename,2klz.exe,Source: MalwareBazaar
+2025-01-08,Payload installation,md5,4d98ede034f541d9764912f2f5d9f7bf,Source: MalwareBazaar
+2025-01-08,Payload installation,sha1,5f8676660cac09130ddb26020342bcfd44980c96,Source: MalwareBazaar
+2025-01-08,Payload installation,sha256,83f77b5f103fda69758c8150e74efaef49513da487badd77467bd8876d90683e,Source: MalwareBazaar
+2025-01-08,Payload installation,filename,QUOTATION - RFQ2496_PO 08775622879.pdf(87kb).lzh,Source: MalwareBazaar
+2025-01-08,Payload installation,md5,3433a2076f4096a34abc93d4527b2749,Source: MalwareBazaar
+2025-01-08,Payload installation,sha1,e28e53b5a65b51c7fc46b6b84e22dadbb6bf2b8b,Source: MalwareBazaar
+2025-01-08,Payload installation,sha256,17a4a1dd4588641ec5eb6ce7986b3c35ff57a13b6693f0f886339d29c746947d,Source: MalwareBazaar

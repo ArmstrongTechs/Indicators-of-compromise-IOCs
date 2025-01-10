@@ -1,6 +1,6 @@
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
-| Title: Scam URL findings
-| UUID: 189c8fcf-9951-47ee-ba0e-71e4ae8a91ba
+| Title: Remcos network indicators [2025-01-08]
+| UUID: 4a378088-b97f-4879-b5da-2741d581e3e5
 | Date: 2025-01-08
 "| Author: Armstrong Techs, Research Lab"
 | References: https://www.armstrongtechs.com/
@@ -8,5 +8,6 @@
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
 
 Date,Category,Type,Value,Comment
-2025-01-08,Network activity,url,https://rabotaophome.com/eu?,Scam website
-2025-01-08,External analysis,attachment,screenshot.png,
+2025-01-08,Network activity,url,https://tmpfiles.org/dl/19124288/gta52.exe,Source: urlhaus
+2025-01-08,Network activity,url,http://87.120.116.179/files/asegurar.txt,Source: urlhaus
+2025-01-08,Network activity,url,http://87.120.116.179/files/remcos.txt,Source: urlhaus

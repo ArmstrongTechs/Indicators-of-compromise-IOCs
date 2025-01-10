@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Meterpreter host indicators [2025-01-07]
+| UUID: 23a3f31c-feeb-43f3-82d7-40fcdf5cccea
+| Date: 2025-01-07
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-07,Payload installation,filename,te13.exe,Source: MalwareBazaar
+2025-01-07,Payload installation,md5,7a2c49cbec37b52a946c0131fe4cd308,Source: MalwareBazaar
+2025-01-07,Payload installation,sha1,1aedf1516160023ffaebec2e0288386af5c91a1b,Source: MalwareBazaar
+2025-01-07,Payload installation,sha256,6d890c662047b30e7e5003daa3b6db782c40671b98a046a03828e61382f5c73e,Source: MalwareBazaar
