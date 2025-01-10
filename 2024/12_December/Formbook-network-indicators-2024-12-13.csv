@@ -1,0 +1,11 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook network indicators [2024-12-13]
+| UUID: ad5e256f-99c1-4583-a4ce-75d9ede7f3b5
+| Date: 2024-12-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-13,Network activity,url,https://cdn.discordapp.com/attachments/1295304757166080020/1316923696224669696/fore.ps1?ex=675cd044&is=675b7ec4&hm=5608089203d1f55754eb42ae1b19e52da07e426935e063abf1f2bb096cfc394e,Source: urlhaus

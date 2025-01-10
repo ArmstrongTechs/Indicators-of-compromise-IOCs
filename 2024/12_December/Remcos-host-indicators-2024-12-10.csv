@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-12-10]
+| UUID: 84ccb882-29f9-4998-9c60-29333ea54150
+| Date: 2024-12-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-10,Payload installation,filename,3B84DCE82113710E5AE3F379EBD9FA13.exe,Source: MalwareBazaar
+2024-12-10,Payload installation,filename,FACTURA.xlsx,Source: MalwareBazaar
+2024-12-10,Payload installation,filename,InspectorNvidiaPro-64.rar,Source: MalwareBazaar
+2024-12-10,Payload installation,filename,InspectorNvidiaPro-64.exe,Source: MalwareBazaar
+2024-12-10,Payload installation,filename,order CF08093-24.exe,Source: MalwareBazaar
+2024-12-10,Payload installation,filename,PO-8776-2024.js,Source: MalwareBazaar
+2024-12-10,Payload installation,filename,1733845413a1d8742853c308d6ac4d050f80c4b91bf14f4919c2728222ecef14ce82d51adb973.dat-decoded,Source: MalwareBazaar
+2024-12-10,Payload installation,filename,RFQ 008191.exe,Source: MalwareBazaar

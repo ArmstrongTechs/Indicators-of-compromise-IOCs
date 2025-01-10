@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Quakbot network indicators [2024-12-22]
+| UUID: 64ef248d-1676-4c9a-803f-c888be1f532c
+| Date: 2024-12-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-22,Network activity,url,http://87.120.115.240/Downloads/acer-nitro-v-15-2023-intel-i7-13620h-rtx-4050.jpg.lnk,Source: urlhaus
+2024-12-22,Network activity,url,http://87.120.115.240/Downloads/vostro-3520-laptop-01_1.jpg.lnk,Source: urlhaus
+2024-12-22,Network activity,url,http://87.120.115.240/Downloads/omen-16-rtx-3060-03.jpg.lnk,Source: urlhaus

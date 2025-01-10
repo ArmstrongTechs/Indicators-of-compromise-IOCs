@@ -1,0 +1,15 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: A New Android Banking Trojan Masquerades as Utility and Banking Apps in India
+| UUID: 10546fd4-7afa-4379-a1f5-48d3cf61fbee
+| Date: 2024-12-25
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-25,Payload delivery,sha256,b7209653e226c798ca29343912cf21f22b7deea4876a8cadb88803541988e941,
+2024-12-25,Payload delivery,sha256,7cf38f25c22d08b863e97fd1126b7af1ef0fcc4ca5f46c2384610267c5e61e99,
+2024-12-25,Payload delivery,sha256,745f32ef020ab34fdab70dfb27d8a975b03e030f951a9f57690200ce134922b8,
+2024-12-25,Payload delivery,filename,https[://]luyagyrvyytczgjxwhuv.supabase.co,
+2024-12-25,Payload delivery,filename,https[://]call-forwarder-1-default-rtdb.firebaseio.com,

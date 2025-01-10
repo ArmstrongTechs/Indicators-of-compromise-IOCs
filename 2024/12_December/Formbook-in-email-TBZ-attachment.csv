@@ -1,0 +1,53 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook in email (.TBZ) attachment
+| UUID: 9cf452a3-f4ae-48cb-a49c-5b2974ab00ec
+| Date: 2024-12-02
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-03,Network activity,domain,www.02760.wang,
+2024-12-03,Network activity,domain,www.030002613.xyz,
+2024-12-03,Network activity,domain,www.123hellodrive.shop,
+2024-12-03,Network activity,domain,www.1secondlending.one,
+2024-12-03,Network activity,domain,www.7261ltajbc.bond,
+2024-12-03,Network activity,domain,www.8600228.xyz,
+2024-12-03,Network activity,domain,www.acc888ommodate.xyz,
+2024-12-03,Network activity,domain,www.alihones.lol,
+2024-12-03,Network activity,domain,www.avalanchefi.xyz,
+2024-12-03,Network activity,domain,www.aziziyeescortg.xyz,
+2024-12-03,Network activity,domain,www.beylikduzu616161.xyz,
+2024-12-03,Network activity,domain,www.cartaeinchiostro.blog,
+2024-12-03,Network activity,domain,www.diozusemails.buzz,
+2024-12-03,Network activity,domain,www.gadget2chg.xyz,
+2024-12-03,Network activity,domain,www.goldstarfootwear.shop,
+2024-12-03,Network activity,domain,www.grandesofertas.fun,
+2024-12-03,Network activity,domain,www.gravendeel.studio,
+2024-12-03,Network activity,domain,www.guacamask.online,
+2024-12-03,Network activity,domain,www.heliopsis.xyz,
+2024-12-03,Network activity,domain,www.logidant.xyz,
+2024-12-03,Network activity,domain,www.oneeyetrousersnake.xyz,
+2024-12-03,Network activity,domain,www.qqa79.top,
+2024-12-03,Network activity,domain,www.smartguide.website,
+2024-12-03,Network activity,domain,www.smellyindians.xyz,
+2024-12-03,Network activity,domain,www.sqlite.org,
+2024-12-03,Network activity,domain,www.superiorfencing.net,
+2024-12-03,Network activity,domain,www.supernutra01.online,
+2024-12-03,Network activity,domain,www.tdh5nq35hten9.buzz,
+2024-12-03,Network activity,domain,www.wine-drinkers.club,
+2024-12-03,Network activity,domain,www.wwwzbk.app,
+2024-12-03,Network activity,domain,www.zxyck.net,
+2024-12-03,Payload delivery,malware-sample,PAYMENT_ADVICE.TBZ|67e5a39baac7d2a75de4a3848b0654b4,
+2024-12-03,Payload delivery,filename,PAYMENT_ADVICE.TBZ,
+2024-12-03,Payload delivery,md5,67e5a39baac7d2a75de4a3848b0654b4,
+2024-12-03,Payload delivery,sha1,44ca5e63a2eb177e7d854af3e554a71edb42058d,
+2024-12-03,Payload delivery,sha256,896446659acc4fdd2da79746a3c613dae1fb8597dfb7baeb91e937dcfea8b612,
+2024-12-03,Other,size-in-bytes,724092,
+2024-12-03,Payload delivery,malware-sample,PAYMENT_ADVICE.exe|228fda4777b9efacf66e920158bfa794,
+2024-12-03,Payload delivery,filename,PAYMENT_ADVICE.exe,
+2024-12-03,Payload delivery,md5,228fda4777b9efacf66e920158bfa794,
+2024-12-03,Payload delivery,sha1,14d65679109465931a6c03bb241195b1607041fb,
+2024-12-03,Payload delivery,sha256,1a552c79d04a85244459405c8a41c16c1febe837cf71fd1ead40365941a6f14a,
+2024-12-03,Other,size-in-bytes,1288192,

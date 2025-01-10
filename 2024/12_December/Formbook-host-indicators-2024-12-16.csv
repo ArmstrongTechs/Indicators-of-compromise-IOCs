@@ -1,0 +1,42 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-12-16]
+| UUID: 07c4e011-43fa-4f7e-9b93-447e28efb019
+| Date: 2024-12-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-16,Payload installation,filename,ship.exe,Source: MalwareBazaar
+2024-12-16,Payload installation,md5,bdf2729b43adc0cfd2163da5251faf8d,Source: MalwareBazaar
+2024-12-16,Payload installation,sha1,77d9f7148df3c7e24759842c0b5c1e7e3303afad,Source: MalwareBazaar
+2024-12-16,Payload installation,sha256,c1c9f8bb5456d46da8d8ce22f410eb92b73ed6d8e7b01e3969bb38f33955fa2f,Source: MalwareBazaar
+2024-12-16,Payload installation,filename,SC_TR11670000_pdf.exe,Source: MalwareBazaar
+2024-12-16,Payload installation,md5,a87d39314b72b2a61863e934d67d5939,Source: MalwareBazaar
+2024-12-16,Payload installation,sha1,25a869f7fc8e4251c95a233955ce354a1fd1f900,Source: MalwareBazaar
+2024-12-16,Payload installation,sha256,033bbea61051db503c0b26510939a931785c075ba865c98357799abced27d078,Source: MalwareBazaar
+2024-12-16,Payload installation,filename,TNT AWB TRACKING DETAILS.exe,Source: MalwareBazaar
+2024-12-16,Payload installation,md5,bc31759ceac4e0f680e1d6462953979b,Source: MalwareBazaar
+2024-12-16,Payload installation,sha1,4f31fa901bbcb19aa891b870a6920746fa9c59da,Source: MalwareBazaar
+2024-12-16,Payload installation,sha256,ca8a10690ababb663b41f399da42e43ad77fc59310862b369e4e38e9df00f0e0,Source: MalwareBazaar
+2024-12-16,Payload installation,filename,DHL_Parcel.exe,Source: MalwareBazaar
+2024-12-16,Payload installation,md5,15ddaaa53e47d9cecab99e075daf097d,Source: MalwareBazaar
+2024-12-16,Payload installation,sha1,0885a2705a58ab20112997448e08cb1fe7deb20f,Source: MalwareBazaar
+2024-12-16,Payload installation,sha256,a8334b29699a7b62c665d49c05cf475eaac3af9fffabd907e821218752d8ebf6,Source: MalwareBazaar
+2024-12-16,Payload installation,filename,xmas blessing.exe,Source: MalwareBazaar
+2024-12-16,Payload installation,md5,272ec3246c13076416d1b44cf2d19799,Source: MalwareBazaar
+2024-12-16,Payload installation,sha1,dcf52605d7676f96bf3d4dd619fb0f8acc15d56c,Source: MalwareBazaar
+2024-12-16,Payload installation,sha256,b986ddf0a9e815ff3c702cff3d1cbf3bccef226c9ac97c0ba27cbdee046cf59b,Source: MalwareBazaar
+2024-12-16,Payload installation,filename,ORIGINAL INVOICE COAU7230734290.exe,Source: MalwareBazaar
+2024-12-16,Payload installation,md5,6667b24378dcd425379467215b60fc57,Source: MalwareBazaar
+2024-12-16,Payload installation,sha1,572e384047d7931e4d4e555a2f5e6b1f87a0ef5f,Source: MalwareBazaar
+2024-12-16,Payload installation,sha256,cea6767688929681e832f6fc245bed533afc0ec8c4cd66ec693850d974fcb2ea,Source: MalwareBazaar
+2024-12-16,Payload installation,filename,ACQUISITION OF A   CONSERVATIVE REFRIGERATOR.exe,Source: MalwareBazaar
+2024-12-16,Payload installation,md5,464587c795efba3d6a77d78ab9f3de32,Source: MalwareBazaar
+2024-12-16,Payload installation,sha1,f2ce67c18f57c7919d951b640c30298bab731141,Source: MalwareBazaar
+2024-12-16,Payload installation,sha256,60f63f5446e6a149513c50ac17e7165bb6c52006eac6acd825a142d55a2ae14f,Source: MalwareBazaar
+2024-12-16,Payload installation,filename,quotation sheet 1 sheet 2.exe,Source: MalwareBazaar
+2024-12-16,Payload installation,md5,5e339704d2b4253d44949064eaa75841,Source: MalwareBazaar
+2024-12-16,Payload installation,sha1,d26a7151d75443a49692bd2d1343d66d11af9791,Source: MalwareBazaar
+2024-12-16,Payload installation,sha256,33cad7ecf58c6dc044f4e509f3baebf9c31214cd095183ec87d02131f23c77c0,Source: MalwareBazaar

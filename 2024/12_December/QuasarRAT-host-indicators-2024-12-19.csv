@@ -1,0 +1,27 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-12-19]
+| UUID: 6639ec0d-5d7e-4da0-aca2-0ab6ccaa89dc
+| Date: 2024-12-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-19,Payload installation,filename,CollosalLoader.exe,Source: MalwareBazaar
+2024-12-19,Payload installation,md5,9a1361570008e75a9a8c6c93b8ea9a68,Source: MalwareBazaar
+2024-12-19,Payload installation,sha1,66852a8ff188d2003cb0a5c5b3b6d7659719c18c,Source: MalwareBazaar
+2024-12-19,Payload installation,sha256,516e463e2ea077d24cf12f4e3d8a886b99948497cb2eb1fe9a73ca0d61eea32e,Source: MalwareBazaar
+2024-12-19,Payload installation,filename,687c5903af67e7ae2df617f249ef22502998e4524ccb34a27eaac389b8e61728,Source: MalwareBazaar
+2024-12-19,Payload installation,md5,9a7cea63db91937ec2fa0c4a40dcde82,Source: MalwareBazaar
+2024-12-19,Payload installation,sha1,dbc121740eb6aa3221beadd3ae69df1ce095c441,Source: MalwareBazaar
+2024-12-19,Payload installation,sha256,687c5903af67e7ae2df617f249ef22502998e4524ccb34a27eaac389b8e61728,Source: MalwareBazaar
+2024-12-19,Payload installation,filename,d0d221d0a152430a62531fd46b7c1f43721110da2bb3ee2f5688e484b143aceb,Source: MalwareBazaar
+2024-12-19,Payload installation,md5,c549fe02bb65c0c2977c741c7ed4fd80,Source: MalwareBazaar
+2024-12-19,Payload installation,sha1,8475e459ba2fe572c53b08c061a5b24e074832a1,Source: MalwareBazaar
+2024-12-19,Payload installation,sha256,d0d221d0a152430a62531fd46b7c1f43721110da2bb3ee2f5688e484b143aceb,Source: MalwareBazaar
+2024-12-19,Payload installation,filename,a06fb340d32ab66caf6d851719c4e51e77a3208b337a0bca99879cfaba35d2c7,Source: MalwareBazaar
+2024-12-19,Payload installation,filename,0fa0a6df35785b0dd29b7191158f0730984ee72cde5562ee48cb8cc9d637a1dd,Source: MalwareBazaar
+2024-12-19,Payload installation,md5,b76667c1f978c6c98bbba2dfd7e315d2,Source: MalwareBazaar
+2024-12-19,Payload installation,sha1,570de2264b32de819e7f02d6d5c8d4ce15277107,Source: MalwareBazaar
+2024-12-19,Payload installation,sha256,0fa0a6df35785b0dd29b7191158f0730984ee72cde5562ee48cb8cc9d637a1dd,Source: MalwareBazaar

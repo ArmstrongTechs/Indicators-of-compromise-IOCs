@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-12-27]
+| UUID: 508dc7a6-efe9-4c71-89a6-6ddba5e24b43
+| Date: 2024-12-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-27,Payload installation,filename,EZFN op cheats.exe,Source: MalwareBazaar
+2024-12-27,Payload installation,md5,ef4d8a6e9965bc6bb50cc1dfc5afde69,Source: MalwareBazaar
+2024-12-27,Payload installation,sha1,22dc66b0dec9e655fc049063eb9ed1ac40163d63,Source: MalwareBazaar
+2024-12-27,Payload installation,sha256,fc0afaabeb1bec166e86302143e2ae0387142cc17df7a8980c8b7a9de43aad67,Source: MalwareBazaar
+2024-12-27,Payload installation,filename,OneDrive.exe,Source: MalwareBazaar
+2024-12-27,Payload installation,md5,7056e050ebbfca6ae325797d51eb2d0a,Source: MalwareBazaar
+2024-12-27,Payload installation,sha1,055cd6e4bde3449d72f7061620647ecb73d6b9cd,Source: MalwareBazaar
+2024-12-27,Payload installation,sha256,c316b0b818125541a90d7110af8c0908a8d6c73d3b846a27aed647fab6b38e00,Source: MalwareBazaar
+2024-12-27,Payload installation,filename,msgde.exe,Source: MalwareBazaar
+2024-12-27,Payload installation,md5,c9536d9bb5c51fe2741cbf206531c13b,Source: MalwareBazaar
+2024-12-27,Payload installation,sha1,5e4e1d68dd06301cf7810fa04589917aadfefad7,Source: MalwareBazaar
+2024-12-27,Payload installation,sha256,1dff2a45e9861cdcb8741dd196123e32e2b9004b950ee21b9bacc9f99be14fdc,Source: MalwareBazaar
+2024-12-27,Payload installation,filename,Test2.exe,Source: MalwareBazaar
+2024-12-27,Payload installation,md5,7f888b6cbd5062a7558eea61eb9a9ca2,Source: MalwareBazaar
+2024-12-27,Payload installation,sha1,2acfb5c3e7b8e569ea52397154b9b3ffb44e7d87,Source: MalwareBazaar
+2024-12-27,Payload installation,sha256,864bec690da391f258de447606ac18baa79672b665ba321a4da67ed59d567cad,Source: MalwareBazaar

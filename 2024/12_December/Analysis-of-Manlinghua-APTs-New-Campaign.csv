@@ -1,0 +1,24 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Analysis of Manlinghua APT’s New Campaign
+| UUID: 6c3f5df7-1a1a-42ee-9b1e-2b4c5564e6b7
+| Date: 2024-12-11
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-11,Payload delivery,md5,fd5f2cf4b8df27f27dc2e6bddc1a7b2e,
+2024-12-11,Payload delivery,md5,88c9cfcf76a94c34b85eb1f07b197ffe,
+2024-12-11,Payload delivery,md5,551946ef51f09df63feea377335a211f,
+2024-12-11,Payload delivery,md5,ac808a0f7eaea2b267e68b56ec868d60,
+2024-12-11,Payload delivery,sha256,56d3329deccf04fd47348b7e630ff917b14c1c944a225b2337fb4ba614455722,
+2024-12-11,Payload delivery,sha256,4b62fc86273cdc424125a34d6142162000ab8b97190bf6af428d3599e4f4c175,
+2024-12-11,Payload delivery,sha256,a56b5e90a08822483805f9ab38debb028eb5eade8d796ebf0ff1695c3c379618,
+2024-12-11,Network activity,url,http://ebeninstallsvc.com/uplh4ppy.php,
+2024-12-11,Network activity,url,https://www.sporcketngearforu.com/dune64.bin,
+2024-12-11,Network activity,url,https://www.sporcketngearforu.com/shl.tar.gz,
+2024-12-11,Network activity,url,http://www.goalvaidclub.com/oct24.bin,
+2024-12-11,Network activity,url,http://www.goalvaidclub.com/shl.tar.gz,
+2024-12-11,Network activity,ip-dst|port,173.46.80.38|80,On port 80
+2024-12-11,Network activity,ip-dst|port,72.18.215.108|443,On port 443

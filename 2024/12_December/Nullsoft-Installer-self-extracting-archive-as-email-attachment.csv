@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Nullsoft Installer self-extracting archive as email attachment
+| UUID: ad0229a9-1eac-41b2-9466-735c5f8e5ca9
+| Date: 2024-12-04
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-04,Payload delivery,malware-sample,Re RFQ FOR MR-ED-080424-025.rar|4bc03d8fdc75d51caedb0031378c4327,
+2024-12-04,Payload delivery,filename,Re RFQ FOR MR-ED-080424-025.rar,
+2024-12-04,Payload delivery,md5,4bc03d8fdc75d51caedb0031378c4327,
+2024-12-04,Payload delivery,sha1,067eb44d98b54e7bc754a16415cf8bca7c1bcb73,
+2024-12-04,Payload delivery,sha256,c084e92c5417087ae68a364978aba2e77eb325669e52d608f5082d5cd7e87544,
+2024-12-04,Other,size-in-bytes,535626,
+2024-12-04,Payload delivery,malware-sample,Re RFQ FOR MR-ED-080424-025.exe|40f8c3cf69e9a5ed79042882f8088f73,
+2024-12-04,Payload delivery,filename,Re RFQ FOR MR-ED-080424-025.exe,
+2024-12-04,Payload delivery,md5,40f8c3cf69e9a5ed79042882f8088f73,
+2024-12-04,Payload delivery,sha1,af53294c3305877ebd30f932e9bed8b7aa45a9c3,
+2024-12-04,Payload delivery,sha256,7bd44e1911245b3691daf90d3d0e5257361e547a5b5298305844f032418c717c,
+2024-12-04,Other,size-in-bytes,677170,

@@ -1,0 +1,46 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-12-13]
+| UUID: 77b1ad2a-4f06-4668-983c-4d5a319351fd
+| Date: 2024-12-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-13,Payload installation,filename,invoice 2024665-1112.exe,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,01558475f7d940f2fd80c0f2e4819169,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,56de61a2f8713d3f6711f85169bcf040f1cd6d5e,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,a4fa23e8786de563fd0eef88e32ea883672dc02c823f119ee8ffc82c0c0b6f9e,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,invoice 2024665-1112.r00,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,0a768b9b6b38cd8ffbf58acf3e8f54b4,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,7df73cfc685a57076f90944b8a2bba54b7fdf6b3,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,577438041a38554d209b838173679d5d815639368aaceb835b18423081f26ca0,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,new.exe,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,8b86502f8b81e3335c1f4906c8acb9f7,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,ac9ef49458da3e4075389da3f77ff001f0736852,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,4e1cfeb2023e96da3293df25bc81b3c51f2852eefb0cdfa4a17dc77b65da7c8f,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,SC_TR11670000_pdf_1.rar,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,d53bb1f1b64487c7e25dc9d410d1a246,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,17f0d3dfb32e4d9a262b5d62304a3e34c05ac5d9,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,f3cb019c2d957d48764454e966457e0d257e10eaed7f44fded8fd84701851272,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,Quotation Request-349849.exe,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,060d1fa22ca3227bef173104f09a853c,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,d0f22b602ce5640f9594a45008751f027523e1f9,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,89d993d7acbce99b1378c80d9e0ee143141eb06dd1bd926dd23f941f0ca704ad,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,SC_TR11670000_pdf.exe,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,1ead28dad1fae4a2478c61d096a3f162,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,503a22eb5ae11321abbce439d4548b037281018d,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,62cb069bd0351753a2cca2186257049a8ca4b5eaf3fbc9ef37080d9ec3f58f24,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,Quotation Request-349849_1.rar,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,018c602793d9fbeb890df62c8892cba2,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,889774a10e5d7aaffa22a4b6bd6dab24d2a9b6c1,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,f10ddef823f8f7cd9a54a36fe278fc5b33a56c130b8abee3a1a83879cdec6bb5,Source: MalwareBazaar
+2024-12-14,Payload installation,filename,COMMERCAIL INVOICE AND DHL AWB TRACKING DETAILS.exe,Source: MalwareBazaar
+2024-12-14,Payload installation,md5,bc04db2b4c327297aa069c632a11b450,Source: MalwareBazaar
+2024-12-14,Payload installation,sha1,e449712e9370ac636f9727afaefa86e169e61ee9,Source: MalwareBazaar
+2024-12-14,Payload installation,sha256,a04cfe188affd1c83f6113c67b413d519c50570d8bfdfd08d82ea440440e9f3c,Source: MalwareBazaar
+2024-12-14,Payload installation,filename,quotation sheet 1 sheet 2.exe,Source: MalwareBazaar
+2024-12-14,Payload installation,md5,58923ab5edc1d65d3f0fb3c71ee2af64,Source: MalwareBazaar
+2024-12-14,Payload installation,sha1,5de29822b230043708b6725b3fe0e9f2eb1ad21a,Source: MalwareBazaar
+2024-12-14,Payload installation,sha256,1ddd6b7f64ff57668ca9087e77362e4d11fda7c3c07aebe6c1f48b560aea038e,Source: MalwareBazaar

@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2024-12-29]
+| UUID: 3298c16b-a27a-435d-bf18-fc8af36a4984
+| Date: 2024-12-30
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-30,Payload installation,filename,563C888C8CDAF151AA616730F4DB3152.exe,Source: MalwareBazaar
+2024-12-30,Payload installation,md5,563c888c8cdaf151aa616730f4db3152,Source: MalwareBazaar
+2024-12-30,Payload installation,sha1,6bcbf310a9b7f7c9afc55df016c9fa444b3bbc8b,Source: MalwareBazaar
+2024-12-30,Payload installation,sha256,7a56b9a7be5d627a61b4fcd3716b73aefa76ecbe38c8edc5c11b47dedb3b888b,Source: MalwareBazaar

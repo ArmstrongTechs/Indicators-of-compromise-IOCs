@@ -1,0 +1,24 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Agent Tesla - AutoIT dropper
+| UUID: db40b0c0-34c9-416d-b284-9f83622934ca
+| Date: 2024-12-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-18,Network activity,domain,mail.worlorderbillions.top,SMTP exfil
+2024-12-18,Network activity,email,niggabown22jan2024@worlorderbillions.top,SMTP exfil
+2024-12-18,Payload delivery,malware-sample,SWIFT_57805730260.gz|e82edc936ce96c4466a87b6c4a08dfb7,
+2024-12-18,Payload delivery,filename,SWIFT_57805730260.gz,
+2024-12-18,Payload delivery,md5,e82edc936ce96c4466a87b6c4a08dfb7,
+2024-12-18,Payload delivery,sha1,f15ecacf4739447dcebb1c9fc8a3c906bf8643b4,
+2024-12-18,Payload delivery,sha256,90e121a29138d8495719ed655ea81ca15069b39d4f824d641b7481065c87c0ed,
+2024-12-18,Other,size-in-bytes,597740,
+2024-12-18,Payload delivery,malware-sample,SWIFT_57805730260.exe|b1f3148c69fa203dc8078cafc2f11196,
+2024-12-18,Payload delivery,filename,SWIFT_57805730260.exe,
+2024-12-18,Payload delivery,md5,b1f3148c69fa203dc8078cafc2f11196,
+2024-12-18,Payload delivery,sha1,acf809e1f99a8f1a3247fc719f5bf035df7a1225,
+2024-12-18,Payload delivery,sha256,61add15fcf766dabd73d58c398b2fe60bb98892eac9af9b981f564412023b609,
+2024-12-18,Other,size-in-bytes,1158144,

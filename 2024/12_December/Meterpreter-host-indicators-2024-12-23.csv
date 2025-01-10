@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Meterpreter host indicators [2024-12-23]
+| UUID: fb3e8342-af63-4402-aa67-e47b9b2083a6
+| Date: 2024-12-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-24,Payload installation,filename,reddit.exe,Source: MalwareBazaar
+2024-12-24,Payload installation,md5,23544090c6d379e3eca7343c4f05d4d2,Source: MalwareBazaar
+2024-12-24,Payload installation,sha1,c9250e363790a573e9921a68b7abe64f27e63df1,Source: MalwareBazaar
+2024-12-24,Payload installation,sha256,b439d22ed2c1e1f83f3c52d1a7307d9aee8b516166ab221cb6d67b188cd80f56,Source: MalwareBazaar

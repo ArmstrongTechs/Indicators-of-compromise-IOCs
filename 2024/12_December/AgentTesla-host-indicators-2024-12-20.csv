@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-12-20]
+| UUID: abcc421d-593b-4cfb-ab01-6a9abef602ce
+| Date: 2024-12-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-20,Payload installation,filename,dmm.exe,Source: MalwareBazaar
+2024-12-20,Payload installation,md5,bbbcc33a90a58ddb7484fbb4e3de9045,Source: MalwareBazaar
+2024-12-20,Payload installation,sha1,9c950cd00cf4f1f5896c16fa1df84232ab23a441,Source: MalwareBazaar
+2024-12-20,Payload installation,sha256,ad7e3733334f727508954b7fddebe16af8fb5499e28e243ed42286da81a2da15,Source: MalwareBazaar
+2024-12-20,Payload installation,filename,QUOTATION#008792.exe,Source: MalwareBazaar
+2024-12-20,Payload installation,md5,3fe5154545a6e8c47335c12fcf16b481,Source: MalwareBazaar
+2024-12-20,Payload installation,sha1,7768419fc41a9bbe7fd22896e1e871316fe631a2,Source: MalwareBazaar
+2024-12-20,Payload installation,sha256,15712c6c43c25291c0bff7e6e67df590fbfc1db2e00f341f65c13eb001ba0996,Source: MalwareBazaar
+2024-12-20,Payload installation,filename,hesaphareketi-20-12-2024-pdf.exe,Source: MalwareBazaar
+2024-12-20,Payload installation,md5,1cb211d3d1aead7eb34777c5d76695da,Source: MalwareBazaar
+2024-12-20,Payload installation,sha1,5d61854d0be9ba2360f721cb79c3b06c07e59106,Source: MalwareBazaar
+2024-12-20,Payload installation,sha256,23419d1f783c90e855cd52aaa46ddc97e06f2514dbaf6abf69f1aec24c279fe6,Source: MalwareBazaar

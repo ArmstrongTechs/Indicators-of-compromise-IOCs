@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-12-03]
+| UUID: 7b0efe69-7fdc-4b24-a94d-6a8fbfcefb72
+| Date: 2024-12-03
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-03,Payload installation,filename,RFQ 9-XTC-204-60THD.xlsx.exe,Source: MalwareBazaar
+2024-12-03,Payload installation,filename,Bestellung - 021224 - 901003637.exe,Source: MalwareBazaar
+2024-12-03,Payload installation,filename,Ncvotkdidv.mp3,Source: MalwareBazaar

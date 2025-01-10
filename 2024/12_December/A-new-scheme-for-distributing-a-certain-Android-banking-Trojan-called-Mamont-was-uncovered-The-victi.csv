@@ -1,0 +1,12 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: A new scheme for distributing a certain Android banking Trojan called “Mamont” was uncovered. The victim would receive an instant message from an unknown sender asking to identify a person in a photo. The attackers would then send what appeared to be the photo itself but was actually a malware installer
+| UUID: 852da240-e794-4a69-8fbb-b8017133a079
+| Date: 2024-12-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-27,Network activity,domain,apisys003.com,
+2024-12-27,Payload delivery,md5,12936056e8895e6a662731c798b27333,

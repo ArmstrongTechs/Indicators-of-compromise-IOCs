@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: End-of-Year PTO Days Off and Data Exfiltration with Formbook
+| UUID: 25a804b4-45e4-4f8e-b496-a9e15949a58d
+| Date: 2024-12-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-19,Network activity,url,http://www.7261ltajbc.bond/cbbl/?aX,
+2024-12-19,Network activity,ip-dst,154.12.28.184,
+2024-12-19,Payload delivery,filename,application.exe,
+2024-12-19,Payload delivery,md5,201ad7754669b4d766349530adcca029,
+2024-12-19,Payload delivery,sha256,e16a801f068e55f9b014ac4b4cde9415fec763830ef433cb4eb3e0ee9734bf04,
+2024-12-19,Payload delivery,filename,Mandatory_Notice_for_all_December_Leave_and_Vacation_application.xls.z,
+2024-12-19,Payload delivery,md5,7e78e1c67017e5fd2f63c2744358198f,
+2024-12-19,Payload delivery,sha256,0583eb0dfc05ee6889f49e0da5cb7e48128cb41db627a64045d74e11fa85754c,

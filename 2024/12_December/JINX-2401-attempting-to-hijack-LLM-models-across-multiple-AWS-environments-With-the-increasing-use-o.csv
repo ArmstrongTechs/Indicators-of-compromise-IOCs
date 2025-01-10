@@ -1,0 +1,32 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: JINX-2401 attempting to hijack LLM models across multiple AWS environments. With the increasing use of LLMs, attempts to abuse these models as a way to monetize unauthorized access to cloud subscriptions have become more prevalent"
+| UUID: 3bd45340-c12d-4471-ab4b-3385497ae94c
+| Date: 2024-12-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-19,Network activity,ip-dst,89.187.170.183,
+2024-12-19,Network activity,ip-dst,89.187.170.184,
+2024-12-19,Network activity,ip-dst,89.187.170.167,
+2024-12-19,Network activity,ip-dst,89.187.170.175,
+2024-12-19,Network activity,ip-dst,89.187.170.180,
+2024-12-19,Network activity,ip-dst,89.187.170.174,
+2024-12-19,Network activity,ip-dst,89.187.170.172,
+2024-12-19,Network activity,ip-dst,89.187.170.178,
+2024-12-19,Network activity,ip-dst,89.187.170.171,
+2024-12-19,Network activity,ip-dst,89.187.170.185,
+2024-12-19,Network activity,ip-dst,89.187.170.179,
+2024-12-19,Network activity,ip-dst,89.187.170.182,
+2024-12-19,Network activity,ip-dst,89.187.170.168,
+2024-12-19,Network activity,ip-dst,89.187.170.165,
+2024-12-19,Network activity,ip-dst,89.187.170.170,
+2024-12-19,Network activity,ip-dst,89.187.170.176,
+2024-12-19,Network activity,ip-dst,89.187.170.181,
+2024-12-19,Network activity,ip-dst,89.187.170.169,
+2024-12-19,Network activity,ip-dst,146.70.230.149,
+2024-12-19,Network activity,ip-dst,89.187.170.173,
+2024-12-19,Network activity,ip-dst,89.187.170.177,
+2024-12-19,Network activity,ip-dst,89.187.170.166,

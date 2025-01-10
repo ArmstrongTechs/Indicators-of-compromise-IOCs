@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2024-12-17]
+| UUID: 91f468b2-8075-430f-b252-7110c0738831
+| Date: 2024-12-17
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-17,Payload installation,filename,hesaphareketi-01.pdf.exe,Source: MalwareBazaar
+2024-12-17,Payload installation,md5,f8b8beccdf66e3ef9ca54ac632ceb47b,Source: MalwareBazaar
+2024-12-17,Payload installation,sha1,24a275521156c3d36a452a09b69b7fc9a1981f7e,Source: MalwareBazaar
+2024-12-17,Payload installation,sha256,2cdfbaeb99da97fe3ed7bc8370f3af2a9c1a27e2812119a666f457264f6ca801,Source: MalwareBazaar

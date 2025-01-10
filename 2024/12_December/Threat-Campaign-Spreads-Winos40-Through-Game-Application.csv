@@ -1,0 +1,52 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Threat Campaign Spreads Winos4.0 Through Game Application
+| UUID: 61d1430a-c5cf-43fa-97f6-831e5d6009fa
+| Date: 2024-12-11
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-11,Network activity,url,http://ad59t82g.com/1/lon2.bmp,
+2024-12-11,Network activity,url,http://ad59t82g.com/1/text.bmp,
+2024-12-11,Network activity,url,http://ad59t82g.com/1/d.bmp,
+2024-12-11,Network activity,url,http://ad59t82g.com/1/t2.bmp,
+2024-12-11,Network activity,url,http://ad59t82g.com/1/h.bmp,
+2024-12-11,Network activity,domain,ad59t82g.com,
+2024-12-11,Network activity,ip-dst,202.79.173.4,
+2024-12-11,Payload delivery,sha256,c9817d415d34ea3ae07094dae818ffe8e3fb1d5bcb13eb0e65fd361b7859eda7,
+2024-12-11,Payload delivery,filename,NetDiagnotor.exe,
+2024-12-11,Payload delivery,sha256,284cf31ebb4e7dc827374934ad0726f72e7aaef49cadc6aa59d2a2ff672d3fe8,
+2024-12-11,Payload delivery,filename,gpatchex.exe,
+2024-12-11,Payload delivery,sha256,b2a3aaf4eb4deb85462e1ee39c84caf2830091c1bff8014ad13147897b25e24c,
+2024-12-11,Payload delivery,sha256,b763d77b7aaa83d6c4a9e749cd3c7638127e755d3dc843b15b6c4afce1f468b5,
+2024-12-11,Payload delivery,filename,劲舞团联合登录器.exe,
+2024-12-11,Payload delivery,sha256,dcdbc3b246233befa25b67909a01b835f1875f4047875ef13f1b801cd2da6fcd,
+2024-12-11,Payload delivery,sha256,3fae0495fd0acc7722c2482c0ef3c6ab9ee41acbcaac46a8933c7b36b8896378,
+2024-12-11,Payload delivery,filename,crashreporter.exe,
+2024-12-11,Payload delivery,sha256,f41236ab5ceffc5379fcf444de358cbc6f67beb31d0e0fd3f7ed0f501eb740ff,
+2024-12-11,Payload delivery,filename,yxqxunyou.exe,
+2024-12-11,Payload delivery,sha256,80b1d6411e29e51e54f20f46856d31b28e087e9244693e65d022b680c4ba00ce,
+2024-12-11,Payload delivery,sha256,1a48347f5fc7c63cc03f30810f961133bd3912caf16ac403e11bc3491117181d,
+2024-12-11,Payload delivery,filename,manualupdate.exe,
+2024-12-11,Payload delivery,sha256,8748bb7512f16f8122779171686abe0fa0060f1126298290e240457dc90d0aa7,
+2024-12-11,Payload delivery,filename,MatRepair.exe,
+2024-12-11,Payload delivery,sha256,1354796b44239eef177431584848029161c232401a9580481dbfb5196465250e,
+2024-12-11,Payload delivery,filename,you.dll,
+2024-12-11,Payload delivery,sha256,bef32532923903b12f04b54dd06ec81661f706c3b1397bc77c45492db3919248,
+2024-12-11,Payload delivery,sha256,033965f3063bc2a45e5bd3a57ffce098b9308668d70b9b3063f066df5f3e55dd,
+2024-12-11,Payload delivery,sha256,922512203c7b9fa67e8db2f588ff4945f63e20c4bc0aafccdba749a442808ace,
+2024-12-11,Payload delivery,sha256,04edb6585118d09205ee693a54249ed68ebbf68b3fc3d711d2aa0c815b7b3a23,
+2024-12-11,Payload delivery,sha256,51c7f320b95a64bcff050da86c7884bb4f89a5d00073d747f0da7345c8a4501f,
+2024-12-11,Payload delivery,filename,学籍系统.dll,
+2024-12-11,Payload delivery,sha256,ff0c28c81cd0afd78f78c79863c9f4c8afd9d3877a213dfc2dbb55360b7d93ab,
+2024-12-11,Payload delivery,filename,ConsoleApp2.exe,
+2024-12-11,Payload delivery,sha256,a27dc6e5aea0c3168117cfde2adb01f73f20881fc6485b768915216c46115064,
+2024-12-11,Payload delivery,filename,差异屏幕.vll,
+2024-12-11,Payload delivery,sha256,8f0079a41a262536f502b4b57473effd6ab7955bc2d6e99e0910df18e990a9f6,
+2024-12-11,Payload delivery,filename,文件管理.vll,
+2024-12-11,Payload delivery,sha256,37104f3b3646f5ffc8c78778ec5fdc924ebb5e5756cb162c0e409d24bedf406d,
+2024-12-11,Payload delivery,filename,上线模块.dll,
+2024-12-11,Payload delivery,sha256,a30b68ed39c1517d10b747c2fcd7a72cb12dc8f434203243e7c50df0e56d17d0,
+2024-12-11,Payload delivery,filename,登录模块.dll,

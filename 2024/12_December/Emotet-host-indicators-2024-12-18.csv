@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Emotet host indicators [2024-12-18]
+| UUID: 1a71d5f7-7867-42ff-8111-e7a8b82b5d13
+| Date: 2024-12-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-18,Payload installation,filename,index.html,Source: MalwareBazaar
+2024-12-18,Payload installation,md5,528cc107d6975d8f751095e54bce7511,Source: MalwareBazaar
+2024-12-18,Payload installation,sha1,a40731073bfa54b9e89b41ba00fca06112baf619,Source: MalwareBazaar
+2024-12-18,Payload installation,sha256,39f98e51bcd3696766ee8f0e7c7f7b5d87d75ed730a19ef63cbf88b74cf8f0cd,Source: MalwareBazaar

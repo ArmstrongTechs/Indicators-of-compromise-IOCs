@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-12-31]
+| UUID: 13544f99-e7d1-4402-9bbe-90a9ae5f342c
+| Date: 2024-12-31
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-31,Payload installation,filename,"Statement of Account - USD 16,720.00.exe",Source: MalwareBazaar
+2024-12-31,Payload installation,md5,cf173ca1db13dfc7237fd33630926b65,Source: MalwareBazaar
+2024-12-31,Payload installation,sha1,783e42e20da75ea1a2fd7a02e3824f251f26cf4f,Source: MalwareBazaar
+2024-12-31,Payload installation,sha256,1b9d152c5cd6e2904ada0ca707dbd2bb089ac59f8b07723490552a000848cc54,Source: MalwareBazaar

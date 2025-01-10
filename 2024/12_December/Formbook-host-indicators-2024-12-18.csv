@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-12-18]
+| UUID: e848fdd6-1213-4c4d-92bd-cc6552329573
+| Date: 2024-12-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-18,Payload installation,filename,"scasssss,,.exe",Source: MalwareBazaar
+2024-12-18,Payload installation,md5,02cc023f5905add407d585e509a90205,Source: MalwareBazaar
+2024-12-18,Payload installation,sha1,ce652c373dfa3c6602a8eebc01d86eecc12a2b48,Source: MalwareBazaar
+2024-12-18,Payload installation,sha256,f7f93b6f1ab15cfd66c3d0d60fb7572257d9f283050a8ad2d3d6b710bc8af0f6,Source: MalwareBazaar

@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-12-09]
+| UUID: a6d1f623-c0fe-4439-8cef-404a7343d276
+| Date: 2024-12-10
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-09,Payload installation,filename,Ref#60031796.exe,Source: MalwareBazaar
+2024-12-09,Payload installation,filename,Justificante de pago.exe,Source: MalwareBazaar
+2024-12-09,Payload installation,filename,"Aktarma,pdf.vbs",Source: MalwareBazaar
+2024-12-10,Payload installation,filename,Rfq_po_december_purchase_list_details_specifications_09_12_2024_0000000000.7z,Source: MalwareBazaar
+2024-12-10,Payload installation,filename,Rfq_po_december_purchase_list_details_specifications_09_12_2024_0000000000.vbs,Source: MalwareBazaar
+2024-12-10,Payload installation,filename,472cd96b1b5771243c40c10cd034324e.exe,Source: MalwareBazaar
+2024-12-10,Payload installation,filename,1733782507080baec6756496aa00a9de94bd4b6146711872f8ab63e40379ca627825be54c2492.dat-decoded,Source: MalwareBazaar
+2024-12-10,Payload installation,filename,173378939937efea07b4bc781b0b774c712430f5494a016d81092444624b7a38c4894091d6159.dat-decoded,Source: MalwareBazaar

@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AveMariaRAT host indicators [2024-12-14]
+| UUID: 6b673ced-e8cf-462a-a940-ca7b0b6bdbe4
+| Date: 2024-12-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-14,Payload installation,filename,Pago.xls,Source: MalwareBazaar
+2024-12-14,Payload installation,md5,fcf8455b5da351650ed2e3c7d560d76e,Source: MalwareBazaar
+2024-12-14,Payload installation,sha1,e8e8b2be3a8c6bcf4a875671c468eb1dae630111,Source: MalwareBazaar
+2024-12-14,Payload installation,sha256,f945161c3ba134c15554ef6dab1300ce6991e341d83bae157117072660533364,Source: MalwareBazaar

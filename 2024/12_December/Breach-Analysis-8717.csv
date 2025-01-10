@@ -1,0 +1,32 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Breach Analysis #8717
+| UUID: 601f8807-1ede-4211-bb16-4b03ed775203
+| Date: 2024-12-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-23,Network activity,domain,adobemoduleinstall.bluetrait.io,"Bluetrait link for installation of the malicious  control software, also configured for  communicating the agent once installed"
+2024-12-23,Network activity,domain|ip,manage.opti-tune.com|208.115.104.100,OptiTune domain used to download the  installer
+2024-12-23,Network activity,domain|ip,biereporcupine.com|109.234.164.45,Domain linked with phishing email received
+2024-12-23,Network activity,domain,lehoux-gif.fr,Domain linked with phishing email received
+2024-12-23,Network activity,ip-src,100.42.187.171,Suspicious IP address that connected to the  compromised account
+2024-12-23,Network activity,ip-src,51.15.26.52,Suspicious IP address that connected to the  compromised account
+2024-12-23,Network activity,ip-src,35.188.219.227,Suspicious IP address that connected to the compromised accounT
+2024-12-23,Network activity,domain|ip,nonocloud.tech|89.116.25.89,Domain used by Mesh and TactialRMM  remote access tools.
+2024-12-23,Network activity,url,https://adobemoduleinstall.bluetrait.io/simple/msp_download_agent?os=windows&access_key=90ab14a6-c050-466a-992de6cc983a23a5,Url within the phishing PDF used to download  the BlueTrait installer – Taken down by the  provider
+2024-12-23,Network activity,url,s://manage.optitune.com/agent/download.ashx?id=7e4a4958-0f98-4b91-b490-bf38e6db9b0c,
+2024-12-23,Payload delivery,filename|md5,setup.exe|94c0365810e06d478968b4db48d36086,Setup.exe is downloaded from the URL that is  contained into the PDF attached to the  phishing emails
+2024-12-23,Payload delivery,filename|md5,BluetraitAgent381.msi|0c7d30468c0d5975866b6f10017330d9,Bluetrait installer
+2024-12-23,Payload delivery,filename|md5,Demande Rachat et Resiliation.pdf|cb1dc0f1a24539a4ec50d9cd1d7eee64,PDF phishing file received by compromised  use
+2024-12-23,Payload delivery,filename|md5,ROCESXVERBAL.pdf|efbb729cbfa7d669dcefaa08005fe104,PDF phishing file sent by compromised user
+2024-12-23,Payload delivery,filename|sha1,PROCESXVERBAL.pdf|b1ac978b03f4180d4fea5863ac9a6b823f08373f,PDF phishing file sent by compromised user
+2024-12-23,Payload delivery,filename|sha1,setup.exe|fc69d3a691c6faae0ac35359b2f0643e6f720cab,File downloaded from the phishing link in the  PDF
+2024-12-23,Payload delivery,filename|sha1,Demande Rachat et Resiliation.pdf|55035df232ca4333aeb405f3da6014d2e0f7ff06,PDF phishing file received by compromised  user
+2024-12-23,Payload delivery,filename|sha1,BluetraitAgent381.msi|0f2d7d1d9fa10d46e8d73c75db7509f950578bc6,Bluetrait installer
+2024-12-23,Payload delivery,filename|sha256,BluetraitAgent381.msi|1cd8f56f9213249e555dedda4380add02cbe74fb81a5806ef1eec3935a7f041a,Bluetrait installer
+2024-12-23,Payload delivery,filename|sha256,setup.exe|b6b1198f6e143242a9ef1900cb9f100df87781ab4242e0a7ef545df41303484a,File downloaded from the phishing link in the  PDF
+2024-12-23,Payload delivery,filename|sha256,PROCESXVERBAL.pdf|3d1c9d5936416575885b672c855f933c6ad95e7e20d1c777589b49f2184035fc,PDF phishing file sent by compromised user
+2024-12-23,Payload delivery,filename|sha256,Demande Rachat et Resiliation.pdf|4929617763fe040c7248465f7935121d96051988617f526cfbf38afd740eb1cc,PDF phishing file received by compromised  user

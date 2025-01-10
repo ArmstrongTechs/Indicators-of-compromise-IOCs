@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-12-15]
+| UUID: 891cbdcf-1e10-4330-b187-fbfe33e22c39
+| Date: 2024-12-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-16,Payload installation,filename,newrfq.exe,Source: MalwareBazaar
+2024-12-16,Payload installation,md5,23e78f332a9eb9075cfadb0253b78f94,Source: MalwareBazaar
+2024-12-16,Payload installation,sha1,d84d6fb209bcd5e11e75577a859a05e3cfc3ade6,Source: MalwareBazaar
+2024-12-16,Payload installation,sha256,c64cd755a3b9d9bc23e8b0654820c719556cd630198bd3ba147e5dda26474ea1,Source: MalwareBazaar

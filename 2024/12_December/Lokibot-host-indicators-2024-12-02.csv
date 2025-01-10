@@ -1,0 +1,12 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lokibot host indicators [2024-12-02]
+| UUID: 16ee9254-c065-4750-b1a5-e366df1ab5e3
+| Date: 2024-12-02
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-02,Payload installation,filename,Quotation.exe,Source: MalwareBazaar
+2024-12-02,Payload installation,filename,Pirkuma pas?t?jums_(PO40232)_LEAX Baltix SIA.exe,Source: MalwareBazaar

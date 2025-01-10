@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: DanaBot host indicators [2024-12-27]
+| UUID: bcbcebaf-a001-468a-b565-7ecf15b782fc
+| Date: 2024-12-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-27,Payload installation,filename,72b6b07175ef611ce7daa959a1248aae.exe,Source: MalwareBazaar
+2024-12-27,Payload installation,md5,72b6b07175ef611ce7daa959a1248aae,Source: MalwareBazaar
+2024-12-27,Payload installation,sha1,bee9d33d83c98a7c2c3c9d0eb671fa1d53328378,Source: MalwareBazaar
+2024-12-27,Payload installation,sha256,8e6ae3b356d2205296fec0761daa461a311190e50e0e611699ebb4aad6e6cd77,Source: MalwareBazaar
+2024-12-27,Payload installation,filename,GfxDriverUpdater.exe,Source: MalwareBazaar
+2024-12-27,Payload installation,md5,d23183c5a659b5f5ce29168fa2cf9455,Source: MalwareBazaar
+2024-12-27,Payload installation,sha1,43e625dae54df9d8adbf687885beda89aa312357,Source: MalwareBazaar
+2024-12-27,Payload installation,sha256,2ef2d5e126c0508e5a8d9d4d9fa08d60d4987b4ca401a8d2d62c89a8ef4bcc0f,Source: MalwareBazaar

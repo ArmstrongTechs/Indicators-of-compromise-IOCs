@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Gh0stRAT host indicators [2024-12-19]
+| UUID: bd26ec43-1dbe-4e1a-80da-c473de876be2
+| Date: 2024-12-19
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-19,Payload installation,filename,f4289f353d9d0404a087b63f66a1eb2a34bc5eda.dll,Source: MalwareBazaar
+2024-12-19,Payload installation,md5,95c1031356a25864d90ba5f3f0c81868,Source: MalwareBazaar
+2024-12-19,Payload installation,sha1,f4289f353d9d0404a087b63f66a1eb2a34bc5eda,Source: MalwareBazaar
+2024-12-19,Payload installation,sha256,ee3b8c349af80723bc940b7ceea71597106f962e1ea7281e866f76399511154b,Source: MalwareBazaar
+2024-12-19,Payload installation,filename,c3e91ea457a6aac1ace5ace1a1e07c6b3a1d87b0.dll,Source: MalwareBazaar
+2024-12-19,Payload installation,md5,54429e9f729a0b1121df0392f9510b19,Source: MalwareBazaar
+2024-12-19,Payload installation,filename,d28a668a5d436e057a4503415fe0087a6f028fc7.dll,Source: MalwareBazaar
+2024-12-19,Payload installation,md5,fb3f1f0c59548118f1ed5c78efe862b8,Source: MalwareBazaar
+2024-12-19,Payload installation,sha1,d28a668a5d436e057a4503415fe0087a6f028fc7,Source: MalwareBazaar
+2024-12-19,Payload installation,filename,599eddbe139894f6ce91721f373eff38f3248bb0.dll,Source: MalwareBazaar
+2024-12-19,Payload installation,md5,5c3eec19cb70cb4e1d7b91e451c9cc85,Source: MalwareBazaar
+2024-12-19,Payload installation,sha1,599eddbe139894f6ce91721f373eff38f3248bb0,Source: MalwareBazaar
+2024-12-19,Payload installation,filename,5046202471192a0249f2b811af51b39789ec146f.dll,Source: MalwareBazaar
+2024-12-19,Payload installation,md5,cf0df8da8b182765f7e2ec34dcaf6fe6,Source: MalwareBazaar
+2024-12-19,Payload installation,sha1,5046202471192a0249f2b811af51b39789ec146f,Source: MalwareBazaar
+2024-12-19,Payload installation,sha256,d5e1b0702c26dbaf5793c59ca03f64aa0d036392202bbcd32035adab3e8d1f3f,Source: MalwareBazaar

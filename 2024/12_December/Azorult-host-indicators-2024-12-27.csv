@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Azorult host indicators [2024-12-27]
+| UUID: bc0425a5-ab4b-45c0-a4b8-b2075e4fbea2
+| Date: 2024-12-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-27,Payload installation,filename,onetap.exe,Source: MalwareBazaar
+2024-12-27,Payload installation,md5,fadf16a672e4f4af21b0e364a56897c3,Source: MalwareBazaar
+2024-12-27,Payload installation,sha1,53e8b0863492525e17b5ce4ff99fb73a20544b87,Source: MalwareBazaar
+2024-12-27,Payload installation,sha256,21314041b5b17d156a68d246935ab476d3532a1c9c72a39b02d98a6b7ef59473,Source: MalwareBazaar
+2024-12-27,Payload installation,filename,ae130c89b7d8c4c9fd06422faeb79fc9.exe,Source: MalwareBazaar
+2024-12-27,Payload installation,md5,ae130c89b7d8c4c9fd06422faeb79fc9,Source: MalwareBazaar
+2024-12-27,Payload installation,sha1,b5fdcc9e63448dd0f68b75b7bf54ff3fef94623c,Source: MalwareBazaar
+2024-12-27,Payload installation,sha256,b13a4e5207954eaeb6aaf32e333a4f366a86afc0779406c9bf17805d5b83e2e9,Source: MalwareBazaar

@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-12-24]
+| UUID: c85a4bf0-fe7e-474a-ae3a-b3c9e71b8eef
+| Date: 2024-12-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-24,Payload installation,filename,HALKBANK EKSTRE.exe,Source: MalwareBazaar
+2024-12-24,Payload installation,md5,50424fd9b7befb9448ad8cde1c5522e8,Source: MalwareBazaar
+2024-12-24,Payload installation,sha1,9df450f22397be8631a2b8092843ba0e180ca8b7,Source: MalwareBazaar
+2024-12-24,Payload installation,sha256,038849db19818c7136fe0a551b3f1b9ab11d51390ab2f4197f9f7c5ff16f6a8f,Source: MalwareBazaar

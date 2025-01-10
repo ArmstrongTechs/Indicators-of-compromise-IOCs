@@ -1,0 +1,33 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Malspam dil.lu send from compromized email accounts
+| UUID: 91268b8d-d61c-4b87-a170-cffaee6ee938
+| Date: 2024-12-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-13,Payload delivery,attachment,preview-0-1.png,preview of the pdf
+2024-12-13,Payload delivery,attachment,preview-0-0.png,
+2024-12-13,Payload delivery,filename,Facture_358774.pdf,
+2024-12-13,Other,size-in-bytes,181566,
+2024-12-13,Other,float,7.1919359682207,
+2024-12-13,Payload delivery,md5,8fa78747eaeacf3d4264b6529b0501ee,
+2024-12-13,Payload delivery,sha1,133b35bdf5e0c5646544f5f3abce231e06b8baa6,
+2024-12-13,Payload delivery,sha256,65878589cff87634b9f16abd0839c89020ac70499ffce8719c5a06ac40f3be1c,
+2024-12-13,Payload delivery,sha512,3d8a6f3ec72906f090f715b52e81fcc7310e07bc758a1b8d1ba9bb59d0058dc55e94e307831add0104b5eb8052432894260633541bf4628aceea205f72de3a3c,
+2024-12-13,Payload delivery,malware-sample,Facture_358774.pdf|8fa78747eaeacf3d4264b6529b0501ee,
+2024-12-13,Artifacts dropped,mime-type,application/pdf,
+2024-12-13,Payload delivery,ssdeep,1536:BKLKaTNwkqJzHXgslpzzO5YqCf+vYFac68UmyyN7BlD6dddddda6wEJiSCp7KOxJ:BqKaC3Qs3zzOj00P8Nyycwjp/DTbW0,
+2024-12-13,Network activity,url,https://manage.opti-tune.com/agent/download.ashx?id=637efb75-56a0-47a2-a4f8-b394036c753d,
+2024-12-13,Other,datetime,2024-12-12T09:01:04.000000+0100,
+2024-12-13,Other,text,Extracted from the file Facture_358774.pdf,
+2024-12-13,External analysis,link,https://www.virustotal.com/gui/file/65878589cff87634b9f16abd0839c89020ac70499ffce8719c5a06ac40f3be1c,
+2024-12-13,Other,text,0/64,
+2024-12-13,Payload delivery,md5,8fa78747eaeacf3d4264b6529b0501ee,
+2024-12-13,Payload delivery,sha1,133b35bdf5e0c5646544f5f3abce231e06b8baa6,
+2024-12-13,Payload delivery,sha256,65878589cff87634b9f16abd0839c89020ac70499ffce8719c5a06ac40f3be1c,
+2024-12-13,Payload delivery,tlsh,t1c80494178c088b83916847e8be435dac1f1b375dd4923aff206a5ecb7f606161c9e16e,
+2024-12-13,Payload delivery,vhash,931c5a560a9c80b19d0ac7483a8eae1a2,
+2024-12-13,Payload delivery,ssdeep,1536:BKLKaTNwkqJzHXgslpzzO5YqCf+vYFac68UmyyN7BlD6dddddda6wEJiSCp7KOxJ:BqKaC3Qs3zzOj00P8Nyycwjp/DTbW0,

@@ -1,0 +1,54 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Mirai Variant Uses DNS TXT Records To Stealthily Retrieve C2 Configuration
+| UUID: dffa69a0-d5ac-45a8-aba3-d6f92b957f4c
+| Date: 2024-12-06
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-06,Payload delivery,sha256,1b3bb39a3d1eea8923ceb86528c8c38ecf9398da1bdf8b154e6b4d0d8798be49,
+2024-12-06,Payload delivery,sha256,0d404a27c2f511ea7f4adb8aa150f787b2b1ff36c1b67923d6d1c90179033915,
+2024-12-06,Payload delivery,sha256,4826b0194fbd924aa57b9c4ab1e017f0f45f547189374b0ea761d415fa4285ff,
+2024-12-06,Payload delivery,sha256,38406b2effd9fc37ce41ee914fda798de9c9b0e239a0cc94b1464dc2a9984fe9,
+2024-12-06,Payload delivery,sha256,b43a8a56c10ba17ddd6fa9a8ce10ab264c6495b82a38620e9d54d66ec8677b0c,
+2024-12-06,Payload delivery,sha256,c0ae1eb249705f61d45ca747c91c02a411557a28792f4064c1d647abb580bc10,
+2024-12-06,Payload delivery,sha256,3f427eda4d4e18fb192d585fca1490389a1b5f796f88e7ebf3eceec51018ef4d,
+2024-12-06,Payload delivery,sha256,a843971908aa31a81d96cc8383dcde7f386050c6e3437ad6a470f43dc2bf894b,
+2024-12-06,Payload delivery,sha256,10686a12b7241a0836db6501a130ab67c7b38dbd583ccd39c9e655096695932e,
+2024-12-06,Payload delivery,sha256,cfcae524309a220a48327c50bf32bf5ed3aed5698855b5da9f1ae932fb2df90c,
+2024-12-06,Payload delivery,sha256,23190d722ba3fe97d859bd9b086ff33a14ae9aecfc8a2c3427623f93de3d3b14,
+2024-12-06,Payload delivery,sha256,4a4316178e85e0d4c94d74af9f2258c045194cf7a4f4a83a90abf5db09fbaa04,
+2024-12-06,Payload delivery,sha256,366ddbaa36791cdb99cf7104b0914a258f0c373a94f6cf869f946c7799d5e2c6,
+2024-12-06,Payload delivery,sha256,774947944ea370592a30478bb3f26081799f7d7df975a6735e620d3442e7803b,
+2024-12-06,Payload delivery,sha256,82e5e0f6c130a3f0424cf33468f5ec7a3a66d14f5d346196d1b604ecd2b1e6a3,
+2024-12-06,Payload delivery,sha256,461f59a84ccb4805c4bbd37093df6e8791cdf1151b2746c46678dfe9f89ac79d,
+2024-12-06,Payload delivery,sha256,aaf446e4e7bfc05a33c8d9e5acf56b1c7e95f2d919b98151ff2db327c333f089,
+2024-12-06,Payload delivery,sha256,2804f6cb611dc54775145b1bb0a51a19404c0b3618b12e41b7ea8deaeb9e357f,
+2024-12-06,Payload delivery,sha256,65a46cd29dad935d067a4289445d2efb2710d44d789bf1bf0efb29f94d20e531,
+2024-12-06,Payload delivery,sha256,3d6be7b9bd4798000230e354a5777601ca6672c8d84af842469ddeb1681ed7f2,
+2024-12-06,Payload delivery,sha256,e2a6ac516ec8b5dcc76becc26cf992434882d490d8f2c9d7071298dba7a641a2,
+2024-12-06,Payload delivery,sha256,7bc99c87a1e0582b5f15f40141226862fbe726b496e1e77c7f95993e8e945733,
+2024-12-06,Payload delivery,sha256,eca42235a41dbd60615d91d564c91933b9903af2ef3f8356ec4cfff2880a2f19,
+2024-12-06,Payload delivery,sha256,f4bf61fc335db4f3e7d7d89b534bc1e6ead66a51938e119ea340fe95039935e3,
+2024-12-06,Payload delivery,sha256,413e977ae7d359e2ea7fe32db73fa007ee97ee1e9e3c3f0b4163b100b3ec87c2,
+2024-12-06,Payload delivery,sha256,2d0c8ab6c71743af8667c7318a6d8e16c144ace8df59a681a0a7d48affc05599,
+2024-12-06,Payload delivery,sha256,b45142a2d59d16991a38ea0a112078a6ce42c9e2ee28a74fb2ce7e1edf15dce3,
+2024-12-06,Payload delivery,sha256,88f7b9a8c4f9bb28582c485549b328d6123e8aea33009ce7657f7fc0ef829e03,
+2024-12-06,Payload delivery,sha256,64545e94daafba191669333e1dd0c6e1190df47e0742bd515911cce0cdbd4fd1,
+2024-12-06,Payload delivery,sha256,e82192fbe00bc7205abe786155bbfc0548f5c6ee9819a581e965526674f3cc57,
+2024-12-06,Payload delivery,sha256,25d1c51135dca20f4f7a720f237d9186edde2a2a664ede6bef37e843e7be409c,
+2024-12-06,Payload delivery,sha256,4f53eb7fbfa5b68cad3a0850b570cbbcb2d4864e62b5bf0492b54bde2bdbe44b,
+2024-12-06,Payload delivery,sha256,57d39a6a88093c9e1fbc1626105d714be92680bdf666279b7663bcaaf7fa7e6e,
+2024-12-06,Payload delivery,sha256,eed4690f6e4d92b511fcde9a712b1a8405c5333e0ad78a4c676a64b22412e149,
+2024-12-06,Payload delivery,sha256,5967a4889b54b97adbb6b949ffd590fa416599326eb3432f40fa142aab1df795,
+2024-12-06,Payload delivery,sha256,ff8a1abcd4fa94ffc0f1f43a92f816e6bd08272ec54d748cf004c3ef1323d5d9,
+2024-12-06,Payload delivery,sha256,1d9496814d35d9e302d7e99339e9730fc81c022bc085c0711b73ebad962cbc2b,
+2024-12-06,Payload delivery,sha256,1cf3879d9e93d1ff30ce5ec0f64ff15b1db7d8237160c83efed688d800e5ef12,
+2024-12-06,Payload delivery,sha256,ebfedbcf428215d34d8f876fb9c5658048dbb4c5607f328ae155bf26a292b38d,
+2024-12-06,Payload delivery,sha256,210f3f1ffd2ec66a5076a7fea5d83caa8bbcdb0f3bc3bd030c77eded6f4b5d90,
+2024-12-06,Network activity,ip-dst,94.156.71.74,
+2024-12-06,Network activity,ip-dst,91.227.62.41,
+2024-12-06,Payload delivery,sha256,b61c0d7704fce9b92ec8c74beaa5e415eebfc13da3fa854af58b6eb150e252cd,
+2024-12-06,External analysis,vulnerability,CVE-2021-36260,

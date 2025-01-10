@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Nanocore host indicators [2024-12-17]
+| UUID: fc95dbe9-7754-44d6-b4d2-ca494642c80f
+| Date: 2024-12-17
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-17,Payload installation,filename,Nan_Brout_ncrypt.exe,Source: MalwareBazaar
+2024-12-17,Payload installation,md5,51369fea111eee2682a99f9d3d6476fc,Source: MalwareBazaar
+2024-12-17,Payload installation,sha1,abb83200ed459c1457858b1a06cff33dd401098d,Source: MalwareBazaar
+2024-12-17,Payload installation,sha256,710ff75d5a2cbf5c03f0d614b6be6f7a74c32be8108427648445ea1acd8a3cdf,Source: MalwareBazaar

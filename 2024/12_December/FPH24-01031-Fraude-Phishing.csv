@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-01031 [Fraude] [Phishing]
+| UUID: bf7dadc5-7748-46e9-a0e7-ccb1b2d2a702
+| Date: 2024-12-05
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-06,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+Se trata de una nueva campaña de phishing a través de email, en el cual se suplanta a DHL.En esta campaña, los delincuentes indican falsamente a la víctima lo siguiente:&quot;¡Estimado cliente!Tu paquete ha sido devuelto a la oficina de DHL y deberás pagar unos gastos de envío de 2,65€.Tienes 48 horas para recibir el paquete, de lo contrario el paquete será devuelto al remitente.&quot;El correo electrónico incluye un enlace a un formulario malicioso usado para robar credenciales (usuarios y contraseñas) de usuarios.",Resumen

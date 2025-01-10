@@ -1,0 +1,12 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Phishing URL findings
+| UUID: c40c78c3-90d5-4a33-9e60-bdf270327c6a
+| Date: 2024-12-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-30,Network activity,url,https://vlnted-gb.offer4292.info/getpayment/260099396,Source URL
+2024-12-30,Network activity,domain,vlnted-gb.offer4292.info,Source Domain

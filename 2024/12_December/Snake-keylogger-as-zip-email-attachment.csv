@@ -1,0 +1,25 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Snake keylogger as .zip email attachment
+| UUID: 9f499662-437d-406a-8630-30e682f316b3
+| Date: 2024-12-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-20,Network activity,email-src,clienti@damaz.it,
+2024-12-20,Network activity,domain,mail.damaz.it,
+2024-12-20,Network activity,email-dst,xhycablemax@gmail.com,
+2024-12-20,Payload delivery,malware-sample,Product List (-20) request - machines.zip|11af2f9a9dffabaa26135d80a94ef3d2,
+2024-12-20,Payload delivery,filename,Product List (-20) request - machines.zip,
+2024-12-20,Payload delivery,md5,11af2f9a9dffabaa26135d80a94ef3d2,
+2024-12-20,Payload delivery,sha1,abb9fb7f58c8b68e4a3a3592b28e4693c0264cb9,
+2024-12-20,Payload delivery,sha256,058ed30a9f1b4e84d9b6e80b816487dccc4e586b159cf1782cdd0a41cfcf0dce,
+2024-12-20,Other,size-in-bytes,358214,
+2024-12-20,Payload delivery,malware-sample,Product List (-20) request - machines.com|d6fa9a1f6e2d237eafc62947d3f9be3d,
+2024-12-20,Payload delivery,filename,Product List (-20) request - machines.com,
+2024-12-20,Payload delivery,md5,d6fa9a1f6e2d237eafc62947d3f9be3d,
+2024-12-20,Payload delivery,sha1,d63b863fe2dc477ec4a8a97e697fc9c64a8a4848,
+2024-12-20,Payload delivery,sha256,b527502de3c466986af49d13420b211aea3b10aa867936baeb3c5ebd7f9dca9f,
+2024-12-20,Other,size-in-bytes,826368,

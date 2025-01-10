@@ -1,0 +1,28 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Phishing collection
+| UUID: 131487f4-980f-4a7a-8f69-d0e7136c2cba
+| Date: 2024-12-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-16,Network activity,url,https://relink.is/k6vanf,Swedbank
+2024-12-16,Network activity,url,https://relink.is/erpw24,Swedbank
+2024-12-16,Network activity,url,https://swedbenkk.ink/,Swedbank
+2024-12-16,Network activity,url,https://styledebates.com/,Swedbank
+2024-12-16,Network activity,domain,swedbenkk.ink,
+2024-12-16,Network activity,domain,styledebates.com,
+2024-12-16,Network activity,ip-src,195.20.234.214,Subject: SSL-sertifikaadi tasu: 9 € - tasuge kohe!
+2024-12-16,Network activity,email-src,info@email.fellnasenwelt.de,Subject: SSL-sertifikaadi tasu: 9 € - tasuge kohe!
+2024-12-16,Network activity,email-dst,info@email.fellnasenwelt.de,Subject: SSL-sertifikaadi tasu: 9 € - tasuge kohe!
+2024-12-16,Network activity,url,http://dpd.interneti-tehing.ee,DPD
+2024-12-16,Network activity,domain,dpd.interneti-tehing.ee,DPD
+2024-12-16,Network activity,domain,interneti-tehing.ee,DPD
+2024-12-16,Network activity,domain,seb.supportqueue102.com,SEB
+2024-12-16,Network activity,url,https://seb.supportqueue102.com/,SEB
+2024-12-16,Network activity,email-src,notifications@swipedon.com,Subject: DPD * Eesti - *Kättetoimetamine ei õnnestunud*
+2024-12-16,Network activity,url,https://portal.franciscardinalarinzeschools.com.ng/index.html,Subject: Teie pakett ootab
+2024-12-16,Network activity,url,https://omniva.getyobox.store/Omniva/,Subject: Teie pakett ootab
+2024-12-16,Network activity,domain,omniva.getyobox.store,Subject: Teie pakett ootab

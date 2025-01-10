@@ -1,0 +1,72 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: SSH bruteforce Attackers [2024-12-17]
+| UUID: 8d13c15a-8c4d-4c58-b072-d86edf035c5e
+| Date: 2024-12-17
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-18,Network activity,ip-src,103.168.225.58,Source: alienvault
+2024-12-18,Network activity,ip-src,14.103.118.121,Source: alienvault
+2024-12-18,Network activity,ip-src,116.236.187.5,Source: alienvault
+2024-12-18,Network activity,ip-src,110.3.254.213,Source: alienvault
+2024-12-18,Network activity,ip-src,14.103.117.79,Source: alienvault
+2024-12-18,Network activity,ip-src,13.87.242.87,Source: alienvault
+2024-12-18,Network activity,ip-src,157.230.242.104,Source: alienvault
+2024-12-18,Network activity,ip-src,182.43.240.135,Source: alienvault
+2024-12-18,Network activity,ip-src,134.122.107.189,Source: alienvault
+2024-12-18,Network activity,ip-src,41.57.69.6,Source: alienvault
+2024-12-18,Network activity,ip-src,222.90.10.47,Source: alienvault
+2024-12-18,Network activity,ip-src,165.227.109.223,Source: alienvault
+2024-12-18,Network activity,ip-src,157.245.104.206,Source: alienvault
+2024-12-18,Network activity,ip-src,49.207.1.85,Source: alienvault
+2024-12-18,Network activity,ip-src,51.75.253.68,Source: alienvault
+2024-12-18,Network activity,ip-src,147.182.198.14,Source: alienvault
+2024-12-18,Network activity,ip-src,137.118.218.115,Source: alienvault
+2024-12-18,Network activity,ip-src,205.210.31.111,Source: alienvault
+2024-12-18,Network activity,ip-src,179.126.53.132,Source: alienvault
+2024-12-18,Network activity,ip-src,20.2.249.196,Source: alienvault
+2024-12-18,Network activity,ip-src,89.165.1.20,Source: alienvault
+2024-12-18,Network activity,ip-src,195.20.230.134,Source: alienvault
+2024-12-18,Network activity,ip-src,78.135.110.46,Source: alienvault
+2024-12-18,Network activity,ip-src,121.229.191.90,Source: alienvault
+2024-12-18,Network activity,ip-src,95.181.86.2,Source: alienvault
+2024-12-18,Network activity,ip-src,172.206.142.56,Source: alienvault
+2024-12-18,Network activity,ip-src,64.23.191.138,Source: alienvault
+2024-12-18,Network activity,ip-src,46.101.108.159,Source: alienvault
+2024-12-18,Network activity,ip-src,101.36.110.164,Source: alienvault
+2024-12-18,Network activity,ip-src,103.8.64.34,Source: alienvault
+2024-12-18,Network activity,ip-src,195.37.190.89,Source: alienvault
+2024-12-18,Network activity,ip-src,178.32.170.22,Source: alienvault
+2024-12-18,Network activity,ip-src,154.221.34.172,Source: alienvault
+2024-12-18,Network activity,ip-src,182.223.176.67,Source: alienvault
+2024-12-18,Network activity,ip-src,132.248.247.237,Source: alienvault
+2024-12-18,Network activity,ip-src,109.230.223.188,Source: alienvault
+2024-12-18,Network activity,ip-src,115.141.75.102,Source: alienvault
+2024-12-18,Network activity,ip-src,79.137.192.108,Source: alienvault
+2024-12-18,Network activity,ip-src,104.248.22.19,Source: alienvault
+2024-12-18,Network activity,ip-src,171.102.58.105,Source: alienvault
+2024-12-18,Network activity,ip-src,157.245.146.86,Source: alienvault
+2024-12-18,Network activity,ip-src,119.188.168.58,Source: alienvault
+2024-12-18,Network activity,ip-src,206.42.56.228,Source: alienvault
+2024-12-18,Network activity,ip-src,134.41.232.194,Source: alienvault
+2024-12-18,Network activity,ip-src,20.244.7.112,Source: alienvault
+2024-12-18,Network activity,ip-src,125.142.39.13,Source: alienvault
+2024-12-18,Network activity,ip-src,140.246.153.154,Source: alienvault
+2024-12-18,Network activity,ip-src,210.79.190.200,Source: alienvault
+2024-12-18,Network activity,ip-src,45.95.232.192,Source: alienvault
+2024-12-18,Network activity,ip-src,218.78.62.201,Source: alienvault
+2024-12-18,Network activity,ip-src,47.94.83.176,Source: alienvault
+2024-12-18,Network activity,ip-src,96.78.175.43,Source: alienvault
+2024-12-18,Network activity,ip-src,3.145.156.0,Source: alienvault
+2024-12-18,Network activity,ip-src,139.226.93.148,Source: alienvault
+2024-12-18,Network activity,ip-src,64.62.197.166,Source: alienvault
+2024-12-18,Network activity,ip-src,103.176.79.117,Source: alienvault
+2024-12-18,Network activity,ip-src,14.103.117.98,Source: alienvault
+2024-12-18,Network activity,ip-src,186.125.27.81,Source: alienvault
+2024-12-18,Network activity,ip-src,5.225.186.198,Source: alienvault
+2024-12-18,Network activity,ip-src,157.230.94.81,Source: alienvault
+2024-12-18,Network activity,ip-src,64.227.146.240,Source: alienvault
+2024-12-18,Network activity,ip-src,94.179.109.66,Source: alienvault

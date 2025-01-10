@@ -1,0 +1,32 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-12-11]
+| UUID: 0826e611-d19e-453e-8b46-f00082af7c6a
+| Date: 2024-12-11
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-11,Payload installation,filename,PO 20495008.exe,Source: MalwareBazaar
+2024-12-11,Payload installation,filename,QUOTATION#08670.exe,Source: MalwareBazaar
+2024-12-12,Payload installation,filename,"INV01542 , INV01562-7500003124 JTR-0084.bat",Source: MalwareBazaar
+2024-12-12,Payload installation,md5,0b87c44a55bc24c1a96e1797c939bb10,Source: MalwareBazaar
+2024-12-12,Payload installation,sha1,af91b2b662f7a1827fba6bf5158178dd8cebcbd7,Source: MalwareBazaar
+2024-12-12,Payload installation,sha256,bb1cbd0fd591bed430c586933cced40166d459cfd324c738e5d3d6cd8e154a36,Source: MalwareBazaar
+2024-12-12,Payload installation,filename,"INV01542 , INV01562-7500003124 JTR-0084.7z",Source: MalwareBazaar
+2024-12-12,Payload installation,md5,32242204396fc8f3e2b6a6731533b72b,Source: MalwareBazaar
+2024-12-12,Payload installation,sha1,99b4ef4b99c7832d68a29b2e0b1bfa03923db347,Source: MalwareBazaar
+2024-12-12,Payload installation,sha256,c4818f6a9908f61464ed5c1187f893a8b0a782683db27d0c15f9da93c872bbff,Source: MalwareBazaar
+2024-12-12,Payload installation,filename,TT-copies for invoices.exe,Source: MalwareBazaar
+2024-12-12,Payload installation,md5,afe81319c38d7fb0c9061492315fd907,Source: MalwareBazaar
+2024-12-12,Payload installation,sha1,294e3b75d8fc5bf8afddfa0f7518db11345236c6,Source: MalwareBazaar
+2024-12-12,Payload installation,sha256,ebb0798162290ffb9a0e46b0ac35c719044bf93c62d90e056fdf9a41c3fc132d,Source: MalwareBazaar
+2024-12-12,Payload installation,filename,ttp.exe,Source: MalwareBazaar
+2024-12-12,Payload installation,md5,de47cbd3f8a1db46ec2716b4185fab98,Source: MalwareBazaar
+2024-12-12,Payload installation,sha1,45aecf9f8e6c34207a8dafecd0f2ca90b334c5fe,Source: MalwareBazaar
+2024-12-12,Payload installation,sha256,b17505955e2436a83dcc3b4a213f10fc2b827316ba2d40a5d6c2415feb34e623,Source: MalwareBazaar
+2024-12-12,Payload installation,filename,WAIMAGE 11.12.24.pdf.rar,Source: MalwareBazaar
+2024-12-12,Payload installation,md5,b71c9cbd26515798c82b3479fd1ca7fd,Source: MalwareBazaar
+2024-12-12,Payload installation,sha1,987ad66f83e1759116fe95cc9f45d748c1280de2,Source: MalwareBazaar
+2024-12-12,Payload installation,sha256,363ed145e039a31a141bd945a8d565f95ad11b6ce8c160b03825148a26104a08,Source: MalwareBazaar

@@ -1,0 +1,46 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Meterpreter host indicators [2024-12-13]
+| UUID: 40eaa909-01ec-4870-a81f-cbdd5dcf74ea
+| Date: 2024-12-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-13,Payload installation,filename,tmp.exe,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,459976dc3440b9fe9614d2e7c246af02,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,ea72df634719681351c66aea8b616349bf4b1cba,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,d459bd8e6ababe027af56fc683181351be1d4ad230da087e742aaef5c0979811,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,elf.exe,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,14314f7fe4976a255bb0590b8cf92ecd,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,030c3f9f4ef6880b424a10da972bb00539e7e23d,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,053542ef7ed95b8bb4cc040e732cf4fad01e24c3a60b3b1c3b1c794b6bcf8d55,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,sup.exe,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,05045ceec9b55ec26c7572620b838d20,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,113b2919c7aed6f50946f4ecfd600e13046cec7b,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,d46988f81eb72e8587a297dfb345ea39eba96a9ba248041424fd8e2191a49cf7,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,shell.exe,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,156b3dd7b265fdbeb2ade043097d069b,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,58d37918893d2109804c79f93316570a74aa2855,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,da47b99da4257ab831799c5d2fb02086c093511988fb4239aab3a57dab00c049,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,test.exe,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,2da8bf50fd47036c164a8b2c157c3bce,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,2e1d3207252c80d5b38a8d22df88321f674fb6ff,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,afc1962f51ffb484b12c57162875a20368385146e4ba29d925a230a24877d6b5,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,vpn.exe,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,838be6b50f90ec703b0fa5107f417576,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,ce4cb87dc8a87f2553219ef47d8cc3a04430871b,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,ead55926421a3dd85015f4b2a5fd533a06322cc7cbfc907a3653f2f073849b58,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,system404.exe,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,5cf4fd83c632025a479544de58d05c7e,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,911c13319381c254b5b4b768e11628cb08c4cd59,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,03cfaaa0f04f424b6f426063f25c8f51ca030c47f8b09fdb120063c95fa5255e,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,payload-c17f7df6-cf80-43d5-8c60-eca90366debb.exe,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,81e3a6ecdcf4409ccfa9a5c4367f6021,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,69a81988bde874bbc631173a7f1805310e96dfb5,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,3c7d0dcd37064458fa110cade991501ff6f499d495a8eb43a0847da41d060445,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,meteran.exe,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,cff64cc3e82aebd7a7e81f1633b5040e,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,6cf68c970f9a1121ce42a6e0d2835fe2bc747ecd,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,cad5aec5df220f89c8a965230bc1566c7f113df846813a1e64ba38192473839b,Source: MalwareBazaar

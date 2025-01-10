@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos network indicators [2024-12-12]
+| UUID: b5d9d6c6-9775-4a6b-bf15-44e7b533af96
+| Date: 2024-12-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-12,Network activity,url,http://185.215.113.209/inc/RMX.exe,Source: urlhaus
+2024-12-13,Network activity,url,http://212.162.149.94/QdhIlV89.bin,Source: urlhaus
+2024-12-13,Network activity,url,http://212.162.149.94/hapaASjpjADwmkbMzkaWEdnWGbt71.bin,Source: urlhaus
+2024-12-13,Network activity,url,https://bitbucket.org/facturacioncol/fact/downloads/Out2.exe,Source: urlhaus

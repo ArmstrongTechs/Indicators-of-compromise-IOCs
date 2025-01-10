@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-12-17]
+| UUID: 23c9d752-38b7-466f-9d20-8a6a0e2ea3bd
+| Date: 2024-12-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-17,Payload installation,filename,DHL.exe,Source: MalwareBazaar
+2024-12-17,Payload installation,md5,12e3c1457416b5622f040f8e0edc0298,Source: MalwareBazaar
+2024-12-17,Payload installation,sha1,74a88947c14538bf6ba2dccdeed472820159dc2c,Source: MalwareBazaar
+2024-12-17,Payload installation,sha256,1a2f0649b6a928da703f8ab11ace25807dff07e0e5310f995b9acb378cd1c6a5,Source: MalwareBazaar
+2024-12-17,Payload installation,filename,TNT AWB TRACKING DETAILS.exe,Source: MalwareBazaar
+2024-12-17,Payload installation,md5,e373204928eef49d76e01ac2b0094945,Source: MalwareBazaar
+2024-12-17,Payload installation,sha1,ea596825a4c1a0d34217abcc1a5389c8168e28c7,Source: MalwareBazaar
+2024-12-17,Payload installation,sha256,40528fb832be69afd7ecdd93d920cb247e48432265e22d62efb5ae34c402d648,Source: MalwareBazaar
+2024-12-18,Payload installation,filename,DREADDD.exe,Source: MalwareBazaar
+2024-12-18,Payload installation,md5,ba889042212f5499eaac3dc6ed5862df,Source: MalwareBazaar
+2024-12-18,Payload installation,sha1,e676da915aa8c038ed9262fd43b2282fc59d96fd,Source: MalwareBazaar
+2024-12-18,Payload installation,sha256,ac231a43e15bb474eed752668ddf8836aa9a46821873e16bda911aaae1b2bfa9,Source: MalwareBazaar
+2024-12-18,Payload installation,filename,curriculo.zip,Source: MalwareBazaar
+2024-12-18,Payload installation,md5,91d896cc0e078f0ecf1d95d6e2f2d67b,Source: MalwareBazaar
+2024-12-18,Payload installation,sha1,3334aba78d22d0295a45a943274134958f108ca6,Source: MalwareBazaar
+2024-12-18,Payload installation,sha256,fa5bffa6667929bdd4e3103387684c35117c3aae9b0427b03130310b96c4e957,Source: MalwareBazaar

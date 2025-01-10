@@ -1,0 +1,41 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: New Tradecraft of Iranian Cyber Group Aria Sepehr Ayandehsazan aka Emennet Pasargad
+| UUID: afb06679-4213-4e55-9087-0f2442596192
+| Date: 2024-12-02
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-02,Network activity,ip-dst,45.140.146.139,
+2024-12-02,Network activity,ip-dst,45.84.0.237,
+2024-12-02,Network activity,ip-dst,45.140.146.197,
+2024-12-02,Network activity,ip-dst,45.140.146.137,
+2024-12-02,Network activity,ip-dst,45.84.0.254,
+2024-12-02,Network activity,ip-dst,45.142.212.21,
+2024-12-02,Network activity,ip-dst,45.140.146.108,
+2024-12-02,Network activity,ip-dst,45.140.146.208,
+2024-12-02,Network activity,ip-dst,85.206.170.160,
+2024-12-02,Network activity,ip-dst,85.206.167.224,
+2024-12-02,Network activity,ip-dst,85.206.169.64,
+2024-12-02,Network activity,ip-dst,85.206.169.80,
+2024-12-02,Network activity,ip-dst,213.109.147.63,
+2024-12-02,Network activity,ip-dst,146.19.254.61,
+2024-12-02,Network activity,ip-dst,31.42.177.114,
+2024-12-02,Network activity,ip-dst,45.143.167.87,
+2024-12-02,Network activity,ip-dst,45.143.166.233,
+2024-12-02,Network activity,domain,onlinelive.info,
+2024-12-02,Network activity,domain,zeusistalking.io,
+2024-12-02,Network activity,domain,zeusistalking.net,
+2024-12-02,Network activity,domain,zeusistalking.com,
+2024-12-02,Network activity,domain,rgud-group.net,
+2024-12-02,Network activity,domain,gud-group.com,
+2024-12-02,Network activity,domain,cyberflood.io,
+2024-12-02,Network activity,domain,cybercourt.io,
+2024-12-02,Network activity,domain,pro-today.org,
+2024-12-02,Network activity,domain,il-cert.net,
+2024-12-02,Payload delivery,filename,First.exe,
+2024-12-02,Payload delivery,sha256,4431b2a4d7758907f81fb1a0c1e36b2ce03e08d43123b1c398487770afd20727,
+2024-12-02,Payload delivery,filename,GoogleChromeInstaller.msi,
+2024-12-02,Payload delivery,sha256,6f765dda126e830c6cd2c7938dbb970d03be728e82c00388903a4ef3f9ecc853,

@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Phishing campaign targeting Kuwait Government
+| UUID: bf0e768a-18d0-4dc7-969e-2b68f095fc4e
+| Date: 2025-01-01
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-01,Network activity,url,http://govkws.top,
+2025-01-01,Network activity,url,http://gov-kws.top,
+2025-01-01,Network activity,domain,govkws.top,
+2025-01-01,Network activity,domain,gov-kws.top,

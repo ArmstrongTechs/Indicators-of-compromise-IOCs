@@ -1,0 +1,42 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2024-12-13]
+| UUID: 2d12938a-c0b0-456d-b56f-bf15e3c39bea
+| Date: 2024-12-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-13,Payload installation,filename,testingg.exe,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,87301d7789d34f5f9e2d497b4d9b8f88,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,b65a76d11f1d2e44d6f5113cf0212bc36abb17b1,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,fdab671fc30cd30956d58c4b148fc1164cf45c9d766bb0e5b34f144b40d68516,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,Server.exe,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,a7a2022d715b3ecb85ea55de936f011b,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,0200512447f2e95d1675b1833d008ea4a7ddaa94,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,d5eaaa22cd69c6ddf1da7b0c8bd0cabbcda679810ed2d95839c08244235fbf81,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,Client.exe,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,eb6401a1d957dce189e9a1ad06f41172,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,ed58fef2021887c89e2c183d648325e5103eb2dd,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,040473f2b73f8947306d2fa9d99c441447026a56ddcdce11720c17be62e000a8,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,njrat.exe,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,8a71e8ebf8c24d8f7b48a29fc023815e,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,3c279527d5f1dba32466fbd19b7d073df291e596,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,36882afaff37f70be8d2566f1b4f8a05764c27305f4809002f1ee2822b6d8ea5,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,mos ssssttttt.exe,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,8be7cd574b5424c43a6d0ccc4a989412,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,946d22547849765d756071f63be3417b30f39c6f,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,87a40d2e8ebe033ff3d359309dda136f1bced5c5578c8ea7d05b9d97e5adb12f,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,Bloxflip Predictor.exe,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,7bf897ca59b77ad3069c07149c35f97e,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,6951dc20fa1e550ec9d066fe20e5100a9946a56b,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,bc37b896fee26a5b4de7845cdd046e0200c783d4907ffa7e16da84ed6b5987dd,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,svchost.exe,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,b9ada94355eb4620796420f457edcaa1,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,2913a116f9fea713045de4a59ae55d1fe4c407ec,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,a6f32d15c2d83286fe4de90337c90c8a3844d838aa9baad34fa76f492b5782cb,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,heo.exe,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,feaca07182c6be327551ba4402a338c7,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,5c699eb735def4473b9b02de282ccead84af1061,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,26e9813dd9d80e2b2441d799608214697d7262e24c739bcc11563756c22d3efc,Source: MalwareBazaar

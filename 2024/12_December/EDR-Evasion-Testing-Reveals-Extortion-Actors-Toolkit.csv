@@ -1,0 +1,57 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: EDR Evasion Testing Reveals Extortion Actor's Toolkit
+| UUID: 11068d08-2ec8-4c5e-b9e8-a76314293ebd
+| Date: 2024-12-06
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-06,Payload delivery,sha256,3758c5eb1fbab2362ef23091f082710606c1b4ebaeaff9b514896dc2a1e2ab17,
+2024-12-06,Payload delivery,filename,disabler.exe,
+2024-12-06,Payload delivery,sha256,1228fd70d7ce0f31f7e7c98520e66a01935e428be561ce0d25140ba33598f688,
+2024-12-06,Payload delivery,filename,0bffbb8.exe,
+2024-12-06,Payload delivery,sha256,6106d1ce671b92d522144fcd3bc01276a975fe5d5b0fde09ca1cca16d09b7143,
+2024-12-06,Payload delivery,filename,WNBIOS.sys,
+2024-12-06,Payload delivery,filename,WN_64.sys,
+2024-12-06,Payload delivery,sha256,14364f1969b83cf4ec2c0e293c6b4d8f750932f6cbf9a8f32173400de33469fd,
+2024-12-06,Payload delivery,filename,abased.dll,
+2024-12-06,Payload delivery,sha256,264a29a703682456ebe9f679a0e7d18291af84ef4b53a669c2555061e4972394,
+2024-12-06,Payload delivery,filename,vm32.dll,
+2024-12-06,Payload delivery,sha256,61c0810a23580cf492a6ba4f7654566108331e7a4134c968c2d6a05261b2d8a1,
+2024-12-06,Payload delivery,filename,mimikatz.exe,
+2024-12-06,Payload delivery,sha256,8d36705a5b7f6179fdef2d600276f9c0cc6cb3b0a670c11d66baaaea6bd2c8ad,
+2024-12-06,Network activity,domain,mimik.zip,
+2024-12-06,Payload delivery,sha256,41f32a3d67b3f983c82070e067a121dd5b8fae2804c97e684acc7f599ba308da,
+2024-12-06,Payload delivery,filename,safetykatz.exe,
+2024-12-06,Payload delivery,sha256,6e37a054bd7c49b233cace747951911f320bd43be8a79ce455b97403c2f7de2c,
+2024-12-06,Payload delivery,filename,mmk.exe,
+2024-12-06,Payload delivery,sha256,aa97acd5628c1f7a16cb98e7b9ce7228119759133f1649b1d5ed849a1a98448b,
+2024-12-06,Payload delivery,filename,http_test_180424.exe,
+2024-12-06,Payload delivery,sha256,97f2676c6d1e16264584ce4c1f1e8790598ba2a85ae08e3d6e394669240b9908,
+2024-12-06,Payload delivery,filename,v1.dll,
+2024-12-06,Payload delivery,sha256,0112e3b20872760dda5f658f6b546c85f126e803e27f0577b294f335ffa5a298,
+2024-12-06,Payload delivery,filename,vmware.exe,
+2024-12-06,Payload delivery,sha256,7c8559134a49c8d8739b66a549f10b22d4fd16afaff51976562f995b2bcd01a9,
+2024-12-06,Payload delivery,filename,5bb646d.exe,
+2024-12-06,Payload delivery,sha256,22f52c9e66330642e836aaf1b6573dd7452e76e0f0b5e6ac594a0278689e1d8f,
+2024-12-06,Payload delivery,filename,socksnet.exe,
+2024-12-06,Payload delivery,sha256,49d01f2e32808e24dc8129d3c1ebe444f71792ddec2efabee354335fc6d6f64c,
+2024-12-06,Payload delivery,filename,Rubeus.exe,
+2024-12-06,Payload delivery,sha256,71dfb3f52df040644221f8c59215f83eb516186b6f82dbbb2c16bf3c22e4baf6,
+2024-12-06,Payload delivery,filename,SharpRDP.exe,
+2024-12-06,Payload delivery,sha256,d0c1662ce239e4d288048c0e3324ec52962f6ddda77da0cb7af9c1d9c2f1e2eb,
+2024-12-06,Payload delivery,filename,Advanced_Port_Scanner_2.5.3869.exe,
+2024-12-06,Payload delivery,sha256,8b9c7d2554fe315199fae656448dc193accbec162d4afff3f204ce2346507a8a,
+2024-12-06,Payload delivery,filename,advanced_port_scanner.exe,
+2024-12-06,Payload delivery,sha256,f1c45cbbd98619e197154085a05fd972283af6788343aa04492e35798a06e2b7,
+2024-12-06,Payload delivery,filename,sh.exe,
+2024-12-06,Network activity,ip-dst,94.75.225.81,
+2024-12-06,Network activity,ip-dst,82.192.88.95,
+2024-12-06,Payload delivery,filename,8.4p1,
+2024-12-06,Network activity,ip-dst,89.251.22.32,
+2024-12-06,Network activity,ip-dst,180.131.145.85,
+2024-12-06,Network activity,domain,beamofthemoon.com,
+2024-12-06,Network activity,hostname,mail.beamofthemoon.com,
+2024-12-06,Network activity,hostname,store.beamofthemoon.com,

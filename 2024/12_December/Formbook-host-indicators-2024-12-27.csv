@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-12-27]
+| UUID: 0e868c36-d3d1-4a40-9bb7-b6fe9b5f2122
+| Date: 2024-12-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-27,Payload installation,filename,AAHSHS.exe,Source: MalwareBazaar
+2024-12-27,Payload installation,md5,a4906211beb74593aecdfa9bf5092bef,Source: MalwareBazaar
+2024-12-27,Payload installation,sha1,053a4dbcc5555e1359ea81cd42d1161cf6eff3e8,Source: MalwareBazaar
+2024-12-27,Payload installation,sha256,df4e5d0884836c220aea16b85ffe57ab973bdbd586b125ea5522da15f03b9c2e,Source: MalwareBazaar

@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Meterpreter host indicators [2024-12-27]
+| UUID: 5909e76a-3cf4-40e5-bbc1-27c6fcc1b84e
+| Date: 2024-12-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-27,Payload installation,filename,World of Tanks.exe,Source: MalwareBazaar
+2024-12-27,Payload installation,md5,b3520940042d52305df325050a95d98a,Source: MalwareBazaar
+2024-12-27,Payload installation,sha1,41c423785a528937a3761004327e862743071529,Source: MalwareBazaar
+2024-12-27,Payload installation,sha256,1d728a4c330add4b8a4196e1d698fd4c857a004ed5b51e5b97c6ddd5eb671490,Source: MalwareBazaar
+2024-12-27,Payload installation,filename,1223.exe,Source: MalwareBazaar
+2024-12-27,Payload installation,md5,5947b96cc629ae7adec0e0878109a4a0,Source: MalwareBazaar
+2024-12-27,Payload installation,sha1,a6e130a84067a0708ea817d8f43b3950f7e048db,Source: MalwareBazaar
+2024-12-27,Payload installation,sha256,aecc448780d3cdda9613ec7f3b0fb9bfa0c7c23dd7893bd62dedcd43ce04b2f6,Source: MalwareBazaar
+2024-12-27,Payload installation,filename,final.exe,Source: MalwareBazaar
+2024-12-27,Payload installation,md5,b588b3f94591ffad45b2d809da200fbe,Source: MalwareBazaar
+2024-12-27,Payload installation,sha1,e56e246e1cebcffcce9c0603ff616bd759cba403,Source: MalwareBazaar
+2024-12-27,Payload installation,sha256,c7265f67b7e2a9697525cc6da6501fdaa8e9a4dadd6322619b7b0ca6a5f24150,Source: MalwareBazaar
+2024-12-28,Payload installation,filename,483563460e53715c6c0a8aeadd85b885.exe,Source: MalwareBazaar
+2024-12-28,Payload installation,md5,483563460e53715c6c0a8aeadd85b885,Source: MalwareBazaar
+2024-12-28,Payload installation,sha1,f0ffdeae4b44048924c63a157dd619f5327253f3,Source: MalwareBazaar
+2024-12-28,Payload installation,sha256,001cd014461d6151ffd27d7bfb7809c6be1d50ffec7450e25352ac208570d1b6,Source: MalwareBazaar

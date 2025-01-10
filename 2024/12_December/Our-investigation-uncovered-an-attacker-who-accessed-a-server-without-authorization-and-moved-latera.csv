@@ -1,0 +1,42 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: Our investigation uncovered an attacker who accessed a server without authorization and moved laterally across the network, compromising the entire domain. The attacker remained undetected for two weeks. Rapid7 determined the initial access vector to be the exploitation of a vulnerability, CVE 2024-38094, within the on-premise SharePoint server."
+| UUID: 99f41ab4-00d0-43b6-975d-9441605f24c4
+| Date: 2024-12-06
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-06,Payload delivery,filename,%USERPROFILE%\documents\everything-1.4.1.1024.x86\everything.exe,
+2024-12-06,Payload delivery,sha256,d3a6ed07bd3b52c62411132d060560f9c0c88ce183851f16b632a99b4d4e7581,
+2024-12-06,Payload delivery,filename,everything.exe,
+2024-12-06,Payload delivery,filename,%ALLUSERSPROFILE%\vmware\66.exe,
+2024-12-06,Payload delivery,filename,mimikatz.exe,
+2024-12-06,Payload delivery,sha256,61c0810a23580cf492a6ba4f7654566108331e7a4134c968c2d6a05261b2d8a1,
+2024-12-06,Payload delivery,filename,%ALLUSERSPROFILE%\vmware\certify.exe,
+2024-12-06,Payload delivery,sha256,95cc0b082fcfc366a7de8030a6325c099d8012533a3234edbdf555df082413c7,
+2024-12-06,Payload delivery,filename,certify.exe,
+2024-12-06,Payload delivery,filename,%ALLUSERSPROFILE%\vmware\kerbrute_windows_amd64.exe,
+2024-12-06,Payload delivery,sha256,d18aa84b7bf0efde9c6b5db2a38ab1ec9484c59c5284c0bd080f5197bf9388b0,
+2024-12-06,Payload delivery,filename,kerbrute_windows_amd64.exe,
+2024-12-06,Payload delivery,filename,%ALLUSERSPROFILE%\vmware\msvrp.exe,
+2024-12-06,Payload delivery,sha256,f618b09c0908119399d14f80fc868b002b987006f7c76adbcec1ac11b9208940,
+2024-12-06,Payload delivery,filename,msvrp.exe,
+2024-12-06,Payload delivery,filename,%ALLUSERSPROFILE%\vmware\nxc.exe,
+2024-12-06,Payload delivery,filename,nxc.exe,
+2024-12-06,Payload delivery,filename,%ALLUSERSPROFILE%\vmware\adexplorer64.exe,
+2024-12-06,Payload delivery,sha256,e451287843b3927c6046eaabd3e22b929bc1f445eec23a73b1398b115d02e4fb,
+2024-12-06,Payload delivery,filename,adexplorer64.exe,
+2024-12-06,Payload delivery,filename,install.bat,
+2024-12-06,Payload delivery,sha256,1beec8cecd28fdf9f7e0fc5fb9226b360934086ded84f69e3d542d1362e3fdf3,
+2024-12-06,Payload delivery,filename,%USERPROFILE%\documents\h\hrsword.exe,
+2024-12-06,Payload delivery,sha256,6ce228240458563d73c1c3cbbd04ef15cb7c5badacc78ce331848f5431b406cc,
+2024-12-06,Payload delivery,filename,hrsword.exe,
+2024-12-06,Payload delivery,filename,%WINDIR%\System32\drivers\sysdiag_win10.sys,
+2024-12-06,Payload delivery,sha256,acb5de5a69c06b7501f86c0522d10fefa9c34776c7535e937e946c6abfc9bbc6,
+2024-12-06,Payload delivery,filename,sysdiag_win10.sys,
+2024-12-06,Network activity,url,atalog/')/Files/add(url='/BusinessDataMetadataCatalog/BDCMetadata.bdcm,
+2024-12-06,Payload delivery,filename,/_vti_bin/DelveApi.ashx/config/ghostfile93.aspx,
+2024-12-06,Network activity,ip-dst,54.255.89.118,
+2024-12-06,Network activity,ip-dst,18.195.61.200,

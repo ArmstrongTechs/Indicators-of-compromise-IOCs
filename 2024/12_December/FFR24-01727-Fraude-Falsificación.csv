@@ -1,0 +1,16 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FFR24-01727 [Fraude] [Falsificación]
+| UUID: 74633f3d-7a57-43aa-b179-4b0784809832
+| Date: 2024-12-12
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-13,External analysis,text,"Como CSIRT de Gobierno informamos del descubrimiento por nuestros especialistas de una nueva página fraudulenta, que suplanta a una empresa, institución, producto o servicio.
+
+Se trata de una página web falsa que se hace pasar por el Banco Santander para robar datos de sus clientes, usando ilegalmente su logo e imagen corporativa.Lo anterior constituye una falsificación de marca que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2024-12-13,Network activity,ip-src,34.95.189.239,IP sitio falso
+2024-12-13,Payload delivery,url,https://experienciaclientes.activaonline.cl/login,URL sitio falso
+2024-12-13,External analysis,attachment,2024-12-12_12h35_18.png,

@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Zloader host indicators [2024-12-14]
+| UUID: e200cf0b-cd51-4ae9-8965-0776bd02c5eb
+| Date: 2024-12-15
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-15,Payload installation,filename,603bd9ee50f7dc6de37f314bda227561f0fd67cdebf53a672ea32cce73a2efd3,Source: MalwareBazaar
+2024-12-15,Payload installation,md5,7980094788f0e46145bdff91b0f4743e,Source: MalwareBazaar
+2024-12-15,Payload installation,sha1,039f786b81455c83dc50283e42d0ee2ac48059c8,Source: MalwareBazaar
+2024-12-15,Payload installation,sha256,603bd9ee50f7dc6de37f314bda227561f0fd67cdebf53a672ea32cce73a2efd3,Source: MalwareBazaar

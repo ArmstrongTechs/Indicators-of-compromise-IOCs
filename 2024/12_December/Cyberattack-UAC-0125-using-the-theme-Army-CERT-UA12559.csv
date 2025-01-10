@@ -1,0 +1,38 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: Cyberattack UAC-0125 using the theme ""Army+"" (CERT-UA#12559)"
+| UUID: 27c430a5-3324-467c-9aef-5c33bb7d6be7
+| Date: 2024-12-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-27,Network activity,hostname,desktopapluscom.workers.dev,
+2024-12-27,Network activity,hostname,desktopaplus.workers.dev,
+2024-12-27,Network activity,hostname,armyplus-desktop.workers.dev,
+2024-12-27,Network activity,hostname,aplusdesktop.workers.dev,
+2024-12-27,Network activity,hostname,armylpus.workers.dev,
+2024-12-27,Network activity,hostname,aplusmodgovua.workers.dev,
+2024-12-27,Payload delivery,md5,0799756f104a70cb6ce0cfc422de25db,
+2024-12-27,Payload delivery,sha256,d2049157980b7ee0a54948d4def4ab62303ca51cadaada06fb51c583ecbce1a2,
+2024-12-27,Payload delivery,filename,ArmyPlusInstaller-v.0.10.23672.exe,
+2024-12-27,Payload delivery,md5,a27a90a685dad9fc7f1c5962f278f197,
+2024-12-27,Payload delivery,sha256,4dca04f1e16cbe88776a3187031cff64981155cb3b992031250c6fed40496318,
+2024-12-27,Payload delivery,filename,ArmyPlusInstaller-v.0.10.23722.exe,
+2024-12-27,Payload delivery,md5,52853b39922251a4166a5b032e577e7a,
+2024-12-27,Payload delivery,sha256,86039bc8b1a6bb823f5cbf27d1a4a3b319b83d242f09ffcd96f38bbdbbaaa78f,
+2024-12-27,Payload delivery,filename,init.ps1,
+2024-12-27,Payload delivery,md5,ed0c7c1925ac23bd8b4d09e77aabb0ee,
+2024-12-27,Payload delivery,sha256,8ba4c3ede1ed05a3ad7075fee503215648ec078a13523492e2e91a59fa40c8da,
+2024-12-27,Payload delivery,filename,guid.txt,
+2024-12-27,Payload delivery,md5,a2f355057ade20d32afc5c4192ce3986,
+2024-12-27,Payload delivery,sha256,b663e08cc267cdb7a02d5131cb04b8b05cb6ad13ac1d571c6aafe69e06bf8f80,
+2024-12-27,Payload delivery,filename,ArmyPlus.exe,
+2024-12-27,External analysis,link,https://cert.gov.ua/article/6281701,
+2024-12-27,Other,text,"Урядовою командою реагування на комп'ютерні надзвичайні події України CERT-UA 17.12.2024 від фахівців MIL.CERT-UA отримано інформацію щодо виявлення низки вебресурсів, які імітують офіційну сторінку додатку ""Армія+"" та опубліковані за допомогою сервісу Cloudlfare Workers.
+
+У випадку відвідування згаданих вебсайтів користувачеві пропонується завантажити виконуваний файл ""ArmyPlusInstaller-v.0.10.23722.exe"" (назва змінюється).",
+2024-12-27,Other,text,Blog,
+2024-12-27,External analysis,attachment,Untitled.png,
+2024-12-27,Other,text,Trusted,

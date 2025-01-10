@@ -1,0 +1,34 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-12-24]
+| UUID: a397ec9a-08eb-46c5-8c90-4639c4629aa6
+| Date: 2024-12-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-24,Payload installation,filename,DHL 806-232024.exe,Source: MalwareBazaar
+2024-12-24,Payload installation,md5,a32e770c62bab92fb9f5413a70a62836,Source: MalwareBazaar
+2024-12-24,Payload installation,sha1,46578409fab1fbe2a943bf685f672334643332ed,Source: MalwareBazaar
+2024-12-24,Payload installation,sha256,00157cae4f7d3b063ab95dcfd1ec233bb79a0fd54a18558fd104ca4599c38874,Source: MalwareBazaar
+2024-12-24,Payload installation,filename,Arrival Notice.pif,Source: MalwareBazaar
+2024-12-24,Payload installation,md5,55a24c50cfac74fa31b86d64bed1b6a9,Source: MalwareBazaar
+2024-12-24,Payload installation,sha1,886a264b49cf3d613239cfed44faece28fc054ec,Source: MalwareBazaar
+2024-12-24,Payload installation,sha256,27203c2d6f2a47afc1ef6880ab723da0082f9fe33c349521a7506c9d8ece2fb0,Source: MalwareBazaar
+2024-12-24,Payload installation,filename,3FG4bsfkEwmxFYY.exe,Source: MalwareBazaar
+2024-12-24,Payload installation,md5,a8dadba4e00d4a960fdff63594e6bc11,Source: MalwareBazaar
+2024-12-24,Payload installation,sha1,208d148340f8184cf8b2ad0c02196b9718605ff7,Source: MalwareBazaar
+2024-12-24,Payload installation,sha256,f93805b2899cc7a68369be48f770e2f293410dfea9f0186d4270fedff272a8ce,Source: MalwareBazaar
+2024-12-24,Payload installation,filename,new order.exe,Source: MalwareBazaar
+2024-12-24,Payload installation,md5,6d7e6654f32d5e775819b21895c968b1,Source: MalwareBazaar
+2024-12-24,Payload installation,sha1,e5c4522e22314b1b34a726bec182201556d95225,Source: MalwareBazaar
+2024-12-24,Payload installation,sha256,792bdecda049100bcddb388c74b9fa5aa21d30a167786f1e5a99091a6e77c430,Source: MalwareBazaar
+2024-12-24,Payload installation,filename,O06_SWIFT PAYMENT.exe,Source: MalwareBazaar
+2024-12-24,Payload installation,md5,472c1c23e9e15295bc2186cf3f5f2b77,Source: MalwareBazaar
+2024-12-24,Payload installation,sha1,c369d5f417651a2cf068d1c960451f214417528a,Source: MalwareBazaar
+2024-12-24,Payload installation,sha256,95e5f4aedd36c6d6a91df3e1504c518aa91fc548e2004c0f65f0af81a234dd0e,Source: MalwareBazaar
+2024-12-24,Payload installation,filename,Swift copy Reversed.exe,Source: MalwareBazaar
+2024-12-24,Payload installation,md5,2e5872961a900b74cd4f5c3ca9bdc3bc,Source: MalwareBazaar
+2024-12-24,Payload installation,sha1,29f49306416c559b290c887e8f76a6f3fbbca099,Source: MalwareBazaar
+2024-12-24,Payload installation,sha256,ea2232c0ea11a5a8743e15a262576447424c3353bf882089f3c0bd8cb546a80b,Source: MalwareBazaar

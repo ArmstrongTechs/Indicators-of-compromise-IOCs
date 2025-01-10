@@ -1,0 +1,37 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Head Mare Group Intensifies Attacks on Russia with PhantomCore Backdoor
+| UUID: 7a5924c7-dd35-4824-bf01-a9af6127e015
+| Date: 2024-12-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-24,Payload delivery,sha256,6ac2d57d066ef791b906c3b4c6b5e5c54081d6657af459115eb6abb1a9d1085d,
+2024-12-24,Payload delivery,sha256,0f578e437f5c09fb81059f4b5e6ee0b93cfc0cdf8b31a29abc8396b6137d10c3,
+2024-12-24,Payload delivery,filename,услуг.pdf.lnk,
+2024-12-24,Payload delivery,sha256,dd49fd0e614ac3f6f89bae7b7a6aa9cdab3b338d2a8d11a11a774ecc9d287d6f,
+2024-12-24,Payload delivery,filename,Счет-фактура.pdf.lnk,
+2024-12-24,Payload delivery,sha256,57848d222cfbf05309d7684123128f9a2bffd173f48aa3217590f79612f4c773,
+2024-12-24,Network activity,domain,doc.zip,
+2024-12-24,Payload delivery,sha256,4b62da75898d1f685b675e7cbaec24472eb7162474d2fd66f3678fb86322ef0a,
+2024-12-24,Payload delivery,sha256,44b1f97e1bbdd56afeb1efd477aa4e0ecaa79645032e44c7783f997f377d749f,
+2024-12-24,Payload delivery,sha256,2dccb526de9a17a07e39bdedc54fbd66288277f05fb45c7cba56f88df00e86a7,
+2024-12-24,Payload delivery,sha256,1a2d1654d8ff10f200c47015d96d2fcb1d4d40ee027beb55bb46199c11b810cc,
+2024-12-24,Payload delivery,sha256,8aad7f80f0120d1455320489ff1f807222c02c8703bd46250dd7c3868164ab70,
+2024-12-24,Payload delivery,sha256,9df6afb2afbd903289f3b4794be4768214c223a3024a90f954ae6d2bb093bea3,
+2024-12-24,Network activity,url,https://city-tuning.ru/collection/srvhost.exe,
+2024-12-24,Network activity,url,https://filetransfer.io/data-package/AiveGg6u/download,
+2024-12-24,Network activity,url,http://45.10.247.152/init,
+2024-12-24,Network activity,url,http://45.10.247.152/check,
+2024-12-24,Network activity,url,http://45.10.247.152/connect,
+2024-12-24,Network activity,url,http://45.10.247.152/command,
+2024-12-24,Network activity,url,http://185.80.91.84/command,
+2024-12-24,Network activity,url,http://185.80.91.84/connect,
+2024-12-24,Network activity,url,http://185.80.91.84/check,
+2024-12-24,Network activity,url,http://185.80.91.84/init,
+2024-12-24,Network activity,url,http://45.87.245.53/init,
+2024-12-24,Network activity,url,http://45.87.245.53/check,
+2024-12-24,Network activity,url,http://45.87.245.53/connect,
+2024-12-24,Network activity,url,http://45.87.245.53/command,

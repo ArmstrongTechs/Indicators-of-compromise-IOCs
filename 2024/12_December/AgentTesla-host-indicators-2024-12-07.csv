@@ -1,0 +1,15 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-12-07]
+| UUID: 1b96be19-ebc8-4ff7-ac0b-f6ac27275075
+| Date: 2024-12-07
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-07,Payload installation,filename,Overdue_payment.pdf.exe,Source: MalwareBazaar
+2024-12-07,Payload installation,filename,Overdue_payment.pdf.tar,Source: MalwareBazaar
+2024-12-07,Payload installation,filename,06.exe,Source: MalwareBazaar
+2024-12-07,Payload installation,filename,06.12.24.pdf.rar,Source: MalwareBazaar
+2024-12-07,Payload installation,filename,TECHNICAL SPECIFICATIONS.TAR,Source: MalwareBazaar

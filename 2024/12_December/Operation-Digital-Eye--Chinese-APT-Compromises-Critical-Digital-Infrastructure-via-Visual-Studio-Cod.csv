@@ -1,0 +1,43 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: .Operation Digital Eye  Chinese APT Compromises Critical Digital Infrastructure via Visual Studio Code Tunnels
+| UUID: 5f6b7798-1415-4a8e-9a72-b1e3693a8900
+| Date: 2024-12-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-23,Payload delivery,sha1,0be9dd709d7d68887a92c793881dd4a010796e95,
+2024-12-23,Payload delivery,filename,do.exe,
+2024-12-23,Payload delivery,sha1,213f06ed5ac9e688816b4bbe73bf507994949964,
+2024-12-23,Payload delivery,sha1,289f3bfe297923507cf4c26ca500ae01819c6a95,
+2024-12-23,Payload delivery,filename,local.exe,
+2024-12-23,Payload delivery,sha1,2e2cf8a4a0e7decceb8e22536b13173479da0d13,
+2024-12-23,Payload delivery,sha1,3035d8846d7a9f309f2d24daba6ac33ad99524fc,
+2024-12-23,Payload delivery,sha1,399776991a094e1ee78b2a915bf4491e67c04ec7,
+2024-12-23,Payload delivery,sha1,3a688c844259822c51ceb3aea508303c4a654eb3,
+2024-12-23,Payload delivery,sha1,4d6947a19dd9a420c22fee39fac8b4df95a47569,
+2024-12-23,Payload delivery,sha1,63cea28d927f8e629377399fa08a9cb4fd0c6238,
+2024-12-23,Payload delivery,sha1,6549e50645bb1c02e4972651d335a75cb6d5aa74,
+2024-12-23,Payload delivery,sha1,7941909fd5c1277c6f7baf21e484c9e59ea454ee,
+2024-12-23,Payload delivery,filename,bK2o.exe,
+2024-12-23,Payload delivery,sha1,7cb7bcb9187f8faf47fd77cf1213ab3fe2350a77,
+2024-12-23,Payload delivery,filename,simplify_32.exe,
+2024-12-23,Payload delivery,sha1,82b1cb9b69d5f05bb20852322fb3c2c00bce9134,
+2024-12-23,Payload delivery,filename,wsx.exe,
+2024-12-23,Payload delivery,sha1,83ca53c95705352ff60149b0b17a686956e23172,
+2024-12-23,Payload delivery,sha1,a9d6d0c47728094feb794ad7e25c253737633140,
+2024-12-23,Payload delivery,filename,code.exe,
+2024-12-23,Payload delivery,sha1,b2811cb4d0afe13d2722093039a72588c348dcfd,
+2024-12-23,Payload delivery,sha1,c0e03fce8f7f51e91da79f773aa870f0897b0ee2,
+2024-12-23,Payload delivery,sha1,cb6726fb3f7952ede04ed22d2c72389255991827,
+2024-12-23,Payload delivery,sha1,d57fa43944676c56e66f4b20ffa3d82048e354fd,
+2024-12-23,Payload delivery,sha1,e572380ab95c4ab5a87f701d4654d3386911b387,
+2024-12-23,Payload delivery,filename,do.bat,
+2024-12-23,Payload delivery,sha1,e8a8d8fa7122c1592a314343b45bac2c213bb57d,
+2024-12-23,Payload delivery,filename,wsx1.exe,
+2024-12-23,Network activity,ip-dst,146.70.161.78,
+2024-12-23,Network activity,ip-dst,185.76.78.117,
+2024-12-23,Network activity,ip-dst,20.103.221.187,
+2024-12-23,Network activity,ip-dst,4.232.170.137,

@@ -1,0 +1,1123 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: DDoS against AEP
+| UUID: 0c909860-496f-491b-8ea2-b4a710555dd9
+| Date: 2024-12-09
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-01,Other,comment,"95.188.70.11
+109.135.121.132
+181.27.29.57
+53.54.187.145
+37.240.203.115
+45.123.128.119
+181.89.172.241
+51.38.188.65
+2.125.161.36
+14.199.248.186
+183.72.177.31
+68.76.138.94
+38.137.17.142
+59.9.198.234
+217.130.252.88
+34.47.191.60
+14.199.246.64
+34.84.58.88
+80.126.88.108
+185.177.104.245
+191.253.71.246
+103.252.165.39
+158.37.17.188
+45.14.34.193
+185.228.66.44
+78.71.118.126
+91.145.20.239
+94.77.225.41
+81.191.245.104
+96.27.149.231
+78.131.204.210
+178.134.80.206
+190.8.134.42
+194.132.70.211
+109.164.95.127
+81.237.241.117
+62.244.227.198
+185.190.105.67
+188.69.229.188
+160.22.43.65
+95.171.117.141
+103.122.34.76
+103.94.224.100
+88.149.187.58
+38.107.236.100
+94.25.145.220
+103.162.145.83
+78.188.72.152
+188.124.122.203
+46.148.185.247
+91.224.168.104",DDoS
+2024-12-01,Other,comment,"102.223.23.250
+103.251.113.154
+110.41.83.169
+116.66.214.3
+122.112.156.251
+123.249.26.88
+152.32.131.99
+159.138.157.44
+162.214.177.152
+162.214.177.172
+162.214.177.195
+162.214.179.247
+162.214.180.21
+162.214.180.8
+162.214.180.96
+171.243.28.12
+178.254.157.214
+185.103.252.80
+185.22.155.140
+185.229.241.132
+185.247.28.129
+185.255.179.214
+185.61.69.247
+185.70.218.36
+193.239.166.197
+194.120.230.120
+217.11.23.243
+23.83.234.233
+31.145.149.74
+37.18.74.34
+37.58.54.42
+45.95.235.75
+46.36.123.34
+46.36.123.66
+62.106.95.112
+62.106.95.42
+62.106.95.56
+62.106.95.79
+62.106.95.98
+162.214.177.239
+162.214.177.167
+162.214.180.102
+38.180.162.141
+164.52.107.81
+162.214.177.154
+152.42.196.195
+162.214.180.59
+162.214.180.65
+149.104.26.105
+69.65.43.86
+162.214.179.248
+162.214.180.9
+156.234.66.27
+67.219.150.34
+92.119.126.229
+188.120.243.197
+162.214.177.144
+162.214.177.223
+103.205.66.152
+81.31.245.202
+84.247.142.194
+106.12.111.83
+156.225.70.170
+176.124.201.189
+45.10.53.33
+171.244.10.204
+45.199.189.70
+162.214.180.20
+69.48.232.56
+5.255.104.165
+185.36.169.255
+89.107.70.191
+158.220.82.73
+178.255.149.131
+5.255.108.201
+176.125.235.92
+178.128.5.87
+87.249.50.44
+162.214.177.178
+162.214.177.148
+176.125.235.112
+149.62.188.197
+103.150.89.226
+62.169.31.64
+5.255.118.7
+69.55.49.61
+178.255.149.145
+77.237.236.171
+178.255.149.170
+5.230.253.158
+37.221.212.177
+5.255.120.22
+46.148.232.156
+209.227.237.55
+5.79.106.89
+74.50.65.152
+31.14.123.48
+5.255.125.172
+176.125.235.102
+5.255.109.235
+89.252.169.172
+64.20.41.203
+5.255.101.137
+91.200.148.132
+38.242.239.132
+45.154.116.20
+37.221.212.117
+216.55.143.122
+192.145.37.65
+109.61.18.24
+107.189.12.174
+209.182.235.245
+31.47.51.110
+149.62.188.77
+213.159.209.121
+217.170.194.69
+153.122.199.125
+5.255.97.204
+5.255.112.57
+37.221.212.170
+89.248.192.2
+194.164.174.115
+62.169.31.245
+62.169.18.50
+5.255.127.233
+5.255.112.6
+185.81.115.65
+5.255.98.20
+107.189.5.20
+5.255.120.223
+5.255.127.158
+5.255.99.72
+5.255.98.213
+77.83.198.37
+193.22.147.209
+62.169.31.247
+62.169.31.251
+5.255.102.138
+185.162.238.142
+5.255.116.229
+147.182.193.68
+122.8.191.70
+110.4.44.124
+5.255.118.22
+185.107.237.152
+185.235.137.57
+5.61.34.57
+79.141.174.2
+5.255.115.164
+5.255.127.220
+107.189.8.81
+77.237.236.227
+5.255.116.57
+37.221.212.172
+37.221.212.140
+77.237.236.170
+5.255.126.239
+5.255.124.62
+91.108.243.246
+5.255.103.161
+128.14.110.206
+62.169.17.238
+5.255.113.154
+192.67.160.128
+37.221.212.163
+5.255.97.56
+85.192.56.173
+62.169.31.252
+69.48.232.18
+5.255.100.229
+62.169.31.176
+156.67.110.225
+5.255.116.142
+107.189.4.162
+5.255.121.105
+5.255.123.163
+75.98.220.27
+5.255.102.82
+2a03:b0c0:1:d0::c4a:1001
+2604:6600:158:11b6:7027:2f8d:f72:d99d
+2001:41d0:a:f519::1
+2001:470:35:628::2
+2a03:6f02::250c
+2001:df1:7880:2::2f7
+2001:41d0:305:2100::9b8b
+2001:41d0:601:1100::4b10
+2603:c024:450a:afee::13
+2a03:1b20:6:f011::e61c
+2001:41d0:302:2000::3bbc
+2a09:bac5:2a92:2482::3a3:26
+2a07:fe00:1::a23e
+2a07:fe00:1::a24e
+2a03:4000:67:f02:c872:30ff:fe44:9ede
+2a03:4000:4a:f1d:847:7dff:fe98:464f
+2a07:fe00:1::a25e
+2a02:6ea0:c762:3::e01c
+2001:41d0:601:1100::2e8d
+2001:ac8:20:269::e01c
+2a02:6ea0:c762:1::e01c
+2001:ac8:20:274::e01c
+2a02:6ea0:c762:2::e01c
+2a02:c206:2112:8810::1
+2001:ac8:20:275::e01c
+2a07:fe00:1::a26e
+2001:ac8:20:270::e01c
+2a02:20c8:4124::a02e
+2001:ac8:20:276::e01c
+2a02:20c8:4124::a04e
+2a02:20c8:4124::a03e
+2a02:20c8:4124::e501
+2001:ac8:20:277::e01c
+2a02:20c8:4124::e401
+2a03:1b20:6:f011::e51c
+2a02:20c8:4124::a01e
+2a09:bac1:1e00:628::3a3:26
+2001:41d0:8:95c1::1
+2a04:5201:4::c7
+2001:19f0:4400:62bd:5400:5ff:fe1b:6a48
+2401:c080:1400:6b14:5400:5ff:fe1b:68e0
+2407:cdc0:8003::57bc
+2a09:bac1:1e40:628::3a3:26
+2607:f130:0:141:216:3eff:fe4f:d200
+2406:8dc0:6004:9f12:5c31:54a7:587e:10e
+2a09:bac5:2a96:2482::3a3:26
+2a09:bac5:2a93:2482::3a3:26
+2a09:bac5:2a94:2482::3a3:26
+2a09:bac5:2a90:2482::3a3:26
+2400:8500:1801:488:163:44:252:204
+2a09:bac5:2a95:2482::3a3:26
+2a0a:c801:1:20::9d
+2a09:bac5:280f:2482::3a3:26
+2a00:12d8:700e:0:fe30:2413:145a:28c
+2a09:bac1:1e60:628::3a3:26
+2a09:bac1:1e20:628::3a3:26
+2a09:bac5:2a91:2482::3a3:26
+2604:a00:50:3b:216:3eff:fe2d:2a3
+2607:f130:0:1a0::c3c2:4a7c
+2a09:bac5:2a97:2482::3a3:26
+2400:8901::f03c:94ff:fe9c:c8c",DDoS AEP
+2024-12-02,Other,comment,"49.12.236.127
+185.181.103.19
+29.21.174.190
+46.205.68.19
+175.114.251.52
+38.157.98.201
+137.123.79.176
+32.224.95.82
+207.120.243.212
+31.123.246.182
+7.135.14.211
+120.196.118.107
+125.105.107.247
+185.94.214.87
+101.185.27.2
+11.106.174.161
+45.41.51.30
+104.167.70.158
+134.0.115.162
+154.16.81.88
+109.166.139.39
+46.97.168.167
+80.233.70.17
+98.18.198.59
+14.152.177.171
+219.21.76.8
+105.105.235.169
+58.164.151.40
+109.93.217.146
+139.226.150.49
+178.172.179.178
+134.237.26.205
+187.214.1.246
+50.175.255.26
+2.97.222.152
+85.155.170.75
+97.213.65.201
+212.132.211.250
+86.120.109.185
+213.233.110.184
+213.233.108.101
+20.114.249.181
+87.185.52.107
+139.162.137.149
+117.104.191.59
+72.214.189.117
+148.35.137.47
+8.154.205.107
+32.51.174.145
+178.201.169.234
+148.196.251.68
+154.138.52.120
+208.104.192.174
+12.119.162.219
+111.162.7.100
+208.244.150.103
+63.20.181.141
+194.116.181.79
+90.232.222.136
+153.120.176.101
+220.136.193.97
+71.75.227.42
+152.94.22.150
+5.31.172.1
+193.43.207.250
+65.28.199.171
+40.212.229.78
+219.131.104.3
+34.38.236.63
+66.199.236.194
+179.198.73.185
+109.166.139.3
+34.100.144.243
+34.85.118.43
+34.93.111.241
+34.93.180.113
+34.146.181.206
+34.47.154.181
+45.77.191.75
+35.200.159.103
+86.127.88.73
+34.100.217.3
+47.100.3.113
+34.146.217.94
+34.93.43.25
+90.84.227.86
+109.166.134.191
+34.146.165.23
+34.84.119.129
+5.14.158.246
+35.221.67.24
+34.100.233.45
+34.146.226.12
+162.240.154.26
+188.27.48.153
+34.131.84.221
+35.200.48.236
+34.146.166.223
+35.221.80.240
+34.85.50.12
+34.84.100.76
+86.127.163.227
+34.93.199.104
+129.159.131.22
+34.146.114.102
+192.252.211.114
+35.244.54.25
+86.126.14.204
+5.14.140.92",DDoS AEP
+2024-12-02,Other,comment,"5.255.98.213
+5.255.102.138
+5.255.116.229
+5.255.115.164
+5.255.127.220
+5.255.124.62
+5.255.113.154
+5.255.100.229
+5.255.123.163
+77.241.232.14
+147.75.33.149
+185.94.188.210
+213.184.114.235
+78.188.72.152
+31.145.149.74
+89.252.169.172
+45.14.34.193
+62.244.227.198
+46.148.185.247
+45.154.116.20
+185.94.214.87
+109.61.18.24
+5.31.172.1
+45.9.250.120
+158.220.82.73
+2.125.161.36
+2a03:b0c0:1:d0::c4a:1001
+31.123.246.182
+2.97.222.152
+212.132.211.250
+92.11.248.117
+176.35.133.116
+141.170.79.176
+90.244.215.153
+48.221.161.6
+109.146.231.13
+2.100.105.1
+31.205.8.83
+146.90.171.230
+86.14.208.54
+216.55.143.122
+162.214.177.144
+162.214.177.148
+162.214.177.152
+162.214.177.154
+162.214.177.167
+162.214.177.172
+162.214.177.178
+162.214.177.195
+162.214.177.223
+162.214.177.239
+162.214.179.247
+162.214.179.248
+162.214.180.102
+162.214.180.20
+162.214.180.21
+162.214.180.59
+162.214.180.65
+162.214.180.8
+162.214.180.9
+162.214.180.96
+23.83.234.233
+68.76.138.94
+96.27.149.231
+69.65.43.86
+75.98.220.27
+2001:470:35:628::2
+38.107.236.100
+2604:6600:158:11b6:7027:2f8d:f72:d99d
+2607:f130:0:141:216:3eff:fe4f:d200
+2604:a00:50:3b:216:3eff:fe2d:2a3
+2607:f130:0:1a0::c3c2:4a7c
+67.219.150.34
+45.199.189.70
+69.48.232.56
+178.128.5.87
+69.55.49.61
+74.50.65.152
+64.20.41.203
+209.182.235.245
+147.182.193.68
+192.67.160.128
+29.21.174.190
+38.157.98.201
+137.123.79.176
+32.224.95.82
+207.120.243.212
+7.135.14.211
+11.106.174.161
+45.41.51.30
+104.167.70.158
+98.18.198.59
+50.175.255.26
+97.213.65.201
+20.114.249.181
+72.214.189.117
+148.35.137.47
+32.51.174.145
+208.104.192.174
+12.119.162.219
+208.244.150.103
+63.20.181.141
+71.75.227.42
+65.28.199.171
+40.212.229.78
+66.199.236.194
+45.77.191.75
+162.240.154.26
+192.252.211.114
+204.236.245.26
+148.150.136.201
+35.163.98.59
+205.202.39.170
+137.211.10.206
+208.12.169.71
+29.31.83.108
+99.67.38.235
+148.46.8.206
+144.118.72.71
+45.27.155.72
+97.206.219.179
+38.138.121.115
+162.203.61.202
+29.80.105.118
+29.159.138.63
+68.227.237.70
+44.239.183.37
+107.89.127.48
+97.183.209.189
+204.27.121.165
+45.140.184.105
+208.152.161.41
+26.49.230.28
+11.0.112.8
+67.160.45.168
+68.62.32.40
+214.181.159.68
+136.161.193.229
+207.60.40.202
+129.55.47.193
+151.103.205.108
+144.3.102.19
+85.209.85.33
+141.111.29.183
+70.229.250.167
+55.195.134.19
+54.166.242.44
+4.104.4.230
+174.244.123.234
+50.160.221.221
+20.29.254.142
+161.155.47.100
+107.200.88.190
+22.180.165.230
+214.126.49.102
+171.243.28.12
+171.244.10.204",
+2024-12-09,Network activity,ip-src,105.105.235.169,
+2024-12-09,Network activity,ip-src,181.27.29.57,
+2024-12-09,Network activity,ip-src,181.89.172.241,
+2024-12-09,Network activity,ip-src,45.178.87.48,
+2024-12-09,Network activity,ip-src,46.36.123.34,
+2024-12-09,Network activity,ip-src,46.36.123.66,
+2024-12-09,Network activity,ip-src,185.177.104.245,
+2024-12-09,Network activity,ip-src,160.22.43.65,
+2024-12-09,Network activity,ip-src,101.185.27.2,
+2024-12-09,Network activity,ip-src,154.16.81.88,
+2024-12-09,Network activity,ip-src,58.164.151.40,
+2024-12-09,Network activity,ip-src,131.244.63.213,
+2024-12-09,Network activity,ip-src,165.225.201.143,
+2024-12-09,Network activity,ip-src,178.172.179.178,
+2024-12-09,Network activity,ip-src,109.135.121.132,
+2024-12-09,Network activity,ip-src,34.38.236.63,
+2024-12-09,Network activity,ip-src,185.132.187.111,
+2024-12-09,Network activity,ip-src,191.253.71.246,
+2024-12-09,Network activity,ip-src,179.198.73.185,
+2024-12-09,Network activity,ip-src,5.181.83.4,
+2024-12-09,Network activity,ip-src,185.229.241.132,
+2024-12-09,Network activity,ip-src,110.41.83.169,
+2024-12-09,Network activity,ip-src,122.112.156.251,
+2024-12-09,Network activity,ip-src,123.249.26.88,
+2024-12-09,Network activity,ip-src,45.123.128.119,
+2024-12-09,Network activity,ip-src,106.12.111.83,
+2024-12-09,Network activity,ip-src,120.196.118.107,
+2024-12-09,Network activity,ip-src,125.105.107.247,
+2024-12-09,Network activity,ip-src,14.152.177.171,
+2024-12-09,Network activity,ip-src,139.226.150.49,
+2024-12-09,Network activity,ip-src,8.154.205.107,
+2024-12-09,Network activity,ip-src,111.162.7.100,
+2024-12-09,Network activity,ip-src,219.131.104.3,
+2024-12-09,Network activity,ip-src,47.100.3.113,
+2024-12-09,Network activity,ip-src,183.129.178.206,
+2024-12-09,Network activity,ip-src,223.155.123.145,
+2024-12-09,Network activity,ip-src,110.244.238.49,
+2024-12-09,Network activity,ip-src,112.58.115.85,
+2024-12-09,Network activity,ip-src,59.82.83.205,
+2024-12-09,Network activity,ip-src,186.116.41.30,
+2024-12-09,Network activity,ip-src,185.70.218.36,
+2024-12-09,Network activity,ip-src,185.247.28.129,
+2024-12-09,Network activity,ip-src,109.164.95.127,
+2024-12-09,Network activity,ip-src,200.88.202.203,
+2024-12-09,Network activity,ip-src,154.138.52.120,
+2024-12-09,Network activity,ip-src,105.82.167.77,
+2024-12-09,Network activity,ip-src,77.83.198.37,
+2024-12-09,Network activity,ip-src,51.38.188.65,
+2024-12-09,Network activity,ip-src,2001:41d0:305:2100::9b8b,
+2024-12-09,Network activity,ip-src,2001:41d0:a:f519::1,
+2024-12-09,Network activity,ip-src,2001:41d0:302:2000::3bbc,
+2024-12-09,Network activity,ip-src,2001:41d0:8:95c1::1,
+2024-12-09,Network activity,ip-src,92.119.126.229,
+2024-12-09,Network activity,ip-src,80.11.76.100,
+2024-12-09,Network activity,ip-src,178.134.80.206,
+2024-12-09,Network activity,ip-src,89.107.70.191,
+2024-12-09,Network activity,ip-src,38.242.239.132,
+2024-12-09,Network activity,ip-src,107.189.12.174,
+2024-12-09,Network activity,ip-src,62.169.31.176,
+2024-12-09,Network activity,ip-src,62.169.31.251,
+2024-12-09,Network activity,ip-src,77.237.236.171,
+2024-12-09,Network activity,ip-src,62.169.31.252,
+2024-12-09,Network activity,ip-src,77.237.236.170,
+2024-12-09,Network activity,ip-src,62.169.17.238,
+2024-12-09,Network activity,ip-src,62.169.31.245,
+2024-12-09,Network activity,ip-src,62.169.31.247,
+2024-12-09,Network activity,ip-src,62.169.31.64,
+2024-12-09,Network activity,ip-src,62.169.18.50,
+2024-12-09,Network activity,ip-src,77.237.236.227,
+2024-12-09,Network activity,ip-src,5.230.253.158,
+2024-12-09,Network activity,ip-src,2a04:5201:4::c7,
+2024-12-09,Network activity,ip-src,2a02:6ea0:c762:3::e01c,
+2024-12-09,Network activity,ip-src,2a02:6ea0:c762:1::e01c,
+2024-12-09,Network activity,ip-src,2a02:6ea0:c762:2::e01c,
+2024-12-09,Network activity,ip-src,2a02:c206:2112:8810::1,
+2024-12-09,Network activity,ip-src,84.247.142.194,
+2024-12-09,Network activity,ip-src,193.22.147.209,
+2024-12-09,Network activity,ip-src,192.145.37.65,
+2024-12-09,Network activity,ip-src,185.103.252.80,
+2024-12-09,Network activity,ip-src,53.54.187.145,
+2024-12-09,Network activity,ip-src,2a03:1b20:6:f011::e61c,
+2024-12-09,Network activity,ip-src,2a09:bac5:2a92:2482::3a3:26,
+2024-12-09,Network activity,ip-src,2a07:fe00:1::a23e,
+2024-12-09,Network activity,ip-src,2a07:fe00:1::a24e,
+2024-12-09,Network activity,ip-src,2a03:4000:67:f02:c872:30ff:fe44:9ede,
+2024-12-09,Network activity,ip-src,2a03:4000:4a:f1d:847:7dff:fe98:464f,
+2024-12-09,Network activity,ip-src,2a07:fe00:1::a25e,
+2024-12-09,Network activity,ip-src,2001:ac8:20:269::e01c,
+2024-12-09,Network activity,ip-src,2001:ac8:20:274::e01c,
+2024-12-09,Network activity,ip-src,2001:ac8:20:275::e01c,
+2024-12-09,Network activity,ip-src,2a07:fe00:1::a26e,
+2024-12-09,Network activity,ip-src,2001:ac8:20:270::e01c,
+2024-12-09,Network activity,ip-src,2001:ac8:20:276::e01c,
+2024-12-09,Network activity,ip-src,2001:ac8:20:277::e01c,
+2024-12-09,Network activity,ip-src,2a03:1b20:6:f011::e51c,
+2024-12-09,Network activity,ip-src,2a09:bac1:1e00:628::3a3:26,
+2024-12-09,Network activity,ip-src,2a09:bac1:1e40:628::3a3:26,
+2024-12-09,Network activity,ip-src,2a09:bac5:2a96:2482::3a3:26,
+2024-12-09,Network activity,ip-src,2a09:bac5:2a93:2482::3a3:26,
+2024-12-09,Network activity,ip-src,2a09:bac5:2a94:2482::3a3:26,
+2024-12-09,Network activity,ip-src,2a09:bac5:2a90:2482::3a3:26,
+2024-12-09,Network activity,ip-src,2a09:bac5:2a95:2482::3a3:26,
+2024-12-09,Network activity,ip-src,2a09:bac5:280f:2482::3a3:26,
+2024-12-09,Network activity,ip-src,2a00:12d8:700e:0:fe30:2413:145a:28c,
+2024-12-09,Network activity,ip-src,2a09:bac1:1e60:628::3a3:26,
+2024-12-09,Network activity,ip-src,2a09:bac1:1e20:628::3a3:26,
+2024-12-09,Network activity,ip-src,2a09:bac5:2a91:2482::3a3:26,
+2024-12-09,Network activity,ip-src,2a09:bac5:2a97:2482::3a3:26,
+2024-12-09,Network activity,ip-src,185.255.179.214,
+2024-12-09,Network activity,ip-src,37.58.54.42,
+2024-12-09,Network activity,ip-src,185.235.137.57,
+2024-12-09,Network activity,ip-src,5.61.34.57,
+2024-12-09,Network activity,ip-src,91.108.243.246,
+2024-12-09,Network activity,ip-src,49.12.236.127,
+2024-12-09,Network activity,ip-src,87.185.52.107,
+2024-12-09,Network activity,ip-src,139.162.137.149,
+2024-12-09,Network activity,ip-src,178.201.169.234,
+2024-12-09,Network activity,ip-src,57.129.64.214,
+2024-12-09,Network activity,ip-src,77.183.156.193,
+2024-12-09,Network activity,ip-src,141.66.76.25,
+2024-12-09,Network activity,ip-src,159.69.243.170,
+2024-12-09,Network activity,ip-src,84.163.114.200,
+2024-12-09,Network activity,ip-src,87.234.195.61,
+2024-12-09,Network activity,ip-src,37.61.213.219,
+2024-12-09,Network activity,ip-src,53.127.193.118,
+2024-12-09,Network activity,ip-src,188.109.130.83,
+2024-12-09,Network activity,ip-src,185.60.76.112,
+2024-12-09,Network activity,ip-src,213.109.200.118,
+2024-12-09,Network activity,ip-src,91.51.140.251,
+2024-12-09,Network activity,ip-src,102.223.23.250,
+2024-12-09,Network activity,ip-src,185.162.238.142,
+2024-12-09,Network activity,ip-src,14.199.246.64,
+2024-12-09,Network activity,ip-src,14.199.248.186,
+2024-12-09,Network activity,ip-src,103.251.113.154,
+2024-12-09,Network activity,ip-src,159.138.157.44,
+2024-12-09,Network activity,ip-src,2001:df1:7880:2::2f7,
+2024-12-09,Network activity,ip-src,152.32.131.99,
+2024-12-09,Network activity,ip-src,194.120.230.120,
+2024-12-09,Network activity,ip-src,149.104.26.105,
+2024-12-09,Network activity,ip-src,156.234.66.27,
+2024-12-09,Network activity,ip-src,156.225.70.170,
+2024-12-09,Network activity,ip-src,37.221.212.177,
+2024-12-09,Network activity,ip-src,37.221.212.117,
+2024-12-09,Network activity,ip-src,37.221.212.170,
+2024-12-09,Network activity,ip-src,37.221.212.172,
+2024-12-09,Network activity,ip-src,37.221.212.140,
+2024-12-09,Network activity,ip-src,37.221.212.163,
+2024-12-09,Network activity,ip-src,185.189.114.170,
+2024-12-09,Network activity,ip-src,34.47.191.60,
+2024-12-09,Network activity,ip-src,103.252.165.39,
+2024-12-09,Network activity,ip-src,156.67.110.225,
+2024-12-09,Network activity,ip-src,38.137.17.142,
+2024-12-09,Network activity,ip-src,103.205.66.152,
+2024-12-09,Network activity,ip-src,34.100.144.243,
+2024-12-09,Network activity,ip-src,34.93.111.241,
+2024-12-09,Network activity,ip-src,34.93.180.113,
+2024-12-09,Network activity,ip-src,34.47.154.181,
+2024-12-09,Network activity,ip-src,35.200.159.103,
+2024-12-09,Network activity,ip-src,34.100.217.3,
+2024-12-09,Network activity,ip-src,34.93.43.25,
+2024-12-09,Network activity,ip-src,34.100.233.45,
+2024-12-09,Network activity,ip-src,34.131.84.221,
+2024-12-09,Network activity,ip-src,34.93.199.104,
+2024-12-09,Network activity,ip-src,35.244.54.25,
+2024-12-09,Network activity,ip-src,117.235.53.157,
+2024-12-09,Network activity,ip-src,103.122.34.76,
+2024-12-09,Network activity,ip-src,103.150.89.226,
+2024-12-09,Network activity,ip-src,103.162.145.83,
+2024-12-09,Network activity,ip-src,43.224.169.95,
+2024-12-09,Network activity,ip-src,81.31.245.202,
+2024-12-09,Network activity,ip-src,217.11.23.243,
+2024-12-09,Network activity,ip-src,62.106.95.112,
+2024-12-09,Network activity,ip-src,62.106.95.42,
+2024-12-09,Network activity,ip-src,62.106.95.56,
+2024-12-09,Network activity,ip-src,62.106.95.79,
+2024-12-09,Network activity,ip-src,62.106.95.98,
+2024-12-09,Network activity,ip-src,31.14.123.48,
+2024-12-09,Network activity,ip-src,31.47.51.110,
+2024-12-09,Network activity,ip-src,80.233.70.17,
+2024-12-09,Network activity,ip-src,40.127.250.72,
+2024-12-09,Network activity,ip-src,129.159.131.22,
+2024-12-09,Network activity,ip-src,89.139.133.124,
+2024-12-09,Network activity,ip-src,149.62.188.197,
+2024-12-09,Network activity,ip-src,149.62.188.77,
+2024-12-09,Network activity,ip-src,88.149.187.58,
+2024-12-09,Network activity,ip-src,209.227.237.55,
+2024-12-09,Network activity,ip-src,176.125.235.102,
+2024-12-09,Network activity,ip-src,176.125.235.112,
+2024-12-09,Network activity,ip-src,176.125.235.92,
+2024-12-09,Network activity,ip-src,69.48.232.18,
+2024-12-09,Network activity,ip-src,193.43.207.250,
+2024-12-09,Network activity,ip-src,151.36.28.41,
+2024-12-09,Network activity,ip-src,79.1.115.105,
+2024-12-09,Network activity,ip-src,151.28.150.107,
+2024-12-09,Network activity,ip-src,93.67.12.85,
+2024-12-09,Network activity,ip-src,91.80.9.118,
+2024-12-09,Network activity,ip-src,165.225.202.236,
+2024-12-09,Network activity,ip-src,34.84.58.88,
+2024-12-09,Network activity,ip-src,183.72.177.31,
+2024-12-09,Network activity,ip-src,2400:8500:1801:488:163:44:252:204,
+2024-12-09,Network activity,ip-src,2407:cdc0:8003::57bc,
+2024-12-09,Network activity,ip-src,153.122.199.125,
+2024-12-09,Network activity,ip-src,219.21.76.8,
+2024-12-09,Network activity,ip-src,134.237.26.205,
+2024-12-09,Network activity,ip-src,153.120.176.101,
+2024-12-09,Network activity,ip-src,34.85.118.43,
+2024-12-09,Network activity,ip-src,34.146.181.206,
+2024-12-09,Network activity,ip-src,34.146.217.94,
+2024-12-09,Network activity,ip-src,34.146.165.23,
+2024-12-09,Network activity,ip-src,34.84.119.129,
+2024-12-09,Network activity,ip-src,35.221.67.24,
+2024-12-09,Network activity,ip-src,34.146.226.12,
+2024-12-09,Network activity,ip-src,35.200.48.236,
+2024-12-09,Network activity,ip-src,34.146.166.223,
+2024-12-09,Network activity,ip-src,35.221.80.240,
+2024-12-09,Network activity,ip-src,34.85.50.12,
+2024-12-09,Network activity,ip-src,34.84.100.76,
+2024-12-09,Network activity,ip-src,34.146.114.102,
+2024-12-09,Network activity,ip-src,163.145.46.102,
+2024-12-09,Network activity,ip-src,180.9.219.66,
+2024-12-09,Network activity,ip-src,60.92.84.37,
+2024-12-09,Network activity,ip-src,180.39.133.239,
+2024-12-09,Network activity,ip-src,120.51.64.117,
+2024-12-09,Network activity,ip-src,111.99.27.3,
+2024-12-09,Network activity,ip-src,126.194.31.46,
+2024-12-09,Network activity,ip-src,133.72.38.15,
+2024-12-09,Network activity,ip-src,153.169.120.15,
+2024-12-09,Network activity,ip-src,188.69.229.188,
+2024-12-09,Network activity,ip-src,107.189.4.162,
+2024-12-09,Network activity,ip-src,107.189.8.81,
+2024-12-09,Network activity,ip-src,107.189.5.20,
+2024-12-09,Network activity,ip-src,110.4.44.124,
+2024-12-09,Network activity,ip-src,122.8.191.70,
+2024-12-09,Network activity,ip-src,187.214.1.246,
+2024-12-09,Network activity,ip-src,200.56.155.136,
+2024-12-09,Network activity,ip-src,2a0a:c801:1:20::9d,
+2024-12-09,Network activity,ip-src,91.238.94.8,
+2024-12-09,Network activity,ip-src,178.168.77.65,
+2024-12-09,Network activity,ip-src,49.226.205.127,
+2024-12-09,Network activity,ip-src,158.37.17.188,
+2024-12-09,Network activity,ip-src,81.191.245.104,
+2024-12-09,Network activity,ip-src,2a02:20c8:4124::a02e,
+2024-12-09,Network activity,ip-src,2a02:20c8:4124::a04e,
+2024-12-09,Network activity,ip-src,2a02:20c8:4124::a03e,
+2024-12-09,Network activity,ip-src,2a02:20c8:4124::e501,
+2024-12-09,Network activity,ip-src,2a02:20c8:4124::e401,
+2024-12-09,Network activity,ip-src,2a02:20c8:4124::a01e,
+2024-12-09,Network activity,ip-src,178.255.149.131,
+2024-12-09,Network activity,ip-src,178.255.149.145,
+2024-12-09,Network activity,ip-src,178.255.149.170,
+2024-12-09,Network activity,ip-src,217.170.194.69,
+2024-12-09,Network activity,ip-src,152.94.22.150,
+2024-12-09,Network activity,ip-src,109.247.42.120,
+2024-12-09,Network activity,ip-src,190.8.134.42,
+2024-12-09,Network activity,ip-src,78.131.204.210,
+2024-12-09,Network activity,ip-src,185.36.169.255,
+2024-12-09,Network activity,ip-src,95.171.117.141,
+2024-12-09,Network activity,ip-src,45.95.235.75,
+2024-12-09,Network activity,ip-src,2001:41d0:601:1100::4b10,
+2024-12-09,Network activity,ip-src,2001:41d0:601:1100::2e8d,
+2024-12-09,Network activity,ip-src,46.205.68.19,
+2024-12-09,Network activity,ip-src,185.181.103.19,
+2024-12-09,Network activity,ip-src,109.166.139.39,
+2024-12-09,Network activity,ip-src,46.97.168.167,
+2024-12-09,Network activity,ip-src,86.120.109.185,
+2024-12-09,Network activity,ip-src,213.233.110.184,
+2024-12-09,Network activity,ip-src,213.233.108.101,
+2024-12-09,Network activity,ip-src,109.166.139.3,
+2024-12-09,Network activity,ip-src,86.127.88.73,
+2024-12-09,Network activity,ip-src,90.84.227.86,
+2024-12-09,Network activity,ip-src,109.166.134.191,
+2024-12-09,Network activity,ip-src,5.14.158.246,
+2024-12-09,Network activity,ip-src,188.27.48.153,
+2024-12-09,Network activity,ip-src,86.127.163.227,
+2024-12-09,Network activity,ip-src,86.126.14.204,
+2024-12-09,Network activity,ip-src,5.14.140.92,
+2024-12-09,Network activity,ip-src,185.53.198.232,
+2024-12-09,Network activity,ip-src,213.233.104.22,
+2024-12-09,Network activity,ip-src,213.233.108.26,
+2024-12-09,Network activity,ip-src,109.166.139.178,
+2024-12-09,Network activity,ip-src,146.70.124.142,
+2024-12-09,Network activity,ip-src,46.97.168.135,
+2024-12-09,Network activity,ip-src,213.233.108.78,
+2024-12-09,Network activity,ip-src,46.97.176.225,
+2024-12-09,Network activity,ip-src,213.233.85.158,
+2024-12-09,Network activity,ip-src,213.233.110.252,
+2024-12-09,Network activity,ip-src,37.251.220.166,
+2024-12-09,Network activity,ip-src,46.97.171.117,
+2024-12-09,Network activity,ip-src,178.132.109.90,
+2024-12-09,Network activity,ip-src,213.233.85.220,
+2024-12-09,Network activity,ip-src,109.166.135.189,
+2024-12-09,Network activity,ip-src,185.53.197.49,
+2024-12-09,Network activity,ip-src,213.233.108.141,
+2024-12-09,Network activity,ip-src,109.166.139.68,
+2024-12-09,Network activity,ip-src,79.119.48.38,
+2024-12-09,Network activity,ip-src,37.251.221.47,
+2024-12-09,Network activity,ip-src,109.166.139.187,
+2024-12-09,Network activity,ip-src,169.150.199.227,
+2024-12-09,Network activity,ip-src,46.97.176.227,
+2024-12-09,Network activity,ip-src,109.166.128.140,
+2024-12-09,Network activity,ip-src,213.233.88.114,
+2024-12-09,Network activity,ip-src,5.14.139.221,
+2024-12-09,Network activity,ip-src,146.70.124.197,
+2024-12-09,Network activity,ip-src,46.97.176.106,
+2024-12-09,Network activity,ip-src,146.70.246.119,
+2024-12-09,Network activity,ip-src,82.79.63.6,
+2024-12-09,Network activity,ip-src,169.150.199.228,
+2024-12-09,Network activity,ip-src,178.138.96.12,
+2024-12-09,Network activity,ip-src,91.200.148.132,
+2024-12-09,Network activity,ip-src,87.249.50.44,
+2024-12-09,Network activity,ip-src,185.190.105.67,
+2024-12-09,Network activity,ip-src,213.159.209.121,
+2024-12-09,Network activity,ip-src,188.120.243.197,
+2024-12-09,Network activity,ip-src,45.10.53.33,
+2024-12-09,Network activity,ip-src,85.192.56.173,
+2024-12-09,Network activity,ip-src,185.22.155.140,
+2024-12-09,Network activity,ip-src,95.188.70.11,
+2024-12-09,Network activity,ip-src,94.25.145.220,
+2024-12-09,Network activity,ip-src,188.124.122.203,
+2024-12-09,Network activity,ip-src,91.224.168.104,
+2024-12-09,Network activity,ip-src,37.18.74.34,
+2024-12-09,Network activity,ip-src,46.148.232.156,
+2024-12-09,Network activity,ip-src,89.248.192.2,
+2024-12-09,Network activity,ip-src,134.0.115.162,
+2024-12-09,Network activity,ip-src,91.226.64.28,
+2024-12-09,Network activity,ip-src,195.208.37.188,
+2024-12-09,Network activity,ip-src,94.77.225.41,
+2024-12-09,Network activity,ip-src,37.240.203.115,
+2024-12-09,Network activity,ip-src,178.254.157.214,
+2024-12-09,Network activity,ip-src,109.93.217.146,
+2024-12-09,Network activity,ip-src,176.67.83.15,
+2024-12-09,Network activity,ip-src,193.239.166.197,
+2024-12-09,Network activity,ip-src,103.94.224.100,
+2024-12-09,Network activity,ip-src,2603:c024:450a:afee::13,
+2024-12-09,Network activity,ip-src,2001:19f0:4400:62bd:5400:5ff:fe1b:6a48,
+2024-12-09,Network activity,ip-src,2401:c080:1400:6b14:5400:5ff:fe1b:68e0,
+2024-12-09,Network activity,ip-src,2400:8901::f03c:94ff:fe9c:c8c,
+2024-12-09,Network activity,ip-src,164.52.107.81,
+2024-12-09,Network activity,ip-src,152.42.196.195,
+2024-12-09,Network activity,ip-src,128.14.110.206,
+2024-12-09,Network activity,ip-src,196.41.187.13,
+2024-12-09,Network activity,ip-src,59.9.198.234,
+2024-12-09,Network activity,ip-src,175.114.251.52,
+2024-12-09,Network activity,ip-src,210.120.193.202,
+2024-12-09,Network activity,ip-src,194.164.174.115,
+2024-12-09,Network activity,ip-src,217.130.252.88,
+2024-12-09,Network activity,ip-src,185.228.66.44,
+2024-12-09,Network activity,ip-src,85.155.170.75,
+2024-12-09,Network activity,ip-src,88.17.138.47,
+2024-12-09,Network activity,ip-src,151.237.207.60,
+2024-12-09,Network activity,ip-src,37.135.66.71,
+2024-12-09,Network activity,ip-src,79.116.103.102,
+2024-12-09,Network activity,ip-src,80.24.184.11,
+2024-12-09,Network activity,ip-src,78.71.118.126,
+2024-12-09,Network activity,ip-src,81.237.241.117,
+2024-12-09,Network activity,ip-src,194.132.70.211,
+2024-12-09,Network activity,ip-src,91.145.20.239,
+2024-12-09,Network activity,ip-src,79.141.174.2,
+2024-12-09,Network activity,ip-src,90.232.222.136,
+2024-12-09,Network activity,ip-src,45.132.235.168,
+2024-12-09,Network activity,ip-src,83.191.61.233,
+2024-12-09,Network activity,ip-src,38.180.162.141,
+2024-12-09,Network activity,ip-src,148.196.251.68,
+2024-12-09,Network activity,ip-src,194.116.181.79,
+2024-12-09,Network activity,ip-src,178.197.223.136,
+2024-12-09,Network activity,ip-src,116.66.214.3,
+2024-12-09,Network activity,ip-src,2406:8dc0:6004:9f12:5c31:54a7:587e:10e,
+2024-12-09,Network activity,ip-src,117.104.191.59,
+2024-12-09,Network activity,ip-src,220.136.193.97,
+2024-12-09,Network activity,ip-src,101.12.222.44,
+2024-12-09,Network activity,ip-src,2a03:6f02::250c,
+2024-12-09,Network activity,ip-src,176.124.201.189,
+2024-12-09,Network activity,ip-src,185.61.69.247,
+2024-12-09,Network activity,ip-src,5.255.97.56,
+2024-12-09,Network activity,ip-src,5.255.102.82,
+2024-12-09,Network activity,ip-src,5.255.120.223,
+2024-12-09,Network activity,ip-src,5.255.116.142,
+2024-12-09,Network activity,ip-src,5.255.126.239,
+2024-12-09,Network activity,ip-src,5.255.121.105,
+2024-12-09,Network activity,ip-src,5.255.112.57,
+2024-12-09,Network activity,ip-src,5.255.112.6,
+2024-12-09,Network activity,ip-src,5.255.104.165,
+2024-12-09,Network activity,ip-src,5.255.116.57,
+2024-12-09,Network activity,ip-src,5.255.101.137,
+2024-12-09,Network activity,ip-src,5.255.99.72,
+2024-12-09,Network activity,ip-src,5.255.125.172,
+2024-12-09,Network activity,ip-src,5.255.118.22,
+2024-12-09,Network activity,ip-src,5.255.103.161,
+2024-12-09,Network activity,ip-src,5.79.106.89,
+2024-12-09,Network activity,ip-src,185.107.237.152,
+2024-12-09,Network activity,ip-src,80.126.88.108,
+2024-12-09,Network activity,ip-src,5.255.108.201,
+2024-12-09,Network activity,ip-src,5.255.118.7,
+2024-12-09,Network activity,ip-src,5.255.120.22,
+2024-12-09,Network activity,ip-src,5.255.109.235,
+2024-12-09,Network activity,ip-src,5.255.97.204,
+2024-12-09,Network activity,ip-src,5.255.127.233,
+2024-12-09,Network activity,ip-src,185.81.115.65,
+2024-12-09,Network activity,ip-src,5.255.98.20,
+2024-12-09,Network activity,ip-src,5.255.127.158,
+2024-12-09,Network activity,ip-src,5.255.98.213,
+2024-12-09,Network activity,ip-src,5.255.102.138,
+2024-12-09,Network activity,ip-src,5.255.116.229,
+2024-12-09,Network activity,ip-src,5.255.115.164,
+2024-12-09,Network activity,ip-src,5.255.127.220,
+2024-12-09,Network activity,ip-src,5.255.124.62,
+2024-12-09,Network activity,ip-src,5.255.113.154,
+2024-12-09,Network activity,ip-src,5.255.100.229,
+2024-12-09,Network activity,ip-src,5.255.123.163,
+2024-12-09,Network activity,ip-src,77.241.232.14,
+2024-12-09,Network activity,ip-src,147.75.33.149,
+2024-12-09,Network activity,ip-src,185.94.188.210,
+2024-12-09,Network activity,ip-src,213.184.114.235,
+2024-12-09,Network activity,ip-src,78.188.72.152,
+2024-12-09,Network activity,ip-src,31.145.149.74,
+2024-12-09,Network activity,ip-src,89.252.169.172,
+2024-12-09,Network activity,ip-src,45.14.34.193,
+2024-12-09,Network activity,ip-src,62.244.227.198,
+2024-12-09,Network activity,ip-src,46.148.185.247,
+2024-12-09,Network activity,ip-src,45.154.116.20,
+2024-12-09,Network activity,ip-src,185.94.214.87,
+2024-12-09,Network activity,ip-src,109.61.18.24,
+2024-12-09,Network activity,ip-src,5.31.172.1,
+2024-12-09,Network activity,ip-src,45.9.250.120,
+2024-12-09,Network activity,ip-src,158.220.82.73,
+2024-12-09,Network activity,ip-src,2.125.161.36,
+2024-12-09,Network activity,ip-src,2a03:b0c0:1:d0::c4a:1001,
+2024-12-09,Network activity,ip-src,31.123.246.182,
+2024-12-09,Network activity,ip-src,2.97.222.152,
+2024-12-09,Network activity,ip-src,212.132.211.250,
+2024-12-09,Network activity,ip-src,92.11.248.117,
+2024-12-09,Network activity,ip-src,176.35.133.116,
+2024-12-09,Network activity,ip-src,141.170.79.176,
+2024-12-09,Network activity,ip-src,90.244.215.153,
+2024-12-09,Network activity,ip-src,48.221.161.6,
+2024-12-09,Network activity,ip-src,109.146.231.13,
+2024-12-09,Network activity,ip-src,2.100.105.1,
+2024-12-09,Network activity,ip-src,31.205.8.83,
+2024-12-09,Network activity,ip-src,146.90.171.230,
+2024-12-09,Network activity,ip-src,86.14.208.54,
+2024-12-09,Network activity,ip-src,216.55.143.122,
+2024-12-09,Network activity,ip-src,162.214.177.144,
+2024-12-09,Network activity,ip-src,162.214.177.148,
+2024-12-09,Network activity,ip-src,162.214.177.152,
+2024-12-09,Network activity,ip-src,162.214.177.154,
+2024-12-09,Network activity,ip-src,162.214.177.167,
+2024-12-09,Network activity,ip-src,162.214.177.172,
+2024-12-09,Network activity,ip-src,162.214.177.178,
+2024-12-09,Network activity,ip-src,162.214.177.195,
+2024-12-09,Network activity,ip-src,162.214.177.223,
+2024-12-09,Network activity,ip-src,162.214.177.239,
+2024-12-09,Network activity,ip-src,162.214.179.247,
+2024-12-09,Network activity,ip-src,162.214.179.248,
+2024-12-09,Network activity,ip-src,162.214.180.102,
+2024-12-09,Network activity,ip-src,162.214.180.20,
+2024-12-09,Network activity,ip-src,162.214.180.21,
+2024-12-09,Network activity,ip-src,162.214.180.59,
+2024-12-09,Network activity,ip-src,162.214.180.65,
+2024-12-09,Network activity,ip-src,162.214.180.8,
+2024-12-09,Network activity,ip-src,162.214.180.9,
+2024-12-09,Network activity,ip-src,162.214.180.96,
+2024-12-09,Network activity,ip-src,23.83.234.233,
+2024-12-09,Network activity,ip-src,68.76.138.94,
+2024-12-09,Network activity,ip-src,96.27.149.231,
+2024-12-09,Network activity,ip-src,69.65.43.86,
+2024-12-09,Network activity,ip-src,75.98.220.27,
+2024-12-09,Network activity,ip-src,2001:470:35:628::2,
+2024-12-09,Network activity,ip-src,38.107.236.100,
+2024-12-09,Network activity,ip-src,2604:6600:158:11b6:7027:2f8d:f72:d99d,
+2024-12-09,Network activity,ip-src,2607:f130:0:141:216:3eff:fe4f:d200,
+2024-12-09,Network activity,ip-src,2604:a00:50:3b:216:3eff:fe2d:2a3,
+2024-12-09,Network activity,ip-src,2607:f130:0:1a0::c3c2:4a7c,
+2024-12-09,Network activity,ip-src,67.219.150.34,
+2024-12-09,Network activity,ip-src,45.199.189.70,
+2024-12-09,Network activity,ip-src,69.48.232.56,
+2024-12-09,Network activity,ip-src,178.128.5.87,
+2024-12-09,Network activity,ip-src,69.55.49.61,
+2024-12-09,Network activity,ip-src,74.50.65.152,
+2024-12-09,Network activity,ip-src,64.20.41.203,
+2024-12-09,Network activity,ip-src,209.182.235.245,
+2024-12-09,Network activity,ip-src,147.182.193.68,
+2024-12-09,Network activity,ip-src,192.67.160.128,
+2024-12-09,Network activity,ip-src,29.21.174.190,
+2024-12-09,Network activity,ip-src,38.157.98.201,
+2024-12-09,Network activity,ip-src,137.123.79.176,
+2024-12-09,Network activity,ip-src,32.224.95.82,
+2024-12-09,Network activity,ip-src,207.120.243.212,
+2024-12-09,Network activity,ip-src,7.135.14.211,
+2024-12-09,Network activity,ip-src,11.106.174.161,
+2024-12-09,Network activity,ip-src,45.41.51.30,
+2024-12-09,Network activity,ip-src,104.167.70.158,
+2024-12-09,Network activity,ip-src,98.18.198.59,
+2024-12-09,Network activity,ip-src,50.175.255.26,
+2024-12-09,Network activity,ip-src,97.213.65.201,
+2024-12-09,Network activity,ip-src,20.114.249.181,
+2024-12-09,Network activity,ip-src,72.214.189.117,
+2024-12-09,Network activity,ip-src,148.35.137.47,
+2024-12-09,Network activity,ip-src,32.51.174.145,
+2024-12-09,Network activity,ip-src,208.104.192.174,
+2024-12-09,Network activity,ip-src,12.119.162.219,
+2024-12-09,Network activity,ip-src,208.244.150.103,
+2024-12-09,Network activity,ip-src,63.20.181.141,
+2024-12-09,Network activity,ip-src,71.75.227.42,
+2024-12-09,Network activity,ip-src,65.28.199.171,
+2024-12-09,Network activity,ip-src,40.212.229.78,
+2024-12-09,Network activity,ip-src,66.199.236.194,
+2024-12-09,Network activity,ip-src,45.77.191.75,
+2024-12-09,Network activity,ip-src,162.240.154.26,
+2024-12-09,Network activity,ip-src,192.252.211.114,
+2024-12-09,Network activity,ip-src,204.236.245.26,
+2024-12-09,Network activity,ip-src,148.150.136.201,
+2024-12-09,Network activity,ip-src,35.163.98.59,
+2024-12-09,Network activity,ip-src,205.202.39.170,
+2024-12-09,Network activity,ip-src,137.211.10.206,
+2024-12-09,Network activity,ip-src,208.12.169.71,
+2024-12-09,Network activity,ip-src,29.31.83.108,
+2024-12-09,Network activity,ip-src,99.67.38.235,
+2024-12-09,Network activity,ip-src,148.46.8.206,
+2024-12-09,Network activity,ip-src,144.118.72.71,
+2024-12-09,Network activity,ip-src,45.27.155.72,
+2024-12-09,Network activity,ip-src,97.206.219.179,
+2024-12-09,Network activity,ip-src,38.138.121.115,
+2024-12-09,Network activity,ip-src,162.203.61.202,
+2024-12-09,Network activity,ip-src,29.80.105.118,
+2024-12-09,Network activity,ip-src,29.159.138.63,
+2024-12-09,Network activity,ip-src,68.227.237.70,
+2024-12-09,Network activity,ip-src,44.239.183.37,
+2024-12-09,Network activity,ip-src,107.89.127.48,
+2024-12-09,Network activity,ip-src,97.183.209.189,
+2024-12-09,Network activity,ip-src,204.27.121.165,
+2024-12-09,Network activity,ip-src,45.140.184.105,
+2024-12-09,Network activity,ip-src,208.152.161.41,
+2024-12-09,Network activity,ip-src,26.49.230.28,
+2024-12-09,Network activity,ip-src,11.0.112.8,
+2024-12-09,Network activity,ip-src,67.160.45.168,
+2024-12-09,Network activity,ip-src,68.62.32.40,
+2024-12-09,Network activity,ip-src,214.181.159.68,
+2024-12-09,Network activity,ip-src,136.161.193.229,
+2024-12-09,Network activity,ip-src,207.60.40.202,
+2024-12-09,Network activity,ip-src,129.55.47.193,
+2024-12-09,Network activity,ip-src,151.103.205.108,
+2024-12-09,Network activity,ip-src,144.3.102.19,
+2024-12-09,Network activity,ip-src,85.209.85.33,
+2024-12-09,Network activity,ip-src,141.111.29.183,
+2024-12-09,Network activity,ip-src,70.229.250.167,
+2024-12-09,Network activity,ip-src,55.195.134.19,
+2024-12-09,Network activity,ip-src,54.166.242.44,
+2024-12-09,Network activity,ip-src,4.104.4.230,
+2024-12-09,Network activity,ip-src,174.244.123.234,
+2024-12-09,Network activity,ip-src,50.160.221.221,
+2024-12-09,Network activity,ip-src,20.29.254.142,
+2024-12-09,Network activity,ip-src,161.155.47.100,
+2024-12-09,Network activity,ip-src,107.200.88.190,
+2024-12-09,Network activity,ip-src,22.180.165.230,
+2024-12-09,Network activity,ip-src,214.126.49.102,
+2024-12-09,Network activity,ip-src,171.243.28.12,
+2024-12-09,Network activity,ip-src,171.244.10.204,

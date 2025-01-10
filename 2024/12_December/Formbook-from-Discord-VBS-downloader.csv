@@ -1,0 +1,54 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook from Discord VBS downloader
+| UUID: 3a9bdc50-c839-4d44-80ad-dfec07a1781f
+| Date: 2024-12-12
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-12,Network activity,url,https://cdn.discordapp.com/attachments/1295304757166080020/1316689197008027658/xx.ps1?ex=675bf5df&is=675aa45f&hm=70613ddd2fc6fc55cac63c48ec5454d2d9949cc2172e698a5e44f2917c3a938a&,
+2024-12-12,Network activity,domain,www.1qcczjvh2.autos,
+2024-12-12,Network activity,domain,www.614genetics.online,
+2024-12-12,Network activity,domain,www.7261ltajbc.bond,
+2024-12-12,Network activity,domain,www.76kdd.top,
+2024-12-12,Network activity,domain,www.aiactor.xyz,
+2024-12-12,Network activity,domain,www.amayavp.xyz,
+2024-12-12,Network activity,domain,www.atendefacil.info,
+2024-12-12,Network activity,domain,www.bcg.services,
+2024-12-12,Network activity,domain,www.bookingservice.center,
+2024-12-12,Network activity,domain,www.connecty.live,
+2024-12-12,Network activity,domain,www.duwixushx.xyz,
+2024-12-12,Network activity,domain,www.guacamask.online,
+2024-12-12,Network activity,domain,www.kanadeviainova.net,
+2024-12-12,Network activity,domain,www.nuy25c9t.sbs,
+2024-12-12,Network activity,domain,www.phoenix88.sbs,
+2024-12-12,Network activity,domain,www.rafconstrutora.online,
+2024-12-12,Network activity,domain,www.seeseye.website,
+2024-12-12,Network activity,domain,www.supernutra01.online,
+2024-12-12,Network activity,domain,www.yvcp3.info,
+2024-12-12,Payload delivery,malware-sample,PO110011111.7z|a97dd6a3c57a32b0595e1f779d7c2d55,
+2024-12-12,Payload delivery,filename,PO110011111.7z,
+2024-12-12,Payload delivery,md5,a97dd6a3c57a32b0595e1f779d7c2d55,
+2024-12-12,Payload delivery,sha1,f498f86a58f8ec15e21958b62fbbea40c82d388d,
+2024-12-12,Payload delivery,sha256,186b5f69e2256047246b35c3cd95fe2ecb5c02f1c9675bb2e8ff4ace974cb268,
+2024-12-12,Other,size-in-bytes,1134,
+2024-12-12,Payload delivery,malware-sample,PO110011111.Vbs|3e0588d874871cd10d935160dd4a5ccf,
+2024-12-12,Payload delivery,filename,PO110011111.Vbs,
+2024-12-12,Payload delivery,md5,3e0588d874871cd10d935160dd4a5ccf,
+2024-12-12,Payload delivery,sha1,65090a9487692c4fa5dc7d523d31be76c8011418,
+2024-12-12,Payload delivery,sha256,28b75c909e6ad894dfd3ab6b625b25fd0bdb4e0b2bcf42c8d8cb8bc85b0792f2,
+2024-12-12,Other,size-in-bytes,2184,
+2024-12-12,Payload delivery,malware-sample,xx.ps1|97edfb57dd8fa6f6e146ef5b2e5e6f5d,
+2024-12-12,Payload delivery,filename,xx.ps1,
+2024-12-12,Payload delivery,md5,97edfb57dd8fa6f6e146ef5b2e5e6f5d,
+2024-12-12,Payload delivery,sha1,72ff493431f1c289f12ba52c1274816468db11a9,
+2024-12-12,Payload delivery,sha256,2dff34d36ebc4fde8ecef2469d527d7561ef221bf0ab8a2c605b3fda3848cf62,
+2024-12-12,Other,size-in-bytes,441808,
+2024-12-12,Payload delivery,malware-sample,x.exe|18d77741fd917d0e06d10a226a9def4b,
+2024-12-12,Payload delivery,filename,x.exe,
+2024-12-12,Payload delivery,md5,18d77741fd917d0e06d10a226a9def4b,
+2024-12-12,Payload delivery,sha1,15d1df8984d21e2f5354738691042af05d529c27,
+2024-12-12,Payload delivery,sha256,9015bfb0552d3e535f637114037399423ebcfb87c592f06e1a910c60c4e62bdc,
+2024-12-12,Other,size-in-bytes,331264,

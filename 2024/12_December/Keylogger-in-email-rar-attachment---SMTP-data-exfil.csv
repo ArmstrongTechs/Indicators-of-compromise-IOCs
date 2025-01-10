@@ -1,0 +1,37 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Keylogger in email (.rar) attachment - SMTP data exfil
+| UUID: a9b37bcd-1665-48bc-9897-9b9d1e1d1e2b
+| Date: 2024-12-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-23,Network activity,email,serverche399@gpsamsterdamqroup.com,
+2024-12-23,Network activity,email,almightstephen@gmail.com,
+2024-12-23,Network activity,hostname|port,fiber13.dnsiaas.com|587,
+2024-12-23,Payload delivery,malware-sample,EPIRCHNQINOO6154.rar|bddbd85ac2125083de598bd4f9d25d47,
+2024-12-23,Payload delivery,filename,EPIRCHNQINOO6154.rar,
+2024-12-23,Payload delivery,md5,bddbd85ac2125083de598bd4f9d25d47,
+2024-12-23,Payload delivery,sha1,6fcd0c931542b6c188db284c3d40069f1dfcafff,
+2024-12-23,Payload delivery,sha256,a2cbe4268677217277244084d26130e5c14402770b5c5436cdd65c159eb339f8,
+2024-12-23,Other,size-in-bytes,493460,
+2024-12-23,Payload delivery,malware-sample,EPIRTURMEROOO0060.rar|464a41549e8ee5571c1324f46fa67d11,
+2024-12-23,Payload delivery,filename,EPIRTURMEROOO0060.rar,
+2024-12-23,Payload delivery,md5,464a41549e8ee5571c1324f46fa67d11,
+2024-12-23,Payload delivery,sha1,19b79e78ed03811c90776bf6ac518a71d9e43e36,
+2024-12-23,Payload delivery,sha256,9cbe45a619c38ceeefcd832c9c41d5b10fec308b527785c02ee2b777f7281898,
+2024-12-23,Other,size-in-bytes,493461,
+2024-12-23,Payload delivery,malware-sample,EPIRTURMEROOO0060.exe|6b2561c0b680c9e681b71663cd6afb1e,
+2024-12-23,Payload delivery,filename,EPIRTURMEROOO0060.exe,
+2024-12-23,Payload delivery,md5,6b2561c0b680c9e681b71663cd6afb1e,
+2024-12-23,Payload delivery,sha1,39d5ad324e919744f94c5281af5d612422657fc2,
+2024-12-23,Payload delivery,sha256,e0663b19ffa16445efed5a1c70bd92ab61a65faef5535fe7f43c81f3b86ea2c2,
+2024-12-23,Other,size-in-bytes,1021952,
+2024-12-23,Payload delivery,malware-sample,EPIRCHNQINOO6154.exe|6b2561c0b680c9e681b71663cd6afb1e,
+2024-12-23,Payload delivery,filename,EPIRCHNQINOO6154.exe,
+2024-12-23,Payload delivery,md5,6b2561c0b680c9e681b71663cd6afb1e,
+2024-12-23,Payload delivery,sha1,39d5ad324e919744f94c5281af5d612422657fc2,
+2024-12-23,Payload delivery,sha256,e0663b19ffa16445efed5a1c70bd92ab61a65faef5535fe7f43c81f3b86ea2c2,
+2024-12-23,Other,size-in-bytes,1021952,

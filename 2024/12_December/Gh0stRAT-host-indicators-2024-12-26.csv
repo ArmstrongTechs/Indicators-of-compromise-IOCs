@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Gh0stRAT host indicators [2024-12-26]
+| UUID: ee5881d6-656d-4999-ac89-e7a222e0a280
+| Date: 2024-12-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-27,Payload installation,filename,8F60B2218139D38978B4263244BFA4C9.dll,Source: MalwareBazaar
+2024-12-27,Payload installation,md5,8f60b2218139d38978b4263244bfa4c9,Source: MalwareBazaar
+2024-12-27,Payload installation,sha1,80324b76dc1f4688c775e47d8b9d1c313d212319,Source: MalwareBazaar
+2024-12-27,Payload installation,sha256,9e4eb613a93a8b79faca6ed56bd73f3f04ef6fcf52473cd0ffd6724a656cf46b,Source: MalwareBazaar

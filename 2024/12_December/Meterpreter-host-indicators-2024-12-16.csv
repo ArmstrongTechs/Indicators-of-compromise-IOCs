@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Meterpreter host indicators [2024-12-16]
+| UUID: f6097254-c370-4808-81d1-11be29674a6a
+| Date: 2024-12-16
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-16,Payload installation,filename,plantrojan.exe,Source: MalwareBazaar
+2024-12-16,Payload installation,md5,56477b8f868be2777bac580adda34c79,Source: MalwareBazaar
+2024-12-16,Payload installation,sha1,f0d83807af5538e6c278177da0b2bbc4d0f9d45e,Source: MalwareBazaar
+2024-12-16,Payload installation,sha256,8d632025d788367d42dc3d7251432d50dc8eae3b71d8b6945b9616100eafc682,Source: MalwareBazaar

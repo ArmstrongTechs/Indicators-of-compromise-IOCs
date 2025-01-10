@@ -1,0 +1,36 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: LokiBot as archive email attachment
+| UUID: 715fdf01-72b0-462e-a91a-6a9061b88bc1
+| Date: 2024-12-03
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-03,Network activity,url,https://dddotx.shop/,
+2024-12-03,Network activity,url,https://dvlref.online/BISH/PWS/fre.php,C2
+2024-12-03,Payload delivery,malware-sample,Quotation.rar|328483fa4a583ad2df7ec9879bb4810b,
+2024-12-03,Payload delivery,filename,Quotation.rar,
+2024-12-03,Payload delivery,md5,328483fa4a583ad2df7ec9879bb4810b,
+2024-12-03,Payload delivery,sha1,870fa7c97961a33fd74aaa6fb9a38856809b0313,
+2024-12-03,Payload delivery,sha256,d61a371044cc8fe457d541a9d8249e14485e580eab085d97e4401445a1f64595,
+2024-12-03,Other,size-in-bytes,60369,
+2024-12-03,Payload delivery,malware-sample,Quotation.exe|79a8d98794c1a02ac6dc00fad171fbbd,
+2024-12-03,Payload delivery,filename,Quotation.exe,
+2024-12-03,Payload delivery,md5,79a8d98794c1a02ac6dc00fad171fbbd,
+2024-12-03,Payload delivery,sha1,ac2eb8292cb92798584791cfe3db5de5e4b194ae,
+2024-12-03,Payload delivery,sha256,9eab568fc060968a1159dae32764db8faf3d81384c0a854a2d7304765c16eece,
+2024-12-03,Other,size-in-bytes,226816,
+2024-12-03,Payload delivery,malware-sample,DLLL.dll|7d9c5df6d1a2f85004890dc0c3d287a3,
+2024-12-03,Payload delivery,filename,DLLL.dll,
+2024-12-03,Payload delivery,md5,7d9c5df6d1a2f85004890dc0c3d287a3,
+2024-12-03,Payload delivery,sha1,6bb3be415aa1964322de405f441ab2d4b9a6dbf5,
+2024-12-03,Payload delivery,sha256,c0ae10c66edf8c07a100b3dbd62d1c5f3266a16b12a32f41faa69b4af1b6790a,
+2024-12-03,Other,size-in-bytes,15360,
+2024-12-03,Payload delivery,malware-sample,BISH.exe|5f2188fd175e66a38eb1f66bfe43fadf,
+2024-12-03,Payload delivery,filename,BISH.exe,
+2024-12-03,Payload delivery,md5,5f2188fd175e66a38eb1f66bfe43fadf,
+2024-12-03,Payload delivery,sha1,c51c9148829458aa731809b82fdd9c6e2be83c0e,
+2024-12-03,Payload delivery,sha256,05b982d11e9506502236e2d431d5953a32c6b7aa5e69b175c6225d94de966516,
+2024-12-03,Other,size-in-bytes,106496,

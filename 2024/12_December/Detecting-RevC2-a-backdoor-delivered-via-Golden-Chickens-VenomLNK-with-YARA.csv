@@ -1,0 +1,20 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: Detecting RevC2, a backdoor delivered via Golden Chicken’s VenomLNK, with YARA"
+| UUID: 801c0078-09ff-45b7-8f14-889ecb303fbd
+| Date: 2024-12-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-24,Network activity,domain,nopsec.org,
+2024-12-24,Payload delivery,sha256,8e16378a59eb692de2c3a53b8a966525b0d36412bfd79c20b48c2ee546f13d04,
+2024-12-24,Payload delivery,sha256,46a982ec4ea400f8df403fa8384e1752dca070bd84beef06284f1d412e159e67,
+2024-12-24,Payload delivery,sha256,cf45f68219c4a105fffc212895312ca9dc7f4abe37306d2f3b0f098fb6975ec7,
+2024-12-24,Payload delivery,sha256,9b0b58aa10577244bc0e174d588ffa8d34a54a34c1b59371acba52772b584707,
+2024-12-24,Payload delivery,sha256,153cd5a005b553927a94cc7759a8909bd1b351407d8d036a1bf5fcf9ee83192e,
+2024-12-24,Payload delivery,sha256,f93134f9b4ee2beb1998d8ea94e3da824e7d71f19dfb3ce566e8e9da65b1d7a2,
+2024-12-24,Network activity,ip-dst,65.38.121.211,
+2024-12-24,Network activity,ip-dst,70.75.168.151,
+2024-12-24,Network activity,ip-dst,208.85.17.52,

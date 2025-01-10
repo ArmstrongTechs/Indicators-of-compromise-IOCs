@@ -1,0 +1,17 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: NCSC Details ‘Pygmy Goat’ Backdoor Planted On Hacked Sophos Firewall Devices
+| UUID: 48afdfe0-240f-4c49-9cee-455888bbe469
+| Date: 2024-12-06
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-06,Payload delivery,md5,c71cd27efcdb8c44ab8c29d51f033a22,
+2024-12-06,Payload delivery,sha1,71f70d61af00542b2e9ad64abd2dda7e437536ff,
+2024-12-06,Payload delivery,sha256,6455de74ae15071fa98f18cdbc3148c967755e69df7dee747bc31d0387751162,
+2024-12-06,Network activity,domain,libsophos.so,
+2024-12-06,Payload delivery,md5,3f28196675dc8cb20cf5b5f80ea29310,
+2024-12-06,Payload delivery,sha1,7ace663c22b3e800fc17c1477d54b533f7002833,
+2024-12-06,Payload delivery,sha256,823b079c75f4e6a5905d9eea9a60c62e1f0995bfc25764d1ba0407a5bd78c962,

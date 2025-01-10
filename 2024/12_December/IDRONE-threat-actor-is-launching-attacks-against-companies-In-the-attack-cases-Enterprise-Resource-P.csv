@@ -1,0 +1,17 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: IDRONE threat actor is launching attacks against companies. In the attack cases, Enterprise Resource Planning (ERP) software was exploited to install a backdoor malware called CLNTEND."
+| UUID: 11e3dfb3-d761-42a3-adc7-bda71f9bdff4
+| Date: 2024-12-27
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-27,Payload delivery,md5,11529c342d150647a020145da873ea98,
+2024-12-27,Payload delivery,md5,127c722bf973d850ee085ab863257692,
+2024-12-27,Payload delivery,md5,26ff6fac8ac83ece36b95442f5bb81ce,
+2024-12-27,Payload delivery,md5,30c0796aa5d7ba9ea3790a0210ec9840,
+2024-12-27,Payload delivery,md5,314f239e2ba3fbf6b9e6b4f13ee043e7,
+2024-12-27,Network activity,hostname,ac.metyp9.com,
+2024-12-27,Network activity,hostname,server.microsoftsvc.com,

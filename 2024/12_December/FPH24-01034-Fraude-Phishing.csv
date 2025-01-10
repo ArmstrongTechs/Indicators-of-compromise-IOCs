@@ -1,0 +1,20 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-01034 [Fraude] [Phishing]
+| UUID: 2f4863f2-913c-4593-999c-bbd46f24adf0
+| Date: 2024-12-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-19,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+En esta ocasión, se trata de un correo electrónico con un archivo adjunto malicioso, email que se hace pasar por un aviso de aumento salarial.El email indica lo siguiente, en inglés:&quot;NotificaciónEstimado miembro del equipoNos complace informarle de que su ajuste salarial ha sido aprobado y ya está en vigor. A continuación encontrará compensación actualizada:Nota: Descargue y guarde el documento en OneDrive para un fácil acceso&quot;Lo anterior constituye una falsificación de marca que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2024-12-19,Network activity,ip-src,104.21.58.2,IP sitio falso
+2024-12-19,Payload delivery,url,https://claimsnauts.lawdocstorage.com/L8An2/?e={Correo encoded},URL sitio falso
+2024-12-19,Payload delivery,url,https://coupons.digidip.net/visit?url=https://claimsnauts.lawdocstorage.com/L8An2?e={Correo encoded},URL redireccion
+2024-12-19,External analysis,attachment,2024-12-18_13h21_39.png,
+2024-12-19,External analysis,attachment,2024-12-18_13h23_10.png,
+2024-12-19,Payload delivery,filename,Secure_Scan_O2_Savalcorp_Pg424078.pdf,
+2024-12-19,Payload delivery,sha256,5bd3030cff8991aae88172169f10a5bf1068fd258f88f37b7645809e00b4c940,

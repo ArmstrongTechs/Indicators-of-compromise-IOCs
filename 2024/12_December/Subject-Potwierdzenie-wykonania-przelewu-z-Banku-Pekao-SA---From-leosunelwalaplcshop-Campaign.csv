@@ -1,0 +1,61 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Potwierdzenie wykonania przelewu z Banku Pekao S.A. - From: leo@sunelwalaplc.shop"" Campaign"
+| UUID: 40d39f6a-157a-494e-915c-659d0f46ad56
+| Date: 2024-12-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-13,Payload delivery,email-src,leo@sunelwalaplc.shop,Source email: from leo@sunelwalaplc.shop - subject: Potwierdzenie wykonania przelewu z Banku Pekao S.A.
+2024-12-13,Payload delivery,email-src-display-name,Bank Pekao S.A.,Source email: from leo@sunelwalaplc.shop - subject: Potwierdzenie wykonania przelewu z Banku Pekao S.A.
+2024-12-13,Payload delivery,email-body,"-------------------------
+
+Szanowna Pani/Szanowny Panie,
+
+w załączeniu przesyłamy potwierdzenie realizacji przelewu wysłanego z 
+Banku Pekao S.A.
+Z poważaniem,
+Bank Pekao S.A.
+
+Wiadomość została wygenerowana na prośbę użytkownika bankowości 
+elektronicznej Pekao24 i przesłana na wskazany przez niego adres e-mail. 
+Treść tej wiadomości zawiera informacje przeznaczone tylko dla adresata.
+Jeżeli nie jesteście Państwo jej adresatem, bądź otrzymaliście ją przez 
+pomyłkę, prosimy o nieprzesyłanie jej dalej oraz trwałe jej usunięcie.
+
+W przypadku pytań lub wątpliwości, prosimy o skorzystanie z formularza 
+kontaktu, dostępnego na stronie www.pekao.com.pl [1], lub kontakt 
+telefoniczny
+pod numerem 801 365 365 lub +48 (22) 59 12 232 (tel. stacjonarne, 
+połączenia z zagranicy); koszt połączenia wg taryfy operatora.
+
+Links:
+------
+[1] http://www.pekao.com.pl",Source email: from leo@sunelwalaplc.shop - subject: Potwierdzenie wykonania przelewu z Banku Pekao S.A.
+2024-12-13,Payload delivery,email-subject,Potwierdzenie wykonania przelewu z Banku Pekao S.A.,Source: from leo@sunelwalaplc.shop - subject: Potwierdzenie wykonania przelewu z Banku Pekao S.A.
+2024-12-13,Payload delivery,filename|md5,potwierdzenie_przelewu_20241202.img|ae138a3e1828356a86a7361a10d6be27,Malspam attachment - source: from leo@sunelwalaplc.shop - subject: Potwierdzenie wykonania przelewu z Banku Pekao S.A. mime: application/x-iso9660-image
+2024-12-13,Payload delivery,filename|sha1,potwierdzenie_przelewu_20241202.img|219ee94822ae31065280b41064c7c148fa3d9356,Malspam attachment - source: from leo@sunelwalaplc.shop - subject: Potwierdzenie wykonania przelewu z Banku Pekao S.A. mime: application/x-iso9660-image
+2024-12-13,Payload delivery,filename|sha256,potwierdzenie_przelewu_20241202.img|04adfe0455eeb389399b397bf618577c1e61414e1bf52bf1c6fe77649b2bf9ee,Malspam attachment - source: from leo@sunelwalaplc.shop - subject: Potwierdzenie wykonania przelewu z Banku Pekao S.A. mime: application/x-iso9660-image
+2024-12-13,Payload delivery,filename|sha512,potwierdzenie_przelewu_20241202.img|e798244ac0e9f1e05b1cf910433ae34e50aececbd3ff089d368481f962aebeb0b6db254acbf0581638f4a53b70e4b46a5f5c3cd80133aea314cd14fbce6d1cea,Malspam attachment - source: from leo@sunelwalaplc.shop - subject: Potwierdzenie wykonania przelewu z Banku Pekao S.A. mime: application/x-iso9660-image
+2024-12-13,Payload delivery,filename|ssdeep,potwierdzenie_przelewu_20241202.img|12288:gfYfUlNHYh6qFkbpBOO64kfPZxIgL3lweEbH+a:gfYMPYc/FHkfhxIgZQH9,Malspam attachment - source: from leo@sunelwalaplc.shop - subject: Potwierdzenie wykonania przelewu z Banku Pekao S.A. mime: application/x-iso9660-image
+2024-12-13,Payload delivery,filename|md5,glTMGMAE4.bin|4b68c5cac716b7eae1f610ddfc4ed012,Extracted from https://drive.usercontent.google.com/download?id=1SNuP_I7UYg8uQJi48SWGSQyWXLWmkyvC&export=download; mime: application/octet-stream
+2024-12-13,Payload delivery,filename|sha1,glTMGMAE4.bin|40f4c00b14c7cce087bda888532e7a8c43eeb30b,Extracted from https://drive.usercontent.google.com/download?id=1SNuP_I7UYg8uQJi48SWGSQyWXLWmkyvC&export=download; mime: application/octet-stream
+2024-12-13,Payload delivery,filename|sha256,glTMGMAE4.bin|11fe39762b36fc56ca30644b810091ce2821ecc54ff189bc7bd5f1571f181c1d,Extracted from https://drive.usercontent.google.com/download?id=1SNuP_I7UYg8uQJi48SWGSQyWXLWmkyvC&export=download; mime: application/octet-stream
+2024-12-13,Payload delivery,filename|sha512,glTMGMAE4.bin|17dc81136b927bc22499b7b882621ff2315116812322d13b9b878131f7a8e861f592032f034c296d5027f531ced482dccb6be679d5b25418468e3498584b5c62,Extracted from https://drive.usercontent.google.com/download?id=1SNuP_I7UYg8uQJi48SWGSQyWXLWmkyvC&export=download; mime: application/octet-stream
+2024-12-13,Payload delivery,filename|ssdeep,glTMGMAE4.bin|6144:2/E7X6N6RGbRS3hj4hCPHIH/Ad+yBevrXydVX3:2/E7vy8Rj4oK/i+rvrEVH,Extracted from https://drive.usercontent.google.com/download?id=1SNuP_I7UYg8uQJi48SWGSQyWXLWmkyvC&export=download; mime: application/octet-stream
+2024-12-13,Network activity,url,https://api.telegram.org/bot6358867316:AAGYz8F7DpACV8KuAbFAee27mS5P18ckXUM/,Data exfiltration; Source: Network activity from potwierdzenie_payload.exe
+2024-12-13,Network activity,url,https://drive.usercontent.google.com/download?id=1SNuP_I7UYg8uQJi48SWGSQyWXLWmkyvC&export=download,Source: Network activity from potwierdzenie_przelewu_20241202.exe
+2024-12-13,Payload delivery,filename|imphash,potwierdzenie_payload.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Extracted from glTMGMAE4.bin; mime: application/x-dosexec
+2024-12-13,Payload delivery,filename|md5,potwierdzenie_payload.exe|e2bedaf899f4387bc30d8fc22ce98d3e,Extracted from glTMGMAE4.bin; mime: application/x-dosexec
+2024-12-13,Payload delivery,filename|sha1,potwierdzenie_payload.exe|291120da02a4942ac0ede227d0d00b91d50cad33,Extracted from glTMGMAE4.bin; mime: application/x-dosexec
+2024-12-13,Payload delivery,filename|sha256,potwierdzenie_payload.exe|9d2edaee84a5e975017cdb0f2a36219c913035cecbc2c99fbf08b5b03e624faa,Extracted from glTMGMAE4.bin; mime: application/x-dosexec
+2024-12-13,Payload delivery,filename|sha512,potwierdzenie_payload.exe|f46dfb887a7a4ab16f722b4599783746ce2d79f2476ef3456aafea0796300236233e8b50f447e52bc5ffc8e47ce4267a54df2fa9212012a683080fb63a62f321,Extracted from glTMGMAE4.bin; mime: application/x-dosexec
+2024-12-13,Payload delivery,filename|ssdeep,potwierdzenie_payload.exe|3072:si8zGMcOGgRcO+X+uSeSQShSySXS5S3VXmNqpxKdks/3pH4nvBfbf8z6MCbbmiLA:9VtVuZJ/QtCIDo3KvBfbdRZ7b,Extracted from glTMGMAE4.bin; mime: application/x-dosexec
+2024-12-13,Payload delivery,filename|imphash,potwierdzenie_przelewu_20241202.exe|f4639a0b3116c2cfc71144b88a929cfd,Extracted from potwierdzenie_przelewu_20241202.img; mime: application/x-dosexec
+2024-12-13,Payload delivery,filename|md5,potwierdzenie_przelewu_20241202.exe|64ea70b77e9654021dfe4c5b42a788db,Extracted from potwierdzenie_przelewu_20241202.img; mime: application/x-dosexec
+2024-12-13,Payload delivery,filename|sha1,potwierdzenie_przelewu_20241202.exe|ff668253991db29fa83a93a962654a2a13cc87ba,Extracted from potwierdzenie_przelewu_20241202.img; mime: application/x-dosexec
+2024-12-13,Payload delivery,filename|sha256,potwierdzenie_przelewu_20241202.exe|919036bc72056762803c599929ee33811f1c9a13f55c571008b57b20b638c54b,Extracted from potwierdzenie_przelewu_20241202.img; mime: application/x-dosexec
+2024-12-13,Payload delivery,filename|sha512,potwierdzenie_przelewu_20241202.exe|7ebdbe6ff9e14ec408f52611962af70f24136ee6976a4239f636971d778d9d3491188ccb18c5908f0c69bace9c115dc909a199bec9c74b44ada381c4f8a4429b,Extracted from potwierdzenie_przelewu_20241202.img; mime: application/x-dosexec
+2024-12-13,Payload delivery,filename|ssdeep,potwierdzenie_przelewu_20241202.exe|12288:7fYfUlNHYh6qFkbpBOO64kfPZxIgL3lweEbH+aB:7fYMPYc/FHkfhxIgZQH9B,Extracted from potwierdzenie_przelewu_20241202.img; mime: application/x-dosexec

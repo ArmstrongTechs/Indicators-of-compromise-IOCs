@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Ransomware Group Babuk host indicators [2024-12-13]
+| UUID: 2d83921b-bcbf-45ce-ad46-d9968fa7b98e
+| Date: 2024-12-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-13,Payload installation,filename,f0ec54b9dc2e64c214e92b521933cee172283ff5c942cf84fae4ec5b03abab55,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,6b06aae5ec596cdbc1b9d4c457fd5f81,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,a515b7d89676b1401eeb9eb776190a1179c386cf,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,f0ec54b9dc2e64c214e92b521933cee172283ff5c942cf84fae4ec5b03abab55,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,30a8cf3e6863030c762b468bf48d679f3dd053a80793770443938fa18de89617,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,4c58195328f5b5e4a37aa6f42b386172,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,dbd05e2da5385928cbeb7b9695e825c588bede8e,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,30a8cf3e6863030c762b468bf48d679f3dd053a80793770443938fa18de89617,Source: MalwareBazaar

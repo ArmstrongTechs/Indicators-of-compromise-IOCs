@@ -1,0 +1,27 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: Re:Re pi - From: info@inbox.org"" Campaign"
+| UUID: 93f4e6f9-ccf7-4dcb-8316-9f1d373e3011
+| Date: 2024-12-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-13,Payload delivery,email-src,info@inbox.org,Source email: from info@inbox.org - subject: Re:Re pi;
+2024-12-13,Payload delivery,email-src-display-name,Sales-Re,Source email: from info@inbox.org - subject: Re:Re pi
+2024-12-13,Payload delivery,email-body,"<HTML><HEAD>
+<META name=GENERATOR content=""MSHTML 11.00.10570.1001""></HEAD>
+<BODY>
+<P>Hi [REDACTED],</P>
+<P>Receive PI#002133,&nbsp; </P>
+<P>See attached.</P>
+<P>Best regards,<BR>Harmon, Project Manager<BR>JT Construction LLC</P>
+<P>(C)&nbsp; 12/4/2024 2:54:08 p.m.,</P></BODY></HTML>",Source email: from info@inbox.org - subject: Re:Re pi
+2024-12-13,Payload delivery,email-subject,Re:Re pi,Source: from info@inbox.org - subject: Re:Re pi
+2024-12-16,Payload delivery,filename|md5,Pi.shtml|e2f2577da8578d446db8dc53c032519d,Malspam attachment - source: from info@inbox.org - subject: Re:Re pi mime: text/html
+2024-12-16,Payload delivery,filename|sha1,Pi.shtml|bfe7a3c48b4bddc021c1c4551cc76fc143d9cdd4,Malspam attachment - source: from info@inbox.org - subject: Re:Re pi mime: text/html
+2024-12-16,Payload delivery,filename|sha256,Pi.shtml|e1cd399bc440647ac4663ff26a60f8227dff737311e4d90dd4f493712187db41,Malspam attachment - source: from info@inbox.org - subject: Re:Re pi mime: text/html
+2024-12-16,Payload delivery,filename|sha512,Pi.shtml|9972cf18e2f2c05f4ae896f4568c9bfb5060200b41b8af518855e2c70d460e3fa962f04ac5c31b72d8651c9df49a24db0309bbccad466586f5c30ed7ead90fd1,Malspam attachment - source: from info@inbox.org - subject: Re:Re pi mime: text/html
+2024-12-16,Payload delivery,filename|ssdeep,Pi.shtml|96:1ZdRXr5k9WDZU4teZH2Yyay79P8KWbGXtFt:B7tOWYtgdPPt,Malspam attachment - source: from info@inbox.org - subject: Re:Re pi mime: text/html
+2024-12-13,Network activity,url,https://submit-form.com/yQUbJhgDF,Source: Network activity from Pi.shtml

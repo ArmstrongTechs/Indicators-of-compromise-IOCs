@@ -1,0 +1,23 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Snake keylogger as .zip email attachment - (telegram exfil)
+| UUID: 9bbfe6b5-d96e-4d40-8b7a-55dff9a8694a
+| Date: 2024-12-11
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-11,Network activity,url,https://api.telegram.org/bot7246282440:AAHJb7KssReEsgMVGaXOjj0TL_3mJGAMIcA/,
+2024-12-11,Payload delivery,malware-sample,Quotation Request - AER 24A324.zip|6e4cd16a0a4ba4891500f2e850d45523,
+2024-12-11,Payload delivery,filename,Quotation Request - AER 24A324.zip,
+2024-12-11,Payload delivery,md5,6e4cd16a0a4ba4891500f2e850d45523,
+2024-12-11,Payload delivery,sha1,6bbacdbd91f6b88e1ebe84502b834f12a07f2f7a,
+2024-12-11,Payload delivery,sha256,c7e6ab45a4432279f0a949e755915c770821f9274d615c06b135a1ff985449bf,
+2024-12-11,Other,size-in-bytes,524129,
+2024-12-11,Payload delivery,malware-sample,Quotation Request - AER 24A324.exe|98bd81beacb1456f1b67ec3519b5ea77,
+2024-12-11,Payload delivery,filename,Quotation Request - AER 24A324.exe,
+2024-12-11,Payload delivery,md5,98bd81beacb1456f1b67ec3519b5ea77,
+2024-12-11,Payload delivery,sha1,a1a18dccd8f21da039cbdeb7b9be2fa8e7eefba8,
+2024-12-11,Payload delivery,sha256,1e90ae83785a924e6a99982e7cfd0dbed3d756ee264415860a4982fc27baf224,
+2024-12-11,Other,size-in-bytes,951296,

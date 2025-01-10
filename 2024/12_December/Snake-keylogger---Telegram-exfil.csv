@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Snake keylogger - Telegram exfil
+| UUID: ab69b231-5055-4efd-97e7-3dadc9b82675
+| Date: 2024-12-12
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-12,Network activity,url,http://103.228.37.51/mp/Jzhvcpcvc.dat,
+2024-12-12,Network activity,url,https://api.telegram.org/bot8174947883:AAE32VUI3xRPjzGu7FWio37OnvSbcEIhiQ8/sendDocument,Telegram exfil
+2024-12-12,Payload delivery,malware-sample,FERCAM doo Broj fakture DF-24-2024 Valuta EUR.img|f369828827dd2cd7ede6bd0a989932fc,
+2024-12-12,Payload delivery,filename,FERCAM doo Broj fakture DF-24-2024 Valuta EUR.img,
+2024-12-12,Payload delivery,md5,f369828827dd2cd7ede6bd0a989932fc,
+2024-12-12,Payload delivery,sha1,6fe05cdd8cd44f091f787827a67b0503727823aa,
+2024-12-12,Payload delivery,sha256,e72a8b8cc38ef230e2b235b39be03cd9adfdce56544d4c40f65be65ca3d6a398,
+2024-12-12,Other,size-in-bytes,106496,
+2024-12-12,Payload delivery,malware-sample,FERCAM doo Broj fakture DF-24-2024 Valuta EUR.exe|0f23bec7c187b4832c7c09d26db3682e,
+2024-12-12,Payload delivery,filename,FERCAM doo Broj fakture DF-24-2024 Valuta EUR.exe,
+2024-12-12,Payload delivery,md5,0f23bec7c187b4832c7c09d26db3682e,
+2024-12-12,Payload delivery,sha1,7c18cd3954e000af3ea56e5409a4298ab33e9704,
+2024-12-12,Payload delivery,sha256,bcb0065a918da4e789365e7a5800b36a625763421f18ac1dd6067c8e2a419b34,
+2024-12-12,Other,size-in-bytes,45056,
+2024-12-12,Payload delivery,malware-sample,Jzhvcpcvc.dat|60448b96ff84ffd1c56e0b00b2cd17ae,
+2024-12-12,Payload delivery,filename,Jzhvcpcvc.dat,
+2024-12-12,Payload delivery,md5,60448b96ff84ffd1c56e0b00b2cd17ae,
+2024-12-12,Payload delivery,sha1,3b6391e1b30385e74bd161b06dfa730110977037,
+2024-12-12,Payload delivery,sha256,93fdad8838e37d02c5666da41d41fb854d6709d3b2dc5d8b7d39413d44385b56,
+2024-12-12,Other,size-in-bytes,959496,

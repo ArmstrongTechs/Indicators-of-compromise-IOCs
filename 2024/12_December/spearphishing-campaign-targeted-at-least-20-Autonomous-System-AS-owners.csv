@@ -1,0 +1,45 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: spearphishing campaign targeted at least 20 Autonomous System (AS) owners
+| UUID: 8506c95a-f2da-48c2-a1e0-339db58b1ba7
+| Date: 2024-12-13
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-14,Payload delivery,sha256,4ec4b396bfa932756c90833e781f95c07b15108526a9c218efb35526ad956535,Detailed explanation of as relationships and the impact of bgp flapping on upstream networks.rar
+2024-12-14,Payload delivery,sha256,12031213e31dca91eddc9d4a16d2e2c18da9fb355ee98dc4acbbaa16e35faec3,Detailed explanation of as relationships and the impact of bgp flapping on upstream networks.lnk
+2024-12-14,Payload delivery,sha256,afc971f687303d0b3f3699883aa428f885d0a3fc20576953a28d31844328ccda,Adobe PDF Extractor.exe)
+2024-12-14,Network activity,domain,swisscoms.com,
+2024-12-14,Network activity,domain,onnetmais.org,C2 domain: onnetmais[.]org (behind Cloudflare CDN)
+2024-12-14,Network activity,ip-dst,47.251.162.130,Backend C2 IP address: 47.251.162[.]130
+2024-12-14,Other,text,fediverse,
+2024-12-14,Other,text,"Between December 11 and 12, 2024, a spearphishing campaign targeted at least 20 Autonomous System (AS) owners, predominantly Internet Service Providers (ISPs), and purported to come from the Network Operations Center (NOC) of a prominent European ISP.
+
+All of the observed targeted entities peer with the spoofed ISP and phishing emails were sent to contact addresses present in the AS's WHOIS records, indicative of a highly deliberate targeting effort.
+
+Each spearphishing email was personalized to the target based on their Autonomous System Number (ASN) and purported to relate to a detected BGP (Border Gateway Protocol) flapping session within the target’s network.
+
+The email contained a password protected RAR archive named “Detailed Explanation of AS Relationships and the Impact of BGP Flapping on Upstream Networks.rar”. The RAR contains a Microsoft Shortcut (LNK) file which executes a Portable Executable (PE) file contained in a hidden folder named “_MACOSX”.
+
+Following execution, the target is shown a decoy document related to BGP Flapping, and the executable file uses indirect syscalls to load shellcode into memory before it deletes itself from disk.
+
+We are raising early awareness of this campaign given the coordinated effort to target network infrastructure administration personnel across a broad range of AS owners.
+
+IOCs for this campaign:
+
+4ec4b396bfa932756c90833e781f95c07b15108526a9c218efb35526ad956535 (Detailed explanation of as relationships and the impact of bgp flapping on upstream networks.rar)
+
+12031213e31dca91eddc9d4a16d2e2c18da9fb355ee98dc4acbbaa16e35faec3 (Detailed explanation of as relationships and the impact of bgp flapping on upstream networks.lnk)
+
+afc971f687303d0b3f3699883aa428f885d0a3fc20576953a28d31844328ccda (Adobe PDF Extractor.exe)
+
+Actor-controlled sender domain:
+swisscoms[.]com
+
+C2 domain: onnetmais[.]org (behind Cloudflare CDN)
+Backend C2 IP address: 47.251.162[.]130",
+2024-12-14,External analysis,link,https://infosec.exchange/@threatinsight/113641860084873613,
+2024-12-14,Other,text,Informative,
+2024-12-14,Other,text,Unknown,

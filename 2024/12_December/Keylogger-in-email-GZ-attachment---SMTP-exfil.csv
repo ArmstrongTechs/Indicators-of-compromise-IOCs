@@ -1,0 +1,51 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Keylogger in email (.GZ) attachment - SMTP exfil
+| UUID: 002dcbe0-72ac-4134-9fdd-5a4a51ecbf11
+| Date: 2024-12-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-25,Network activity,hostname,lax029.hawkhost.com,
+2024-12-25,Network activity,email,server1@massmaesure.com,
+2024-12-25,Network activity,email,server2@massmaesure.com,
+2024-12-25,Persistence mechanism,filename,%APPDATA%\ACCApi,
+2024-12-25,Persistence mechanism,filename,%APPDATA%\ACCApi\apihost.exe,
+2024-12-25,Persistence mechanism,filename,%TEMP%\Microsofts.exe,
+2024-12-25,Persistence mechanism,filename,%TEMP%\Trading_AIBot.exe,
+2024-12-25,Artifacts dropped,other,"""%WINDIR%\System32\schtasks.exe"" /Create /TN ""Updates\wextljZWDA"" /XML ""%TEMP%\tmpBF95.tmp""",
+2024-12-25,Artifacts dropped,other,"""powershell.exe"" Add-MpPreference -ExclusionPath '%APPDATA%\ACCApi'",
+2024-12-25,Network activity,url,http://checkip.dyndns.org,
+2024-12-25,Network activity,url,https://reallyfreegeoip.org/xml/,
+2024-12-25,Payload delivery,malware-sample,JIL-_Document_No._2500015903.GZ|04cac86b62c708c6ba2a15a4b2692187,
+2024-12-25,Payload delivery,filename,JIL-_Document_No._2500015903.GZ,
+2024-12-25,Payload delivery,md5,04cac86b62c708c6ba2a15a4b2692187,
+2024-12-25,Payload delivery,sha1,a47a5bf4f198edcb77ce628b7375b2b8acdb903c,
+2024-12-25,Payload delivery,sha256,992af75446df3c44b9aacdd44e756c57610458970c2472bb7a1c397e9b2a3335,
+2024-12-25,Other,size-in-bytes,583286,
+2024-12-25,Payload delivery,malware-sample,Chine_ana121983D605908193D491920FF33229307FF80688loodatke.PNG|dc156637aebf04336700a9bc71c78aad,
+2024-12-25,Payload delivery,filename,Chine_ana121983D605908193D491920FF33229307FF80688loodatke.PNG,
+2024-12-25,Payload delivery,md5,dc156637aebf04336700a9bc71c78aad,
+2024-12-25,Payload delivery,sha1,ec388fcdd4a3228bb1202412c8d25386eac63114,
+2024-12-25,Payload delivery,sha256,e739a88ac8fb4fefa998f8dbf4402a8d7a22eb079edd05bee412c4d4c99014eb,
+2024-12-25,Other,size-in-bytes,9426,
+2024-12-25,Payload delivery,malware-sample,JIL-_Document_No._2500015903.scr|952a0beab1beb852a79a140548ca5806,
+2024-12-25,Payload delivery,filename,JIL-_Document_No._2500015903.scr,
+2024-12-25,Payload delivery,md5,952a0beab1beb852a79a140548ca5806,
+2024-12-25,Payload delivery,sha1,6bbc170fdff83337815de015e5428c50eabd859b,
+2024-12-25,Payload delivery,sha256,9f09699182eb81a7a4f31b58b8b7bb4c23a46dcb816c8b5468def63437075403,
+2024-12-25,Other,size-in-bytes,637952,
+2024-12-25,Payload delivery,malware-sample,Trading_AIBot.exe|e91a1db64f5262a633465a0aaff7a0b0,
+2024-12-25,Payload delivery,filename,Trading_AIBot.exe,
+2024-12-25,Payload delivery,md5,e91a1db64f5262a633465a0aaff7a0b0,
+2024-12-25,Payload delivery,sha1,396e954077d21e94b7c20f7afa22a76c0ed522d0,
+2024-12-25,Payload delivery,sha256,f19763b48b2d2cc92e61127dd0b29760a1c630f03ad7f5055fd1ed9c7d439428,
+2024-12-25,Other,size-in-bytes,70656,
+2024-12-25,Payload delivery,malware-sample,Microsofts.exe|f6b8018a27bcdbaa35778849b586d31b,
+2024-12-25,Payload delivery,filename,Microsofts.exe,
+2024-12-25,Payload delivery,md5,f6b8018a27bcdbaa35778849b586d31b,
+2024-12-25,Payload delivery,sha1,81bde9535b07e103f89f6aeabdb873d7e35816c2,
+2024-12-25,Payload delivery,sha256,ddc6b2bd4382d1ae45bee8f3c4bb19bd20933a55bdf5c2e76c8d6c46bc1516ce,
+2024-12-25,Other,size-in-bytes,98816,

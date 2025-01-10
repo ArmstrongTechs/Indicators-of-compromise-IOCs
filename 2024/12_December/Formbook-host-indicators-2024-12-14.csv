@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2024-12-14]
+| UUID: a188ead2-fcba-4d12-bf1e-8d55c5f563da
+| Date: 2024-12-14
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-14,Payload installation,filename,3aY3m96tqMSF6uX.exe,Source: MalwareBazaar
+2024-12-14,Payload installation,md5,e0e2345d91945b57353de7be04535f15,Source: MalwareBazaar
+2024-12-14,Payload installation,sha1,2d5ac0274b741d19da82180264f5819ddfd11551,Source: MalwareBazaar
+2024-12-14,Payload installation,sha256,863062f983aac165c04b1af4ce761865b4fd734b71de85e0aba00c112febac2b,Source: MalwareBazaar
+2024-12-14,Payload installation,filename,PAYMENT COPY_PDF.exe,Source: MalwareBazaar
+2024-12-14,Payload installation,md5,8cc1cb421e24f72f8e63a9db1b6cdf0c,Source: MalwareBazaar
+2024-12-14,Payload installation,sha1,2c508001b273aa2ace98b2a6f9fe2bd4d1d31302,Source: MalwareBazaar
+2024-12-14,Payload installation,sha256,165c2b1cdf1a2008ba197f4a80d8dcddd205aa14e842a82a7019951abb957654,Source: MalwareBazaar
+2024-12-14,Payload installation,filename,EPDA - SOA_Payment Reference SKMBT TR-3420241202_799002.exe,Source: MalwareBazaar
+2024-12-14,Payload installation,md5,303c96d28de2023a3358f8a1c4dca692,Source: MalwareBazaar
+2024-12-14,Payload installation,sha1,4fb8a0435be969803b11d4775d9026f692c64445,Source: MalwareBazaar
+2024-12-14,Payload installation,sha256,c1858ea28a880a9d789497986b541c29f79cb2d6de8aea568f09b309a7819c73,Source: MalwareBazaar
+2024-12-14,Payload installation,filename,profroma invoice.exe,Source: MalwareBazaar
+2024-12-14,Payload installation,md5,17ea16c0677c90f27faddb659598f8f2,Source: MalwareBazaar
+2024-12-14,Payload installation,sha1,4e57ad74ce9f950711417d49506d30fa105f8cf5,Source: MalwareBazaar
+2024-12-14,Payload installation,sha256,97254f2e1720380e24069d4f7a8f274c8a2437e3c445c3ee228c54845a39b064,Source: MalwareBazaar
+2024-12-14,Payload installation,filename,order confirmation.exe,Source: MalwareBazaar
+2024-12-14,Payload installation,md5,8d4459233467bbcf973541c6b17091d7,Source: MalwareBazaar
+2024-12-14,Payload installation,sha1,e1a6e0be6aa2e7aa77c9f5f3c394d62c749c2b06,Source: MalwareBazaar
+2024-12-14,Payload installation,sha256,1bd11bb8886ef9aaaa8a59425f2fce8517a476dcb328751f8c39512cf719f2da,Source: MalwareBazaar

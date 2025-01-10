@@ -1,0 +1,743 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: OSINT - The Qualcomm DSP Driver - How Serbian authorities have deployed surveillance technology and digital repression tactics
+| UUID: 87c159e3-5105-491e-87ba-94a7f0a52e09
+| Date: 2024-12-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-18,Network activity,domain,176.223.111.131,Merged from event 270542
+2024-12-18,Network activity,domain,195.178.51.251,Merged from event 270542
+2024-12-18,Network activity,domain,94.140.125.174,Merged from event 270542
+2024-12-18,Network activity,domain,178.220.122.57,Merged from event 270542
+2024-12-18,Network activity,domain,185.86.148.174,Merged from event 270542
+2024-12-18,Network activity,domain,188.93.127.34,Merged from event 270542
+2024-12-18,Network activity,domain,79.101.110.108,Merged from event 270542
+2024-12-18,External analysis,vulnerability,CVE-2024-38402,
+2024-12-18,External analysis,vulnerability,CVE-2024-49848,
+2024-12-18,External analysis,vulnerability,CVE-2024-21455,
+2024-12-18,External analysis,vulnerability,CVE-2024-43047,
+2024-12-18,External analysis,vulnerability,CVE-2024-33060,
+2024-12-18,Other,text,stix 2.1,
+2024-12-18,Payload installation,stix2-pattern,[app:id='com.gu.activity'],
+2024-12-18,Other,text,stix 2.1,
+2024-12-18,Payload installation,stix2-pattern,[app:id='com.serv.services'],
+2024-12-18,Other,text,stix 2.1,
+2024-12-18,Payload installation,stix2-pattern,[app:id='com.li.activity'],
+2024-12-18,Other,text,stix 2.1,
+2024-12-18,Payload installation,stix2-pattern,[app:id='com.accesibilityservice'],
+2024-12-18,Other,text,stix 2.1,
+2024-12-18,Payload installation,stix2-pattern,[app:cert.sha256='3ac97735164824657b683e805133b1274b2dedabf9fdd6aa9aca31089d501e64'],
+2024-12-18,Other,text,stix 2.1,
+2024-12-18,Payload installation,stix2-pattern,[app:cert.sha256='35926e966186c8f2deec66864389d73989c75c85cb6668da2f455db6fe67e91f'],
+2024-12-18,Other,text,stix 2.1,
+2024-12-18,Payload installation,stix2-pattern,[app:cert.sha256='38693e1ea0fbf39d28f66b1714fdeed4e23b3973276481097d2d66e87f3647eb'],
+2024-12-18,Other,text,stix 2.1,
+2024-12-18,Payload installation,stix2-pattern,[file:hashes.sha256='d55e492d5fce87898e065572a5553d1ac1389cd12bf3d28cabc1218cb29780af'],
+2024-12-18,Other,text,stix 2.1,
+2024-12-18,Payload installation,stix2-pattern,[file:hashes.sha256='54ee2c4f3e2396b6f92def135d68abd35d63ca7f9c304633a36f705ba4728cb7'],
+2024-12-18,Other,text,stix 2.1,
+2024-12-18,Payload installation,stix2-pattern,[file:hashes.sha256='99673ce7f10e938ed73ed4a99930fbd6499983caa7a2c1b9e3f0e0bb0a5df602'],
+2024-12-18,Other,text,stix 2.1,
+2024-12-18,Payload installation,stix2-pattern,[file:hashes.sha256='087fc1217c897033425fe7f1f12b913cd48918c875e99c25bdb9e1ffcf80f57e'],
+2024-12-18,Other,text,IOCs for Serbian NoviSpy Android spyware,
+2024-12-18,Other,boolean,0,
+2024-12-18,Other,text,NoviSpy,
+2024-12-18,External analysis,attachment,novispy.stix2,
+2024-12-18,Other,text,2.1,
+2024-12-18,Other,text,com.serv.services,
+2024-12-18,Other,text,com.gu.activity,
+2024-12-18,Other,text,com.li.activity,
+2024-12-18,Other,text,com.accesibilityservice,
+2024-12-18,Payload delivery,sha256,3ac97735164824657b683e805133b1274b2dedabf9fdd6aa9aca31089d501e64,
+2024-12-18,Payload delivery,sha256,35926e966186c8f2deec66864389d73989c75c85cb6668da2f455db6fe67e91f,
+2024-12-18,Payload delivery,sha256,38693e1ea0fbf39d28f66b1714fdeed4e23b3973276481097d2d66e87f3647eb,
+2024-12-18,External analysis,vulnerability,CVE-2024-33060,
+2024-12-18,Other,datetime,2024-09-02T10:22:46.127000+0000,
+2024-12-18,Other,datetime,2024-09-05T03:56:12.175000+0000,
+2024-12-18,Other,text,PUBLISHED,
+2024-12-18,External analysis,link,https://docs.qualcomm.com/product/publicresources/securitybulletin/september-2024-bulletin.html,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:315_5g_iot_modem_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:aqt1000_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:ar8031_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:ar8035_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:c-v2x_9150_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:csra6620_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:csra6640_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:fastconnect_6200_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:fastconnect_6700_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:fastconnect_6800_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:fastconnect_6900_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:fastconnect_7800_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:flight_rb5_5g_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:mdm9250_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:mdm9628_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:mdm9650_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:msm8996au_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qam8255p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qam8295p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qam8620p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qam8650p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qam8775p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qamsrv1h_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qamsrv1m_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6174a_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6310_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6320_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6391_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6420_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6426_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6430_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6436_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6564_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6564a_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6564au_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6574_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6574a_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6574au_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6584au_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6595_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6595au_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6678aq_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6688aq_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6696_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6698aq_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6797aq_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca8081_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca8337_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca9377_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcc710_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcm2150_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcm2290_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcm4290_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcm4325_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcm4490_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcm5430_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcm6125_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcm6490_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcm8550_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcn6024_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcn6224_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcn6274_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcn9011_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcn9012_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcn9024_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcn9074_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs2290_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs410_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs4290_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs4490_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs5430_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs610_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs6125_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs6490_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs7230_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs8250_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs8550_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qdu1000_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qdu1010_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qdu1110_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qdu1210_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qdx1010_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qdx1011_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qep8111_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qfw7114_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qfw7124_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qrb5165m_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qrb5165n_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qru1032_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qru1052_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qru1062_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qsm8350_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qualcomm_215_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qualcomm_video_collaboration_vc1_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qualcomm_video_collaboration_vc3_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qualcomm_video_collaboration_vc5_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:robotics_rb5_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa4150p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa4155p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa6145p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa6150p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa6155_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa6155p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa7255p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa7775p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8145p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8150p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8155_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8155p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8195p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8255p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8295p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8620p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8650p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8770p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8775p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa9000p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sd_8_gen1_5g_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sd626_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sd660_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sd670_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sd730_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sd835_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sd855_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sd865_5g_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sd888_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sdm429w_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sdx20m_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sdx55_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sdx61_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sg4150p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sg8275p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sm4125_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sm6250_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sm6370_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sm7250p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sm7315_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sm7325p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sm8550p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sm8635_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:smart_audio_400_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_4_gen_1_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_4_gen_2_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_429_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_460_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_480_5g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_660_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_662_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_670_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_675_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_680_4g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_690_5g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_695_5g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_710_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_720g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_750g_5g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_778g_5g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_780g_5g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_8_gen_1_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_8_gen_2_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_8_gen_3_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_820_automotive_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_835_mobile_pc_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_855_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_865_5g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_888_5g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_ar2_gen_1_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_auto_5g_modem-rf_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_auto_5g_modem-rf_gen_2_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_x12_lte_modem_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_x20_lte_modem_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_x35_5g_modem-rf_system_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_x50_5g_modem-rf_system_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_x55_5g_modem-rf_system_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_x62_5g_modem-rf_system_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_x65_5g_modem-rf_system_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_x72_5g_modem-rf_system_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_x75_5g_modem-rf_system_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_xr1_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_xr2_5g_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_auto_4g_modem_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:srv1h_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:srv1l_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:srv1m_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:ssg2115p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:ssg2125p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sw5100_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sw5100p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sxr1120_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sxr1230p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sxr2130_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sxr2230p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sxr2250p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:talynplus_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:vision_intelligence_400_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9326_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9335_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9340_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9341_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9360_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9370_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9375_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9380_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9385_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9390_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9395_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn3615_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn3620_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn3660b_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn3680_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn3680b_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn3910_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn3950_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn3980_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn3988_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn3990_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn6740_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn6755_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8810_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8815_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8830_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8832_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8835_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8840_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8845_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8845h_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,vulnerability,CVE-2024-43047,
+2024-12-18,Other,datetime,2024-10-07T12:59:01.656000+0000,
+2024-12-18,Other,datetime,2024-10-09T12:57:09.326000+0000,
+2024-12-18,Other,text,PUBLISHED,
+2024-12-18,External analysis,link,https://docs.qualcomm.com/product/publicresources/securitybulletin/october-2024-bulletin.html,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:fastconnect_6700_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:fastconnect_6800_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:fastconnect_6900_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:fastconnect_7800_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qam8295p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6174a_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6391_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6426_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6436_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6574au_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6584au_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6595_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6595au_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6688aq_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6696_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6698aq_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs410_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs610_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs6490_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qualcomm_video_collaboration_vc1_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qualcomm_video_collaboration_vc3_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa4150p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa4155p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa6145p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa6150p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa6155p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8145p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8150p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8155p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8195p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8295p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sd660_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sd865_5g_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sg4150p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_660_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_680_4g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_8_gen_1_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_865_5g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_888_5g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_auto_5g_modem-rf_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_auto_5g_modem-rf_gen_2_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_x55_5g_modem-rf_system_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_xr2_5g_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sw5100_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sw5100p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sxr2130_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9335_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9341_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9370_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9375_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9380_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9385_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn3950_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn3980_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn3988_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn3990_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8810_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8815_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8830_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8835_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_865\+_5g_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_870_5g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_888\+_5g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sm6225-ad_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,vulnerability,CVE-2024-21455,
+2024-12-18,Other,datetime,2024-10-07T12:58:42.341000+0000,
+2024-12-18,Other,datetime,2024-10-07T13:19:44.091000+0000,
+2024-12-18,Other,text,PUBLISHED,
+2024-12-18,External analysis,link,https://docs.qualcomm.com/product/publicresources/securitybulletin/october-2024-bulletin.html,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qam8295p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6584au_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6595_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6688aq_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6696_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6698aq_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcm6125_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs6125_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qualcomm_video_collaboration_vc1_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8295p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sg4150p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_680_4g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_auto_5g_modem-rf_gen_2_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9370_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9375_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn3950_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn3980_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8810_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8815_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,vulnerability,CVE-2024-21455,
+2024-12-18,Other,datetime,2024-10-07T12:58:42.341000+0000,
+2024-12-18,Other,datetime,2024-10-07T13:19:44.091000+0000,
+2024-12-18,Other,text,PUBLISHED,
+2024-12-18,External analysis,link,https://docs.qualcomm.com/product/publicresources/securitybulletin/october-2024-bulletin.html,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qam8295p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6584au_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6595_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6688aq_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6696_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6698aq_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcm6125_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs6125_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qualcomm_video_collaboration_vc1_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8295p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sg4150p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_680_4g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_auto_5g_modem-rf_gen_2_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9370_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9375_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn3950_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn3980_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8810_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8815_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,vulnerability,CVE-2024-38402,
+2024-12-18,Other,datetime,2024-09-02T10:22:48.204000+0000,
+2024-12-18,Other,datetime,2024-09-06T16:19:57.498000+0000,
+2024-12-18,Other,text,PUBLISHED,
+2024-12-18,External analysis,link,https://docs.qualcomm.com/product/publicresources/securitybulletin/september-2024-bulletin.html,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:ar8035_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:csra6620_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:csra6640_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:fastconnect_6200_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:fastconnect_6700_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:fastconnect_6900_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:fastconnect_7800_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:flight_rb5_5g_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:mdm9628_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qam8255p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qam8295p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qam8620p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qam8650p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qam8775p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qamsrv1h_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qamsrv1m_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6174a_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6391_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6564a_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6564au_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6574_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6574a_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6574au_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6584au_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6595_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6595au_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6678aq_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6688aq_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6696_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6698aq_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca6797aq_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca8081_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca8337_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qca9377_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcc710_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcm4325_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcm4490_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcm5430_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcm6125_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcm6490_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcm8550_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcn6024_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcn6224_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcn6274_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcn9011_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcn9012_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcn9024_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs410_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs4490_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs5430_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs610_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs6125_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs6490_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs7230_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs8250_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qcs8550_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qdu1000_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qdu1010_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qdu1110_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qdu1210_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qdx1010_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qdx1011_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qep8111_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qfw7114_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qfw7124_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qrb5165m_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qrb5165n_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qru1032_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qru1052_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qru1062_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qsm8350_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qualcomm_video_collaboration_vc1_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qualcomm_video_collaboration_vc3_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:qualcomm_video_collaboration_vc5_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:robotics_rb5_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa4150p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa4155p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa6145p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa6150p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa6155p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa7255p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa7775p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8145p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8150p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8155p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8195p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8255p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8295p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8620p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8650p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8770p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa8775p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sa9000p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sd_8_gen1_5g_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sd888_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sdx61_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sg4150p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sg8275p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sm6370_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sm7315_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sm7325p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sm8550p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sm8635_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:smart_audio_400_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_4_gen_1_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_4_gen_2_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_460_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_480_5g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_662_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_680_4g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_695_5g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_778g_5g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_780g_5g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_8_gen_1_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_8_gen_2_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_8_gen_3_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_888_5g_mobile_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_ar2_gen_1_platform_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_auto_5g_modem-rf_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_auto_5g_modem-rf_gen_2_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_x12_lte_modem_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_x35_5g_modem-rf_system_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_x62_5g_modem-rf_system_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_x65_5g_modem-rf_system_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_x72_5g_modem-rf_system_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:snapdragon_x75_5g_modem-rf_system_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:srv1h_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:srv1l_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:srv1m_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:ssg2115p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:ssg2125p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sw5100_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sw5100p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sxr1230p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sxr2230p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:sxr2250p_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:talynplus_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9335_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9340_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9341_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9370_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9375_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9380_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9385_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9390_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcd9395_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn3950_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn3980_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn3988_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn6740_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wcn6755_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8810_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8815_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8830_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8832_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8835_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8840_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8845_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,External analysis,cpe,cpe:2.3:o:qualcomm:wsa8845h_firmware:-:*:*:*:*:*:*:*,
+2024-12-18,Network activity,ip-dst,195.178.51.251,
+2024-12-18,Network activity,ip-dst,79.101.110.108,
+2024-12-18,Network activity,ip-dst,188.93.127.34,
+2024-12-18,Network activity,ip-dst,178.220.122.57,
+2024-12-18,Network activity,ip-dst,94.140.125.174,
+2024-12-18,Network activity,ip-dst,185.86.148.174,
+2024-12-18,Network activity,ip-dst,176.223.111.131,
+2024-12-18,Other,text,Serbia,
+2024-12-18,Other,text,RS,
+2024-12-18,Other,float,44,
+2024-12-18,Other,float,21,
+2024-12-18,Other,text,db_source: GeoOpen-Country. build_db: 2023-11-20 12:50:37. Latitude and longitude are country average.,
+2024-12-18,Other,text,Serbia,
+2024-12-18,Other,text,RS,
+2024-12-18,Other,float,44,
+2024-12-18,Other,float,21,
+2024-12-18,Other,text,db_source: GeoOpen-Country-ASN. build_db: 2023-11-20 15:49:14. Latitude and longitude are country average.,
+2024-12-18,Other,text,8400,
+2024-12-18,Other,text,ASNOrganization: TELEKOM-AS. db_source: GeoOpen-Country-ASN. build_db: 2023-11-20 15:49:14.,
+2024-12-18,Other,text,all,
+2024-12-18,Payload installation,yara,"rule APT_serbia_novispy_android_accesibilityservice {
+    meta:
+        description = ""Rule for Serbian NoviSpy Android spyware APK, com.accesibilityservice version""
+        author = ""Donncha O Cearbhaill, Amnesty International""
+        sample = ""99673ce7f10e938ed73ed4a99930fbd6499983caa7a2c1b9e3f0e0bb0a5df602""
+
+    strings:
+        $dex = { 64 65 78 0A 30 33 ?? 00 }
+
+        // C2 communication
+        $c2_1 = ""195.178.51.251""
+        $c2_2 = ""79.101.110.108""
+        $c2_3 = ""188.93.127.34""
+
+        // Unique Strings
+        $u_1 = ""kataklinger vibercajzna"" ascii nocase
+        $u_2 = ""select action_command.* from action_command where action_id = ? and trigger_type = ?"" ascii nocase
+        $u_3 = ""6FDF20EAFA2D58AF609C72AE7092BB45"" ascii nocase
+        $u_4 = ""{\""cellChangeMonitoring\"":true,\""signalStrengthMonitoring\"":true,\""temperatureDelta\"":1,"" ascii nocase
+        $u_5 = ""{\""fileUpload\"":false,\""audioRecording\"":false,\""cellChangeMonitoring\"":true,""ascii nocase
+        $u_6 = ""\""serverIp\"":\""188.93.127.34\"""" ascii nocase
+        $u_7 = ""ucitavanjepodataka"" ascii nocase
+
+        // Other strings
+        $s_1 = ""test.dat"" ascii
+        $s_2 = ""/active.config"" ascii
+        $s_3 = ""message_map.ser"" ascii
+        $s_4 = ""event type ="" ascii
+        $s_5 = ""change type subtree"" ascii
+        $s_6 = ""change type content description"" ascii
+        $s_7 = ""change type pane title"" ascii
+        $s_8 = ""content change type pane_appeared"" ascii
+        $s_9 = ""window state changed"" ascii
+        $s_10 = ""notification state changed"" ascii
+        $s_11 = ""window content changed"" ascii
+        $s_12 = ""view scrolled"" ascii
+        $s_13 = ""type selection changed"" ascii
+        $s_14 = ""type announcement"" ascii
+        $s_15 = ""scroll position ="" ascii
+        $s_16 = ""imei=%s;imsi=%s;phone=%s;sim_serial=%s;os=%s""
+        $s_17 = ""imei=%s;imsi=%s;phone=%s;sim_serial=%s;roaming=%s;os=%s""
+        $s_18 = ""last message = %s, level = %d, hash = %s, node count = %d""
+        $s_19 = ""MyAccessibilityService""
+
+    condition:
+        $dex at 0 and (
+          any of ($u*) or
+          any of ($c2*) or
+          7 of ($s*)
+        )
+  }",
+2024-12-18,Other,text,APT_serbia_novispy_android_accesibilityservice,
+2024-12-18,Other,text,all,
+2024-12-18,Payload installation,yara,"rule APT_serbia_novispy_android_serv_services  {
+    meta:
+        description = ""Rule for Serbian NoviSpy Android spyware APK, com.serv.services version""
+        author = ""Donncha O Cearbhaill, Amnesty International""
+        sample = ""087fc1217c897033425fe7f1f12b913cd48918c875e99c25bdb9e1ffcf80f57e""
+
+    strings:
+        $dex = { 64 65 78 0A 30 33 ?? 00 }
+
+        // C2 communication
+        $c2_comm_1 = ""178.220.122.57""
+
+        // Unique Strings
+
+
+        // C2 commands received via SMS
+        $sms_c2_cmd_1 = ""C_ARF"" ascii
+        $sms_c2_cmd_2 = ""C_ARN"" ascii
+        $sms_c2_cmd_3 = ""C_AWF"" ascii
+        $sms_c2_cmd_4 = ""C_AWI"" ascii
+        $sms_c2_cmd_5 = ""C_AWN"" ascii
+        $sms_c2_cmd_6 = ""C_CRF"" ascii
+        $sms_c2_cmd_7 = ""C_CRN"" ascii
+        $sms_c2_cmd_8 = ""C_LCW"" ascii
+        $sms_c2_cmd_9 = ""C_MNS"" ascii
+        $sms_c2_cmd_10 = ""C_MXS"" ascii
+        $sms_c2_cmd_11 = ""C_R_F"" ascii
+        $sms_c2_cmd_12 = ""C_R_N"" ascii
+        $sms_c2_cmd_13 = ""C_SMF"" ascii
+        $sms_c2_cmd_14 = ""C_SMN"" ascii
+        $sms_c2_cmd_15 = ""C_SWF"" ascii
+        $sms_c2_cmd_16 = ""C_SWN"" ascii
+        $sms_c2_cmd_17 = ""C_UIR"" ascii
+        $sms_c2_cmd_18 = ""C_UMF"" ascii
+        $sms_c2_cmd_19 = ""C_UMN"" ascii
+        $sms_c2_cmd_20 = ""C_UWF"" ascii
+        $sms_c2_cmd_21 = ""C_UWN"" ascii
+        $sms_c2_cmd_22 = ""C_WLF"" ascii
+        $sms_c2_cmd_23 = ""C_WLN"" ascii
+
+        // C2 commands received via FTP.
+        // This is not a comprehensive list of commands, generic command names are excluded to prevent false positives.
+        $ftp_c2_cmd_1 = ""CALL_REC_OFF"" ascii
+        $ftp_c2_cmd_2 = ""CALL_REC_ON"" ascii
+        $ftp_c2_cmd_3 = ""CHARGING_REC_OFF"" ascii
+        $ftp_c2_cmd_4 = ""CHARGING_REC_ON"" ascii
+        $ftp_c2_cmd_5 = ""SECURE_REC_OFF"" ascii
+        $ftp_c2_cmd_6 = ""SECURE_REC_ON"" ascii
+        $ftp_c2_cmd_7 = ""SSD_MOBILE_OFF"" ascii
+        $ftp_c2_cmd_8 = ""SSD_MOBILE_ON"" ascii
+        $ftp_c2_cmd_9 = ""SSD_WIFI_OFF"" ascii
+        $ftp_c2_cmd_10 = ""SSD_WIFI_ON"" ascii
+        $ftp_c2_cmd_11 = ""UPLOAD_INTERVAL"" ascii
+        $ftp_c2_cmd_12 = ""UPLOAD_MOBILE_OFF"" ascii
+        $ftp_c2_cmd_13 = ""UPLOAD_MOBILE_ON"" ascii
+        $ftp_c2_cmd_14 = ""UPLOAD_WIFI_OFF"" ascii
+        $ftp_c2_cmd_15 = ""UPLOAD_WIFI_ON"" ascii
+        $ftp_c2_cmd_16 = ""AUTO_WIFI_INTERVAL"" ascii
+        $ftp_c2_cmd_17 = ""WIFI_LOCK_ON"" ascii
+        $ftp_c2_cmd_18 = ""WIFI_LOCK_OFF"" ascii
+        $ftp_c2_cmd_19 = ""AUTO_WIFI_ON"" ascii
+        $ftp_c2_cmd_20 = ""AUTO_WIFI_OFF"" ascii
+        $ftp_c2_cmd_21 = ""START_AUDIO"" ascii
+
+        // App local settings configured based on C2 commands.
+        $setting_1 = ""UIR"" ascii
+        $setting_2 = ""ULW"" ascii
+        $setting_3 = ""ULM"" ascii
+        $setting_4 = ""SSW"" ascii
+        $setting_5 = ""SSM"" ascii
+        $setting_6 = ""CRN"" ascii
+        $setting_7 = ""SRN"" ascii
+        $setting_8 = ""CRC"" ascii
+        $setting_9 = ""MXS"" ascii
+        $setting_10 = ""MNS"" ascii
+        $setting_11 = ""AWF"" ascii
+        $setting_12 = ""AWI"" ascii
+        $setting_13 = ""CHR"" ascii
+        $setting_14 = ""WLS"" ascii
+        $setting_15 = ""A_R_N"" ascii
+        $setting_16 = ""A_R_F"" ascii
+        $setting_17 = ""U_I"" ascii
+        $setting_18 = ""U_W_N"" ascii
+        $setting_19 = ""S_W_N"" ascii
+        $setting_20 = ""U_M_F"" ascii
+        $setting_21 = ""S_M_F"" ascii
+        $setting_22 = ""A_W_F"" ascii
+        $setting_23 = ""A_W_I"" ascii
+        $setting_24 = ""W_L_N"" ascii
+        $setting_25 = ""C_R_F"" ascii
+        $setting_26 = ""CH_R_F"" ascii
+        $setting_27 = ""S_R_N"" ascii
+
+    condition:
+        $dex at 0 and (
+          any of ($c2_comm*) or
+          20 of ($sms_c2_cmd*) or
+          20 of ($ftp_c2_cmd*) or
+          20 of ($setting*)
+        )
+}",
+2024-12-18,Other,text,APT_serbia_novispy_android_serv_services,

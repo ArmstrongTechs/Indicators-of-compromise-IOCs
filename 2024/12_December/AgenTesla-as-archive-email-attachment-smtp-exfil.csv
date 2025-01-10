@@ -1,0 +1,25 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgenTesla as archive email attachment (smtp exfil)
+| UUID: d9f8ca82-49ae-4c4d-89cd-f3a162c5a4d8
+| Date: 2024-12-02
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-02,Payload delivery,hostname,mail.mbarieservicesltd.com,
+2024-12-02,Payload delivery,email-src,saless@mbarieservicesltd.com,
+2024-12-02,Payload delivery,email-dst,iinfo@mbarieservicesltd.com,
+2024-12-02,Payload delivery,malware-sample,Quote 000002320.rar|7ae4aed4fe552874ca7eb68a1dc8d800,
+2024-12-02,Payload delivery,filename,Quote 000002320.rar,
+2024-12-02,Payload delivery,md5,7ae4aed4fe552874ca7eb68a1dc8d800,
+2024-12-02,Payload delivery,sha1,d245b83a6c79360443cbe1360928f625b7ad4de1,
+2024-12-02,Payload delivery,sha256,f1dc4744f31a4bb6cb588870c2c23bd395ba03a4b916b9a6b45c77ac372de547,
+2024-12-02,Other,size-in-bytes,571158,
+2024-12-02,Payload delivery,malware-sample,Quote 000002320.exe|470b7a066dc2cfb8966cce007adabeb1,
+2024-12-02,Payload delivery,filename,Quote 000002320.exe,
+2024-12-02,Payload delivery,md5,470b7a066dc2cfb8966cce007adabeb1,
+2024-12-02,Payload delivery,sha1,63dc22eda43fb5ab4f8742e6a24df819884443f2,
+2024-12-02,Payload delivery,sha256,aa31c3c2ad5f799d3b7d964c05c4a066921ef60aee8b3f96b4c95ba38518c692,
+2024-12-02,Other,size-in-bytes,633856,

@@ -1,0 +1,15 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: 6 vulnerabilities in Ollama, one of the leading open-source frameworks for running AI models. Four of the flaws received CVEs and were patched in a recent version, while two were disputed by the application’s maintainers, making them shadow vulnerabilities."
+| UUID: 9e6b1b0e-5fb2-46d6-9aaf-7c64a1324e40
+| Date: 2024-12-09
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-09,Payload delivery,sha256,b83633aa785344791618f2fddf131b010ea04912a60430760b070bad293f65bd,
+2024-12-09,External analysis,vulnerability,CVE-2024-39719,
+2024-12-09,External analysis,vulnerability,CVE-2024-39720,
+2024-12-09,External analysis,vulnerability,CVE-2024-39721,
+2024-12-09,External analysis,vulnerability,CVE-2024-3972,

@@ -1,0 +1,63 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: NB PO-104/105/107/108 - From: preventtros@stcable.net"" Campaign"
+| UUID: 37c48e14-723d-491f-85b1-39f933a95125
+| Date: 2024-12-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-18,Payload delivery,email-src,preventtros@stcable.net,Source email: from preventtros@stcable.net - subject: NB PO-104/105/107/108
+2024-12-18,Payload delivery,email-src-display-name,Yuli,Source email: from preventtros@stcable.net - subject: NB PO-104/105/107/108
+2024-12-18,Payload delivery,email-body,"Good mroning   
+ Kindly check our PO as attached.
+ Please send the PI for our reference.
+  
+ Thanks,
+  
+   Yuli",Source email: from preventtros@stcable.net - subject: NB PO-104/105/107/108
+2024-12-18,Payload delivery,email-subject,NB PO-104/105/107/108,Source: from preventtros@stcable.net - subject: NB PO-104/105/107/108
+2024-12-18,Payload delivery,filename|sha256,NB PO-104105107108.xls|1272130e96664e18dfff89fc4e6017c3bbf17090f304df2b3a9c7f604b7ad54a,Malspam attachment - source: from preventtros@stcable.net - subject: NB PO-104/105/107/108 mime: application/vnd.ms-excel
+2024-12-18,Payload delivery,filename|ssdeep,NB PO-104105107108.xls|24576:eBaUbARM8qr8Z+jUNkiz9qV4a/DvOVwq:eEmrXjUGizcVRzy,Malspam attachment - source: from preventtros@stcable.net - subject: NB PO-104/105/107/108 mime: application/vnd.ms-excel
+2024-12-18,Payload delivery,filename|sha1,NB PO-104105107108.xls|cfa17e7609799a0b1ecc49e2d542bc159af20f7a,Malspam attachment - source: from preventtros@stcable.net - subject: NB PO-104/105/107/108 mime: application/vnd.ms-excel
+2024-12-18,Payload delivery,filename|sha512,NB PO-104105107108.xls|ea213a1328c520c4f36237c28b993a4fe034dc0c678620777c26bb7880e86b971e4a8fc8ac4a4d7cfa7e238e2cb450bc0f2eb092947b6f4993103b5fb4ccff06,Malspam attachment - source: from preventtros@stcable.net - subject: NB PO-104/105/107/108 mime: application/vnd.ms-excel
+2024-12-18,Payload delivery,filename|md5,NB PO-104105107108.xls|ac8e858040a8cead91ef441f86c9cb40,Malspam attachment - source: from preventtros@stcable.net - subject: NB PO-104/105/107/108 mime: application/vnd.ms-excel
+2024-12-18,Payload delivery,filename|imphash,Microsoft.Win32.TaskScheduler.dll|dae02f32a21e03ce65412f6e56942daa,Decoded from unxaooiykxfmw9pan4z1.jpg; mime: application/x-dosexec
+2024-12-18,Payload delivery,filename|md5,Microsoft.Win32.TaskScheduler.dll|99bb1744aa49ef8a50555fa638451e5c,Decoded from unxaooiykxfmw9pan4z1.jpg; mime: application/x-dosexec
+2024-12-18,Payload delivery,filename|sha1,Microsoft.Win32.TaskScheduler.dll|732d572148bc128d833c06a4f7b46d3b1db1a724,Decoded from unxaooiykxfmw9pan4z1.jpg; mime: application/x-dosexec
+2024-12-18,Payload delivery,filename|sha256,Microsoft.Win32.TaskScheduler.dll|fb5116f93365182f235b12d780e03bb8a2a98f389f81cf0d5832dbdc722b346d,Decoded from unxaooiykxfmw9pan4z1.jpg; mime: application/x-dosexec
+2024-12-18,Payload delivery,filename|sha512,Microsoft.Win32.TaskScheduler.dll|f1fab2f8bbca6f229d8f57cb3e818389d7c203fea8153f83b207bc108c84db340eb1164079b6788aa7bf3c74b47940241cc039e634809160080f75748b1005e1,Decoded from unxaooiykxfmw9pan4z1.jpg; mime: application/x-dosexec
+2024-12-18,Payload delivery,filename|ssdeep,Microsoft.Win32.TaskScheduler.dll|24576:eWgxr8wX9dSLkvZmtEwgSHPDoiX5WZHWc02FU4d3GRlVaU328B3qvw7wXrv7NTDr:feanH7oiX5WZHWc02FU4d3GRlVaU328S,Decoded from unxaooiykxfmw9pan4z1.jpg; mime: application/x-dosexec
+2024-12-18,Payload delivery,filename|md5,ZcpQvpUK.txt|2a80d3df29809dbec944e4d61538e625,Encoded payload published on https://paste.ee/r/qVzWL/0; mime: text/plain
+2024-12-18,Payload delivery,filename|sha1,ZcpQvpUK.txt|c364ab4f511d3129ed052713d26bca51b6defed7,Encoded payload published on https://paste.ee/r/qVzWL/0; mime: text/plain
+2024-12-18,Payload delivery,filename|sha256,ZcpQvpUK.txt|9a693028de9e773170ee471f3e8d13c41979c758c5f6e3630d9c08bd7d98de0a,Encoded payload published on https://paste.ee/r/qVzWL/0; mime: text/plain
+2024-12-18,Payload delivery,filename|sha512,ZcpQvpUK.txt|fd332ebf39c9168326ab6fa69480dd23bb26c16dc90e3e4af3d681a37135269bf656f5019c54b8575e5f950187ef500c95866fff7048b7edc3a8d43e96b9d99c,Encoded payload published on https://paste.ee/r/qVzWL/0; mime: text/plain
+2024-12-18,Payload delivery,filename|ssdeep,ZcpQvpUK.txt|12288:94XpsEFNXwm014RRgpluhqaENxchr8hJ7z/iuHpz8Ol:KXNq14RRg3o6xcR8X7OuHp4M,Encoded payload published on https://paste.ee/r/qVzWL/0; mime: text/plain
+2024-12-18,Payload delivery,filename|md5,freesizedressfornaturalbeautyinthiscaseforyougood.tIF|f4fa61bb6c9f9721ded8d91d28ea7815,Downloaded from http://23.95.235.29/118/freesizedressfornaturalbeautyinthiscaseforyougood.tIF; mime: text/plain
+2024-12-18,Payload delivery,filename|sha1,freesizedressfornaturalbeautyinthiscaseforyougood.tIF|10796e5d198b6007586d28f6eaf2e847f89ea51e,Downloaded from http://23.95.235.29/118/freesizedressfornaturalbeautyinthiscaseforyougood.tIF; mime: text/plain
+2024-12-18,Payload delivery,filename|sha256,freesizedressfornaturalbeautyinthiscaseforyougood.tIF|cbf1e928a1d028328afce5a494996571a51203d9c7e06ee78cd8ae1907f81f53,Downloaded from http://23.95.235.29/118/freesizedressfornaturalbeautyinthiscaseforyougood.tIF; mime: text/plain
+2024-12-18,Payload delivery,filename|sha512,freesizedressfornaturalbeautyinthiscaseforyougood.tIF|03cf806a49ac6fb1d739e986e81559241d2387af2bb93dd443dee04f8f7278d1cad45116c46951d1888fd43922d232e6a9f1b49139c61e961efea0d2de0b7013,Downloaded from http://23.95.235.29/118/freesizedressfornaturalbeautyinthiscaseforyougood.tIF; mime: text/plain
+2024-12-18,Payload delivery,filename|ssdeep,freesizedressfornaturalbeautyinthiscaseforyougood.tIF|3072:3jl+x01Ehsnlxjjl+x01Ehsnl9jl+x01Ehsnle:3jlE0osnlxjjlE0osnl9jlE0osnle,Downloaded from http://23.95.235.29/118/freesizedressfornaturalbeautyinthiscaseforyougood.tIF; mime: text/plain
+2024-12-18,Payload delivery,filename|md5,greatnicefeatureswithsupercodebnaturalthingsinlineforgiven.hta|b4a181ad1acd008c45ba11fd3b518ca2,Downloaded from http://23.95.235.29/118/sup/greatnicefeatureswithsupercodebnaturalthingsinlineforgiven.hta; mime: text/html
+2024-12-18,Payload delivery,filename|sha1,greatnicefeatureswithsupercodebnaturalthingsinlineforgiven.hta|60b4d2b833454c10d8588a67c018498ebfe9e7f5,Downloaded from http://23.95.235.29/118/sup/greatnicefeatureswithsupercodebnaturalthingsinlineforgiven.hta; mime: text/html
+2024-12-18,Payload delivery,filename|sha256,greatnicefeatureswithsupercodebnaturalthingsinlineforgiven.hta|83fc39130474afeb1d69b21603b9e7495584741eda2ca2248db4730d4e966705,Downloaded from http://23.95.235.29/118/sup/greatnicefeatureswithsupercodebnaturalthingsinlineforgiven.hta; mime: text/html
+2024-12-18,Payload delivery,filename|sha512,greatnicefeatureswithsupercodebnaturalthingsinlineforgiven.hta|724c770c0f5e06fe62c99fc12546cd9c7f807cae7091e3386613b3c48831ee1748e70b227175fcdb183b71f52f300f208019c45d4712847ddc87ad254a572db9,Downloaded from http://23.95.235.29/118/sup/greatnicefeatureswithsupercodebnaturalthingsinlineforgiven.hta; mime: text/html
+2024-12-18,Payload delivery,filename|ssdeep,greatnicefeatureswithsupercodebnaturalthingsinlineforgiven.hta|768:t1EVeI6Abum2oum2Lh5KUJDVUKhCiGVf/AwZTZGPJZ9adxfv1g4ZZZZZZZZZZZZV:tQ,Downloaded from http://23.95.235.29/118/sup/greatnicefeatureswithsupercodebnaturalthingsinlineforgiven.hta; mime: text/html
+2024-12-18,Network activity,url,http://23.95.235.29/118/freesizedressfornaturalbeautyinthiscaseforyougood.tIF,Source: Network activity from greatnicefeatureswithsupercodebnaturalthingsinlineforgiven.hta
+2024-12-18,Network activity,url,http://23.95.235.29/118/sup/greatnicefeatureswithsupercodebnaturalthingsinlineforgiven.hta,Source: Network activity from https://curt.wiz.co/VRidcbrtv4?&helium=earsplitting&pasta=verdant&mirror=x-rated&gap=brash&life=fluffy&veranda
+2024-12-18,Network activity,url,https://curt.wiz.co/VRidcbrtv4?&helium=earsplitting&pasta=verdant&mirror=x-rated&gap=brash&life=fluffy&veranda,Source: Network activity from NB PO-104105107108.xls
+2024-12-18,Network activity,url,https://paste.ee/r/qVzWL/0,Source: Network activity from freesizedressfornaturalbeautyinthiscaseforyougood.tIF
+2024-12-18,Network activity,url,https://res.cloudinary.com/dzvai86uh/image/upload/v1734050991/unxaooiykxfmw9pan4z1.jpg,Source: Network activity from freesizedressfornaturalbeautyinthiscaseforyougood.tIF
+2024-12-18,Payload delivery,filename|imphash,remcos.exe|e77512f955eaf60ccff45e02d69234de,Decoded from ZcpQvpUK.txt; mime: application/x-dosexec
+2024-12-18,Payload delivery,filename|md5,remcos.exe|ef9002ea082d75d5e9a3de520111c51f,Decoded from ZcpQvpUK.txt; mime: application/x-dosexec
+2024-12-18,Payload delivery,filename|sha1,remcos.exe|b09989d3b281614a1ba0c66556dda2b66c1852c4,Decoded from ZcpQvpUK.txt; mime: application/x-dosexec
+2024-12-18,Payload delivery,filename|sha256,remcos.exe|c36ccdcbb4141514074cd8fc6122e4aae530a254848f5fa1e36119e5806c2af7,Decoded from ZcpQvpUK.txt; mime: application/x-dosexec
+2024-12-18,Payload delivery,filename|sha512,remcos.exe|29885ae559d869c8374d7f70467d34f97cb0bae2309187f20ccb7af6e8624de7a7794bbd0715fc2b06a9ebb378c6c6d5aaa36b5eab1569b46b35f31a31abd371,Decoded from ZcpQvpUK.txt; mime: application/x-dosexec
+2024-12-18,Payload delivery,filename|ssdeep,remcos.exe|12288:buD09AUkNIGBYYv4eK13x13nZHSRVMf139F5wIB7+IwtHwBtVxbesvZDS3I+DY:e09AfNIEYsunZvZ19Z+Is,Decoded from ZcpQvpUK.txt; mime: application/x-dosexec
+2024-12-18,Network activity,hostname|port,submarrine.duckdns.org|6946,Source: Network activity from remcos.exe; C2
+2024-12-18,Payload delivery,filename|md5,unxaooiykxfmw9pan4z1.jpg|78bd258abedd7787714b5d9c33eb9212,Downloaded from https://res.cloudinary.com/dzvai86uh/image/upload/v1734050991/unxaooiykxfmw9pan4z1.jpg; mime: image/jpeg
+2024-12-18,Payload delivery,filename|sha1,unxaooiykxfmw9pan4z1.jpg|a210db9af3f73ec21ad706bf1a773e094ee840fe,Downloaded from https://res.cloudinary.com/dzvai86uh/image/upload/v1734050991/unxaooiykxfmw9pan4z1.jpg; mime: image/jpeg
+2024-12-18,Payload delivery,filename|sha256,unxaooiykxfmw9pan4z1.jpg|31f30a8b7270e00247b64c28cab661f23660c398d0da80b953e6587d58e4a429,Downloaded from https://res.cloudinary.com/dzvai86uh/image/upload/v1734050991/unxaooiykxfmw9pan4z1.jpg; mime: image/jpeg
+2024-12-18,Payload delivery,filename|sha512,unxaooiykxfmw9pan4z1.jpg|20c96c0fe536af815e2ce5b477a411c9a2ef20e3133fd938af94fe1b000fdb31465191505c705b8708431ce43c078e4aa1a866e5c7213deb145b6fb70ad2f3f6,Downloaded from https://res.cloudinary.com/dzvai86uh/image/upload/v1734050991/unxaooiykxfmw9pan4z1.jpg; mime: image/jpeg
+2024-12-18,Payload delivery,filename|ssdeep,unxaooiykxfmw9pan4z1.jpg|49152:uZHfhgCZvKzn3ZBpJdncMCjY42HmACEy+v:Ohgx,Downloaded from https://res.cloudinary.com/dzvai86uh/image/upload/v1734050991/unxaooiykxfmw9pan4z1.jpg; mime: image/jpeg

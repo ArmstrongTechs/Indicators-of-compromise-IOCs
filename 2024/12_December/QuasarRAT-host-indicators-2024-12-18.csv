@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2024-12-18]
+| UUID: 82d46084-3551-4d68-a4a6-7b9784e8bb9b
+| Date: 2024-12-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-18,Payload installation,filename,kys.exe,Source: MalwareBazaar
+2024-12-18,Payload installation,md5,0515143005b3e92fe50594bc1e30af7b,Source: MalwareBazaar
+2024-12-18,Payload installation,sha1,1f565728bcc13bf1e49760c98bd96e15dacb42fc,Source: MalwareBazaar
+2024-12-18,Payload installation,sha256,676a40f2c599ffe574343860e190a7c293ade8e32cd83b66f6ff6f8d4c0b3a53,Source: MalwareBazaar

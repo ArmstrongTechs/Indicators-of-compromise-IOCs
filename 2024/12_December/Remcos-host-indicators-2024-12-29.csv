@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2024-12-29]
+| UUID: bab79ad9-22b3-4351-a1ff-cda08da92a78
+| Date: 2024-12-29
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-30,Payload installation,filename,Електронний платіжний документ.pdf.exe,Source: MalwareBazaar
+2024-12-30,Payload installation,md5,995e590a02d494e4bb16ffc0b5f533a6,Source: MalwareBazaar
+2024-12-30,Payload installation,sha1,31a8b01b39d68cc539e2431f84154f2aa6eb1823,Source: MalwareBazaar
+2024-12-30,Payload installation,sha256,4df4fa95ccd5d5dcb8a4e676dcfaf08bac4343b9feb9128288886a0cc1f7bbc5,Source: MalwareBazaar

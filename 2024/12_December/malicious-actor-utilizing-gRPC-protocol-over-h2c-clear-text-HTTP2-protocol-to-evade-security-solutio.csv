@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: malicious actor utilizing gRPC protocol over h2c (clear text HTTP2 protocol) to evade security solutions and deploy the SRBMiner cryptominer on the Docker host to mine XRP, a cryptocurrency developed by the US-based Ripple Labs."
+| UUID: f0288863-731c-4056-aed6-7e465849cb21
+| Date: 2024-12-02
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-02,Payload delivery,sha256,0d4eb69b551cb538a9a4c46f7b57906a47bcabb8ef8a5d245584fbba09fc5084,
+2024-12-02,Network activity,url,https://github.com/doktor83/SRBMiner-Multi/releases/download/2.5.8/SRBMiner-Multi-2-5-8-Linux.tar.g,
+2024-12-02,Network activity,ip-dst|port,167.71.194.227|3333,On port 3333
+2024-12-02,Network activity,ip-dst,59.93.45.16,

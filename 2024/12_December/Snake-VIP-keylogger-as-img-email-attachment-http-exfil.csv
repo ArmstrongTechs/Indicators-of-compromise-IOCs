@@ -1,0 +1,23 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Snake VIP keylogger as .img email attachment (http exfil)
+| UUID: 1d625f95-ae02-42fe-93a3-175bd7756153
+| Date: 2024-12-11
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-11,Network activity,url,http://51.38.247.67:8081/_send_.php,
+2024-12-11,Payload delivery,malware-sample,Vzorci.png.img|577efdde372f2bacc2c1ed67a9d150cd,
+2024-12-11,Payload delivery,filename,Vzorci.png.img,
+2024-12-11,Payload delivery,md5,577efdde372f2bacc2c1ed67a9d150cd,
+2024-12-11,Payload delivery,sha1,29003d8ce8e54898d16d5806b9e546a577b0322c,
+2024-12-11,Payload delivery,sha256,d76685baaca4caa780144ddde422a096f2422f208c9fcb6ae458af1baef348fe,
+2024-12-11,Other,size-in-bytes,1638400,
+2024-12-11,Payload delivery,malware-sample,SWIFT.exe|a1e12d2c6554aba6dc559c70c6e73de4,
+2024-12-11,Payload delivery,filename,SWIFT.exe,
+2024-12-11,Payload delivery,md5,a1e12d2c6554aba6dc559c70c6e73de4,
+2024-12-11,Payload delivery,sha1,c3efbc42b9216818cae4745be17f10a45d312b20,
+2024-12-11,Payload delivery,sha256,8268222de842c98e6109c0edb31d03ee82ef3df1f09dceaebf6d63818adc356e,
+2024-12-11,Other,size-in-bytes,1074688,

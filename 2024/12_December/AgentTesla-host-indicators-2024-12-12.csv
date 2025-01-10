@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2024-12-12]
+| UUID: 954db70f-ccf8-423f-b480-3e8cd9536945
+| Date: 2024-12-12
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-12,Payload installation,filename,RFQ-004282A.Teknolojileri A.S.exe,Source: MalwareBazaar
+2024-12-12,Payload installation,md5,6ea849b727eea7b7487aa0941258f8bd,Source: MalwareBazaar
+2024-12-12,Payload installation,sha1,6fca473e6498bde1b015e95fd612d156727a19fc,Source: MalwareBazaar
+2024-12-12,Payload installation,sha256,f6e159f0e6c27e334d951dd08dff7819878b7ac4318b5dcd1a2d9975062ab8d1,Source: MalwareBazaar
+2024-12-12,Payload installation,filename,mp.exe,Source: MalwareBazaar
+2024-12-12,Payload installation,md5,808c1ca4955914a3011461749316898f,Source: MalwareBazaar
+2024-12-12,Payload installation,sha1,db8b9d8e9f8df24fb219482002e3049941cabb43,Source: MalwareBazaar
+2024-12-12,Payload installation,sha256,c65e44ab50c876191f4c648500e7bf3d6986a7c6941fae19ee55d752aae2e523,Source: MalwareBazaar
+2024-12-13,Payload installation,filename,ORDER-401.exe,Source: MalwareBazaar
+2024-12-13,Payload installation,md5,3dfa099ee923a3f449f97ca8f522f703,Source: MalwareBazaar
+2024-12-13,Payload installation,sha1,b2aece2499d5d90eb59d7e0d8a908c162d7e70f1,Source: MalwareBazaar
+2024-12-13,Payload installation,sha256,756abd1273244ba91c1b9bd7bb86182e9012e12f2599cb715f9757cc34e3a81e,Source: MalwareBazaar

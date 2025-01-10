@@ -1,0 +1,20 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FPH24-01035 [Fraude] [Phishing]
+| UUID: b8c47c92-1076-4140-8ec5-e4aa8a5eff80
+| Date: 2024-12-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-20,External analysis,text,"Desde el CSIRT de Gobierno alertamos de una nueva campaña de phishing, cuyos detalles son los siguientes.
+
+En esta ocasión, se trata de una página web fraudulenta que se hace pasar por una falsa notificación de limite de almacenamiento para robar datos de sus usuarios.Lo anterior constituye una falsificación de marca que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2024-12-20,Network activity,ip-src|port,186.194.163.244|56002,IP SMTP
+2024-12-20,Network activity,ip-src,74.115.51.8,IP sitio falso
+2024-12-20,Payload delivery,url,https://wbxnscorroen1.weebly.com/,URL sitio falso
+2024-12-20,Payload delivery,email-subject,Quota Exceeded,Asunto correo
+2024-12-20,Payload delivery,email-src,sistemas@diateco.com,Correo de salida
+2024-12-20,External analysis,attachment,2024-12-19_10h41_46.png,
+2024-12-20,External analysis,attachment,2024-12-19_10h42_17.png,

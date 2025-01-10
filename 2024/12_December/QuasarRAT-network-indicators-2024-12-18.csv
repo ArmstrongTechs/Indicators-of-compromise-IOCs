@@ -1,0 +1,15 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT network indicators [2024-12-18]
+| UUID: ae91a832-40a5-4de9-8eda-ae652d09814c
+| Date: 2024-12-18
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2024-12-18,Network activity,url,https://raw.githubusercontent.com/horiffy/Sentil/refs/heads/main/Sentil.exe,Source: urlhaus
+2024-12-18,Network activity,url,https://raw.githubusercontent.com/ballshot/payload/refs/heads/main/skibidi.exe,Source: urlhaus
+2024-12-18,Network activity,url,https://raw.githubusercontent.com/ballshot/payload/refs/heads/main/vanilla.exe,Source: urlhaus
+2024-12-18,Network activity,url,https://raw.githubusercontent.com/ballshot/payload/refs/heads/main/runtimebroker.exe,Source: urlhaus
+2024-12-18,Network activity,url,https://raw.githubusercontent.com/ballshot/payload/refs/heads/main/jignesh.exe,Source: urlhaus
