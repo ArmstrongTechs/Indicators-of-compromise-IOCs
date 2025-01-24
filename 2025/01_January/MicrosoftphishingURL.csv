@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Microsoft phishing URL
+| UUID: 6bc07051-975a-492e-848a-0e9710b234dd
+| Date: 2025-01-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-20,Network activity,domain|ip,riplu.ro|45.67.37.101,
+2025-01-20,Network activity,url,https://riplu.ro/remlecplantum/DE5NTI1In0sInhtc19jYyI6eyJ2YWx1ZXMiOlsiQ1AxIl19fSwiaWRfdG9rZW4iOnsibmJmIjp7ImVzc2VudGlhbCI6dHJ1ZSwidmFsdWUiOiIxNzM3MDE5NTI1In0sInhtc19jYyI6eyJ2YWx1ZXMiOlsiQ1AxIl19fX0/,phishing link
+2025-01-20,Network activity,attachment,riplu.ro__Screenshot 2025-01-20 114541.png,

@@ -1,0 +1,27 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: APT33 Hackers Leverage 'Tickler' Backdoor for Espionage on Sensitive US, UAE Networks"
+| UUID: bea2e56a-2374-4f98-b810-17b30cc57a0d
+| Date: 2025-01-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-22,Network activity,hostname,subreviews.azurewebsites.net,
+2025-01-22,Network activity,hostname,satellite2.azurewebsites.net,
+2025-01-22,Network activity,hostname,nodetestservers.azurewebsites.net,
+2025-01-22,Network activity,hostname,satellitegardens.azurewebsites.net,
+2025-01-22,Network activity,hostname,softwareservicesupport.azurewebsites.net,
+2025-01-22,Network activity,hostname,getservicessuports.azurewebsites.net,
+2025-01-22,Network activity,hostname,getservicessupports.azurewebsites.net,
+2025-01-22,Network activity,hostname,getsupportsservices.azurewebsites.net,
+2025-01-22,Network activity,hostname,satellitespecialists.azurewebsites.net,
+2025-01-22,Network activity,hostname,satservicesdev.azurewebsites.net,
+2025-01-22,Network activity,hostname,servicessupports.azurewebsites.net,
+2025-01-22,Network activity,hostname,websupportprotection.azurewebsites.net,
+2025-01-22,Network activity,hostname,supportsoftwarecenter.azurewebsites.net,
+2025-01-22,Network activity,hostname,centersoftwaresupports.azurewebsites.net,
+2025-01-22,Network activity,hostname,softwareservicesupports.azurewebsites.net,
+2025-01-22,Network activity,hostname,getsdervicessupoortss.azurewebsites.net,
+2025-01-22,Payload delivery,sha224,ccb617cc7418a3b22179e00d21db26754666979b4c4f34c7fda8c008,

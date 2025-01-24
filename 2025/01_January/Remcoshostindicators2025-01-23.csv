@@ -1,0 +1,46 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2025-01-23]
+| UUID: b1c0c4d1-6fbe-407f-9656-b1364cfc540f
+| Date: 2025-01-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-23,Payload installation,filename,e.exe,Source: MalwareBazaar
+2025-01-23,Payload installation,md5,8461e97514f42d93dccb4ec7f7100453,Source: MalwareBazaar
+2025-01-23,Payload installation,sha1,ddb0584a3fcfa72e694ac30c06b7ac444644b863,Source: MalwareBazaar
+2025-01-23,Payload installation,sha256,b43cc694d316e52b7c650b72e0d0e00ab4f9430305970dcdb19a6890c87ccf90,Source: MalwareBazaar
+2025-01-23,Payload installation,filename,3d7843a45d4e6c29db0ff3640adadc01a73eba0ffc41c0f932cd16439f0bca4d,Source: MalwareBazaar
+2025-01-23,Payload installation,md5,2133b0b0143b0cc0d5608d572495b24f,Source: MalwareBazaar
+2025-01-23,Payload installation,sha1,3e71cc4dc61a0b12aca4902029fd841fda4e8a51,Source: MalwareBazaar
+2025-01-23,Payload installation,sha256,3d7843a45d4e6c29db0ff3640adadc01a73eba0ffc41c0f932cd16439f0bca4d,Source: MalwareBazaar
+2025-01-24,Payload installation,filename,1737648608d6e5c4bff7f57356e0f8f21179cf1963e8689a7a7b90f7e9eee58abb2e0511df554.dat-decoded,Source: MalwareBazaar
+2025-01-24,Payload installation,md5,e27c32776702de27eebe7c57d9f588c3,Source: MalwareBazaar
+2025-01-24,Payload installation,sha1,53d540479ae70df2a8fa050c5a242a1025fbe597,Source: MalwareBazaar
+2025-01-24,Payload installation,sha256,eecc7116c5730d44a829ee1e1d91cada1e9deb98122b358503e493aa5e60087a,Source: MalwareBazaar
+2025-01-24,Payload installation,filename,c867b11da5742af948844ca1067af51e.exe,Source: MalwareBazaar
+2025-01-24,Payload installation,md5,c867b11da5742af948844ca1067af51e,Source: MalwareBazaar
+2025-01-24,Payload installation,sha1,be978c0c697f6d0890e52aec37b70f9c0f66b5da,Source: MalwareBazaar
+2025-01-24,Payload installation,sha256,d6f9c8f0d85d3573661cc2223bdc362324d31c811038f65570b2b95ad5760353,Source: MalwareBazaar
+2025-01-24,Payload installation,filename,sheisveryinterestingirlsheisverybestfirlformebestthingsshedoing_____undergoodthingsarehappeningevnteigimegood_____shewnatbestgirlformebestthingsdoings.doc,Source: MalwareBazaar
+2025-01-24,Payload installation,md5,8e128f75977895f5e8767935ab792e5d,Source: MalwareBazaar
+2025-01-24,Payload installation,sha1,6820bb80d79a418adecf1db8d7bf1fddf054fc4e,Source: MalwareBazaar
+2025-01-24,Payload installation,sha256,2b95f8d7e77d68b4fc2f40b1c42a9da731bd9812a60c36162019063f8af24978,Source: MalwareBazaar
+2025-01-24,Payload installation,filename,24d95803236fde4ee8ebfe4671dc28fe.hta,Source: MalwareBazaar
+2025-01-24,Payload installation,md5,24d95803236fde4ee8ebfe4671dc28fe,Source: MalwareBazaar
+2025-01-24,Payload installation,sha1,677e9c8b79a59b4fa3c8eab8fd318ae31dcd5d95,Source: MalwareBazaar
+2025-01-24,Payload installation,sha256,986b693f564b364a2f69261f1f825d6a26afec8db9a3aa46fd2a964e45dc2a1c,Source: MalwareBazaar
+2025-01-24,Payload installation,filename,1737648243b8346c64f2ac7a267dc78c3715132da500f33a98444673179c841b871d904b59125.dat-decoded,Source: MalwareBazaar
+2025-01-24,Payload installation,md5,d0e8d2c098dae746762d3cdd0276497a,Source: MalwareBazaar
+2025-01-24,Payload installation,sha1,a76857229e1e05ed5e8462a4d19ce0fbb9b1d72e,Source: MalwareBazaar
+2025-01-24,Payload installation,sha256,cb8db6079eda85eced81e830bc93137046d2380b1d9c6c09d7fa38b0d9d29400,Source: MalwareBazaar
+2025-01-24,Payload installation,filename,1737663604f8516c9290039f02f2c52471a04536a8f1185df942f9f62cf33cb0918189f654490.dat-decoded,Source: MalwareBazaar
+2025-01-24,Payload installation,md5,7ce9f8140cda0b90c02105712ac345e5,Source: MalwareBazaar
+2025-01-24,Payload installation,sha1,fa3049434e60b6b50c402adddd238668870abda6,Source: MalwareBazaar
+2025-01-24,Payload installation,sha256,780eb8a7854cce92caadc3f3fd7532a87f91825a393fdc147762a968a06c4e6d,Source: MalwareBazaar
+2025-01-24,Payload installation,filename,17376636653d3640b3c412096dbc796019819e7261fa5d5a40bc5aad1440822754cbd861ba532.dat-decoded,Source: MalwareBazaar
+2025-01-24,Payload installation,md5,945b0cd8fd3742d9f17ec61201a3f5db,Source: MalwareBazaar
+2025-01-24,Payload installation,sha1,9be236f4c77bf75a485b0898d31de130cc94fa4c,Source: MalwareBazaar
+2025-01-24,Payload installation,sha256,42a0db67763e46452119a662ce0d65d4d9dd0380e96e4c9bfb26c938882b800c,Source: MalwareBazaar

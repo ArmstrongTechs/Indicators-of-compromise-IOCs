@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2025-01-22]
+| UUID: c9045637-6e81-49eb-b4c8-ebab27995839
+| Date: 2025-01-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-22,Payload installation,filename,discordupdate.exe,Source: MalwareBazaar
+2025-01-22,Payload installation,md5,25befffc195ce47401f74afbe942f3ff,Source: MalwareBazaar
+2025-01-22,Payload installation,sha1,287aacd0350f05308e08c6b4b8b88baf56f56160,Source: MalwareBazaar
+2025-01-22,Payload installation,sha256,b67121c19394013d4e3fec0fcb138471e5ee51ebfafb296cc597afc0d256799f,Source: MalwareBazaar
+2025-01-22,Payload installation,filename,82AB58A9D1AF41EB4EA63F2417366CC9.exe,Source: MalwareBazaar
+2025-01-22,Payload installation,md5,82ab58a9d1af41eb4ea63f2417366cc9,Source: MalwareBazaar
+2025-01-22,Payload installation,sha1,dab04289bc735e8dcd4ca248681f095803a3d87e,Source: MalwareBazaar
+2025-01-22,Payload installation,sha256,92a61acb5fd10680e88164bc308dc8c64195245c443a7ecc862e77bb2f21586b,Source: MalwareBazaar

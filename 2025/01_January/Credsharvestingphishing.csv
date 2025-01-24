@@ -1,0 +1,15 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Creds harvesting phishing
+| UUID: aa95ad45-9341-47d4-ab03-5adf79b462f3
+| Date: 2025-01-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-23,Payload delivery,email-src,pgdep@rdd.edu.iq,
+2025-01-23,Network activity,ip-dst,172.245.244.110,"""IP Src"""
+2025-01-23,Network activity,url,https://ipfs.io/ipfs/Qmco3UWggt2b9WquiRssp23teg6RwPZ862N1AaVQpZAfTt/dilp.html,"""Url containing credential harvesting page"""
+2025-01-23,Network activity,domain,ipfs.io,"""Domain from phishing URL"""
+2025-01-23,Payload delivery,email-subject,You have new held messages,"""second email subject"""

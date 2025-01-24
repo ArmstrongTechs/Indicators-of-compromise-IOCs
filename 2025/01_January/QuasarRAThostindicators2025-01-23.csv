@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2025-01-23]
+| UUID: a07bc72c-d9f2-43d7-a706-997c87453c7c
+| Date: 2025-01-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-23,Payload installation,filename,ripplewoofer.exe,Source: MalwareBazaar
+2025-01-23,Payload installation,md5,aefac3053fe23e06c3cd4c123a69ca37,Source: MalwareBazaar
+2025-01-23,Payload installation,sha1,3971e70e42e0148deb5b879da32bdcf6e3702197,Source: MalwareBazaar
+2025-01-23,Payload installation,sha256,af6a17197ef3da87971496daf39475598053e250d58c82c610d55ce4267102e2,Source: MalwareBazaar

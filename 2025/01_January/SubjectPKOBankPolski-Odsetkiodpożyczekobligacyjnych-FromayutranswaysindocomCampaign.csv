@@ -1,0 +1,64 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: ""Subject: PKO Bank Polski - Odsetki od pożyczek obligacyjnych - From: ayu@transwaysindo.com"" Campaign"
+| UUID: ebdc1b3f-e7cf-4f9f-8fad-678fd12c5bd6
+| Date: 2025-01-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-23,Payload delivery,email-src,ayu@transwaysindo.com,Source email: from ayu@transwaysindo.com - subject: PKO Bank Polski - Odsetki od pożyczek obligacyjnych
+2025-01-23,Payload delivery,email-src-display-name,PKO Bank Polski,Source email: from ayu@transwaysindo.com - subject: PKO Bank Polski - Odsetki od pożyczek obligacyjnych; Spoofing
+2025-01-23,Payload delivery,email-body,"Szanowny kliencie,
+
+W załączeniu przesyłamy pismo dotyczące odsetek od O/D spółki w 
+wysokości 1 080 000 i 1 520 000 euro i prosimy o dokonanie płatności 15% 
+odsetek do urzędu skarbowego (zgodnie z załączonym pismem). Następnie 
+musimy otrzymać dowód zapłaty podatku i deklarację. Do Państwa 
+dyspozycji,
+
+Pozdrawiamy,
+PKO Bank Polski
+
+Infolinia: 800 302 302 brak opłat dla numerów krajowych na terenie 
+kraju: w innych przypadkach - opłata zgodna ze stawką operatora +48 81 
+535 60 60 opłata zgodna ze stawką operatoraList został wysłany zgodnie z 
+wyrażoną wcześniej zgodą na otrzymywanie od PKO Banku Polskiego 
+korespondencji handlowej drogą elektroniczną. Powszechna Kasa 
+Oszczędności Bank Polski Spółka Akcyjna z siedzibą w Warszawie przy ul. 
+Puławskiej 15, 02-515 Warszawa, zarejestrowana w Sądzie Rejonowym dla 
+m.st. Warszawy w Warszawie, XIII Wydział Gospodarczy Krajowego Rejestru 
+Sądowego pod nr KRS 0000026438; NIP: 525-000-77-38; REGON: 016298263; 
+kapitał zakładowy (kapitał wpłacony) 1 250 000 000 zł",Source email: from ayu@transwaysindo.com - subject: PKO Bank Polski - Odsetki od pożyczek obligacyjnych
+2025-01-23,Payload delivery,email-subject,PKO Bank Polski - Odsetki od pożyczek obligacyjnych,Source: from ayu@transwaysindo.com - subject: PKO Bank Polski - Odsetki od pożyczek obligacyjnych
+2025-01-23,Payload delivery,filename|sha256,00645530059297.pdf.gz|507280dd7e9823ed4f220549ae29a98da7ca2e96624bc3c91cabedefd95cef6b,Malspam attachment - source: from ayu@transwaysindo.com - subject: PKO Bank Polski - Odsetki od pożyczek obligacyjnych mime: application/gzip
+2025-01-23,Payload delivery,filename|ssdeep,00645530059297.pdf.gz|12288:X9vbCVhxsF014tBF04981EZ1eYnSf5Q+UUaid6mrHGGrR+tfvH0my01uiUP6P+fb:XFC8F014jhsECVfKCa73nvHJgnTguLv,Malspam attachment - source: from ayu@transwaysindo.com - subject: PKO Bank Polski - Odsetki od pożyczek obligacyjnych mime: application/gzip
+2025-01-23,Payload delivery,filename|sha1,00645530059297.pdf.gz|e2b68e40037a8073d0cadbbd9e336dd2a45e11fb,Malspam attachment - source: from ayu@transwaysindo.com - subject: PKO Bank Polski - Odsetki od pożyczek obligacyjnych mime: application/gzip
+2025-01-23,Payload delivery,filename|sha512,00645530059297.pdf.gz|64d08ef4c5f39f206b8a372f58be280d970a1b89a9d4fedd34fded8e654f91e854e98140e8c36492cdf19574cea5f06f8457165a4bab6b13dd69a19e11f7165d,Malspam attachment - source: from ayu@transwaysindo.com - subject: PKO Bank Polski - Odsetki od pożyczek obligacyjnych mime: application/gzip
+2025-01-23,Payload delivery,filename|md5,00645530059297.pdf.gz|65ac6f146089206b96115d65b85a6a32,Malspam attachment - source: from ayu@transwaysindo.com - subject: PKO Bank Polski - Odsetki od pożyczek obligacyjnych mime: application/gzip
+2025-01-23,Payload delivery,filename|imphash,00645530059297.pdf.exe|f34d5f2d4577ed6d9ceec516c1f5a744,Extracted from 00645530059297.pdf.gz; mime: application/x-dosexec
+2025-01-23,Payload delivery,filename|md5,00645530059297.pdf.exe|fa03709f6e0020e4e2baffa78f3c4f37,Extracted from 00645530059297.pdf.gz; mime: application/x-dosexec
+2025-01-23,Payload delivery,filename|sha1,00645530059297.pdf.exe|2c0349404e9edca1ed30929f9d9e88039731b956,Extracted from 00645530059297.pdf.gz; mime: application/x-dosexec
+2025-01-23,Payload delivery,filename|sha256,00645530059297.pdf.exe|9560a53bb121e74ba25d18f18d138030797f33b30cc7e8a8b40ef465de3cd926,Extracted from 00645530059297.pdf.gz; mime: application/x-dosexec
+2025-01-23,Payload delivery,filename|sha512,00645530059297.pdf.exe|b2556fe6f08a82e5d763dd8f3680da04a67625ca9293c024d952b712588d216655ea839aa57bceceb46a4ea9e6887fcab8b14ea8d99a864db6c517ebb6546d08,Extracted from 00645530059297.pdf.gz; mime: application/x-dosexec
+2025-01-23,Payload delivery,filename|ssdeep,00645530059297.pdf.exe|12288:MdsFt4F07EXBeO+i9ElETleYncfTcWqcauJumv3swrr6tfNHU0yQ1uuUP6fQXGPG:n4F07ERLhCE05fgqabfrNHrCjLXGPh,Extracted from 00645530059297.pdf.gz; mime: application/x-dosexec
+2025-01-23,Payload delivery,filename|imphash,Captive.dll|dae02f32a21e03ce65412f6e56942daa,Extracted from 00645530059297.pdf.exe; mime: application/x-dosexec
+2025-01-23,Payload delivery,filename|md5,Captive.dll|0cfaf885e248d58f7b236e6efdf716d0,Extracted from 00645530059297.pdf.exe; mime: application/x-dosexec
+2025-01-23,Payload delivery,filename|sha1,Captive.dll|b25d9f8855fc09d2aec9882e5d8605e28108eb43,Extracted from 00645530059297.pdf.exe; mime: application/x-dosexec
+2025-01-23,Payload delivery,filename|sha256,Captive.dll|ffb97d9798a95e8bf0762ef3261ec76c3d510e2e12fb1e53a433c184c02dbb10,Extracted from 00645530059297.pdf.exe; mime: application/x-dosexec
+2025-01-23,Payload delivery,filename|sha512,Captive.dll|53acde9ff50ac701eb56f85ce1a9894774c734402b2376744440e9b83a7225fa5c5562043746289ea913fe16830243c1f98a340b2ae9fd8b7c215140f2dcaa46,Extracted from 00645530059297.pdf.exe; mime: application/x-dosexec
+2025-01-23,Payload delivery,filename|ssdeep,Captive.dll|1536:s8qD2a+h4Y5p1sY2lHND6TLBIMTF2BEW1:42pi41sY2lHND6TLCMTF2BEW1,Extracted from 00645530059297.pdf.exe; mime: application/x-dosexec
+2025-01-23,Payload delivery,filename|imphash,Montero.dll|dae02f32a21e03ce65412f6e56942daa,Extracted from 00645530059297.pdf.exe; mime: application/x-dosexec
+2025-01-23,Payload delivery,filename|md5,Montero.dll|4c4f64cc46164b04c6d17f4663744da0,Extracted from 00645530059297.pdf.exe; mime: application/x-dosexec
+2025-01-23,Payload delivery,filename|sha1,Montero.dll|e3edb0f720526f0e78983ff5cc6a71a1dded72e5,Extracted from 00645530059297.pdf.exe; mime: application/x-dosexec
+2025-01-23,Payload delivery,filename|sha256,Montero.dll|ea3f62bcace7731294685361d97ebb86e526664c6cd5443f064fe5b42868ff98,Extracted from 00645530059297.pdf.exe; mime: application/x-dosexec
+2025-01-23,Payload delivery,filename|sha512,Montero.dll|a650a3a4c36d4f739d9ff01cf55ea8e3c5598ed532e5f5068c998dddd3f42593ca8bac129ea4dfe59e400a1c1dcd564c7c64b7636f6987e02869c448aa43e28a,Extracted from 00645530059297.pdf.exe; mime: application/x-dosexec
+2025-01-23,Payload delivery,filename|ssdeep,Montero.dll|12288:9BZZxoQtN+PxAMikGq2+53bg+dz/+LXEG9IdDy90Dq/:9B+QIqEtgO+L0mIdG0D,Extracted from 00645530059297.pdf.exe; mime: application/x-dosexec
+2025-01-23,Network activity,hostname|port,meme.linkpc.net|2345,Source: Network activity from remcos.exe; C2
+2025-01-23,Payload delivery,filename|imphash,remcos.exe|5d354883fe6f15fcf48045037a99fb7a,Extracted from 00645530059297.pdf.exe; mime: application/x-dosexec
+2025-01-23,Payload delivery,filename|md5,remcos.exe|26f6bceb8828b47a692162b0c35b9e1a,Extracted from 00645530059297.pdf.exe; mime: application/x-dosexec
+2025-01-23,Payload delivery,filename|sha1,remcos.exe|e48bcfa1e85a5ba183fb22f87803728de1d01393,Extracted from 00645530059297.pdf.exe; mime: application/x-dosexec
+2025-01-23,Payload delivery,filename|sha256,remcos.exe|6c35293514527741ca1f1112025b90a8f81e982302c3f39013abbaa750db9424,Extracted from 00645530059297.pdf.exe; mime: application/x-dosexec
+2025-01-23,Payload delivery,filename|sha512,remcos.exe|992b08bebfe6335a8aa7b4d4837f115bb6cfa04c04ed1ff5e9d7cc470552f2b8eec4a6b12522953f1b89d599cd4329129a699715dd828b09b9db78ab74a7d5fd,Extracted from 00645530059297.pdf.exe; mime: application/x-dosexec
+2025-01-23,Payload delivery,filename|ssdeep,remcos.exe|12288:umnk7iLJbpIpiRL6I2WhSKQ9ZsfZQSAn9:WiLJbpI7I2WhQqZ7A9,Extracted from 00645530059297.pdf.exe; mime: application/x-dosexec

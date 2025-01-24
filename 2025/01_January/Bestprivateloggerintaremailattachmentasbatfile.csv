@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Best private logger in .tar email attachment as .bat file
+| UUID: 5bf521c2-104c-4935-9dce-3d0d5285e886
+| Date: 2025-01-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-21,Network activity,email,remiset@remisat.com.uy,Receiver
+2025-01-21,Network activity,email,vimlesh.kumar@aldexfiji.com,Sender
+2025-01-21,Network activity,domain,mail.aldexfiji.com,Server
+2025-01-21,Network activity,url,http://api.telegram.org/bot7683578727:AAGHv8F-LWikLvCw3KuFjIg0jf8AdOWe7aI,Telegram API bot token
+2025-01-21,Payload delivery,malware-sample,Izvod Placila_SID_Banka.pdf.tar|6a8adf3bbb63d5022cb7144d0f05447a,
+2025-01-21,Payload delivery,filename,Izvod Placila_SID_Banka.pdf.tar,
+2025-01-21,Payload delivery,md5,6a8adf3bbb63d5022cb7144d0f05447a,
+2025-01-21,Payload delivery,sha1,b73c9785300e0b44a5f030c4585bb78ed6c0dd02,
+2025-01-21,Payload delivery,sha256,a264baaea1c1c917833f24596411175b62ec0ef399270984367ef125a75337eb,
+2025-01-21,Other,size-in-bytes,200704,
+2025-01-21,Payload delivery,malware-sample,Izvod Placila_SID_Banka.pdf.bat|fb7d0f035312bb487f147cd5c888c1a2,
+2025-01-21,Payload delivery,filename,Izvod Placila_SID_Banka.pdf.bat,
+2025-01-21,Payload delivery,md5,fb7d0f035312bb487f147cd5c888c1a2,
+2025-01-21,Payload delivery,sha1,174804a56101d9c1444fe88d4be88ee7ae5080c4,
+2025-01-21,Payload delivery,sha256,d4824183dfc88c15721c49bb2a17097c7a7495ee9b954d9cc2b777071679082c,
+2025-01-21,Other,size-in-bytes,198831,

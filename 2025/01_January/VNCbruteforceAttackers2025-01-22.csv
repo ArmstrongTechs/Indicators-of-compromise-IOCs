@@ -1,12 +1,13 @@
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
-| Title: Scam URL findings
-| UUID: a7910ca7-2bc2-49ad-95bb-2fbc1dfbf727
-| Date: 2025-01-23
+| Title: VNC bruteforce Attackers [2025-01-22]
+| UUID: 6acf2555-6a5e-4497-b339-611c4bce1fb5
+| Date: 2025-01-22
 "| Author: Armstrong Techs, Research Lab"
 | References: https://www.armstrongtechs.com/
 | TLP:CLEAR
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
 
 Date,Category,Type,Value,Comment
-2025-01-24,Network activity,url,https://get-hiloi.com/hiloi/product/?l=,Scam website
-2025-01-24,External analysis,attachment,screenshot.png,
+2025-01-23,Network activity,ip-src,89.201.145.194,Source: alienvault
+2025-01-23,Network activity,ip-src,111.125.76.35,Source: alienvault
+2025-01-23,Network activity,ip-src,185.73.125.23,Source: alienvault

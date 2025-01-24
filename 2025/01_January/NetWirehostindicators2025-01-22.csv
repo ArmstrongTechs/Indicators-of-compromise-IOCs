@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: NetWire host indicators [2025-01-22]
+| UUID: f88aed17-a03e-4135-b101-3d6cc25d5621
+| Date: 2025-01-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-22,Payload installation,filename,5360EF1E31488F58A10481E97BC99189.exe,Source: MalwareBazaar
+2025-01-22,Payload installation,md5,5360ef1e31488f58a10481e97bc99189,Source: MalwareBazaar
+2025-01-22,Payload installation,sha1,03a5a885f8cb0c06189768515763b764c2cc14ee,Source: MalwareBazaar
+2025-01-22,Payload installation,sha256,55230c307898ecf9cde4abe61d12f60188fe68572440e28948dbf8e9b40ee905,Source: MalwareBazaar

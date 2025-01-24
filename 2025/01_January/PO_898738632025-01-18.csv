@@ -1,0 +1,44 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: PO#_89873863 (2025-01-18)
+| UUID: ada99e87-ce6a-4042-94c3-a1cba1e7b466
+| Date: 2025-01-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-20,Payload delivery,filename,PO#_89873863.Tar,
+2025-01-20,Other,size-in-bytes,69351,
+2025-01-20,Other,float,7.9970036061363,
+2025-01-20,Payload delivery,md5,3b286d9f2776760f32c6aebd090eaa2f,
+2025-01-20,Payload delivery,sha1,4ffcba7b5e08e498fa918f54d80f7cd791f8074a,
+2025-01-20,Payload delivery,sha256,864f59f88d23bb78bcc361d7880e7cc7b2732689496335f036b1fe7f8c5268db,
+2025-01-20,Payload delivery,sha512,efdd490c8d249300bfecde25412a392c83903d701895c251232e8c4bc4f76ee04263a240807e668507480c89722fbd81b36734e9641115c7becd4281c2918130,
+2025-01-20,Payload delivery,malware-sample,PO#_89873863.Tar|3b286d9f2776760f32c6aebd090eaa2f,
+2025-01-20,Artifacts dropped,mime-type,application/x-rar,
+2025-01-20,Payload delivery,ssdeep,1536:DnlTfeKZtyz+ND/bOaYNGbsOoaIcJyUHXV5afNHbG0/arg:DnljZtpLY8QXvcJ9XV5U96jrg,
+2025-01-20,Payload delivery,filename,PO#_89873863.chm,
+2025-01-20,Other,size-in-bytes,77079,
+2025-01-20,Other,float,7.6388686318189,
+2025-01-20,Payload delivery,md5,0e7a4e127728e1e48a95c1928606c0af,
+2025-01-20,Payload delivery,sha1,ec2a102bdda50542f50d4f64f71c48bb9ffea693,
+2025-01-20,Payload delivery,sha256,6f11bddb792856673d09d12e15662d70fa98d16da50d28b21aba4873b6c75fc9,
+2025-01-20,Payload delivery,sha512,7edc1f22041efb93b28e8bfcf9762d3b623f85f43e0bbec32353156e536551be8484394ee8250c3844099ae73bba664acd780c71efa5cc3c3b0748b5539b9c2a,
+2025-01-20,Payload delivery,malware-sample,PO#_89873863.chm|0e7a4e127728e1e48a95c1928606c0af,
+2025-01-20,Artifacts dropped,mime-type,application/vnd.ms-htmlhelp,
+2025-01-20,Payload delivery,ssdeep,1536:d4bv2j4YkkT/O1Kr426/wtN7NctHKfTKPG4vWl/Mf9ZViM59gp/:SbqoL1C4ytNMqfmPGd69/C5,
+2025-01-20,External analysis,text,PO#_89873863.chm,
+2025-01-20,External analysis,link,https://www.virustotal.com/gui/file/6f11bddb792856673d09d12e15662d70fa98d16da50d28b21aba4873b6c75fc9/details,
+2025-01-20,External analysis,text,19/60,
+2025-01-20,Other,datetime,2025-01-18T13:33:58.000000+0000,
+2025-01-20,Other,datetime,2025-01-18T13:33:58.000000+0000,
+2025-01-20,Payload delivery,email-src,dghr@dghr.gov.ae,
+2025-01-20,Payload delivery,email-src-display-name,SRB International Pvt. Ltd,
+2025-01-20,Payload delivery,email-src,dghr@dghr.gov.ae,
+2025-01-20,External analysis,attachment,Screenshot 2025-01-20 071747.png,
+2025-01-20,Payload delivery,email-subject,PO#_89873863,
+2025-01-20,Payload delivery,email-attachment,PO#_89873863.Tar,
+2025-01-20,Network activity,ip-src,69.16.157.245,
+2025-01-20,Network activity,hostname,69-16-157-245.lin.as62651.net,
+2025-01-20,Network activity,ip-src,69.16.157.245,

@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Nanocore host indicators [2025-01-22]
+| UUID: ad19ae63-62b7-4072-a156-7bce9a514952
+| Date: 2025-01-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-22,Payload installation,filename,MSystem32.exe,Source: MalwareBazaar
+2025-01-22,Payload installation,md5,0b9c6adaad6b250ad72923c2014b44b0,Source: MalwareBazaar
+2025-01-22,Payload installation,sha1,7b9f82bef71e2d4ddfc258c2d1b7e7c5f76547fe,Source: MalwareBazaar
+2025-01-22,Payload installation,sha256,1a9dc2fbfe2257278e6452872cdbd18c50bf5c7142dd04c772f1633a7f20fd0d,Source: MalwareBazaar

@@ -1,0 +1,24 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: RemcosRAT from .gz email attachment
+| UUID: e26ca1c4-8521-4e09-8fe9-052380420f59
+| Date: 2025-01-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-20,Payload delivery,malware-sample,REF#1162025.gz|6003402cd6969dc95bfd1697ff193277,
+2025-01-20,Payload delivery,filename,REF#1162025.gz,
+2025-01-20,Payload delivery,md5,6003402cd6969dc95bfd1697ff193277,
+2025-01-20,Payload delivery,sha1,7bb6fb986ea5eea11740b0f864841e9e43973eca,
+2025-01-20,Payload delivery,sha256,373a89c4dcdc7dd2feef59811a206fff128423f08a92077c0c49e49cc060e03a,
+2025-01-20,Other,size-in-bytes,918726,
+2025-01-20,Payload delivery,malware-sample,REF#1162025.exe|207841acef29b5c400c1c5f2dab09a23,
+2025-01-20,Payload delivery,filename,REF#1162025.exe,
+2025-01-20,Payload delivery,md5,207841acef29b5c400c1c5f2dab09a23,
+2025-01-20,Payload delivery,sha1,f114dac28a6aab09d2df8a58c49944f46077e682,
+2025-01-20,Payload delivery,sha256,2bc219aa0c642b6064f467a9abe85ccf81dfd0191377fa4453863384f22b5fa5,
+2025-01-20,Other,size-in-bytes,1038336,
+2025-01-20,Network activity,domain,jandupdate873.webredirect.org,
+2025-01-20,Network activity,port,45688,

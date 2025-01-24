@@ -1,6 +1,6 @@
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
-| Title: Scam URL findings
-| UUID: a7910ca7-2bc2-49ad-95bb-2fbc1dfbf727
+| Title: Redis bruteforce Attackers [2025-01-23]
+| UUID: 05ddfd51-6133-490a-8c62-ad4cff6cf551
 | Date: 2025-01-23
 "| Author: Armstrong Techs, Research Lab"
 | References: https://www.armstrongtechs.com/
@@ -8,5 +8,4 @@
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
 
 Date,Category,Type,Value,Comment
-2025-01-24,Network activity,url,https://get-hiloi.com/hiloi/product/?l=,Scam website
-2025-01-24,External analysis,attachment,screenshot.png,
+2025-01-24,Network activity,ip-src,20.225.3.121,Source: alienvault

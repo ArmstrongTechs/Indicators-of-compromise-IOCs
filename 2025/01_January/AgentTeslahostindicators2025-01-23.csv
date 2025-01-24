@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2025-01-23]
+| UUID: 5ca3b628-c0ce-4868-a147-9d111dc44184
+| Date: 2025-01-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-23,Payload installation,filename,enquiry.exe,Source: MalwareBazaar
+2025-01-23,Payload installation,md5,752c73f34aed5a0e613e46569d7f1e63,Source: MalwareBazaar
+2025-01-23,Payload installation,sha1,bfd8a1b7d1cdadd45ca7c63cd3de9568dec701b5,Source: MalwareBazaar
+2025-01-23,Payload installation,sha256,496183edd167fc6543a66bfc47c6a486eacf7fcafa9149d6d78c590e6d6b3be2,Source: MalwareBazaar
+2025-01-23,Payload installation,filename,FGT9870009000.exe,Source: MalwareBazaar
+2025-01-23,Payload installation,md5,2470914fd04c28516223c5414055b846,Source: MalwareBazaar
+2025-01-23,Payload installation,sha1,fcfbc9fb662ecfb654292739da72817ccfbd721c,Source: MalwareBazaar
+2025-01-23,Payload installation,sha256,996a678b9f2d2434c6da9452449c3f21aac4b5e15ba7ae8c0a5ecd429d287e35,Source: MalwareBazaar

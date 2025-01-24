@@ -1,53 +1,15 @@
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
 | Title: Phishing collection
-| UUID: 56340c83-6c7e-46ee-80df-5bab369bdedc
-| Date: 2025-01-08
+| UUID: d049cd51-8cc2-4957-b78e-707acbbc394d
+| Date: 2025-01-23
 "| Author: Armstrong Techs, Research Lab"
 | References: https://www.armstrongtechs.com/
 | TLP:CLEAR
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
 
 Date,Category,Type,Value,Comment
-2025-01-08,Network activity,url,https://minu-omniva.volcano.com.co,Omniva
-2025-01-08,Network activity,url,http://chanois540.free.fr/customs,Omniva
-2025-01-08,Network activity,domain,minu-omniva.volcano.com.co,Omniva
-2025-01-08,Network activity,domain,chanois540.free.fr,Omniva
-2025-01-08,Network activity,url,http://url1334.yfood.io/ls/click?upn=u001.l5aXuLZme9IMyO7XHG4hhQg1LXPpx4rHF7jCyChf-2F7WTM564tMKIcTbD9m-2F3PwUSH0iUsKWiyrpmSFrGZ7Ujcg-3D-3DpYAw_oZc7ocMo-2F6n2FTaw7-2Brfn4bRw6lemWetFnkCueYVIJaXA-2BQpMSOvK-2BgcKq2dnVTsiMWafiQtkWS7Dn4-2BtMlF5P4t6-2FTypGzS4sqeIBL-2FrVETV7g1tfCRkP9cTq8xk-2BMawrC4IoOKdy-2F10LjdjPLpcvR-2FVezuMfX0Kt8u9IshYr7BIRqKBsQQIFw9lXMooVSq1kcEPcB33HvdK1dq48yeuA-3D-3D,SEB
-2025-01-08,Network activity,url,https://www.google.com/amp/t.co/rg5YlM8jfj,SEB
-2025-01-08,Network activity,url,http://t.co/rg5YlM8jfj,SEB
-2025-01-08,Network activity,url,https://t.co/rg5YlM8jfj,SEB
-2025-01-08,Network activity,url,https://www.google.com/amp/t.co/tGlFPwmdR0,SEB
-2025-01-08,Network activity,url,http://t.co/tGlFPwmdR0,SEB
-2025-01-08,Network activity,url,https://t.co/tGlFPwmdR0,SEB
-2025-01-08,Network activity,url,https://www.google.com/amp/t.co/xMq4k7IulM,SEB
-2025-01-08,Network activity,url,http://t.co/xMq4k7IulM,SEB
-2025-01-08,Network activity,url,https://t.co/xMq4k7IulM,SEB
-2025-01-08,Network activity,url,https://www.google.com/amp/t.co/MpsHrQf4zv,SEB
-2025-01-08,Network activity,url,http://t.co/MpsHrQf4zv,SEB
-2025-01-08,Network activity,url,https://t.co/MpsHrQf4zv,SEB
-2025-01-08,Network activity,url,https://www.google.com/amp/t.co/XHSnLyN06H,SEB
-2025-01-08,Network activity,url,http://t.co/XHSnLyN06H,SEB
-2025-01-08,Network activity,url,https://t.co/XHSnLyN06H,SEB
-2025-01-08,Network activity,url,https://www.google.com/amp/t.co/B2qgY0bbMs,SEB
-2025-01-08,Network activity,url,http://t.co/B2qgY0bbMs,SEB
-2025-01-08,Network activity,url,https://t.co/B2qgY0bbMs,SEB
-2025-01-08,Network activity,url,https://www.google.com/amp/t.co/GnYCNsmCDX,SEB
-2025-01-08,Network activity,url,http://t.co/GnYCNsmCDX,SEB
-2025-01-08,Network activity,url,https://t.co/GnYCNsmCDX,SEB
-2025-01-08,Network activity,url,https://www.google.com/amp/t.co/NXWhTe6MyV,SEB
-2025-01-08,Network activity,url,http://t.co/NXWhTe6MyV,SEB
-2025-01-08,Network activity,url,https://t.co/NXWhTe6MyV,SEB
-2025-01-08,Network activity,url,https://www.google.com/amp/t.co/bBlmjJLF5n,SEB
-2025-01-08,Network activity,url,http://t.co/bBlmjJLF5n,SEB
-2025-01-08,Network activity,url,https://t.co/bBlmjJLF5n,SEB
-2025-01-08,Network activity,url,https://www.google.com/amp/t.co/k5XzGqZW3T,SEB
-2025-01-08,Network activity,url,http://t.co/k5XzGqZW3T,SEB
-2025-01-08,Network activity,url,https://t.co/k5XzGqZW3T,SEB
-2025-01-08,Network activity,url,https://www.google.com/amp/t.co/AJPgp05bdJ,SEB
-2025-01-08,Network activity,url,http://t.co/AJPgp05bdJ,SEB
-2025-01-08,Network activity,url,https://t.co/AJPgp05bdJ,SEB
-2025-01-08,Network activity,url,https://www.google.com/amp/t.co/BGlV1hJuCi,SEB
-2025-01-08,Network activity,url,http://t.co/BGlV1hJuCi,SEB
-2025-01-08,Network activity,url,https://t.co/BGlV1hJuCi,SEB
-2025-01-08,Network activity,url,https://www.deister-jagd.de/wp-includes/et_fonts/,SEB
-2025-01-08,Network activity,domain,www.deister-jagd.de,SEB
+2025-01-23,Network activity,domain,lhv-pank.cleanmethaly.com.sa,LHV
+2025-01-23,Network activity,url,https://lhv-pank.cleanmethaly.com.sa,LHV
+2025-01-23,Network activity,url,https://lhv-ee.aacued.net,LHV
+2025-01-23,Network activity,domain,lhv-ee.aacued.net,LHV
+2025-01-23,Network activity,url,https://manjaariresort.com/oAuth/,LHV

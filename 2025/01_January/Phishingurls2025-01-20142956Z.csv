@@ -1,12 +1,12 @@
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
-| Title: Scam URL findings
-| UUID: a7910ca7-2bc2-49ad-95bb-2fbc1dfbf727
-| Date: 2025-01-23
+| Title: Phishing urls 2025-01-20 14:29:56Z
+| UUID: a93c4387-a845-4176-9815-777a38ba6571
+| Date: 2025-01-20
 "| Author: Armstrong Techs, Research Lab"
 | References: https://www.armstrongtechs.com/
 | TLP:CLEAR
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
 
 Date,Category,Type,Value,Comment
-2025-01-24,Network activity,url,https://get-hiloi.com/hiloi/product/?l=,Scam website
-2025-01-24,External analysis,attachment,screenshot.png,
+2025-01-20,Network activity,url,https://kurjerzy-polska.cloud/payu/bank/millenium/,Phishing site
+2025-01-20,Network activity,url,https://epaka-polska.cloud/payu/bank/millenium/,Phishing site

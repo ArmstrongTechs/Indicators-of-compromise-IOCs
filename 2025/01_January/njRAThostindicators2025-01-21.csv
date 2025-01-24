@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2025-01-21]
+| UUID: 782fb672-0d16-478e-a8cf-68bd07590686
+| Date: 2025-01-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-21,Payload installation,filename,Server.exe,Source: MalwareBazaar
+2025-01-21,Payload installation,md5,d61b6c8d2031c9c14fd2ca8cac4abbd0,Source: MalwareBazaar
+2025-01-21,Payload installation,sha1,232a655eb7c720a90d30f4f51a3aa4fde319be2b,Source: MalwareBazaar
+2025-01-21,Payload installation,sha256,c50c74721a340dfa457152405bb9fcf9bdd725b321510f8eaf2b23c4a68a6abb,Source: MalwareBazaar
+2025-01-21,Payload installation,filename,Server.exe,Source: MalwareBazaar
+2025-01-21,Payload installation,md5,25443271763910e38d74296d29f48071,Source: MalwareBazaar
+2025-01-21,Payload installation,sha1,269a7dd9ff1d0076a65630715f5bd4600a33bb0d,Source: MalwareBazaar
+2025-01-21,Payload installation,sha256,3bf2449588aaea6f7b7f984af24bd889ee438bb33d9331f5990ef9b6184695e8,Source: MalwareBazaar
+2025-01-21,Payload installation,filename,mod.exe,Source: MalwareBazaar
+2025-01-21,Payload installation,md5,e9987ac76debe4d7c754f30cec95d618,Source: MalwareBazaar
+2025-01-21,Payload installation,sha1,7678e6011456d26f579c7dcdd238ff651cfa4edd,Source: MalwareBazaar
+2025-01-21,Payload installation,sha256,56510920355a5531d174cb55ebe86f4b0d85c748d0e15dd78849a29f0f3763d1,Source: MalwareBazaar
+2025-01-22,Payload installation,filename,0F26A0B93FD42027AD725D9BCF310A38.exe,Source: MalwareBazaar
+2025-01-22,Payload installation,md5,0f26a0b93fd42027ad725d9bcf310a38,Source: MalwareBazaar
+2025-01-22,Payload installation,sha1,ef07893209c2177758d444844b8220b34d995a39,Source: MalwareBazaar
+2025-01-22,Payload installation,sha256,9529683e6579dc09cc61d5f2e5909d922f2bb589586d9c2350642d525924c1c4,Source: MalwareBazaar

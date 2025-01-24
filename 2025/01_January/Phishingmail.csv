@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Phishing mail
+| UUID: eabb6b9c-7977-4586-ad1b-d15334cbdd35
+| Date: 2025-01-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-23,Payload delivery,email-src,noreply@okanga1.com,
+2025-01-23,Network activity,url,https://dpunkass.blob.core.windows.net/$web/Vic.html?sp=r&st=2024-11-20T04:20:53Z&se=2024-12-31T12:20:53Z&spr=https&sv=2022-11-02&sr=b&sig=p%2BhXEl0u7e5BJ75rK%2BLwU9dul1BJLXpiXJNPeWds%2Bt8%3D#hi@hi.hi,"""Phishing URL in email body"""
+2025-01-23,Network activity,url,https://lurstanbit.com/cs/css/vior.html#hi@hi.hi,"""Phishing URL in email body"""
+2025-01-23,Network activity,domain,lurstanbit.com,"""Domain seen in the Phishing Email"""
+2025-01-23,Network activity,domain,dpunkass.blob.core.windows.net,"""Domain seen in the Phishing Email"""
+2025-01-23,Network activity,ip-dst,185.208.156.66,"""IP associated with the phishing domain - https://lurstanbit.com/cs/css/vior.html#hi@hi.hi"""
+2025-01-23,Network activity,domain,okanga1.com,"""Domain seen in the sender email address"""
+2025-01-23,Payload delivery,email-subject,Confirm E-mail,"""Phishing Email Subject"""

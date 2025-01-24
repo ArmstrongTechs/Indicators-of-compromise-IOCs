@@ -1,0 +1,16 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FFR25-01747 [Fraude] [Falsificación]
+| UUID: 422837a7-863c-4ff1-98f0-5b30a7b4e209
+| Date: 2025-01-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-24,External analysis,text,"Como Agencia Nacional de Ciberseguridad (ANCI) informamos del descubrimiento por nuestros especialistas de una nueva página fraudulenta, que suplanta a una empresa, institución, producto o servicio.
+
+Se trata de una nueva página web falsa que suplanta a Sence. ¡No hagas clic!Esto constituye una falsificación de la marca Sence que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2025-01-24,Network activity,ip-src,209.141.44.103,IP sitio falso
+2025-01-24,Payload delivery,url,https://bono.mujerchile.org/,URL sitio falso
+2025-01-24,External analysis,attachment,2025-01-21_11h51_18.png,

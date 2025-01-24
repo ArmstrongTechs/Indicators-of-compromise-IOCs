@@ -1,12 +1,12 @@
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
-| Title: Scam URL findings
-| UUID: a7910ca7-2bc2-49ad-95bb-2fbc1dfbf727
-| Date: 2025-01-23
+| Title: Iranian Hacker Group APT34 Deploys StealHook Backdoor in Gulf Attack
+| UUID: 69967a43-1001-47ad-a325-0bc47a7f4f88
+| Date: 2025-01-22
 "| Author: Armstrong Techs, Research Lab"
 | References: https://www.armstrongtechs.com/
 | TLP:CLEAR
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
 
 Date,Category,Type,Value,Comment
-2025-01-24,Network activity,url,https://get-hiloi.com/hiloi/product/?l=,Scam website
-2025-01-24,External analysis,attachment,screenshot.png,
+2025-01-22,External analysis,vulnerability,CVE-2024-43461,
+2025-01-22,External analysis,vulnerability,CVE-2024-38112,

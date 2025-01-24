@@ -1,0 +1,21 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FFR25-01746 [Fraude] [FalsificaciÃ³n]
+| UUID: ed5f400f-a145-495b-ae91-702ee2b605b1
+| Date: 2025-01-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-21,External analysis,text,"Como Agencia Nacional de Ciberseguridad (ANCI) informamos del descubrimiento por nuestros especialistas de una nueva página fraudulenta, que suplanta a una empresa, institución, producto o servicio.
+
+Se trata de una nueva página web falsa que suplanta a Entel ¡No hagas clic!Esto constituye una falsificación de la marca Entel que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2025-01-21,Network activity,ip-src,104.21.56.112,IP sitio falso
+2025-01-21,Network activity,ip-src,104.21.80.1,IP sitio falso
+2025-01-21,Network activity,ip-src,104.21.86.249,IP sitio falso
+2025-01-21,Payload delivery,url,https://entelecl.top/#/,URL sitio falso
+2025-01-21,Payload delivery,url,https://entelwcl.top/#/,URL sitio falso
+2025-01-21,Payload delivery,url,https://entelycl.top/#/,URL sitio falso
+2025-01-21,Payload delivery,url,wss://netfllx-cdn.top/wss,Conexión wss
+2025-01-21,External analysis,attachment,2025-01-20_12h13_54.png,
