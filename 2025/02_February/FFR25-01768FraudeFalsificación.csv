@@ -1,0 +1,16 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FFR25-01768 [Fraude] [Falsificación]
+| UUID: 7c0271d0-2130-4f1c-9a62-e97b8df18545
+| Date: 2025-02-04
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-05,External analysis,text,"Como Agencia Nacional de Ciberseguridad (ANCI) informamos del descubrimiento por nuestros especialistas de una nueva página fraudulenta, que suplanta a una empresa, institución, producto o servicio.
+
+Se trata de una nueva página web falsa que suplanta a Guess. ¡No hagas clic!Esto constituye una falsificación de la marca e imagen de Guess, lo que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2025-02-05,Network activity,ip-src,165.231.65.204,IP sitio falso
+2025-02-05,Payload delivery,url,https://www.guesschile-cl.com/,URL sitio falso
+2025-02-05,External analysis,attachment,2025-02-04_16h36_32.png,

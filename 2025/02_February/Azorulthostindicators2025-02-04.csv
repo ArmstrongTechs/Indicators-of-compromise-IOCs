@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Azorult host indicators [2025-02-04]
+| UUID: c7e84d50-c379-41fc-9e69-24a19806126b
+| Date: 2025-02-04
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-04,Payload installation,filename,cHSzTDjVl.exe,Source: MalwareBazaar
+2025-02-04,Payload installation,md5,043fe9d1a841d94435f8882125769b0c,Source: MalwareBazaar
+2025-02-04,Payload installation,sha1,f410048ce061a747048dee6166ef001a6448871d,Source: MalwareBazaar
+2025-02-04,Payload installation,sha256,d9f20fbf64170d65d1a1f2fd66a997913cab8ddb1389df8b1fd1e7ae0f1d0b5b,Source: MalwareBazaar

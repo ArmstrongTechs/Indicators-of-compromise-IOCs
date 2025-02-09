@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Nanocore host indicators [2025-02-04]
+| UUID: d3fcec7d-4df9-4931-8af8-b68e3ee0f2d8
+| Date: 2025-02-04
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-04,Payload installation,filename,windriver.exe,Source: MalwareBazaar
+2025-02-04,Payload installation,md5,18b476d37244cb0b435d7b06912e9193,Source: MalwareBazaar
+2025-02-04,Payload installation,sha1,9ccc7e5cc915e0ed3d1158328e56b50f4da694e2,Source: MalwareBazaar
+2025-02-04,Payload installation,sha256,0bbff62a45fc9776575ed143af2d7db332e2781d7e3de56eb3ff48c25d0c7b46,Source: MalwareBazaar
+2025-02-04,Payload installation,filename,discord.exe,Source: MalwareBazaar
+2025-02-04,Payload installation,md5,37eec0ec7f112d4f51ccea83c70e7572,Source: MalwareBazaar
+2025-02-04,Payload installation,sha1,7b75e11de811a3008b85dbaac8ef6d8003e84f81,Source: MalwareBazaar
+2025-02-04,Payload installation,sha256,f068cde1b80e9acc6043f24115c61b71d9badd63535ba1e08f8ea41fc378be67,Source: MalwareBazaar

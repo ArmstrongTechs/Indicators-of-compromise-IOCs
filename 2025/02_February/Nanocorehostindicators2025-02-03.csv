@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Nanocore host indicators [2025-02-03]
+| UUID: 2bf8d2c5-320f-4455-8cfe-75b13df2e96e
+| Date: 2025-02-03
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-03,Payload installation,filename,P I copy.docs.x.exe,Source: MalwareBazaar
+2025-02-03,Payload installation,md5,87e76b3ab65fafd1506f411841c73e94,Source: MalwareBazaar
+2025-02-03,Payload installation,sha1,3810482f5a3187ccf1dbc8ce4fc0752bb7e44c18,Source: MalwareBazaar
+2025-02-03,Payload installation,sha256,e207ac84a52789e4f93b901bdc24a0b9930759d50aab651cc3d5d1f3be7a3e44,Source: MalwareBazaar
+2025-02-03,Payload installation,filename,P I copy.docs.x.zip,Source: MalwareBazaar
+2025-02-03,Payload installation,md5,393f8c5c07414f4ba377334d4346615a,Source: MalwareBazaar
+2025-02-03,Payload installation,sha1,ec98f9df305a2457ca10cf06fc81cfdfbe71ee8d,Source: MalwareBazaar
+2025-02-03,Payload installation,sha256,1a649e1885be114a4140729e822438aa686170685964f8853b391b3ed7d633de,Source: MalwareBazaar

@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2025-02-04]
+| UUID: 969de865-6a50-4719-a88b-eb8364cf83db
+| Date: 2025-02-04
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-04,Payload installation,filename,winX32.exe,Source: MalwareBazaar
+2025-02-04,Payload installation,md5,eee37f6f66eafa13d9555dfc9ccb3805,Source: MalwareBazaar
+2025-02-04,Payload installation,sha1,c9b2dd6b4bd464cb767b5ff1260dc07e223cd0b8,Source: MalwareBazaar
+2025-02-04,Payload installation,sha256,ca569ad2e113c57c5ddeb1770ae4d63f579df3504306097ff8a16b1cb37dcaa9,Source: MalwareBazaar

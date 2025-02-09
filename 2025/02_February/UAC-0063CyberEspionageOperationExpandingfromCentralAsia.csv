@@ -1,0 +1,58 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: UAC-0063: Cyber Espionage Operation Expanding from Central Asia
+| UUID: bb52569e-ddce-445c-8c24-c5f52dfdf9c0
+| Date: 2025-02-04
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-05,Payload delivery,md5,5d7a77efe12971bea8ae26206131fbb0,
+2025-02-05,Payload delivery,md5,3cf8f57bd07fdd8e06b1630a3f27f330,
+2025-02-05,External analysis,link,https://www.bitdefender.com/en-us/blog/businessinsights/uac-0063-cyber-espionage-operation-expanding-from-central-asia,
+2025-02-05,Network activity,domain,cloud-mail.ink,MALDOC C2
+2025-02-05,Network activity,domain,background-services.net,HATVIBE C2
+2025-02-05,Network activity,domain,lookup.ink,HATVIBE C2
+2025-02-05,Network activity,domain,futuresfurnitures.com,
+2025-02-05,Network activity,ip-dst,91.202.5.49,
+2025-02-05,Network activity,domain,automation-embedding.com,
+2025-02-05,Network activity,ip-dst,195.80.150.54,
+2025-02-05,Network activity,domain,tieringservice.com,
+2025-02-05,Network activity,ip-dst,46.183.219.228,
+2025-02-05,Network activity,domain,retaildemo.info,
+2025-02-05,Network activity,ip-dst,185.167.63.42,
+2025-02-05,Network activity,domain,internalsecurity.us,
+2025-02-05,Network activity,ip-dst,212.224.86.69,
+2025-02-05,Network activity,domain,errorreporting.net,
+2025-02-05,Network activity,ip-dst,185.62.56.47,
+2025-02-05,Network activity,domain,enrollmentdm.com,
+2025-02-05,Network activity,ip-dst,185.158.248.198,
+2025-02-05,Network activity,domain,lanmangraphics.com,
+2025-02-05,Network activity,ip-dst,84.32.188.23,
+2025-02-05,Network activity,domain,rss-feed-monitoring.com,
+2025-02-05,Network activity,ip-dst,38.180.87.154,
+2025-02-05,Network activity,domain,underwearshopfor.com,
+2025-02-05,Network activity,ip-dst,91.237.124.142,
+2025-02-05,Payload delivery,md5,bd7d98bc785beff4f4e5f7d8fc1ac2b4,
+2025-02-05,Payload delivery,filename,%COMMON\_APPDATA%\programs\base\_sql.py,
+2025-02-05,Payload delivery,md5,da6d60f86a6c38127260e29fa91c1c8a,
+2025-02-05,Payload delivery,filename,%LOCALAPPDATA%\programs\onedrive\crashreporting.py,
+2025-02-05,Payload delivery,md5,2e91803687463201792ca7514fca07fa,
+2025-02-05,Payload delivery,filename,%COMMON\_APPDATA%\python\tools\scripts\help.py,
+2025-02-05,Payload delivery,md5,b657d46d69e24b3607a81cacc486e384,
+2025-02-05,Payload delivery,filename,%COMMON\_APPDATA%\python\tools\scripts\findcolor.py,
+2025-02-05,Payload delivery,md5,c1e4340ebe234478a410f757b18a128c,
+2025-02-05,Payload delivery,filename,%LOCALAPPDATA%\Network\AccessProtection.hta,
+2025-02-05,Payload delivery,md5,8f7dab01610b53398a296192ee600905,
+2025-02-05,Payload delivery,filename,%COMMON\_APPDATA%\python\aiopyfix.cp37-win32.pyd,
+2025-02-05,Payload delivery,md5,363f000702504ab19652dde2fde800e8,
+2025-02-05,Payload delivery,filename,%COMMON\_APPDATA%\python\tools\scripts\aiopyfix.py,
+2025-02-05,Payload delivery,md5,10791a644da7d95ac4884872d8fa576d,
+2025-02-05,Payload delivery,filename,%LOCALAPPDATA%\verifiedpublisher\certstorecheck.hta,
+2025-02-05,Payload delivery,md5,c3288a9d7fe494ae85a70af9f84e4d02,
+2025-02-05,Payload delivery,filename,%COMMON\_APPDATA%\python\lib\mac\synchronizewintime.py,
+2025-02-05,Payload delivery,md5,fdf7da11d37ba888fa7078d0f32fdd08,
+2025-02-05,Payload delivery,filename,%COMMON\_APPDATA%\programs\diagsvc.exe,
+2025-02-05,Payload delivery,md5,99d1de711a79eee936cde1ee58bd9adf,
+2025-02-05,Payload delivery,filename,%COMMON\_APPDATA%\drivers\slmgr.vbe,

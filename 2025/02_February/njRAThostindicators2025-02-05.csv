@@ -1,0 +1,25 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT host indicators [2025-02-05]
+| UUID: 09c6ffbf-3dc4-4cb4-a083-acebde2f33b1
+| Date: 2025-02-05
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-05,Payload installation,filename,am.exe,Source: MalwareBazaar
+2025-02-05,Payload installation,md5,59b40a406af1b307f204b246371db9bf,Source: MalwareBazaar
+2025-02-05,Payload installation,sha1,8448937d6dcd4868082a2e09fd6ff582d9c73c70,Source: MalwareBazaar
+2025-02-05,Payload installation,sha256,5f1eaaa7781758b4830a2c576234d1687f95c1b058b48d833a4d71f2fa970d6b,Source: MalwareBazaar
+2025-02-05,Payload installation,filename,2561dc1287489e9ef913effe52a90a69.exe,Source: MalwareBazaar
+2025-02-05,Payload installation,md5,2561dc1287489e9ef913effe52a90a69,Source: MalwareBazaar
+2025-02-05,Payload installation,sha1,74b6c4e170ac9c6a4a7dba11d8aff3fa5508108f,Source: MalwareBazaar
+2025-02-05,Payload installation,sha256,f78d7407022b70ca8daf13b801a37befd4a3d1d9c42ace0852f7af04f3daf9f4,Source: MalwareBazaar
+2025-02-06,Payload installation,filename,461fdcdb19845c43f5b6e7539071b752a07b272cf50ab.exe,Source: MalwareBazaar
+2025-02-06,Payload installation,md5,0956d30facdbb958dabe6d13e751976f,Source: MalwareBazaar
+2025-02-06,Payload installation,sha1,80cd8d27d451f221c58541a68566d49463d97aeb,Source: MalwareBazaar
+2025-02-06,Payload installation,sha256,461fdcdb19845c43f5b6e7539071b752a07b272cf50ab0546302ccd036571e8c,Source: MalwareBazaar
+2025-02-06,Payload installation,filename,43f8d95b14a04307b1a1455981ade506.exe,Source: MalwareBazaar
+2025-02-06,Payload installation,md5,43f8d95b14a04307b1a1455981ade506,Source: MalwareBazaar
+2025-02-06,Payload installation,sha256,45a70728e0d5c32ab6b1c3b4ddd0a6b1ec2e62c9cb3cc3f8ef1f4eabb6ace928,Source: MalwareBazaar

@@ -1,0 +1,31 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: VIPKeylogger in email (.zip) attachment
+| UUID: 50358f0e-4dc3-491c-9a51-9b530d0c1387
+| Date: 2025-02-03
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-04,Network activity,url,http://varders.kozow.com:8081,
+2025-02-04,Network activity,url,http://aborters.duckdns.org:8081,
+2025-02-04,Network activity,url,http://anotherarmy.dns.army:8081,
+2025-02-04,Network activity,ip-dst,89.208.29.130,
+2025-02-04,Network activity,ip-dst,69.55.5.249,
+2025-02-04,Network activity,ip-dst,141.226.236.91,
+2025-02-04,Network activity,ip-dst,3.23.155.57,
+2025-02-04,Network activity,user-agent,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR1.0.3705;),
+2025-02-04,Network activity,url,http://51.38.247.67:8081/_send_.php,
+2025-02-04,Payload delivery,malware-sample,Enquiry TC5332details.zip|5cd1fd71713426bc9e209534399c5295,
+2025-02-04,Payload delivery,filename,Enquiry TC5332details.zip,
+2025-02-04,Payload delivery,md5,5cd1fd71713426bc9e209534399c5295,
+2025-02-04,Payload delivery,sha1,a1f44cf43adc8f50ca8fd772ad4581fb9712510b,
+2025-02-04,Payload delivery,sha256,8388218c77c3fb62f0594a7d910b446d8823a1702b74c648ab928f2feafc8ada,
+2025-02-04,Other,size-in-bytes,710782,
+2025-02-04,Payload delivery,malware-sample,Enquiry TC5332details.exe|af013745e2dd375f62b4a8b9255a421b,
+2025-02-04,Payload delivery,filename,Enquiry TC5332details.exe,
+2025-02-04,Payload delivery,md5,af013745e2dd375f62b4a8b9255a421b,
+2025-02-04,Payload delivery,sha1,d4fe58f587c027ab817477e5a421f382ae9b72e6,
+2025-02-04,Payload delivery,sha256,8e2bc2a8f06af98cbd69aa7343c85b2c1bafde789a90a83907b3e6428bcea9c9,
+2025-02-04,Other,size-in-bytes,1143808,

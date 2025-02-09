@@ -1,0 +1,38 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Lynx Ransomware
+| UUID: 425abab1-6be3-4de5-82fc-144361b3402a
+| Date: 2025-02-06
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-07,Payload delivery,sha256,80908a51e403efd47b1d3689c3fb9447d3fb962d691d856b8b97581eefc0c441,
+2025-02-07,Payload delivery,sha256,80fd105d0685b85c1be5d5d3af63608d2ec91b186d4c591416934fe454770ca1,
+2025-02-07,Payload delivery,sha256,3e68e5742f998c5ba34c2130b2d89ca2a6c048feb6474bc81ff000e1eaed044e,
+2025-02-07,Payload delivery,sha256,97c8f54d70e300c7d7e973c4b211da3c64c0f1c95770f663e04e35421dfb2ba0,
+2025-02-07,Payload delivery,sha256,468e3c2cb5b0bbc3004bbf5272f4ece5c979625f7623e6d71af5dc0929b89d6a,
+2025-02-07,Payload delivery,sha256,432f549e9a2a76237133e9fe9b11fbb3d1a7e09904db5ccace29918e948529c6,
+2025-02-07,Payload delivery,sha256,4e5b9ab271a1409be300e5f3fd90f934f317116f30b40eddc82a4dfd18366412,
+2025-02-07,Payload delivery,sha256,9a47ab27d50df1faba1dc5777bdcfff576524424bc4a3364d33267bbcf8a3896,
+2025-02-07,Payload delivery,sha256,31de5a766dca4eaae7b69f807ec06ae14d2ac48100e06a30e17cc9acccfd5193,
+2025-02-07,Payload delivery,sha256,589ff3a5741336fa7c98dbcef4e8aecea347ea0f349b9949c6a5f6cd9d821a23,
+2025-02-07,Payload delivery,sha256,d5ca3e0e25d768769e4afda209aca1f563768dae79571a38e3070428f8adf031,
+2025-02-07,Payload delivery,sha256,85699c7180ad77f2ede0b15862bb7b51ad9df0478ed394866ac7fa9362bf5683,
+2025-02-07,Payload delivery,sha256,b378b7ef0f906358eec595777a50f9bb5cc7bb6635e0f031d65b818a26bdc4ee,
+2025-02-07,Payload delivery,sha256,ecbfea3e7869166dd418f15387bc33ce46f2c72168f571071916b5054d7f6e49,
+2025-02-07,Payload delivery,sha256,571f5de9dd0d509ed7e5242b9b7473c2b2cbb36ba64d38b32122a0a337d6cf8b,
+2025-02-07,Payload delivery,sha256,eaa0e773eb593b0046452f420b6db8a47178c09e6db0fa68f6a2d42c3f48e3bc,
+2025-02-07,Network activity,url,http://lynxbllrfr5262yvbgtqoyq76s7mpztcqkv6tjjxgpilpma7nyoeohyd.onion/disclosures,
+2025-02-07,Network activity,url,http://lynxblog.net/,
+2025-02-07,Network activity,url,http://lynxblogco7r37jt7p5wrmfxzqze7ghxw6rihzkqc455qluacwotciyd.onion/,
+2025-02-07,Network activity,url,http://lynxblogijy4jfoblgix2klxmkbgee4leoeuge7qt4fpfkj4zbi2sjyd.onion/,
+2025-02-07,Network activity,url,http://lynxblogmx3rbiwg3rpj4nds25hjsnrwkpxt5gaznetfikz4gz2csyad.onion/,
+2025-02-07,Network activity,url,http://lynxblogoxllth4b46cfwlop5pfj4s7dyv37yuy7qn2ftan6gd72hsad.onion/,
+2025-02-07,Network activity,url,http://lynxblogtwatfsrwj3oatpejwxk5bngqcd5f7s26iskagfu7ouaomjad.onion/,
+2025-02-07,Network activity,url,http://lynxblogxstgzsarfyk2pvhdv45igghb4zmthnzmsipzeoduruz3xwqd.onion/,
+2025-02-07,Network activity,url,http://lynxblogxutufossaeawlij3j3uikaloll5ko6grzhkwdclrjngrfoid.onion/,
+2025-02-07,Network activity,url,http://lynxch2k5xi35j7hlbmwl7d6u2oz4vp2wqp6qkwol624cod3d6iqiyqd.onion/login,
+2025-02-07,Network activity,url,http://lynxchat.net/login,
+2025-02-07,Network activity,url,http://lynxchatbykq2vycvyrtjqb3yuj4ze2wvdubzr2u6b632trwvdbsgmyd.onion/login,

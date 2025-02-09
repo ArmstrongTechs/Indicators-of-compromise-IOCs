@@ -1,0 +1,71 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2025-02-06]
+| UUID: 2e8f6b5a-3625-4481-a105-586d21f35817
+| Date: 2025-02-06
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-06,Payload installation,filename,d9433faddcaca526b26f713e27e2505f.exe,Source: MalwareBazaar
+2025-02-06,Payload installation,md5,d9433faddcaca526b26f713e27e2505f,Source: MalwareBazaar
+2025-02-06,Payload installation,sha1,10adee86c8bab5bbe5c6100d7a4f1b479813e9b2,Source: MalwareBazaar
+2025-02-06,Payload installation,sha256,3cc81a067f9cc55dfa9c727e0d75b775d6f920fe245cbdf134fe9a1933a83006,Source: MalwareBazaar
+2025-02-06,Payload installation,filename,DHL_Delivery_Notification_Scheduled_Package_Arrival_February_12_2025_Tracking_Information.pdf.exe,Source: MalwareBazaar
+2025-02-06,Payload installation,md5,d71707dafa345c6635af407e975213a4,Source: MalwareBazaar
+2025-02-06,Payload installation,sha1,0908906eda7350f1d189752a880f169bd703a002,Source: MalwareBazaar
+2025-02-06,Payload installation,sha256,b1d51bc9c016f36486682366f537633a12b95e16e68d7fc184f7a9bf9a48a811,Source: MalwareBazaar
+2025-02-06,Payload installation,filename,ESTADO DE CUENTA DHL - 695026972.exe,Source: MalwareBazaar
+2025-02-06,Payload installation,md5,6760c089cb5c1c301efed9c6591b03b4,Source: MalwareBazaar
+2025-02-06,Payload installation,sha1,1cefa1def59b81a3204c76bd0c6d16ef4ac133aa,Source: MalwareBazaar
+2025-02-06,Payload installation,sha256,8051ece7900ddc446f774db64b71f9f3e4306237cd7c78df3cf02e5a79e544b7,Source: MalwareBazaar
+2025-02-06,Payload installation,filename,Quote GVSE24-00815.bat,Source: MalwareBazaar
+2025-02-06,Payload installation,md5,fd6f3c8f9e6c312848a47f5eecfe0e7e,Source: MalwareBazaar
+2025-02-06,Payload installation,sha1,7bf19cc89d7286e0c96bc3c50a27b170804a9dc5,Source: MalwareBazaar
+2025-02-06,Payload installation,sha256,6d230a2ab81a77b630dfd88b41120f44f02a96a2de01b155e25e90a09cf3cd7a,Source: MalwareBazaar
+2025-02-06,Payload installation,filename,5021d9ce50b55cd91d7b54f65618aefb5e1c8163910f3e24a05ec3c3febb6d55.exe,Source: MalwareBazaar
+2025-02-06,Payload installation,md5,0db7f6c2caa373dcc11f9246659353ed,Source: MalwareBazaar
+2025-02-06,Payload installation,sha1,43a269da2a8a32586c8853be4669ea6284c645bc,Source: MalwareBazaar
+2025-02-06,Payload installation,sha256,5021d9ce50b55cd91d7b54f65618aefb5e1c8163910f3e24a05ec3c3febb6d55,Source: MalwareBazaar
+2025-02-06,Payload installation,filename,Payment Receipt 0002994040595069600079000079700000.exe,Source: MalwareBazaar
+2025-02-06,Payload installation,filename,DHL_Delivery_Notification_Scheduled_Package_Arrival_February_12_2025_Tracking_Information.pdf.img,Source: MalwareBazaar
+2025-02-06,Payload installation,md5,4f32bd40084d2bfee3ecb06f88609030,Source: MalwareBazaar
+2025-02-06,Payload installation,sha1,7e17aebe170caa8ceb729fec3e461f7c5cd07d81,Source: MalwareBazaar
+2025-02-06,Payload installation,sha256,a9cea282671e4394ddb9231a8e61a186eba69af51591d317f414070b44bc5f44,Source: MalwareBazaar
+2025-02-06,Payload installation,filename,DHL_Delivery_Notification_Scheduled_Package_Arrival_February_12_2025_Tracking_Information.pdf.exe,Source: MalwareBazaar
+2025-02-06,Payload installation,md5,d2c361ef9601a8a9ed36657ce47eaf28,Source: MalwareBazaar
+2025-02-06,Payload installation,sha1,b3a7185975123157a9a433b55cfa0e9a920c631e,Source: MalwareBazaar
+2025-02-06,Payload installation,sha256,5a673c2139bee9e5deec79e98e0baf1026af44a5a02487d474de76d16b7eddc8,Source: MalwareBazaar
+2025-02-06,Payload installation,filename,mkpqinNsdyZVA15.exe,Source: MalwareBazaar
+2025-02-06,Payload installation,md5,f62d1961cd64ed1d99fb35129798b5a8,Source: MalwareBazaar
+2025-02-06,Payload installation,sha1,4e703101ed8a3ca458b8d9ce734a8586dc4c2e3e,Source: MalwareBazaar
+2025-02-06,Payload installation,sha256,3f700fd41c6cca501d50cc2f62afd8e0d951efc1a918aa65ab3e84ee563ff1d6,Source: MalwareBazaar
+2025-02-06,Payload installation,filename,0002230424.PDF.rar,Source: MalwareBazaar
+2025-02-06,Payload installation,md5,eb456296603c6698599a8fa9e9fe1981,Source: MalwareBazaar
+2025-02-06,Payload installation,sha1,a7106784610bd906e9f5b6ea45ec4b9b76839258,Source: MalwareBazaar
+2025-02-06,Payload installation,sha256,b63b505b768508a72c04a1f59bd6315f556b3e5907461af4e94be6ef6cc280ba,Source: MalwareBazaar
+2025-02-06,Payload installation,filename,JKTIR00826101_ppwk.pdf.rar,Source: MalwareBazaar
+2025-02-06,Payload installation,md5,019e95b1b828e37e932dcf57ef136170,Source: MalwareBazaar
+2025-02-06,Payload installation,sha1,921750eae32df6d637c444baa026184c61f7173a,Source: MalwareBazaar
+2025-02-06,Payload installation,sha256,5a1698a75e1fd8fe448ad5b13921978a3c136d36ba396f7ace768f64f93c6efd,Source: MalwareBazaar
+2025-02-06,Payload installation,filename,muRbZuhoUoyw5l8.exe,Source: MalwareBazaar
+2025-02-06,Payload installation,md5,1c81a5e8355770ccd41278977c7033e4,Source: MalwareBazaar
+2025-02-06,Payload installation,sha1,ec56c83cab5be150bbd9ab2ab19bb4cdcedffeed,Source: MalwareBazaar
+2025-02-06,Payload installation,sha256,d89ea6a01347b82f963ed7960583e5d76c6a07e91852fae83bc290e0f64a06b2,Source: MalwareBazaar
+2025-02-06,Payload installation,filename,0001230424.rar,Source: MalwareBazaar
+2025-02-06,Payload installation,md5,aa9164a4c07ff6d41f48434801d409d6,Source: MalwareBazaar
+2025-02-06,Payload installation,sha1,eba3dbf6b3ec9976afd92c0249e4e7bc66c39f5c,Source: MalwareBazaar
+2025-02-06,Payload installation,sha256,0045f6576d0b5c093458db764dcc0134930c3caf58db6df1aaeca2a06893163d,Source: MalwareBazaar
+2025-02-06,Payload installation,filename,OC4503585787.7Z,Source: MalwareBazaar
+2025-02-06,Payload installation,md5,711ee2bb3dd24824c6de1c4a5207117f,Source: MalwareBazaar
+2025-02-06,Payload installation,sha1,f6776dd00e6e741515aeae64d907e649fbeadba6,Source: MalwareBazaar
+2025-02-06,Payload installation,sha256,76bb0d8ca660a4f306a98d48bdd0bbd6a1750c8c9d14349199dacebb1def8213,Source: MalwareBazaar
+2025-02-06,Payload installation,filename,OC4503585787.exe,Source: MalwareBazaar
+2025-02-06,Payload installation,md5,24e4466f3dc192a030b7d100a5d25804,Source: MalwareBazaar
+2025-02-06,Payload installation,sha1,d1301d0dc2f4dfd14d3d1c7dc822e7df77887bb2,Source: MalwareBazaar
+2025-02-06,Payload installation,sha256,f11a80123a901473bc7a5dabdd51847e6adbda96280dec8442fd2ef96cce42af,Source: MalwareBazaar
+2025-02-07,Payload installation,filename,DHL_Delivery_Notification_Scheduled_Package_Arrival_February_12_2025_Tracking_Information.pdf.img,Source: MalwareBazaar
+2025-02-07,Payload installation,md5,7361e8d3fef763eda7ae454b525b89a9,Source: MalwareBazaar
+2025-02-07,Payload installation,sha1,7e6de5210091bf10cdd423b7bfde57f404009c09,Source: MalwareBazaar
+2025-02-07,Payload installation,sha256,0e2f23ec4ccf5678a3553c22a9c7db362ebbf0ad8734b247930fd70eaada95fc,Source: MalwareBazaar
