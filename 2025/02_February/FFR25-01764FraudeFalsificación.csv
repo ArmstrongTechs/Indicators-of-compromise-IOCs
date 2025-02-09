@@ -1,0 +1,16 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FFR25-01764 [Fraude] [Falsificación]
+| UUID: 2a019cc6-ec37-41fa-9afd-c93f3db3c1d8
+| Date: 2025-02-04
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-04,External analysis,text,"Como Agencia Nacional de Ciberseguridad (ANCI) informamos del descubrimiento por nuestros especialistas de una nueva página fraudulenta, que suplanta a una empresa, institución, producto o servicio.
+
+Se trata de una nueva página web falsa que suplanta a Banco Galicia. ¡No hagas clic!Esto constituye una falsificación de la marca e imagen de Banco Galicia, lo que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2025-02-04,Network activity,ip-src,186.64.116.180,IP sitio falso
+2025-02-04,Payload delivery,url,https://www.consejociudadpuertocoquimbo.cl/galicia/,URL sitio falso
+2025-02-04,External analysis,attachment,2025-02-04_11h22_04.png,

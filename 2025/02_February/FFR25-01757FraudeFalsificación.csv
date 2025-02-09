@@ -1,0 +1,16 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FFR25-01757 [Fraude] [Falsificación]
+| UUID: 382d1a3b-9c3e-4fff-95c8-aff82852e32e
+| Date: 2025-02-03
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-04,External analysis,text,"Como Agencia Nacional de Ciberseguridad (ANCI) informamos del descubrimiento por nuestros especialistas de una nueva página fraudulenta, que suplanta a una empresa, institución, producto o servicio.
+
+Se trata de una nueva página web falsa que suplanta a Red Wing Shoes. ¡No hagas clic!Esto constituye una falsificación de la marca e imagen de Red Wing, lo que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2025-02-04,Network activity,ip-src,196.247.58.143,IP sitio falso
+2025-02-04,Payload delivery,url,https://www.redwingchile.top/,URL sitio falso
+2025-02-04,External analysis,attachment,2025-02-03_16h45_02.png,

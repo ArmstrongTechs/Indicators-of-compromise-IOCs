@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Ransomware Group Snake host indicators [2025-02-05]
+| UUID: 11e00147-9414-48fd-9900-27e96e2565d4
+| Date: 2025-02-05
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-05,Payload installation,filename,ZAMDOST_230-ZT-2025_Oryginał_4_pdf__________________________________.img,Source: MalwareBazaar
+2025-02-05,Payload installation,md5,851a5ffac3ee2da08557108239f90fab,Source: MalwareBazaar
+2025-02-05,Payload installation,sha1,fc08f3810ffbcfb11a649700679818c16ea19a0c,Source: MalwareBazaar
+2025-02-05,Payload installation,sha256,b106f5b826b7d98a5b24487bc596827451b91fbb874d8feda6cfe7adda4331ac,Source: MalwareBazaar

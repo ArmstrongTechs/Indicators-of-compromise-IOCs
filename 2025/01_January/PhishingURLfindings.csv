@@ -1,12 +1,12 @@
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
 | Title: Phishing URL findings
-| UUID: fd3b1c76-6272-46cc-a119-726f761fedbd
-| Date: 2025-01-07
+| UUID: f7b5e788-053f-4642-83e2-0cd43270184a
+| Date: 2025-01-23
 "| Author: Armstrong Techs, Research Lab"
 | References: https://www.armstrongtechs.com/
 | TLP:CLEAR
 +*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
 
 Date,Category,Type,Value,Comment
-2025-01-07,Network activity,url,https://vinted-es.get-74281.info/B0583948?m=g,Source URL
-2025-01-07,Network activity,domain,vinted-es.get-74281.info,Source Domain
+2025-01-24,Network activity,url,https://vinted.confirm1874238.info/cash70634141,Source URL
+2025-01-24,Network activity,domain,vinted.confirm1874238.info,Source Domain

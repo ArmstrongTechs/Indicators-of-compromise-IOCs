@@ -1,0 +1,20 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: HexaLocker Ransomware Version 2 Integrates Data Theft with File Encryption
+| UUID: 3078cb68-b97d-4929-801c-3f59ffee76d6
+| Date: 2025-01-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-20,Network activity,url,https://hexalocker.xyz/SGDYSRE67T43TVD6E5RD.exe,
+2025-01-20,Network activity,url,https://hexalocker.xyz/upload.php,
+2025-01-20,Network activity,url,https://hexalocker.xyz/receive.php,
+2025-01-20,Network activity,url,853641.hostingersite.com/index.php,
+2025-01-20,Network activity,url,853641.hostingersite.com/receive.php,
+2025-01-20,Payload delivery,sha224,28c1ec286b178fe06448b25790ae4a0f60ea1647a4bb53fb2ee7de50,
+2025-01-20,Payload delivery,sha224,d0d8df16331b16f9437c0b488d5a89a4c2f09a84dec4da4bc13eab15,
+2025-01-20,Payload delivery,sha224,be759e58413431dbe40d29ea5e399b1ebbfe75847c19a5a8f2610dab,
+2025-01-20,Payload delivery,sha224,87f11be87275147a118544b10396c932dfd7e244cf07826d2707561c,
+2025-01-20,Network activity,url,https://cyble.com/blog/hexalocker-v2-being-proliferated,

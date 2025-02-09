@@ -1,0 +1,16 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Phishing campaign targeting Greece Government
+| UUID: 670e3542-dd82-414d-8c1c-2996d91cb76e
+| Date: 2025-01-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-21,Network activity,url,http://gov-gr.top,
+2025-01-21,Network activity,url,http://gov-gr1.top,
+2025-01-21,Network activity,url,http://gov-gr2.top,
+2025-01-21,Network activity,domain,gov-gr.top,
+2025-01-21,Network activity,domain,gov-gr1.top,
+2025-01-21,Network activity,domain,gov-gr2.top,

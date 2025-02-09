@@ -1,0 +1,23 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Best Privete Logger - Keylogger in email (rar) attachment
+| UUID: 7fe3b9ee-60da-4fb9-865d-dea02ba01f18
+| Date: 2025-02-05
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-06,Network activity,url,https://api.telegram.org/bot7538517632:AAE06sSCYwkHSxWY9ok1rfJkFkFswKpRFhE/sendDocument?chat_id=5998283832,
+2025-02-06,Payload delivery,malware-sample,Singed Contract 04022025.rar|89fb9e8c914cc2c18c10b8f88bac5438,
+2025-02-06,Payload delivery,filename,Singed Contract 04022025.rar,
+2025-02-06,Payload delivery,md5,89fb9e8c914cc2c18c10b8f88bac5438,
+2025-02-06,Payload delivery,sha1,e37df4949987fce0710cb80f1fe63d79ef1765f7,
+2025-02-06,Payload delivery,sha256,a0519ac6b5df9be0e6d1ea2bbf76d91831d0b77b19973fab425657ceb80f29c7,
+2025-02-06,Other,size-in-bytes,455576,
+2025-02-06,Payload delivery,malware-sample,Singed Contract 04022025.exe|3a046809495884bbd9e7cb6bbd7e7fc6,
+2025-02-06,Payload delivery,filename,Singed Contract 04022025.exe,
+2025-02-06,Payload delivery,md5,3a046809495884bbd9e7cb6bbd7e7fc6,
+2025-02-06,Payload delivery,sha1,63e0193c5761f39c57f947ac0a50ad04d6ba94dd,
+2025-02-06,Payload delivery,sha256,9397adc88e5e074b8aaecee34b2f73bcc27db019555c624cfd2adcee6c6b7903,
+2025-02-06,Other,size-in-bytes,958464,

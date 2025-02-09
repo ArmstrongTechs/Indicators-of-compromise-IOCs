@@ -1,0 +1,46 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2025-01-20]
+| UUID: 1845ecfb-3999-44cf-9f4a-c20e6473d424
+| Date: 2025-01-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-20,Payload installation,filename,Documenti di spedizione.gz,Source: MalwareBazaar
+2025-01-20,Payload installation,md5,7314ec0fcc64f0c516e503599587604d,Source: MalwareBazaar
+2025-01-20,Payload installation,sha1,515ef69cd9d0b15c6eb057893d9446c320dadaca,Source: MalwareBazaar
+2025-01-20,Payload installation,sha256,8a81c3cc487383e9f4373e5a89a0ea1a8f376dab654d5f476590a3991a832be1,Source: MalwareBazaar
+2025-01-20,Payload installation,filename,Documenti di spedizione.exe,Source: MalwareBazaar
+2025-01-20,Payload installation,md5,79cb40033e328f61fe68bd76dd67a7b3,Source: MalwareBazaar
+2025-01-20,Payload installation,sha1,a68854ec2481fc2f874e2180dabb155e65c6fbd4,Source: MalwareBazaar
+2025-01-20,Payload installation,sha256,255ddfdf1409d89110925cfa93ba323d1a68b6c0916764169eeea521867816a6,Source: MalwareBazaar
+2025-01-20,Payload installation,filename,Shipping.exe,Source: MalwareBazaar
+2025-01-20,Payload installation,md5,eedbda81d4f3d69ee2798e40a8a5572b,Source: MalwareBazaar
+2025-01-20,Payload installation,sha1,68226fb98f6e93db77d607dcc305716e8a80871d,Source: MalwareBazaar
+2025-01-20,Payload installation,sha256,42c52ed2af4708289cb182a0fd83026691eabc7c4916a3ef0cf8a01b5f890856,Source: MalwareBazaar
+2025-01-20,Payload installation,filename,shipment.exe,Source: MalwareBazaar
+2025-01-20,Payload installation,md5,8f07580bc25a796a5f0b9100d349d0c2,Source: MalwareBazaar
+2025-01-20,Payload installation,sha1,c7c39ff2db999f09d1aaca3bc0f29039d97de49b,Source: MalwareBazaar
+2025-01-20,Payload installation,sha256,e16ed69e1d337d88539ff98cda8d36aabc495db375d68e4f9b86a1843ad8c679,Source: MalwareBazaar
+2025-01-20,Payload installation,filename,PO#4502288712.exe,Source: MalwareBazaar
+2025-01-20,Payload installation,md5,813b425453f7dfea626aa389f639aa4d,Source: MalwareBazaar
+2025-01-20,Payload installation,sha1,d4b70a0235288476c18be713e7763b35bbe726af,Source: MalwareBazaar
+2025-01-20,Payload installation,sha256,1cc991649d6186d487d5ff01fe3d0dee7c9383d5c3b43d814ea353e5d82c7372,Source: MalwareBazaar
+2025-01-20,Payload installation,filename,PO#4502288712.rar,Source: MalwareBazaar
+2025-01-20,Payload installation,md5,52dd2886c2a5698e58955cec8f2b4d37,Source: MalwareBazaar
+2025-01-20,Payload installation,sha1,689c92f0f9178798b21f924e7adad213e6149a8f,Source: MalwareBazaar
+2025-01-20,Payload installation,sha256,fec34fa3a463f732c5197a4d1bb3649ed5f5a84e3d0bdc664849d0033c4954ba,Source: MalwareBazaar
+2025-01-21,Payload installation,filename,PO-Tooling CT240230231 - CTA240714.zip,Source: MalwareBazaar
+2025-01-21,Payload installation,md5,a4ed0dd9d5420374f100741c3293fecd,Source: MalwareBazaar
+2025-01-21,Payload installation,sha1,1de193f4a41c9ec80a013dd01d2d3a37fd03bbcb,Source: MalwareBazaar
+2025-01-21,Payload installation,sha256,0f3ce026b0869cef3ad4f8fbd685e6b841b18455b80bcf1b3844e5574e7ac240,Source: MalwareBazaar
+2025-01-21,Payload installation,filename,PO-Tooling CT240230231 - CTA240714.com,Source: MalwareBazaar
+2025-01-21,Payload installation,md5,1f33b2b038c4d62ef89483a746f86012,Source: MalwareBazaar
+2025-01-21,Payload installation,sha1,c54c6647703964e2dc01f11f44cdcb29a112be90,Source: MalwareBazaar
+2025-01-21,Payload installation,sha256,a4eb8041e9e7013243bed5391a31c3bdd813bcc64f928a8778b80e7ca31778f9,Source: MalwareBazaar
+2025-01-21,Payload installation,filename,Po Tooling CT24023023 CTA240714.exe,Source: MalwareBazaar
+2025-01-21,Payload installation,md5,0ff78cd7bb7650ceae70f16df404c664,Source: MalwareBazaar
+2025-01-21,Payload installation,sha1,512f82194d080f800d339bb9f18e43329bebfac3,Source: MalwareBazaar
+2025-01-21,Payload installation,sha256,c2fdf0438984ccabe7c3c032fa7136fec9859cabf00e83d6a5915649fc7e89bb,Source: MalwareBazaar

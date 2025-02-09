@@ -1,0 +1,31 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook - .NET dropper
+| UUID: e8fb8292-a49d-4d86-acad-dd8506704e62
+| Date: 2025-01-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-23,Network activity,hostname,www.actino.live,
+2025-01-23,Network activity,hostname,www.babyzhibo.net,
+2025-01-23,Network activity,hostname,www.cikolatasampuan.xyz,
+2025-01-23,Network activity,hostname,www.goodmiddleitu.shop,
+2025-01-23,Network activity,hostname,www.mosorehlable.online,
+2025-01-23,Network activity,hostname,www.shopjustsportsly.shop,
+2025-01-23,Network activity,hostname,www.tabo.group,
+2025-01-23,Network activity,hostname,www.thomet.net,
+2025-01-23,Network activity,hostname,www.woodsplace.net,
+2025-01-23,Payload delivery,malware-sample,Payment Advice.zip|7c9027f0ff4c5ba828dc8d178b276610,
+2025-01-23,Payload delivery,filename,Payment Advice.zip,
+2025-01-23,Payload delivery,md5,7c9027f0ff4c5ba828dc8d178b276610,
+2025-01-23,Payload delivery,sha1,cf3a6e831b21fa330f7391e324a1df40736c9d65,
+2025-01-23,Payload delivery,sha256,fd31bd490b85b353a92bb86945a7e7e1af155ed520533af62501002fca869331,
+2025-01-23,Other,size-in-bytes,693413,
+2025-01-23,Payload delivery,malware-sample,Payment Advice.exe|bcca0e8c39c08a52128e8e3ad341a73b,
+2025-01-23,Payload delivery,filename,Payment Advice.exe,
+2025-01-23,Payload delivery,md5,bcca0e8c39c08a52128e8e3ad341a73b,
+2025-01-23,Payload delivery,sha1,0a99904a6254dfae8eb7dd0c7e71aebc2d242029,
+2025-01-23,Payload delivery,sha256,fcbbc6c9a426352d6a329d9a0a055cee18d66ee62835e3d00499e4ca52761c1c,
+2025-01-23,Other,size-in-bytes,809472,

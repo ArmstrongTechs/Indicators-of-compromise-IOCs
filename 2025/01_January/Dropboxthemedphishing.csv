@@ -1,0 +1,16 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Dropbox themed phishing
+| UUID: deceec08-972d-4051-bc5e-8b6d2350144c
+| Date: 2025-01-23
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-23,Payload delivery,email-src,cs4@astech.co.jp,
+2025-01-23,Network activity,ip-dst,154.216.19.97,"""sender IP"""
+2025-01-23,Network activity,url,https://www.dropbox.com/scl/fi/sq15supi7itp5hdoy1g4w/65567-DHL-647765656798860.xlam?rlkey=d35zipd4q2kccf7izpbi6fyb5&st=10y4cd4o&dl=1,"""Dropbox link"""
+2025-01-23,Payload delivery,filename|sha256,65567 DHL 647765656798860.exe|50cff23f0a286810ca6393dc73994241c7fdead9a0879a7c0ffab5f27502cc2e,
+2025-01-23,Payload delivery,filename|sha256,65567 DHL 647765656798860.xlam|144b2945d646bee0f01fb4e26d07b51c69ee1ae83ab69d60e13124f66d67e966,
+2025-01-23,Payload delivery,email-subject,RE SPAM//DHL TRACKING: 765487654,"""subject"""

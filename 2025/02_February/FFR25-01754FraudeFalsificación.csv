@@ -1,0 +1,16 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FFR25-01754 [Fraude] [Falsificación]
+| UUID: 4ef319fe-54e9-4184-aa52-c069797af668
+| Date: 2025-02-03
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-04,External analysis,text,"Como Agencia Nacional de Ciberseguridad (ANCI) informamos del descubrimiento por nuestros especialistas de una nueva página fraudulenta, que suplanta a una empresa, institución, producto o servicio.
+
+Se trata de una nueva página web falsa que suplanta a Lacoste. ¡No hagas clic!Esto constituye una falsificación de la marca e imagen de Lacoste, lo que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2025-02-04,Network activity,ip-src,165.231.154.46,IP sitio falso
+2025-02-04,Payload delivery,url,https://www.lacostechileoutlet.net/,URL sitio falso
+2025-02-04,External analysis,attachment,2025-02-03_16h36_50.png,

@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2025-01-22]
+| UUID: 7b72b824-7d58-41ec-b29d-773413b12bdb
+| Date: 2025-01-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-22,Payload installation,filename,RFQ PC25-1301 Product Specifications_PDF.exe,Source: MalwareBazaar
+2025-01-22,Payload installation,md5,df85a6fea907176063e6dc8ad2888bfb,Source: MalwareBazaar
+2025-01-22,Payload installation,sha1,450837ad62e143afee717c52264e21d253bd2a74,Source: MalwareBazaar
+2025-01-22,Payload installation,sha256,28818006253d45c3dd643095a63892bf730611b9347b8f3b930be3efffa908d8,Source: MalwareBazaar

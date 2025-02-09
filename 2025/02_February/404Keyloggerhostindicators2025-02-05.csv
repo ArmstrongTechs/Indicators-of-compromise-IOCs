@@ -1,0 +1,18 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: 404Keylogger host indicators [2025-02-05]
+| UUID: 78f55c20-2f92-4006-a068-cc6035784393
+| Date: 2025-02-05
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-05,Payload installation,filename,Voicemessage C655VM 250204.pif,Source: MalwareBazaar
+2025-02-05,Payload installation,md5,ae17dbc4a2d92c06aac74d832c8946b5,Source: MalwareBazaar
+2025-02-05,Payload installation,sha1,8ee5874a01ea015eda5b3c478e63d68065891d23,Source: MalwareBazaar
+2025-02-05,Payload installation,sha256,6d7ebc63612ebfeffbfb03e9e728b9b9876562b816d3cb308e69a59d754c3aa5,Source: MalwareBazaar
+2025-02-05,Payload installation,filename,PRRKEHO.1187.85242545.250204.exe,Source: MalwareBazaar
+2025-02-05,Payload installation,md5,b8bc590292f148ff557c23f54a4baa59,Source: MalwareBazaar
+2025-02-05,Payload installation,sha1,c3563a1d1987e5d9cb8d746361183c24aa36ec52,Source: MalwareBazaar
+2025-02-05,Payload installation,sha256,5d19080b4f02064df1e03553721cb9269413ef21e5bee832d9dd5688f01db5e6,Source: MalwareBazaar

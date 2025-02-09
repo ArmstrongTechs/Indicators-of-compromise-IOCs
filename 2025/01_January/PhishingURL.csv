@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Phishing URL
+| UUID: 99dcd461-57f5-4be6-8006-33346c474a20
+| Date: 2025-01-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-22,Network activity,domain|ip,getshop.cfd|172.67.176.86,Cloudflare IP
+2025-01-22,Network activity,url,fancourier.getshop.cfd/213783053,PaginÄƒ de phishing ce foloseÈ™te Ã®nsemnele vizuale ale firmei de curierat Fan Courier. Identificat ca urmare a unei sesizÄƒri. ÃŽn prezent sub-domeniul nu este activ.
+2025-01-22,Network activity,ip-src,185.196.10.93,Real IP

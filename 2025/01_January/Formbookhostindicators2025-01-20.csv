@@ -1,0 +1,34 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2025-01-20]
+| UUID: 8a5d26f3-6ea6-43ce-b98f-55aad00aa2ae
+| Date: 2025-01-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-20,Payload installation,filename,2093728827827.exe,Source: MalwareBazaar
+2025-01-20,Payload installation,md5,4325c56733bc218985a5cf909f5bb27f,Source: MalwareBazaar
+2025-01-20,Payload installation,sha1,173d8534b685f1eefa9c84df60592404444be599,Source: MalwareBazaar
+2025-01-20,Payload installation,sha256,9bf5d73a9924bd9e616336e200767e575569869d7d0ab959de9c7ebb37914dfc,Source: MalwareBazaar
+2025-01-20,Payload installation,filename,09payment swift copy.exe,Source: MalwareBazaar
+2025-01-20,Payload installation,md5,9b6ddf7049adfbefacd1dbdfe4350061,Source: MalwareBazaar
+2025-01-20,Payload installation,sha1,e9451cd4cae7a1d50ae0cdc17156dc685b5158f7,Source: MalwareBazaar
+2025-01-20,Payload installation,sha256,422bb7209a36ebb05303bbf0e6de6e1fcaef855b360f658eeee67ff9dd49d5bf,Source: MalwareBazaar
+2025-01-20,Payload installation,filename,Doc.exe,Source: MalwareBazaar
+2025-01-20,Payload installation,md5,a1abf120de38fd514bc29267af20289e,Source: MalwareBazaar
+2025-01-20,Payload installation,sha1,c86651b2912d1c082fa642e9169a88d64c03603a,Source: MalwareBazaar
+2025-01-20,Payload installation,sha256,da8f006e36cc66990a1a1f43539bebc73fc9531413ba2960180db55927552014,Source: MalwareBazaar
+2025-01-20,Payload installation,filename,890983726372673.exe,Source: MalwareBazaar
+2025-01-20,Payload installation,md5,0c883414fcda149f14bfe37c2bd9fc79,Source: MalwareBazaar
+2025-01-20,Payload installation,sha1,cf99ca86cfac68a7414ce261bdbc04263de1ee77,Source: MalwareBazaar
+2025-01-20,Payload installation,sha256,2040a0fdd0eddf11176cddce8489b0906e9bb6ed39b2c825f883e26a3309db57,Source: MalwareBazaar
+2025-01-20,Payload installation,filename,56cea41d758ebbd2c0eff413a0e86a5e55628d9492baa8333dccef3bcd8f9abe,Source: MalwareBazaar
+2025-01-20,Payload installation,md5,79c26f88c7aa627c855d1e03e64d60ef,Source: MalwareBazaar
+2025-01-20,Payload installation,sha1,feee99600140106abf02f72dba575697cc2962ed,Source: MalwareBazaar
+2025-01-20,Payload installation,sha256,56cea41d758ebbd2c0eff413a0e86a5e55628d9492baa8333dccef3bcd8f9abe,Source: MalwareBazaar
+2025-01-20,Payload installation,filename,Payment Slip rar.zip,Source: MalwareBazaar
+2025-01-20,Payload installation,md5,bbc309067d5933ca124b0c4bf03a9d18,Source: MalwareBazaar
+2025-01-20,Payload installation,sha1,f0ec88d85309c0dcba9e0b1eafc2c4634faf65ca,Source: MalwareBazaar
+2025-01-20,Payload installation,sha256,da09334d7e9c8a22828346e38e2c25f40fed908f635601d54f45c50008a80656,Source: MalwareBazaar

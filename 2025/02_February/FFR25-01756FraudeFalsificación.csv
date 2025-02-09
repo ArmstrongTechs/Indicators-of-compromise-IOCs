@@ -1,0 +1,16 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FFR25-01756 [Fraude] [Falsificación]
+| UUID: 2951083f-191f-47a8-896b-bd882326b3c0
+| Date: 2025-02-03
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-04,External analysis,text,"Como Agencia Nacional de Ciberseguridad (ANCI) informamos del descubrimiento por nuestros especialistas de una nueva página fraudulenta, que suplanta a una empresa, institución, producto o servicio.
+
+Se trata de una nueva página web falsa que suplanta a Salomon. ¡No hagas clic!Esto constituye una falsificación de la marca e imagen de Salomon, lo que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2025-02-04,Network activity,ip-src,165.231.65.190,IP sitio falso
+2025-02-04,Payload delivery,url,https://www.sneakerschileoutlet.com/,URL sitio falso
+2025-02-04,External analysis,attachment,2025-02-03_16h42_29.png,

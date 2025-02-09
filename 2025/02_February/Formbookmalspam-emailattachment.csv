@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook malspam - email attachment
+| UUID: e5314492-7604-4682-baa5-f7451555b2e1
+| Date: 2025-02-06
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-06,Artifacts dropped,filename|sha256,%TEMP%\Cocles|ba17386b3879b82ad3f86d20d60a6dacaf6bb40c455c946f848a1f496d97a7f3,
+2025-02-06,Artifacts dropped,filename|sha256,%TEMP%\tilths|b9e7518280944bdd3c0d8a513946d473effdce4b21fca16ad321a0bef03af0d6,
+2025-02-06,Payload delivery,malware-sample,P57M25010089.7z|b63633f6bea485768460c1b9f0a84a22,
+2025-02-06,Payload delivery,filename,P57M25010089.7z,
+2025-02-06,Payload delivery,md5,b63633f6bea485768460c1b9f0a84a22,
+2025-02-06,Payload delivery,sha1,d7dd14b5d2e444e9c65e85cd10a5686834b5f43c,
+2025-02-06,Payload delivery,sha256,5f08ccffd3867ccc1d55c58fcc6af4ebe5e8cd267531c229232e74e130d29aa3,
+2025-02-06,Other,size-in-bytes,698383,
+2025-02-06,Payload delivery,malware-sample,P57M25010089.exe|d761a472e60c495f1dff9246e32f7054,
+2025-02-06,Payload delivery,filename,P57M25010089.exe,
+2025-02-06,Payload delivery,md5,d761a472e60c495f1dff9246e32f7054,
+2025-02-06,Payload delivery,sha1,988ae88924fc8913212067827e26ee4d5523d2fb,
+2025-02-06,Payload delivery,sha256,4a24e7ebb7a03b54942cc66a19cbaa997729ebfc1048416aa593f9186a0d44de,
+2025-02-06,Other,size-in-bytes,1200128,
+2025-02-06,Payload delivery,malware-sample,9F859642-formbook.exe|452a61f3a1c4099efad4d2a25903df8e,
+2025-02-06,Payload delivery,filename,9F859642-formbook.exe,
+2025-02-06,Payload delivery,md5,452a61f3a1c4099efad4d2a25903df8e,
+2025-02-06,Payload delivery,sha1,0f134b59e7a3ee76313847dac73c4f3324ccf61f,
+2025-02-06,Payload delivery,sha256,1fa3ae449a3e741ebf578a3a36b93c18ac151d2d4b91bd776a0f333a3d0bcf27,
+2025-02-06,Other,size-in-bytes,290816,

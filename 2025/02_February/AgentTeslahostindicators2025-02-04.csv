@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2025-02-04]
+| UUID: 5e917de7-322a-4bf0-ac90-37b0f8af1633
+| Date: 2025-02-04
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-04,Payload installation,filename,CONFIDENTIAL_PAYMENT_CONFIRMATION_TRANSACTION_DETAILS_022025.pdf.exe,Source: MalwareBazaar
+2025-02-04,Payload installation,md5,8e5144e3b90bafeb56898c7ca7b4b56b,Source: MalwareBazaar
+2025-02-04,Payload installation,sha1,a6b05cde2bee4342613cc1787ca01faade79b163,Source: MalwareBazaar
+2025-02-04,Payload installation,sha256,e79f272da50c989ace58144be6791c62d1fed9067c29a43f39cc72986ff0d474,Source: MalwareBazaar
+2025-02-04,Payload installation,filename,SOA.exe,Source: MalwareBazaar
+2025-02-04,Payload installation,md5,4aa81f149764d61ccd99552f57da6718,Source: MalwareBazaar
+2025-02-04,Payload installation,sha1,a99e387514e73c7844c26a91c449deb2d80a2c9a,Source: MalwareBazaar
+2025-02-04,Payload installation,sha256,4bb53e8f6293f4328bc49ed18f542bb729d48f6841c171438e1bd42b02ed23b7,Source: MalwareBazaar
+2025-02-04,Payload installation,filename,CONFIDENTIAL_PAYMENT_CONFIRMATION_TRANSACTION_DETAILS_022025.pdf.img,Source: MalwareBazaar
+2025-02-04,Payload installation,md5,465d1d1fb71fe3b8e5ba78ee49994a4a,Source: MalwareBazaar
+2025-02-04,Payload installation,sha1,9be487c43e99f1b4eb67a1b226313fa926686c86,Source: MalwareBazaar
+2025-02-04,Payload installation,sha256,c8e5ebde24422273d0b7d0ced69da18fa429227e64f8f800b684e7dda4bf41b1,Source: MalwareBazaar

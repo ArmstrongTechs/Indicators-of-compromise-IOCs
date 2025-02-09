@@ -1,0 +1,22 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: AgentTesla host indicators [2025-01-21]
+| UUID: b15ee153-8a02-486b-8652-77167311c062
+| Date: 2025-01-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-21,Payload installation,filename,Bank confirmation.exe,Source: MalwareBazaar
+2025-01-21,Payload installation,md5,754ac7a415b8274b13cb2cc4783b5ae1,Source: MalwareBazaar
+2025-01-21,Payload installation,sha1,c4c5070f6fd6cba876b1a1c1f86e15e6d32dda59,Source: MalwareBazaar
+2025-01-21,Payload installation,sha256,578cabfe9302c26e7dc8be3fa6de971205bc0886957da1c8b29619d9c1026610,Source: MalwareBazaar
+2025-01-21,Payload installation,filename,Bank confirmation.tar,Source: MalwareBazaar
+2025-01-21,Payload installation,md5,18e9c4abe7e1ce186a6cabbb4f95a997,Source: MalwareBazaar
+2025-01-21,Payload installation,sha1,6f0a0a88f757ae22570ae6d834ab04e7c2b57cb7,Source: MalwareBazaar
+2025-01-21,Payload installation,sha256,7dff38e2b48d0a764d040536679c17b882e2f16ec8258e378672b0d3ad6ffe26,Source: MalwareBazaar
+2025-01-21,Payload installation,filename,PO47320666.rar,Source: MalwareBazaar
+2025-01-21,Payload installation,md5,7b889e160d92ab01fdcdeffd60cd84e9,Source: MalwareBazaar
+2025-01-21,Payload installation,sha1,4b302446190129442bc6e6e32a68d96aa661b18b,Source: MalwareBazaar
+2025-01-21,Payload installation,sha256,8238822db23438150e1238d8dbd57d4804342a345e1591ce046c9657ef6c699a,Source: MalwareBazaar

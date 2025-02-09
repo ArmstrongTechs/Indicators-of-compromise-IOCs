@@ -1,0 +1,16 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: FFR25-01758 [Fraude] [Falsificación]
+| UUID: 14e15c4b-113e-4706-97ca-93b4b6099fb8
+| Date: 2025-02-03
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-04,External analysis,text,"Como Agencia Nacional de Ciberseguridad (ANCI) informamos del descubrimiento por nuestros especialistas de una nueva página fraudulenta, que suplanta a una empresa, institución, producto o servicio.
+
+Se trata de una nueva página web falsa que suplanta a Hoka. ¡No hagas clic!Esto constituye una falsificación de la marca e imagen de Hoka, lo que podría afectar a usuarios, clientes y a la entidad aludida.",Resumen
+2025-02-04,Network activity,ip-src,172.67.151.193,IP sitio falso
+2025-02-04,Payload delivery,url,https://tiendahokachile.com/,URL sitio falso
+2025-02-04,External analysis,attachment,2025-02-03_16h48_04.png,

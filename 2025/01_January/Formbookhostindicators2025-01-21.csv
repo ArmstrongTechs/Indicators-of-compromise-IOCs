@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2025-01-21]
+| UUID: 63eb811f-746a-4a01-b1a4-777c562c4c36
+| Date: 2025-01-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-21,Payload installation,filename,PO#98540-00.exe,Source: MalwareBazaar
+2025-01-21,Payload installation,md5,1f18bd29f6a4fb2f71e17aea72f0ee7b,Source: MalwareBazaar
+2025-01-21,Payload installation,sha1,93eac0c896f16f36ac6e8da8724836782f6a2117,Source: MalwareBazaar
+2025-01-21,Payload installation,sha256,7ea98bae6d7f0176c1ae6cecc9bfbc8611304fe007899d8d989425c7b13f3339,Source: MalwareBazaar
+2025-01-21,Payload installation,filename,PO#98540-00.r15,Source: MalwareBazaar
+2025-01-21,Payload installation,md5,ceb3cce9a6f24f6ebd21ce0249e92b36,Source: MalwareBazaar
+2025-01-21,Payload installation,sha1,fc7afff1e142fa9622e3816e6e5a3865d1fa519f,Source: MalwareBazaar
+2025-01-21,Payload installation,sha256,3dea3001e8346a71ff338b83ca7e41758bdb79f7ba91f735a404113f84b3d522,Source: MalwareBazaar
+2025-01-21,Payload installation,filename,11001_10032.jse,Source: MalwareBazaar
+2025-01-21,Payload installation,md5,7d9d9bf2e53af7456d06ff9397e742ee,Source: MalwareBazaar
+2025-01-21,Payload installation,sha1,e65297914a9e89bd693c332c4e38d18089d30ef1,Source: MalwareBazaar
+2025-01-21,Payload installation,sha256,0c073edae8314eb90ac4d7ee3c46428a22eb787f12df3ce0465f4cb924ed05c6,Source: MalwareBazaar
+2025-01-21,Payload installation,filename,Bank Slip pdf.exe,Source: MalwareBazaar
+2025-01-21,Payload installation,md5,cf5a27ec20d9159787eda305f22f265b,Source: MalwareBazaar
+2025-01-21,Payload installation,sha1,78fa9a68d756b3c1c51cbec8139b38ca5b120254,Source: MalwareBazaar
+2025-01-21,Payload installation,sha256,9410ad58ad07e9b3ed28bc9be7a567ed733e14ca0de9faa470cc7c200ddd917a,Source: MalwareBazaar

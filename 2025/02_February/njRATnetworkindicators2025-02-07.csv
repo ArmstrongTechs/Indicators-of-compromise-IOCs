@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: njRAT network indicators [2025-02-07]
+| UUID: 4577121c-6738-4795-831a-0107b7c4d431
+| Date: 2025-02-07
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-07,Network activity,url,https://www12.0zz0.com/2014/07/28/05/976842561.jpg,Source: urlhaus
+2025-02-07,Network activity,url,https://github.com/HonkShefter/sundshefter/raw/refs/heads/main/Update.exe,Source: urlhaus
+2025-02-07,Network activity,url,https://raw.githubusercontent.com/HonkShefter/sundshefter/refs/heads/main/Update.exe,Source: urlhaus

@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: QuasarRAT host indicators [2025-01-21]
+| UUID: 4f902222-6e5a-4d93-9901-95657962b366
+| Date: 2025-01-21
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-21,Payload installation,filename,plswork.exe,Source: MalwareBazaar
+2025-01-21,Payload installation,md5,71685fb1a3701f1e27e48ba3e3ce9530,Source: MalwareBazaar
+2025-01-21,Payload installation,sha1,f460a9ecc7e35b4691532bc6c647dbe3973a51ca,Source: MalwareBazaar
+2025-01-21,Payload installation,sha256,6600b4938a679ecd93d6149fb3f8fe74c8b347106de55a4853a76ae7a204950e,Source: MalwareBazaar

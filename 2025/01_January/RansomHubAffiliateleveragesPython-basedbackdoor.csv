@@ -1,0 +1,30 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: RansomHub Affiliate leverages Python-based backdoor
+| UUID: c4e191e8-b09b-494c-90ce-21a4d0617d08
+| Date: 2025-01-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-20,Payload delivery,filename,get-pip2.pyd,
+2025-01-20,Payload delivery,sha256,5089fd6ce6d8c0fca8d9c4af7441ee9198088bfba6e200e27fe30d3bc0c6401c,
+2025-01-20,Network activity,ip-dst,185.174.101.240,
+2025-01-20,Network activity,ip-dst,38.180.81.153,
+2025-01-20,Network activity,ip-dst,104.238.61.144,
+2025-01-20,Network activity,ip-dst,88.119.175.65,
+2025-01-20,Network activity,ip-dst,23.227.193.172,
+2025-01-20,Network activity,ip-dst,185.174.101.69,
+2025-01-20,Network activity,ip-dst,92.118.112.208,
+2025-01-20,Network activity,ip-dst,37.1.212.18,
+2025-01-20,Network activity,ip-dst,108.181.182.143,
+2025-01-20,Network activity,ip-dst,92.118.112.143,
+2025-01-20,Network activity,ip-dst,45.82.85.50,
+2025-01-20,Network activity,ip-dst,108.181.115.171,
+2025-01-20,Network activity,ip-dst,172.210.82.245,
+2025-01-20,Network activity,ip-dst,88.119.175.70,
+2025-01-20,Network activity,ip-dst,5.8.63.178,
+2025-01-20,Network activity,ip-dst,45.66.248.150,
+2025-01-20,Network activity,ip-dst,23.92.31.138,
+2025-01-20,Network activity,ip-dst,173.44.141.226,

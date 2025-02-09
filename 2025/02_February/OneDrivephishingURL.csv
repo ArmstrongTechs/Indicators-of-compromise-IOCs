@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: OneDrive phishing URL
+| UUID: 35ec49ef-18a6-4d90-860b-1b2aac324117
+| Date: 2025-02-03
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-03,Network activity,domain|ip,automate-nova.ro|91.195.99.141,domeniu | IP de phishing
+2025-02-03,Network activity,url,https://www.cloud.automate-nova.ro/apps/access/,OneDrive phishing URL
+2025-02-03,Network activity,attachment,cloud.automate-nova.ro_Screenshot 2025-02-03 102813.png,PrtScr OneDrive phishing

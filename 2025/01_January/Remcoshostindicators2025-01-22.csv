@@ -1,0 +1,26 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Remcos host indicators [2025-01-22]
+| UUID: 2305c149-9612-475e-8c58-138809703b90
+| Date: 2025-01-22
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-22,Payload installation,filename,rea.exe,Source: MalwareBazaar
+2025-01-22,Payload installation,md5,29b622980bc32771d8cac127961b0ba5,Source: MalwareBazaar
+2025-01-22,Payload installation,sha1,895a13abd7ef4f8e0ea9cc1526350eccf1934b27,Source: MalwareBazaar
+2025-01-22,Payload installation,sha256,056cdf4a67164ded09385efec0912ccbb1c365c151d01b0a3633de1c4d410a18,Source: MalwareBazaar
+2025-01-22,Payload installation,filename,22.exe,Source: MalwareBazaar
+2025-01-22,Payload installation,md5,448478c46fe0884972f0047c26da0935,Source: MalwareBazaar
+2025-01-22,Payload installation,sha1,9c98d2c02b1bb2e16ac9f0a64b740edf9f807b23,Source: MalwareBazaar
+2025-01-22,Payload installation,sha256,79738b58535815ae65f86122ebd5a8bf26c6801a3238e6be5a59b77a993b60b2,Source: MalwareBazaar
+2025-01-22,Payload installation,filename,1737533347b8470e90824d6adb133b9dd9d864bb8375614dbd4b50d881007c7c9ad8cdcbf8280.dat-decoded,Source: MalwareBazaar
+2025-01-22,Payload installation,md5,f87990c8b82e23198fcbe2052ffc056d,Source: MalwareBazaar
+2025-01-22,Payload installation,sha1,474e9e95d3e12247d9b0bb1b55ac802ab1cbf031,Source: MalwareBazaar
+2025-01-22,Payload installation,sha256,89d3609547afdd337d931199db1ba4cee7c9a294aaaaaa598a1743e87e753802,Source: MalwareBazaar
+2025-01-22,Payload installation,filename,Bewijs_gerelateerd_aan_inbreuk_op_intellectuele_eigendomsrechten.zip,Source: MalwareBazaar
+2025-01-22,Payload installation,md5,64c1378b35b9401126e2c88680402af4,Source: MalwareBazaar
+2025-01-22,Payload installation,sha1,8c1c8179a1c0e7b5c00407cbffef262de07b9978,Source: MalwareBazaar
+2025-01-22,Payload installation,sha256,17ff9f56d1c5f0fb5e31c6872acbb7a82a748927e4f012d7d4f2b8ab817cad3d,Source: MalwareBazaar

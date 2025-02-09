@@ -1,0 +1,16 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Phishing collection
+| UUID: 1980f7ee-964b-4c25-b4e0-8fb6a3e3477e
+| Date: 2025-02-07
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-07,Network activity,url,https://eemode.ink/pakett,DPD
+2025-02-07,Network activity,url,https://urlink.ink/docs/pdf/,DPD
+2025-02-07,Network activity,url,https://eemode.ink,DPD
+2025-02-07,Network activity,url,https://urlink.ink,DPD
+2025-02-07,Network activity,domain,eemode.ink,DPD
+2025-02-07,Network activity,domain,urlink.ink,DPD

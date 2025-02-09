@@ -1,0 +1,53 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Formbook host indicators [2025-02-03]
+| UUID: 05c85c7a-a532-4c87-a5d2-0d009090ebd9
+| Date: 2025-02-03
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-03,Payload installation,filename,payment Copy882pdf.exe,Source: MalwareBazaar
+2025-02-03,Payload installation,md5,1e16dc0a62bdc864d61277defc19c599,Source: MalwareBazaar
+2025-02-03,Payload installation,sha1,b72b8a5d8421450cae51b53159fc6c8862f6bc8f,Source: MalwareBazaar
+2025-02-03,Payload installation,sha256,60ccea072df0c91b1b0f2cc18a88eff5e373c68f4d13c7d93e66fb17d211ec9e,Source: MalwareBazaar
+2025-02-03,Payload installation,filename,PO - STPL00472502.Vbs,Source: MalwareBazaar
+2025-02-03,Payload installation,md5,42bcbfafbdeca7386affb9a228550e2c,Source: MalwareBazaar
+2025-02-03,Payload installation,sha1,489969e108f96774d35cf4242d69389fc9492bd8,Source: MalwareBazaar
+2025-02-03,Payload installation,sha256,f4d9669b8a2d12069c2addb66132320666b60a8c69fd86aa114e6c17546b63f3,Source: MalwareBazaar
+2025-02-03,Payload installation,filename,BH406-23-2025.exe,Source: MalwareBazaar
+2025-02-03,Payload installation,md5,32b6d46592562c6b605dc83458f82d54,Source: MalwareBazaar
+2025-02-03,Payload installation,sha1,42c715681f0c1bb710f6a482e36b524c832dfa04,Source: MalwareBazaar
+2025-02-03,Payload installation,sha256,a5a6f22356e3d06be01b18f7343df6895f787f72bde164a6c7a3fb63b678f615,Source: MalwareBazaar
+2025-02-03,Payload installation,filename,Quote Revise Sweihan 7 parks.rar,Source: MalwareBazaar
+2025-02-03,Payload installation,md5,82b8ecdee2495e941380331b278722aa,Source: MalwareBazaar
+2025-02-03,Payload installation,filename,Payment Instruction.zip,Source: MalwareBazaar
+2025-02-03,Payload installation,md5,543429ae0c6169101c0150ce23fc1f1f,Source: MalwareBazaar
+2025-02-03,Payload installation,sha1,7cb9a3d8bb271f5eddefe954e9c0a4e0264d494b,Source: MalwareBazaar
+2025-02-03,Payload installation,sha256,f6ac9f17810d638e1e762197bb8701e8649def26623f4be91084c415cac0d22b,Source: MalwareBazaar
+2025-02-03,Payload installation,filename,payment confirmation.exe,Source: MalwareBazaar
+2025-02-03,Payload installation,md5,670ec4d161f3b49adb0b58058bed084b,Source: MalwareBazaar
+2025-02-03,Payload installation,sha1,5e889f32779fc120704288450fae1bd1dfbd0926,Source: MalwareBazaar
+2025-02-03,Payload installation,sha256,637ec5277677d323a35dce85ac7fb3440ec70ca14fbaa051a2df46652a4711d4,Source: MalwareBazaar
+2025-02-03,Payload installation,filename,Remittance Advice 52868102.rar,Source: MalwareBazaar
+2025-02-03,Payload installation,md5,f210a290d71f362aa15dcaba2cb5564b,Source: MalwareBazaar
+2025-02-03,Payload installation,sha1,b4179c8b3ed2151104a32294459a9ddd919ec42a,Source: MalwareBazaar
+2025-02-03,Payload installation,sha256,1899a6abcefa1c3033c8fa86821362f6ccd50a2032ea2fe5edfede0f592710b2,Source: MalwareBazaar
+2025-02-03,Payload installation,filename,payment confirmation.zip,Source: MalwareBazaar
+2025-02-03,Payload installation,md5,507068aa07571b73ac4bad854d8774c3,Source: MalwareBazaar
+2025-02-03,Payload installation,sha1,2aa361a677cbc9adb21ce131fb7bd5b4684d158e,Source: MalwareBazaar
+2025-02-03,Payload installation,sha256,49db0f5a8084b3bd660a46be3b33f497772c57cbaad095df927b7d07b73c8ffe,Source: MalwareBazaar
+2025-02-03,Payload installation,filename,Latest prominent insurance_1.lzh,Source: MalwareBazaar
+2025-02-03,Payload installation,md5,667909f732352502516c367b310d9bcb,Source: MalwareBazaar
+2025-02-03,Payload installation,sha1,bdebac6bd41292a134ea474b81d38af30df8ae7b,Source: MalwareBazaar
+2025-02-03,Payload installation,sha256,e1049277b3c77d2d27dc727d5de47345df0afa0dc04e2cbcd914e64c0a356df0,Source: MalwareBazaar
+2025-02-03,Payload installation,filename,SOA 2025_1.zip,Source: MalwareBazaar
+2025-02-04,Payload installation,filename,order confirmation.exe,Source: MalwareBazaar
+2025-02-04,Payload installation,md5,c662d081f4cd41e817cc9e246ca54633,Source: MalwareBazaar
+2025-02-04,Payload installation,sha1,0d1383e23f4b4a9aec5b8a43725af2212a5bdc83,Source: MalwareBazaar
+2025-02-04,Payload installation,sha256,d0cff61258d18def7ad7129368ecaccf5d2389eb1fd79b6cbb411c65c5783e0d,Source: MalwareBazaar
+2025-02-04,Payload installation,filename,rPO00299436pdf.exe,Source: MalwareBazaar
+2025-02-04,Payload installation,md5,81058dec298cc79bdfbc425b81c83ac4,Source: MalwareBazaar
+2025-02-04,Payload installation,sha1,638571e70a20101132659469f2e859db6fc3674b,Source: MalwareBazaar
+2025-02-04,Payload installation,sha256,2f821a2fe9c043b3d733b026c68f56b48ec6dedeb63518590fdcbec615b7919b,Source: MalwareBazaar

@@ -1,0 +1,14 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Nanocore host indicators [2025-01-20]
+| UUID: 0bd01ee8-14c9-41e5-b3ad-7cbcfe810f8b
+| Date: 2025-01-20
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-20,Payload installation,filename,jij.exe,Source: MalwareBazaar
+2025-01-20,Payload installation,md5,170766dd706bef08f2d36bb530ea2ac6,Source: MalwareBazaar
+2025-01-20,Payload installation,sha1,eadac1229aab8aa35b88982010bb3b7af3fd8537,Source: MalwareBazaar
+2025-01-20,Payload installation,sha256,b11ef309a0b65e448d06275293b125714f6a9a796eed61aba45b70eca4ec9176,Source: MalwareBazaar

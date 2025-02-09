@@ -1,0 +1,31 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Agent Tesla malspam - email attachment
+| UUID: ce03e231-61f6-4eae-bc92-a1b891e09021
+| Date: 2025-02-06
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-06,Artifacts dropped,filename|sha256,%TEMP%\hurtling|05bc7bca1106cb08bf62e1d99314d4726929f9c1122e165dd49a281837793822,
+2025-02-06,Artifacts dropped,filename|sha256,%TEMP%\nondefinition|a14bc219a9101161ef66affb684a4ae075cb6c4e5fe4e60ff0688d41cb2ae6bc,
+2025-02-06,Network activity,hostname,ftp.jeepcommerce.rs,Data exfiltration via FTP
+2025-02-06,Payload delivery,malware-sample,PO57M25010089.7z|1b6a6eb9d4042b16236d3bd7356099f2,
+2025-02-06,Payload delivery,filename,PO57M25010089.7z,
+2025-02-06,Payload delivery,md5,1b6a6eb9d4042b16236d3bd7356099f2,
+2025-02-06,Payload delivery,sha1,760f187cf3f1280e3e7e80f7b54089815f3af131,
+2025-02-06,Payload delivery,sha256,0db119fa10d20bbc2200353a9f42d62647c537b88dc36eb743bc680b68f4eb37,
+2025-02-06,Other,size-in-bytes,665710,
+2025-02-06,Payload delivery,malware-sample,PO57M25010089.exe|bca25a4cc931a48c193e1673784b0b37,
+2025-02-06,Payload delivery,filename,PO57M25010089.exe,
+2025-02-06,Payload delivery,md5,bca25a4cc931a48c193e1673784b0b37,
+2025-02-06,Payload delivery,sha1,34a405c362416f8f6e0ed623b8fe3fc407c2eb52,
+2025-02-06,Payload delivery,sha256,3d99c695c9ed17838859646f32cc14db76dd3e874da636e1f91f5dda28bf8c0f,
+2025-02-06,Other,size-in-bytes,1167872,
+2025-02-06,Payload delivery,malware-sample,b193d671-5b40-4d80-81d1-4185c1bd38cb_unpacked.exe|cdfde045260649026f282df129ccd2c9,
+2025-02-06,Payload delivery,filename,b193d671-5b40-4d80-81d1-4185c1bd38cb_unpacked.exe,
+2025-02-06,Payload delivery,md5,cdfde045260649026f282df129ccd2c9,
+2025-02-06,Payload delivery,sha1,28eb744ab5a04e23ee0598e0d8c1444d567f3cad,
+2025-02-06,Payload delivery,sha256,5a6d8482b519a308d8b959d30b35eff08363419aee3bd2b73643b60f16f7c0af,
+2025-02-06,Other,size-in-bytes,318464,

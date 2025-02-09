@@ -1,0 +1,13 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+| Title: Detecting SwaetRAT with Sigma
+| UUID: 8e1825df-96f2-4675-8bf4-b46b0c576afe
+| Date: 2025-01-24
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-01-24,Payload delivery,sha256,931a17c4b6c0f0b57d0971f96ceadf1b89265d3bb13e558b04b0871525436609,
+2025-01-24,Payload delivery,sha256,fe7315f4807f6d9665a774ba95c3276fc244a9a3d8df2d4499285c3fbc2c23fc,
+2025-01-24,Network activity,ip-dst,144.126.149.221,

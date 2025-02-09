@@ -1,0 +1,27 @@
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+"| Title: Detecting Execution, Evasion, and Persistence Techniques Used by UAC-0125"
+| UUID: c0317aca-ec8d-446d-98ca-7ce3d77dde34
+| Date: 2025-02-05
+"| Author: Armstrong Techs, Research Lab"
+| References: https://www.armstrongtechs.com/
+| TLP:CLEAR
++*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-+
+
+Date,Category,Type,Value,Comment
+2025-02-05,Payload delivery,sha256,d2049157980b7ee0a54948d4def4ab62303ca51cadaada06fb51c583ecbce1a2,
+2025-02-05,Payload delivery,sha256,86039bc8b1a6bb823f5cbf27d1a4a3b319b83d242f09ffcd96f38bbdbbaaa78f,
+2025-02-05,Network activity,domain,wvtmsouaa2gt6jmcuxj5hkfrqdss5lhecoqijt5dl7gfruueu3i5mkad.onion,
+2025-02-05,Network activity,hostname,desktopaplus.workers.dev,
+2025-02-05,Network activity,hostname,armylpus.workers.dev,
+2025-02-05,Network activity,hostname,aplusdesktop.workers.dev,
+2025-02-05,Network activity,hostname,desktopapluscom.workers.dev,
+2025-02-05,Network activity,hostname,armyplus-desktop.workers.dev,
+2025-02-05,Network activity,hostname,aplusmodgovua.workers.dev,
+2025-02-05,Payload delivery,sha256,b663e08cc267cdb7a02d5131cb04b8b05cb6ad13ac1d571c6aafe69e06bf8f80,
+2025-02-05,Payload delivery,md5,a2f355057ade20d32afc5c4192ce3986,
+2025-02-05,Payload delivery,md5,0799756f104a70cb6ce0cfc422de25db,
+2025-02-05,Payload delivery,md5,52853b39922251a4166a5b032e577e7a,
+2025-02-05,Payload delivery,sha256,8ba4c3ede1ed05a3ad7075fee503215648ec078a13523492e2e91a59fa40c8da,
+2025-02-05,Payload delivery,md5,a27a90a685dad9fc7f1c5962f278f197,
+2025-02-05,Payload delivery,sha256,4dca04f1e16cbe88776a3187031cff64981155cb3b992031250c6fed40496318,
+2025-02-05,Payload delivery,md5,ed0c7c1925ac23bd8b4d09e77aabb0ee,
